@@ -1,2 +1,6 @@
 *.pyc
 *.class
+data/
+lib/
+virtuoso-db/
+virtuoso-opensource/
