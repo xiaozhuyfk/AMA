@@ -13,7 +13,9 @@ logger = logging.getLogger(__name__)
 
 def train(dataset):
     queries = load_eval_queries(dataset)
-    print queries
+    for q in queries:
+        print q.id, q.utterance
+
 
 
 def test(dataset):
