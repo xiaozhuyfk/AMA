@@ -7,7 +7,7 @@ class FactExtractor(object):
 
     def __init__(self, fact_list_dir):
         if not os.path.exists(fact_list_dir):
-            os.mkdir(fact_list_dir)
+            os.makedirs(fact_list_dir)
         self.fact_list_dir = fact_list_dir
 
     @staticmethod
