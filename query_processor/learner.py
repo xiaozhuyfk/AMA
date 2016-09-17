@@ -52,7 +52,7 @@ def train(dataset):
     '''
     for x in backend.query(query):
         e = x[0]
-        print backend.query(query.format(e))
+        print backend.query(get_name.format(e))
 
     #for q in queries:
         #print q.id, q.utterance
