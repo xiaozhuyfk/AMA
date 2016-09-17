@@ -14,9 +14,21 @@ logger = logging.getLogger(__name__)
 
 def train(dataset):
     queries = load_eval_queries(dataset)
+    backend = modules.sparql_backend
+    query = '''
+    PREFIX fb: <http://rdf.freebase.com/ns/>
+    SELECT DISTINCT ?x
+    WHERE {
+     ?s fb:type.object.name "Albert Einstein"@EN .
+     ?s ?p ?o .
+     FILTER regex(?p, "profession") .
+     ?o fb:type.object.name ?x .
+     FILTER (LANG(?x) = "en") }
+    '''
+    print backend.query(query)
+    
     for q in queries:
         print q.id, q.utterance
-        print modules.w2v.embeddings["what"]
 
 
 
