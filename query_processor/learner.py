@@ -26,12 +26,14 @@ def train(dataset):
      FILTER (LANG(?x) = "en") }
     '''
 
-    #query = '''
-    #    SELECT ?name where {
-    #    ?x <http://rdf.freebase.com/ns/type.object.name> ?name.
-    #    FILTER (lang(?name) = "en")
-    #    } LIMIT 100
-    #'''
+    query = '''
+    PREFIX fb: <http://rdf.freebase.com/ns/>
+    SELECT ?name ?r where {
+        ?x fb:type.object.name "Albert Einsteain"@EN .
+        ?x ?r ?name .
+        FILTER (lang(?name) = "en")
+    }
+    '''
     print backend.query(query)
 
     #for q in queries:
