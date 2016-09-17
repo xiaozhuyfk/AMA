@@ -4,3 +4,10 @@ data/
 lib/
 virtuoso-db/
 virtuoso-opensource/
+build/
+corenlp-frontend/
+.idea/
+.project
+.pydevproject
+*.so
+
