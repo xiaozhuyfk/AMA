@@ -8,8 +8,8 @@ class FactExtractor(object):
         self.fact_list_dir = fact_list_dir
 
     @staticmethod
-    def init_from_args(args):
-        fact_list_dir = args.config.get('FactList',
+    def init_from_config(args, config_options):
+        fact_list_dir = config_options.get('FactList',
                                         args.dataset)
         print fact_list_dir
         return FactExtractor(fact_list_dir)
