@@ -35,6 +35,14 @@ def train(dataset):
         FILTER (lang(?name) = "en")
     }
     '''
+
+    query = '''
+        PREFIX fb: <http://rdf.freebase.com/ns/>
+        SELECT ?s where {
+            ?s fb:common.topic.alias ?o .
+            FILTER (lcase(str(?o)) = "%s") .
+        }
+        ''' % "the professor"
     print backend.query(query)
 
     #for q in queries:

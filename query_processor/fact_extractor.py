@@ -9,6 +9,13 @@ class FactExtractor(object):
         if not os.path.exists(fact_list_dir):
             os.makedirs(fact_list_dir)
         self.fact_list_dir = fact_list_dir
+        self.entities_with_alias_query = '''
+        PREFIX fb: <http://rdf.freebase.com/ns/>
+        SELECT ?s where {
+            ?s fb:common.topic.alias ?o .
+            FILTER (lcase(str(?o)) = "%s") .
+        }
+        '''
 
     @staticmethod
     def init_from_config(args, config_options):
@@ -17,5 +24,5 @@ class FactExtractor(object):
         return FactExtractor(fact_list_dir)
 
     def extract_fact_list(self, query):
-        pass
+        question = query.utterance
 
