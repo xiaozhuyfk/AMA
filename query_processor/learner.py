@@ -1,7 +1,8 @@
 import logging
 import globals
+import modules
 from evaluation import load_eval_queries
-import os
+
 
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
@@ -15,6 +16,7 @@ def train(dataset):
     queries = load_eval_queries(dataset)
     for q in queries:
         print q.id, q.utterance
+        print modules.w2v.embeddings["what"]
 
 
 
@@ -44,6 +46,9 @@ def main():
 
     # Read global config
     globals.read_configuration(args.config)
+
+    # Load modules
+    modules.init_from_config()
 
     if args.which == 'train':
         train(args.dataset)
