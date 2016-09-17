@@ -11,6 +11,12 @@ class Word2Vec(object):
     def __init__(self, model_fname):
         self.embeddings = models.Word2Vec.load(model_fname)
 
+    @staticmethod
+    def init_from_config(self, config_options):
+        embeddings_model = config_options.get('Alignment',
+                                          'word-embeddings')
+        return Word2Vec(embeddings_model)
+
     def synonym_score(self, word_a, word_b):
         """
         Returns a synonym score for the provided words.

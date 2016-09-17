@@ -26,7 +26,7 @@ def train(dataset):
      FILTER (LANG(?x) = "en") }
     '''
     print backend.query(query)
-    
+
     for q in queries:
         print q.id, q.utterance
 
@@ -60,7 +60,7 @@ def main():
     globals.read_configuration(args.config)
 
     # Load modules
-    modules.init_from_config()
+    modules.init_from_config(args)
 
     if args.which == 'train':
         train(args.dataset)
