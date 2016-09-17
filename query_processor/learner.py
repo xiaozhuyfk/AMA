@@ -17,7 +17,7 @@ def train(dataset):
     backend = modules.sparql_backend
     query = '''
     PREFIX fb: <http://rdf.freebase.com/ns/>
-    SELECT DISTINCT ?x
+    SELECT DISTINCT ?x ?o
     WHERE {
      ?s fb:type.object.name "Albert Einstein"@EN .
      ?s ?p ?o .
@@ -25,6 +25,13 @@ def train(dataset):
      ?o fb:type.object.name ?x .
      FILTER (LANG(?x) = "en") }
     '''
+
+    #query = '''
+    #    SELECT ?name where {
+    #    ?x <http://rdf.freebase.com/ns/type.object.name> ?name.
+    #    FILTER (lang(?name) = "en")
+    #    } LIMIT 100
+    #'''
     print backend.query(query)
 
     #for q in queries:
