@@ -27,8 +27,8 @@ def train(dataset):
     '''
     print backend.query(query)
 
-    for q in queries:
-        print q.id, q.utterance
+    #for q in queries:
+        #print q.id, q.utterance
 
 
 

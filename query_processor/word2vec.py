@@ -12,7 +12,7 @@ class Word2Vec(object):
         self.embeddings = models.Word2Vec.load(model_fname)
 
     @staticmethod
-    def init_from_config(self, config_options):
+    def init_from_config(config_options):
         embeddings_model = config_options.get('Alignment',
                                           'word-embeddings')
         return Word2Vec(embeddings_model)
