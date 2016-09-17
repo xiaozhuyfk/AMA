@@ -30,7 +30,7 @@ def train(dataset):
     PREFIX fb: <http://rdf.freebase.com/ns/>
     SELECT ?name where {
         ?x fb:type.object.name ?o .
-        FILTER regex(?o, "albert einstein") .
+        FILTER (lcase(str(?o)) = "albert einstein") .
         ?x fb:common.topic.alias ?name .
         FILTER (lang(?name) = "en")
     }
