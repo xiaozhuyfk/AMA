@@ -47,12 +47,12 @@ def train(dataset):
     get_name = '''
         PREFIX fb: <http://rdf.freebase.com/ns/>
         SELECT ?o where {
-            %s fb:type.object.name ?o
+            {0} fb:type.object.name ?o
         }
     '''
     for x in backend.query(query):
         e = x[0]
-        print backend.query(query % e)
+        print backend.query(query.format(e))
 
     #for q in queries:
         #print q.id, q.utterance
