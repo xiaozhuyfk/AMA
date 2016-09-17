@@ -28,9 +28,9 @@ def train(dataset):
 
     query = '''
     PREFIX fb: <http://rdf.freebase.com/ns/>
-    SELECT ?a where {
-        ?x fb:type.object.name "python" .
-        ?x fb:type.object.alias ?a .
+    SELECT ?name ?r where {
+        ?x fb:type.object.name "Albert Einstein"@EN .
+        ?x ?r ?name .
         FILTER (lang(?name) = "en")
     }
     '''
