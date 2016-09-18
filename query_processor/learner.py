@@ -51,6 +51,7 @@ def train(dataset):
         }
     '''
     for x in backend.query(query):
+        print x
         e = x[0]
         print backend.query(get_name.format(e))
 
