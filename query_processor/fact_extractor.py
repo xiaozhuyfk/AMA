@@ -48,7 +48,7 @@ class FactExtractor(object):
         if self.fact_list_on_disk(query):
             return self.load_fact_list_from_disk(query)
         else:
-            question = query.utterance.lower()
+            #question = query.utterance.lower()
             question = "how was pluto discovered"
             parse_result = modules.parser.parse(question)
             tokens = parse_result.tokens
