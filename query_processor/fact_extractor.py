@@ -42,6 +42,16 @@ class FactExtractor(object):
                                         args.dataset)
         return FactExtractor(fact_list_dir)
 
+    def store_fact_list(self, query, fact_list):
+        id = query.id
+        file_path = self.fact_list_dir + str(id)
+        writeFile(file_path, "")
+        for fact in fact_list:
+            f = [str(x) for x in fact]
+            line = "\t".join(f) + "\n"
+            writeFile(file_path, line, "a")
+
+
     def extract_fact_list_with_entity_linker(self, query):
         logger.info("Extracting facts with entity linker from question: " + query.utterance)
 
@@ -57,7 +67,6 @@ class FactExtractor(object):
             for ie in entities:
                 e = ie.entity
                 s, s_name = e.id, e.name
-                print s, s_name
                 facts = self.backend.query(self.facts_by_id_query % s)
                 for f in facts:
                     r, o = f[0], f[1]
@@ -66,11 +75,12 @@ class FactExtractor(object):
                         # skip if the entity does not have a name in Freebase
                         if o_name == []:
                             continue
-                        hex = (s, s_name, r, o, o_name)
+                        hex = (s, s_name, r, o, o_name[0])
                         result.append(hex)
                     else:
                         hex = (s, s_name, r, "ATTRIBUTE", o)
                         result.append(hex)
+            self.store_fact_list(query, result)
             return result
 
     def extract_fact_list_with_ngram(self, query):
@@ -110,10 +120,6 @@ class FactExtractor(object):
                     hex = (s, s_name, r, "ATTRIBUTE", o)
                     result.append(hex)
         return result
-
-    def store_fact_list(self):
-        pass
-
 
     def fact_list_on_disk(self, query):
         id = query.id
