@@ -29,7 +29,6 @@ class FactExtractor(object):
         }
         '''
 
-        self.
 
     @staticmethod
     def init_from_config(args, config_options):
