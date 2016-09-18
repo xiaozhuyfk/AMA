@@ -301,7 +301,7 @@ class EntityLinker:
                                           perfect_match)
                     # self.boost_entity_score(ie)
                     identified_entities.append(ie)
-        identified_entities.extend(self.identify_dates(tokens))
+        #identified_entities.extend(self.identify_dates(tokens))
         duration = (time.time() - start_time) * 1000
         identified_entities = self._filter_identical_entities(identified_entities)
         identified_entities = EntityLinker.prune_entities(identified_entities,
