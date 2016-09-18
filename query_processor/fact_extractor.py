@@ -1,7 +1,7 @@
 import logging
 import os
 import modules
-from util import readFile, writeFile
+from util import readFile, codecsWriteFile
 
 logger = logging.getLogger(__name__)
 
@@ -45,10 +45,10 @@ class FactExtractor(object):
     def store_fact_list(self, query, fact_list):
         id = query.id
         file_path = self.fact_list_dir + str(id)
-        writeFile(file_path, query.utterance + "\n")
+        codecsWriteFile(file_path, query.utterance + "\n")
         for fact in fact_list:
             line = "\t".join(fact) + "\n"
-            writeFile(file_path, line, "a")
+            codecsWriteFile(file_path, line, "a")
 
 
     def extract_fact_list_with_entity_linker(self, query):

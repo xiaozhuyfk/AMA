@@ -1,3 +1,5 @@
+import codecs
+
 # Read a file
 # filename is the path of the file, string type
 # returns the content as a string
@@ -24,4 +26,13 @@ def writeFile(filename, contents, mode = "wt"):
         fout.write(contents)
     finally:
         if (fout != None): fout.close()
+    return True
+
+def codecsWriteFile(filename, contents, mode = "wt", encoding = 'utf-8'):
+    f = None
+    try:
+        f = codecs.open(filename, mode=mode, encoding=encoding)
+        f.write(contents)
+    finally:
+        if (f != None): f.close()
     return True
