@@ -60,11 +60,8 @@ def train(dataset):
     #for q in queries:
         #print q.id, q.utterance
 
-    for i in modules.extractor.extract_fact_list_with_entity_linker(queries[0]):
-        print i
-
-
-
+    for query in queries:
+        modules.extractor.extract_fact_list_with_entity_linker(query)
 
 
 def test(dataset):
