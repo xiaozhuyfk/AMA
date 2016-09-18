@@ -51,10 +51,11 @@ def train(dataset):
             fb:%s fb:type.object.name ?o
         }
     '''
-    for x in backend.query(query):
-        s, s_name = x[0], x[1]
-        print s, s_name
+    #for x in backend.query(query):
+    #    s, s_name = x[0], x[1]
+    #    print s, s_name
 
+    print modules.extractor.extract_fact_list_with_str("the professor")
     #for q in queries:
         #print q.id, q.utterance
 

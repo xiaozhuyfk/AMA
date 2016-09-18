@@ -29,6 +29,12 @@ class FactExtractor(object):
         }
         '''
 
+        self.facts_by_id_query = '''
+        PREFIX fb: <http://rdf.freebase.com/ns/>
+        SELECT ?r ?o where {
+            fb:%s ?r ?o
+        }
+        '''
 
     @staticmethod
     def init_from_config(args, config_options):
@@ -37,6 +43,8 @@ class FactExtractor(object):
         return FactExtractor(fact_list_dir)
 
     def extract_fact_list(self, query):
+        logger.info("Extracting facts from question: " + query.utterance)
+
         if self.fact_list_on_disk(query):
             return self.load_fact_list_from_disk(query)
         else:
@@ -48,13 +56,29 @@ class FactExtractor(object):
             return []
         if len(tokens) == 1:
             token = tokens[0]
-            entities = self.backend.query(self.entities_with_alias_query % token)
+            return self.extract_fact_list_with_str(token)
+
+
 
     def extract_fact_list_with_str(self, q):
         entities = self.backend.query(self.entities_with_alias_query % q)
         result = []
         for x in entities:
             s, s_name = x[0], x[1]
+            facts = self.backend.query(self.facts_by_id_query % s)
+            for f in facts:
+                r, o = f[0], f[1]
+                if o.startswith('m.'):
+                    o_name = self.backend.query(self.name_by_id_query % o)
+                    hex = (s, s_name, r, o, o_name)
+                    result.append(hex)
+                else:
+                    hex = (s, s_name, r, "ATTRIBUTE", o)
+                    result.append(hex)
+        return result
+
+    def store_fact_list(self):
+        pass
 
 
     def fact_list_on_disk(self, query):
@@ -67,17 +91,16 @@ class FactExtractor(object):
         file_path = self.fact_list_dir + str(id)
         if os.path.isfile(file_path):
             result = []
-            facts = readFile(file_path).split('\n')
+            facts = readFile(file_path).split('\n')[1:]
 
             for fact in facts:
                 if fact:
                     hex = fact.split('\t')
-                    assert(len(hex) == 6)
 
                     result.append(
-                        ((hex[0], hex[1]),
+                        (hex[0], hex[1],
                          hex[2],
-                         (hex[3], hex[4]))
+                         hex[3], hex[4])
                     )
 
         else:
