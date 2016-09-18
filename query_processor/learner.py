@@ -47,7 +47,7 @@ def train(dataset):
     get_name = '''
         PREFIX fb: <http://rdf.freebase.com/ns/>
         SELECT ?o where {
-            :%s fb:type.object.name ?o
+            fb:%s fb:type.object.name ?o
         }
     '''
     for x in backend.query(query):
