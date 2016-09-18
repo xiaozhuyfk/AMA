@@ -38,9 +38,10 @@ def train(dataset):
 
     query = '''
         PREFIX fb: <http://rdf.freebase.com/ns/>
-        SELECT ?s where {
+        SELECT ?s ?name where {
             ?s fb:common.topic.alias ?o .
             FILTER (lcase(str(?o)) = "%s") .
+            ?s fb:type.object.name ?name
         }
         ''' % "the professor"
 
@@ -51,8 +52,8 @@ def train(dataset):
         }
     '''
     for x in backend.query(query):
-        e = x[0]
-        print backend.query(get_name % str(e))
+        s, s_name = x[0], x[1]
+        print backend.query(get_name % str(s))
 
     #for q in queries:
         #print q.id, q.utterance
