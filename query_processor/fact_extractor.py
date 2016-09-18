@@ -69,7 +69,7 @@ class FactExtractor(object):
             for f in facts:
                 r, o = f[0], f[1]
                 if o.startswith('m.'):
-                    o_name = self.backend.query(self.name_by_id_query % o)
+                    o_name = self.backend.query(self.name_by_id_query % o)[0]
                     hex = (s, s_name, r, o, o_name)
                     result.append(hex)
                 else:

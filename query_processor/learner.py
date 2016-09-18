@@ -55,7 +55,8 @@ def train(dataset):
     #    s, s_name = x[0], x[1]
     #    print s, s_name
 
-    print modules.extractor.extract_fact_list_with_str("the professor")
+    for i in modules.extractor.extract_fact_list_with_str("the professor"):
+        print i
     #for q in queries:
         #print q.id, q.utterance
 
