@@ -42,7 +42,24 @@ class FactExtractor(object):
                                         args.dataset)
         return FactExtractor(fact_list_dir)
 
-    def extract_fact_list(self, query):
+    def extract_fact_list_with_entity_linker(self, query):
+        logger.info("Extracting facts with entity linker from question: " + query.utterance)
+
+        if self.fact_list_on_disk(query):
+            return self.load_fact_list_from_disk(query)
+        else:
+            question = query.utterance.lower()
+            question = "how was pluto discovered"
+            parse_result = modules.parser.parse(question)
+            tokens = parse_result.tokens
+
+            entities = modules.entity_linker.identify_entities_in_tokens(tokens)
+            for ie in entities:
+                e = ie.entity
+                s, s_name = e.id, e.name
+                print s, s_name
+
+    def extract_fact_list_with_ngram(self, query):
         logger.info("Extracting facts from question: " + query.utterance)
 
         if self.fact_list_on_disk(query):
@@ -70,6 +87,9 @@ class FactExtractor(object):
                 r, o = f[0], f[1]
                 if o.startswith('m.'):
                     o_name = self.backend.query(self.name_by_id_query % o)
+                    # skip if the entity does not have a name in Freebase
+                    if o_name == []:
+                        continue
                     hex = (s, s_name, r, o, o_name)
                     result.append(hex)
                 else:

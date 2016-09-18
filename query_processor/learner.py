@@ -55,10 +55,14 @@ def train(dataset):
     #    s, s_name = x[0], x[1]
     #    print s, s_name
 
-    for i in modules.extractor.extract_fact_list_with_str("the professor"):
-        print i
+    #for i in modules.extractor.extract_fact_list_with_str("the professor"):
+    #    print i
     #for q in queries:
         #print q.id, q.utterance
+
+    modules.extractor.extract_fact_list_with_entity_linker(None)
+
+
 
 
 
