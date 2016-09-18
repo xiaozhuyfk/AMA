@@ -74,7 +74,7 @@ class FactExtractor(object):
                         # skip if the entity does not have a name in Freebase
                         if o_name == []:
                             continue
-                        hex = (s, s_name, r, o, o_name[0])
+                        hex = (s, s_name, r, o, o_name[0][0])
                         result.append(hex)
                     else:
                         hex = (s, s_name, r, "ATTRIBUTE", o)
