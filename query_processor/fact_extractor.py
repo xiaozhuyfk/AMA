@@ -45,7 +45,7 @@ class FactExtractor(object):
     def store_fact_list(self, query, fact_list):
         id = query.id
         file_path = self.fact_list_dir + str(id)
-        writeFile(file_path, "")
+        writeFile(file_path, query.utterance + "\n")
         for fact in fact_list:
             line = "\t".join(fact) + "\n"
             writeFile(file_path, line, "a")

@@ -60,8 +60,10 @@ def train(dataset):
     #for q in queries:
         #print q.id, q.utterance
 
-    for query in queries:
-        modules.extractor.extract_fact_list_with_entity_linker(query)
+    print modules.sparql_backend.query(get_name % "m.0k6z6xg")
+
+    #for query in queries:
+    #    modules.extractor.extract_fact_list_with_entity_linker(query)
 
 
 def test(dataset):
