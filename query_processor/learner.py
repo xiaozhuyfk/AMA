@@ -51,9 +51,8 @@ def train(dataset):
         }
     '''
     for x in backend.query(query):
-        print x
         e = x[0]
-        print backend.query(get_name.format(e))
+        print backend.query(get_name.format(str(e)))
 
     #for q in queries:
         #print q.id, q.utterance
