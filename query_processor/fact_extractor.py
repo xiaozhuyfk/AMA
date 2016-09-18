@@ -47,8 +47,7 @@ class FactExtractor(object):
         file_path = self.fact_list_dir + str(id)
         writeFile(file_path, "")
         for fact in fact_list:
-            f = [str(x) for x in fact]
-            line = "\t".join(f) + "\n"
+            line = "\t".join(fact) + "\n"
             writeFile(file_path, line, "a")
 
 
