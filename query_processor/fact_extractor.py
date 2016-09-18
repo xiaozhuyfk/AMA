@@ -102,6 +102,7 @@ class FactExtractor(object):
 
 
     def fact_list_on_disk(self, query):
+        return False
         id = query.id
         file_path = self.fact_list_dir + str(id)
         return os.path.isfile(file_path)
