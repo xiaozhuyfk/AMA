@@ -14,52 +14,6 @@ logger = logging.getLogger(__name__)
 
 def train(dataset):
     queries = load_eval_queries(dataset)
-    backend = modules.sparql_backend
-    query = '''
-    PREFIX fb: <http://rdf.freebase.com/ns/>
-    SELECT DISTINCT ?x ?o
-    WHERE {
-     ?s fb:type.object.name "Albert Einstein"@EN .
-     ?s ?p ?o .
-     FILTER regex(?p, "profession") .
-     ?o fb:type.object.name ?x .
-     FILTER (LANG(?x) = "en") }
-    '''
-
-    query = '''
-    PREFIX fb: <http://rdf.freebase.com/ns/>
-    SELECT ?name where {
-        ?x fb:type.object.name ?o .
-        FILTER (lcase(str(?o)) = "albert einstein") .
-        ?x fb:common.topic.alias ?name .
-        FILTER (lang(?name) = "en")
-    }
-    '''
-
-    query = '''
-        PREFIX fb: <http://rdf.freebase.com/ns/>
-        SELECT ?s ?name where {
-            ?s fb:common.topic.alias ?o .
-            FILTER (lcase(str(?o)) = "%s") .
-            ?s fb:type.object.name ?name
-        }
-        ''' % "the professor"
-
-    get_name = '''
-        PREFIX fb: <http://rdf.freebase.com/ns/>
-        SELECT ?o where {
-            fb:%s fb:type.object.name ?o
-        }
-    '''
-    #for x in backend.query(query):
-    #    s, s_name = x[0], x[1]
-    #    print s, s_name
-
-    #for i in modules.extractor.extract_fact_list_with_str("the professor"):
-    #    print i
-    #for q in queries:
-        #print q.id, q.utterance
-
     for query in queries:
         modules.extractor.extract_fact_list_with_entity_linker(query)
 
