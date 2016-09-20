@@ -15,7 +15,11 @@ logger = logging.getLogger(__name__)
 def train(dataset):
     queries = load_eval_queries(dataset)
     for query in queries:
-        modules.extractor.extract_fact_list_with_entity_linker(query)
+        facts = modules.extractor.extract_fact_list_with_entity_linker(query)
+
+        question = query.utterance.lower()
+        parse_result = modules.parser.parse(question)
+        tokens = parse_result.tokens
 
 
 def test(dataset):
