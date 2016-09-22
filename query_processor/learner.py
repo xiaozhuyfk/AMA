@@ -20,6 +20,7 @@ def train(dataset):
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
 
         question = query.utterance.lower()
+        logger.info("Processing question " + question)
         parse_result = modules.parser.parse(question)
         tokens = parse_result.tokens
 
