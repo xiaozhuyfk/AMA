@@ -21,6 +21,8 @@ def train(dataset):
         parse_result = modules.parser.parse(question)
         tokens = parse_result.tokens
 
+        print query.target_result
+
 
 def test(dataset):
     pass
