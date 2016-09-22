@@ -17,6 +17,14 @@ class Word2Vec(object):
                                           'word-embeddings')
         return Word2Vec(embeddings_model)
 
+    def w2v(self, word):
+        try:
+            return self.embeddings[word]
+        except KeyError:
+            logger.debug("'%s' or '%s' don't have a word vector" % (word_a,
+                                                                    word_b))
+            return None
+
     def synonym_score(self, word_a, word_b):
         """
         Returns a synonym score for the provided words.

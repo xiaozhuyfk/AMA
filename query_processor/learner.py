@@ -2,7 +2,7 @@ import logging
 import globals
 import modules
 from evaluation import load_eval_queries
-from util import codecsWriteFile
+from util import codecsWriteFile, codecsReadFile
 
 
 
@@ -14,6 +14,7 @@ logger = logging.getLogger(__name__)
 
 
 def train(dataset):
+    """
     queries = load_eval_queries(dataset)
     codecsWriteFile("trainingdata", "")
     for query in queries:
@@ -33,6 +34,10 @@ def train(dataset):
             else:
                 line = question + "\t" + "\t".join(fact) + "\t" + "0" + "\n"
                 codecsWriteFile("trainingdata", line, 'a')
+    """
+    data = codecsReadFile("trainingdata").strip().split("\n")
+    print modules.w2v.w2v("Hongyu")
+
 
 
 
