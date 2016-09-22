@@ -2,6 +2,7 @@ import logging
 import globals
 import modules
 from evaluation import load_eval_queries
+from util import codecsWriteFile
 
 
 
@@ -14,6 +15,7 @@ logger = logging.getLogger(__name__)
 
 def train(dataset):
     queries = load_eval_queries(dataset)
+    codecsWriteFile("trainingdata", "")
     for query in queries:
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
 
@@ -21,7 +23,12 @@ def train(dataset):
         parse_result = modules.parser.parse(question)
         tokens = parse_result.tokens
 
-        print query.target_result
+        answer = query.target_result
+        for fact in facts:
+            sid, s, r, oid, o = fact
+            if (o in answer):
+                line = "\t".join([question, sid, s, r, oid, o, "1"]) + "\n"
+                codecsWriteFile("trainingdata", line, 'a')
 
 
 def test(dataset):
