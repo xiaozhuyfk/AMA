@@ -130,7 +130,7 @@ class FactExtractor(object):
         file_path = self.fact_list_dir + str(id)
         if os.path.isfile(file_path):
             result = []
-            facts = readFile(file_path).split('\n')[1:]
+            facts = readFile(file_path).strip().split('\n')[1:]
 
             for fact in facts:
                 if fact:
@@ -141,6 +141,7 @@ class FactExtractor(object):
                          hex[2],
                          hex[3], hex[4])
                     )
+            return result
 
         else:
             return []
