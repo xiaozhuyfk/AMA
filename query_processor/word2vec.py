@@ -17,7 +17,7 @@ class Word2Vec(object):
                                           'word-embeddings')
         return Word2Vec(embeddings_model)
 
-    def w2v(self, word):
+    def transform(self, word):
         try:
             return self.embeddings[word]
         except KeyError:
