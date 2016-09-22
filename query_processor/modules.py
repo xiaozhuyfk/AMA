@@ -18,7 +18,7 @@ def init_from_config(args):
     config_options = globals.config
 
     w2v = Word2Vec.init_from_config(config_options)
-    sparql_backend = globals.get_sparql_backend(config_options)
-    extractor = FactExtractor.init_from_config(args, config_options)
-    parser = CoreNLPParser.init_from_config()
+    #sparql_backend = globals.get_sparql_backend(config_options)
+    #extractor = FactExtractor.init_from_config(args, config_options)
+    #parser = CoreNLPParser.init_from_config()
     #entity_linker = EntityLinker.init_from_config()
