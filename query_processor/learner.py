@@ -28,8 +28,12 @@ def train(dataset):
         for fact in facts:
             sid, s, r, oid, o = fact
             if (o in answer):
-                line = "\t".join([question, sid, s, r, oid, o, "1"]) + "\n"
+                line = question + "\t" + "\t".join(fact) + "\t" + "1" + "\n"
                 codecsWriteFile("trainingdata", line, 'a')
+            else:
+                line = question + "\t" + "\t".join(fact) + "\t" + "0" + "\n"
+                codecsWriteFile("trainingdata", line, 'a')
+
 
 
 def test(dataset):
