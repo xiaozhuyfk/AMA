@@ -28,6 +28,16 @@ def writeFile(filename, contents, mode = "wt"):
         if (fout != None): fout.close()
     return True
 
+def codecsReadFile(filename, mode = "rt", encoding = 'utf-8'):
+    # rt stands for "read text"
+    f = contents = None
+    try:
+        f = codecs.open(filename, mode=mode, encoding=encoding)
+        contents = f.read()
+    finally:
+        if (f != None): f.close()
+    return contents
+
 def codecsWriteFile(filename, contents, mode = "wt", encoding = 'utf-8'):
     f = None
     try:

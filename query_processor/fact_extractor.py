@@ -1,7 +1,7 @@
 import logging
 import os
 import modules
-from util import readFile, codecsWriteFile
+from util import readFile, codecsWriteFile, codecsReadFile
 
 logger = logging.getLogger(__name__)
 
@@ -130,7 +130,7 @@ class FactExtractor(object):
         file_path = self.fact_list_dir + str(id)
         if os.path.isfile(file_path):
             result = []
-            facts = readFile(file_path).strip().split('\n')[1:]
+            facts = codecsReadFile(file_path).strip().split('\n')[1:]
 
             for fact in facts:
                 if fact:
