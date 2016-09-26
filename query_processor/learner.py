@@ -3,7 +3,8 @@ import globals
 import modules
 from evaluation import load_eval_queries
 from util import codecsWriteFile, codecsReadFile
-
+import codecs
+import re
 
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
@@ -11,6 +12,27 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s '
                     level=logging.INFO)
 
 logger = logging.getLogger(__name__)
+
+
+def generate_data_from_file(path):
+    f = codecs.open(path, mode="rt", encoding="utf-8")
+    while True:
+        for line in f:
+            data = line.split("\t")
+            query = data[0]
+            sid = data[1]
+            s = data[2]
+            r = data[3]
+            oid = data[4]
+            o = data[5]
+            label = data[6]
+
+            if o.startswith("g."):
+                continue
+
+            tokens = modules.parser.parse(query).tokens
+
+
 
 
 def train(dataset):
@@ -37,10 +59,29 @@ def train(dataset):
     """
     #data = codecsReadFile("trainingdata").strip().split("\n")
 
-    print modules.w2v.transform("apple")
-    print len(modules.w2v.transform("apple"))
-    print len(modules.w2v.transform("camera"))
-    print len(modules.w2v.transform("machine"))
+    print modules.w2v.transform("(apple)")
+
+    """
+    f = codecs.open("trainingdata", mode="rt", encoding="utf-8"):
+    codecsWriteFile("training.dat", "")
+    for line in f:
+        data = line.split("\t")
+        query = data[0]
+        sid = data[1]
+        s = data[2]
+        r = data[3]
+        oid = data[4]
+        o = data[5]
+        label = data[6]
+
+        if o.startswith("g."):
+            continue
+
+        tokens = modules.parser.parse(query).tokens
+        relations = re.split('\.\.|\.|_', r)
+        subjects = modules.parser.parse(s).tokens
+        objects = modules.parser.parse(o).tokens
+    """
 
 
 
