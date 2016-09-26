@@ -10,4 +10,5 @@ corenlp-frontend/
 .project
 .pydevproject
 *.so
-
+fact_list/
+trainingdata
