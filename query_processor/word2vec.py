@@ -21,7 +21,7 @@ class Word2Vec(object):
         try:
             return self.embeddings[word]
         except KeyError:
-            logger.debug("'%s' don't have a word vector" % word_b)
+            logger.debug("'%s' don't have a word vector" % word)
             return None
 
     def synonym_score(self, word_a, word_b):

@@ -59,7 +59,7 @@ def train(dataset):
     """
     #data = codecsReadFile("trainingdata").strip().split("\n")
 
-    print modules.w2v.transform("?")
+    print modules.w2v.transform("123")
 
     """
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8"):
