@@ -36,8 +36,11 @@ def train(dataset):
                 codecsWriteFile("trainingdata", line, 'a')
     """
     data = codecsReadFile("trainingdata").strip().split("\n")
-    
+
     print modules.w2v.transform("apple")
+    print len(modules.w2v.transform("apple"))
+    print len(modules.w2v.transform("camera"))
+    print len(modules.w2v.transform("machine"))
 
 
 
