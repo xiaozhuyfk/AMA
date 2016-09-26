@@ -9,7 +9,7 @@ MIN_WORD_SIMILARITY = 0.4
 class Word2Vec(object):
 
     def __init__(self, model_fname):
-        self.embeddings = models.Word2Vec.load(model_fname) #models.Word2Vec.load_word2vec_format(model_fname, binary=True)
+        self.embeddings = models.Word2Vec.load_word2vec_format(model_fname, binary=True)
 
     @staticmethod
     def init_from_config(config_options):

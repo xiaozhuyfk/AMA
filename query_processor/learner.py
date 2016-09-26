@@ -35,7 +35,7 @@ def train(dataset):
                 line = question + "\t" + "\t".join(fact) + "\t" + "0" + "\n"
                 codecsWriteFile("trainingdata", line, 'a')
     """
-    data = codecsReadFile("trainingdata").strip().split("\n")
+    #data = codecsReadFile("trainingdata").strip().split("\n")
 
     print modules.w2v.transform("apple")
     print len(modules.w2v.transform("apple"))
