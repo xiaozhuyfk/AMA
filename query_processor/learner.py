@@ -200,7 +200,7 @@ def train(dataset):
 
 def test(dataset):
     model = load_model("modelstruct", "modelweights")
-    input_dim = 20
+    input_dim = 518
 
     queries = load_eval_queries(dataset)
     codecsWriteFile("result.txt", "")
