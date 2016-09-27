@@ -92,6 +92,9 @@ def train(dataset):
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
     codecsWriteFile("training.dat", "")
     longest = 0
+
+    curr = ""
+    count = 0
     for line in f:
         if line == "":
             continue
@@ -105,7 +108,11 @@ def train(dataset):
         if o.startswith("g."):
             continue
 
-        logger.info("Processing question: " + query)
+        if query != curr:
+            curr = query
+            count += 1
+            logger.info("Processing question count: " + str(count))
+
 
         #tokens = [t.token for t in modules.parser.parse(query).tokens]
         #relations = re.split('\.\.|\.|_', r)
