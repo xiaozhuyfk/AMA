@@ -42,7 +42,6 @@ def transform_to_vectors(tokens, input_dim):
         v = modules.w2v.transform(word)
         if v is not None:
             valid.append(v)
-            print v.shape
     for i in xrange(len(valid)):
         vectors[i] = valid[i]
     return vectors
@@ -89,6 +88,10 @@ def train(dataset):
                 line = question + "\t" + "\t".join(fact) + "\t" + "0" + "\n"
                 codecsWriteFile("trainingdata", line, 'a')
     """
+
+    a = modules.w2v.transform("apple")
+    print a
+    print a.shape
 
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
