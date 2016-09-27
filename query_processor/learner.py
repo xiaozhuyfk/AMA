@@ -61,7 +61,7 @@ def train(dataset):
     """
     #data = codecsReadFile("trainingdata").strip().split("\n")
 
-    f = codecs.open("trainingdata", mode="rt", encoding="utf-8"):
+    f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
     codecsWriteFile("training.dat", "")
     longest = 0
     for line in f:
