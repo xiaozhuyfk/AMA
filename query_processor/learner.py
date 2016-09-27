@@ -89,6 +89,7 @@ def train(dataset):
                 codecsWriteFile("trainingdata", line, 'a')
     """
 
+    """
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
     codecsWriteFile("training.dat", "")
     longest = 0
@@ -131,24 +132,25 @@ def train(dataset):
 
     logger.info("Longest sequence is " + str(longest))
     f.close()
-
     """
-    length = 20
 
-    main_input = Input(shape=(20, 300), name='main_input')
+    length = 518
+
+    main_input = Input(shape=(length, 300), name='main_input')
 
     lstm = LSTM(32)(main_input)
 
     main_output = Dense(1, activation='sigmoid', name='main_output')(lstm)
 
-    model = Model(input=main_input, output=main_output)
-    model.compile(optimizer='rmsprop', loss='binary_crossentropy', loss_weights=1.)
+    model = Model(input=main_input,
+                  output=main_output)
+    model.compile(optimizer='rmsprop',
+                  loss='binary_crossentropy')
     model.fit_generator(generate_data_from_file('training.dat', length),
                         samples_per_epoch=10000,
                         nb_epoch=10)
 
     save_model_to_file(model, "modelstruct", "modelweights")
-    """
 
 
 def test(dataset):
