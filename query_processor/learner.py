@@ -237,14 +237,15 @@ def test(dataset):
         scores = model.predict(inputs)
 
         predictions = []
+        print(scores)
         for i in xrange(len(scores)):
             score = scores[i]
             sid, s, r, oid, o = input_facts[i]
             if score == 1.0:
                 predictions.append(o)
 
-        result_line = "\t".join([question, str(predictions), str(answer)]) + "\n"
-        codecsWriteFile("result.txt", result_line)
+        result_line = "\t".join([question, str(answer), str(predictions)])
+        codecsWriteFile("result.txt", result_line, "a")
 
 
 def main():
