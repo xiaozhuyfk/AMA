@@ -42,6 +42,7 @@ def transform_to_vectors(tokens, input_dim):
         v = modules.w2v.transform(word)
         if v is not None:
             valid.append(v)
+            print v.shape
     for i in xrange(len(valid)):
         vectors[i] = valid[i]
     return vectors
