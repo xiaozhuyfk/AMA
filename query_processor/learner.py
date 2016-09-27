@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import logging
 import globals
 import modules
@@ -8,7 +10,6 @@ import re
 from keras.layers import Input, LSTM, Dense
 from keras.models import Model, model_from_json, Sequential
 import numpy as np
-
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -180,8 +181,8 @@ def train(dataset):
         if (len(x) >= 1000):
             break
     X = np.array(X)
-    print "haha"
-    print X.shape
+    print("haha")
+    print(X.shape)
     f.close()
 
     #model.fit_generator(generate_data_from_file('training.dat', length),
