@@ -56,12 +56,12 @@ def process_line(line, input_dim):
 def generate_data_from_file(path, input_dim):
     f = codecs.open(path, mode="rt", encoding="utf-8")
     while True:
-    for line in f:
-        line = line.strip()
-        if line == "":
-            continue
-        x, y = process_line(line, input_dim)
-        yield (x, y)
+        for line in f:
+            line = line.strip()
+            if line == "":
+                continue
+            x, y = process_line(line, input_dim)
+            yield (x, y)
     f.close()
 
 
