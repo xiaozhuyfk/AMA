@@ -5,6 +5,8 @@ from evaluation import load_eval_queries
 from util import codecsWriteFile, codecsReadFile
 import codecs
 import re
+from keras.layers import Input, Embedding, LSTM, Dense, merge
+from keras.models import Model
 
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
@@ -59,19 +61,17 @@ def train(dataset):
     """
     #data = codecsReadFile("trainingdata").strip().split("\n")
 
-    print modules.w2v.transform("123")
-
-    """
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8"):
     codecsWriteFile("training.dat", "")
+    longest = 0
     for line in f:
+        if line == "":
+            continue
         data = line.split("\t")
-        query = data[0]
-        sid = data[1]
-        s = data[2]
-        r = data[3]
-        oid = data[4]
-        o = data[5]
+        query = data[0].lower()
+        s = data[2].lower()
+        r = data[3].lower()
+        o = data[5].lower()
         label = data[6]
 
         if o.startswith("g."):
@@ -81,8 +81,11 @@ def train(dataset):
         relations = re.split('\.\.|\.|_', r)
         subjects = modules.parser.parse(s).tokens
         objects = modules.parser.parse(o).tokens
-    """
 
+        result = tokens + relations + subjects + objects + [label]
+        if (len(result) > longest):
+            longest = len(result)
+        codecsWriteFile("training.data", "\t".join(result), 'a')
 
 
 
