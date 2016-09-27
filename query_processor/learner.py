@@ -40,7 +40,7 @@ def transform_to_vectors(tokens, input_dim):
     for word in tokens:
         #word = re.sub('[!@#$%^&*,()_+=]', '', word)
         v = modules.w2v.transform(word)
-        if (v != None):
+        if v:
             valid.append(np.array(v))
     for i in xrange(len(valid)):
         vectors[i] = valid[i]
@@ -56,9 +56,8 @@ def process_line(line, input_dim):
 def generate_data_from_file(path, input_dim):
     f = codecs.open(path, mode="rt", encoding="utf-8")
     for line in f:
-        if line != "":
+        if line == "":
             continue
-
         x, y = process_line(line, input_dim)
         yield (x, y)
     f.close()
@@ -90,6 +89,7 @@ def train(dataset):
 
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     for line in f:
+        print [line]
         if line == "":
             continue
         x, y = process_line(line, 518)
