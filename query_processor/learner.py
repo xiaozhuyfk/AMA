@@ -181,9 +181,12 @@ def train(dataset):
     #                    samples_per_epoch=100,
     #                    nb_epoch=100)
 
-    model.fit(np.array(X), np.array(Y))
+    X = np.array(X)
+    print X.shape
 
-    save_model_to_file(model, "modelstruct", "modelweights")
+    #model.fit(np.array(X), np.array(Y))
+
+    #save_model_to_file(model, "modelstruct", "modelweights")
 
 
 def test(dataset):
