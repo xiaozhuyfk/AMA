@@ -89,6 +89,7 @@ def train(dataset):
 
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     for line in f:
+        line = line.strip()
         print [line]
         if line == "":
             continue
