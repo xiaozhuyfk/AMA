@@ -171,17 +171,17 @@ def train(dataset):
     X = []
     Y = []
 
-    while True:
-        for line in f:
-            line = line.strip()
-            if line == "":
-                continue
-            x, y = process_line(line, 518)
-            X.append(x)
-            Y.append(y)
+    for line in f:
+        line = line.strip()
+        if line == "":
+            continue
+        x, y = process_line(line, 518)
+        X.append(x)
+        Y.append(y)
 
-            if (len(x) >= 1000):
-                break
+        if (len(X) >= 1000):
+            break
+
 
     X = np.array(X)
     Y = np.array(Y)
