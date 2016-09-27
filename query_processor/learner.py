@@ -152,6 +152,8 @@ def train(dataset):
     model.add(LSTM(32, input_shape=(518, 300)))
     model.add(Dense(1, activation='sigmoid'))
 
+
+    print("haha")
     """
     main_input = Input(shape=(300, length, ), name='main_input')
 
@@ -161,9 +163,10 @@ def train(dataset):
 
     model = Model(input=main_input,
                   output=main_output)
+    """
+
     model.compile(optimizer='rmsprop',
                   loss='binary_crossentropy')
-    """
 
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     X = []
