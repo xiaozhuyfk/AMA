@@ -6,7 +6,8 @@ from util import codecsWriteFile, codecsReadFile
 import codecs
 import re
 from keras.layers import Input, Embedding, LSTM, Dense, merge
-from keras.models import Model
+from keras.models import Model, model_from_json
+import numpy as np
 
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
@@ -16,24 +17,52 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s '
 logger = logging.getLogger(__name__)
 
 
-def generate_data_from_file(path):
+def save_model_to_file(model, struct_file, weights_file):
+    # save model structure
+    model_struct = model.to_json()
+    open(struct_file, 'w').write(model_struct)
+
+    # save model weights
+    model.save_weights(weights_file, overwrite=True)
+
+
+def load_model(struct_file, weights_file):
+    model = model_from_json(open(struct_file, 'r').read())
+    model.compile(loss="categorical_crossentropy", optimizer='sgd')
+    model.load_weights(weights_file)
+
+    return model
+
+
+def transform_to_vectors(tokens, input_dim):
+    vectors = [np.zeros(300)] * input_dim
+    i = 0
+    valid = []
+    for word in tokens:
+        v = modules.w2v.transform(word)
+        if (v != None):
+            valid.append(np.array(v))
+    for i in xrange(len(valid)):
+        vectors[i] = valid[i]
+    return vectors
+
+
+def process_line(line, input_dim):
+    words = line.strip().split()
+    label = float(words[-1])
+    vectors = transform_to_vectors(words[:-1], input_dim)
+    return np.array(vectors), label
+
+def generate_data_from_file(path, input_dim):
     f = codecs.open(path, mode="rt", encoding="utf-8")
     while True:
         for line in f:
-            data = line.split("\t")
-            query = data[0]
-            sid = data[1]
-            s = data[2]
-            r = data[3]
-            oid = data[4]
-            o = data[5]
-            label = data[6]
-
-            if o.startswith("g."):
+            if line != "":
                 continue
 
-            tokens = modules.parser.parse(query).tokens
-
+            x, y = process_line(line, input_dim)
+            yield(x, y)
+        f.close()
 
 
 
@@ -76,23 +105,90 @@ def train(dataset):
         if o.startswith("g."):
             continue
 
-        tokens = [t.token for t in modules.parser.parse(query).tokens]
+        #tokens = [t.token for t in modules.parser.parse(query).tokens]
+        #relations = re.split('\.\.|\.|_', r)
+        #subjects = [t.token for t in modules.parser.parse(s).tokens]
+        #objects = [t.token for t in modules.parser.parse(o).tokens]
+
+        tokens = query[:-1].split()
         relations = re.split('\.\.|\.|_', r)
-        subjects = [t.token for t in modules.parser.parse(s).tokens]
-        objects = [t.token for t in modules.parser.parse(o).tokens]
+        subjects = s.split()
+        objects = o.split()
 
         result = tokens + subjects + relations + objects + [label]
         if (len(result) > longest):
             longest = len(result)
-        codecsWriteFile("training.dat", "\t".join(result), 'a')
+        codecsWriteFile("training.dat", "\t".join(result) + "\n", 'a')
 
     logger.info("Longest sequence is " + str(longest))
     f.close()
 
+    """
+    length = 20
+
+    main_input = Input(shape=(20, 300), name='main_input')
+
+    lstm = LSTM(32)(main_input)
+
+    main_output = Dense(1, activation='sigmoid', name='main_output')(lstm)
+
+    model = Model(input=main_input, output=main_output)
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy', loss_weights=1.)
+    model.fit_generator(generate_data_from_file('training.dat', length),
+                        samples_per_epoch=10000,
+                        nb_epoch=10)
+
+    save_model_to_file(model, "modelstruct", "modelweights")
+    """
 
 
 def test(dataset):
-    pass
+    model = load_model("modelstruct", "modelweights")
+    input_dim = 20
+
+    queries = load_eval_queries(dataset)
+    codecsWriteFile("result.txt", "")
+    for query in queries:
+        facts = modules.extractor.extract_fact_list_with_entity_linker(query)
+
+        question = query.utterance.lower()
+        logger.info("Testing question " + question)
+        #tokens = [t.token for t in modules.parser.parse(question).tokens]
+        tokens = question[:-1].split()
+        answer = query.target_result
+
+        input_facts = []
+        for fact in facts:
+            sid, s, r, oid, o = fact
+            if not o.startswith("g."):
+                input_facts.append(fact)
+
+        inputs = []
+        for fact in input_facts:
+            sid, s, r, oid, o = fact
+
+            relations = re.split('\.\.|\.|_', r)
+            #subjects = [t.token for t in modules.parser.parse(s).tokens]
+            #objects = [t.token for t in modules.parser.parse(o).tokens]
+            subjects = s.split()
+            objects = o.split()
+
+            sentence = tokens + subjects + relations + objects
+            input_vector = transform_to_vectors(sentence, input_dim)
+            inputs.append(input_vector)
+
+        inputs = np.array(inputs)
+        scores = model.predict(inputs)
+
+        predictions = []
+        for i in xrange(len(scores)):
+            score = scores[i]
+            sid, s, r, oid, o = input_facts[i]
+            if score == 1.0:
+                predictions.append(o)
+
+        result_line = "\t".join([question, str(predictions), str(answer)]) + "\n"
+        codecsWriteFile("result.txt", result_line)
 
 
 def main():
