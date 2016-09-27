@@ -146,13 +146,11 @@ def train(dataset):
     f.close()
     """
 
-    """
     length = 518
 
     model = Sequential()
     model.add(LSTM(32, input_shape=(518, 300)))
     model.add(Dense(1, activation='sigmoid'))
-    """
 
     """
     main_input = Input(shape=(300, length, ), name='main_input')
@@ -181,15 +179,14 @@ def train(dataset):
         if (len(x) >= 1000):
             break
     X = np.array(X)
-    print("haha")
-    print(X.shape)
+    Y = np.array(Y)
     f.close()
 
     #model.fit_generator(generate_data_from_file('training.dat', length),
     #                    samples_per_epoch=100,
     #                    nb_epoch=100)
 
-    #model.fit(np.array(X), np.array(Y))
+    model.fit(X, Y)
 
     #save_model_to_file(model, "modelstruct", "modelweights")
 
