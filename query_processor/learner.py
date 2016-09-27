@@ -88,6 +88,7 @@ def train(dataset):
         codecsWriteFile("training.data", "\t".join(result), 'a')
 
     logger.info("Longest sequence is " + str(longest))
+    f.close()
 
 
 
