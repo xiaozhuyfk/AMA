@@ -163,6 +163,7 @@ def train(dataset):
     """
     model.compile(optimizer='rmsprop',
                   loss='binary_crossentropy')
+
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     X = []
     Y = []
@@ -176,6 +177,7 @@ def train(dataset):
 
         if (len(x) >= 1000):
             break
+    f.close()
 
     #model.fit_generator(generate_data_from_file('training.dat', length),
     #                    samples_per_epoch=100,
