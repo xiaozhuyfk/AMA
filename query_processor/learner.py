@@ -5,7 +5,7 @@ from evaluation import load_eval_queries
 from util import codecsWriteFile, codecsReadFile
 import codecs
 import re
-from keras.layers import Input, Embedding, LSTM, Dense, merge
+from keras.layers import Input, LSTM, Dense
 from keras.models import Model, model_from_json
 import numpy as np
 
@@ -55,13 +55,12 @@ def process_line(line, input_dim):
 
 def generate_data_from_file(path, input_dim):
     f = codecs.open(path, mode="rt", encoding="utf-8")
-    while True:
-        for line in f:
-            if line != "":
-                continue
+    for line in f:
+        if line != "":
+            continue
 
-            x, y = process_line(line, input_dim)
-            yield (x, y)
+        x, y = process_line(line, input_dim)
+        yield (x, y)
     f.close()
 
 
