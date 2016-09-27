@@ -191,7 +191,7 @@ def train(dataset):
 
     model.fit(X, Y)
 
-    #save_model_to_file(model, "modelstruct", "modelweights")
+    save_model_to_file(model, "modelstruct", "modelweights")
 
 
 def test(dataset):
