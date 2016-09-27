@@ -184,6 +184,7 @@ def train(dataset):
     #                    nb_epoch=100)
 
     X = np.array(X)
+    print "haha"
     print X.shape
 
     #model.fit(np.array(X), np.array(Y))
