@@ -165,7 +165,6 @@ def train(dataset):
 
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
 
-    """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     X = []
     Y = []
@@ -178,20 +177,24 @@ def train(dataset):
         X.append(x)
         Y.append(y)
 
-        if (len(X) >= 1000):
-            break
+        if (len(X) >= 10000):
+            X = np.array(X)
+            Y = np.array(Y)
+            model.fit(X, Y)
 
+            X = []
+            Y = []
 
-    X = np.array(X)
-    Y = np.array(Y)
+    if X != []:
+        X = np.array(X)
+        Y = np.array(Y)
+        model.fit(X, Y)
 
-    print(X.shape)
     f.close()
-    """
 
-    model.fit_generator(generate_data_from_file('training.dat', length),
-                        samples_per_epoch=100,
-                        nb_epoch=10)
+    #model.fit_generator(generate_data_from_file('training.dat', length),
+    #                    samples_per_epoch=100,
+    #                    nb_epoch=10)
 
     #model.fit(X, Y)
 
@@ -244,7 +247,7 @@ def test(dataset):
             if score == 1.0:
                 predictions.append(o)
 
-        result_line = "\t".join([question, str(answer), str(predictions)])
+        result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
         codecsWriteFile("result.txt", result_line, "a")
 
 
