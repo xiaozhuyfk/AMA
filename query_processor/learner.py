@@ -38,7 +38,7 @@ def transform_to_vectors(tokens, input_dim):
     vectors = [np.zeros(300)] * input_dim
     valid = []
     for word in tokens:
-        word = re.sub('[!@#$%^&*,()_+=]', '', word)
+        #word = re.sub('[!@#$%^&*,()_+=]', '', word)
         v = modules.w2v.transform(word)
         if (v != None):
             valid.append(np.array(v))
@@ -61,8 +61,8 @@ def generate_data_from_file(path, input_dim):
                 continue
 
             x, y = process_line(line, input_dim)
-            yield(x, y)
-        f.close()
+            yield (x, y)
+    f.close()
 
 
 
