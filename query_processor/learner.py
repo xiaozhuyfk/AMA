@@ -167,6 +167,7 @@ def train(dataset):
 
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
 
+    """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     X = []
     Y = []
@@ -188,12 +189,13 @@ def train(dataset):
 
     print(X.shape)
     f.close()
+    """
 
-    #model.fit_generator(generate_data_from_file('training.dat', length),
-    #                    samples_per_epoch=100,
-    #                    nb_epoch=100)
+    model.fit_generator(generate_data_from_file('training.dat', length),
+                        samples_per_epoch=10000,
+                        nb_epoch=10)
 
-    model.fit(X, Y)
+    #model.fit(X, Y)
 
     save_model_to_file(model, "modelstruct", "modelweights")
 
