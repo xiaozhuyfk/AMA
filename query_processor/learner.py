@@ -88,6 +88,12 @@ def train(dataset):
                 codecsWriteFile("trainingdata", line, 'a')
     """
 
+    f = codecs.open("training.dat", mode="rt", encoding="utf-8")
+    for line in f:
+        x, y = process_line(line, 518)
+        print x
+        print y
+
     """
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
     codecsWriteFile("training.dat", "")
@@ -133,6 +139,8 @@ def train(dataset):
     f.close()
     """
 
+    """
+
     length = 518
 
     main_input = Input(shape=(length, 300), name='main_input')
@@ -150,6 +158,7 @@ def train(dataset):
                         nb_epoch=100)
 
     save_model_to_file(model, "modelstruct", "modelweights")
+    """
 
 
 def test(dataset):
