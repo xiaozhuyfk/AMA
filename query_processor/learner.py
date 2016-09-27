@@ -173,7 +173,7 @@ def train(dataset):
         line = line.strip()
         if line == "":
             continue
-        x, y = process_line(line, length)
+        x, y = process_line(line, 518)
         X.append(x)
         Y.append(y)
 
