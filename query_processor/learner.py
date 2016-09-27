@@ -51,10 +51,11 @@ def process_line(line, input_dim):
     words = line.strip().split()
     label = float(words[-1])
     vectors = transform_to_vectors(words[:-1], input_dim)
-    return np.array(vectors), label
+    return vectors, label
 
 def generate_data_from_file(path, input_dim):
     f = codecs.open(path, mode="rt", encoding="utf-8")
+    while True:
     for line in f:
         line = line.strip()
         if line == "":
