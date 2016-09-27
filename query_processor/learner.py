@@ -179,15 +179,14 @@ def train(dataset):
 
         if (len(x) >= 1000):
             break
+    X = np.array(X)
+    print "haha"
+    print X.shape
     f.close()
 
     #model.fit_generator(generate_data_from_file('training.dat', length),
     #                    samples_per_epoch=100,
     #                    nb_epoch=100)
-
-    X = np.array(X)
-    print "haha"
-    print X.shape
 
     #model.fit(np.array(X), np.array(Y))
 
