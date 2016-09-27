@@ -146,7 +146,7 @@ def train(dataset):
 
     length = 518
 
-    main_input = Input(shape=(length, 300, ), name='main_input')
+    main_input = Input(shape=(, length, 300), name='main_input')
 
     lstm = LSTM(32)(main_input)
 
