@@ -90,6 +90,7 @@ def train(dataset):
 
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     for line in f:
+        print line
         x, y = process_line(line, 518)
         print x
         print y
