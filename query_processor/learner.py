@@ -81,10 +81,10 @@ def train(dataset):
         subjects = [t.token for t in modules.parser.parse(s).tokens]
         objects = [t.token for t in modules.parser.parse(o).tokens]
 
-        result = tokens + relations + subjects + objects + [label]
+        result = tokens + subjects + relations + objects + [label]
         if (len(result) > longest):
             longest = len(result)
-        codecsWriteFile("training.data", "\t".join(result), 'a')
+        codecsWriteFile("training.dat", "\t".join(result), 'a')
 
     logger.info("Longest sequence is " + str(longest))
     f.close()
