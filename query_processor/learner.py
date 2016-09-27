@@ -105,6 +105,8 @@ def train(dataset):
         if o.startswith("g."):
             continue
 
+        logger.info("Processing question: " + query)
+
         #tokens = [t.token for t in modules.parser.parse(query).tokens]
         #relations = re.split('\.\.|\.|_', r)
         #subjects = [t.token for t in modules.parser.parse(s).tokens]
