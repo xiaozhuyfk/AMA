@@ -62,7 +62,7 @@ def generate_data_from_file(path, input_dim):
             if line == "":
                 continue
             x, y = process_line(line, input_dim)
-            yield (x, y)
+            yield (np.array([x]), np.array([y]))
     f.close()
 
 
@@ -152,8 +152,6 @@ def train(dataset):
     model.add(LSTM(32, input_shape=(518, 300)))
     model.add(Dense(1, activation='sigmoid'))
 
-
-    print("haha")
     """
     main_input = Input(shape=(300, length, ), name='main_input')
 
