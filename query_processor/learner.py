@@ -36,9 +36,9 @@ def load_model(struct_file, weights_file):
 
 def transform_to_vectors(tokens, input_dim):
     vectors = [np.zeros(300)] * input_dim
-    i = 0
     valid = []
     for word in tokens:
+        word = re.sub('[!@#$%^&*,()_+=]', '', word)
         v = modules.w2v.transform(word)
         if (v != None):
             valid.append(np.array(v))
