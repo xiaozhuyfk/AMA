@@ -89,10 +89,6 @@ def train(dataset):
                 codecsWriteFile("trainingdata", line, 'a')
     """
 
-    a = modules.w2v.transform("apple")
-    print a
-    print a.shape
-
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     for line in f:
@@ -167,9 +163,25 @@ def train(dataset):
     """
     model.compile(optimizer='rmsprop',
                   loss='binary_crossentropy')
-    model.fit_generator(generate_data_from_file('training.dat', length),
-                        samples_per_epoch=100,
-                        nb_epoch=100)
+    f = codecs.open("training.dat", mode="rt", encoding="utf-8")
+    X = []
+    Y = []
+    for line in f:
+        line = line.strip()
+        if line == "":
+            continue
+        x, y = process_line(line, length)
+        X.append(x)
+        Y.append(y)
+
+        if (len(x) >= 1000):
+            break
+
+    #model.fit_generator(generate_data_from_file('training.dat', length),
+    #                    samples_per_epoch=100,
+    #                    nb_epoch=100)
+
+    model.fit(np.array(X), np.array(Y))
 
     save_model_to_file(model, "modelstruct", "modelweights")
 
