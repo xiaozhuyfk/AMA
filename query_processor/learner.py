@@ -6,7 +6,7 @@ from util import codecsWriteFile, codecsReadFile
 import codecs
 import re
 from keras.layers import Input, LSTM, Dense
-from keras.models import Model, model_from_json
+from keras.models import Model, model_from_json, Sequential
 import numpy as np
 
 
