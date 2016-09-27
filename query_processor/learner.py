@@ -147,6 +147,7 @@ def train(dataset):
     model.compile(optimizer='rmsprop',
                   loss='binary_crossentropy')
     model.fit_generator(generate_data_from_file('training.dat', length),
+                        samples_per_epoch=10000,
                         nb_epoch=100)
 
     save_model_to_file(model, "modelstruct", "modelweights")
