@@ -39,7 +39,7 @@ def transform_to_vectors(tokens, input_dim):
     vectors = np.zeros((input_dim, 300))
     valid = []
     for word in tokens:
-        #word = re.sub('[!@#$%^&*,()_+=]', '', word)
+        word = re.sub('[!@#$%^&*,()_+=]', '', word)
         v = modules.w2v.transform(word)
         if v is not None:
             valid.append(v)
