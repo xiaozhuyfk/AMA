@@ -59,7 +59,6 @@ def train(dataset):
                 line = question + "\t" + "\t".join(fact) + "\t" + "0" + "\n"
                 codecsWriteFile("trainingdata", line, 'a')
     """
-    #data = codecsReadFile("trainingdata").strip().split("\n")
 
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
     codecsWriteFile("training.dat", "")
@@ -77,10 +76,10 @@ def train(dataset):
         if o.startswith("g."):
             continue
 
-        tokens = modules.parser.parse(query).tokens
+        tokens = [t.token for t in modules.parser.parse(query).tokens]
         relations = re.split('\.\.|\.|_', r)
-        subjects = modules.parser.parse(s).tokens
-        objects = modules.parser.parse(o).tokens
+        subjects = [t.token for t in modules.parser.parse(s).tokens]
+        objects = [t.token for t in modules.parser.parse(o).tokens]
 
         result = tokens + relations + subjects + objects + [label]
         if (len(result) > longest):
