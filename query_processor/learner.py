@@ -190,7 +190,7 @@ def train(dataset):
     """
 
     model.fit_generator(generate_data_from_file('training.dat', length),
-                        samples_per_epoch=10000,
+                        samples_per_epoch=100,
                         nb_epoch=10)
 
     #model.fit(X, Y)
