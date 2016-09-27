@@ -147,7 +147,7 @@ def train(dataset):
     length = 518
 
     model = Sequential()
-    model.add(LSTM(32, input_dim=300, input_length=length))
+    model.add(LSTM(32, input_shape=(None, 518, 300)))
     model.add(Dense(1, activation='sigmoid'))
 
     """
