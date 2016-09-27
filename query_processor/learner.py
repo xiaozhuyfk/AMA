@@ -40,7 +40,7 @@ def transform_to_vectors(tokens, input_dim):
     for word in tokens:
         #word = re.sub('[!@#$%^&*,()_+=]', '', word)
         v = modules.w2v.transform(word)
-        if v:
+        if v is not None:
             valid.append(np.array(v))
     for i in xrange(len(valid)):
         vectors[i] = valid[i]
