@@ -170,19 +170,23 @@ def train(dataset):
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     X = []
     Y = []
-    for line in f:
-        line = line.strip()
-        if line == "":
-            continue
-        x, y = process_line(line, 518)
-        print(y)
-        X.append(x)
-        Y.append(y)
 
-        if (len(x) >= 1000):
-            break
+    while True:
+        for line in f:
+            line = line.strip()
+            if line == "":
+                continue
+            x, y = process_line(line, 518)
+            X.append(x)
+            Y.append(y)
+
+            if (len(x) >= 1000):
+                break
+
     X = np.array(X)
     Y = np.array(Y)
+
+    print(X.shape)
     f.close()
 
     #model.fit_generator(generate_data_from_file('training.dat', length),
