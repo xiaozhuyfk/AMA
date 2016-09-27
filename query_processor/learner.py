@@ -165,8 +165,7 @@ def train(dataset):
                   output=main_output)
     """
 
-    model.compile(optimizer='rmsprop',
-                  loss='binary_crossentropy')
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
 
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     X = []
@@ -176,6 +175,7 @@ def train(dataset):
         if line == "":
             continue
         x, y = process_line(line, 518)
+        print(y)
         X.append(x)
         Y.append(y)
 
