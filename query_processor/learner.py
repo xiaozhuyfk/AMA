@@ -36,23 +36,19 @@ def load_model(struct_file, weights_file):
     return model
 
 
-def transform_to_vectors(tokens, input_dim):
-    vectors = np.zeros((input_dim, 300))
+def transform_to_vectors(tokens):
     valid = []
     for word in tokens:
-        word = re.sub('[?!@#$%^&*,()_+=]', '', word)
         v = modules.w2v.transform(word)
         if v is not None:
             valid.append(v)
-    for i in xrange(len(valid)):
-        vectors[i] = valid[i]
-    return vectors
+    return np.array(valid)
 
 
-def process_line(line, input_dim):
+def process_line(line):
     words = line.strip().split()
     label = float(words[-1])
-    vectors = transform_to_vectors(words[:-1], input_dim)
+    vectors = transform_to_vectors(words[:-1])
     return vectors, label
 
 def generate_data_from_file(path, input_dim):
@@ -62,7 +58,7 @@ def generate_data_from_file(path, input_dim):
             line = line.strip()
             if line == "":
                 continue
-            x, y = process_line(line, input_dim)
+            x, y = process_line(line)
             yield (np.array([x]), np.array([y]))
     f.close()
 
@@ -138,9 +134,6 @@ def process_trainingdata(dataset):
 
 def train(dataset):
 
-
-    print(modules.w2v.transform("PEN"))
-
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     for line in f:
@@ -197,12 +190,26 @@ def train(dataset):
     f.close()
     """
 
-    """
     model = Sequential()
     model.add(LSTM(32, input_shape=(None, 300)))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
 
+    X = []
+    Y = []
+    lines = codecsReadFile("training_pos.dat").strip().split("\n")
+    for line in lines:
+        x, y = process_line(line)
+        X.append(x)
+        Y.append(y)
+
+    X = np.array(X)
+    Y = np.array(Y)
+
+    model.fit(X, Y)
+    save_model_to_file(model, "modelstruct", "modelweights")
+
+    """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     X = []
     Y = []
