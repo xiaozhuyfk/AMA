@@ -138,6 +138,8 @@ def process_trainingdata(dataset):
 
 def train(dataset):
 
+    process_trainingdata(dataset)
+
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
     for line in f:
