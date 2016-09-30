@@ -182,9 +182,9 @@ def train(dataset):
     Y = []
     lines = codecsReadFile("training_pos.dat").strip().split("\n")
     for line in lines:
-        x, y = process_line(line)
-        X.append(x)
-        Y.append(y)
+        vectors, label = process_line(line)
+        X.append(vectors)
+        Y.append(label)
 
     X = np.array(X)
     Y = np.array(Y)
