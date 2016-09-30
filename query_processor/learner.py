@@ -40,7 +40,7 @@ def transform_to_vectors(tokens, input_dim):
     vectors = np.zeros((input_dim, 300))
     valid = []
     for word in tokens:
-        word = re.sub('[!@#$%^&*,()_+=]', '', word)
+        word = re.sub('[?!@#$%^&*,()_+=]', '', word)
         v = modules.w2v.transform(word)
         if v is not None:
             valid.append(v)
@@ -68,15 +68,14 @@ def generate_data_from_file(path, input_dim):
 
 
 
-def train(dataset):
-
+def process_trainingdata(dataset):
     queries = load_eval_queries(dataset)
     codecsWriteFile("training_pos.dat", "")
     count = 0
     for query in queries:
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
 
-        question = query.utterance.lower()
+        question = query.utterance.lower()[:-1]
         logger.info("Processing question " + str(query.id))
         hasAnwer = False
 
@@ -106,9 +105,9 @@ def train(dataset):
             relations = re.split("\.\.|\.", r)[:-2]
             rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
 
-            tokens = question.split()
-            subjects = s.split()
-            objects = o.split()
+            tokens = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in question.split()]
+            subjects = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in s.split()]
+            objects = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in o.split()]
 
             line = "\t".join(tokens + subjects + rels + objects + ["1.0"]) + "\n"
             codecsWriteFile("training_pos.dat", line, "a")
@@ -127,9 +126,9 @@ def train(dataset):
             relations = re.split("\.\.|\.", r)[:-2]
             rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
 
-            tokens = question.split()
-            subjects = s.split()
-            objects = o.split()
+            tokens = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in question.split()]
+            subjects = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in s.split()]
+            objects = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in o.split()]
 
             line = "\t".join(tokens + subjects + rels + objects + ["0.0"]) + "\n"
             codecsWriteFile("training_pos.dat", line, "a")
@@ -137,6 +136,7 @@ def train(dataset):
     logger.info(str(count) + " questions do not have answers.")
 
 
+def train(dataset):
 
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
