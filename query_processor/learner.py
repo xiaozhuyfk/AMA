@@ -105,9 +105,9 @@ def process_trainingdata(dataset):
             relations = re.split("\.\.|\.", r)[:-2]
             rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
 
-            tokens = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in question.split()]
-            subjects = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in s.split()]
-            objects = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in o.split()]
+            tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
+            subjects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()]
+            objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
 
             line = "\t".join(tokens + subjects + rels + objects + ["1.0"]) + "\n"
             codecsWriteFile("training_pos.dat", line, "a")
@@ -126,9 +126,9 @@ def process_trainingdata(dataset):
             relations = re.split("\.\.|\.", r)[:-2]
             rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
 
-            tokens = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in question.split()]
-            subjects = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in s.split()]
-            objects = [re.sub('[?!@#$%^&*,()_+=]', '', t) for t in o.split()]
+            tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
+            subjects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()]
+            objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
 
             line = "\t".join(tokens + subjects + rels + objects + ["0.0"]) + "\n"
             codecsWriteFile("training_pos.dat", line, "a")
