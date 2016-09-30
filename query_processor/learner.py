@@ -106,7 +106,7 @@ def train(dataset):
             relations = re.split("\.\.|\.", r)[:-2]
             rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
 
-            tokens = questions.split()
+            tokens = question.split()
             subjects = s.split()
             objects = o.split()
 
