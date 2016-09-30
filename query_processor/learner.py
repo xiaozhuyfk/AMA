@@ -133,18 +133,6 @@ def process_trainingdata(dataset):
 
 
 def train(dataset):
-
-    """
-    f = codecs.open("training.dat", mode="rt", encoding="utf-8")
-    for line in f:
-        line = line.strip()
-        if line == "":
-            continue
-        x, y = process_line(line, 518)
-        print x
-        print y
-    """
-
     """
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
     codecsWriteFile("training_pos.dat", "")
@@ -190,11 +178,6 @@ def train(dataset):
     f.close()
     """
 
-    model = Sequential()
-    model.add(LSTM(32, input_shape=(None, 300)))
-    model.add(Dense(1, activation='sigmoid'))
-    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
-
     X = []
     Y = []
     lines = codecsReadFile("training_pos.dat").strip().split("\n")
@@ -206,6 +189,12 @@ def train(dataset):
     X = np.array(X)
     Y = np.array(Y)
 
+    print(X.shape)
+
+    model = Sequential()
+    model.add(LSTM(32, input_shape=(None, 300)))
+    model.add(Dense(1, activation='sigmoid'))
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     model.fit(X, Y)
     save_model_to_file(model, "modelstruct", "modelweights")
 
