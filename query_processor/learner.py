@@ -138,9 +138,8 @@ def process_trainingdata(dataset):
 
 def train(dataset):
 
-    #process_trainingdata(dataset)
 
-    print(modules.w2v.transform("Farrell"))
+    print(modules.w2v.transform("PEN"))
 
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
