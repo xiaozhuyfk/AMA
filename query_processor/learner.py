@@ -140,7 +140,7 @@ def train(dataset):
 
     #process_trainingdata(dataset)
 
-    print(modules.w2v.transform("Paris"))
+    print(modules.w2v.transform("Farrell"))
 
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
