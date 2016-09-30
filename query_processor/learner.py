@@ -10,6 +10,7 @@ import re
 from keras.layers import Input, LSTM, Dense
 from keras.models import Model, model_from_json, Sequential
 import numpy as np
+import random
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -68,27 +69,74 @@ def generate_data_from_file(path, input_dim):
 
 
 def train(dataset):
-    """
+
     queries = load_eval_queries(dataset)
-    codecsWriteFile("trainingdata", "")
+    codecsWriteFile("training_pos.dat", "")
+    count = 0
     for query in queries:
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
 
         question = query.utterance.lower()
-        logger.info("Processing question " + question)
-        parse_result = modules.parser.parse(question)
-        tokens = parse_result.tokens
+        logger.info("Processing question " + str(query.id))
+        hasAnwer = False
 
         answer = query.target_result
+        correct = []
+        wrong = []
         for fact in facts:
             sid, s, r, oid, o = fact
+            if (o.startswith("g.")):
+                continue
             if (o in answer):
-                line = question + "\t" + "\t".join(fact) + "\t" + "1" + "\n"
-                codecsWriteFile("trainingdata", line, 'a')
+                #line = question + "\t" + "\t".join(fact) + "\t" + "1" + "\n"
+                #codecsWriteFile("trainingdata", line, 'a')
+                correct.append(fact)
+                hasAnwer = True
             else:
-                line = question + "\t" + "\t".join(fact) + "\t" + "0" + "\n"
-                codecsWriteFile("trainingdata", line, 'a')
-    """
+                #line = question + "\t" + "\t".join(fact) + "\t" + "0" + "\n"
+                #codecsWriteFile("trainingdata", line, 'a')
+                wrong.append(fact)
+
+        if not hasAnwer:
+            logger.info(question + " does not have an answer.")
+            count += 1
+
+        for fact in correct:
+            sid, s, r, oid, o = fact
+            relations = re.split("\.\.|\.", r)[:-2]
+            rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
+
+            tokens = questions.split()
+            subjects = s.split()
+            objects = o.split()
+
+            line = "\t".join(tokens + subjects + rels + objects + ["1.0"])
+            codecsWriteFile("training_pos.dat", line, "a")
+
+        sample = wrong
+        if len(correct) == 0:
+            if len(wrong) > 5:
+                sample = random.sample(wrong, 5)
+        elif len(correct) * 5 > len(wrong):
+            sample = wrong
+        else:
+            sample = random.sample(wrong, len(correct) * 5)
+
+        for fact in sample:
+            sid, s, r, oid, o = fact
+            relations = re.split("\.\.|\.", r)[:-2]
+            rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
+
+            tokens = questions.split()
+            subjects = s.split()
+            objects = o.split()
+
+            line = "\t".join(tokens + subjects + rels + objects + ["0.0"])
+            codecsWriteFile("training_pos.dat", line, "a")
+
+    logger.info(str(count) + " questions do not have answers.")
+
+
 
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
@@ -103,7 +151,7 @@ def train(dataset):
 
     """
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
-    codecsWriteFile("training.dat", "")
+    codecsWriteFile("training_pos.dat", "")
     longest = 0
 
     curr = ""
@@ -146,23 +194,10 @@ def train(dataset):
     f.close()
     """
 
-    length = 518
-
+    """
     model = Sequential()
-    model.add(LSTM(32, input_shape=(518, 300)))
+    model.add(LSTM(32, input_shape=(None, 300)))
     model.add(Dense(1, activation='sigmoid'))
-
-    """
-    main_input = Input(shape=(300, length, ), name='main_input')
-
-    lstm = LSTM(32)(main_input)
-
-    main_output = Dense(1, activation='sigmoid', name='main_output')(lstm)
-
-    model = Model(input=main_input,
-                  output=main_output)
-    """
-
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
 
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
@@ -177,7 +212,7 @@ def train(dataset):
         X.append(x)
         Y.append(y)
 
-        if (len(X) >= 10000):
+        if (len(X) >= 32):
             X = np.array(X)
             Y = np.array(Y)
             model.fit(X, Y)
@@ -191,14 +226,15 @@ def train(dataset):
         model.fit(X, Y)
 
     f.close()
+    """
 
     #model.fit_generator(generate_data_from_file('training.dat', length),
     #                    samples_per_epoch=100,
     #                    nb_epoch=10)
 
-    model.fit(X, Y)
+    #model.fit(X, Y)
 
-    save_model_to_file(model, "modelstruct", "modelweights")
+    #save_model_to_file(model, "modelstruct", "modelweights")
 
 
 def test(dataset):
