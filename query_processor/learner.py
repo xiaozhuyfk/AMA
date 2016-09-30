@@ -110,7 +110,7 @@ def train(dataset):
             subjects = s.split()
             objects = o.split()
 
-            line = "\t".join(tokens + subjects + rels + objects + ["1.0"])
+            line = "\t".join(tokens + subjects + rels + objects + ["1.0"]) + "\n"
             codecsWriteFile("training_pos.dat", line, "a")
 
         sample = wrong
@@ -131,7 +131,7 @@ def train(dataset):
             subjects = s.split()
             objects = o.split()
 
-            line = "\t".join(tokens + subjects + rels + objects + ["0.0"])
+            line = "\t".join(tokens + subjects + rels + objects + ["0.0"]) + "\n"
             codecsWriteFile("training_pos.dat", line, "a")
 
     logger.info(str(count) + " questions do not have answers.")
