@@ -201,7 +201,9 @@ def train(dataset):
 
 
     X = [[vocab[word] for word in sent] for sent in X]
+    print(X[0])
 
+    """
     # assemble the model
     model = Sequential() # or Graph or whatever
     model.add(Embedding(output_dim=300, input_dim=n_symbols + 1, mask_zero=True, weights=[embedding_weights]))
@@ -210,6 +212,7 @@ def train(dataset):
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     model.fit(X, Y)
     save_model_to_file(model, "modelstruct", "modelweights")
+    """
 
 
     #X = np.array(X)
