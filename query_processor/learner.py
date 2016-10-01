@@ -329,6 +329,7 @@ def test(dataset):
         #tokens = [t.token for t in modules.parser.parse(question).tokens]
         tokens = question[:-1].split()
         answer = query.target_result
+        print(type(answer))
 
         input_facts = []
         for fact in facts:
@@ -339,7 +340,21 @@ def test(dataset):
         inputs = []
         for fact in input_facts:
             sid, s, r, oid, o = fact
+            relations = re.split("\.\.|\.", r)[:-2]
+            rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
 
+            tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
+            subjects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()]
+            objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
+
+            sentence = tokens + subjects + rels + objects
+            input_vector = transform_to_vectors(sentence)
+            inputs.append(input_vector)
+
+            if (o in answer):
+                print(model.predict(np.array([input_vector])))
+
+            """
             relations = re.split('\.\.|\.|_', r)
             #subjects = [t.token for t in modules.parser.parse(s).tokens]
             #objects = [t.token for t in modules.parser.parse(o).tokens]
@@ -349,7 +364,9 @@ def test(dataset):
             sentence = tokens + subjects + relations + objects
             input_vector = transform_to_vectors(sentence)
             inputs.append(input_vector)
+            """
 
+        """
         inputs = np.array(inputs)
         scores = model.predict(inputs)
 
@@ -363,6 +380,7 @@ def test(dataset):
 
         result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
         codecsWriteFile("result.txt", result_line, "a")
+        """
 
 
 def main():
