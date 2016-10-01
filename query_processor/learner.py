@@ -46,7 +46,7 @@ def transform_to_vectors(tokens, input_dim):
             valid.append(v)
 
     for i in xrange(len(valid)):
-        idx = input_dim - i - 1
+        idx = input_dim - len(valid) + i
         vectors[idx] = valid[i]
 
     return vectors
