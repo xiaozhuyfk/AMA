@@ -317,8 +317,6 @@ def train(dataset):
 
 def test(dataset):
     model = load_model("modelstruct", "modelweights")
-    input_dim = 518
-
     queries = load_eval_queries(dataset)
     codecsWriteFile("result.txt", "")
     for query in queries:
@@ -362,14 +360,15 @@ def test(dataset):
             """
 
         inputs = np.array(inputs)
+        if (question == "who created arthur?"):
+            print(inputs)
+            print(inputs.shape)
         scores = model.predict(inputs)
-
         predictions = []
-        #print(scores)
         for i in xrange(len(scores)):
             score = scores[i]
             sid, s, r, oid, o = input_facts[i]
-            if score > 0.5:
+            if score >= 1.0:
                 predictions.append(o)
 
         result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
