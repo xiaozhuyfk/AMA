@@ -191,7 +191,25 @@ def train(dataset):
         Y.append(label)
 
     vocab = Alphabet.from_iterable(word for sent in X for word in sent)
-    print(sorted(vocab._mapping.values())[0])
+    vocab_dim = 300 # dimensionality of your word vectors
+    n_symbols = len(vocab) + 1 # adding 1 to account for 0th index (for masking)
+    embedding_weights = np.zeros((n_symbols+1, vocab_dim))
+    for word,index in vocab._mapping.items():
+        vector = modules.w2v.transform(word)
+        if vector is not None:
+            embedding_weights[index+1] = modules.w2v.transform(word)
+
+
+    X = [[vocab[word] for word in sent] for sent in X]
+
+    # assemble the model
+    model = Sequential() # or Graph or whatever
+    model.add(Embedding(output_dim=300, input_dim=n_symbols + 1, mask_zero=True, weights=[embedding_weights]))
+    model.add(LSTM(32, return_sequences=False))
+    model.add(Dense(1, activation='sigmoid'))
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
+    model.fit(X, Y)
+    save_model_to_file(model, "modelstruct", "modelweights")
 
 
     #X = np.array(X)
