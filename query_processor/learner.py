@@ -185,6 +185,7 @@ def train(dataset):
     f.close()
     """
 
+    input_dim = 300
     model = Sequential()
     model.add(LSTM(32, input_shape=(input_dim, 300)))
     model.add(Dense(1, activation='sigmoid'))
@@ -192,7 +193,6 @@ def train(dataset):
 
     X = []
     Y = []
-    input_dim = 300
     batch_size = 32
     count = 0
     num = 0
