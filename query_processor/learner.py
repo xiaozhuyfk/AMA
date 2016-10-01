@@ -37,19 +37,25 @@ def load_model(struct_file, weights_file):
     return model
 
 
-def transform_to_vectors(tokens):
+def transform_to_vectors(tokens, input_dim):
+    vectors = np.zeros((input_dim, 300))
     valid = []
     for word in tokens:
         v = modules.w2v.transform(word)
         if v is not None:
             valid.append(v)
-    return np.array(valid)
+
+    for i in xrange(len(valid)):
+        idx = input_dim - i - 1
+        vectors[idx] = valid[i]
+
+    return vectors
 
 
-def process_line(line):
+def process_line(line, input_dim):
     words = line.strip().split()
     label = float(words[-1])
-    vectors = transform_to_vectors(words[:-1])
+    vectors = transform_to_vectors(words[:-1], input_dim)
     return vectors, label
 
 def generate_data_from_file(path, input_dim):
@@ -181,20 +187,18 @@ def train(dataset):
 
     X = []
     Y = []
-    length = 0
+    input_dim = 300
     lines = codecsReadFile("training_pos.dat").strip().split("\n")
     for line in lines:
-        #vectors, label = process_line(line)
-        elements = line.strip().split()
-        words = elements[:-1]
-        label = float(elements[-1])
-        X.append(words)
+        vectors, label = process_line(line, input_dim)
+        #elements = line.strip().split()
+        #words = elements[:-1]
+        #label = float(elements[-1])
+        X.append(vectors)
         Y.append(label)
 
-        if (len(words) > length):
-            length = len(words)
-
-    logger.info("Max length is " + str(length))
+    X = np.array(X)
+    Y = np.array(Y)
 
     """
     vocab = Alphabet.from_iterable(word for sent in X for word in sent)
@@ -239,17 +243,12 @@ def train(dataset):
     save_model_to_file(model, "modelstruct", "modelweights")
     """
 
-    #X = np.array(X)
-    #Y = np.array(Y)
-
-    """
     model = Sequential()
-    model.add(LSTM(32, input_shape=(None, 300)))
+    model.add(LSTM(32, input_shape=(input_dim, 300)))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     model.fit(X, Y)
     save_model_to_file(model, "modelstruct", "modelweights")
-    """
 
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
