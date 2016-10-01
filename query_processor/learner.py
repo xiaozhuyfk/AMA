@@ -181,6 +181,7 @@ def train(dataset):
 
     X = []
     Y = []
+    length = 0
     lines = codecsReadFile("training_pos.dat").strip().split("\n")
     for line in lines:
         #vectors, label = process_line(line)
@@ -190,6 +191,12 @@ def train(dataset):
         X.append(words)
         Y.append(label)
 
+        if (len(words) > length):
+            length = len(words)
+
+    logger.info("Max length is " + str(length))
+
+    """
     vocab = Alphabet.from_iterable(word for sent in X for word in sent)
     vocab_dim = 300 # dimensionality of your word vectors
     n_symbols = len(vocab) + 1 # adding 1 to account for 0th index (for masking)
@@ -197,7 +204,7 @@ def train(dataset):
     for word,index in vocab._mapping.items():
         vector = modules.w2v.transform(word)
         if vector is not None:
-            embedding_weights[index,:] = vector
+            embedding_weights[index+1,:] = vector
 
 
     #X = [np.array([vocab[word]+1 for word in sent]) for sent in X]
@@ -227,9 +234,10 @@ def train(dataset):
     )
     model.compile(optimizer='rmsprop',
                   loss='binary_crossentropy')
+
     model.fit(X, Y)
     save_model_to_file(model, "modelstruct", "modelweights")
-
+    """
 
     #X = np.array(X)
     #Y = np.array(Y)
@@ -313,7 +321,7 @@ def test(dataset):
             objects = o.split()
 
             sentence = tokens + subjects + relations + objects
-            input_vector = transform_to_vectors(sentence, input_dim)
+            input_vector = transform_to_vectors(sentence)
             inputs.append(input_vector)
 
         inputs = np.array(inputs)
