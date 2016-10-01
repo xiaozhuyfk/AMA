@@ -11,6 +11,7 @@ from keras.layers import Input, LSTM, Dense
 from keras.models import Model, model_from_json, Sequential
 import numpy as np
 import random
+from alphabet import Alphabet
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -182,21 +183,28 @@ def train(dataset):
     Y = []
     lines = codecsReadFile("training_pos.dat").strip().split("\n")
     for line in lines:
-        vectors, label = process_line(line)
-        X.append(vectors)
+        #vectors, label = process_line(line)
+        elements = line.strip().split()
+        words = elements[:-1]
+        label = elements[-1]
+        X.append(words)
         Y.append(label)
 
-    X = np.array(X)
-    Y = np.array(Y)
+    vocab = Alphabet.from_iterable(word for sent in X for word in sent)
+    print(vocab)
 
-    print(X.shape)
 
+    #X = np.array(X)
+    #Y = np.array(Y)
+
+    """
     model = Sequential()
     model.add(LSTM(32, input_shape=(None, 300)))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     model.fit(X, Y)
     save_model_to_file(model, "modelstruct", "modelweights")
+    """
 
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
