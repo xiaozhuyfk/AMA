@@ -197,7 +197,7 @@ def train(dataset):
     for word,index in vocab._mapping.items():
         vector = modules.w2v.transform(word)
         if vector is not None:
-            embedding_weights[index+1] = vector
+            embedding_weights[index,:] = vector
 
 
     #X = [np.array([vocab[word]+1 for word in sent]) for sent in X]
