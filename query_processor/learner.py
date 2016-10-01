@@ -197,11 +197,17 @@ def train(dataset):
     for word,index in vocab._mapping.items():
         vector = modules.w2v.transform(word)
         if vector is not None:
-            embedding_weights[index+1] = modules.w2v.transform(word)
+            embedding_weights[index+1] = vector
 
 
-    X = [np.array([vocab[word]+1 for word in sent]) for sent in X]
-    X = np.array(X)
+    #X = [np.array([vocab[word]+1 for word in sent]) for sent in X]
+    Xtrain = []
+    print(X)
+    for sent in X:
+        line = np.array([vocab[word]+1 for word in sent])
+        Xtrain.append(line)
+
+    X = np.array(Xtrain)
     Y = np.array(Y)
 
     # assemble the model
