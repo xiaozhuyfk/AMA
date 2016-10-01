@@ -200,19 +200,30 @@ def train(dataset):
             embedding_weights[index+1] = modules.w2v.transform(word)
 
 
-    X = [[vocab[word] for word in sent] for sent in X]
-    print(X[0])
+    X = [np.array([vocab[word] for word in sent]) for sent in X]
+    X = np.array(X)
+    Y = np.array(Y)
 
-    """
     # assemble the model
     model = Sequential() # or Graph or whatever
-    model.add(Embedding(output_dim=300, input_dim=n_symbols + 1, mask_zero=True, weights=[embedding_weights]))
-    model.add(LSTM(32, return_sequences=False))
-    model.add(Dense(1, activation='sigmoid'))
-    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
+    model.add(
+        Embedding(output_dim=300,
+                  input_dim=n_symbols + 1,
+                  mask_zero=True,
+                  weights=[embedding_weights])
+    )
+    model.add(
+        LSTM(32,
+             return_sequences=False)
+    )
+    model.add(
+        Dense(1,
+              activation='sigmoid')
+    )
+    model.compile(optimizer='rmsprop',
+                  loss='binary_crossentropy')
     model.fit(X, Y)
     save_model_to_file(model, "modelstruct", "modelweights")
-    """
 
 
     #X = np.array(X)
