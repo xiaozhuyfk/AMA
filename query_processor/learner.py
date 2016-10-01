@@ -186,7 +186,7 @@ def train(dataset):
         #vectors, label = process_line(line)
         elements = line.strip().split()
         words = elements[:-1]
-        label = elements[-1]
+        label = float(elements[-1])
         X.append(words)
         Y.append(label)
 
@@ -200,7 +200,7 @@ def train(dataset):
             embedding_weights[index+1] = modules.w2v.transform(word)
 
 
-    X = [np.array([vocab[word] for word in sent]) for sent in X]
+    X = [np.array([vocab[word]+1 for word in sent]) for sent in X]
     X = np.array(X)
     Y = np.array(Y)
 
