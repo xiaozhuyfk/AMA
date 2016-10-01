@@ -359,16 +359,15 @@ def test(dataset):
             inputs.append(input_vector)
             """
 
+        if inputs == []:
+            continue
         inputs = np.array(inputs)
-        if (question == "who created arthur?"):
-            print(inputs)
-            print(inputs.shape)
         scores = model.predict(inputs)
         predictions = []
         for i in xrange(len(scores)):
             score = scores[i]
             sid, s, r, oid, o = input_facts[i]
-            if score >= 1.0:
+            if score >= 0.8:
                 predictions.append(o)
 
         result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
