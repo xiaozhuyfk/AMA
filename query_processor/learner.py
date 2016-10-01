@@ -328,7 +328,7 @@ def test(dataset):
         logger.info("Testing question " + question)
         #tokens = [t.token for t in modules.parser.parse(question).tokens]
         #tokens = question[:-1].split()
-        tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
+        tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question[:-1].split()]
         answer = query.target_result
 
         input_facts = []
@@ -365,11 +365,11 @@ def test(dataset):
         scores = model.predict(inputs)
 
         predictions = []
-        print(scores)
+        #print(scores)
         for i in xrange(len(scores)):
             score = scores[i]
             sid, s, r, oid, o = input_facts[i]
-            if score > 0.2:
+            if score > 0.5:
                 predictions.append(o)
 
         result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
