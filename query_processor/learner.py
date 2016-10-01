@@ -348,7 +348,7 @@ def test(dataset):
             objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
 
             sentence = tokens + subjects + rels + objects
-            input_vector = transform_to_vectors(sentence)
+            input_vector = transform_to_vectors(sentence, 300)
             inputs.append(input_vector)
 
             if (o in answer):
