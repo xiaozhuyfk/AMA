@@ -191,7 +191,7 @@ def train(dataset):
         Y.append(label)
 
     vocab = Alphabet.from_iterable(word for sent in X for word in sent)
-    print(sorted(vocab.values())[0])
+    print(sorted(vocab._mapping.values())[0])
 
 
     #X = np.array(X)
