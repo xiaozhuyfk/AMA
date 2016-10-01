@@ -202,7 +202,6 @@ def train(dataset):
 
     #X = [np.array([vocab[word]+1 for word in sent]) for sent in X]
     Xtrain = []
-    print(X)
     for sent in X:
         line = np.array([vocab[word]+1 for word in sent])
         Xtrain.append(line)
