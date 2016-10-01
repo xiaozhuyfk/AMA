@@ -185,10 +185,20 @@ def train(dataset):
     f.close()
     """
 
+    model = Sequential()
+    model.add(LSTM(32, input_shape=(input_dim, 300)))
+    model.add(Dense(1, activation='sigmoid'))
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
+
     X = []
     Y = []
     input_dim = 300
+    batch_size = 32
+    count = 0
+    num = 0
     lines = codecsReadFile("training_pos.dat").strip().split("\n")
+    logger.info("Total " + str(len(lines)) + " training samples.")
+
     for line in lines:
         vectors, label = process_line(line, input_dim)
         #elements = line.strip().split()
@@ -196,9 +206,24 @@ def train(dataset):
         #label = float(elements[-1])
         X.append(vectors)
         Y.append(label)
+        count += 1
 
-    X = np.array(X)
-    Y = np.array(Y)
+        if (count >= batch_size):
+            X = np.array(X)
+            Y = np.array(Y)
+            model.fit(X, Y)
+            X = []
+            Y = []
+            count = 0
+            num += 1
+            logger.info("Processing batch number " + str(num))
+
+    if X != []:
+        X = np.array(X)
+        Y = np.array(Y)
+        model.fit(X, Y)
+
+    save_model_to_file(model, "modelstruct", "modelweights")
 
     """
     vocab = Alphabet.from_iterable(word for sent in X for word in sent)
@@ -243,12 +268,14 @@ def train(dataset):
     save_model_to_file(model, "modelstruct", "modelweights")
     """
 
+    """
     model = Sequential()
     model.add(LSTM(32, input_shape=(input_dim, 300)))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     model.fit(X, Y)
     save_model_to_file(model, "modelstruct", "modelweights")
+    """
 
     """
     f = codecs.open("training.dat", mode="rt", encoding="utf-8")
