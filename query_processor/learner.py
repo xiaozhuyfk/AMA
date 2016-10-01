@@ -327,9 +327,9 @@ def test(dataset):
         question = query.utterance.lower()
         logger.info("Testing question " + question)
         #tokens = [t.token for t in modules.parser.parse(question).tokens]
-        tokens = question[:-1].split()
+        #tokens = question[:-1].split()
+        tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
         answer = query.target_result
-        print(type(answer))
 
         input_facts = []
         for fact in facts:
@@ -342,17 +342,12 @@ def test(dataset):
             sid, s, r, oid, o = fact
             relations = re.split("\.\.|\.", r)[:-2]
             rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
-
-            tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
             subjects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()]
             objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
 
             sentence = tokens + subjects + rels + objects
             input_vector = transform_to_vectors(sentence, 300)
             inputs.append(input_vector)
-
-            if (o in answer):
-                print(model.predict(np.array([input_vector])))
 
             """
             relations = re.split('\.\.|\.|_', r)
@@ -366,7 +361,6 @@ def test(dataset):
             inputs.append(input_vector)
             """
 
-        """
         inputs = np.array(inputs)
         scores = model.predict(inputs)
 
@@ -375,12 +369,11 @@ def test(dataset):
         for i in xrange(len(scores)):
             score = scores[i]
             sid, s, r, oid, o = input_facts[i]
-            if score == 1.0:
+            if score > 0.2:
                 predictions.append(o)
 
         result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
         codecsWriteFile("result.txt", result_line, "a")
-        """
 
 
 def main():
