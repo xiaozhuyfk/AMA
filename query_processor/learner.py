@@ -7,7 +7,7 @@ from evaluation import load_eval_queries
 from util import codecsWriteFile, codecsReadFile
 import codecs
 import re
-from keras.layers import Input, LSTM, Dense
+from keras.layers import Input, LSTM, Dense, Embedding
 from keras.models import Model, model_from_json, Sequential
 import numpy as np
 import random
