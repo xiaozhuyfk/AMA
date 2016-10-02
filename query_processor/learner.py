@@ -73,8 +73,9 @@ def generate_data_from_file(path, input_dim):
 
 def process_trainingdata(dataset):
     queries = load_eval_queries(dataset)
-    codecsWriteFile("training_pos.dat", "")
+    codecsWriteFile("training_pos_short.dat", "")
     count = 0
+    length = 0
     for query in queries:
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
 
@@ -111,9 +112,13 @@ def process_trainingdata(dataset):
             tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
             subjects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()]
             objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
+            if (len(objects) > 10):
+                continue
 
             line = "\t".join(tokens + subjects + rels + objects + ["1.0"]) + "\n"
-            codecsWriteFile("training_pos.dat", line, "a")
+            if (len(toknes + subjects + rels + objects) > length):
+                length = len(tokens + subjects + rels + objects)
+            codecsWriteFile("training_pos_short.dat", line, "a")
 
         sample = wrong
         if len(correct) == 0:
@@ -132,11 +137,16 @@ def process_trainingdata(dataset):
             tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
             subjects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()]
             objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
+            if (len(objects) > 10):
+                continue
 
             line = "\t".join(tokens + subjects + rels + objects + ["0.0"]) + "\n"
-            codecsWriteFile("training_pos.dat", line, "a")
+            if (len(toknes + subjects + rels + objects) > length):
+                length = len(tokens + subjects + rels + objects)
+            codecsWriteFile("training_pos_short.dat", line, "a")
 
     logger.info(str(count) + " questions do not have answers.")
+    logger.info("Longest vector of length " + str(length))
 
 
 def train(dataset):
@@ -334,7 +344,9 @@ def test(dataset):
         for fact in facts:
             sid, s, r, oid, o = fact
             if not o.startswith("g."):
-                input_facts.append(fact)
+                objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
+                if (len(objects) <= 10):
+                    input_facts.append(fact)
 
         inputs = []
         total_scores = None
