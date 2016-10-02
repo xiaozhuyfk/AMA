@@ -336,7 +336,7 @@ def test(dataset):
                 input_facts.append(fact)
 
         inputs = []
-        total_scores = np.array([])
+        total_scores = None
         count = 0
         for fact in input_facts:
             sid, s, r, oid, o = fact
@@ -353,9 +353,10 @@ def test(dataset):
             if len(inputs) >= 32:
                 inputs = np.array(inputs)
                 scores = model.predict(inputs)
-                print(scores.shape)
-                print(scores)
-                total_scores = np.concatenate([total_scores, scores])
+                if (total_scores is None):
+                    total_scores = scores
+                else:
+                    total_scores = np.concatenate([total_scores, scores])
                 inputs = []
 
             """
@@ -374,13 +375,14 @@ def test(dataset):
             continue
         inputs = np.array(inputs)
         scores = model.predict(inputs)
-        print(scores.shape)
-        print(scores)
-        total_scores = np.concatenate([total_scores, scores])
+        if (total_scores is None):
+            total_scores = scores
+        else:
+            total_scores = np.concatenate([total_scores, scores])
         predictions = []
         assert(len(total_scores) == len(input_facts))
         for i in xrange(len(total_scores)):
-            score = total_scores[i]
+            score = total_scores[i][0]
             sid, s, r, oid, o = input_facts[i]
             if score >= 0.8:
                 predictions.append(o)
