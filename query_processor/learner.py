@@ -150,6 +150,7 @@ def process_trainingdata(dataset):
 
 
 def train(dataset):
+    process_trainingdata(dataset)
     """
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
     codecsWriteFile("training_pos.dat", "")
@@ -195,6 +196,7 @@ def train(dataset):
     f.close()
     """
 
+    """
     input_dim = 300
     model = Sequential()
     model.add(LSTM(32, input_shape=(input_dim, 300)))
@@ -234,6 +236,7 @@ def train(dataset):
         model.fit(X, Y)
 
     save_model_to_file(model, "modelstruct", "modelweights")
+    """
 
     """
     vocab = Alphabet.from_iterable(word for sent in X for word in sent)
