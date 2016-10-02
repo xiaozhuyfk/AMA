@@ -336,6 +336,8 @@ def test(dataset):
                 input_facts.append(fact)
 
         inputs = []
+        total_scores = []
+        count = 0
         for fact in input_facts:
             sid, s, r, oid, o = fact
             relations = re.split("\.\.|\.", r)[:-2]
@@ -346,6 +348,13 @@ def test(dataset):
             sentence = tokens + subjects + rels + objects
             input_vector = transform_to_vectors(sentence, 300)
             inputs.append(input_vector)
+            count += 1
+
+            if len(inputs) >= 32:
+                inputs = np.array(inputs)
+                scores = model.predict(inputs)
+                total_scores += scores
+                inputs = []
 
             """
             relations = re.split('\.\.|\.|_', r)
@@ -359,13 +368,15 @@ def test(dataset):
             inputs.append(input_vector)
             """
 
-        if inputs == []:
+        if count == 0:
             continue
         inputs = np.array(inputs)
         scores = model.predict(inputs)
+        total_scores += scores
         predictions = []
-        for i in xrange(len(scores)):
-            score = scores[i]
+        assert(len(total_scores) == len(input_facts))
+        for i in xrange(len(total_scores)):
+            score = total_scores[i]
             sid, s, r, oid, o = input_facts[i]
             if score >= 0.8:
                 predictions.append(o)
