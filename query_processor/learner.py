@@ -353,6 +353,8 @@ def test(dataset):
             if len(inputs) >= 32:
                 inputs = np.array(inputs)
                 scores = model.predict(inputs)
+                print(scores.shape)
+                print(scores)
                 total_scores = np.concatenate([total_scores, scores])
                 inputs = []
 
