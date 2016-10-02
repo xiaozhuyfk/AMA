@@ -353,7 +353,7 @@ def test(dataset):
             if len(inputs) >= 32:
                 inputs = np.array(inputs)
                 scores = model.predict(inputs)
-                total_scores = numpy.concatenate([total_scores, scores])
+                total_scores = np.concatenate([total_scores, scores])
                 inputs = []
 
             """
@@ -372,7 +372,7 @@ def test(dataset):
             continue
         inputs = np.array(inputs)
         scores = model.predict(inputs)
-        total_scores = numpy.concatenate([total_scores, scores])
+        total_scores = np.concatenate([total_scores, scores])
         predictions = []
         assert(len(total_scores) == len(input_facts))
         for i in xrange(len(total_scores)):
