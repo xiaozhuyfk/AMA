@@ -374,6 +374,8 @@ def test(dataset):
             continue
         inputs = np.array(inputs)
         scores = model.predict(inputs)
+        print(scores.shape)
+        print(scores)
         total_scores = np.concatenate([total_scores, scores])
         predictions = []
         assert(len(total_scores) == len(input_facts))
