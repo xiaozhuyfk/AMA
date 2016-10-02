@@ -73,7 +73,7 @@ def generate_data_from_file(path, input_dim):
 
 def process_trainingdata(dataset):
     queries = load_eval_queries(dataset)
-    codecsWriteFile("training_pos_short.dat", "")
+    #codecsWriteFile("training_pos_short.dat", "")
     count = 0
     length = 0
     for query in queries:
@@ -118,7 +118,7 @@ def process_trainingdata(dataset):
             line = "\t".join(tokens + subjects + rels + objects + ["1.0"]) + "\n"
             if (len(tokens + subjects + rels + objects) > length):
                 length = len(tokens + subjects + rels + objects)
-            codecsWriteFile("training_pos_short.dat", line, "a")
+            #codecsWriteFile("training_pos_short.dat", line, "a")
 
         sample = wrong
         if len(correct) == 0:
@@ -143,7 +143,7 @@ def process_trainingdata(dataset):
             line = "\t".join(tokens + subjects + rels + objects + ["0.0"]) + "\n"
             if (len(tokens + subjects + rels + objects) > length):
                 length = len(tokens + subjects + rels + objects)
-            codecsWriteFile("training_pos_short.dat", line, "a")
+            #codecsWriteFile("training_pos_short.dat", line, "a")
 
     logger.info(str(count) + " questions do not have answers.")
     logger.info("Longest vector of length " + str(length))
