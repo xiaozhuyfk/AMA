@@ -116,7 +116,7 @@ def process_trainingdata(dataset):
                 continue
 
             line = "\t".join(tokens + subjects + rels + objects + ["1.0"]) + "\n"
-            if (len(toknes + subjects + rels + objects) > length):
+            if (len(tokens + subjects + rels + objects) > length):
                 length = len(tokens + subjects + rels + objects)
             codecsWriteFile("training_pos_short.dat", line, "a")
 
@@ -141,7 +141,7 @@ def process_trainingdata(dataset):
                 continue
 
             line = "\t".join(tokens + subjects + rels + objects + ["0.0"]) + "\n"
-            if (len(toknes + subjects + rels + objects) > length):
+            if (len(tokens + subjects + rels + objects) > length):
                 length = len(tokens + subjects + rels + objects)
             codecsWriteFile("training_pos_short.dat", line, "a")
 
