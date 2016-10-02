@@ -73,7 +73,7 @@ def generate_data_from_file(path, input_dim):
 
 def process_trainingdata(dataset):
     queries = load_eval_queries(dataset)
-    #codecsWriteFile("training_pos_short.dat", "")
+    codecsWriteFile("training_pos_short.dat", "")
     count = 0
     length = 0
     for query in queries:
@@ -118,7 +118,7 @@ def process_trainingdata(dataset):
             line = "\t".join(tokens + subjects + rels + objects + ["1.0"]) + "\n"
             if (len(tokens + subjects + rels + objects) > length):
                 length = len(tokens + subjects + rels + objects)
-            #codecsWriteFile("training_pos_short.dat", line, "a")
+            codecsWriteFile("training_pos_short.dat", line, "a")
 
         sample = wrong
         if len(correct) == 0:
@@ -143,14 +143,15 @@ def process_trainingdata(dataset):
             line = "\t".join(tokens + subjects + rels + objects + ["0.0"]) + "\n"
             if (len(tokens + subjects + rels + objects) > length):
                 length = len(tokens + subjects + rels + objects)
-            #codecsWriteFile("training_pos_short.dat", line, "a")
+            codecsWriteFile("training_pos_short.dat", line, "a")
 
     logger.info(str(count) + " questions do not have answers.")
     logger.info("Longest vector of length " + str(length))
 
 
 def train(dataset):
-    process_trainingdata(dataset)
+    #process_trainingdata(dataset)
+
     """
     f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
     codecsWriteFile("training_pos.dat", "")
@@ -196,8 +197,7 @@ def train(dataset):
     f.close()
     """
 
-    """
-    input_dim = 300
+    input_dim = 34
     model = Sequential()
     model.add(LSTM(32, input_shape=(input_dim, 300)))
     model.add(Dense(1, activation='sigmoid'))
@@ -235,8 +235,7 @@ def train(dataset):
         Y = np.array(Y)
         model.fit(X, Y)
 
-    save_model_to_file(model, "modelstruct", "modelweights")
-    """
+    save_model_to_file(model, "modelstruct_short", "modelweights_short")
 
     """
     vocab = Alphabet.from_iterable(word for sent in X for word in sent)
@@ -362,7 +361,7 @@ def test(dataset):
             objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
 
             sentence = tokens + subjects + rels + objects
-            input_vector = transform_to_vectors(sentence, 300)
+            input_vector = transform_to_vectors(sentence, 34)
             inputs.append(input_vector)
             count += 1
 
