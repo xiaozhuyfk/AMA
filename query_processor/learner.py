@@ -208,7 +208,7 @@ def train(dataset):
     batch_size = 32
     count = 0
     num = 0
-    lines = codecsReadFile("training_pos.dat").strip().split("\n")
+    lines = codecsReadFile("training_pos_short.dat").strip().split("\n")
     logger.info("Total " + str(len(lines)) + " training samples.")
 
     for line in lines:
