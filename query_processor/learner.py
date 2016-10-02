@@ -324,6 +324,7 @@ def test(dataset):
 
         question = query.utterance.lower()
         logger.info("Testing question " + question)
+        logger.info("Processing question " + str(query.id))
         #tokens = [t.token for t in modules.parser.parse(question).tokens]
         #tokens = question[:-1].split()
         tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question[:-1].split()]
@@ -373,12 +374,13 @@ def test(dataset):
 
         if count == 0:
             continue
-        inputs = np.array(inputs)
-        scores = model.predict(inputs)
-        if (total_scores is None):
-            total_scores = scores
-        else:
-            total_scores = np.concatenate([total_scores, scores])
+        if inputs != []:
+            inputs = np.array(inputs)
+            scores = model.predict(inputs)
+            if (total_scores is None):
+                total_scores = scores
+            else:
+                total_scores = np.concatenate([total_scores, scores])
         predictions = []
         assert(len(total_scores) == len(input_facts))
         for i in xrange(len(total_scores)):
