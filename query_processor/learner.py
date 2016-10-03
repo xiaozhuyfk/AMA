@@ -72,8 +72,11 @@ def generate_data_from_file(path, input_dim):
 
 
 def process_trainingdata(dataset):
+    config_options = globals.config
+    training_data = config_options.get('Train', 'training-data')
+
     queries = load_eval_queries(dataset)
-    codecsWriteFile("training_pos_short.dat", "")
+    codecsWriteFile(training_data, "")
     count = 0
     length = 0
     for query in queries:
@@ -118,7 +121,7 @@ def process_trainingdata(dataset):
             line = "\t".join(tokens + subjects + rels + objects + ["1.0"]) + "\n"
             if (len(tokens + subjects + rels + objects) > length):
                 length = len(tokens + subjects + rels + objects)
-            codecsWriteFile("training_pos_short.dat", line, "a")
+            codecsWriteFile(training_data, line, "a")
 
         sample = wrong
         if len(correct) == 0:
@@ -143,59 +146,21 @@ def process_trainingdata(dataset):
             line = "\t".join(tokens + subjects + rels + objects + ["0.0"]) + "\n"
             if (len(tokens + subjects + rels + objects) > length):
                 length = len(tokens + subjects + rels + objects)
-            codecsWriteFile("training_pos_short.dat", line, "a")
+            codecsWriteFile(training_data, line, "a")
 
     logger.info(str(count) + " questions do not have answers.")
     logger.info("Longest vector of length " + str(length))
 
 
 def train(dataset):
-    #process_trainingdata(dataset)
+    config_options = globals.config
+    training_data = config_options.get('Train', 'training-data')
+    model_struct = config_options.get('Train', 'model-struct')
+    model_weights = config_options.get('Train', 'model-weights')
 
-    """
-    f = codecs.open("trainingdata", mode="rt", encoding="utf-8")
-    codecsWriteFile("training_pos.dat", "")
-    longest = 0
-
-    curr = ""
-    count = 0
-    for line in f:
-        if line == "":
-            continue
-        data = line.split("\t")
-        query = data[0].lower()
-        s = data[2].lower()
-        r = data[3].lower()
-        o = data[5].lower()
-        label = data[6]
-
-        if o.startswith("g."):
-            continue
-
-        if query != curr:
-            curr = query
-            count += 1
-            logger.info("Processing question count: " + str(count))
-
-
-        #tokens = [t.token for t in modules.parser.parse(query).tokens]
-        #relations = re.split('\.\.|\.|_', r)
-        #subjects = [t.token for t in modules.parser.parse(s).tokens]
-        #objects = [t.token for t in modules.parser.parse(o).tokens]
-
-        tokens = query[:-1].split()
-        relations = re.split('\.\.|\.|_', r)
-        subjects = s.split()
-        objects = o.split()
-
-        result = tokens + subjects + relations + objects + [label]
-        if (len(result) > longest):
-            longest = len(result)
-        codecsWriteFile("training.dat", "\t".join(result) + "\n", 'a')
-
-    logger.info("Longest sequence is " + str(longest))
-    f.close()
-    """
+    logger.info("Using training data from path: " + training_data)
+    logger.info("Saving model struct to path: " + model_struct)
+    logger.info("Saving model weights to path: " + model_weights)
 
     input_dim = 34
     model = Sequential()
@@ -208,18 +173,14 @@ def train(dataset):
     batch_size = 32
     count = 0
     num = 0
-    lines = codecsReadFile("training_pos_short.dat").strip().split("\n")
+    lines = codecsReadFile(training_data).strip().split("\n")
     logger.info("Total " + str(len(lines)) + " training samples.")
 
     for line in lines:
         vectors, label = process_line(line, input_dim)
-        #elements = line.strip().split()
-        #words = elements[:-1]
-        #label = float(elements[-1])
         X.append(vectors)
         Y.append(label)
 
-        """
         count += 1
 
         if (count >= batch_size):
@@ -231,118 +192,30 @@ def train(dataset):
             count = 0
             num += 1
             logger.info("Processing batch number " + str(num))
-        """
-
-    if X != []:
-        X = np.array(X)
-        Y = np.array(Y)
-        model.fit(X, Y, batch_size=32)
-
-    save_model_to_file(model, "modelstruct_short", "modelweights_short")
-
-    """
-    vocab = Alphabet.from_iterable(word for sent in X for word in sent)
-    vocab_dim = 300 # dimensionality of your word vectors
-    n_symbols = len(vocab) + 1 # adding 1 to account for 0th index (for masking)
-    embedding_weights = np.zeros((n_symbols+1, vocab_dim))
-    for word,index in vocab._mapping.items():
-        vector = modules.w2v.transform(word)
-        if vector is not None:
-            embedding_weights[index+1,:] = vector
-
-
-    #X = [np.array([vocab[word]+1 for word in sent]) for sent in X]
-    Xtrain = []
-    for sent in X:
-        line = np.array([vocab[word]+1 for word in sent])
-        Xtrain.append(line)
-
-    X = np.array(Xtrain)
-    Y = np.array(Y)
-
-    # assemble the model
-    model = Sequential() # or Graph or whatever
-    model.add(
-        Embedding(output_dim=300,
-                  input_dim=n_symbols + 1,
-                  mask_zero=True,
-                  weights=[embedding_weights])
-    )
-    model.add(
-        LSTM(32,
-             return_sequences=False)
-    )
-    model.add(
-        Dense(1,
-              activation='sigmoid')
-    )
-    model.compile(optimizer='rmsprop',
-                  loss='binary_crossentropy')
-
-    model.fit(X, Y)
-    save_model_to_file(model, "modelstruct", "modelweights")
-    """
-
-    """
-    model = Sequential()
-    model.add(LSTM(32, input_shape=(input_dim, 300)))
-    model.add(Dense(1, activation='sigmoid'))
-    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
-    model.fit(X, Y)
-    save_model_to_file(model, "modelstruct", "modelweights")
-    """
-
-    """
-    f = codecs.open("training.dat", mode="rt", encoding="utf-8")
-    X = []
-    Y = []
-
-    for line in f:
-        line = line.strip()
-        if line == "":
-            continue
-        x, y = process_line(line, 518)
-        X.append(x)
-        Y.append(y)
-
-        if (len(X) >= 32):
-            X = np.array(X)
-            Y = np.array(Y)
-            model.fit(X, Y)
-
-            X = []
-            Y = []
 
     if X != []:
         X = np.array(X)
         Y = np.array(Y)
         model.fit(X, Y)
 
-    f.close()
-    """
-
-    #model.fit_generator(generate_data_from_file('training.dat', length),
-    #                    samples_per_epoch=100,
-    #                    nb_epoch=10)
-
-    #model.fit(X, Y)
-
-    #save_model_to_file(model, "modelstruct", "modelweights")
+    save_model_to_file(model, model_struct, model_weights)
 
 
 def test(dataset):
-    model = load_model("modelstruct_short", "modelweights_short")
+    config_options = globals.config
+    model_struct = config_options.get('Train', 'model-struct')
+    model_weights = config_options.get('Train', 'model-weights')
+    test_result = config_options.get('Test', 'test-result')
+
+    model = load_model(model_struct, model_weights)
     queries = load_eval_queries(dataset)
-    codecsWriteFile("result_short_8.txt", "")
-    codecsWriteFile("result_short_9.txt", "")
+    codecsWriteFile(test_result, "")
     for query in queries:
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
 
         question = query.utterance.lower()
         logger.info("Testing question " + question)
         logger.info("Processing question " + str(query.id))
-        #tokens = [t.token for t in modules.parser.parse(question).tokens]
-        #tokens = question[:-1].split()
         tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question[:-1].split()]
         answer = query.target_result
 
@@ -378,22 +251,9 @@ def test(dataset):
                     total_scores = np.concatenate([total_scores, scores])
                 inputs = []
 
-            """
-            relations = re.split('\.\.|\.|_', r)
-            #subjects = [t.token for t in modules.parser.parse(s).tokens]
-            #objects = [t.token for t in modules.parser.parse(o).tokens]
-            subjects = s.split()
-            objects = o.split()
-
-            sentence = tokens + subjects + relations + objects
-            input_vector = transform_to_vectors(sentence)
-            inputs.append(input_vector)
-            """
-
         if count == 0:
             result_line = "\t".join([str(query.id) + question, str(answer), str([])]) + "\n"
-            codecsWriteFile("result_short_8.txt", result_line, "a")
-            codecsWriteFile("result_short_9.txt", result_line, "a")
+            codecsWriteFile(test_result, result_line, "a")
             continue
 
         if inputs != []:
@@ -404,21 +264,16 @@ def test(dataset):
             else:
                 total_scores = np.concatenate([total_scores, scores])
 
-        predictions8 = []
-        predictions9 = []
+        predictions = []
         assert(len(total_scores) == len(input_facts))
         for i in xrange(len(total_scores)):
             score = total_scores[i][0]
             sid, s, r, oid, o = input_facts[i]
-            if score >= 0.8 and (o not in predictions8):
-                predictions8.append(o)
-            if score >= 0.9 and (o not in predictions9):
-                predictions9.append(o)
+            if score >= 0.8 and (o not in predictions):
+                predictions.append(o)
 
-        result_line8 = "\t".join([str(query.id) + question, str(answer), str(predictions8)]) + "\n"
-        result_line9 = "\t".join([str(query.id) + question, str(answer), str(predictions9)]) + "\n"
-        codecsWriteFile("result_short_8.txt", result_line8, "a")
-        codecsWriteFile("result_short_9.txt", result_line9, "a")
+        result_line = "\t".join([str(query.id) + question, str(answer), str(predictions)]) + "\n"
+        codecsWriteFile(test_result, result_line, "a")
 
 
 def main():
