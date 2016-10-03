@@ -333,7 +333,6 @@ def train(dataset):
 def test(dataset):
     model = load_model("modelstruct_short", "modelweights_short")
     queries = load_eval_queries(dataset)
-    print(len(queries))
     codecsWriteFile("result_short.txt", "")
     for query in queries:
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
@@ -410,10 +409,10 @@ def test(dataset):
                 if score >= 0.8:
                     predictions.append(o)
 
-            result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
+            result_line = "\t".join([str(query.id) + question, str(answer), str(predictions)]) + "\n"
             codecsWriteFile("result_short.txt", result_line, "a")
         else:
-            result_line = "\t".join([question, str(answer), str([])]) + "\n"
+            result_line = "\t".join([str(query.id) + question, str(answer), str([])]) + "\n"
             codecsWriteFile("result_short.txt", result_line, "a")
 
 
