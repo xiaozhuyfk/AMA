@@ -181,6 +181,7 @@ def train(dataset):
         X.append(vectors)
         Y.append(label)
 
+        """
         count += 1
 
         if (count >= batch_size):
@@ -192,6 +193,7 @@ def train(dataset):
             count = 0
             num += 1
             logger.info("Processing batch number " + str(num))
+        """
 
     if X != []:
         X = np.array(X)
