@@ -340,7 +340,6 @@ def test(dataset):
         question = query.utterance.lower()
         logger.info("Testing question " + question)
         logger.info("Processing question " + str(query.id))
-        """
         #tokens = [t.token for t in modules.parser.parse(question).tokens]
         #tokens = question[:-1].split()
         tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question[:-1].split()]
@@ -368,9 +367,8 @@ def test(dataset):
             input_vector = transform_to_vectors(sentence, 34)
             inputs.append(input_vector)
             count += 1
-        """
 
-        """
+            """
             if len(inputs) >= 32:
                 inputs = np.array(inputs)
                 scores = model.predict(inputs)
@@ -379,9 +377,8 @@ def test(dataset):
                 else:
                     total_scores = np.concatenate([total_scores, scores])
                 inputs = []
-        """
+            """
 
-        """
             relations = re.split('\.\.|\.|_', r)
             #subjects = [t.token for t in modules.parser.parse(s).tokens]
             #objects = [t.token for t in modules.parser.parse(o).tokens]
@@ -391,7 +388,6 @@ def test(dataset):
             sentence = tokens + subjects + relations + objects
             input_vector = transform_to_vectors(sentence)
             inputs.append(input_vector)
-        """
 
         #if count == 0:
         #    continue
