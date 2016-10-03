@@ -92,8 +92,7 @@ count=0
 """Go over all lines and compute recall, precision and F1"""
 with open(sys.argv[1]) as f:
   for line in f:
-    print line
-    tokens = line.split("\t")
+    tokens = line[:-1].split("\t")
     print tokens
     gold = json.loads(tokens[1])
     predicted = json.loads(tokens[2])
