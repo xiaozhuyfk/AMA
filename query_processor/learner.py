@@ -267,10 +267,11 @@ def test(dataset):
 
         predictions = []
         assert(len(total_scores) == len(input_facts))
+        idx = total_scores.argmax()
+        _, best_s, best_r, _, best_o = input_facts[idx]
         for i in xrange(len(total_scores)):
-            score = total_scores[i][0]
             sid, s, r, oid, o = input_facts[i]
-            if score >= 0.6 and (o not in predictions):
+            if best_s == s and best_r == r:
                 predictions.append(o)
 
         result_line = "\t".join([str(query.id) + question, str(answer), str(predictions)]) + "\n"
