@@ -379,6 +379,7 @@ def test(dataset):
                 inputs = []
             """
 
+            """
             relations = re.split('\.\.|\.|_', r)
             #subjects = [t.token for t in modules.parser.parse(s).tokens]
             #objects = [t.token for t in modules.parser.parse(o).tokens]
@@ -388,6 +389,7 @@ def test(dataset):
             sentence = tokens + subjects + relations + objects
             input_vector = transform_to_vectors(sentence)
             inputs.append(input_vector)
+            """
 
         #if count == 0:
         #    continue
