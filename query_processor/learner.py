@@ -206,6 +206,7 @@ def test(dataset):
     model_struct = config_options.get('Train', 'model-struct')
     model_weights = config_options.get('Train', 'model-weights')
     test_result = config_options.get('Test', 'test-result')
+    input_dim = int(config_options.get('Train', 'input-dim'))
 
     model = load_model(model_struct, model_weights)
     queries = load_eval_queries(dataset)
@@ -238,7 +239,7 @@ def test(dataset):
             objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
 
             sentence = tokens + subjects + rels + objects
-            input_vector = transform_to_vectors(sentence, 34)
+            input_vector = transform_to_vectors(sentence, input_dim)
             inputs.append(input_vector)
             count += 1
 
