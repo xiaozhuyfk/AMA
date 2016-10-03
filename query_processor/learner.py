@@ -340,6 +340,7 @@ def test(dataset):
         question = query.utterance.lower()
         logger.info("Testing question " + question)
         logger.info("Processing question " + str(query.id))
+        """
         #tokens = [t.token for t in modules.parser.parse(question).tokens]
         #tokens = question[:-1].split()
         tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question[:-1].split()]
@@ -367,6 +368,7 @@ def test(dataset):
             input_vector = transform_to_vectors(sentence, 34)
             inputs.append(input_vector)
             count += 1
+            """
 
             """
             if len(inputs) >= 32:
@@ -393,6 +395,7 @@ def test(dataset):
 
         #if count == 0:
         #    continue
+        """
         if inputs != []:
             inputs = np.array(inputs)
             scores = model.predict(inputs)
@@ -406,7 +409,7 @@ def test(dataset):
             for i in xrange(len(total_scores)):
                 score = total_scores[i][0]
                 sid, s, r, oid, o = input_facts[i]
-                if score >= 0.8:
+                if score >= 0.8 and (o not in predictions):
                     predictions.append(o)
 
             result_line = "\t".join([str(query.id) + question, str(answer), str(predictions)]) + "\n"
@@ -414,6 +417,7 @@ def test(dataset):
         else:
             result_line = "\t".join([str(query.id) + question, str(answer), str([])]) + "\n"
             codecsWriteFile("result_short.txt", result_line, "a")
+        """
 
 
 def main():
