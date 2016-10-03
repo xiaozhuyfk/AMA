@@ -125,12 +125,12 @@ def process_trainingdata(dataset):
 
         sample = wrong
         if len(correct) == 0:
-            if len(wrong) > 5:
-                sample = random.sample(wrong, 5)
-        elif len(correct) * 5 > len(wrong):
+            if len(wrong) > 20:
+                sample = random.sample(wrong, 20)
+        elif len(correct) * 20 > len(wrong):
             sample = wrong
         else:
-            sample = random.sample(wrong, len(correct) * 5)
+            sample = random.sample(wrong, len(correct) * 20)
 
         for fact in sample:
             sid, s, r, oid, o = fact
@@ -294,6 +294,11 @@ def main():
                              help='The dataset to test')
     test_parser.set_defaults(which='test')
 
+    process_parser = subparsers.add_parser('process', help="Process training data")
+    process_parser.add_argument('dataset',
+                                help='Training data file')
+    process_parser.set_defaults(which='process')
+
     args = parser.parse_args()
 
     # Read global config
@@ -306,6 +311,8 @@ def main():
         train(args.dataset)
     elif args.which == 'test':
         test(args.dataset)
+    elif args.which == 'process':
+        process_trainingdata(args.dataset)
 
 
 if __name__ == '__main__':
