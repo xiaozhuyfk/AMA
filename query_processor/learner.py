@@ -331,9 +331,9 @@ def train(dataset):
 
 
 def test(dataset):
-    model = load_model("modelstruct", "modelweights")
+    model = load_model("modelstruct_short", "modelweights_short")
     queries = load_eval_queries(dataset)
-    codecsWriteFile("result.txt", "")
+    codecsWriteFile("result_short.txt", "")
     for query in queries:
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
 
@@ -368,6 +368,7 @@ def test(dataset):
             inputs.append(input_vector)
             count += 1
 
+            """
             if len(inputs) >= 32:
                 inputs = np.array(inputs)
                 scores = model.predict(inputs)
@@ -376,6 +377,7 @@ def test(dataset):
                 else:
                     total_scores = np.concatenate([total_scores, scores])
                 inputs = []
+            """
 
             """
             relations = re.split('\.\.|\.|_', r)
@@ -389,8 +391,8 @@ def test(dataset):
             inputs.append(input_vector)
             """
 
-        if count == 0:
-            continue
+        #if count == 0:
+        #    continue
         if inputs != []:
             inputs = np.array(inputs)
             scores = model.predict(inputs)
@@ -407,7 +409,7 @@ def test(dataset):
                 predictions.append(o)
 
         result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
-        codecsWriteFile("result.txt", result_line, "a")
+        codecsWriteFile("result_short.txt", result_line, "a")
 
 
 def main():
