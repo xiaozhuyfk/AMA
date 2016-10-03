@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# This is the script used for evaluation by Berant et al. 
+# This is the script used for evaluation by Berant et al.
 # (http://nlp.stanford.edu/software/sempre/).
 
 # It has been extended to also provide accuracy in addition to
@@ -93,6 +93,7 @@ count=0
 with open(sys.argv[1]) as f:
   for line in f:
     tokens = line.split("\t")
+    print tokens
     gold = json.loads(tokens[1])
     predicted = json.loads(tokens[2])
     recall, precision, f1 = computeF1(gold,predicted)

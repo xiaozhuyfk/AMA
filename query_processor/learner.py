@@ -400,21 +400,20 @@ def test(dataset):
                 total_scores = scores
             else:
                 total_scores = np.concatenate([total_scores, scores])
+
+            predictions = []
+            assert(len(total_scores) == len(input_facts))
+            for i in xrange(len(total_scores)):
+                score = total_scores[i][0]
+                sid, s, r, oid, o = input_facts[i]
+                if score >= 0.8:
+                    predictions.append(o)
+
+            result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
+            codecsWriteFile("result_short.txt", result_line, "a")
         else:
             result_line = "\t".join([question, str(answer), str([])]) + "\n"
             codecsWriteFile("result_short.txt", result_line, "a")
-            continue
-
-        predictions = []
-        assert(len(total_scores) == len(input_facts))
-        for i in xrange(len(total_scores)):
-            score = total_scores[i][0]
-            sid, s, r, oid, o = input_facts[i]
-            if score >= 0.8:
-                predictions.append(o)
-
-        result_line = "\t".join([question, str(answer), str(predictions)]) + "\n"
-        codecsWriteFile("result_short.txt", result_line, "a")
 
 
 def main():
