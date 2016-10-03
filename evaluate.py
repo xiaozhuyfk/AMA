@@ -92,10 +92,10 @@ count=0
 """Go over all lines and compute recall, precision and F1"""
 with open(sys.argv[1]) as f:
   for line in f:
-    tokens = line[:-1].encode('utf-8').split("\t")
+    tokens = line[:-1].split("\t")
     print tokens
-    gold = json.loads(tokens[1])
-    predicted = json.loads(tokens[2])
+    gold = json.loads(tokens[1].encode('utf-8'))
+    predicted = json.loads(tokens[2].encode('utf-8'))
     recall, precision, f1 = computeF1(gold,predicted)
     if f1 == 1:
       nCorrect += 1
