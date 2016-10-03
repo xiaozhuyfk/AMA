@@ -270,7 +270,7 @@ def test(dataset):
         for i in xrange(len(total_scores)):
             score = total_scores[i][0]
             sid, s, r, oid, o = input_facts[i]
-            if score >= 0.8 and (o not in predictions):
+            if score >= 0.6 and (o not in predictions):
                 predictions.append(o)
 
         result_line = "\t".join([str(query.id) + question, str(answer), str(predictions)]) + "\n"
