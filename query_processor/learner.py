@@ -236,7 +236,7 @@ def train(dataset):
     if X != []:
         X = np.array(X)
         Y = np.array(Y)
-        model.fit(X, Y)
+        model.fit(X, Y, batch_size=32)
 
     save_model_to_file(model, "modelstruct_short", "modelweights_short")
 
@@ -400,6 +400,11 @@ def test(dataset):
                 total_scores = scores
             else:
                 total_scores = np.concatenate([total_scores, scores])
+        else:
+            result_line = "\t".join([question, str(answer), str([])]) + "\n"
+            codecsWriteFile("result_short.txt", result_line, "a")
+            continue
+
         predictions = []
         assert(len(total_scores) == len(input_facts))
         for i in xrange(len(total_scores)):
