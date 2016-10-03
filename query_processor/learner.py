@@ -157,12 +157,12 @@ def train(dataset):
     training_data = config_options.get('Train', 'training-data')
     model_struct = config_options.get('Train', 'model-struct')
     model_weights = config_options.get('Train', 'model-weights')
+    input_dim = int(config_options.get('Train', 'input-dim'))
 
     logger.info("Using training data from path: " + training_data)
     logger.info("Saving model struct to path: " + model_struct)
     logger.info("Saving model weights to path: " + model_weights)
 
-    input_dim = 34
     model = Sequential()
     model.add(LSTM(32, input_shape=(input_dim, 300)))
     model.add(Dense(1, activation='sigmoid'))
