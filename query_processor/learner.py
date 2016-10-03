@@ -333,7 +333,7 @@ def train(dataset):
 def test(dataset):
     model = load_model("modelstruct_short", "modelweights_short")
     queries = load_eval_queries(dataset)
-    print(len(dataset))
+    print(len(queries))
     codecsWriteFile("result_short.txt", "")
     for query in queries:
         facts = modules.extractor.extract_fact_list_with_entity_linker(query)
