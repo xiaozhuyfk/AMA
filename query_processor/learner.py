@@ -156,7 +156,10 @@ def simple_lstm():
     config_options = globals.config
     input_dim = int(config_options.get('Train', 'input-dim'))
     model = Sequential()
-    model.add(LSTM(32, input_shape=(input_dim, 300),))
+    model.add(LSTM(64, input_shape=(input_dim, 300),))
+    model.add(Dense(64, activation='relu'))
+    model.add(Dense(64, activation='relu'))
+    model.add(Dense(64, activation='relu'))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     return model
@@ -201,7 +204,8 @@ def train(dataset):
     logger.info("Saving model struct to path: " + model_struct)
     logger.info("Saving model weights to path: " + model_weights)
 
-    model = bidirectional_lstm()
+    #model = bidirectional_lstm()
+    model = simple_lstm()
 
     X = []
     Y = []
@@ -221,7 +225,7 @@ def train(dataset):
         if (count >= batch_size):
             X = np.array(X)
             Y = np.array(Y)
-            model.fit([X, X], Y)
+            model.fit(X, Y)
             X = []
             Y = []
             count = 0
@@ -231,7 +235,7 @@ def train(dataset):
     if X != []:
         X = np.array(X)
         Y = np.array(Y)
-        model.fit([X, X], Y)
+        model.fit(X, Y)
 
     save_model_to_file(model, model_struct, model_weights)
 
