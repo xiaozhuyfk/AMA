@@ -284,7 +284,7 @@ def test(dataset):
 
             if len(inputs) >= 32:
                 inputs = np.array(inputs)
-                scores = model.predict([inputs, inputs])
+                scores = model.predict(inputs)
                 if (total_scores is None):
                     total_scores = scores
                 else:
@@ -298,7 +298,7 @@ def test(dataset):
 
         if inputs != []:
             inputs = np.array(inputs)
-            scores = model.predict([inputs, inputs])
+            scores = model.predict(inputs)
             if (total_scores is None):
                 total_scores = scores
             else:
