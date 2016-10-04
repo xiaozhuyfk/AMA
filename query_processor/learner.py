@@ -152,6 +152,42 @@ def process_trainingdata(dataset):
     logger.info("Longest vector of length " + str(length))
 
 
+def simple_lstm():
+    input_dim = int(config_options.get('Train', 'input-dim'))
+    model = Sequential()
+    model.add(LSTM(32, input_shape=(input_dim, 300),))
+    model.add(Dense(1, activation='sigmoid'))
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
+    return model
+
+def bidirectional_lstm():
+    input_dim = int(config_options.get('Train', 'input-dim'))
+    left = Sequential()
+    left.add(LSTM(output_dim=32,
+                  init='uniform',
+                  inner_init='uniform',
+                  forget_bias_init='one',
+                  return_sequences=False,
+                  activation='tanh',
+                  inner_activation='sigmoid',
+                  input_shape=(input_dim, 300)))
+    right = Sequential()
+    right.add(LSTM(output_dim=32,
+                   init='uniform',
+                   inner_init='uniform',
+                   forget_bias_init='one',
+                   return_sequences=False,
+                   activation='tanh',
+                   inner_activation='sigmoid',
+                   input_shape=(input_dim, 300),
+                   go_backwards=True))
+    model = Sequential()
+    model.add(Merge([left, right], mode='sum'))
+    model.add(Dense(1, activation='sigmoid'))
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
+    return model
+
+
 def train(dataset):
     config_options = globals.config
     training_data = config_options.get('Train', 'training-data')
@@ -163,10 +199,7 @@ def train(dataset):
     logger.info("Saving model struct to path: " + model_struct)
     logger.info("Saving model weights to path: " + model_weights)
 
-    model = Sequential()
-    model.add(LSTM(32, input_shape=(input_dim, 300)))
-    model.add(Dense(1, activation='sigmoid'))
-    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
+    model = bidirectional_lstm()
 
     X = []
     Y = []
@@ -186,7 +219,7 @@ def train(dataset):
         if (count >= batch_size):
             X = np.array(X)
             Y = np.array(Y)
-            model.fit(X, Y)
+            model.fit([X, X], Y)
             X = []
             Y = []
             count = 0
@@ -196,7 +229,7 @@ def train(dataset):
     if X != []:
         X = np.array(X)
         Y = np.array(Y)
-        model.fit(X, Y)
+        model.fit([X, X], Y)
 
     save_model_to_file(model, model_struct, model_weights)
 
