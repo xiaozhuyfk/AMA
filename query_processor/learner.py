@@ -153,6 +153,7 @@ def process_trainingdata(dataset):
 
 
 def simple_lstm():
+    config_options = globals.config
     input_dim = int(config_options.get('Train', 'input-dim'))
     model = Sequential()
     model.add(LSTM(32, input_shape=(input_dim, 300),))
@@ -161,6 +162,7 @@ def simple_lstm():
     return model
 
 def bidirectional_lstm():
+    config_options = globals.config
     input_dim = int(config_options.get('Train', 'input-dim'))
     left = Sequential()
     left.add(LSTM(output_dim=32,
