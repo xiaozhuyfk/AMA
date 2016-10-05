@@ -14,7 +14,7 @@ class MemoryNetwork(Layer):
         self.W = np.identity(input_dim)
 
     def call(self, x, mask=None):
-        return K.dot(x, self.W)
+        return x
 
     def get_output_shape_for(self, input_shape):
         return (input_shape[0], self.output_dim)
