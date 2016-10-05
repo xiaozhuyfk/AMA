@@ -82,6 +82,31 @@ class FactExtractor(object):
             self.store_fact_list(query, result)
             return result
 
+    def fact_list_on_disk(self, query):
+        id = query.id
+        file_path = self.fact_list_dir + str(id)
+        return os.path.isfile(file_path)
+
+    def load_fact_list_from_disk(self, query):
+        id = query.id
+        file_path = self.fact_list_dir + str(id)
+        if os.path.isfile(file_path):
+            result = []
+            facts = codecsReadFile(file_path).strip().split('\n')[1:]
+
+            for fact in facts:
+                if fact:
+                    hex = fact.split('\t')
+
+                    result.append(
+                        (hex[0], hex[1],
+                         hex[2],
+                         hex[3], hex[4])
+                    )
+            return result
+        else:
+            return []
+
     def extract_fact_list_with_ngram(self, query):
         logger.info("Extracting facts from question: " + query.utterance)
 
@@ -119,29 +144,3 @@ class FactExtractor(object):
                     hex = (s, s_name, r, "ATTRIBUTE", o)
                     result.append(hex)
         return result
-
-    def fact_list_on_disk(self, query):
-        id = query.id
-        file_path = self.fact_list_dir + str(id)
-        return os.path.isfile(file_path)
-
-    def load_fact_list_from_disk(self, query):
-        id = query.id
-        file_path = self.fact_list_dir + str(id)
-        if os.path.isfile(file_path):
-            result = []
-            facts = codecsReadFile(file_path).strip().split('\n')[1:]
-
-            for fact in facts:
-                if fact:
-                    hex = fact.split('\t')
-
-                    result.append(
-                        (hex[0], hex[1],
-                         hex[2],
-                         hex[3], hex[4])
-                    )
-            return result
-
-        else:
-            return []

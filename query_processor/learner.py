@@ -12,6 +12,7 @@ from keras.models import Model, model_from_json, Sequential
 import numpy as np
 import random
 from alphabet import Alphabet
+from memory_network import MemoryNetwork
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -65,7 +66,7 @@ def generate_data_from_file(path, input_dim):
             line = line.strip()
             if line == "":
                 continue
-            x, y = process_line(line)
+            x, y = process_line(line, input_dim)
             yield (np.array([x]), np.array([y]))
     f.close()
 
@@ -157,9 +158,6 @@ def simple_lstm():
     input_dim = int(config_options.get('Train', 'input-dim'))
     model = Sequential()
     model.add(LSTM(64, input_shape=(input_dim, 300),))
-    model.add(Dense(64, activation='relu'))
-    model.add(Dense(64, activation='relu'))
-    model.add(Dense(64, activation='relu'))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     return model
@@ -192,6 +190,42 @@ def bidirectional_lstm():
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     return model
 
+def memory_network():
+    vocab = Alphabet.from_iterable(word for sent in X for word in sent)
+    vocab_dim = 300 # dimensionality of your word vectors
+    n_symbols = len(vocab) + 1 # adding 1 to account for 0th index (for masking)
+    embedding_weights = np.zeros((n_symbols+1, vocab_dim))
+    for word,index in vocab._mapping.items():
+        vector = modules.w2v.transform(word)
+        if vector is not None:
+            embedding_weights[index+1,:] = vector
+    #X = [np.array([vocab[word]+1 for word in sent]) for sent in X]
+    Xtrain = []
+    for sent in X:
+        line = np.array([vocab[word]+1 for word in sent])
+        Xtrain.append(line)
+    X = np.array(Xtrain)
+    Y = np.array(Y)
+    # assemble the model
+    model = Sequential() # or Graph or whatever
+    model.add(
+        Embedding(output_dim=300,
+                  input_dim=n_symbols + 1,
+                  mask_zero=True,
+                  weights=[embedding_weights])
+    )
+    model.add(
+        LSTM(32,
+             return_sequences=False)
+    )
+    model.add(
+        Dense(1,
+              activation='sigmoid')
+    )
+    model.compile(optimizer='rmsprop',
+                  loss='binary_crossentropy')
+    model.fit(X, Y)
+    save_model_to_file(model, "modelstruct", "modelweights")
 
 def train(dataset):
     config_options = globals.config
@@ -204,6 +238,18 @@ def train(dataset):
     logger.info("Saving model struct to path: " + model_struct)
     logger.info("Saving model weights to path: " + model_weights)
 
+    model = Sequential()
+    model.add(Dense(64, input_dim=64))
+    model.add(MemoryNetwork(64))
+    model.add(Dense(1, activation='sigmoid'))
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
+
+    X = np.random.random((10000, 64))
+    Y = np.ones(10000)
+
+    model.fit(X, Y)
+
+    """
     #model = bidirectional_lstm()
     model = simple_lstm()
 
@@ -238,6 +284,7 @@ def train(dataset):
         model.fit(X, Y)
 
     save_model_to_file(model, model_struct, model_weights)
+    """
 
 
 def test(dataset):
