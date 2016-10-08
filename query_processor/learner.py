@@ -111,7 +111,7 @@ def process_trainingdata(dataset):
 
         for fact in correct:
             sid, s, r, oid, o = fact
-            relations = re.split("\.\.|\.", r)[:-2]
+            relations = re.split("\.\.|\.", r)[-2:]
             rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
 
             tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
@@ -158,6 +158,8 @@ def process_data(dataset, path):
     queries = load_eval_queries(dataset)
     #codecsWriteFile(training_data, "")
     #data = []
+    sentence_size = 0
+    memory_size = 0
     for query in queries:
         logger.info("Processing question " + str(query.id))
         data_path = path + str(query.id)
@@ -173,20 +175,31 @@ def process_data(dataset, path):
             sid, s, r, oid, o = fact
             if (o.startswith("g.")):
                 continue
-            relations = re.split("\.\.|\.", r)[:-2]
+            relations = re.split("\.\.|\.", r)[-2:]
             rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
             subjects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()]
             objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
             if (len(objects) > 10):
                 continue
-            story.append(subjects + rels + objects)
+            sentence = subjects + rels + objects
+            if (len(sentence) > sentence_size):
+                sentence_size = len(sentence)
+            story.append(sentence)
 
         d = {"query" : tokens,
              "story" : story,
              "answer" : answer}
 
+        if len(tokens) > sentence_size:
+            sentence_size = len(tokens)
+
+        if len(story) > memory_size:
+            memory_size = len(story)
+
+
         with codecs.open(data_path, mode='w', encoding='utf-8') as f:
             json.dump(d, f)
+    return sentence_size, memory_size
 
 
 
@@ -196,8 +209,13 @@ def load_data():
     config_options = globals.config
     training_data = config_options.get('Train', 'training-data')
     testing_data = config_options.get('Test', 'testing-data')
-    process_data("webquestionstrain", training_data)
-    process_data("webquestionstest", testing_data)
+    sentence_size_train, memory_size_train = process_data("webquestionstrain", training_data)
+    sentence_size_test, memory_size_test = process_data("webquestionstest", testing_data)
+
+    logger.info("Sentence size for training data: " + str(sentence_size_train))
+    logger.info("Memory size for training data: " + str(memory_size_train))
+    logger.info("Sentence size for test data: " + str(sentence_size_test))
+    logger.info("Memory size for test data: " + str(sentence_size_test))
 
 
 def simple_lstm():
