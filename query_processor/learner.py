@@ -185,7 +185,7 @@ def process_data(dataset, path):
              "story" : story,
              "answer" : answer}
 
-        with open(data_path, mode='w', encoding='utf-8') as f:
+        with codecs.open(data_path, mode='w', encoding='utf-8') as f:
             json.dump(d, f)
 
 
