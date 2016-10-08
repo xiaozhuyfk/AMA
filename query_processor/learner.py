@@ -393,7 +393,10 @@ def test(dataset):
                 predictions.append(o)
         """
 
-        predictions = memory_network_computation(tokens, input_facts)
+        if input_facts:
+            predictions = memory_network_computation(tokens, input_facts)
+        else:
+            predictions = []
         result_line = "\t".join([str(query.id) + question, str(answer), str(predictions)]) + "\n"
         codecsWriteFile(test_result, result_line, "a")
 
