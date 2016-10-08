@@ -11,7 +11,7 @@ class Question(object):
 class QuestionEncoder(object):
 
     @staticmethod
-    def position_encoding(self, tokens):
+    def position_encoding(tokens):
         w2v = modules.w2v
 
         Q = None
