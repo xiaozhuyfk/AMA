@@ -290,7 +290,7 @@ def train(dataset):
 def process_facts(facts):
     w2v = modules.w2v
     F = []
-    for fact in input_facts:
+    for fact in facts:
         sid, s, r, oid, o = fact
         relations = re.split("\.\.|\.", r)[:-2]
         rels = w2v.transform_seq([e for t in relations for e in re.split('\.\.|\.|_', t)])
