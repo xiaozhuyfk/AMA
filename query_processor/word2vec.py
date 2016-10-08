@@ -27,7 +27,7 @@ class Word2Vec(object):
     def transform_seq(self, tokens):
         V = []
         for t in tokens:
-            v = self.embeddings.get(t, None)
+            v = self.transform(t)
             if v is not None:
                 V.append(v)
         return V
