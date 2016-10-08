@@ -27,7 +27,7 @@ class QuestionEncoder(object):
         for i in xrange(len(V)):
             v = V[i]
             for j in xrange(d):
-                l_ij = min(float(i*d)/(j*q), float(j*q)/(i*d))
+                l_ij = min(float((i+1)*d)/((j+1)*q), float((j+1)*q)/((i+1)*d))
                 v[j] *= l_ij
 
             if Q is None:
