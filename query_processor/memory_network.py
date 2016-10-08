@@ -55,7 +55,7 @@ class FMNLayer(object):
         H = []
         for f in self.F:
             (s, r, o) = f
-            gscore = np.dao(self.q, (sum(s) + sum(r)))
+            gscore = np.dot(self.q, (sum(s) + sum(r)))
             G.append(exp(gscore))
         Gsum = sum(G)
         for gscore in G:
