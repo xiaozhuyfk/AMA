@@ -12,8 +12,8 @@ from keras.models import Model, model_from_json, Sequential
 import numpy as np
 import random
 from alphabet import Alphabet
-from memory_network import MemoryNetwork
 from question_embedding import QuestionEncoder
+import json
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -153,6 +153,52 @@ def process_trainingdata(dataset):
     logger.info(str(count) + " questions do not have answers.")
     logger.info("Longest vector of length " + str(length))
 
+def process_data(dataset, path):
+    training_data = path
+    queries = load_eval_queries(dataset)
+    #codecsWriteFile(training_data, "")
+    #data = []
+    for query in queries:
+        logger.info("Processing question " + str(query.id))
+        data_path = path + str(query.id)
+        codecsWriteFile(data_path, "")
+
+        facts = modules.extractor.extract_fact_list_with_entity_linker(query)
+        question = query.utterance.lower()[:-1]
+        tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
+        story = []
+        answer = query.target_result
+
+        for fact in facts:
+            sid, s, r, oid, o = fact
+            if (o.startswith("g.")):
+                continue
+            relations = re.split("\.\.|\.", r)[:-2]
+            rels = [e for t in relations for e in re.split('\.\.|\.|_', t)]
+            subjects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()]
+            objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
+            if (len(objects) > 10):
+                continue
+            story.append(subjects + rels + objects)
+
+        d = {"query" : tokens,
+             "story" : story,
+             "answer" : answer}
+
+        with open(data_path, mode='w', encoding='utf-8') as f:
+            json.dump(d, f)
+
+
+
+
+
+def load_data():
+    config_options = globals.config
+    training_data = config_options.get('Train', 'training-data')
+    testing_data = config_options.get('Test', 'testing-data')
+    process_data("webquestionstrain", training_data)
+    process_data("webquestionstest", testing_data)
+
 
 def simple_lstm():
     config_options = globals.config
@@ -229,6 +275,9 @@ def memory_network():
     save_model_to_file(model, "modelstruct", "modelweights")
 
 def train(dataset):
+    load_data()
+
+    """
     config_options = globals.config
     training_data = config_options.get('Train', 'training-data')
     model_struct = config_options.get('Train', 'model-struct')
@@ -249,6 +298,7 @@ def train(dataset):
     Y = np.ones(10000)
 
     model.fit(X, Y)
+    """
 
     """
     #model = bidirectional_lstm()

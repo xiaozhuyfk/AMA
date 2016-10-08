@@ -12,3 +12,4 @@ corenlp-frontend/
 *.so
 fact_list/
 training_data/
+fact_list.tar.gz
