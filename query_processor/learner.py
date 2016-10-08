@@ -217,7 +217,7 @@ def process_data(dataset, path):
 
         with codecs.open(data_path, mode='w', encoding='utf-8') as f:
             json.dump(d, f)
-        data.append((tokens, story, answer))
+        #data.append((tokens, story, answer))
 
     logger.info("Sentence size for test data: " + str(sentence_size))
     logger.info("Memory size for test data: " + str(memory_size))
