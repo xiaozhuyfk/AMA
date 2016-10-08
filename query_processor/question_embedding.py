@@ -19,7 +19,7 @@ class QuestionEncoder(object):
         d = 300
         for i in xrange(len(tokens)):
             token = tokens[i]
-            v = w2v.embeddings.get(token, None)
+            v = w2v.transform(token)
             if v is not None:
                 V.append(v)
 
