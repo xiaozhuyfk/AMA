@@ -24,6 +24,14 @@ class Word2Vec(object):
             logger.debug("'%s' don't have a word vector" % word)
             return None
 
+    def transform_seq(self, tokens):
+        V = []
+        for t in tokens:
+            v = self.embeddings.get(t, None)
+            if v is not None:
+                V.append(v)
+        return V
+
     def synonym_score(self, word_a, word_b):
         """
         Returns a synonym score for the provided words.

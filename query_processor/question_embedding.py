@@ -10,23 +10,27 @@ class Question(object):
 
 class QuestionEncoder(object):
 
+    @staticmethod
     def position_encoding(self, tokens):
         w2v = modules.w2v
 
         Q = None
-        q = len(tokens)
+        V = []
+        d = 300
         for i in xrange(len(tokens)):
             token = tokens[i]
             v = w2v.embeddings.get(token, None)
-            if v == None:
-                 continue
-            d = len(v)
+            if v is not None:
+                V.append(v)
 
+        q = len(V)
+        for i in xrange(len(V)):
+            v = V[i]
             for j in xrange(d):
                 l_ij = min(float(i*d)/(j*q), float(j*q)/(i*d))
                 v[j] *= l_ij
 
-            if Q == None:
+            if Q is None:
                 Q = v
             else:
                 Q += v

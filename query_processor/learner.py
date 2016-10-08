@@ -13,6 +13,7 @@ import numpy as np
 import random
 from alphabet import Alphabet
 from memory_network import MemoryNetwork
+from question_embedding import QuestionEncoder
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -286,6 +287,36 @@ def train(dataset):
     save_model_to_file(model, model_struct, model_weights)
     """
 
+def process_facts(facts):
+    w2v = modules.w2v
+    F = []
+    for fact in input_facts:
+        sid, s, r, oid, o = fact
+        relations = re.split("\.\.|\.", r)[:-2]
+        rels = w2v.transform_seq([e for t in relations for e in re.split('\.\.|\.|_', t)])
+        subjects = w2v.transform_seq([re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in s.split()])
+        objects = w2v.transform_seq([re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()])
+        F.append((subjects, rels, objects))
+    return F
+
+from memory_network import FMNLayer
+
+def memory_network_computation(tokens, facts):
+    q = QuestionEncoder.position_encoding(tokens)
+    F = process_facts(facts)
+
+    layer1 = FMNLayer((F, q, facts))
+    layer2 = FMNLayer(layer1.compute())
+    layer3 = FMNLayer(layer2.compute())
+    layer3.compute()
+
+    A = layer3.predict()
+    return A
+
+
+
+
+
 
 def test(dataset):
     config_options = globals.config
@@ -314,6 +345,7 @@ def test(dataset):
                 if (len(objects) <= 10):
                     input_facts.append(fact)
 
+        """
         inputs = []
         total_scores = None
         count = 0
@@ -359,7 +391,9 @@ def test(dataset):
             sid, s, r, oid, o = input_facts[i]
             if best_s == s and best_r == r:
                 predictions.append(o)
+        """
 
+        predictions = memory_network_computation(tokens, input_facts)
         result_line = "\t".join([str(query.id) + question, str(answer), str(predictions)]) + "\n"
         codecsWriteFile(test_result, result_line, "a")
 
