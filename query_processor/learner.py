@@ -4,7 +4,7 @@ import logging
 import globals
 import modules
 from evaluation import load_eval_queries
-from util import codecsWriteFile, codecsReadFile
+from util import codecsWriteFile, codecsReadFile, codecsLoadJson
 import codecs
 import re
 from keras.layers import Input, LSTM, Dense, Embedding, Merge
@@ -153,15 +153,33 @@ def process_trainingdata(dataset):
     logger.info(str(count) + " questions do not have answers.")
     logger.info("Longest vector of length " + str(length))
 
+
+def load_data_from_disk(query, path):
+        id = query.id
+        file_path = self.fact_list_dir + str(id)
+        if os.path.isfile(file_path):
+            d = codecsLoadJson(file_path)
+            return d
+        else:
+            return None
+
 def process_data(dataset, path):
-    training_data = path
     queries = load_eval_queries(dataset)
-    #codecsWriteFile(training_data, "")
-    #data = []
     sentence_size = 0
     memory_size = 0
+    data = []
     for query in queries:
         logger.info("Processing question " + str(query.id))
+        #d = load_data_from_disk(query, path)
+        d = None
+
+        if d is not None:
+            q = d.get("query")
+            s = d.get("story")
+            a = d.get("answer")
+            data.append((q, s, a))
+            continue
+
         data_path = path + str(query.id)
         codecsWriteFile(data_path, "")
 
@@ -199,7 +217,11 @@ def process_data(dataset, path):
 
         with codecs.open(data_path, mode='w', encoding='utf-8') as f:
             json.dump(d, f)
-    return sentence_size, memory_size
+        data.append((tokens, story, answer))
+
+    logger.info("Sentence size for test data: " + str(sentence_size))
+    logger.info("Memory size for test data: " + str(memory_size))
+    return data
 
 
 
@@ -209,6 +231,15 @@ def load_data():
     config_options = globals.config
     training_data = config_options.get('Train', 'training-data')
     testing_data = config_options.get('Test', 'testing-data')
+
+    #train = process_data("webquestionstrain", training_data)
+    test = process_data("webquestionstest", testing_data)
+    #data = train + test
+
+    #vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
+    #word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
+
+    """
     sentence_size_train, memory_size_train = process_data("webquestionstrain", training_data)
     sentence_size_test, memory_size_test = process_data("webquestionstest", testing_data)
 
@@ -216,6 +247,7 @@ def load_data():
     logger.info("Memory size for training data: " + str(memory_size_train))
     logger.info("Sentence size for test data: " + str(sentence_size_test))
     logger.info("Memory size for test data: " + str(sentence_size_test))
+    """
 
 
 def simple_lstm():
@@ -387,6 +419,8 @@ def memory_network_computation(tokens, facts):
 
 
 def test(dataset):
+    load_data()
+    """
     config_options = globals.config
     model_struct = config_options.get('Train', 'model-struct')
     model_weights = config_options.get('Train', 'model-weights')
@@ -412,8 +446,9 @@ def test(dataset):
                 objects = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in o.split()]
                 if (len(objects) <= 10):
                     input_facts.append(fact)
+    """
 
-        """
+    """
         inputs = []
         total_scores = None
         count = 0
@@ -459,14 +494,16 @@ def test(dataset):
             sid, s, r, oid, o = input_facts[i]
             if best_s == s and best_r == r:
                 predictions.append(o)
-        """
+    """
 
+    """
         if input_facts:
             predictions = memory_network_computation(tokens, input_facts)
         else:
             predictions = []
         result_line = "\t".join([str(query.id) + question, str(answer), str(predictions)]) + "\n"
         codecsWriteFile(test_result, result_line, "a")
+    """
 
 
 def main():

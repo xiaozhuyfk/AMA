@@ -1,4 +1,5 @@
 import codecs
+import json
 
 # Read a file
 # filename is the path of the file, string type
@@ -46,3 +47,13 @@ def codecsWriteFile(filename, contents, mode = "wt", encoding = 'utf-8'):
     finally:
         if (f != None): f.close()
     return True
+
+def codecsLoadJson(filename, mode = "wt", encoding = 'utf-8'):
+    f = None
+    d = None
+    try:
+        with codecs.open(filename, mode, encoding) as f:
+            d = json.load(f)
+    finally:
+        if (f != None): f.close()
+    return d
