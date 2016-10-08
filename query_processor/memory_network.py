@@ -80,6 +80,6 @@ class FMNLayer(object):
         for i in xrange(len(F)):
             (s, r, o) = F[i]
             h = H[i]
-            q += h * (s + r)
+            q += h * (sum(s) + sum(r))
         return q
 
