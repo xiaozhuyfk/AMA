@@ -175,16 +175,16 @@ def process_data(dataset, path):
     vocab = set([])
     for query in queries:
         logger.info("Processing question " + str(query.id))
-        #d = load_data_from_disk(query, path)
-        d = None
+        d = load_data_from_disk(query, path)
         if d is not None:
             q = d.get("query")
             s = d.get("story")
             a = d.get("answer")
             #data.append((q, s, a))
             vocab |= reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a)))
-            continue
+            #continue
 
+        """
         data_path = path + str(query.id)
         codecsWriteFile(data_path, "")
 
@@ -222,11 +222,10 @@ def process_data(dataset, path):
 
         with codecs.open(data_path, mode='w', encoding='utf-8') as f:
             json.dump(d, f)
-        break
-        #data.append((tokens, story, answer))
+        """
 
-    logger.info("Sentence size for test data: " + str(sentence_size))
-    logger.info("Memory size for test data: " + str(memory_size))
+    #logger.info("Sentence size for test data: " + str(sentence_size))
+    #logger.info("Memory size for test data: " + str(memory_size))
     return vocab
 
 
@@ -237,11 +236,11 @@ def load_data():
     testing_data = config_options.get('Test', 'testing-data')
 
     vocab_train = process_data("webquestionstrain", training_data)
-    #vocab_test = process_data("webquestionstest", testing_data)
+    vocab_test = process_data("webquestionstest", testing_data)
 
-    #vocab = vocab_train | vocab_test
-    #with codecs.open(vocab_file, mode='w', encoding='utf-8') as f:
-    #    json.dump(sorted(vocab), f)
+    vocab = vocab_train | vocab_test
+    with codecs.open(vocab_file, mode='w', encoding='utf-8') as f:
+        json.dump(sorted(vocab), f)
 
     #vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
     #word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
