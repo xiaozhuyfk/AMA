@@ -14,6 +14,8 @@ import random
 from alphabet import Alphabet
 from question_embedding import QuestionEncoder
 import json
+import tensorflow as tf
+from memn2n import MemN2N
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -167,17 +169,18 @@ def process_data(dataset, path):
     queries = load_eval_queries(dataset)
     sentence_size = 0
     memory_size = 0
-    data = []
+    vocab = set([])
     for query in queries:
         logger.info("Processing question " + str(query.id))
-        #d = load_data_from_disk(query, path)
+        d = load_data_from_disk(query, path)
         d = None
 
         if d is not None:
             q = d.get("query")
             s = d.get("story")
             a = d.get("answer")
-            data.append((q, s, a))
+            #data.append((q, s, a))
+            vocab |= reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a)))
             continue
 
         data_path = path + str(query.id)
@@ -221,20 +224,21 @@ def process_data(dataset, path):
 
     logger.info("Sentence size for test data: " + str(sentence_size))
     logger.info("Memory size for test data: " + str(memory_size))
-    return data
-
-
-
+    return vocab
 
 
 def load_data():
     config_options = globals.config
+    vocab_file = config_options.get('Train', 'vocab')
     training_data = config_options.get('Train', 'training-data')
     testing_data = config_options.get('Test', 'testing-data')
 
-    #train = process_data("webquestionstrain", training_data)
-    test = process_data("webquestionstest", testing_data)
-    #data = train + test
+    vocab_train = process_data("webquestionstrain", training_data)
+    vocab_test = process_data("webquestionstest", testing_data)
+
+    vocab = vocab_train | vocab_test
+    with codecs.open(vocab_file, mode='w', encoding='utf-8') as f:
+        json.dump(sorted(vocab), f)
 
     #vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
     #word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
