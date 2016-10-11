@@ -237,11 +237,11 @@ def load_data():
     testing_data = config_options.get('Test', 'testing-data')
 
     vocab_train = process_data("webquestionstrain", training_data)
-    vocab_test = process_data("webquestionstest", testing_data)
+    #vocab_test = process_data("webquestionstest", testing_data)
 
-    vocab = vocab_train | vocab_test
-    with codecs.open(vocab_file, mode='w', encoding='utf-8') as f:
-        json.dump(sorted(vocab), f)
+    #vocab = vocab_train | vocab_test
+    #with codecs.open(vocab_file, mode='w', encoding='utf-8') as f:
+    #    json.dump(sorted(vocab), f)
 
     #vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
     #word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
