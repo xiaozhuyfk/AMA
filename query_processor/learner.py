@@ -158,7 +158,7 @@ def process_trainingdata(dataset):
 
 def load_data_from_disk(query, path):
         id = query.id
-        file_path = self.fact_list_dir + str(id)
+        file_path = path + str(id)
         if os.path.isfile(file_path):
             d = codecsLoadJson(file_path)
             return d
@@ -173,7 +173,6 @@ def process_data(dataset, path):
     for query in queries:
         logger.info("Processing question " + str(query.id))
         d = load_data_from_disk(query, path)
-        d = None
 
         if d is not None:
             q = d.get("query")
