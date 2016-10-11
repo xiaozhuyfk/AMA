@@ -257,6 +257,7 @@ def load_data():
     batch_size = FLAGS.batch_size
     sentence_size = 28
     memory_size = 652303
+    vocab_size = len(word_idx) + 1
 
     optimizer = tf.train.AdamOptimizer(learning_rate=FLAGS.learning_rate,
                                        epsilon=FLAGS.epsilon)
