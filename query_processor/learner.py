@@ -277,7 +277,7 @@ def load_data():
         for i in xrange(len(train_queries)):
             query = train_queries[i]
             logger.info("Processing question " + str(query.id))
-            d = load_data_from_disk(query, path)
+            d = load_data_from_disk(query, training_data)
             q = d.get("query")
             s = d.get("story")
             a = d.get("answer")
