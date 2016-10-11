@@ -284,7 +284,7 @@ def load_data():
 
             data.append((s, q, a))
 
-            if (len(data) < 32):
+            if (len(data) < 8):
                 continue
 
             trainS, trainQ, trainA = vectorize_data(data, word_idx, sentence_size, memory_size)
