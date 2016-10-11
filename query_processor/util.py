@@ -48,7 +48,7 @@ def codecsWriteFile(filename, contents, mode = "wt", encoding = 'utf-8'):
         if (f != None): f.close()
     return True
 
-def codecsLoadJson(filename, mode = "wt", encoding = 'utf-8'):
+def codecsLoadJson(filename, mode = "rt", encoding = 'utf-8'):
     f = None
     d = None
     try:

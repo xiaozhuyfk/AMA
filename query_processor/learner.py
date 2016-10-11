@@ -161,9 +161,9 @@ def load_data_from_disk(query, path):
         id = query.id
         file_path = path + str(id)
         if os.path.isfile(file_path):
-            #d = codecsLoadJson(file_path)
-            with codecs.open(file_path, "wt", encoding='utf-8') as f:
-                d = json.load(f)
+            d = codecsLoadJson(file_path)
+            #with codecs.open(file_path, "wt", encoding='utf-8') as f:
+            #    d = json.load(f)
             return d
         else:
             return None
