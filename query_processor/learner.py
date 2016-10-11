@@ -181,6 +181,9 @@ def process_data(dataset, path):
             q = d.get("query")
             s = d.get("story")
             a = d.get("answer")
+            print(type(q))
+            print(type(s))
+            print(type(a))
             #data.append((q, s, a))
             vocab |= reduce(lambda x, y: x | y, set(list(chain.from_iterable(s)) + q + a))
             #continue
