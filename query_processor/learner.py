@@ -14,6 +14,7 @@ import random
 from alphabet import Alphabet
 from question_embedding import QuestionEncoder
 import json
+from itertools import chain
 import os
 import tensorflow as tf
 from memn2n import MemN2N
