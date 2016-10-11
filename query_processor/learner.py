@@ -176,7 +176,7 @@ def process_data(dataset, path):
     for query in queries:
         logger.info("Processing question " + str(query.id))
         d = load_data_from_disk(query, path)
-
+        d = None
         if d is not None:
             q = d.get("query")
             s = d.get("story")
@@ -222,6 +222,7 @@ def process_data(dataset, path):
 
         with codecs.open(data_path, mode='w', encoding='utf-8') as f:
             json.dump(d, f)
+        break
         #data.append((tokens, story, answer))
 
     logger.info("Sentence size for test data: " + str(sentence_size))
