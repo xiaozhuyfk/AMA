@@ -175,7 +175,7 @@ def process_data(dataset, path):
     vocab = set([])
     for query in queries:
         logger.info("Processing question " + str(query.id))
-        d = load_data_from_disk(query, path)
+        #d = load_data_from_disk(query, path)
         d = None
         if d is not None:
             q = d.get("query")
