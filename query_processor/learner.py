@@ -18,6 +18,7 @@ from itertools import chain
 import os
 import tensorflow as tf
 from memn2n import MemN2N
+from data_utils import vectorize_data
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -181,9 +182,7 @@ def process_data(dataset, path):
             q = d.get("query")
             s = d.get("story")
             a = d.get("answer")
-            #data.append((q, s, a))
             vocab |= set(list(chain.from_iterable(s)) + q + a)
-            #continue
 
         """
         data_path = path + str(query.id)
@@ -229,6 +228,19 @@ def process_data(dataset, path):
     #logger.info("Memory size for test data: " + str(memory_size))
     return vocab
 
+tf.flags.DEFINE_float("learning_rate", 0.01, "Learning rate for Adam Optimizer.")
+tf.flags.DEFINE_float("epsilon", 1e-8, "Epsilon value for Adam Optimizer.")
+tf.flags.DEFINE_float("max_grad_norm", 40.0, "Clip gradients to this norm.")
+tf.flags.DEFINE_integer("evaluation_interval", 10, "Evaluate and print results every x epochs")
+tf.flags.DEFINE_integer("batch_size", 32, "Batch size for training.")
+tf.flags.DEFINE_integer("hops", 1, "Number of hops in the Memory Network.")
+tf.flags.DEFINE_integer("epochs", 200, "Number of epochs to train for.")
+tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matrices.")
+tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
+tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
+tf.flags.DEFINE_integer("random_state", None, "Random state.")
+tf.flags.DEFINE_string("data_dir", "data/tasks_1-20_v1-2/en/", "Directory containing bAbI tasks")
+FLAGS = tf.flags.FLAGS
 
 def load_data():
     config_options = globals.config
@@ -236,12 +248,54 @@ def load_data():
     training_data = config_options.get('Train', 'training-data')
     testing_data = config_options.get('Test', 'testing-data')
 
-    vocab_train = process_data("webquestionstrain", training_data)
-    vocab_test = process_data("webquestionstest", testing_data)
+    #vocab_train = process_data("webquestionstrain", training_data)
+    #vocab_test = process_data("webquestionstest", testing_data)
 
-    vocab = vocab_train | vocab_test
-    with codecs.open(vocab_file, mode='w', encoding='utf-8') as f:
-        json.dump(sorted(vocab), f)
+    vocab = codecsLoadJson(vocab_file)
+    word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
+
+    batch_size = FLAGS.batch_size
+    sentence_size = 28
+    memory_size = 652303
+
+    optimizer = tf.train.AdamOptimizer(learning_rate=FLAGS.learning_rate,
+                                       epsilon=FLAGS.epsilon)
+    with tf.Session() as sess:
+        model = MemN2N(batch_size,
+                       vocab_size,
+                       sentence_size,
+                       memory_size,
+                       64,
+                       session=sess,
+                       hops=FLAGS.hops,
+                       max_grad_norm=FLAGS.max_grad_norm,
+                       optimizer=optimizer)
+
+        train_queries = load_eval_queries("webquestionstrain")
+        data = []
+        for i in xrange(len(train_queries)):
+            query = train_queries[i]
+            logger.info("Processing question " + str(query.id))
+            d = load_data_from_disk(query, path)
+            q = d.get("query")
+            s = d.get("story")
+            a = d.get("answer")
+
+            data.append((s, q, a))
+
+            if (len(data) < 32):
+                continue
+
+            trainS, trainQ, trainA = vectorize_data(data, word_idx, sentence_size, memory_size)
+            for t in range(1, FLAGS.epochs+1):
+                model.batch_fit(trainS, trainQ, trainA)
+
+            data = []
+
+        if data != []:
+            trainS, trainQ, trainA = vectorize_data(data, word_idx, sentence_size, memory_size)
+            for t in range(1, FLAGS.epochs+1):
+                model.batch_fit(trainS, trainQ, trainA)
 
     #vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
     #word_idx = dict((c, i + 1) for i, c in enumerate(vocab))

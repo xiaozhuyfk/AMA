@@ -57,3 +57,12 @@ def codecsLoadJson(filename, mode = "rt", encoding = 'utf-8'):
     finally:
         if (f != None): f.close()
     return d
+
+def codecsDumpJson(filename, contents, mode = "wt", encoding = 'utf-8'):
+    f = None
+    try:
+        with codecs.open(filename, mode, encoding) as f:
+            json.dump(contents, f)
+    finally:
+        if (f != None): f.close()
+    return True
