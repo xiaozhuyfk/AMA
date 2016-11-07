@@ -66,7 +66,7 @@ class FactExtractor(object):
             for ie in entities:
                 e = ie.entity
                 s, s_name = e.id, e.name
-                score = e.surface_score
+                score = e.entity.surface_score
                 s_name_result = self.backend.query(self.name_by_id_query % s)
                 if s_name_result == []:
                     s_name = e.name
@@ -85,27 +85,57 @@ class FactExtractor(object):
                         if r in relations:
                             rel = relations[r]
                             rel["objects"].append(o_name[0][0])
-                            rel["oid"].append()
-                        hex = (s, s_name, r, "EMPTY", o, o_name[0][0])
-                        result.append(hex)
+                            rel["oid"].append(o)
+                        else:
+                            relations[r] = {"objects" : [o_name[0][0]],
+                                            "oid" : [o]}
+                        #hex = (s, s_name, r, "EMPTY", o, o_name[0][0])
+                        #result.append(hex)
                     elif o.startswith('g.'):
                         subfacts = self.backend.query(self.facts_by_id_query % o)
                         for subf in subfacts:
                             subr, subo = subf[0], subf[1]
+                            subr = r + "\n" + subr
                             if subo.startswith('m.'):
                                 o_name = self.backend.query(self.name_by_id_query % subo)
                                 if o_name == []:
                                     continue
-                                hex = (s, s_name, r, subr, subo, o_name[0][0])
-                                result.append(hex)
+                                if subr in relations:
+                                    rel = relations[subr]
+                                    rel["objects"].append(o_name[0][0])
+                                    rel["oid"].append(subo)
+                                else:
+                                    relations[subr] = {"objects" : [o_name[0][0]],
+                                                       "oid" : [subo]}
+                                #hex = (s, s_name, r, subr, subo, o_name[0][0])
+                                #result.append(hex)
                             elif o.startswith('g.'):
                                 continue
                             else:
-                                hex = (s, s_name, r, subr, "ATTRIBUTE", o)
-                                result.append(hex)
+                                if subr in relations:
+                                    rel = relations[subr]
+                                    rel["objects"].append(subo)
+                                    rel["oid"].append("ATTRIBUTE")
+                                else:
+                                    relations[subr] = {"objects" : [subo],
+                                                       "oid" : ["ATTRIBUTE"]}
+                                #hex = (s, s_name, r, subr, "ATTRIBUTE", o)
+                                #result.append(hex)
                     else:
-                        hex = (s, s_name, r, "EMPTY", "ATTRIBUTE", o)
-                        result.append(hex)
+                        if r in relations:
+                            rel = relations[r]
+                            rel["objects"].append(o)
+                            rel["oid"].append("ATTRIBUTE")
+                        else:
+                            relations[r] = {"objects" : [o],
+                                               "oid" : ["ATTRIBUTE"]}
+                        #hex = (s, s_name, r, "EMPTY", "ATTRIBUTE", o)
+                        #result.append(hex)
+                d = {"subject" : s_name,
+                     "sid" : s,
+                     "score" : score,
+                     "relations" : relations}
+                result.append(d)
             self.store_fact_list(query, result)
             #return result
 
