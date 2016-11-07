@@ -404,7 +404,9 @@ def randomize_input(trainS, trainQ, trainA):
     return trainS, trainQ, trainA
 
 def train(dataset):
-    #load_data()
+    load_data()
+    exit()
+
     config_options = globals.config
     vocab_file = config_options.get('Train', 'vocab')
     training_data = config_options.get('Train', 'training-data')

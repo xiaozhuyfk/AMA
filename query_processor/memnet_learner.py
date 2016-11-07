@@ -51,6 +51,7 @@ def process_data(dataset, path):
     queries = load_eval_queries(dataset)
     sentence_size = 0
     vocab = set([])
+
     for query in queries:
         logger.info("Processing question " + str(query.id))
 
@@ -68,6 +69,7 @@ def process_data(dataset, path):
             continue
 
     return vocab, sentence_size
+
     """
         data_path = path + str(query.id)
         codecsWriteFile(data_path, "")
@@ -154,6 +156,7 @@ tf.flags.DEFINE_string("data_dir", "data/tasks_1-20_v1-2/en/", "Directory contai
 FLAGS = tf.flags.FLAGS
 
 def load_data():
+    """
     config_options = globals.config
     vocab_file = config_options.get('Train', 'vocab')
     training_data = config_options.get('Train', 'training-data')
@@ -166,6 +169,13 @@ def load_data():
 
     print(size1)
     print(size2)
+    """
+
+    queries = load_eval_queries(dataset)
+    for query in queries:
+        logger.info("Processing question " + str(query.id))
+        modules.extractor.extract_fact_list_with_entity_linker(query)
+        break
 
 
 
@@ -194,8 +204,8 @@ def randomize_input(trainS, trainQ, trainA):
     return trainS, trainQ, trainA
 
 def train(dataset):
-    #load_data()
-    #exit()
+    load_data()
+    exit()
 
     config_options = globals.config
     vocab_file = config_options.get('Train', 'vocab')
@@ -359,8 +369,8 @@ def test_iter(model, S, Q, indices):
 
 
 def test(dataset):
-    #load_data()
-    #exit()
+    load_data()
+    exit()
 
     config_options = globals.config
     vocab_file = config_options.get('Train', 'vocab')
