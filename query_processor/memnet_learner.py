@@ -172,10 +172,14 @@ def load_data(dataset):
     """
 
     queries = load_eval_queries(dataset)
+    count = 0
     for query in queries:
+        count += 1
         logger.info("Processing question " + str(query.id))
         modules.extractor.extract_fact_list_with_entity_linker(query)
-        break
+
+        if count > 2:
+            break
 
 
 
