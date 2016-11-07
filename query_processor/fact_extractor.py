@@ -1,7 +1,7 @@
 import logging
 import os
 import modules
-from util import readFile, codecsWriteFile, codecsReadFile
+from util import readFile, codecsWriteFile, codecsReadFile, codecsDumpJson
 
 logger = logging.getLogger(__name__)
 
@@ -66,12 +66,14 @@ class FactExtractor(object):
             for ie in entities:
                 e = ie.entity
                 s, s_name = e.id, e.name
+                score = e.surface_score
                 s_name_result = self.backend.query(self.name_by_id_query % s)
                 if s_name_result == []:
                     s_name = e.name
                 else:
                     s_name = s_name_result[0][0]
 
+                relations = {}
                 facts = self.backend.query(self.facts_by_id_query % s)
                 for f in facts:
                     r, o = f[0], f[1]
@@ -80,6 +82,10 @@ class FactExtractor(object):
                         # skip if the entity does not have a name in Freebase
                         if o_name == []:
                             continue
+                        if r in relations:
+                            rel = relations[r]
+                            rel["objects"].append(o_name[0][0])
+                            rel["oid"].append()
                         hex = (s, s_name, r, "EMPTY", o, o_name[0][0])
                         result.append(hex)
                     elif o.startswith('g.'):
@@ -101,7 +107,7 @@ class FactExtractor(object):
                         hex = (s, s_name, r, "EMPTY", "ATTRIBUTE", o)
                         result.append(hex)
             self.store_fact_list(query, result)
-            return result
+            #return result
 
     def fact_list_on_disk(self, query):
         id = query.id
