@@ -66,3 +66,33 @@ def codecsDumpJson(filename, contents, mode = "wt", encoding = 'utf-8'):
     finally:
         if (f != None): f.close()
     return True
+
+import subprocess
+def kstem(stem):
+    cmd = ['java',
+           '-classpath',
+           'kstem.jar',
+           'org.lemurproject.kstem.KrovetzStemmer',
+           '-w',
+           stem]
+    p = subprocess.Popen(cmd, stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
+    out, err = p.communicate()
+    result = out.split(" ")[1][:-1]
+    return result
+
+
+if __name__ == '__main__':
+    #print edit_distance('this is a house', 'this is not a house')
+    #sftp_get("/home/hongyul/Python-2.7.11.tgz", "/Users/Hongyu1/Desktop/Python.tgz")
+    #sftp_get_r("/home/hongyul/query", "/Users/Hongyu1/Desktop")
+    #sftp_put("/Users/Hongyu1/Desktop/Python.tgz", "/home/hongyul/haha.tgz")
+    #print sftp_execute("../init_env/bin/python indri.py name_of_collection_activity")
+    #print sftp_listdir("/home/hongyul/")
+    #get_filenames()
+    #sftp_put("/data/dump.tar.gz", "/home/hongyul/aqqu/testresult/dump")
+    #test()
+    print kstem("what-if")
+    print kstem("Paris")
+    print kstem("imaging")
+    print kstem("discovered")
+    print kstem("looping")

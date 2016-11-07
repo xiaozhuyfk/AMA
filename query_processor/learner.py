@@ -17,8 +17,8 @@ import json
 from itertools import chain
 import os
 import tensorflow as tf
-from memn2n import MemN2N
-from data_utils import vectorize_data
+from memory_network import MemN2N
+from data_utils import vectorize_data, memory_data, selective_data
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -38,7 +38,7 @@ def save_model_to_file(model, struct_file, weights_file):
 
 def load_model(struct_file, weights_file):
     model = model_from_json(open(struct_file, 'r').read())
-    model.compile(loss="categorical_crossentropy", optimizer='sgd')
+    model.compile(loss="binary_crossentropy", optimizer='rmsprop')
     model.load_weights(weights_file)
 
     return model
@@ -172,19 +172,17 @@ def load_data_from_disk(query, path):
 
 def process_data(dataset, path):
     queries = load_eval_queries(dataset)
-    sentence_size = 0
-    memory_size = 0
-    vocab = set([])
     for query in queries:
         logger.info("Processing question " + str(query.id))
+        """
         d = load_data_from_disk(query, path)
         if d is not None:
             q = d.get("query")
             s = d.get("story")
             a = d.get("answer")
             vocab |= set(list(chain.from_iterable(s)) + q + a)
-
         """
+
         data_path = path + str(query.id)
         codecsWriteFile(data_path, "")
 
@@ -192,6 +190,10 @@ def process_data(dataset, path):
         question = query.utterance.lower()[:-1]
         tokens = [re.sub('[?!@#$%^&*,()_+=\']', '', t) for t in question.split()]
         story = []
+        S = []
+        R = []
+        O = []
+        y = []
         answer = query.target_result
 
         for fact in facts:
@@ -205,36 +207,31 @@ def process_data(dataset, path):
             if (len(objects) > 10):
                 continue
             sentence = subjects + rels + objects
-            if (len(sentence) > sentence_size):
-                sentence_size = len(sentence)
             story.append(sentence)
+            S.append(subjects)
+            R.append(rels)
+            O.append(objects)
+            y.append((o in answer) * 1.0)
 
         d = {"query" : tokens,
              "story" : story,
-             "answer" : answer}
-
-        if len(tokens) > sentence_size:
-            sentence_size = len(tokens)
-
-        if len(story) > memory_size:
-            memory_size = len(story)
-
+             "answer" : answer,
+             "S": S,
+             "R": R,
+             "O": O,
+             "y": y}
 
         with codecs.open(data_path, mode='w', encoding='utf-8') as f:
-            json.dump(d, f)
-        """
+            json.dump(d, f, indent=4)
 
-    #logger.info("Sentence size for test data: " + str(sentence_size))
-    #logger.info("Memory size for test data: " + str(memory_size))
-    return vocab
 
 tf.flags.DEFINE_float("learning_rate", 0.01, "Learning rate for Adam Optimizer.")
 tf.flags.DEFINE_float("epsilon", 1e-8, "Epsilon value for Adam Optimizer.")
 tf.flags.DEFINE_float("max_grad_norm", 40.0, "Clip gradients to this norm.")
 tf.flags.DEFINE_integer("evaluation_interval", 10, "Evaluate and print results every x epochs")
 tf.flags.DEFINE_integer("batch_size", 32, "Batch size for training.")
-tf.flags.DEFINE_integer("hops", 1, "Number of hops in the Memory Network.")
-tf.flags.DEFINE_integer("epochs", 20, "Number of epochs to train for.")
+tf.flags.DEFINE_integer("hops", 3, "Number of hops in the Memory Network.")
+tf.flags.DEFINE_integer("epochs", 10, "Number of epochs to train for.")
 tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matrices.")
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
@@ -247,16 +244,17 @@ def load_data():
     vocab_file = config_options.get('Train', 'vocab')
     training_data = config_options.get('Train', 'training-data')
     testing_data = config_options.get('Test', 'testing-data')
+    model_file = config_options.get('Train', 'model-file')
 
-    #vocab_train = process_data("webquestionstrain", training_data)
-    #vocab_test = process_data("webquestionstest", testing_data)
+    #process_data("webquestionstrain", training_data)
+    #process_data("webquestionstest", testing_data)
 
     vocab = codecsLoadJson(vocab_file)
     word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
 
     batch_size = FLAGS.batch_size
     sentence_size = 28
-    memory_size = 652303
+    memory_size = 20
     vocab_size = len(word_idx) + 1
 
     optimizer = tf.train.AdamOptimizer(learning_rate=FLAGS.learning_rate,
@@ -278,26 +276,20 @@ def load_data():
             query = train_queries[i]
             logger.info("Processing question " + str(query.id))
             d = load_data_from_disk(query, training_data)
-            q = d.get("query")
-            s = d.get("story")
-            a = d.get("answer")
+            data.append(d)
 
-            data.append((s, q, a))
-
-            if (len(data) < 8):
-                continue
-
-            trainS, trainQ, trainA = vectorize_data(data, word_idx, sentence_size, memory_size)
-            print("haha")
+            if len(data) >= 100:
+                trainS, trainQ, trainA = memory_data(data, word_idx, sentence_size, memory_size)
+                logger.info("Done loading memory vectors.")
+                for t in range(1, FLAGS.epochs+1):
+                    model.batch_fit(trainS, trainQ, trainA)
+                data = []
+        if len(data) > 0:
+            trainS, trainQ, trainA = memory_data(data, word_idx, sentence_size, memory_size)
+            logger.info("Done loading memory vectors.")
             for t in range(1, FLAGS.epochs+1):
                 model.batch_fit(trainS, trainQ, trainA)
-
-            data = []
-
-        if data != []:
-            trainS, trainQ, trainA = vectorize_data(data, word_idx, sentence_size, memory_size)
-            for t in range(1, FLAGS.epochs+1):
-                model.batch_fit(trainS, trainQ, trainA)
+        model.save_model(model_file)
 
     #vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
     #word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
@@ -387,8 +379,84 @@ def memory_network():
     model.fit(X, Y)
     save_model_to_file(model, "modelstruct", "modelweights")
 
+def training_progress_message(epoch, epochs, query_id, total, loss):
+    progress = ("Progress: %.2f" % (float(query_id + 1) / total * 100)) + "%"
+    message = "Processing question " + str(query_id) + ". "
+    training = "Epoch %d/%d: loss = %f. " % (epoch, epochs, loss)
+
+    return message + training + progress + " "*10 + "\r"
+
+def randomize_input(trainS, trainQ, trainA):
+    shuffleS = []
+    shuffleQ = []
+    shuffleA = []
+    indices = range(len(trainS))
+    random.shuffle(indices)
+
+    for i in indices:
+        shuffleS.append(trainS[i])
+        shuffleQ.append(trainQ[i])
+        shuffleA.append(trainA[i])
+
+    trainS = np.array(shuffleS)
+    trainQ = np.array(shuffleQ)
+    trainA = np.array(shuffleA)
+    return trainS, trainQ, trainA
+
 def train(dataset):
-    load_data()
+    #load_data()
+    config_options = globals.config
+    vocab_file = config_options.get('Train', 'vocab')
+    training_data = config_options.get('Train', 'training-data')
+    model_file = config_options.get('Train', 'model-file')
+
+    vocab = codecsLoadJson(vocab_file)
+    word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
+
+    batch_size = FLAGS.batch_size
+    sentence_size = 28
+    memory_size = 20
+    vocab_size = len(word_idx) + 1
+
+    optimizer = tf.train.AdamOptimizer(learning_rate=FLAGS.learning_rate,
+                                       epsilon=FLAGS.epsilon)
+    with tf.Session() as sess:
+        model = MemN2N(batch_size,
+                       vocab_size,
+                       sentence_size,
+                       memory_size,
+                       64,
+                       session=sess,
+                       hops=FLAGS.hops,
+                       max_grad_norm=FLAGS.max_grad_norm,
+                       optimizer=optimizer)
+
+        queries = load_eval_queries(dataset)
+        data = []
+        for t in range(1, FLAGS.epochs+1):
+            loss = 0
+            for i in xrange(len(queries)):
+                query = queries[i]
+                #print("Processing question " + str(query.id) + "            \r", end="")
+                print(training_progress_message(t, FLAGS.epochs, i+1, len(queries), loss), end="")
+                d = load_data_from_disk(query, training_data)
+                data.append(d)
+
+                if len(data) >= 100:
+                    trainS, trainQ, trainA = selective_data(data, word_idx, sentence_size, memory_size)
+                    trainS, trainQ, trainA = randomize_input(trainS, trainQ, trainA)
+                    loss = model.batch_fit(trainS, trainQ, trainA)
+                    #message = "Epoch %d/%d: loss = %f" % (t, FLAGS.epochs, loss)
+                    #logger.info(message)
+                    data = []
+            if len(data) > 0:
+                trainS, trainQ, trainA = selective_data(data, word_idx, sentence_size, memory_size)
+                trainS, trainQ, trainA = randomize_input(trainS, trainQ, trainA)
+                loss = model.batch_fit(trainS, trainQ, trainA)
+            print("")
+            message = "Epoch %d/%d: loss = %f" % (t, FLAGS.epochs, loss)
+            logger.info(message)
+        model.save_model(model_file)
 
     """
     config_options = globals.config
@@ -462,27 +530,135 @@ def process_facts(facts):
         F.append((subjects, rels, objects))
     return F
 
-from memory_network import FMNLayer
 
-def memory_network_computation(tokens, facts):
-    q = QuestionEncoder.position_encoding(tokens)
-    F = process_facts(facts)
+def test_iter(model, S, Q, indices):
+    n, memory_size, sentence_size = S.shape
+    predictions = model.predict_proba(S, Q)
 
-    layer1 = FMNLayer((F, q, facts))
-    layer2 = FMNLayer(layer1.compute())
-    layer3 = FMNLayer(layer2.compute())
-    layer3.compute()
+    if n == 1:
+        idx = np.argmax(predictions[0])
+        return indices[idx]
 
-    A = layer3.predict()
-    return A
+    new_index = []
+    ss = []
+    for i in xrange(n):
+        arr = predictions[i]
+        best = np.argmax(arr)
+        ss.append(S[i][best])
+        best = i * memory_size + best
+        new_index.append(indices[best])
 
+    testS = []
+    testQ = []
+    nn = len(ss) / memory_size + 1
+    for i in xrange(nn):
+        stmp = ss[i * memory_size : (i+1) * memory_size]
+        lm = max(0, memory_size - len(stmp))
+        for _ in xrange(lm):
+            stmp.append([0] * sentence_size)
+        testS.append(stmp)
+        testQ.append(Q[0])
+    testS = np.array(testS)
+    testQ = np.array(testQ)
+
+    lm = max(0, memory_size * nn - len(new_index))
+    new_index += [-1] * lm
+
+    return test_iter(model, testS, testQ, new_index)
 
 
 
 
 
 def test(dataset):
-    load_data()
+    config_options = globals.config
+    vocab_file = config_options.get('Train', 'vocab')
+    testing_data = config_options.get('Test', 'testing-data')
+    model_file = config_options.get('Train', 'model-file')
+    test_result = config_options.get('Test', 'test-result')
+
+    vocab = codecsLoadJson(vocab_file)
+    word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
+
+    batch_size = FLAGS.batch_size
+    sentence_size = 28
+    memory_size = 20
+    vocab_size = len(word_idx) + 1
+
+    optimizer = tf.train.AdamOptimizer(learning_rate=FLAGS.learning_rate,
+                                       epsilon=FLAGS.epsilon)
+
+    with tf.Session() as sess:
+        model = MemN2N(batch_size,
+                       vocab_size,
+                       sentence_size,
+                       memory_size,
+                       64,
+                       session=sess,
+                       hops=FLAGS.hops,
+                       max_grad_norm=FLAGS.max_grad_norm,
+                       optimizer=optimizer)
+        model.load_model(model_file)
+
+        queries = load_eval_queries(dataset)
+        data = []
+        correct = 0
+        for i in xrange(len(queries)):
+            query = queries[i]
+            #logger.info("Processing question " + str(query.id))
+            d = load_data_from_disk(query, testing_data)
+            data.append(d)
+            if len(data) >= 100:
+                trainS, trainQ, trainA = selective_data(data, word_idx, sentence_size, memory_size)
+                trainS, trainQ, trainA = randomize_input(trainS, trainQ, trainA)
+                logger.info("Done extracting vectors.")
+                predictions = model.predict_proba(trainS, trainQ)
+                for j in xrange(len(predictions)):
+                    arr = predictions[j]
+                    idx = np.argmax(arr)
+                    print(idx)
+                    indicator = trainA[j][idx]
+                    if indicator == 1.0:
+                        correct += 1
+                logger.info("Current accuracy = " + str(float(correct) / i))
+                data = []
+        logger.info("Accuracy = " + str(float(correct) / len(queries)))
+
+        """
+        queries = load_eval_queries(dataset)
+        codecsWriteFile(test_result, "")
+        correct = 0
+        for i in xrange(len(queries)):
+            query = queries[i]
+            question = query.utterance.lower()
+            answer = query.target_result
+
+            logger.info("Processing question " + str(query.id))
+            d = load_data_from_disk(query, testing_data)
+            trainS, trainQ, trainA = memory_data([d], word_idx, sentence_size, memory_size)
+            logger.info("Done extracting vectors.")
+            #predictions = model.predict_proba(trainS, trainQ).flatten()
+            #idx = np.argmax(predictions)
+            idx = test_iter(model, trainS, trainQ, range(len(trainS) * memory_size))
+
+            if idx >= len(d.get("O")) or idx == -1:
+                result = []
+                result_line = "\t".join([str(query.id) + question, str(answer), str(result)]) + "\n"
+            else:
+                best_s = " ".join(d.get("S")[idx])
+                best_r = " ".join(d.get("R")[idx])
+                result = []
+                for i in xrange(len(d.get("O"))):
+                    s = " ".join(d.get("S")[i])
+                    r = " ".join(d.get("R")[i])
+
+                    if s == best_s and r == best_r:
+                        result.append(" ".join(d.get("O")[i]))
+                result_line = "\t".join([str(query.id) + question, str(answer), str(result)]) + "\n"
+            #print(result_line)
+            codecsWriteFile(test_result, result_line, "a")
+        """
+
     """
     config_options = globals.config
     model_struct = config_options.get('Train', 'model-struct')

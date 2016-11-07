@@ -3,12 +3,13 @@ Copyright 2015, University of Freiburg.
 
 Elmar Haussmann <haussmann@cs.uni-freiburg.de>
 """
-from query_translator import ranker
+#from query_translator import ranker
 from collections import OrderedDict
 
 free917_entities = "evaluation-data/free917_entities.txt"
 
 # The scorers that can be selected.
+"""
 scorer_list = [ranker.AccuModel('F917_Ranker',
                                  "free917train",
                                  top_ngram_percentile=2,
@@ -29,11 +30,12 @@ scorer_list = [ranker.AccuModel('F917_Ranker',
                ranker.LiteralRanker('LiteralRanker_entity_oracle',
                                      entity_oracle_file=free917_entities),
                ]
+"""
 
 # A dictionary used for lookup via scorer name.
-scorers_dict = OrderedDict(
-    [(s.name, s) for s in scorer_list]
-)
+#scorers_dict = OrderedDict(
+#    [(s.name, s) for s in scorer_list]
+#)
 
 # A dict of dataset name and file.
 DATASETS = OrderedDict(

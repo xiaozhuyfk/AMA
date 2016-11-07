@@ -66,6 +66,12 @@ class FactExtractor(object):
             for ie in entities:
                 e = ie.entity
                 s, s_name = e.id, e.name
+                s_name_result = self.backend.query(self.name_by_id_query % s)
+                if s_name_result == []:
+                    s_name = e.name
+                else:
+                    s_name = s_name_result[0][0]
+
                 facts = self.backend.query(self.facts_by_id_query % s)
                 for f in facts:
                     r, o = f[0], f[1]
@@ -74,10 +80,25 @@ class FactExtractor(object):
                         # skip if the entity does not have a name in Freebase
                         if o_name == []:
                             continue
-                        hex = (s, s_name, r, o, o_name[0][0])
+                        hex = (s, s_name, r, "EMPTY", o, o_name[0][0])
                         result.append(hex)
+                    elif o.startswith('g.'):
+                        subfacts = self.backend.query(self.facts_by_id_query % o)
+                        for subf in subfacts:
+                            subr, subo = subf[0], subf[1]
+                            if subo.startswith('m.'):
+                                o_name = self.backend.query(self.name_by_id_query % subo)
+                                if o_name == []:
+                                    continue
+                                hex = (s, s_name, r, subr, subo, o_name[0][0])
+                                result.append(hex)
+                            elif o.startswith('g.'):
+                                continue
+                            else:
+                                hex = (s, s_name, r, subr, "ATTRIBUTE", o)
+                                result.append(hex)
                     else:
-                        hex = (s, s_name, r, "ATTRIBUTE", o)
+                        hex = (s, s_name, r, "EMPTY", "ATTRIBUTE", o)
                         result.append(hex)
             self.store_fact_list(query, result)
             return result
@@ -100,8 +121,8 @@ class FactExtractor(object):
 
                     result.append(
                         (hex[0], hex[1],
-                         hex[2],
-                         hex[3], hex[4])
+                         hex[2], hex[3],
+                         hex[4], hex[5])
                     )
             return result
         else:
