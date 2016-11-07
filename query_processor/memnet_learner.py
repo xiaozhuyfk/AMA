@@ -172,15 +172,10 @@ def load_data(dataset):
     """
 
     queries = load_eval_queries(dataset)
-    count = 0
     for query in queries:
-        count += 1
         logger.info("Processing question " + str(query.id))
         modules.extractor.extract_fact_list_with_entity_linker(query)
-
-        if count > 2:
-            break
-
+    logger.info("Done extracting new fact list.")
 
 
 def training_progress_message(epoch, epochs, query_id, total, loss):
