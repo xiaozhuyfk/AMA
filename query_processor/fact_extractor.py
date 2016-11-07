@@ -46,9 +46,13 @@ class FactExtractor(object):
         id = query.id
         file_path = self.fact_list_dir + str(id)
         codecsWriteFile(file_path, query.utterance + "\n")
-        for fact in fact_list:
-            line = "\t".join(fact) + "\n"
-            codecsWriteFile(file_path, line, "a")
+        d = {"question" : query.utterance,
+             "facts" : fact_list}
+
+        codecsDumpJson(file_path, d)
+        #for fact in fact_list:
+        #    line = "\t".join(fact) + "\n"
+        #    codecsWriteFile(file_path, line, "a")
 
 
     def extract_fact_list_with_entity_linker(self, query):
