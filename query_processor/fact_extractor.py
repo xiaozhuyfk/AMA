@@ -70,7 +70,7 @@ class FactExtractor(object):
             for ie in entities:
                 e = ie.entity
                 s, s_name = e.id, e.name
-                score = e.entity.surface_score
+                score = ie.surface_score
                 s_name_result = self.backend.query(self.name_by_id_query % s)
                 if s_name_result == []:
                     s_name = e.name
