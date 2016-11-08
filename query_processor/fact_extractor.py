@@ -1,13 +1,14 @@
 import logging
 import os
 import modules
-from util import readFile, codecsWriteFile, codecsReadFile, codecsDumpJson
+from util import readFile, codecsWriteFile, codecsReadFile, codecsDumpJson, codecsLoadJson
 
 logger = logging.getLogger(__name__)
 
 class FactExtractor(object):
 
-    def __init__(self, fact_list_dir):
+    def __init__(self, config_options, fact_list_dir):
+        self.config_options = config_options
         if not os.path.exists(fact_list_dir):
             os.makedirs(fact_list_dir)
         self.fact_list_dir = fact_list_dir
@@ -38,9 +39,8 @@ class FactExtractor(object):
 
     @staticmethod
     def init_from_config(args, config_options):
-        fact_list_dir = config_options.get('FactList',
-                                        args.dataset)
-        return FactExtractor(fact_list_dir)
+        fact_list_dir = config_options.get('FactList', args.dataset)
+        return FactExtractor(config_options, fact_list_dir)
 
     def store_fact_list(self, query, fact_list):
         id = query.id
@@ -55,10 +55,10 @@ class FactExtractor(object):
         #    codecsWriteFile(file_path, line, "a")
 
 
-    def extract_fact_list_with_entity_linker(self, query):
+    def extract_fact_list_with_entity_linker(self, dataset, query):
         logger.info("Extracting facts with entity linker from question: " + query.utterance)
 
-        if self.fact_list_on_disk(query):
+        if self.fact_list_on_disk(dataset, query):
             return self.load_fact_list_from_disk(query)
         else:
             question = query.utterance.lower()
@@ -141,16 +141,25 @@ class FactExtractor(object):
                      "relations" : relations}
                 result.append(d)
             self.store_fact_list(query, result)
-            #return result
+            return result
 
-    def fact_list_on_disk(self, query):
+    def fact_list_on_disk(self, dataset, query):
         id = query.id
-        file_path = self.fact_list_dir + str(id)
+        fact_dir = self.config_options.get("FactList", dataset)
+        file_path = fact_dir + str(id)
         return os.path.isfile(file_path)
 
-    def load_fact_list_from_disk(self, query):
+    def load_fact_list_from_disk(self, dataset, query):
         id = query.id
-        file_path = self.fact_list_dir + str(id)
+        fact_dir = self.config_options.get("FactList", dataset)
+        file_path = fact_dir + str(id)
+
+        if os.path.isfile(file_path):
+            json = codecsLoadJson(file_path)
+            return json
+        else:
+            return None
+        """
         if os.path.isfile(file_path):
             result = []
             facts = codecsReadFile(file_path).strip().split('\n')[1:]
@@ -167,6 +176,7 @@ class FactExtractor(object):
             return result
         else:
             return []
+        """
 
     def extract_fact_list_with_ngram(self, query):
         logger.info("Extracting facts from question: " + query.utterance)

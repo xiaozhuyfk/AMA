@@ -73,6 +73,16 @@ def simple_lstm():
 def bidirectional_lstm():
     config_options = globals.config
     input_dim = int(config_options.get('Train', 'input-dim'))
+
+    model = Sequential()
+    model.add(Bidirectional(
+        LSTM(output_dim=32, input_shape=(input_dim, 300))
+    ))
+    model.add(Dense(1))
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
+    return model
+
+    """
     left = Sequential()
     left.add(LSTM(output_dim=32,
                   init='uniform',
@@ -97,6 +107,7 @@ def bidirectional_lstm():
     model.add(Dense(1, activation='sigmoid'))
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     return model
+    """
 
 def bidirectional_lstm_with_embedding(vocab_dim, n_symbols, word_idx):
     logger.info("Initializing embedding weights.")
@@ -111,12 +122,14 @@ def bidirectional_lstm_with_embedding(vocab_dim, n_symbols, word_idx):
     # assemble the model
     logger.info("Constructing Bi-directional LSTM model.")
     model = Sequential()
+
     model.add(
         Embedding(output_dim=vocab_dim,
                   input_dim=n_symbols+1,
                   mask_zero=True,
                   weights=[embedding_weights])
     )
+
     """
     model.add(
         Embedding(output_dim=vocab_dim,
@@ -124,11 +137,12 @@ def bidirectional_lstm_with_embedding(vocab_dim, n_symbols, word_idx):
                   mask_zero=True)
     )
     """
+
     model.add(
         Bidirectional(LSTM(32))
     )
     model.add(
-        Dense(1,activation='sigmoid')
+        Dense(1)
     )
     model.compile(optimizer='rmsprop',
                   loss='binary_crossentropy')
@@ -197,6 +211,32 @@ def selective_data(data, word_idx, sentence_size, memory_size):
 
     return np.array(S), np.array(A)
 
+def generate_data(dataset):
+    config_options = globals.config
+    vocab_file = config_options.get('Train', 'vocab')
+    training_data = config_options.get('Train', 'training-data')
+
+    vocab = codecsLoadJson(vocab_file)
+    word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
+
+    queries = load_eval_queries(dataset)
+    sentence_size = 17
+    memory_size = 10
+    while True:
+        data = []
+        for i in xrange(len(queries)):
+            query = queries[i]
+            d = load_data_from_disk(query, training_data)
+            data.append(d)
+            if len(data) >= 100:
+                X, Y = selective_data(data, word_idx, sentence_size, memory_size)
+                yield (X, Y)
+                data = []
+
+        if len(data) > 0:
+            X, Y = selective_data(data, word_idx, sentence_size, memory_size)
+            yield (X, Y)
+
 def train(dataset):
     config_options = globals.config
     vocab_file = config_options.get('Train', 'vocab')
@@ -208,10 +248,14 @@ def train(dataset):
     n_symbols = len(vocab) + 1
     word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
 
-    sentence_size = 28
-    memory_size = 20
+    sentence_size = 17
+    memory_size = 10
     model = bidirectional_lstm_with_embedding(300, n_symbols, word_idx)
 
+    model.fit_generator(generate_data(dataset),
+                        samples_per_epoch=37780,
+                        nb_epoch=10)
+    """
     queries = load_eval_queries(dataset)
     data = []
     for i in xrange(len(queries)):
@@ -225,11 +269,11 @@ def train(dataset):
             X, Y = selective_data(data, word_idx, sentence_size, memory_size)
             model.fit(X, Y)
             data = []
-        if query.id == 2000:
-            break
+
     if len(data) > 0:
         X, Y = selective_data(data, word_idx, sentence_size, memory_size)
         model.fit(X, Y)
+    """
 
     save_model_to_file(model, model_struct, model_weights)
 

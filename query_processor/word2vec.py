@@ -58,3 +58,7 @@ class Word2Vec(object):
             logger.debug("'%s' or '%s' don't have a word vector" % (word_a,
                                                                     word_b))
             return 0.0
+
+    def embedding_similarity(self, embed_a, embed_b):
+        diff = dot(matutils.unitvec(embed_a), matutils.unitvec(embed_b))
+        return diff
