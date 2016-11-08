@@ -262,10 +262,13 @@ class Ranker(object):
                                                   score,
                                                   rel,
                                                   relations[rel])
-                    feature_vector = fact_candiate.extract_features()
+                    #feature_vector = fact_candiate.extract_features()
                     candidates.append(fact_candiate)
+
                     #codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
             #candidates = self.nomalize_features(candidates)
+
+            """
             for candidate in candidates:
                 feature_vector = candidate.feature_vector
                 codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
@@ -275,9 +278,20 @@ class Ranker(object):
             scores = codecsReadFile(self.svmFactCandidateScores).strip().split("\n")
             idx = np.argmax(scores)
             best_candidate = candidates[idx]
+            predictions = list(set(best_candidate.objects))
+            """
+            best = None
+            for candidate in candidates:
+                if candidate.relevance == 1:
+                    best = candidate
+                    break
+            if best is None:
+                predictions = []
+            else:
+                predictions = list(set(best.objects))
             result_line = "\t".join([query.utterance,
                                      str(best_candidate.answers),
-                                     str(best_candidate.objects)]) + "\n"
+                                     str(predictions)]) + "\n"
             codecsWriteFile(test_result, result_line, "a")
 
 
