@@ -244,6 +244,13 @@ class Ranker(object):
 
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
             facts = json["facts"]
+            if facts == []:
+                result_line = "\t".join([query.utterance,
+                                     str(query.target_result),
+                                     str([])]) + "\n"
+                codecsWriteFile(test_result, result_line, "a")
+                continue
+
             for ie in facts:
                 subject = ie["subject"]
                 sid = ie["sid"]
