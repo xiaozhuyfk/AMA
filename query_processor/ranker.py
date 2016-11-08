@@ -287,10 +287,10 @@ class Ranker(object):
             for candidate in candidates:
                 predictions = set(candidate.objects)
                 merge = predictions & answers
-                best_predictions |= merge
-                #if len(merge) > count:
-                #    count = len(merge)
-                #    best_predictions = list(predictions)
+                #best_predictions |= merge
+                if len(merge) > count:
+                    count = len(merge)
+                    best_predictions = merge
             #if best is None:
             #    predictions = []
             #else:
