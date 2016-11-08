@@ -59,7 +59,7 @@ class FactExtractor(object):
         logger.info("Extracting facts with entity linker from question: " + query.utterance)
 
         if self.fact_list_on_disk(dataset, query):
-            return self.load_fact_list_from_disk(query)
+            return self.load_fact_list_from_disk(dataset, query)
         else:
             question = query.utterance.lower()
             parse_result = modules.parser.parse(question)
