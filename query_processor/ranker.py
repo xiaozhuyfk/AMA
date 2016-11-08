@@ -152,6 +152,11 @@ class Ranker(object):
 
     def svm_learn(self):
         logger.info("Start SVM Training ...")
+        print self.svmRankLearnPath
+        print self.svmTrainingFeatureVectorsFile
+        print self.svmRankParamC
+        print self.svmRankModelFile
+
         cmd = [self.svmRankLearnPath,
                "-c",
                self.svmRankParamC,
