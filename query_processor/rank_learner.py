@@ -222,6 +222,8 @@ def train(dataset):
 
 
 def test(dataset):
+    modules.facts_ranker.test(dataset)
+    """
     config_options = globals.config
     vocab_file = config_options.get('Train', 'vocab')
     testing_data = config_options.get('Test', 'testing-data')
@@ -267,6 +269,7 @@ def test(dataset):
         aqqu_labels = np.zeros(len(test_labels))
         aqqu_acc = metrics.accuracy_score(aqqu_labels, test_labels)
         print("Aqqu Accuracy:", aqqu_acc)
+    """
 
 def main():
     import argparse
