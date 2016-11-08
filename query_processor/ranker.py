@@ -161,7 +161,7 @@ class Ranker(object):
         p.wait()
 
     def svm_rank(self):
-        logger.info("Start SVM Ranking ...")
+        #logger.info("Start SVM Ranking ...")
         cmd = [self.svmRankClassifyPath,
                self.svmTestingFeatureVectorsFile,
                self.svmRankModelFile,
