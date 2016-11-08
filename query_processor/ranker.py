@@ -152,18 +152,13 @@ class Ranker(object):
 
     def svm_learn(self):
         logger.info("Start SVM Training ...")
-        print self.svmRankLearnPath
-        print self.svmTrainingFeatureVectorsFile
-        print self.svmRankParamC
-        print self.svmRankModelFile
-
         cmd = [self.svmRankLearnPath,
                "-c",
                self.svmRankParamC,
                self.svmTrainingFeatureVectorsFile,
                self.svmRankModelFile]
-        p = subprocess.Popen(cmd, stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
-        p.wait()
+        subprocess.call(cmd)
+        #p.wait()
 
     def svm_rank(self):
         logger.info("Start SVM Ranking ...")
@@ -171,8 +166,8 @@ class Ranker(object):
                self.svmTestingFeatureVectorsFile,
                self.svmRankModelFile,
                self.svmFactCandidateScores]
-        p = subprocess.Popen(cmd, stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
-        p.wait()
+        subprocess.call(cmd)
+        #p.wait()
 
     def nomalize_features(self, candidates):
         minimums = np.array([float("inf")] * 4)
@@ -262,26 +257,27 @@ class Ranker(object):
                                                   score,
                                                   rel,
                                                   relations[rel])
-                    #feature_vector = fact_candiate.extract_features()
+                    feature_vector = fact_candiate.extract_features()
                     candidates.append(fact_candiate)
 
                     #codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
             #candidates = self.nomalize_features(candidates)
 
-            """
             for candidate in candidates:
                 feature_vector = candidate.feature_vector
                 codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
 
             self.svm_rank()
 
+            answers = set(query.target_result)
             scores = codecsReadFile(self.svmFactCandidateScores).strip().split("\n")
             idx = np.argmax(scores)
             best_candidate = candidates[idx]
-            predictions = list(set(best_candidate.objects))
+            predictions = set(best_candidate.objects) & answers
+
             """
-            answers = set(query.target_result)
             count = 0
+            answers = set(query.target_result)
             best_predictions = set([])
             best = None
             for candidate in candidates:
@@ -295,9 +291,10 @@ class Ranker(object):
             #    predictions = []
             #else:
             #    predictions = list(set(best.objects))
+            """
             result_line = "\t".join([query.utterance,
                                      str(query.target_result),
-                                     str(list(best_predictions))]) + "\n"
+                                     str(list(predictions))]) + "\n"
             codecsWriteFile(test_result, result_line, "a")
 
 
