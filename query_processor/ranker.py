@@ -39,7 +39,7 @@ class FeatureVector(object):
             yield i
 
     def __str__(self):
-        indicator = self.candidate.subject + " " + self.candidate.relation
+        indicator = "" #self.candidate.subject + " " + self.candidate.relation
         vec = ""
         for i in self.features:
             vec += str(i) + ":" + str(self.features[i]) + " "
@@ -217,7 +217,7 @@ class Ranker(object):
                         sentence_size = fact_candiate.sentence_size
                     #feature_vector = fact_candiate.extract_features()
                     #codecsWriteFile(self.svmTrainingFeatureVectorsFile, str(feature_vector))
-            candidates = self.nomalize_features(candidates)
+            #candidates = self.nomalize_features(candidates)
             for candidate in candidates:
                 feature_vector = candidate.feature_vector
                 codecsWriteFile(self.svmTrainingFeatureVectorsFile, str(feature_vector), "a")
@@ -255,7 +255,7 @@ class Ranker(object):
                     feature_vector = fact_candiate.extract_features()
                     candidates.append(fact_candiate)
                     #codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
-            candidates = self.nomalize_features(candidates)
+            #candidates = self.nomalize_features(candidates)
             for candidate in candidates:
                 feature_vector = candidate.feature_vector
                 codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
