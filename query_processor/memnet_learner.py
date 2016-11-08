@@ -174,7 +174,7 @@ def load_data(dataset):
     queries = load_eval_queries(dataset)
     for query in queries:
         logger.info("Processing question " + str(query.id))
-        modules.extractor.extract_fact_list_with_entity_linker(query)
+        modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
     logger.info("Done extracting new fact list.")
 
 

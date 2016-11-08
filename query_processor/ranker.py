@@ -191,6 +191,7 @@ class Ranker(object):
 
     def train(self, dataset):
 
+        """
         queries = load_eval_queries(dataset)
         codecsWriteFile(self.svmTrainingFeatureVectorsFile, "")
 
@@ -230,6 +231,7 @@ class Ranker(object):
         #for candidate in candidates:
         #    feature_vector = candidate.extract_features()
         #    codecsWriteFile(self.svmTrainingFeatureVectorsFile, str(feature_vector))
+        """
 
         self.svm_learn()
 
