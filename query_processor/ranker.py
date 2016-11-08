@@ -98,7 +98,10 @@ class FactCandidate(object):
         # Add simple similarity score
         question_embed = sum(modules.w2v.transform_seq(self.query_tokens))
         sentence_embed = sum(modules.w2v.transform_seq(self.subject_tokens + self.relation_tokens))
-        vector.add(4, float(modules.w2v.embedding_similarity(question_embed, sentence_embed)))
+        if question_embed == 0 or sentence_embed == 0:
+            vector.add(4, 0.0)
+        else:
+            vector.add(4, float(modules.w2v.embedding_similarity(question_embed, sentence_embed)))
 
         self.feature_vector = vector
 
