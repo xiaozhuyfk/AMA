@@ -294,6 +294,8 @@ class Ranker(object):
             #    predictions = []
             #else:
             #    predictions = list(set(best.objects))
+            if len(best_predictions) > 10:
+                best_predictions = []
             result_line = "\t".join([query.utterance,
                                      str(query.target_result),
                                      str(best_predictions)]) + "\n"
