@@ -290,7 +290,7 @@ class Ranker(object):
             else:
                 predictions = list(set(best.objects))
             result_line = "\t".join([query.utterance,
-                                     str(best_candidate.answers),
+                                     str(query.target_result),
                                      str(predictions)]) + "\n"
             codecsWriteFile(test_result, result_line, "a")
 
