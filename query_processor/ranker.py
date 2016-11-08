@@ -280,18 +280,23 @@ class Ranker(object):
             best_candidate = candidates[idx]
             predictions = list(set(best_candidate.objects))
             """
+            answers = set(query.target_result)
+            count = 0
+            best_predictions = []
             best = None
             for candidate in candidates:
-                if candidate.relevance == 1:
-                    best = candidate
-                    break
-            if best is None:
-                predictions = []
-            else:
-                predictions = list(set(best.objects))
+                predictions = set(candidate.objects)
+                merge = predictions & answers
+                if len(merge) > count:
+                    count = len(merge)
+                    best_predictions = list(predictions)
+            #if best is None:
+            #    predictions = []
+            #else:
+            #    predictions = list(set(best.objects))
             result_line = "\t".join([query.utterance,
                                      str(query.target_result),
-                                     str(predictions)]) + "\n"
+                                     str(best_predictions)]) + "\n"
             codecsWriteFile(test_result, result_line, "a")
 
 
