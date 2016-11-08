@@ -157,8 +157,8 @@ class Ranker(object):
                self.svmRankParamC,
                self.svmTrainingFeatureVectorsFile,
                self.svmRankModelFile]
-        subprocess.call(cmd)
-        #p.wait()
+        p = subprocess.Popen(cmd, stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
+        p.wait()
 
     def svm_rank(self):
         logger.info("Start SVM Ranking ...")
@@ -166,8 +166,8 @@ class Ranker(object):
                self.svmTestingFeatureVectorsFile,
                self.svmRankModelFile,
                self.svmFactCandidateScores]
-        subprocess.call(cmd)
-        #p.wait()
+        p = subprocess.Popen(cmd, stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
+        p.wait()
 
     def nomalize_features(self, candidates):
         minimums = np.array([float("inf")] * 4)
