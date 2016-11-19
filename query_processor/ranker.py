@@ -1,12 +1,16 @@
+from __future__ import print_function
+
 import logging
+import globals
 import os
 import modules
-from util import readFile, codecsWriteFile, codecsReadFile, codecsDumpJson
+from util import readFile, codecsWriteFile, codecsReadFile, codecsDumpJson, codecsLoadJson
 import subprocess
 import re
 from itertools import chain
 from evaluation import load_eval_queries
 import numpy as np
+from model import bidirectional_lstm_with_embedding, save_model_to_file, load_model
 
 logger = logging.getLogger(__name__)
 
@@ -71,6 +75,8 @@ class FactCandidate(object):
         for object in self.objects:
             if object in self.answers:
                 self.relevance = 1
+                break
+
 
         self.sentence = self.query_tokens + self.subject_tokens + self.relation_tokens
         self.sentence_size = len(self.sentence)
@@ -186,15 +192,79 @@ class Ranker(object):
             candidate.feature_vector = vec
         return candidates
 
+    def extract_fact_candidates(self, dataset):
+        queries = load_eval_queries(dataset)
+        vocab = set([])
+        sentence_size = 0
+        candidates = []
+        for query in queries:
+            print("Processing query " + str(query.id) + " " * 10 + "\r", end="")
+            json = modules.extractor.extract_fact_list_with_entity_linker("webquestionstrain", query)
+            facts = json["facts"]
+            for ie in facts:
+                subject = ie["subject"]
+                sid = ie["sid"]
+                score = ie["score"]
+                relations = ie["relations"]
+                for rel in relations:
+                    fact_candiate = FactCandidate(self.config_options,
+                                                  query,
+                                                  subject,
+                                                  sid,
+                                                  score,
+                                                  rel,
+                                                  relations[rel])
+                    candidates.append(fact_candiate)
+                    vocab |= fact_candiate.vocab
+                    if fact_candiate.sentence_size > sentence_size:
+                        sentence_size = fact_candiate.sentence_size
+        return candidates, vocab, sentence_size
+
     def train_model(self):
-        pass
+        config_options = globals.config
+        train_candidates, train_vocab, train_sentence_size = \
+            self.extract_fact_candidates("webquestionstrain")
+        #test_candidates, test_vocab, test_sentence_size = \
+        #    self.extract_fact_candidates("webquestionstest")
+        print("")
+
+        vocab_path = config_options.get("Train", "vocab")
+        vocab = codecsLoadJson(vocab_path)
+
+        sentence_size = 28
+        word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
+        n_symbols = len(vocab) + 1
+
+        # build models
+        lstm_model = bidirectional_lstm_with_embedding(64, n_symbols, word_idx)
+
+        # pre-process training data
+        X = []
+        Y = []
+        for candidate in train_candidates:
+            sentence = candidate.sentence
+            sentence_idx = [word_idx[t] for t in sentence] + \
+                           (sentence_size - len(sentence)) * [0]
+            X.append(sentence_idx)
+            Y.append(candidate.relevance)
+
+        # training procedure
+        lstm_model.fit(np.array(X),
+                       np.array(Y),
+                       validation_split=0.1,
+                       nb_epoch=3,
+                       batch_size=64)
+
+        model_struct = config_options.get('Train', 'model-struct')
+        model_weights = config_options.get('Train', 'model-weights')
+        save_model_to_file(lstm_model, model_struct, model_weights)
+
 
     def train(self, dataset):
 
         queries = load_eval_queries(dataset)
         codecsWriteFile(self.svmTrainingFeatureVectorsFile, "")
 
-        vocab = set([])
         sentence_size = 0
         for query in queries:
             logger.info("Processing query " + str(query.id))
@@ -217,26 +287,20 @@ class Ranker(object):
                                                   relations[rel])
                     fact_candiate.extract_features()
                     candidates.append(fact_candiate)
-                    #vocab |= fact_candiate.vocab
                     if fact_candiate.sentence_size > sentence_size:
                         sentence_size = fact_candiate.sentence_size
-                    #feature_vector = fact_candiate.extract_features()
-                    #codecsWriteFile(self.svmTrainingFeatureVectorsFile, str(feature_vector))
             #candidates = self.nomalize_features(candidates)
             for candidate in candidates:
                 feature_vector = candidate.feature_vector
                 codecsWriteFile(self.svmTrainingFeatureVectorsFile, str(feature_vector), "a")
-
-        #for candidate in candidates:
-        #    feature_vector = candidate.extract_features()
-        #    codecsWriteFile(self.svmTrainingFeatureVectorsFile, str(feature_vector))
-
         self.svm_learn()
 
     def test(self, dataset):
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
 
+        cover = 0
+        lost = 0
         queries = load_eval_queries(dataset)
         for query in queries:
             codecsWriteFile(self.svmTestingFeatureVectorsFile, "")
@@ -245,6 +309,7 @@ class Ranker(object):
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
             facts = json["facts"]
             if facts == []:
+                lost += 1
                 result_line = "\t".join([query.utterance,
                                      str(query.target_result),
                                      str([])]) + "\n"
@@ -264,25 +329,25 @@ class Ranker(object):
                                                   score,
                                                   rel,
                                                   relations[rel])
-                    feature_vector = fact_candiate.extract_features()
+                    #feature_vector = fact_candiate.extract_features()
                     candidates.append(fact_candiate)
 
-                    #codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
             #candidates = self.nomalize_features(candidates)
 
-            for candidate in candidates:
-                feature_vector = candidate.feature_vector
-                codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
+            #for candidate in candidates:
+            #    feature_vector = candidate.feature_vector
+            #    codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
 
-            self.svm_rank()
+            #self.svm_rank()
 
+            """
             answers = set(query.target_result)
             scores = codecsReadFile(self.svmFactCandidateScores).strip().split("\n")
             idx = np.argmax(scores)
             best_candidate = candidates[idx]
-            predictions = set(best_candidate.objects) & answers
-
+            predictions = set(best_candidate.objects)
             """
+
             count = 0
             answers = set(query.target_result)
             best_predictions = set([])
@@ -293,16 +358,34 @@ class Ranker(object):
                 #best_predictions |= merge
                 if len(merge) > count:
                     count = len(merge)
-                    best_predictions = merge
-            #if best is None:
-            #    predictions = []
-            #else:
-            #    predictions = list(set(best.objects))
-            """
-            result_line = "\t".join([query.utterance,
-                                     str(query.target_result),
-                                     str(list(predictions))]) + "\n"
-            codecsWriteFile(test_result, result_line, "a")
+                    best_predictions = predictions
+                    best = candidate
+            if best is None:
+                result_line = "\t".join([query.utterance,
+                                         str(query.target_result)]) + "\n"
+                codecsWriteFile(test_result, result_line, "a")
+                #best_predictions = []
+                #result_line = "\t".join([query.utterance,
+                #                     str(query.target_result),
+                #                     str(list(best_predictions))]) + "\n"
+            else:
+                result_line = "\t".join([query.utterance,
+                                         str(query.target_result),
+                                         best.relation]) + "\n"
+                codecsWriteFile(test_result, result_line, 'a')
+                #best_predictions = list(set(best.objects))
+                #cover += 1
+                #result_line = "\t".join([query.utterance,
+                #                         str(query.target_result),
+                #                         str(list(best_predictions)),
+                #                         best.relation]) + "\n"
+
+            #result_line = "\t".join([query.utterance,
+            #                         str(query.target_result),
+            #                         str(list(predictions))]) + "\n"
+            #codecsWriteFile(test_result, result_line, "a")
+        #logger.info("Number of questions covered: %d", cover)
+        #logger.info("Number of losses: %d", lost)
 
 
 

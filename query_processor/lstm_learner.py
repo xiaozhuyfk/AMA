@@ -82,33 +82,6 @@ def bidirectional_lstm():
     model.compile(optimizer='rmsprop', loss='binary_crossentropy')
     return model
 
-    """
-    left = Sequential()
-    left.add(LSTM(output_dim=32,
-                  init='uniform',
-                  inner_init='uniform',
-                  forget_bias_init='one',
-                  return_sequences=False,
-                  activation='tanh',
-                  inner_activation='sigmoid',
-                  input_shape=(input_dim, 300)))
-    right = Sequential()
-    right.add(LSTM(output_dim=32,
-                   init='uniform',
-                   inner_init='uniform',
-                   forget_bias_init='one',
-                   return_sequences=False,
-                   activation='tanh',
-                   inner_activation='sigmoid',
-                   input_shape=(input_dim, 300),
-                   go_backwards=True))
-    model = Sequential()
-    model.add(Merge([left, right], mode='sum'))
-    model.add(Dense(1, activation='sigmoid'))
-    model.compile(optimizer='rmsprop', loss='binary_crossentropy')
-    return model
-    """
-
 def bidirectional_lstm_with_embedding(vocab_dim, n_symbols, word_idx):
     logger.info("Initializing embedding weights.")
     embedding_weights = np.zeros((n_symbols+1, vocab_dim))

@@ -56,8 +56,7 @@ class FactExtractor(object):
 
 
     def extract_fact_list_with_entity_linker(self, dataset, query):
-        logger.info("Extracting facts with entity linker from question %d: %s" % (query.id, query.utterance))
-
+        #logger.info("Extracting facts with entity linker from question %d: %s" % (query.id, query.utterance))
         if self.fact_list_on_disk(dataset, query):
             return self.load_fact_list_from_disk(dataset, query)
         else:
