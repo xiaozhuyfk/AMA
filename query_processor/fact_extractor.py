@@ -1,7 +1,10 @@
 import logging
 import os
 import modules
-from util import readFile, codecsWriteFile, codecsReadFile, codecsDumpJson, codecsLoadJson
+from util import (
+    codecsWriteFile,
+    codecsLoadJson,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -50,10 +53,6 @@ class FactExtractor(object):
              "facts" : fact_list}
 
         codecsDumpJson(file_path, d)
-        #for fact in fact_list:
-        #    line = "\t".join(fact) + "\n"
-        #    codecsWriteFile(file_path, line, "a")
-
 
     def extract_fact_list_with_entity_linker(self, dataset, query):
         #logger.info("Extracting facts with entity linker from question %d: %s" % (query.id, query.utterance))
@@ -92,8 +91,6 @@ class FactExtractor(object):
                         else:
                             relations[r] = {"objects" : [o_name[0][0]],
                                             "oid" : [o]}
-                        #hex = (s, s_name, r, "EMPTY", o, o_name[0][0])
-                        #result.append(hex)
                     elif o.startswith('g.'):
                         subfacts = self.backend.query(self.facts_by_id_query % o)
                         for subf in subfacts:
@@ -110,8 +107,6 @@ class FactExtractor(object):
                                 else:
                                     relations[subr] = {"objects" : [o_name[0][0]],
                                                        "oid" : [subo]}
-                                #hex = (s, s_name, r, subr, subo, o_name[0][0])
-                                #result.append(hex)
                             elif o.startswith('g.'):
                                 continue
                             else:
@@ -122,8 +117,6 @@ class FactExtractor(object):
                                 else:
                                     relations[subr] = {"objects" : [subo],
                                                        "oid" : ["ATTRIBUTE"]}
-                                #hex = (s, s_name, r, subr, "ATTRIBUTE", o)
-                                #result.append(hex)
                     else:
                         if r in relations:
                             rel = relations[r]
@@ -132,8 +125,6 @@ class FactExtractor(object):
                         else:
                             relations[r] = {"objects" : [o],
                                                "oid" : ["ATTRIBUTE"]}
-                        #hex = (s, s_name, r, "EMPTY", "ATTRIBUTE", o)
-                        #result.append(hex)
                 d = {"subject" : s_name,
                      "sid" : s,
                      "score" : score,
@@ -158,59 +149,3 @@ class FactExtractor(object):
             return json
         else:
             return None
-        """
-        if os.path.isfile(file_path):
-            result = []
-            facts = codecsReadFile(file_path).strip().split('\n')[1:]
-
-            for fact in facts:
-                if fact:
-                    hex = fact.split('\t')
-
-                    result.append(
-                        (hex[0], hex[1],
-                         hex[2], hex[3],
-                         hex[4], hex[5])
-                    )
-            return result
-        else:
-            return []
-        """
-
-    def extract_fact_list_with_ngram(self, query):
-        logger.info("Extracting facts from question: " + query.utterance)
-
-        if self.fact_list_on_disk(query):
-            return self.load_fact_list_from_disk(query)
-        else:
-            question = query.utterance.lower()
-            tokens = question.split(' ')
-
-    def extract_fact_list_with_tokens(self, tokens):
-        if len(tokens) == 0:
-            return []
-        if len(tokens) == 1:
-            token = tokens[0]
-            return self.extract_fact_list_with_str(token)
-
-
-
-    def extract_fact_list_with_str(self, q):
-        entities = self.backend.query(self.entities_with_alias_query % q)
-        result = []
-        for x in entities:
-            s, s_name = x[0], x[1]
-            facts = self.backend.query(self.facts_by_id_query % s)
-            for f in facts:
-                r, o = f[0], f[1]
-                if o.startswith('m.'):
-                    o_name = self.backend.query(self.name_by_id_query % o)
-                    # skip if the entity does not have a name in Freebase
-                    if o_name == []:
-                        continue
-                    hex = (s, s_name, r, o, o_name)
-                    result.append(hex)
-                else:
-                    hex = (s, s_name, r, "ATTRIBUTE", o)
-                    result.append(hex)
-        return result

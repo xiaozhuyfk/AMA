@@ -26,8 +26,8 @@ def get_stem(t):
         return stem
 
 def train(dataset):
-    modules.facts_ranker.train_model()
-    #modules.facts_ranker.train(dataset)
+    #modules.facts_ranker.train_model()
+    modules.facts_ranker.train(dataset)
 
 def test(dataset):
     modules.facts_ranker.test(dataset)
@@ -68,7 +68,7 @@ def main():
     elif args.which == 'test':
         test(args.dataset)
     elif args.which == 'process':
-        process_trainingdata(args.dataset)
+        pass
 
 
 if __name__ == '__main__':
