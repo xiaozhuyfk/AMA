@@ -288,7 +288,7 @@ class LSTMPairwise(BaseModel):
                     correct.append(candidate)
                 else:
                     wrong.append(candidate)
-            wrong = random.sample(wrong, min(len(wrong), 20))
+            #wrong = random.sample(wrong, min(len(wrong), 20))
             for i in xrange(len(correct)):
                 for j in xrange(len(wrong)):
                     if random.randint(0,1):
