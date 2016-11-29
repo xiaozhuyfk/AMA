@@ -91,7 +91,8 @@ class FactCandidate(object):
         self.query_tokens = [tokenize_term(t) for t in self.question.split()]
         self.subject_tokens = [re.sub('[?!@#$%^&*,()_+=\'/]', '', t).lower()
                                for t in subject.split()]
-        relations = re.split("\.\.|\.", self.relation.split("\n")[-1])[-2:] #[re.split("\.\.|\.", r) for r in self.relation.split("\n")]
+        relations = re.split("\.\.|\.", self.relation.split("\n")[-1])[-2:]
+        #[re.split("\.\.|\.", r) for r in self.relation.split("\n")]
         self.relation_tokens = [tokenize_term(e)
                                 for t in relations
                                 for e in re.split("\.\.|\.|_", t)]
@@ -145,27 +146,7 @@ class FactCandidate(object):
         # Add number of answers
         vector.add(2, float(len(self.objects)))
 
-        # Add simple similarity score
-        """
-        question_seq = modules.w2v.transform_seq(self.query_tokens)
-        sentence_seq = modules.w2v.transform_seq(self.subject_tokens + self.relation_tokens)
-        if question_seq == [] or sentence_seq == []:
-            vector.add(4, 0.0)
-        else:
-            question_embed = sum(question_seq)
-            sentence_embed = sum(sentence_seq)
-            vector.add(4, float(modules.w2v.embedding_similarity(question_embed, sentence_embed)))
-        """
-
-        # Add bidirectional lstm feature
-        #lstm = get_lstm_model()
-        #sentence = self.vectorize_sentence(word_idx, self.sentence, 26)
-        #x = np.array([sentence])
-        #pred = lstm.predict(x)
-        #vector.add(4, pred[0][0])
-
         self.feature_vector = vector
-
         return vector
 
 
@@ -315,7 +296,6 @@ class Ranker(object):
                     #sentence_trigram_size = max(fact_candiate.sentence_trigram_size,
                     #                            sentence_trigram_size)
             candidates.append(query_candidates)
-            break
             #negative += random.sample(wrong, min(10, len(wrong)))
         #return positive, negative, vocab, sentence_size
         d = dict(
