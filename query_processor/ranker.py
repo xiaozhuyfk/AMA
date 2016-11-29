@@ -14,15 +14,12 @@ from util import (
 )
 import subprocess
 import re
-from itertools import chain
 from evaluation import load_eval_queries
 import numpy as np
 from model import (
-    load_model,
-    lstm_train,
-    get_lstm_model,
     LSTMPointwise,
-    LSTMPointwiseTrigram
+    LSTMPairwise,
+    CNNPairwise,
 )
 
 logger = logging.getLogger(__name__)
@@ -39,6 +36,7 @@ class FeatureVector(object):
         self.query_id = query.id
         self.candidate = candidate
         self.relevance = relevance
+        self.f1 = candidate.f1
         self.features = {}
         self.format = "%d qid:%s %s# %s\n"
 
@@ -60,7 +58,7 @@ class FeatureVector(object):
         vec = ""
         for i in self.features:
             vec += str(i) + ":" + str(self.features[i]) + " "
-        return self.format % (self.relevance, str(self.query_id), vec, indicator)
+        return self.format % ((self.f1 >= 0.5) * 1, str(self.query_id), vec, indicator)
 
 
 def ngramize(tokens, n):
@@ -142,10 +140,10 @@ class FactCandidate(object):
 
         # Add number of nodes
         relations = self.relation.split("\n")
-        vector.add(2, float(len(relations) + 1))
+        #vector.add(2, float(len(relations) + 1))
 
         # Add number of answers
-        #vector.add(3, float(len(self.objects)))
+        vector.add(2, float(len(self.objects)))
 
         # Add simple similarity score
         """
@@ -240,7 +238,8 @@ class Ranker(object):
                     minimums[i-1] = vec.get(i)
                 if vec.get(i) > maximums[i-1]:
                     maximums[i-1] = vec.get(i)
-
+        for candidate in candidates:
+            vec = candidate.feature_vector
             for i in vec:
                 if maximums[i-1] == minimums[i-1]:
                     new = 0.0
@@ -311,11 +310,12 @@ class Ranker(object):
                     #else:
                     #    wrong.append(fact_candiate)
                     vocab |= fact_candiate.vocab
-                    vocab_trigram |= fact_candiate.vocab_trigram
+                    #vocab_trigram |= fact_candiate.vocab_trigram
                     sentence_size = max(fact_candiate.sentence_size, sentence_size)
-                    sentence_trigram_size = max(fact_candiate.sentence_trigram_size,
-                                                sentence_trigram_size)
+                    #sentence_trigram_size = max(fact_candiate.sentence_trigram_size,
+                    #                            sentence_trigram_size)
             candidates.append(query_candidates)
+            break
             #negative += random.sample(wrong, min(10, len(wrong)))
         #return positive, negative, vocab, sentence_size
         d = dict(
@@ -362,10 +362,23 @@ class Ranker(object):
 
         # train lstm model
         #lstm_train(positive, negative, 26, 20, 64)
-        model = LSTMPointwise(config_options, 'LSTMPointwise')
-        model.train(train_data.get('candidates'), 28)
+        #model = LSTMPointwise(config_options, 'LSTMPointwise')
+        #model.train(train_data.get('candidates'), 28)
         #model = LSTMPointwiseTrigram(config_options, 'LSTMPointwiseTrigram')
         #model.train(train_data.get('candidates'), 203)
+
+        #lstm_pairwise = LSTMPairwise(config_options, 'LSTMPairwise')
+        #lstm_pairwise.train(train_data.get('candidates'), 28)
+        #for query_candidates in train_data.get('candidates'):
+        #lstm_pairwise.predict(train_data.get('candidates')[0], 28)
+
+        #lstm_pairwise_trigram = LSTMPairwise(config_options, 'LSTMPairwiseTrigram')
+        #lstm_pairwise_trigram.train(train_data.get('candidates'), 203)
+
+        cnn = CNNPairwise(config_options, 'CNNPairwise')
+        cnn.train(train_data.get('candidates'), 203, 'query_trigram', 'relation_trigram')
+
+
 
 
     def train(self, dataset):
@@ -373,7 +386,9 @@ class Ranker(object):
         vocab = codecsLoadJson(vocab_file)
         word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
         lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        trigram_model = LSTMPointwiseTrigram(self.config_options, 'LSTMPointwiseTrigram')
+        trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
+        pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
+        pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
 
         queries = load_eval_queries(dataset)
         codecsWriteFile(self.svmTrainingFeatureVectorsFile, "")
@@ -402,145 +417,22 @@ class Ranker(object):
                     query_candidates.append(fact_candiate)
 
             # add lstm feature for all candidates
-            #lstm_predictions = lstm_model.predict(np.array(x)).flatten()
             lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
             trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
-            for idx in xrange(len(lstm_predictions)):
+            pairwise_predictions = pairwise_model.predict(query_candidates, 28).flatten()
+            pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
+            for idx in xrange(len(pairwise_predictions)):
                 candidate = query_candidates[idx]
                 candidate.add_feature(3, lstm_predictions[idx])
                 candidate.add_feature(4, trigram_predictions[idx])
-
+                candidate.add_feature(5, pairwise_predictions[idx])
+                candidate.add_feature(6, pairwise_trigram_predictions[idx])
+            self.nomalize_features(query_candidates, 6)
             for candidate in query_candidates:
                 codecsWriteFile(self.svmTrainingFeatureVectorsFile,
                                 str(candidate.feature_vector),
                                 "a")
         self.svm_learn()
-
-    def model_test(self, dataset):
-        test_result = self.config_options.get('Test', 'test-result')
-        model_struct = self.config_options.get('Train', 'model-struct')
-        model_weights = self.config_options.get('Train', 'model-weights')
-        vocab_file = self.config_options.get('Train', 'vocab')
-        lstm_model = load_model(model_struct, model_weights)
-        vocab = codecsLoadJson(vocab_file)
-        word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-        sentence_size = 28
-        #codecsWriteFile(test_result, "")
-
-        cover = 0
-        lost = 0
-        queries = load_eval_queries(dataset)
-        for query in queries:
-            codecsWriteFile(self.svmTestingFeatureVectorsFile, "")
-            candidates = []
-
-            json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
-            facts = json["facts"]
-            if facts == []:
-                lost += 1
-                result_line = "\t".join([query.utterance,
-                                     str(query.target_result),
-                                     str([])]) + "\n"
-                codecsWriteFile(test_result, result_line, "a")
-                continue
-
-            for ie in facts:
-                subject = ie["subject"]
-                sid = ie["sid"]
-                score = ie["score"]
-                relations = ie["relations"]
-                for rel in relations:
-                    fact_candiate = FactCandidate(self.config_options,
-                                                  query,
-                                                  subject,
-                                                  sid,
-                                                  score,
-                                                  rel,
-                                                  relations[rel])
-                    #feature_vector = fact_candiate.extract_features()
-                    candidates.append(fact_candiate)
-
-            # pre-process training data
-            X = []
-            Y = []
-            for candidate in candidates:
-                sentence = candidate.sentence
-                sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
-                               (sentence_size - len(sentence)) * [0]
-                X.append(sentence_idx)
-                Y.append(candidate.relevance)
-            if len(X) == 0:
-                continue
-
-            #best_idx = np.argmax(lstm_model.predict(np.array(X)).flatten())
-            #best_rel = candidates[best_idx].relation
-            top5 = lstm_model.predict(np.array(X)).flatten().argsort()[-5:]
-
-            #if (query.id > 10):
-            #    break
-
-            #candidates = self.nomalize_features(candidates)
-
-            #for candidate in candidates:
-            #    feature_vector = candidate.feature_vector
-            #    codecsWriteFile(self.svmTestingFeatureVectorsFile, str(feature_vector), "a")
-
-            #self.svm_rank()
-
-            """
-            answers = set(query.target_result)
-            scores = codecsReadFile(self.svmFactCandidateScores).strip().split("\n")
-            idx = np.argmax(scores)
-            best_candidate = candidates[idx]
-            predictions = set(best_candidate.objects)
-            """
-
-            count = 0
-            answers = set(query.target_result)
-            best_predictions = set([])
-            best = None
-            for candidate in candidates:
-                predictions = set(candidate.objects)
-                merge = predictions & answers
-                #best_predictions |= merge
-                if len(merge) > count:
-                    count = len(merge)
-                    best_predictions = predictions
-                    best = candidate
-            if best is None:
-                pass
-                #result_line = "\t".join([query.utterance,
-                #                         str(query.target_result)]) + "\n"
-                #codecsWriteFile(test_result, result_line, "a")
-                #best_predictions = []
-                #result_line = "\t".join([query.utterance,
-                #                     str(query.target_result),
-                #                     str(list(best_predictions))]) + "\n"
-            else:
-                for idx in top5:
-                    candidate = candidates[idx]
-                    if best.relation == candidate.relation:
-                        cover += 1
-
-                #result_line = "\t".join([query.utterance,
-                #                         str(query.target_result),
-                #                         best.relation]) + "\n"
-                #codecsWriteFile(test_result, result_line, 'a')
-                #best_predictions = list(set(best.objects))
-                #cover += 1
-                #result_line = "\t".join([query.utterance,
-                #                         str(query.target_result),
-                #                         str(list(best_predictions)),
-                #                         best.relation]) + "\n"
-
-            #result_line = "\t".join([query.utterance,
-            #                         str(query.target_result),
-            #                         str(list(predictions))]) + "\n"
-            #codecsWriteFile(test_result, result_line, "a")
-            print("Processing query ", str(query.id), cover, " " * 10 + "\r", end="")
-
-        logger.info("Number of questions covered: %d", cover)
-        #logger.info("Number of losses: %d", lost)
 
     def choose_best_candidate(self, candidates, answers):
         count = 0
@@ -559,7 +451,9 @@ class Ranker(object):
         vocab = codecsLoadJson(vocab_file)
         word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
         lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        trigram_model = LSTMPointwiseTrigram(self.config_options, 'LSTMPointwiseTrigram')
+        trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
+        pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
+        pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
 
 
         test_result = self.config_options.get('Test', 'test-result')
@@ -569,72 +463,83 @@ class Ranker(object):
         queries = load_eval_queries(dataset)
         for query in queries:
 
-            codecsWriteFile(self.svmTestingFeatureVectorsFile, "")
-            candidates = []
+            try:
+                codecsWriteFile(self.svmTestingFeatureVectorsFile, "")
+                candidates = []
 
-            json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
-            facts = json["facts"]
-            if facts == []:
-                result_line = "\t".join([query.utterance,
-                                     str(query.target_result),
-                                     str([])]) + "\n"
-                codecsWriteFile(test_result, result_line, "a")
-                continue
+                json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
+                facts = json["facts"]
+                if facts == []:
+                    result_line = "\t".join([query.utterance,
+                                         str(query.target_result),
+                                         str([])]) + "\n"
+                    codecsWriteFile(test_result, result_line, "a")
+                    continue
 
-            for ie in facts:
-                subject = ie["subject"]
-                sid = ie["sid"]
-                score = ie["score"]
-                relations = ie["relations"]
-                for rel in relations:
-                    fact_candiate = FactCandidate(self.config_options,
-                                                  query,
-                                                  subject,
-                                                  sid,
-                                                  score,
-                                                  rel,
-                                                  relations[rel])
-                    fact_candiate.extract_features()
-                    candidates.append(fact_candiate)
+                for ie in facts:
+                    subject = ie["subject"]
+                    sid = ie["sid"]
+                    score = ie["score"]
+                    relations = ie["relations"]
+                    for rel in relations:
+                        fact_candiate = FactCandidate(self.config_options,
+                                                      query,
+                                                      subject,
+                                                      sid,
+                                                      score,
+                                                      rel,
+                                                      relations[rel])
+                        fact_candiate.extract_features()
+                        candidates.append(fact_candiate)
 
-            # add model features for all candidates
-            lstm_predictions = lstm_model.predict(candidates, 28).flatten()
-            trigram_predictions = trigram_model.predict(candidates, 203).flatten()
-            for idx in xrange(len(lstm_predictions)):
-                candidate = candidates[idx]
-                candidate.add_feature(3, lstm_predictions[idx])
-                candidate.add_feature(4, trigram_predictions[idx])
-                codecsWriteFile(self.svmTestingFeatureVectorsFile,
-                                str(candidate.feature_vector),
-                                "a")
-            #for candidate in self.nomalize_features(candidates, 4):
-            #    codecsWriteFile(self.svmTestingFeatureVectorsFile,
-            #                    str(candidate.feature_vector),
-            #                    "a")
-            self.svm_rank()
+                # add model features for all candidates
+                lstm_predictions = lstm_model.predict(candidates, 28).flatten()
+                trigram_predictions = trigram_model.predict(candidates, 203).flatten()
+                pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
+                pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
+                for idx in xrange(len(lstm_predictions)):
+                    candidate = candidates[idx]
+                    candidate.add_feature(3, lstm_predictions[idx])
+                    candidate.add_feature(4, trigram_predictions[idx])
+                    candidate.add_feature(5, pairwise_predictions[idx])
+                    candidate.add_feature(6, pairwise_trigram_predictions[idx])
+                self.nomalize_features(candidates, 6)
+                for candidate in candidates:
+                    codecsWriteFile(self.svmTestingFeatureVectorsFile,
+                                    str(candidate.feature_vector),
+                                    "a")
+                #for candidate in self.nomalize_features(candidates, 4):
+                #    codecsWriteFile(self.svmTestingFeatureVectorsFile,
+                #                    str(candidate.feature_vector),
+                #                    "a")
+                self.svm_rank()
 
-            # Choose answers from candidates
-            answers = set(query.target_result)
-            scores = codecsReadFile(self.svmFactCandidateScores).strip().split("\n")
-            idx = np.argmax(scores)
-            best_candidate = candidates[idx]
-            best = self.choose_best_candidate(candidates, answers)
+                # Choose answers from candidates
+                answers = set(query.target_result)
+                scores = codecsReadFile(self.svmFactCandidateScores).strip().split("\n")
+                idx = np.argmax(scores)
+                best_candidate = candidates[idx]
+                best = self.choose_best_candidate(candidates, answers)
 
-            if best is None:
-                best_relation = "EMPTY"
-            else:
-                best_relation = best.relation
-                if best.relation == best_candidate.relation:
+                if best is None:
+                    best_relation = "EMPTY"
+                else:
+                    best_relation = best.relation
+
+                if best_candidate.f1 >= 0.5:
                     cover += 1
 
-            best_predictions = list(set(best_candidate.objects))
-            result_line = "\t".join([query.utterance,
-                                     str(query.target_result),
-                                     str(list(best_predictions)),
-                                     best_relation,
-                                     best_candidate.relation]) + "\n"
-            codecsWriteFile(test_result, result_line, "a")
-            print("Processing query ", str(query.id), cover, " " * 10 + "\r", end="")
+                best_predictions = list(set(best_candidate.objects))
+                result_line = "\t".join([query.utterance,
+                                         str(query.target_result),
+                                         str(list(best_predictions)),
+                                         best_relation,
+                                         best_candidate.relation]) + "\n"
+                codecsWriteFile(test_result, result_line, "a")
+                #print("Processing query ", str(query.id), cover, " " * 10 + "\r", end="")
+                logger.info("Processing query " + str(query.id) + " " + str(cover))
+            except:
+                continue
 
         print("")
         print(cover)

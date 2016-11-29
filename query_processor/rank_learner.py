@@ -3,9 +3,6 @@ from __future__ import print_function
 import logging
 import globals
 import modules
-from evaluation import load_eval_queries
-from util import codecsWriteFile, codecsReadFile, codecsLoadJson, kstem, codecsDumpJson
-import re
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -13,20 +10,11 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s '
 
 logger = logging.getLogger(__name__)
 
-def tokenize_term(t):
-    return re.sub('[?!@#$%^&*,()_+=\'\d\./]', '', t).lower()
 
-def get_stem(t):
-    global stems
-    if t in stems:
-        return stems[t]
-    else:
-        stem = kstem(t)
-        stems[t] = stem
-        return stem
+def train_model(dataset):
+    modules.facts_ranker.train_model()
 
 def train(dataset):
-    #modules.facts_ranker.train_model()
     modules.facts_ranker.train(dataset)
 
 def test(dataset):
@@ -50,10 +38,10 @@ def main():
                              help='The dataset to test')
     test_parser.set_defaults(which='test')
 
-    process_parser = subparsers.add_parser('process', help="Process training data")
+    process_parser = subparsers.add_parser('model', help="Train model")
     process_parser.add_argument('dataset',
                                 help='Training data file')
-    process_parser.set_defaults(which='process')
+    process_parser.set_defaults(which='model')
 
     args = parser.parse_args()
 
@@ -67,8 +55,8 @@ def main():
         train(args.dataset)
     elif args.which == 'test':
         test(args.dataset)
-    elif args.which == 'process':
-        pass
+    elif args.which == 'model':
+        train_model(args.dataset)
 
 
 if __name__ == '__main__':
