@@ -15,3 +15,5 @@ fact_list_extend/
 training_data/
 fact_list.tar.gz
 svm_result/
+svm_rank/
+*DS_Store
