@@ -1,9 +1,7 @@
 from __future__ import print_function
 
 import logging
-import random
 import globals
-import os
 import modules
 from util import (
     codecsWriteFile,
@@ -286,18 +284,12 @@ class Ranker(object):
                                                   rel,
                                                   relations[rel])
                     query_candidates.append(fact_candiate)
-                    #if fact_candiate.relevance:
-                    #    positive.append(fact_candiate)
-                    #else:
-                    #    wrong.append(fact_candiate)
                     vocab |= fact_candiate.vocab
-                    #vocab_trigram |= fact_candiate.vocab_trigram
+                    vocab_trigram |= fact_candiate.vocab_trigram
                     sentence_size = max(fact_candiate.sentence_size, sentence_size)
-                    #sentence_trigram_size = max(fact_candiate.sentence_trigram_size,
-                    #                            sentence_trigram_size)
+                    sentence_trigram_size = max(fact_candiate.sentence_trigram_size,
+                                                sentence_trigram_size)
             candidates.append(query_candidates)
-            #negative += random.sample(wrong, min(10, len(wrong)))
-        #return positive, negative, vocab, sentence_size
         d = dict(
             candidates = candidates,
             vocab = vocab,
@@ -309,52 +301,25 @@ class Ranker(object):
 
     def train_model(self):
         config_options = globals.config
-        #psitive, negative, train_vocab, train_sentence_size = \
-        #    self.extract_fact_candidates("webquestionstrain")
-        #test_positive, test_negative, test_vocab, test_sentence_size = \
-        #    self.extract_fact_candidates("webquestionstest")
-        #train_correct, train_positive, train_negative = \
-        #    self.extract_candidates_with_f1("webquestionstrain")
-        #test_correct, test_positive, test_negative = \
-        #    self.extract_candidates_with_f1("webquestionstest")
         train_data = self.extract_fact_candidates("webquestionstrain")
         #test_data = self.extract_fact_candidates("webquestionstest")
-        #train_vocab = train_data.get("vocab_trigram")
-        #test_vocab = test_data.get("vocab_trigram")
         print("")
 
-        #vocab_file = config_options.get('LSTMPointwiseTrigram', 'vocab')
-        #codecsWriteFile(vocab_file, "")
-        #vocab_trigram = train_vocab | test_vocab
-        #codecsDumpJson(vocab_file, sorted(vocab_trigram))
-        #print(len(train_vocab), len(test_vocab))
-        #print(len(vocab_trigram), len(train_vocab&test_vocab))
-
-        #sentence_trigram_size = max(train_data.get("sentence_trigram_size"),
-        #                            test_data.get("sentence_trigram_size"))
-        #print(sentence_trigram_size)
-
-        #vocab_file = config_options.get('Train', 'vocab')
-        #codecsWriteFile(vocab_file, "")
-        #codecsDumpJson(vocab_file, sorted(train_vocab|test_vocab))
-        #print(len(train_correct), len(train_positive), len(train_negative))
-        #print(len(test_correct), len(test_positive), len(test_negative))
-
         # train lstm model
-        #lstm_train(positive, negative, 26, 20, 64)
         #model = LSTMPointwise(config_options, 'LSTMPointwise')
         #model.train(train_data.get('candidates'), 28)
-        #model = LSTMPointwiseTrigram(config_options, 'LSTMPointwiseTrigram')
+        #model = LSTMPointwise(config_options, 'LSTMPointwiseTrigram')
         #model.train(train_data.get('candidates'), 203)
 
+        # train lstm pairwise model
         lstm_pairwise = LSTMPairwise(config_options, 'LSTMPairwise')
         lstm_pairwise.train(train_data.get('candidates'), 28)
-        #for query_candidates in train_data.get('candidates'):
-        #lstm_pairwise.predict(train_data.get('candidates')[0], 28)
 
+        # train lstm trigram pairwise model
         lstm_pairwise_trigram = LSTMPairwise(config_options, 'LSTMPairwiseTrigram')
         lstm_pairwise_trigram.train(train_data.get('candidates'), 203)
 
+        # train cnn trigram pairwise model
         #cnn = CNNPairwise(config_options, 'CNNPairwise')
         #cnn.train(train_data.get('candidates'), 203, 'query_trigram', 'relation_trigram')
 
@@ -362,11 +327,8 @@ class Ranker(object):
 
 
     def train(self, dataset):
-        vocab_file = self.config_options.get('Train', 'vocab')
-        vocab = codecsLoadJson(vocab_file)
-        word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-        lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
+        #lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
+        #trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
         pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
         pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
 
@@ -397,17 +359,17 @@ class Ranker(object):
                     query_candidates.append(fact_candiate)
 
             # add lstm feature for all candidates
-            lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
-            trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
+            #lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
+            #trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
             pairwise_predictions = pairwise_model.predict(query_candidates, 28).flatten()
             pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
             for idx in xrange(len(pairwise_predictions)):
                 candidate = query_candidates[idx]
-                candidate.add_feature(3, lstm_predictions[idx])
-                candidate.add_feature(4, trigram_predictions[idx])
-                candidate.add_feature(5, pairwise_predictions[idx])
-                candidate.add_feature(6, pairwise_trigram_predictions[idx])
-            self.nomalize_features(query_candidates, 6)
+                #candidate.add_feature(3, lstm_predictions[idx])
+                #candidate.add_feature(4, trigram_predictions[idx])
+                candidate.add_feature(3, pairwise_predictions[idx])
+                candidate.add_feature(4, pairwise_trigram_predictions[idx])
+            self.nomalize_features(query_candidates, 4)
             for candidate in query_candidates:
                 codecsWriteFile(self.svmTrainingFeatureVectorsFile,
                                 str(candidate.feature_vector),
@@ -427,14 +389,10 @@ class Ranker(object):
 
 
     def test(self, dataset):
-        vocab_file = self.config_options.get('Train', 'vocab')
-        vocab = codecsLoadJson(vocab_file)
-        word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
         lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
         trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
         pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
         pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
-
 
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
