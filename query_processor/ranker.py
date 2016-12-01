@@ -327,8 +327,8 @@ class Ranker(object):
 
 
     def train(self, dataset):
-        #lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        #trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
+        lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
+        trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
         pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
         pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
 
@@ -359,17 +359,17 @@ class Ranker(object):
                     query_candidates.append(fact_candiate)
 
             # add lstm feature for all candidates
-            #lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
-            #trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
+            lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
+            trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
             pairwise_predictions = pairwise_model.predict(query_candidates, 28).flatten()
             pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
             for idx in xrange(len(pairwise_predictions)):
                 candidate = query_candidates[idx]
-                #candidate.add_feature(3, lstm_predictions[idx])
-                #candidate.add_feature(4, trigram_predictions[idx])
                 candidate.add_feature(3, pairwise_predictions[idx])
                 candidate.add_feature(4, pairwise_trigram_predictions[idx])
-            self.nomalize_features(query_candidates, 4)
+                candidate.add_feature(5, lstm_predictions[idx])
+                candidate.add_feature(6, trigram_predictions[idx])
+            self.nomalize_features(query_candidates, 6)
             for candidate in query_candidates:
                 codecsWriteFile(self.svmTrainingFeatureVectorsFile,
                                 str(candidate.feature_vector),
@@ -389,8 +389,8 @@ class Ranker(object):
 
 
     def test(self, dataset):
-        #lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        #trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
+        lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
+        trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
         pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
         pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
         logger.info("Finish loading models.")
@@ -431,16 +431,16 @@ class Ranker(object):
                         candidates.append(fact_candiate)
 
                 # add model features for all candidates
-                #lstm_predictions = lstm_model.predict(candidates, 28).flatten()
-                #trigram_predictions = trigram_model.predict(candidates, 203).flatten()
+                lstm_predictions = lstm_model.predict(candidates, 28).flatten()
+                trigram_predictions = trigram_model.predict(candidates, 203).flatten()
                 pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
                 pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
                 for idx in xrange(len(pairwise_predictions)):
                     candidate = candidates[idx]
-                    #candidate.add_feature(3, lstm_predictions[idx])
-                    #candidate.add_feature(4, trigram_predictions[idx])
                     candidate.add_feature(3, pairwise_predictions[idx])
                     candidate.add_feature(4, pairwise_trigram_predictions[idx])
+                    candidate.add_feature(5, lstm_predictions[idx])
+                    candidate.add_feature(6, trigram_predictions[idx])
                 self.nomalize_features(candidates, 4)
                 for candidate in candidates:
                     codecsWriteFile(self.svmTestingFeatureVectorsFile,
