@@ -374,6 +374,7 @@ class Ranker(object):
                 codecsWriteFile(self.svmTrainingFeatureVectorsFile,
                                 str(candidate.feature_vector),
                                 "a")
+            break
         self.svm_learn()
 
     def choose_best_candidate(self, candidates, answers):
