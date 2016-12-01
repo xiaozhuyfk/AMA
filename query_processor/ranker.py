@@ -441,7 +441,7 @@ class Ranker(object):
                     candidate.add_feature(4, pairwise_trigram_predictions[idx])
                     candidate.add_feature(5, lstm_predictions[idx])
                     candidate.add_feature(6, trigram_predictions[idx])
-                self.nomalize_features(candidates, 4)
+                self.nomalize_features(candidates, 6)
                 for candidate in candidates:
                     codecsWriteFile(self.svmTestingFeatureVectorsFile,
                                     str(candidate.feature_vector),
