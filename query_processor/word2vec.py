@@ -1,5 +1,5 @@
-#from gensim import models
-#from gensim import matutils
+from gensim import models
+from gensim import matutils
 from numpy import dot
 import logging
 
