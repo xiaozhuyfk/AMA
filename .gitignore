@@ -1,5 +1,7 @@
+*.o
 *.pyc
 *.class
+svm_rank/
 data/
 lib/
 virtuoso-db/
@@ -15,5 +17,4 @@ fact_list_extend/
 training_data/
 fact_list.tar.gz
 svm_result/
-svm_rank/
 *DS_Store
