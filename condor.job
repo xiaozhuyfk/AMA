@@ -1,0 +1,7 @@
+Universe = vanilla
+
+executable = /home/hongyul/AMA/condor.sh
+output = /home/hongyul/condor/condor0.job.out
+log = /tmp/hongyul0.job.log
+error = /home/hongyul/condor/condor0.job.err
+queue
