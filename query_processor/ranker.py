@@ -393,6 +393,7 @@ class Ranker(object):
         #trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
         pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
         pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
+        logger.info("Finish loading models.")
 
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
