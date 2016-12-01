@@ -389,8 +389,8 @@ class Ranker(object):
 
 
     def test(self, dataset):
-        lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
+        #lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
+        #trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
         pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
         pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
 
@@ -431,17 +431,17 @@ class Ranker(object):
                         candidates.append(fact_candiate)
 
                 # add model features for all candidates
-                lstm_predictions = lstm_model.predict(candidates, 28).flatten()
-                trigram_predictions = trigram_model.predict(candidates, 203).flatten()
+                #lstm_predictions = lstm_model.predict(candidates, 28).flatten()
+                #trigram_predictions = trigram_model.predict(candidates, 203).flatten()
                 pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
                 pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
                 for idx in xrange(len(lstm_predictions)):
                     candidate = candidates[idx]
-                    candidate.add_feature(3, lstm_predictions[idx])
-                    candidate.add_feature(4, trigram_predictions[idx])
-                    candidate.add_feature(5, pairwise_predictions[idx])
-                    candidate.add_feature(6, pairwise_trigram_predictions[idx])
-                self.nomalize_features(candidates, 6)
+                    #candidate.add_feature(3, lstm_predictions[idx])
+                    #candidate.add_feature(4, trigram_predictions[idx])
+                    candidate.add_feature(3, pairwise_predictions[idx])
+                    candidate.add_feature(4, pairwise_trigram_predictions[idx])
+                self.nomalize_features(candidates, 4)
                 for candidate in candidates:
                     codecsWriteFile(self.svmTestingFeatureVectorsFile,
                                     str(candidate.feature_vector),
