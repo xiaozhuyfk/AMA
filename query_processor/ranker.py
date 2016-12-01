@@ -306,18 +306,18 @@ class Ranker(object):
         print("")
 
         # train lstm model
-        #model = LSTMPointwise(config_options, 'LSTMPointwise')
-        #model.train(train_data.get('candidates'), 28)
-        #model = LSTMPointwise(config_options, 'LSTMPointwiseTrigram')
-        #model.train(train_data.get('candidates'), 203)
+        model = LSTMPointwise(config_options, 'LSTMPointwise')
+        model.train(train_data.get('candidates'), 28)
+        model = LSTMPointwise(config_options, 'LSTMPointwiseTrigram')
+        model.train(train_data.get('candidates'), 203)
 
         # train lstm pairwise model
-        lstm_pairwise = LSTMPairwise(config_options, 'LSTMPairwise')
-        lstm_pairwise.train(train_data.get('candidates'), 28)
+        #lstm_pairwise = LSTMPairwise(config_options, 'LSTMPairwise')
+        #lstm_pairwise.train(train_data.get('candidates'), 28)
 
         # train lstm trigram pairwise model
-        lstm_pairwise_trigram = LSTMPairwise(config_options, 'LSTMPairwiseTrigram')
-        lstm_pairwise_trigram.train(train_data.get('candidates'), 203)
+        #lstm_pairwise_trigram = LSTMPairwise(config_options, 'LSTMPairwiseTrigram')
+        #lstm_pairwise_trigram.train(train_data.get('candidates'), 203)
 
         # train cnn trigram pairwise model
         #cnn = CNNPairwise(config_options, 'CNNPairwise')
