@@ -266,7 +266,7 @@ class Ranker(object):
         sentence_trigram_size = 0
         candidates = []
         for query in queries:
-            print("Processing query " + str(query.id) + " " * 10 + "\r", end="")
+            logger.info("Processing query " + str(query.id))
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
             facts = json["facts"]
             query_candidates = []
@@ -299,11 +299,31 @@ class Ranker(object):
         )
         return d
 
-    def train_model(self):
+    def train_model(self, model_name):
         config_options = globals.config
         train_data = self.extract_fact_candidates("webquestionstrain")
         #test_data = self.extract_fact_candidates("webquestionstest")
-        print("")
+
+        if model_name == "LSTMPointwise":
+            model = LSTMPointwise(config_options, model_name)
+            model.train(train_data.get('candidates'), 28)
+        elif model_name == "LSTMPointwiseTrigram":
+            model = LSTMPointwise(config_options, model_name)
+            model.train(train_data.get('candidates'), 203)
+        elif model_name == "LSTMPairwise":
+            model = LSTMPairwise(config_options, model_name)
+            model.train(train_data.get('candidates'), 28)
+        elif model_name == "LSTMPairwiseTrigram":
+            model = LSTMPairwise(config_options, model_name)
+            model.train(train_data.get('candidates'), 203)
+        elif model_name == "CNNPairwise":
+            model = CNNPairwise(config_options, model_name)
+            model.train(train_data.get('candidates'),
+                      203,
+                      'query_trigram',
+                      'relation_trigram')
+
+
 
         # train lstm model
         #model = LSTMPointwise(config_options, 'LSTMPointwise')
@@ -320,8 +340,10 @@ class Ranker(object):
         #lstm_pairwise_trigram.train(train_data.get('candidates'), 203)
 
         # train cnn trigram pairwise model
-        cnn = CNNPairwise(config_options, 'CNNPairwise')
-        cnn.train(train_data.get('candidates'), 203, 'query_trigram', 'relation_trigram')
+        #cnn = CNNPairwise(config_options, 'CNNPairwise')
+        #cnn.train(train_data.get('candidates'), 203, 'query_trigram', 'relation_trigram')
+
+        #cnn.predict()
 
 
 

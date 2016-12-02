@@ -11,8 +11,8 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s '
 logger = logging.getLogger(__name__)
 
 
-def train_model(dataset):
-    modules.facts_ranker.train_model()
+def train_model(model_name):
+    modules.facts_ranker.train_model(model_name)
 
 def train(dataset):
     modules.facts_ranker.train(dataset)
@@ -40,7 +40,9 @@ def main():
 
     process_parser = subparsers.add_parser('model', help="Train model")
     process_parser.add_argument('dataset',
-                                help='Training data file')
+                                help='Training dataset')
+    process_parser.add_argument('name',
+                                help='Training model name')
     process_parser.set_defaults(which='model')
 
     args = parser.parse_args()
@@ -56,7 +58,7 @@ def main():
     elif args.which == 'test':
         test(args.dataset)
     elif args.which == 'model':
-        train_model(args.dataset)
+        train_model(args.name)
 
 
 if __name__ == '__main__':
