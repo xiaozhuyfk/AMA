@@ -67,8 +67,16 @@ class JointPairwiseModel(BaseModel):
                                   np.array([f2]),
                                   np.array([q1]),
                                   np.array([f1])])
+
+        print self.ranking_model.predict([np.array([q1]), np.array([f1])])
+        print self.ranking_model.predict([np.array([q2]), np.array([f2])])
+
         """
         for candidate in query_candidates:
+            q1 = vectorize_sentence(self.word_idx, getattr(candidate, query_attr), sentence_size)
+            f1 = vectorize_sentence(self.word_idx, getattr(candidate, fact_attr), sentence_size)
+            q2 = vectorize_sentence(self.word_idx, getattr(query_candidates[1], query_attr), sentence_size)
+            f2 = vectorize_sentence(self.word_idx, getattr(query_candidates[1], fact_attr), sentence_size)
             sentence = getattr(candidate, self.sentence_attr)
             sentence_idx = vectorize_sentence(self.word_idx, sentence, sentence_size)
             x.append(sentence_idx)
