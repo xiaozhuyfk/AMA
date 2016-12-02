@@ -328,7 +328,7 @@ class Ranker(object):
         elif model_name == "CNNPairwise":
             model = CNNPairwise(config_options, model_name)
             model.train(data, 203, 'query_trigram', 'relation_trigram')
-            model.predict(data[0], 203)
+            model.predict(data[0], 203, 'query_trigram', 'relation_trigram')
 
 
 
