@@ -50,11 +50,24 @@ class BaseModel(object):
         self.sentence_size = int(config_options.get(name, 'sentence-size'))
         self.sentence_attr = config_options.get(name, 'sentence-attr')
 
-class CNNPairwise(BaseModel):
+class JointPairwiseModel(BaseModel):
 
-    def predict(self, query_candidates, sentence_size):
+    def predict(self, query_candidates, sentence_size, query_attr, fact_attr):
         self.load_model()
         x = []
+        q1 = vectorize_sentence(self.word_idx, getattr(query_candidates[0], query_attr), sentence_size)
+        f1 = vectorize_sentence(self.word_idx, getattr(query_candidates[0], fact_attr), sentence_size)
+        q2 = vectorize_sentence(self.word_idx, getattr(query_candidates[1], query_attr), sentence_size)
+        f2 = vectorize_sentence(self.word_idx, getattr(query_candidates[1], fact_attr), sentence_size)
+        print self.model.predict([np.array([q1]),
+                                  np.array([f1]),
+                                  np.array([q2]),
+                                  np.array([f2])])
+        print self.model.predict([np.array([q2]),
+                                  np.array([f2]),
+                                  np.array([q1]),
+                                  np.array([f1])])
+
         for candidate in query_candidates:
             sentence = getattr(candidate, self.sentence_attr)
             sentence_idx = vectorize_sentence(self.word_idx, sentence, sentence_size)
@@ -119,7 +132,7 @@ class CNNPairwise(BaseModel):
                     correct.append(candidate)
                 else:
                     wrong.append(candidate)
-            #wrong = random.sample(wrong, min(len(wrong), 20))
+            wrong = random.sample(wrong, min(len(wrong), 20))
             for i in xrange(len(correct)):
                 for j in xrange(len(wrong)):
                     if random.randint(0,1):
@@ -150,6 +163,66 @@ class CNNPairwise(BaseModel):
             F2.append(f2_idx)
 
         return [np.array(Q1), np.array(F1), np.array(Q2), np.array(F2)], np.array(label)
+
+    def _build_model(self, vocab_dim, n_symbols, word_idx):
+        raise NotImplementedError
+
+
+class LSTMJointPairwise(JointPairwiseModel):
+
+    def _build_model(self, vocab_dim, n_symbols, word_idx):
+        logger.info("Constructing CNN model.")
+        q_embedding = Embedding(output_dim=vocab_dim,
+                              input_dim=n_symbols,
+                              dropout=0.2)
+        f_embedding = Embedding(output_dim=vocab_dim,
+                              input_dim=n_symbols,
+                              dropout=0.2)
+        q_lstm = Bidirectional(LSTM(128))
+        f_lstm = Bidirectional(LSTM(128))
+        q_dense = Dense(100)
+        f_dense = Dense(100)
+
+        l_question_input = Input(shape=(self.sentence_size,))
+        l_fact_input = Input(shape=(self.sentence_size,))
+        l_question = q_embedding(l_question_input)
+        l_question = q_lstm(l_question)
+        l_question = q_dense(l_question)
+        l_fact = f_embedding(l_fact_input)
+        l_fact = f_lstm(l_fact)
+        l_fact = f_dense(l_fact)
+        l_merged = merge([l_question, l_fact],
+                       mode='cos',
+                       output_shape=(1,))
+
+        r_question_input = Input(shape=(self.sentence_size,))
+        r_fact_input = Input(shape=(self.sentence_size,))
+        r_question = q_embedding(r_question_input)
+        r_question = q_lstm(r_question)
+        r_question = q_dense(r_question)
+        r_fact = f_embedding(r_fact_input)
+        r_fact = f_lstm(r_fact)
+        r_fact = f_dense(r_fact)
+        r_merged = merge([r_question, r_fact],
+                       mode='cos',
+                       output_shape=(1,))
+
+        ranking_model = Model(input=[l_question_input, l_fact_input], output=l_merged)
+
+        merged = merge([l_merged, r_merged],
+                       mode=lambda x: x[0] - x[1],
+                       output_shape=(1,))
+        model = Model(input=[l_question_input, l_fact_input,
+                             r_question_input, r_fact_input],
+                      output=merged)
+        model.compile(optimizer='rmsprop',
+                      loss='hinge',
+                      metrics=['accuracy'])
+
+        return model, ranking_model
+
+
+class CNNPairwise(JointPairwiseModel):
 
     def _build_model(self, vocab_dim, n_symbols, word_idx):
         logger.info("Constructing CNN model.")

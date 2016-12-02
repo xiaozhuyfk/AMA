@@ -17,6 +17,7 @@ import numpy as np
 from model import (
     LSTMPointwise,
     LSTMPairwise,
+    LSTMJointPairwise,
     CNNPairwise,
 )
 
@@ -290,6 +291,7 @@ class Ranker(object):
                     sentence_trigram_size = max(fact_candiate.sentence_trigram_size,
                                                 sentence_trigram_size)
             candidates.append(query_candidates)
+            break
         d = dict(
             candidates = candidates,
             vocab = vocab,
@@ -302,26 +304,31 @@ class Ranker(object):
     def train_model(self, model_name):
         config_options = globals.config
         train_data = self.extract_fact_candidates("webquestionstrain")
+        data = train_data.get('candidates')
         #test_data = self.extract_fact_candidates("webquestionstest")
 
         if model_name == "LSTMPointwise":
             model = LSTMPointwise(config_options, model_name)
-            model.train(train_data.get('candidates'), 28)
+            model.train(data, 28)
         elif model_name == "LSTMPointwiseTrigram":
             model = LSTMPointwise(config_options, model_name)
-            model.train(train_data.get('candidates'), 203)
+            model.train(data, 203)
         elif model_name == "LSTMPairwise":
             model = LSTMPairwise(config_options, model_name)
-            model.train(train_data.get('candidates'), 28)
+            model.train(data, 28)
         elif model_name == "LSTMPairwiseTrigram":
             model = LSTMPairwise(config_options, model_name)
-            model.train(train_data.get('candidates'), 203)
+            model.train(data, 203)
+        elif model_name == "LSTMJointPairwise":
+            model = LSTMJointPairwise(config_options, model_name)
+            model.train(data, 28, 'query_tokens', 'relation_tokens')
+        elif model_name == "LSTMJointPairwiseTrigram":
+            model = LSTMJointPairwise(config_options, model_name)
+            model.train(data, 203, 'query_trigram', 'relation_trigram')
         elif model_name == "CNNPairwise":
             model = CNNPairwise(config_options, model_name)
-            model.train(train_data.get('candidates'),
-                      203,
-                      'query_trigram',
-                      'relation_trigram')
+            model.train(data, 203, 'query_trigram', 'relation_trigram')
+            model.predict(data[0], 203)
 
 
 
