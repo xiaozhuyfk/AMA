@@ -54,6 +54,8 @@ class JointPairwiseModel(BaseModel):
 
     def predict(self, query_candidates, sentence_size, query_attr, fact_attr):
         self.load_model()
+
+        """
         x = []
         q1 = vectorize_sentence(self.word_idx, getattr(query_candidates[0], query_attr), sentence_size)
         f1 = vectorize_sentence(self.word_idx, getattr(query_candidates[0], fact_attr), sentence_size)
@@ -72,16 +74,18 @@ class JointPairwiseModel(BaseModel):
         print self.ranking_model.predict([np.array([q2]), np.array([f2])])
 
         """
+        Q = []
+        F = []
         for candidate in query_candidates:
-            q1 = vectorize_sentence(self.word_idx, getattr(candidate, query_attr), sentence_size)
-            f1 = vectorize_sentence(self.word_idx, getattr(candidate, fact_attr), sentence_size)
-            q2 = vectorize_sentence(self.word_idx, getattr(query_candidates[1], query_attr), sentence_size)
-            f2 = vectorize_sentence(self.word_idx, getattr(query_candidates[1], fact_attr), sentence_size)
-            sentence = getattr(candidate, self.sentence_attr)
-            sentence_idx = vectorize_sentence(self.word_idx, sentence, sentence_size)
-            x.append(sentence_idx)
-        return self.ranking_model.predict(np.array(x))
-        """
+            q = vectorize_sentence(self.word_idx,
+                                   getattr(candidate, query_attr),
+                                   sentence_size)
+            f = vectorize_sentence(self.word_idx,
+                                   getattr(candidate, fact_attr),
+                                   sentence_size)
+            Q.append(q)
+            F.append(f)
+        return self.ranking_model.predict([np.array(Q), np.array(F)])
 
     def load_model(self):
         name = self.name
