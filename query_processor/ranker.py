@@ -36,7 +36,7 @@ class FeatureVector(object):
         self.relevance = relevance
         self.f1 = candidate.f1
         self.features = {}
-        self.format = "%d qid:%s %s# %s\n"
+        self.format = "%0.2f qid:%s %s# %s\n"
 
     def add(self, i, value):
         self.features[i] = value
@@ -56,7 +56,7 @@ class FeatureVector(object):
         vec = ""
         for i in self.features:
             vec += str(i) + ":" + str(self.features[i]) + " "
-        return self.format % ((self.f1 >= 0.5) * 1, str(self.query_id), vec, indicator)
+        return self.format % (self.f1, str(self.query_id), vec, indicator)
 
 
 def ngramize(tokens, n):

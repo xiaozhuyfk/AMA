@@ -50,7 +50,6 @@ class BaseModel(object):
         self.sentence_size = int(config_options.get(name, 'sentence-size'))
         self.sentence_attr = config_options.get(name, 'sentence-attr')
 
-
 class CNNPairwise(BaseModel):
 
     def predict(self, query_candidates, sentence_size):
