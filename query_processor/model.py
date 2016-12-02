@@ -226,42 +226,50 @@ class CNNPairwise(JointPairwiseModel):
 
     def _build_model(self, vocab_dim, n_symbols, word_idx):
         logger.info("Constructing CNN model.")
-        embedding = Embedding(output_dim=vocab_dim,
+        q_embedding = Embedding(output_dim=vocab_dim,
                               input_dim=n_symbols,
-                              name='embedding',
                               dropout=0.2)
-        cnn = Convolution1D(nb_filter=300,
+        f_embedding = Embedding(output_dim=vocab_dim,
+                              input_dim=n_symbols,
+                              dropout=0.2)
+        q_cnn = Convolution1D(nb_filter=150,
+                            filter_length=3,
+                            border_mode='valid',
+                            activation='relu',
+                            subsample_length=1)
+        f_cnn = Convolution1D(nb_filter=150,
                             filter_length=3,
                             border_mode='valid',
                             activation='relu',
                             subsample_length=1)
         pooling = GlobalMaxPooling1D()
-        dense = Dense(100)
+        q_dense = Dense(100)
+        f_dense = Dense(100)
 
         l_question_input = Input(shape=(self.sentence_size,))
         l_fact_input = Input(shape=(self.sentence_size,))
-        l_question = embedding(l_question_input)
-        l_question = cnn(l_question)
+        l_question = q_embedding(l_question_input)
+        l_question = q_cnn(l_question)
         l_question = pooling(l_question)
-        l_question = dense(l_question)
-        l_fact = embedding(l_fact_input)
-        l_fact = cnn(l_fact)
+        l_question = q_dense(l_question)
+        l_fact = f_embedding(l_fact_input)
+        l_fact = f_cnn(l_fact)
         l_fact = pooling(l_fact)
-        l_fact = dense(l_fact)
+        l_fact = f_dense(l_fact)
         l_merged = merge([l_question, l_fact],
                        mode='cos',
                        output_shape=(1,))
 
         r_question_input = Input(shape=(self.sentence_size,))
         r_fact_input = Input(shape=(self.sentence_size,))
-        r_question = embedding(r_question_input)
-        r_question = cnn(r_question)
+        r_question = q_embedding(r_question_input)
+        r_question = q_cnn(r_question)
         r_question = pooling(r_question)
-        r_question = dense(r_question)
-        r_fact = embedding(r_fact_input)
-        r_fact = cnn(r_fact)
+        r_question = q_dense(r_question)
+        r_fact = f_embedding(r_fact_input)
+        r_fact = f_cnn(r_fact)
         r_fact = pooling(r_fact)
-        r_fact = dense(r_fact)
+        r_fact = f_dense(r_fact)
         r_merged = merge([r_question, r_fact],
                        mode='cos',
                        output_shape=(1,))
