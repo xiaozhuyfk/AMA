@@ -67,12 +67,13 @@ class JointPairwiseModel(BaseModel):
                                   np.array([f2]),
                                   np.array([q1]),
                                   np.array([f1])])
-
+        """
         for candidate in query_candidates:
             sentence = getattr(candidate, self.sentence_attr)
             sentence_idx = vectorize_sentence(self.word_idx, sentence, sentence_size)
             x.append(sentence_idx)
         return self.ranking_model.predict(np.array(x))
+        """
 
     def load_model(self):
         name = self.name
