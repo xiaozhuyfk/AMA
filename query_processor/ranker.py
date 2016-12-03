@@ -496,19 +496,19 @@ class Ranker(object):
                 # pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
                 # pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
                 jointpairwise_predictions = jointpairwise.predict(
-                    query_candidates,
+                    candidates,
                     28,
                     'query_tokens',
                     'relation_tokens'
                 ).flatten()
                 jointpairwise_trigram_predictions = jointpairwise_trigram.predict(
-                    query_candidates,
+                    candidates,
                     203,
                     'query_trigram',
                     'relation_trigram'
                 ).flatten()
 
-                for idx in xrange(len(query_candidates)):
+                for idx in xrange(len(candidates)):
                     candidate = query_candidates[idx]
                     candidate.add_feature(jointpairwise_predictions[idx])
                     candidate.add_feature(jointpairwise_trigram_predictions[idx])
