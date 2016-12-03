@@ -509,7 +509,7 @@ class Ranker(object):
                 ).flatten()
 
                 for idx in xrange(len(candidates)):
-                    candidate = query_candidates[idx]
+                    candidate = candidates[idx]
                     candidate.add_feature(jointpairwise_predictions[idx])
                     candidate.add_feature(jointpairwise_trigram_predictions[idx])
                     # candidate.add_feature(5, lstm_predictions[idx])
