@@ -364,30 +364,6 @@ class Ranker(object):
             model.predict(data[0], 203, 'query_trigram', 'relation_trigram')
 
 
-
-        # train lstm model
-        #model = LSTMPointwise(config_options, 'LSTMPointwise')
-        #model.train(train_data.get('candidates'), 28)
-        #model = LSTMPointwise(config_options, 'LSTMPointwiseTrigram')
-        #model.train(train_data.get('candidates'), 203)
-
-        # train lstm pairwise model
-        #lstm_pairwise = LSTMPairwise(config_options, 'LSTMPairwise')
-        #lstm_pairwise.train(train_data.get('candidates'), 28)
-
-        # train lstm trigram pairwise model
-        #lstm_pairwise_trigram = LSTMPairwise(config_options, 'LSTMPairwiseTrigram')
-        #lstm_pairwise_trigram.train(train_data.get('candidates'), 203)
-
-        # train cnn trigram pairwise model
-        #cnn = CNNPairwise(config_options, 'CNNPairwise')
-        #cnn.train(train_data.get('candidates'), 203, 'query_trigram', 'relation_trigram')
-
-        #cnn.predict()
-
-
-
-
     def train(self, dataset):
         #lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
         #trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
@@ -429,14 +405,17 @@ class Ranker(object):
 
             #pairwise_predictions = pairwise_model.predict(query_candidates, 28).flatten()
             #pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
-            jointpairwise_predictions = jointpairwise.predict(query_candidates,
-                                                              203,
-                                                              'query_tokens',
-                                                              'relation_tokens')
-            jointpairwise_trigram_predictions = jointpairwise_trigram.predict(query_candidates,
-                                                                              203,
-                                                                              'query_trigram',
-                                                                              'relation_trigram')
+            jointpairwise_predictions = jointpairwise.predict(
+                query_candidates,
+                203,
+                'query_tokens',
+                'relation_tokens')
+            jointpairwise_trigram_predictions = jointpairwise_trigram.predict(
+                query_candidates,
+                203,
+                'query_trigram',
+                'relation_trigram')
+
             for idx in xrange(len(pairwise_predictions)):
                 candidate = query_candidates[idx]
                 candidate.add_feature(jointpairwise_predictions[idx])
