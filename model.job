@@ -1,13 +1,13 @@
 Universe = vanilla
 
-executable = /home/hongyul/AMA/condor.sh
+executable = /home/hongyul/AMA/model.sh
 arguments = LSTMJointPairwise
 output = /home/hongyul/condor/condor1.job.out
 log = /tmp/hongyul1.job.log
 error = /home/hongyul/condor/condor1.job.err
 queue
 
-executable = /home/hongyul/AMA/condor.sh
+executable = /home/hongyul/AMA/model.sh
 arguments = LSTMJointPairwiseTrigram
 output = /home/hongyul/condor/condor2.job.out
 log = /tmp/hongyul2.job.log
