@@ -13,10 +13,3 @@ output = /home/hongyul/condor/condor2.job.out
 log = /tmp/hongyul2.job.log
 error = /home/hongyul/condor/condor2.job.err
 queue
-
-executable = /home/hongyul/AMA/condor.sh
-arguments = CNNPairwise
-output = /home/hongyul/condor/condor3.job.out
-log = /tmp/hongyul3.job.log
-error = /home/hongyul/condor/condor3.job.err
-queue

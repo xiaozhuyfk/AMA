@@ -191,19 +191,17 @@ class LSTMJointPairwise(JointPairwiseModel):
         f_embedding = Embedding(output_dim=vocab_dim,
                               input_dim=n_symbols,
                               dropout=0.2)
-        q_lstm = Bidirectional(LSTM(128))
-        f_lstm = Bidirectional(LSTM(128))
-        q_dense = Dense(100)
-        f_dense = Dense(100)
+        q_lstm = Bidirectional(LSTM(16))
+        f_lstm = Bidirectional(LSTM(16))
+        #q_dense = Dense(100)
+        #f_dense = Dense(100)
 
         l_question_input = Input(shape=(self.sentence_size,))
         l_fact_input = Input(shape=(self.sentence_size,))
         l_question = q_embedding(l_question_input)
         l_question = q_lstm(l_question)
-        l_question = q_dense(l_question)
         l_fact = f_embedding(l_fact_input)
         l_fact = f_lstm(l_fact)
-        l_fact = f_dense(l_fact)
         l_merged = merge([l_question, l_fact],
                        mode='cos',
                        output_shape=(1,))
@@ -212,10 +210,8 @@ class LSTMJointPairwise(JointPairwiseModel):
         r_fact_input = Input(shape=(self.sentence_size,))
         r_question = q_embedding(r_question_input)
         r_question = q_lstm(r_question)
-        r_question = q_dense(r_question)
         r_fact = f_embedding(r_fact_input)
         r_fact = f_lstm(r_fact)
-        r_fact = f_dense(r_fact)
         r_merged = merge([r_question, r_fact],
                        mode='cos',
                        output_shape=(1,))

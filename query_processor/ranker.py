@@ -59,6 +59,9 @@ class FeatureVector(object):
             vec += str(i) + ":" + str(self.features[i]) + " "
         return self.format % ((self.f1 >= 0.5) * 1, str(self.query_id), vec, indicator)
 
+    def __len__(self):
+        return len(self.features)
+
 
 def ngramize(tokens, n):
     assert(n > 0)
@@ -85,6 +88,7 @@ class FactCandidate(object):
 
         self.objects = response["objects"]
         self.oid = response["oid"]
+        self.feature_idx = 1
 
         # word based
         self.query_tokens = [tokenize_term(t) for t in self.question.split()]
@@ -124,8 +128,12 @@ class FactCandidate(object):
                         (sentence_size - len(sentence)) * [0]
         return sentence_idx
 
-    def add_feature(self, idx, value):
+    def update_feature(self, idx, value):
         self.feature_vector.add(idx, value)
+
+    def add_feature(self, value):
+        self.feature_vector.add(self.feature_idx, value)
+        self.feature_idx += 1
 
     def extract_features(self):
         relevance = 0
@@ -134,19 +142,20 @@ class FactCandidate(object):
                 relevance = 1
 
         vector = FeatureVector(self.query, relevance, self)
+        self.feature_vector = vector
 
         # Add entity linking score
-        vector.add(1, float(self.score))
+        self.add_feature(float(self.score))
 
         # Add number of nodes
-        relations = self.relation.split("\n")
-        #vector.add(2, float(len(relations) + 1))
+        # relations = self.relation.split("\n")
+        # vector.add(2, float(len(relations) + 1))
 
         # Add number of answers
-        vector.add(2, float(len(self.objects)))
+        # vector.add(2, float(len(self.objects)))
 
-        self.feature_vector = vector
-        return vector
+        #self.feature_vector = vector
+        return self.feature_vector
 
 
 
@@ -208,7 +217,11 @@ class Ranker(object):
         p = subprocess.Popen(cmd, stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
         p.wait()
 
-    def nomalize_features(self, candidates, length):
+    def nomalize_features(self, candidates):
+        if candidates == []:
+            return []
+        length = len(candidates[0].feature_vector)
+
         minimums = np.array([float("inf")] * length)
         maximums = np.array([-float("inf")] * length)
         for candidate in candidates:
@@ -300,8 +313,29 @@ class Ranker(object):
         )
         return d
 
+    def get_model(self, model_name):
+        config_options = self.config_options
+        if model_name == "LSTMPointwise":
+            model = LSTMPointwise(config_options, model_name)
+        elif model_name == "LSTMPointwiseTrigram":
+            model = LSTMPointwise(config_options, model_name)
+        elif model_name == "LSTMPairwise":
+            model = LSTMPairwise(config_options, model_name)
+        elif model_name == "LSTMPairwiseTrigram":
+            model = LSTMPairwise(config_options, model_name)
+        elif model_name == "LSTMJointPairwise":
+            model = LSTMJointPairwise(config_options, model_name)
+        elif model_name == "LSTMJointPairwiseTrigram":
+            model = LSTMJointPairwise(config_options, model_name)
+        elif model_name == "CNNPairwise":
+            model = CNNPairwise(config_options, model_name)
+        else:
+            logger.warning("Model name " + model_name + " does not exist.")
+            model = None
+        return model
+
     def train_model(self, model_name):
-        config_options = globals.config
+        config_options = self.config_options
         train_data = self.extract_fact_candidates("webquestionstrain")
         data = train_data.get('candidates')
         #test_data = self.extract_fact_candidates("webquestionstest")
@@ -355,10 +389,12 @@ class Ranker(object):
 
 
     def train(self, dataset):
-        lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
-        pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
-        pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
+        #lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
+        #trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
+        pairwise_model = self.get_model('LSTMPairwise')
+        pairwise_trigram = self.get_model('LSTMPairwiseTrigram')
+        jointpairwise_trigram = self.get_model('LSTMJointPairwiseTrigram')
+        jointpairwise_cnn = self.get_model('CNNPairwise')
 
         queries = load_eval_queries(dataset)
         codecsWriteFile(self.svmTrainingFeatureVectorsFile, "")
@@ -387,17 +423,22 @@ class Ranker(object):
                     query_candidates.append(fact_candiate)
 
             # add lstm feature for all candidates
-            lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
-            trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
+            #lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
+            #trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
+
             pairwise_predictions = pairwise_model.predict(query_candidates, 28).flatten()
             pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
+            jointpairwise_trigram_predictions = jointpairwise_trigram.predict(query_candidates,
+                                                                              203,
+                                                                              'query_trigram',
+                                                                              'relation_trigram')
             for idx in xrange(len(pairwise_predictions)):
                 candidate = query_candidates[idx]
-                candidate.add_feature(3, pairwise_predictions[idx])
-                candidate.add_feature(4, pairwise_trigram_predictions[idx])
-                candidate.add_feature(5, lstm_predictions[idx])
-                candidate.add_feature(6, trigram_predictions[idx])
-            self.nomalize_features(query_candidates, 6)
+                candidate.add_feature(pairwise_predictions[idx])
+                candidate.add_feature(pairwise_trigram_predictions[idx])
+                #candidate.add_feature(lstm_predictions[idx])
+                #candidate.add_feature(trigram_predictions[idx])
+            self.nomalize_features(query_candidates)
             for candidate in query_candidates:
                 codecsWriteFile(self.svmTrainingFeatureVectorsFile,
                                 str(candidate.feature_vector),
@@ -417,10 +458,11 @@ class Ranker(object):
 
 
     def test(self, dataset):
-        lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
+        # lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
+        # trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
         pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
         pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
+        jointpairwise_trigram = LSTMJointPairwise()
         logger.info("Finish loading models.")
 
         test_result = self.config_options.get('Test', 'test-result')
@@ -459,17 +501,18 @@ class Ranker(object):
                         candidates.append(fact_candiate)
 
                 # add model features for all candidates
-                lstm_predictions = lstm_model.predict(candidates, 28).flatten()
-                trigram_predictions = trigram_model.predict(candidates, 203).flatten()
+                # lstm_predictions = lstm_model.predict(candidates, 28).flatten()
+                # trigram_predictions = trigram_model.predict(candidates, 203).flatten()
                 pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
                 pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
                 for idx in xrange(len(pairwise_predictions)):
                     candidate = candidates[idx]
-                    candidate.add_feature(3, pairwise_predictions[idx])
-                    candidate.add_feature(4, pairwise_trigram_predictions[idx])
-                    candidate.add_feature(5, lstm_predictions[idx])
-                    candidate.add_feature(6, trigram_predictions[idx])
-                self.nomalize_features(candidates, 6)
+                    candidate.add_feature(pairwise_predictions[idx])
+                    candidate.add_feature(pairwise_trigram_predictions[idx])
+                    # candidate.add_feature(5, lstm_predictions[idx])
+                    # candidate.add_feature(6, trigram_predictions[idx])
+
+                self.nomalize_features(candidates)
                 for candidate in candidates:
                     codecsWriteFile(self.svmTestingFeatureVectorsFile,
                                     str(candidate.feature_vector),
