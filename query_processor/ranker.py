@@ -409,12 +409,14 @@ class Ranker(object):
                 query_candidates,
                 28,
                 'query_tokens',
-                'relation_tokens')
+                'relation_tokens'
+            ).flatten()
             jointpairwise_trigram_predictions = jointpairwise_trigram.predict(
                 query_candidates,
                 203,
                 'query_trigram',
-                'relation_trigram')
+                'relation_trigram'
+            ).flatten()
 
             for idx in xrange(len(query_candidates)):
                 candidate = query_candidates[idx]
@@ -430,6 +432,7 @@ class Ranker(object):
                                 str(candidate.feature_vector),
                                 "a")
         self.svm_learn()
+        logger.info("Done training svm.")
 
     def choose_best_candidate(self, candidates, answers):
         count = 0
@@ -496,12 +499,14 @@ class Ranker(object):
                     query_candidates,
                     28,
                     'query_tokens',
-                    'relation_tokens')
+                    'relation_tokens'
+                ).flatten()
                 jointpairwise_trigram_predictions = jointpairwise_trigram.predict(
                     query_candidates,
                     203,
                     'query_trigram',
-                    'relation_trigram')
+                    'relation_trigram'
+                ).flatten()
 
                 for idx in xrange(len(query_candidates)):
                     candidate = query_candidates[idx]
