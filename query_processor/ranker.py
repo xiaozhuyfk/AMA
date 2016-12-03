@@ -407,7 +407,7 @@ class Ranker(object):
             #pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
             jointpairwise_predictions = jointpairwise.predict(
                 query_candidates,
-                203,
+                28,
                 'query_tokens',
                 'relation_tokens')
             jointpairwise_trigram_predictions = jointpairwise_trigram.predict(
