@@ -550,7 +550,7 @@ class Ranker(object):
                 codecsWriteFile(test_result, result_line, "a")
                 #print("Processing query ", str(query.id), cover, " " * 10 + "\r", end="")
                 logger.info("Processing query " + str(query.id) + " " + str(cover))
-            except:
+            except Exception:
                 logger.info("Error processing query" + str(query.id))
 
         print("")
