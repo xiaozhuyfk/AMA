@@ -19,6 +19,7 @@ from model import (
     LSTMPairwise,
     LSTMJointPairwise,
     CNNPairwise,
+    EmbeddingJointPairwise,
 )
 
 logger = logging.getLogger(__name__)
@@ -329,6 +330,10 @@ class Ranker(object):
             model = LSTMJointPairwise(config_options, model_name)
         elif model_name == "CNNPairwise":
             model = CNNPairwise(config_options, model_name)
+        elif model_name == "EmbeddingJointPairwise":
+            model = EmbeddingJointPairwise(config_options, model_name)
+        elif model_name == "EmbeddingJointPairwiseTrigram":
+            model = EmbeddingJointPairwise(config_options, model_name)
         else:
             logger.warning("Model name " + model_name + " does not exist.")
             model = None
@@ -361,7 +366,13 @@ class Ranker(object):
         elif model_name == "CNNPairwise":
             model = CNNPairwise(config_options, model_name)
             model.train(data, 203, 'query_trigram', 'relation_trigram')
-            model.predict(data[0], 203, 'query_trigram', 'relation_trigram')
+            #model.predict(data[0], 203, 'query_trigram', 'relation_trigram')
+        elif model_name == "EmbeddingJointPairwise":
+            model = EmbeddingJointPairwise(config_options, model_name)
+            model.train(data, 28, 'query_tokens', 'relation_tokens')
+        elif model_name == "EmbeddingJointPairwiseTrigram":
+            model = EmbeddingJointPairwise(config_options, model_name)
+            model.train(data, 203, 'query_trigram', 'relation_trigram')
 
 
     def train(self, dataset):

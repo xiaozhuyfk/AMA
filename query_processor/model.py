@@ -1,5 +1,6 @@
 import logging
 import random
+import modules
 import numpy as np
 from util import codecsLoadJson
 from keras.layers import (
@@ -181,16 +182,79 @@ class JointPairwiseModel(BaseModel):
         raise NotImplementedError
 
 
+class EmbeddingJointPairwise(JointPairwiseModel):
+
+    def _build_model(self, vocab_dim, n_symbols, word_idx):
+        logger.info("Constructing Embedding LSTM model.")
+        embedding_weights = np.zeros((n_symbols+1, vocab_dim))
+        for word, index in word_idx.items():
+            vector = modules.w2v.transform(word)
+            if vector is not None:
+                embedding_weights[index,:] = vector
+            else:
+                embedding_weights[index,:] = np.random.normal(0, 0.1, vocab_dim)
+
+        q_embedding = Embedding(output_dim=vocab_dim,
+                                input_dim=n_symbols,
+                                mask_zero=True,
+                                dropout=0.2,
+                                weights=[embedding_weights])
+        f_embedding = Embedding(output_dim=vocab_dim,
+                                input_dim=n_symbols,
+                                mask_zero=True,
+                                dropout=0.2,
+                                weights=[embedding_weights])
+        q_lstm = Bidirectional(LSTM(16))
+        f_lstm = Bidirectional(LSTM(16))
+
+        l_question_input = Input(shape=(self.sentence_size,))
+        l_fact_input = Input(shape=(self.sentence_size,))
+        l_question = q_embedding(l_question_input)
+        l_question = q_lstm(l_question)
+        l_fact = f_embedding(l_fact_input)
+        l_fact = f_lstm(l_fact)
+        l_merged = merge([l_question, l_fact],
+                       mode='cos',
+                       output_shape=(1,))
+
+        r_question_input = Input(shape=(self.sentence_size,))
+        r_fact_input = Input(shape=(self.sentence_size,))
+        r_question = q_embedding(r_question_input)
+        r_question = q_lstm(r_question)
+        r_fact = f_embedding(r_fact_input)
+        r_fact = f_lstm(r_fact)
+        r_merged = merge([r_question, r_fact],
+                       mode='cos',
+                       output_shape=(1,))
+
+        ranking_model = Model(input=[l_question_input, l_fact_input], output=l_merged)
+
+        merged = merge([l_merged, r_merged],
+                       mode=lambda x: x[0] - x[1],
+                       output_shape=(1,))
+        model = Model(input=[l_question_input, l_fact_input,
+                             r_question_input, r_fact_input],
+                      output=merged)
+        model.compile(optimizer='rmsprop',
+                      loss='hinge',
+                      metrics=['accuracy'])
+
+        return model, ranking_model
+
+
+
 class LSTMJointPairwise(JointPairwiseModel):
 
     def _build_model(self, vocab_dim, n_symbols, word_idx):
         logger.info("Constructing CNN model.")
         q_embedding = Embedding(output_dim=vocab_dim,
-                              input_dim=n_symbols,
-                              dropout=0.2)
+                                input_dim=n_symbols,
+                                mask_zero=True,
+                                dropout=0.2)
         f_embedding = Embedding(output_dim=vocab_dim,
-                              input_dim=n_symbols,
-                              dropout=0.2)
+                                input_dim=n_symbols,
+                                mask_zero=True,
+                                dropout=0.2)
         q_lstm = Bidirectional(LSTM(16))
         f_lstm = Bidirectional(LSTM(16))
         #q_dense = Dense(100)
