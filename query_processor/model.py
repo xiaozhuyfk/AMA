@@ -186,7 +186,7 @@ class EmbeddingJointPairwise(JointPairwiseModel):
 
     def _build_model(self, vocab_dim, n_symbols, word_idx):
         logger.info("Constructing Embedding LSTM model.")
-        embedding_weights = np.zeros((n_symbols+1, vocab_dim))
+        embedding_weights = np.zeros((n_symbols, vocab_dim))
         for word, index in word_idx.items():
             vector = modules.w2v.transform(word)
             if vector is not None:
