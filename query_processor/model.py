@@ -197,12 +197,10 @@ class EmbeddingJointPairwise(JointPairwiseModel):
         q_embedding = Embedding(output_dim=vocab_dim,
                                 input_dim=n_symbols,
                                 mask_zero=True,
-                                dropout=0.2,
                                 weights=[embedding_weights])
         f_embedding = Embedding(output_dim=vocab_dim,
                                 input_dim=n_symbols,
                                 mask_zero=True,
-                                dropout=0.2,
                                 weights=[embedding_weights])
         q_lstm = Bidirectional(LSTM(16))
         f_lstm = Bidirectional(LSTM(16))
@@ -249,12 +247,10 @@ class LSTMJointPairwise(JointPairwiseModel):
         logger.info("Constructing CNN model.")
         q_embedding = Embedding(output_dim=vocab_dim,
                                 input_dim=n_symbols,
-                                mask_zero=True,
-                                dropout=0.2)
+                                mask_zero=True)
         f_embedding = Embedding(output_dim=vocab_dim,
                                 input_dim=n_symbols,
-                                mask_zero=True,
-                                dropout=0.2)
+                                mask_zero=True)
         q_lstm = Bidirectional(LSTM(16))
         f_lstm = Bidirectional(LSTM(16))
         #q_dense = Dense(100)
