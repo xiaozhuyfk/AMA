@@ -430,6 +430,7 @@ class Ranker(object):
                 'query_trigram',
                 'relation_trigram'
             ).flatten()
+            """
             embedding_predictions = embedding.predict(
                 query_candidates,
                 28,
@@ -442,13 +443,14 @@ class Ranker(object):
                 'query_trigram',
                 'relation_trigram'
             ).flatten()
+            """
 
             for idx in xrange(len(query_candidates)):
                 candidate = query_candidates[idx]
                 candidate.add_feature(jointpairwise_predictions[idx])
                 candidate.add_feature(jointpairwise_trigram_predictions[idx])
-                candidate.add_feature(embedding_predictions[idx])
-                candidate.add_feature(embedding_trigram_predictions[idx])
+                #candidate.add_feature(embedding_predictions[idx])
+                #candidate.add_feature(embedding_trigram_predictions[idx])
                 #candidate.add_feature(pairwise_predictions[idx])
                 #candidate.add_feature(pairwise_trigram_predictions[idx])
                 #candidate.add_feature(lstm_predictions[idx])
@@ -537,6 +539,7 @@ class Ranker(object):
                     'query_trigram',
                     'relation_trigram'
                 ).flatten()
+                """
                 embedding_predictions = embedding.predict(
                     candidates,
                     28,
@@ -549,13 +552,14 @@ class Ranker(object):
                     'query_trigram',
                     'relation_trigram'
                 ).flatten()
+                """
 
                 for idx in xrange(len(candidates)):
                     candidate = candidates[idx]
                     candidate.add_feature(jointpairwise_predictions[idx])
                     candidate.add_feature(jointpairwise_trigram_predictions[idx])
-                    candidate.add_feature(embedding_predictions[idx])
-                    candidate.add_feature(embedding_trigram_predictions[idx])
+                    # candidate.add_feature(embedding_predictions[idx])
+                    # candidate.add_feature(embedding_trigram_predictions[idx])
                     # candidate.add_feature(pairwise_predictions[idx])
                     # candidate.add_feature(pairwise_trigram_predictions[idx])
                     # candidate.add_feature(5, lstm_predictions[idx])
