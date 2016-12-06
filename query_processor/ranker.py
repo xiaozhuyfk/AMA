@@ -538,13 +538,13 @@ class Ranker(object):
                     'relation_trigram'
                 ).flatten()
                 embedding_predictions = embedding.predict(
-                    query_candidates,
+                    candidates,
                     28,
                     'query_tokens',
                     'relation_tokens'
                 ).flatten()
                 embedding_trigram_predictions = embedding_trigram.predict(
-                    query_candidates,
+                    candidates,
                     203,
                     'query_trigram',
                     'relation_trigram'
