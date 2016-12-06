@@ -94,7 +94,7 @@ count=0
 with open(sys.argv[1]) as f:
   for line in f:
     tokens = line[:-1].split("\t")
-    if (len(tokens) == 0): continue
+    print tokens
     #gold = json.loads(tokens[1].decode('utf-8'))
     #predicted = json.loads(tokens[2].decode('utf-8'))
     gold = [n.strip() for n in ast.literal_eval(tokens[1])]
