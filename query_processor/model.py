@@ -325,7 +325,7 @@ class DSSMPairwise(JointPairwiseModel):
         cnn = Convolution1D(nb_filter=300,
                             filter_length=3,
                             border_mode='same',
-                            activation='tahn',)
+                            activation='tanh',)
         pooling = Lambda(lambda x: x.max(axis = 1), output_shape = (300, ))
         dense = Dense(vocab_dim)
 

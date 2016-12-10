@@ -306,6 +306,7 @@ class Ranker(object):
                     sentence_trigram_size = max(fact_candiate.sentence_trigram_size,
                                                 sentence_trigram_size)
             candidates.append(query_candidates)
+            break
         d = dict(
             candidates = candidates,
             vocab = vocab,
