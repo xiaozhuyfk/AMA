@@ -175,7 +175,7 @@ class JointPairwiseModel(BaseModel):
                     correct.append(candidate)
                 else:
                     wrong.append(candidate)
-            #wrong = random.sample(wrong, min(len(wrong), 20))
+            wrong = random.sample(wrong, min(len(wrong), 20))
             for i in xrange(len(correct)):
                 for j in xrange(len(wrong)):
                     if random.randint(0,1):
@@ -322,7 +322,7 @@ class DSSMPairwise(JointPairwiseModel):
 
     def _build_model(self, vocab_dim, n_symbols, word_idx):
         logger.info("Constructing DSSM model.")
-        cnn = Convolution1D(nb_filter=300,
+        cnn = Convolution1D(nb_filter=vocab_dim,
                             filter_length=1,
                             border_mode='same',
                             activation='tanh',)
