@@ -14,6 +14,7 @@ from keras.layers import (
     merge,
     Convolution1D,
     GlobalMaxPooling1D,
+    Lambda,
 )
 from keras.models import (
     Model,
@@ -28,6 +29,17 @@ def vectorize_sentence(word_idx, sentence, sentence_size):
     sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
                    (sentence_size - len(sentence)) * [0]
     return sentence_idx
+
+def vectorize_sentence_one_hot(word_idx, sentence, sentence_size):
+    size = len(word_idx) + 1
+    def one_hot(size, idx):
+        vec = np.zeros(size)
+        vec[idx] = 1
+        return vec
+
+    sentence_vec = [one_hot(size, word_idx.get(t, 0)) for t in sentence] + \
+                   (sentence_size - len(sentence)) * [one_hot(size, 0)]
+    return sentence_vec
 
 class BaseModel(object):
 
@@ -53,7 +65,12 @@ class BaseModel(object):
 
 class JointPairwiseModel(BaseModel):
 
-    def predict(self, query_candidates, sentence_size, query_attr, fact_attr):
+    def predict(self,
+                query_candidates,
+                sentence_size,
+                query_attr,
+                fact_attr,
+                vectorize = vectorize_sentence):
         self.load_model()
 
         """
@@ -78,12 +95,12 @@ class JointPairwiseModel(BaseModel):
         Q = []
         F = []
         for candidate in query_candidates:
-            q = vectorize_sentence(self.word_idx,
-                                   getattr(candidate, query_attr),
-                                   sentence_size)
-            f = vectorize_sentence(self.word_idx,
-                                   getattr(candidate, fact_attr),
-                                   sentence_size)
+            q = vectorize(self.word_idx,
+                          getattr(candidate, query_attr),
+                          sentence_size)
+            f = vectorize(self.word_idx,
+                          getattr(candidate, fact_attr),
+                          sentence_size)
             Q.append(q)
             F.append(f)
         return self.ranking_model.predict([np.array(Q), np.array(F)])
@@ -117,7 +134,13 @@ class JointPairwiseModel(BaseModel):
                            self.ranking_model_weights)
 
 
-    def train(self, candidates, sentence_size, query_attr, fact_attr):
+    def train(self,
+              candidates,
+              sentence_size,
+              query_attr,
+              fact_attr,
+              vectorize = vectorize_sentence):
+
         self.model, self.ranking_model = self._build_model(
             vocab_dim=self.vocab_dim,
             n_symbols=self.n_symbols,
@@ -127,14 +150,20 @@ class JointPairwiseModel(BaseModel):
         X, Y = self._construct_data(candidates,
                                     sentence_size,
                                     query_attr,
-                                    fact_attr)
+                                    fact_attr,
+                                    vectorize=vectorize)
         self.model.fit(X, Y,
                        batch_size=self.batch_size,
                        nb_epoch=self.nb_epoch)
         self.save_model()
 
 
-    def _construct_data(self, candidates, sentence_size, query_attr, fact_attr):
+    def _construct_data(self,
+                        candidates,
+                        sentence_size,
+                        query_attr,
+                        fact_attr,
+                        vectorize):
         pool1 = []
         pool2 = []
         label = []
@@ -167,10 +196,10 @@ class JointPairwiseModel(BaseModel):
             f1 = getattr(pool1[i], fact_attr)
             q2 = getattr(pool2[i], query_attr)
             f2 = getattr(pool2[i], fact_attr)
-            q1_idx = vectorize_sentence(self.word_idx, q1, sentence_size)
-            f1_idx = vectorize_sentence(self.word_idx, f1, sentence_size)
-            q2_idx = vectorize_sentence(self.word_idx, q2, sentence_size)
-            f2_idx = vectorize_sentence(self.word_idx, f2, sentence_size)
+            q1_idx = vectorize(self.word_idx, q1, sentence_size)
+            f1_idx = vectorize(self.word_idx, f1, sentence_size)
+            q2_idx = vectorize(self.word_idx, q2, sentence_size)
+            f2_idx = vectorize(self.word_idx, f2, sentence_size)
             Q1.append(q1_idx)
             F1.append(f1_idx)
             Q2.append(q2_idx)
@@ -253,8 +282,6 @@ class LSTMJointPairwise(JointPairwiseModel):
                                 mask_zero=True)
         q_lstm = Bidirectional(LSTM(16))
         f_lstm = Bidirectional(LSTM(16))
-        #q_dense = Dense(100)
-        #f_dense = Dense(100)
 
         l_question_input = Input(shape=(self.sentence_size,))
         l_fact_input = Input(shape=(self.sentence_size,))
@@ -291,52 +318,90 @@ class LSTMJointPairwise(JointPairwiseModel):
         return model, ranking_model
 
 
-class CNNPairwise(JointPairwiseModel):
+class DSSMPairwise(JointPairwiseModel):
 
     def _build_model(self, vocab_dim, n_symbols, word_idx):
-        logger.info("Constructing CNN model.")
-        q_embedding = Embedding(output_dim=vocab_dim,
-                              input_dim=n_symbols,
-                              dropout=0.2)
-        f_embedding = Embedding(output_dim=vocab_dim,
-                              input_dim=n_symbols,
-                              dropout=0.2)
-        q_cnn = Convolution1D(nb_filter=150,
+        logger.info("Constructing DSSM model.")
+        cnn = Convolution1D(nb_filter=300,
                             filter_length=3,
-                            border_mode='valid',
-                            activation='relu',
-                            subsample_length=1)
-        f_cnn = Convolution1D(nb_filter=150,
-                            filter_length=3,
-                            border_mode='valid',
-                            activation='relu',
-                            subsample_length=1)
-        pooling = GlobalMaxPooling1D()
-        q_dense = Dense(100)
-        f_dense = Dense(100)
+                            border_mode='same',
+                            activation='tahn',)
+        pooling = Lambda(lambda x: x.max(axis = 1), output_shape = (300, ))
+        dense = Dense(vocab_dim)
 
-        l_question_input = Input(shape=(self.sentence_size,))
-        l_fact_input = Input(shape=(self.sentence_size,))
-        l_question = q_embedding(l_question_input)
-        l_question = q_cnn(l_question)
+        l_question_input = Input(shape=(self.sentence_size, self.n_symbols))
+        l_fact_input = Input(shape=(self.sentence_size, self.n_symbols))
+        l_question = cnn(l_question_input)
+        l_question = pooling(l_question)
+        l_question = dense(l_question)
+        l_fact = cnn(l_fact_input)
+        l_fact = pooling(l_fact)
+        l_fact = dense(l_fact)
+        l_merged = merge([l_question, l_fact],
+                       mode='cos',
+                       output_shape=(1,))
+
+        r_question_input = Input(shape=(self.sentence_size, self.n_symbols))
+        r_fact_input = Input(shape=(self.sentence_size, self.n_symbols))
+        r_question = cnn(r_question_input)
+        r_question = pooling(r_question)
+        r_question = dense(r_question)
+        r_fact = cnn(r_fact_input)
+        r_fact = pooling(r_fact)
+        r_fact = dense(r_fact)
+        r_merged = merge([r_question, r_fact],
+                       mode='cos',
+                       output_shape=(1,))
+
+        ranking_model = Model(input=[l_question_input, l_fact_input], output=l_merged)
+
+        merged = merge([l_merged, r_merged],
+                       mode=lambda x: x[0] - x[1],
+                       output_shape=(1,))
+        model = Model(input=[l_question_input, l_fact_input,
+                             r_question_input, r_fact_input],
+                      output=merged)
+        model.compile(optimizer='rmsprop',
+                      loss='hinge',
+                      metrics=['accuracy'])
+
+        return model, ranking_model
+
+
+class DSSMSepPairwise(JointPairwiseModel):
+
+    def _build_model(self, vocab_dim, n_symbols, word_idx):
+        logger.info("Constructing DSSM model.")
+        q_cnn = Convolution1D(nb_filter=300,
+                            filter_length=3,
+                            border_mode='same',
+                            activation='tahn',)
+        f_cnn = Convolution1D(nb_filter=300,
+                            filter_length=3,
+                            border_mode='valid',
+                            activation='tahn',)
+        pooling = Lambda(lambda x: x.max(axis = 1), output_shape = (300, ))
+        q_dense = Dense(vocab_dim)
+        f_dense = Dense(vocab_dim)
+
+        l_question_input = Input(shape=(self.sentence_size, self.n_symbols))
+        l_fact_input = Input(shape=(self.sentence_size, self.n_symbols))
+        l_question = q_cnn(l_question_input)
         l_question = pooling(l_question)
         l_question = q_dense(l_question)
-        l_fact = f_embedding(l_fact_input)
-        l_fact = f_cnn(l_fact)
+        l_fact = f_cnn(l_fact_input)
         l_fact = pooling(l_fact)
         l_fact = f_dense(l_fact)
         l_merged = merge([l_question, l_fact],
                        mode='cos',
                        output_shape=(1,))
 
-        r_question_input = Input(shape=(self.sentence_size,))
-        r_fact_input = Input(shape=(self.sentence_size,))
-        r_question = q_embedding(r_question_input)
-        r_question = q_cnn(r_question)
+        r_question_input = Input(shape=(self.sentence_size, self.n_symbols))
+        r_fact_input = Input(shape=(self.sentence_size, self.n_symbols))
+        r_question = q_cnn(r_question_input)
         r_question = pooling(r_question)
         r_question = q_dense(r_question)
-        r_fact = f_embedding(r_fact_input)
-        r_fact = f_cnn(r_fact)
+        r_fact = f_cnn(r_fact_input)
         r_fact = pooling(r_fact)
         r_fact = f_dense(r_fact)
         r_merged = merge([r_question, r_fact],
