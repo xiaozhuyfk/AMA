@@ -323,10 +323,11 @@ class DSSMPairwise(JointPairwiseModel):
     def _build_model(self, vocab_dim, n_symbols, word_idx):
         logger.info("Constructing DSSM model.")
         cnn = Convolution1D(nb_filter=300,
-                            filter_length=3,
+                            filter_length=1,
                             border_mode='same',
                             activation='tanh',)
-        pooling = Lambda(lambda x: x.max(axis = 1), output_shape = (300, ))
+        #pooling = Lambda(lambda x: x.max(axis = 1), output_shape = (300, ))
+        pooling = GlobalMaxPooling1D()
         dense = Dense(vocab_dim)
 
         l_question_input = Input(shape=(self.sentence_size, self.n_symbols))
