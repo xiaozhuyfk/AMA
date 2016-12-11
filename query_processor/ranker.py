@@ -390,6 +390,8 @@ class Ranker(object):
         embedding_trigram = self.get_model('EmbeddingJointPairwiseTrigram')
         #jointpairwise_cnn = self.get_model('CNNPairwise')
 
+        logger.info("Done loading models.")
+
         queries = load_eval_queries(dataset)
         codecsWriteFile(self.svmTrainingFeatureVectorsFile, "")
         for query in queries:
