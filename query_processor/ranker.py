@@ -478,8 +478,11 @@ class Ranker(object):
                 best = candidate
         return best
 
-    def has_correct_answer(self, candidates, best):
-        for candidate in candidates:
+    def has_correct_answer(self, candidates, indices, best):
+        if best is None:
+            return False
+        for idx in indices:
+            candidate = candidates[idx]
             if candidate.relation == best.relation:
                 return True
         return False
@@ -602,9 +605,9 @@ class Ranker(object):
 
             if best_candidate.f1 == best_relation:
                 cover += 1
-            if self.has_correct_answer(top5, best):
+            if self.has_correct_answer(candidates, top5, best):
                 num_top5 += 1
-            if self.has_correct_answer(top10, best):
+            if self.has_correct_answer(candidates, top10, best):
                 num_top10 += 1
 
             best_predictions = list(set(best_candidate.objects))
