@@ -588,7 +588,7 @@ class Ranker(object):
 
                 # Choose answers from candidates
                 answers = set(query.target_result)
-                scores = codecsReadFile(self.svmFactCandidateScores).strip().split("\n")
+                scores = [float(n) for n in codecsReadFile(self.svmFactCandidateScores).strip().split("\n")]
                 idx = np.argmax(scores)
                 top5 = np.argsort(scores)[::-1][:5]
                 top10 = np.argsort(scores)[::-1][:10]
