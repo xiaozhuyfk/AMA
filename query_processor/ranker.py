@@ -478,6 +478,12 @@ class Ranker(object):
                 best = candidate
         return best
 
+    def has_correct_answer(self, candidates, best):
+        for candidate in candidates:
+            if candidate.relation == best.relation:
+                return True
+        return False
+
 
     def test(self, dataset):
         # lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
@@ -495,6 +501,8 @@ class Ranker(object):
         codecsWriteFile(test_result, "")
 
         cover = 0
+        num_top5 = 0
+        num_top10 = 0
         queries = load_eval_queries(dataset)
         for query in queries:
             try:
@@ -582,6 +590,9 @@ class Ranker(object):
                 answers = set(query.target_result)
                 scores = codecsReadFile(self.svmFactCandidateScores).strip().split("\n")
                 idx = np.argmax(scores)
+                top5 = np.argsort(scores)[::-1][:5]
+                top10 = np.argsort(scores)[::-1][:10]
+
                 best_candidate = candidates[idx]
                 best = self.choose_best_candidate(candidates, answers)
 
@@ -590,23 +601,29 @@ class Ranker(object):
                 else:
                     best_relation = best.relation
 
-                if best_candidate.f1 >= 0.5:
+                if best_candidate.f1 == best_relation:
                     cover += 1
+                if self.has_correct_answer(top5, best):
+                    num_top5 += 1
+                if self.has_correct_answer(top10, best):
+                    num_top10 += 1
 
                 best_predictions = list(set(best_candidate.objects))
-                result_line = "\t".join([query.utterance,
+                result_line = "\t".join([str(query.id) + query.utterance,
                                          str(query.target_result),
                                          str(list(best_predictions)),
-                                         best_relation,
-                                         best_candidate.relation]) + "\n"
+                                         str(best_candidate.f1),
+                                         best_relation,                                         best_candidate.relation]) + "\n"
                 codecsWriteFile(test_result, result_line, "a")
                 #print("Processing query ", str(query.id), cover, " " * 10 + "\r", end="")
-                logger.info("Processing query " + str(query.id) + " " + str(cover))
+                logger.info("Processing query ", str(query.id), str(cover), str(num_top5), str(num_top10))
             except Exception:
                 logger.info("Error processing query" + str(query.id))
 
         print("")
         print(cover)
+        print(num_top5)
+        print(num_top10)
 
 
 
