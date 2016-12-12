@@ -616,7 +616,7 @@ class Ranker(object):
                                          best_relation,                                         best_candidate.relation]) + "\n"
                 codecsWriteFile(test_result, result_line, "a")
                 #print("Processing query ", str(query.id), cover, " " * 10 + "\r", end="")
-                logger.info("Processing query ", str(query.id), str(cover), str(num_top5), str(num_top10))
+                logger.info("Processing query %d: %d %d %d", query.id, cover, num_top5, num_top10)
             except Exception:
                 logger.info("Error processing query" + str(query.id))
 
