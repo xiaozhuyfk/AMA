@@ -604,7 +604,7 @@ class Ranker(object):
                 else:
                     best_relation = best.relation
 
-                if best_candidate.f1 == best_relation:
+                if best_candidate.relation == best_relation:
                     cover += 1
                 if self.has_correct_answer(candidates, top5, best):
                     num_top5 += 1
