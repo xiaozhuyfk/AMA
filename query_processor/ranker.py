@@ -601,8 +601,10 @@ class Ranker(object):
 
                 if best is None:
                     best_relation = "EMPTY"
+                    best_subject = "NONE"
                 else:
                     best_relation = best.relation
+                    best_subject = best.subject
 
                 if best_candidate.relation == best_relation:
                     cover += 1
@@ -616,7 +618,10 @@ class Ranker(object):
                                          str(query.target_result),
                                          str(list(best_predictions)),
                                          str(best_candidate.f1),
-                                         best_relation,                                         best_candidate.relation]) + "\n"
+                                         best_relation,
+                                         best_candidate.relation,
+                                         best_subject,
+                                         best_candidate.subject]) + "\n"
                 codecsWriteFile(test_result, result_line, "a")
                 #print("Processing query ", str(query.id), cover, " " * 10 + "\r", end="")
                 message = " ".join(["Processing query",

@@ -143,7 +143,9 @@ def brief_result(path, new_path):
             f1 = float(sections[3])
             gold_rel = sections[4]
             answer_rel = sections[5]
-            content += [str(f1), gold_rel, answer_rel]
+            gold_subject = sections[6]
+            answer_subject = sections[7]
+            content += [str(f1), gold_rel, answer_rel, gold_subject, answer_subject]
         message = "\t".join(content) + "\n"
         codecsWriteFile(new_path, message, 'a')
 
