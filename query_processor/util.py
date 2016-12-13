@@ -122,8 +122,15 @@ def kstem(stem):
 def brief_result(path, new_path):
     import ast
 
+    prefix = path[:-4]
+    correct_path = prefix + "_correct.txt"
+    wrong_path = prefix + "_wrong.txt"
+
     lines = codecsReadFile(path).strip().split("\n")
     codecsWriteFile(new_path, "")
+    codecsWriteFile(correct_path, "")
+    codecsWriteFile(wrong_path, "")
+
     for line in lines:
         sections = line.strip().split('\t')
         content = []
@@ -148,6 +155,15 @@ def brief_result(path, new_path):
             content += [str(f1), gold_rel, answer_rel, gold_subject, answer_subject]
         message = "\t".join(content) + "\n"
         codecsWriteFile(new_path, message, 'a')
+
+        if len(sections) > 3:
+            f1 = float(sections[3])
+            if f1 == 1.0:
+                codecsWriteFile(correct_path, message, 'a')
+            else:
+                codecsWriteFile(wrong_path, message, 'a')
+        else:
+            codecsWriteFile(wrong_path, message, 'a')
 
 
 
