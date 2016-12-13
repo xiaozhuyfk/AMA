@@ -132,7 +132,7 @@ def brief_result(path, new_path):
         answer = [n.strip() for n in ast.literal_eval(sections[2])]
 
         if len(answer) > 10:
-            answer_new = list(set(gold) & set(anwer))
+            answer_new = list(set(gold) & set(answer))
             if len(answer_new) == 0:
                 answer = answer[:10] + ['...']
             else:
