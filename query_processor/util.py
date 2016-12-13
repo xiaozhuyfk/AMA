@@ -128,8 +128,8 @@ def brief_result(path, new_path):
         sections = line.strip().split('\t')
         content = []
         query = sections[0]
-        gold = [n.strip() for n in ast.literal_eval(tokens[1])]
-        answer = [n.strip() for n in ast.literal_eval(tokens[2])]
+        gold = [n.strip() for n in ast.literal_eval(sections[1])]
+        answer = [n.strip() for n in ast.literal_eval(sections[2])]
 
         if len(answer) > 10:
             answer = answer[:10] + ["..."]
