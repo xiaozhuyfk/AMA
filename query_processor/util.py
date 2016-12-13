@@ -125,11 +125,13 @@ def brief_result(path, new_path):
     prefix = path[:-4]
     correct_path = prefix + "_correct.txt"
     wrong_path = prefix + "_wrong.txt"
+    entity_path = prefix + "_noentity.txt"
 
     lines = codecsReadFile(path).strip().split("\n")
     codecsWriteFile(new_path, "")
     codecsWriteFile(correct_path, "")
     codecsWriteFile(wrong_path, "")
+    codecsWriteFile(entity_path, "")
 
     for line in lines:
         sections = line.strip().split('\t')
@@ -163,7 +165,7 @@ def brief_result(path, new_path):
             else:
                 codecsWriteFile(wrong_path, message, 'a')
         else:
-            codecsWriteFile(wrong_path, message, 'a')
+            codecsWriteFile(entity_path, message, 'a')
 
 
 
