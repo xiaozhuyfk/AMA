@@ -133,7 +133,7 @@ def brief_result(path, new_path):
 
         if len(answer) > 10:
             answer = answer[:10] + ["..."]
-        content += [query, gold, answer]
+        content += [query, str(gold), str(answer)]
 
         if len(sections) > 3:
             f1 = float(sections[3])
