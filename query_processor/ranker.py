@@ -504,6 +504,7 @@ class Ranker(object):
         codecsWriteFile(test_result, "")
 
         cover = 0
+        num_top2 = 0
         num_top5 = 0
         num_top10 = 0
         queries = load_eval_queries(dataset)
@@ -593,6 +594,7 @@ class Ranker(object):
                 answers = set(query.target_result)
                 scores = [float(n) for n in codecsReadFile(self.svmFactCandidateScores).strip().split("\n")]
                 idx = np.argmax(scores)
+                top2 = np.argsort(scores)[::-1][:2]
                 top5 = np.argsort(scores)[::-1][:5]
                 top10 = np.argsort(scores)[::-1][:10]
 
@@ -608,6 +610,8 @@ class Ranker(object):
 
                 if best_candidate.relation == best_relation:
                     cover += 1
+                if self.has_correct_answer(candidates, top2, best):
+                    num_top2 += 1
                 if self.has_correct_answer(candidates, top5, best):
                     num_top5 += 1
                 if self.has_correct_answer(candidates, top10, best):
@@ -627,6 +631,7 @@ class Ranker(object):
                 message = " ".join(["Processing query",
                                     str(query.id) + ":",
                                     str(cover),
+                                    str(num_top2),
                                     str(num_top5),
                                     str(num_top10)])
                 logger.info(message)
