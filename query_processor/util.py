@@ -120,14 +120,17 @@ def kstem(stem):
     return result
 
 def brief_result(path, new_path):
+    import ast
+
     lines = codecsReadFile(path).strip().split("\n")
     codecsWriteFile(new_path, "")
     for line in lines:
         sections = line.strip().split('\t')
         content = []
         query = sections[0]
-        gold = json.load(sections[1], encoding='utf-8')
-        answer = json.load(sections[2], encoding='utf-8')
+        gold = [n.strip() for n in ast.literal_eval(tokens[1])]
+        answer = [n.strip() for n in ast.literal_eval(tokens[2])]
+
         if len(answer) > 10:
             answer = answer[:10] + ["..."]
         content += [query, gold, answer]
