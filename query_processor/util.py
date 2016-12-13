@@ -153,6 +153,7 @@ if __name__ == '__main__':
     # sftp_put("/data/dump.tar.gz", "/home/hongyul/aqqu/testresult/dump")
     # test()
     import globals
+    globals.read_configuration('config.cfg')
     config_options = globals.config
     base = config_options.get('DEFAULT', 'base')
     result = base + '/test_result/result_pairwise+joint+pretrain.txt'
