@@ -164,7 +164,7 @@ def brief_result(path, new_path):
             f1 = float(sections[3])
             if f1 == 1.0:
                 codecsWriteFile(correct_path, message, 'a')
-            if f1 > 0.0:
+            elif f1 > 0.0:
                 codecsWriteFile(partial_path, message, 'a')
             else:
                 codecsWriteFile(wrong_path, message, 'a')
