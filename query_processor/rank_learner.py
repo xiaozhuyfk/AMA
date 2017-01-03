@@ -20,6 +20,9 @@ def train(dataset):
 def test(dataset):
     modules.facts_ranker.test(dataset)
 
+def extract(dataset):
+    modules.facts_ranker.extract_fact_candidates(dataset)
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description='Choose to learn or test AMA')
@@ -45,6 +48,11 @@ def main():
                                 help='Training model name')
     process_parser.set_defaults(which='model')
 
+    extract_parser = subparsers.add_parser('extract', help="Extract fact candidates")
+    extract_parser.add_argument('dataset',
+                                help='Training dataset')
+    extract_parser.set_defaults(which='extract')
+
     args = parser.parse_args()
 
     # Read global config
@@ -59,6 +67,8 @@ def main():
         test(args.dataset)
     elif args.which == 'model':
         train_model(args.name)
+    elif args.which == 'extract':
+        extract(args.dataset)
 
 
 if __name__ == '__main__':

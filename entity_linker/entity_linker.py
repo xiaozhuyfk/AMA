@@ -299,6 +299,8 @@ class EntityLinker:
                     ie = IdentifiedEntity(tokens[start:end],
                                           e.name, e, e.score, surface_score,
                                           perfect_match)
+                    ie.start = start
+                    ie.end = end
                     # self.boost_entity_score(ie)
                     identified_entities.append(ie)
         #identified_entities.extend(self.identify_dates(tokens))

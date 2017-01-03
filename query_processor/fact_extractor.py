@@ -128,7 +128,10 @@ class FactExtractor(object):
                 d = {"subject" : s_name,
                      "sid" : s,
                      "score" : score,
-                     "relations" : relations}
+                     "relations" : relations,
+                     "tokens" : tokens,
+                     "start" : ie.start,
+                     "end" : ie.end}
                 result.append(d)
             self.store_fact_list(query, result)
             return result
