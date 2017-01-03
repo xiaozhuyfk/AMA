@@ -80,6 +80,56 @@ class FactExtractor(object):
                 facts = self.backend.query(self.facts_by_id_query % s)
                 for f in facts:
                     r, o = f[0], f[1]
+                    if o.startswith('g.'):
+                        continue
+                    if not o.startswith('m.'):
+                        if r in relations:
+                            rel = relations[r]
+                            rel["objects"].append(o)
+                            rel["oid"].append("ATTRIBUTE")
+                        else:
+                            relations[r] = {"objects" : [o],
+                                               "oid" : ["ATTRIBUTE"]}
+                        continue
+
+                    o_name = self.backend.query(self.name_by_id_query % o)
+                    if len(o_name) > 0:
+                        if r in relations:
+                            rel = relations[r]
+                            rel["objects"].append(o_name[0][0])
+                            rel["oid"].append(o)
+                        else:
+                            relations[r] = {"objects" : [o_name[0][0]],
+                                            "oid" : [o]}
+                    else:
+                        # start to process cvt node
+                        subfacts = self.backend.query(self.facts_by_id_query % o)
+                        for subf in subfacts:
+                            subr, subo = subf[0], subf[1]
+                            subr = r + "\n" + subr
+                            if subo.startswith('m.'):
+                                o_name = self.backend.query(self.name_by_id_query % subo)
+                                if o_name == []:
+                                    continue
+                                if subr in relations:
+                                    rel = relations[subr]
+                                    rel["objects"].append(o_name[0][0])
+                                    rel["oid"].append(subo)
+                                else:
+                                    relations[subr] = {"objects" : [o_name[0][0]],
+                                                       "oid" : [subo]}
+                            elif o.startswith('g.'):
+                                continue
+                            else:
+                                if subr in relations:
+                                    rel = relations[subr]
+                                    rel["objects"].append(subo)
+                                    rel["oid"].append("ATTRIBUTE")
+                                else:
+                                    relations[subr] = {"objects" : [subo],
+                                                       "oid" : ["ATTRIBUTE"]}
+
+                    """
                     if o.startswith('m.'):
                         o_name = self.backend.query(self.name_by_id_query % o)
                         # skip if the entity does not have a name in Freebase
@@ -126,11 +176,13 @@ class FactExtractor(object):
                         else:
                             relations[r] = {"objects" : [o],
                                                "oid" : ["ATTRIBUTE"]}
+                    """
+                token_str = [t.token for t in tokens]
                 d = {"subject" : s_name,
                      "sid" : s,
                      "score" : score,
                      "relations" : relations,
-                     "tokens" : tokens,
+                     "tokens" : token_str,
                      "start" : ie.start,
                      "end" : ie.end}
                 result.append(d)
