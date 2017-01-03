@@ -54,6 +54,7 @@ class FactExtractor(object):
              "facts" : fact_list}
 
         codecsDumpJson(file_path, d)
+        return d
 
     def extract_fact_list_with_entity_linker(self, dataset, query):
         #logger.info("Extracting facts with entity linker from question %d: %s" % (query.id, query.utterance))
@@ -106,7 +107,7 @@ class FactExtractor(object):
                         subfacts = self.backend.query(self.facts_by_id_query % o)
                         for subf in subfacts:
                             subr, subo = subf[0], subf[1]
-                            subr = r + "\n" + subr
+                            subr = r + "\t" + subr
                             if subo.startswith('m.'):
                                 o_name = self.backend.query(self.name_by_id_query % subo)
                                 if o_name == []:
@@ -186,8 +187,8 @@ class FactExtractor(object):
                      "start" : ie.start,
                      "end" : ie.end}
                 result.append(d)
-            self.store_fact_list(query, result)
-            return result
+            d = self.store_fact_list(query, result)
+            return d
 
     def fact_list_on_disk(self, dataset, query):
         id = query.id

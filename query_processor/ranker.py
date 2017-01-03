@@ -284,6 +284,8 @@ class Ranker(object):
         for query in queries:
             logger.info("Processing query " + str(query.id))
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
+
+        """
             facts = json["facts"]
             query_candidates = []
             for ie in facts:
@@ -314,6 +316,7 @@ class Ranker(object):
             sentence_trigram_size = sentence_trigram_size,
         )
         return d
+        """
 
     def get_model(self, model_name):
         config_options = self.config_options
