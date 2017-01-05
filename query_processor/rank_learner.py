@@ -3,6 +3,7 @@ from __future__ import print_function
 import logging
 import globals
 import modules
+from util import codecsDumpJson
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s '
                            ': %(module)s : %(message)s',
@@ -21,7 +22,24 @@ def test(dataset):
     modules.facts_ranker.test(dataset)
 
 def extract(dataset):
-    modules.facts_ranker.extract_fact_candidates(dataset)
+    train_data = modules.facts_ranker.extract_fact_candidates("webquestionstrain")
+    test_data = modules.facts_ranker.extract_fact_candidates("webquestionstest")
+
+    vocab_train = train_data.get("vocab")
+    vocab_train_trigram = train_data.get("vocab_trigram")
+    vocab_test = test_data.get("vocab")
+    vocab_test_trigram = test_data.get("vocab_trigram")
+
+    print(len(vocab_train))
+    print(len(vocab_test))
+
+    vocab = sorted(vocab_train | vocab_test)
+    vocab_trigram = sorted(vocab_train_trigram | vocab_test_trigram)
+
+    codecsDumpJson("/home/hongyul/AMA/training_model/vocab-rank", vocab)
+    codecsDumpJson("/home/hongyul/AMA/training_model/vocab-rank-trigram", vocab_trigram)
+
+
 
 def main():
     import argparse

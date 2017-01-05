@@ -285,7 +285,6 @@ class Ranker(object):
             logger.info("Processing query " + str(query.id))
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
 
-        """
             facts = json["facts"]
             query_candidates = []
             for ie in facts:
@@ -316,7 +315,6 @@ class Ranker(object):
             sentence_trigram_size = sentence_trigram_size,
         )
         return d
-        """
 
     def get_model(self, model_name):
         config_options = self.config_options
@@ -347,6 +345,7 @@ class Ranker(object):
         config_options = self.config_options
         train_data = self.extract_fact_candidates("webquestionstrain")
         data = train_data.get('candidates')
+
         #test_data = self.extract_fact_candidates("webquestionstest")
 
         if model_name == "LSTMPointwise":
