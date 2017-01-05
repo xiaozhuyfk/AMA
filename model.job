@@ -27,3 +27,17 @@ output = /home/hongyul/condor/condor4.job.out
 log = /tmp/hongyul4.job.log
 error = /home/hongyul/condor/condor4.job.err
 queue
+
+executable = /home/hongyul/AMA/model.sh
+arguments = LSTMPairwise
+output = /home/hongyul/condor/condor5.job.out
+log = /tmp/hongyul5.job.log
+error = /home/hongyul/condor/condor5.job.err
+queue
+
+executable = /home/hongyul/AMA/model.sh
+arguments = LSTMPairwiseTrigram
+output = /home/hongyul/condor/condor5.job.out
+log = /tmp/hongyul5.job.log
+error = /home/hongyul/condor/condor5.job.err
+queue
