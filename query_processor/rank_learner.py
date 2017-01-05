@@ -39,6 +39,11 @@ def extract(dataset):
     codecsDumpJson("/home/hongyul/AMA/training_model/vocab-rank", vocab)
     codecsDumpJson("/home/hongyul/AMA/training_model/vocab-rank-trigram", vocab_trigram)
 
+    print(train_data.get("sentence_size"))
+    print(test_data.get("sentence_size"))
+    print(train_data.get("sentence_trigram_size"))
+    print(test_data.get("sentence_trigram_size"))
+
 
 
 def main():

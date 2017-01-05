@@ -96,8 +96,8 @@ class FactCandidate(object):
         self.query_tokens = [tokenize_term(t) for t in self.question.split()]
         self.subject_tokens = [re.sub('[?!@#$%^&*,()_+=\'/]', '', t).lower()
                                for t in subject.split()]
-        relations = re.split("\.\.|\.", self.relation.split("\n")[-1])[-2:]
-        #[re.split("\.\.|\.", r) for r in self.relation.split("\n")]
+        #relations = re.split("\.\.|\.", self.relation.split("\n")[-1])[-2:]
+        relations = [re.split("\.\.|\.", r)[-1] for r in self.relation.split("\t")]
         self.relation_tokens = [tokenize_term(e)
                                 for t in relations
                                 for e in re.split("\.\.|\.|_", t)]
