@@ -17,7 +17,7 @@ import time
 import itertools
 import argparse
 from traitlets.config.loader import PyFileConfigLoader
-from deeplearning4ir.match_NN import ClickNN
+from match_NN.base import ClickNN
 from keras import backend
 from keras.layers import Input, merge
 from keras.layers.core import Dense, Lambda, Reshape

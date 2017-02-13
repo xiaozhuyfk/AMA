@@ -386,7 +386,7 @@ class Ranker(object):
         #pairwise_trigram = self.get_model('LSTMPairwiseTrigram')
         #jointpairwise = self.get_model('LSTMJointPairwise')
         #jointpairwise_trigram = self.get_model('LSTMJointPairwiseTrigram')
-        #embedding = self.get_model('EmbeddingJointPairwise')
+        embedding = self.get_model('EmbeddingJointPairwise')
         embedding_trigram = self.get_model('EmbeddingJointPairwiseTrigram')
         logger.info("Done loading models.")
 
@@ -435,13 +435,13 @@ class Ranker(object):
                 'query_trigram',
                 'relation_trigram'
             ).flatten()
+            """
             embedding_predictions = embedding.predict(
                 query_candidates,
                 31,
                 'query_tokens',
                 'relation_tokens'
             ).flatten()
-            """
             embedding_trigram_predictions = embedding_trigram.predict(
                 query_candidates,
                 203,
@@ -456,8 +456,8 @@ class Ranker(object):
                 candidate.add_feature(pairwise_trigram_predictions[idx])
                 candidate.add_feature(jointpairwise_predictions[idx])
                 candidate.add_feature(jointpairwise_trigram_predictions[idx])
-                candidate.add_feature(embedding_predictions[idx])
                 """
+                candidate.add_feature(embedding_predictions[idx])
                 candidate.add_feature(embedding_trigram_predictions[idx])
 
             self.nomalize_features(query_candidates)
