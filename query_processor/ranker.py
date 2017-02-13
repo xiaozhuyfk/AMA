@@ -350,19 +350,19 @@ class Ranker(object):
 
         if model_name == "LSTMPointwise":
             model = LSTMPointwise(config_options, model_name)
-            model.train(data, 31)
+            model.train(data, 28)
         elif model_name == "LSTMPointwiseTrigram":
             model = LSTMPointwise(config_options, model_name)
             model.train(data, 203)
         elif model_name == "LSTMPairwise":
             model = LSTMPairwise(config_options, model_name)
-            model.train(data, 31)
+            model.train(data, 28)
         elif model_name == "LSTMPairwiseTrigram":
             model = LSTMPairwise(config_options, model_name)
             model.train(data, 203)
         elif model_name == "LSTMJointPairwise":
             model = LSTMJointPairwise(config_options, model_name)
-            model.train(data, 31, 'query_tokens', 'relation_tokens')
+            model.train(data, 28, 'query_tokens', 'relation_tokens')
         elif model_name == "LSTMJointPairwiseTrigram":
             model = LSTMJointPairwise(config_options, model_name)
             model.train(data, 203, 'query_trigram', 'relation_trigram')
@@ -375,7 +375,7 @@ class Ranker(object):
                         vectorize=vectorize_sentence_one_hot)
         elif model_name == "EmbeddingJointPairwise":
             model = EmbeddingJointPairwise(config_options, model_name)
-            model.train(data, 31, 'query_tokens', 'relation_tokens')
+            model.train(data, 28, 'query_tokens', 'relation_tokens')
         elif model_name == "EmbeddingJointPairwiseTrigram":
             model = EmbeddingJointPairwise(config_options, model_name)
             model.train(data, 203, 'query_trigram', 'relation_trigram')
