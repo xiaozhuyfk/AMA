@@ -374,11 +374,11 @@ class DSSMSepPairwise(JointPairwiseModel):
     def _build_model(self, vocab_dim, n_symbols, word_idx):
         logger.info("Constructing DSSM model.")
         q_cnn = Convolution1D(nb_filter=300,
-                            filter_length=3,
+                            filter_length=1,
                             border_mode='same',
                             activation='tahn',)
         f_cnn = Convolution1D(nb_filter=300,
-                            filter_length=3,
+                            filter_length=1,
                             border_mode='valid',
                             activation='tahn',)
         pooling = Lambda(lambda x: x.max(axis = 1), output_shape = (300, ))
