@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-from deeplearning4ir.model import ClickDataGenerator
+from match_NN.generator import ClickDataGenerator
 from traitlets.config import Configurable
 from traitlets import (
     Int,

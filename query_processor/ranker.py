@@ -438,7 +438,7 @@ class Ranker(object):
             """
             embedding_predictions = embedding.predict(
                 query_candidates,
-                31,
+                28,
                 'query_tokens',
                 'relation_tokens'
             ).flatten()
