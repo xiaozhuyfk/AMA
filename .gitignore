@@ -16,6 +16,7 @@ fact_list/
 fact_list_extend/
 fact_list_cvt/
 training_data/
+training_model/
 fact_list.tar.gz
 svm_result/
 *DS_Store
