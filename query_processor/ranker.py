@@ -453,10 +453,10 @@ class Ranker(object):
 
             for idx in xrange(len(query_candidates)):
                 candidate = query_candidates[idx]
-                #candidate.add_feature(pairwise_predictions[idx])
-                #candidate.add_feature(pairwise_trigram_predictions[idx])
-                candidate.add_feature(jointpairwise_predictions[idx])
-                candidate.add_feature(jointpairwise_trigram_predictions[idx])
+                candidate.add_feature(pairwise_predictions[idx])
+                candidate.add_feature(pairwise_trigram_predictions[idx])
+                #candidate.add_feature(jointpairwise_predictions[idx])
+                #candidate.add_feature(jointpairwise_trigram_predictions[idx])
                 #candidate.add_feature(embedding_predictions[idx])
                 #candidate.add_feature(embedding_trigram_predictions[idx])
 
@@ -571,10 +571,10 @@ class Ranker(object):
 
                 for idx in xrange(len(candidates)):
                     candidate = candidates[idx]
-                    #candidate.add_feature(pairwise_predictions[idx])
-                    #candidate.add_feature(pairwise_trigram_predictions[idx])
-                    candidate.add_feature(jointpairwise_predictions[idx])
-                    candidate.add_feature(jointpairwise_trigram_predictions[idx])
+                    candidate.add_feature(pairwise_predictions[idx])
+                    candidate.add_feature(pairwise_trigram_predictions[idx])
+                    #candidate.add_feature(jointpairwise_predictions[idx])
+                    #candidate.add_feature(jointpairwise_trigram_predictions[idx])
                     #candidate.add_feature(embedding_predictions[idx])
                     #candidate.add_feature(embedding_trigram_predictions[idx])
 
