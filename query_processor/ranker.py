@@ -643,6 +643,11 @@ class Ranker(object):
                 logger.info(message)
 
                 content = result_line
+                if best is None:
+                    content += "Empty\n"
+                else:
+                    content += best.message
+                content += "Top5\n"
                 for idx in top5:
                     candidate = candidates[idx]
                     content += candidate.message
