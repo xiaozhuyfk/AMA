@@ -501,20 +501,28 @@ class Ranker(object):
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
 
+        same_file = "/home/hongyul/AMA/test_result/result_diff.txt"
         cover_file = "/home/hongyul/AMA/test_result/result_10.txt"
         above_file = "/home/hongyul/AMA/test_result/result_5-10.txt"
         below_file = "/home/hongyul/AMA/test_result/result_0-5.txt"
         zero_file = "/home/hongyul/AMA/test_result/result_0.txt"
+        entity_diff_file = "/home/hongyul/AMA/test_result/result_entity_diff.txt"
+        relation_diff_file = "/home/hongyul/AMA/test_result/result_relation_diff.txt"
+        codecsWriteFile(same_file, "")
         codecsWriteFile(cover_file, "")
         codecsWriteFile(above_file, "")
         codecsWriteFile(below_file, "")
         codecsWriteFile(zero_file, "")
+        codecsWriteFile(entity_diff_file, "")
+        codecsWriteFile(relation_diff_file, "")
 
 
         cover = 0
         num_top2 = 0
         num_top5 = 0
         num_top10 = 0
+        entity_diff = 0
+        relation_diff = 0
         queries = load_eval_queries(dataset)
         for query in queries:
             try:
@@ -661,6 +669,15 @@ class Ranker(object):
                 else:
                     codecsWriteFile(zero_file, content, "a")
 
+                if best_subject != best_candidate.subject:
+                    codecsWriteFile(entity_diff_file, content, "a")
+                    entity_diff += 1
+                elif best_candidate.relation != best_relation:
+                    codecsWriteFile(same_file, content, "a")
+                    relation_diff += 1
+
+
+
             except Exception:
                 logger.info("Error processing query" + " " + str(query.id))
 
@@ -668,6 +685,9 @@ class Ranker(object):
         print(cover)
         print(num_top5)
         print(num_top10)
+
+        logger.info("Entity diff count: %d", entity_diff)
+        logger.info("Relation diff count: %d", relation_diff)
 
 
 
