@@ -125,6 +125,12 @@ class FactCandidate(object):
 
         self.f1 = computeF1(self.answers, self.objects)[2]
 
+        graph_tokens = [" ".join(self.subject_tokens),
+                        " ".join(self.relation_tokens),
+                        "x"]
+        graph_str = " --> ".join(graph_tokens)
+        self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
+
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
         sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
                         (sentence_size - len(sentence)) * [0]
@@ -495,6 +501,16 @@ class Ranker(object):
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
 
+        cover_file = "/home/hongyul/AMA/test_result/result_10.txt"
+        above_file = "/home/hongyul/AMA/test_result/result_5-10.txt"
+        below_file = "/home/hongyul/AMA/test_result/result_0-5.txt"
+        zero_file = "/home/hongyul/AMA/test_result/result_0.txt"
+        codecsWriteFile(cover_file, "")
+        codecsWriteFile(above_file, "")
+        codecsWriteFile(below_file, "")
+        codecsWriteFile(zero_file, "")
+
+
         cover = 0
         num_top2 = 0
         num_top5 = 0
@@ -606,6 +622,8 @@ class Ranker(object):
                     num_top10 += 1
 
                 best_predictions = list(set(best_candidate.objects))
+                if len(best_predictions) > 5:
+                    best_predictions = best_predictions[:5] + ["..."]
                 result_line = "\t".join([str(query.id) + query.utterance,
                                          str(query.target_result),
                                          str(list(best_predictions)),
@@ -623,6 +641,20 @@ class Ranker(object):
                                     str(num_top5),
                                     str(num_top10)])
                 logger.info(message)
+
+                content = result_line
+                for idx in top5:
+                    candidate = candidates[idx]
+                    content += candidate.message
+                content += "\n"
+                if best_candidate.f1 == 1.0:
+                    codecsWriteFile(cover_file, content, "a")
+                elif best_candidate.f1 >= 0.5:
+                    codecsWriteFile(above_file, content, "a")
+                elif best_candidate.f1 > 0:
+                    codecsWriteFile(below_file, content, "a")
+                else:
+                    codecsWriteFile(zero_file, content, "a")
 
             except Exception:
                 logger.info("Error processing query" + " " + str(query.id))
