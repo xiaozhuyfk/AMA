@@ -501,10 +501,12 @@ class Ranker(object):
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
 
+        same_file = "/home/hongyul/AMA/test_result/result_diff.txt"
         cover_file = "/home/hongyul/AMA/test_result/result_10.txt"
         above_file = "/home/hongyul/AMA/test_result/result_5-10.txt"
         below_file = "/home/hongyul/AMA/test_result/result_0-5.txt"
         zero_file = "/home/hongyul/AMA/test_result/result_0.txt"
+        codecsWriteFile(same_file, "")
         codecsWriteFile(cover_file, "")
         codecsWriteFile(above_file, "")
         codecsWriteFile(below_file, "")
@@ -660,6 +662,9 @@ class Ranker(object):
                     codecsWriteFile(below_file, content, "a")
                 else:
                     codecsWriteFile(zero_file, content, "a")
+
+                if best_candidate.relation != best_relation:
+                    codecsWriteFile(same_file, content, "a")
 
             except Exception:
                 logger.info("Error processing query" + " " + str(query.id))
