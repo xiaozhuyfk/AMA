@@ -350,19 +350,19 @@ class Ranker(object):
 
         if model_name == "LSTMPointwise":
             model = LSTMPointwise(config_options, model_name)
-            model.train(data, 28)
+            model.train(data, 31)
         elif model_name == "LSTMPointwiseTrigram":
             model = LSTMPointwise(config_options, model_name)
             model.train(data, 203)
         elif model_name == "LSTMPairwise":
             model = LSTMPairwise(config_options, model_name)
-            model.train(data, 28)
+            model.train(data, 31)
         elif model_name == "LSTMPairwiseTrigram":
             model = LSTMPairwise(config_options, model_name)
             model.train(data, 203)
         elif model_name == "LSTMJointPairwise":
             model = LSTMJointPairwise(config_options, model_name)
-            model.train(data, 28, 'query_tokens', 'relation_tokens')
+            model.train(data, 31, 'query_tokens', 'relation_tokens')
         elif model_name == "LSTMJointPairwiseTrigram":
             model = LSTMJointPairwise(config_options, model_name)
             model.train(data, 203, 'query_trigram', 'relation_trigram')
@@ -375,7 +375,7 @@ class Ranker(object):
                         vectorize=vectorize_sentence_one_hot)
         elif model_name == "EmbeddingJointPairwise":
             model = EmbeddingJointPairwise(config_options, model_name)
-            model.train(data, 28, 'query_tokens', 'relation_tokens')
+            model.train(data, 31, 'query_tokens', 'relation_tokens')
         elif model_name == "EmbeddingJointPairwiseTrigram":
             model = EmbeddingJointPairwise(config_options, model_name)
             model.train(data, 203, 'query_trigram', 'relation_trigram')
@@ -417,11 +417,11 @@ class Ranker(object):
                     query_candidates.append(fact_candiate)
 
             # add lstm feature for all candidates
-            pairwise_predictions = pairwise_model.predict(query_candidates, 28).flatten()
+            pairwise_predictions = pairwise_model.predict(query_candidates, 31).flatten()
             pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
             jointpairwise_predictions = jointpairwise.predict(
                 query_candidates,
-                28,
+                31,
                 'query_tokens',
                 'relation_tokens'
             ).flatten()
@@ -433,7 +433,7 @@ class Ranker(object):
             ).flatten()
             embedding_predictions = embedding.predict(
                 query_candidates,
-                28,
+                31,
                 'query_tokens',
                 'relation_tokens'
             ).flatten()
@@ -531,11 +531,11 @@ class Ranker(object):
                         candidates.append(fact_candiate)
 
                 # add model features for all candidates
-                pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
+                pairwise_predictions = pairwise_model.predict(candidates, 31).flatten()
                 pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
                 jointpairwise_predictions = jointpairwise.predict(
                     candidates,
-                    28,
+                    31,
                     'query_tokens',
                     'relation_tokens'
                 ).flatten()
@@ -547,7 +547,7 @@ class Ranker(object):
                 ).flatten()
                 embedding_predictions = embedding.predict(
                     candidates,
-                    28,
+                    31,
                     'query_tokens',
                     'relation_tokens'
                 ).flatten()
