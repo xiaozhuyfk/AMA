@@ -368,6 +368,55 @@ class DSSMPairwise(JointPairwiseModel):
 
         return model, ranking_model
 
+    def _construct_data(self,
+                        candidates,
+                        sentence_size,
+                        query_attr,
+                        fact_attr,
+                        vectorize):
+        pool1 = []
+        pool2 = []
+        label = []
+        for query_candidates in candidates:
+            correct = []
+            wrong = []
+            for candidate in query_candidates:
+                if candidate.f1 > 0:
+                    correct.append(candidate)
+                else:
+                    wrong.append(candidate)
+            wrong = random.sample(wrong, min(len(wrong), 10))
+            for i in xrange(len(correct)):
+                for j in xrange(len(wrong)):
+                    if random.randint(0,1):
+                        pool1.append(correct[i])
+                        pool2.append(wrong[j])
+                        label.append(1.0)
+                    else:
+                        pool1.append(wrong[j])
+                        pool2.append(correct[i])
+                        label.append(-1.0)
+
+        Q1 = []
+        F1 = []
+        Q2 = []
+        F2 = []
+        for i in xrange(len(label)):
+            q1 = getattr(pool1[i], query_attr)
+            f1 = getattr(pool1[i], fact_attr)
+            q2 = getattr(pool2[i], query_attr)
+            f2 = getattr(pool2[i], fact_attr)
+            q1_idx = vectorize(self.word_idx, q1, sentence_size)
+            f1_idx = vectorize(self.word_idx, f1, sentence_size)
+            q2_idx = vectorize(self.word_idx, q2, sentence_size)
+            f2_idx = vectorize(self.word_idx, f2, sentence_size)
+            Q1.append(q1_idx)
+            F1.append(f1_idx)
+            Q2.append(q2_idx)
+            F2.append(f2_idx)
+
+        return [np.array(Q1), np.array(F1), np.array(Q2), np.array(F2)], np.array(label)
+
 
 class DSSMSepPairwise(JointPairwiseModel):
 
