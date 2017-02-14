@@ -426,7 +426,7 @@ class Ranker(object):
             """
             jointpairwise_predictions = jointpairwise.predict(
                 query_candidates,
-                31,
+                28,
                 'query_tokens',
                 'relation_tokens'
             ).flatten()
@@ -544,7 +544,7 @@ class Ranker(object):
                 """
                 jointpairwise_predictions = jointpairwise.predict(
                     candidates,
-                    31,
+                    28,
                     'query_tokens',
                     'relation_tokens'
                 ).flatten()
