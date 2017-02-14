@@ -382,10 +382,10 @@ class Ranker(object):
 
 
     def train(self, dataset):
-        #pairwise_model = self.get_model('LSTMPairwise')
-        #pairwise_trigram = self.get_model('LSTMPairwiseTrigram')
-        jointpairwise = self.get_model('LSTMJointPairwise')
-        jointpairwise_trigram = self.get_model('LSTMJointPairwiseTrigram')
+        pairwise_model = self.get_model('LSTMPairwise')
+        pairwise_trigram = self.get_model('LSTMPairwiseTrigram')
+        #jointpairwise = self.get_model('LSTMJointPairwise')
+        #jointpairwise_trigram = self.get_model('LSTMJointPairwiseTrigram')
         #embedding = self.get_model('EmbeddingJointPairwise')
         #embedding_trigram = self.get_model('EmbeddingJointPairwiseTrigram')
         logger.info("Done loading models.")
@@ -420,8 +420,7 @@ class Ranker(object):
             #lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
             #trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
 
-            """
-            pairwise_predictions = pairwise_model.predict(query_candidates, 31).flatten()
+            pairwise_predictions = pairwise_model.predict(query_candidates, 28).flatten()
             pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
             """
             jointpairwise_predictions = jointpairwise.predict(
@@ -436,6 +435,7 @@ class Ranker(object):
                 'query_trigram',
                 'relation_trigram'
             ).flatten()
+            """
             """
             embedding_predictions = embedding.predict(
                 query_candidates,
@@ -490,10 +490,10 @@ class Ranker(object):
 
 
     def test(self, dataset):
-        #pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
-        #pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
-        jointpairwise = self.get_model('LSTMJointPairwise')
-        jointpairwise_trigram = self.get_model('LSTMJointPairwiseTrigram')
+        pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
+        pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
+        #jointpairwise = self.get_model('LSTMJointPairwise')
+        #jointpairwise_trigram = self.get_model('LSTMJointPairwiseTrigram')
         #embedding = self.get_model('EmbeddingJointPairwise')
         #embedding_trigram = self.get_model('EmbeddingJointPairwiseTrigram')
 
@@ -538,8 +538,7 @@ class Ranker(object):
                         candidates.append(fact_candiate)
 
                 # add model features for all candidates
-                """
-                pairwise_predictions = pairwise_model.predict(candidates, 31).flatten()
+                pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
                 pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
                 """
                 jointpairwise_predictions = jointpairwise.predict(
@@ -554,6 +553,7 @@ class Ranker(object):
                     'query_trigram',
                     'relation_trigram'
                 ).flatten()
+                """
                 """
                 embedding_predictions = embedding.predict(
                     candidates,
