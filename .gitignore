@@ -20,3 +20,4 @@ training_model/
 fact_list.tar.gz
 svm_result/
 *DS_Store
+wiki/
