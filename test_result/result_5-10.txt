@@ -23,7 +23,7 @@ Entity Score = 0.990607, F1 = 0.666667, graph = jimmy savile --> person professi
 Entity Score = 0.990607, F1 = 0.000000, graph = jimmy savile --> person parents --> x
 Entity Score = 0.990607, F1 = 0.000000, graph = jimmy savile --> tv program creator programs created --> x
 Entity Score = 0.990607, F1 = 0.000000, graph = jimmy savile --> artist track --> x
-Entity Score = 0.990607, F1 = 0.000000, graph = jimmy savile --> person religion --> x
+Entity Score = 0.990607, F1 = 0.000000, graph = jimmy savile --> deceased person place of death --> x
 
 74who plays spike spiegel?	[u'Steven Blum', u'Koichi Yamadera']	[u'Koichi Yamadera']	0.666666666667	film.film_character.portrayed_in_films..film.performance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Spike Spiegel	Spike Spiegel
 Entity Score = 0.874707, F1 = 1.000000, graph = spike spiegel --> performance actor --> x
@@ -39,17 +39,17 @@ Entity Score = 0.848448, F1 = 0.666667, graph = sweden --> location time zones -
 Top5
 Entity Score = 0.848448, F1 = 0.666667, graph = sweden --> location time zones --> x
 Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> sports team location teams --> x
+Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> country form of government --> x
 Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> country currency formerly used --> x
 Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> country currency used --> x
-Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> country form of government --> x
 
 99what was kim richards in?	[u'The Car', u'Escape to Witch Mountain', u'Tuff Turf', u'Black Snake Moan', u'Race to Witch Mountain', u'Devil Dog: The Hound of Hell', u'No Deposit, No Return', u'Return from Witch Mountain', u'Meatballs Part II']	[u'The Car', u'Escape to Witch Mountain', u'Tuff Turf', u'The Whiz Kid and the Mystery at Riverton', u'Black Snake Moan', '...']	0.909090909091	film.actor.film..film.performance.film	film.actor.film..film.performance.film	Kim Richards	Kim Richards
 Entity Score = 0.999807, F1 = 0.909091, graph = kim richards --> performance film --> x
 Top5
 Entity Score = 0.999807, F1 = 0.909091, graph = kim richards --> performance film --> x
 Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> performance character --> x
-Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> regular tv appearance character --> x
 Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> person profession --> x
+Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> regular tv appearance character --> x
 Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> person parents --> x
 
 101what timezone is utah in?	[u'Mountain Time Zone']	[u'Mountain Time Zone', u'UTC\u221207:00']	0.666666666667	location.location.time_zones	location.location.time_zones	Utah	Utah
@@ -66,8 +66,8 @@ Entity Score = 0.995910, F1 = 1.000000, graph = rihanna --> artist origin --> x
 Top5
 Entity Score = 0.995910, F1 = 0.666667, graph = rihanna --> person place of birth --> x
 Entity Score = 0.995910, F1 = 0.666667, graph = rihanna --> place lived location --> x
-Entity Score = 0.995910, F1 = 0.400000, graph = rihanna --> vacation choice location --> x
 Entity Score = 0.995910, F1 = 0.666667, graph = rihanna --> person nationality --> x
+Entity Score = 0.995910, F1 = 0.400000, graph = rihanna --> vacation choice location --> x
 Entity Score = 0.995910, F1 = 1.000000, graph = rihanna --> artist origin --> x
 
 104who is emma stone father?	[u'Jeff Stone']	[u'Jeff Stone', u'Krista Stone']	0.666666666667	people.person.parents	people.person.parents	Emma Stone	Emma Stone
@@ -130,8 +130,8 @@ Top5
 Entity Score = 0.974443, F1 = 0.566667, graph = john irving --> author book editions published --> x
 Entity Score = 0.974443, F1 = 0.740741, graph = john irving --> author works written --> x
 Entity Score = 0.974443, F1 = 0.400000, graph = john irving --> film story contributor film story credits --> x
-Entity Score = 0.974443, F1 = 0.000000, graph = john irving --> fictional character creator fictional characters created --> x
 Entity Score = 0.974443, F1 = 0.461538, graph = john irving --> award nomination nominated for --> x
+Entity Score = 0.974443, F1 = 0.000000, graph = john irving --> fictional character creator fictional characters created --> x
 
 198who is judy garland father?	[u'Francis Avent Gumm']	[u'Francis Avent Gumm', u'Ethel Marion Milne']	0.666666666667	people.person.parents	people.person.parents	Judy Garland	Judy Garland
 Entity Score = 0.992574, F1 = 0.666667, graph = judy garland --> person parents --> x
@@ -167,15 +167,15 @@ Entity Score = 0.943065, F1 = 0.666667, graph = john dalton --> person professio
 Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> author works written --> x
 Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> influence node influenced by --> x
 Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> influence node influenced --> x
-Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> person place of birth --> x
+Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> deceased person place of death --> x
 
 239what team is raul ibanez on?	[u'Seattle Mariners']	[u'Seattle Mariners', u'Kansas City Royals']	0.666666666667	baseball.baseball_player.former_teams..sports.sports_team_roster.team	baseball.baseball_player.batting_stats..baseball.batting_statistics.team	Raúl Ibañez	Raúl Ibañez
 Entity Score = 0.987170, F1 = 0.500000, graph = raúl ibañez --> sports team roster team --> x
 Top5
 Entity Score = 0.987170, F1 = 0.666667, graph = raúl ibañez --> batting statistics team --> x
+Entity Score = 0.987170, F1 = 1.000000, graph = raúl ibañez --> baseball roster position team --> x
+Entity Score = 0.987170, F1 = 1.000000, graph = raúl ibañez --> baseball roster position team --> x
 Entity Score = 0.987170, F1 = 0.666667, graph = raúl ibañez --> athlete salary team --> x
-Entity Score = 0.987170, F1 = 1.000000, graph = raúl ibañez --> baseball roster position team --> x
-Entity Score = 0.987170, F1 = 1.000000, graph = raúl ibañez --> baseball roster position team --> x
 Entity Score = 0.987170, F1 = 0.500000, graph = raúl ibañez --> sports team roster team --> x
 
 246what was dr seuss real name?	[u'Theodor Robert Geisel']	[u'Henrietta Seuss Geisel', u'Theodor Robert Geisel']	0.666666666667	people.person.parents	people.person.parents	Dr. Seuss	Dr. Seuss
@@ -221,7 +221,7 @@ Entity Score = 0.998317, F1 = 0.666667, graph = morgan freeman --> marriage spou
 Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> person parents --> x
 Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> award honor award winner --> x
 Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> award nomination award nominee --> x
-Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> person children --> x
+Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> person profession --> x
 
 291who is willow smith mom name?	[u'Jada Pinkett Smith']	[u'Jada Pinkett Smith', u'Will Smith']	0.666666666667	people.person.parents	people.person.parents	Willow Smith	Willow Smith
 Entity Score = 0.999899, F1 = 0.666667, graph = willow smith --> person parents --> x
@@ -256,8 +256,8 @@ Top5
 Entity Score = 0.864643, F1 = 0.631579, graph = spain --> sports team location teams --> x
 Entity Score = 0.864643, F1 = 0.000000, graph = spain --> book subject works --> x
 Entity Score = 0.864643, F1 = 0.000000, graph = spain --> country languages spoken --> x
-Entity Score = 0.466927, F1 = 0.000000, graph = sports --> book subject works --> x
 Entity Score = 0.864643, F1 = 0.000000, graph = spain --> country official language --> x
+Entity Score = 0.864643, F1 = 0.000000, graph = spain --> location contains --> x
 
 322who does nolan ryan play for?	[u'California Angels', u'New York Mets']	[u'Houston Astros', u'California Angels', u'Texas Rangers', u'New York Mets']	0.666666666667	baseball.baseball_player.former_teams..baseball.baseball_historical_roster_position.team	baseball.baseball_player.batting_stats..baseball.batting_statistics.team	Nolan Ryan	Nolan Ryan
 Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> baseball historical roster position team --> x
@@ -267,15 +267,6 @@ Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> baseball historic
 Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> baseball historical roster position team --> x
 Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> sports team roster team --> x
 Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> sports team roster team --> x
-
-340what does wh smith stand for?	[u'William Henry Smith']	[u'Henry Walton Smith', u'William Henry Smith']	0.666666666667	organization.organization.founders	organization.organization.founders	W H Smith	W H Smith
-Entity Score = 0.903239, F1 = 0.666667, graph = w h smith --> organization founders --> x
-Top5
-Entity Score = 0.903239, F1 = 0.666667, graph = w h smith --> organization founders --> x
-Entity Score = 0.903239, F1 = 0.000000, graph = w h smith --> organization place founded --> x
-Entity Score = 0.903239, F1 = 0.000000, graph = w h smith --> publishing company books published --> x
-Entity Score = 0.903239, F1 = 0.000000, graph = w h smith --> organization locations --> x
-Entity Score = 0.903239, F1 = 0.000000, graph = w h smith --> mailing address citytown --> x
 
 347who is nick lachey married to?	[u'Vanessa Minnillo']	[u'Vanessa Minnillo', u'Jessica Simpson']	0.666666666667	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Nick Lachey	Nick Lachey
 Entity Score = 0.999946, F1 = 0.666667, graph = nick lachey --> marriage spouse --> x
@@ -317,9 +308,9 @@ Entity Score = 0.967481, F1 = 0.000000, graph = dr. seuss --> person profession 
 Entity Score = 0.999965, F1 = 0.666667, graph = pyotr ilyich tchaikovsky --> person profession --> x
 Top5
 Entity Score = 0.999965, F1 = 0.666667, graph = pyotr ilyich tchaikovsky --> person profession --> x
-Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> book subject works --> x
 Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> award nomination nominated for --> x
 Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> music contributor film --> x
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> book subject works --> x
 Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> author works written --> x
 
 429what team does heskey play for?	[u'Newcastle Jets FC']	[u'Newcastle Jets FC', u'Aston Villa F.C.', u'Wigan Athletic F.C.']	0.5	soccer.football_player.current_team..soccer.football_roster_position.team	soccer.football_player.current_team..soccer.football_roster_position.team	Emile Heskey	Emile Heskey
@@ -337,7 +328,7 @@ Top5
 Entity Score = 0.769089, F1 = 0.750000, graph = rome --> transportation transport terminus --> x
 Entity Score = 0.769089, F1 = 0.222222, graph = rome --> location nearby airports --> x
 Entity Score = 0.769089, F1 = 0.000000, graph = rome --> location contains --> x
-Entity Score = 0.769089, F1 = 0.000000, graph = rome --> book subject works --> x
+Entity Score = 0.769089, F1 = 0.000000, graph = rome --> imports exports by industry industry --> x
 Entity Score = 0.769089, F1 = 0.000000, graph = rome --> travel destination tourist attractions --> x
 
 448what did ferdinand magellan do?	[u'Navigator', u'Explorer']	[u'Navigator', u'Sailor', u'Explorer']	0.8	people.person.profession	people.person.profession	Ferdinand Magellan	Ferdinand Magellan
@@ -345,36 +336,36 @@ Entity Score = 0.996471, F1 = 0.800000, graph = ferdinand magellan --> person pr
 Top5
 Entity Score = 0.996471, F1 = 0.800000, graph = ferdinand magellan --> person profession --> x
 Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> person parents --> x
-Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> marriage spouse --> x
 Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> person children --> x
 Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> deceased person place of death --> x
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> marriage spouse --> x
 
 449what's my timezone in oklahoma?	[u'Central Time Zone']	[u'Central Time Zone', u'UTC\u221206:00']	0.666666666667	location.location.time_zones	location.location.time_zones	Oklahoma	Oklahoma
 Entity Score = 0.727318, F1 = 0.666667, graph = oklahoma --> location time zones --> x
 Top5
 Entity Score = 0.727318, F1 = 0.666667, graph = oklahoma --> location time zones --> x
 Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> performance film --> x
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> government position held office holder --> x
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> government position held office holder --> x
 Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> book subject works --> x
-Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> government position held office holder --> x
-Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> government position held office holder --> x
-
-450who is vancouver canucks coach?	[u'Alain Vigneault']	[u'Alain Vigneault', u'John Tortorella']	0.666666666667	sports.sports_team.coaches..sports.sports_team_coach_tenure.coach	sports.sports_team.coaches..sports.sports_team_coach_tenure.coach	Vancouver Canucks	Vancouver Canucks
-Entity Score = 0.965871, F1 = 0.666667, graph = vancouver canucks --> sports team coach tenure coach --> x
-Top5
-Entity Score = 0.965871, F1 = 0.666667, graph = vancouver canucks --> sports team coach tenure coach --> x
-Entity Score = 0.367595, F1 = 0.000295, graph = coach --> profession people with this profession --> x
-Entity Score = 0.367595, F1 = 0.000000, graph = coach --> sports team coach tenure coach --> x
-Entity Score = 0.107633, F1 = 0.000000, graph = baseball coach --> profession people with this profession --> x
-Entity Score = 0.965871, F1 = 0.000000, graph = vancouver canucks --> professional sports team owner s --> x
 
 453what was jesse owens education?	[u'Ohio State University']	[u'East Technical High School', u'Ohio State University']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	Jesse Owens	Jesse Owens
 Entity Score = 0.981065, F1 = 0.666667, graph = jesse owens --> education institution --> x
 Top5
 Entity Score = 0.981065, F1 = 0.666667, graph = jesse owens --> education institution --> x
 Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> person profession --> x
-Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> deceased person cause of death --> x
 Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> author works written --> x
-Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> person parents --> x
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> deceased person cause of death --> x
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> performance film --> x
+
+460what has ashley greene been in?	[u'Skateland', u'New Moon', u'Radio Free Albemuth', u"A Warrior's Heart", u'Eclipse', u"Summer's Blood", u'King of California', u'The Apparition', u'Twilight', u'The Twilight Saga: Breaking Dawn - Part 1']	[u'Butter', u'Skateland', u"Summer's Blood", u'New Moon', u'Americana', '...']	0.689655172414	film.actor.film..film.performance.film	film.actor.film..film.performance.film	Ashley Greene	Ashley Greene
+Entity Score = 0.999957, F1 = 0.689655, graph = ashley greene --> performance film --> x
+Top5
+Entity Score = 0.999957, F1 = 0.689655, graph = ashley greene --> performance film --> x
+Entity Score = 0.999957, F1 = 0.000000, graph = ashley greene --> performance character --> x
+Entity Score = 0.999957, F1 = 0.000000, graph = ashley greene --> award nomination nominated for --> x
+Entity Score = 0.999957, F1 = 0.333333, graph = ashley greene --> award honor honored for --> x
+Entity Score = 0.999957, F1 = 0.000000, graph = ashley greene --> regular tv appearance character --> x
 
 468what state does romney live in?	[u'Massachusetts']	[u'Massachusetts', u'Bloomfield Hills']	0.666666666667	government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office	people.person.places_lived..people.place_lived.location	Mitt Romney	Mitt Romney
 Entity Score = 0.313213, F1 = 1.000000, graph = mitt romney --> government position held jurisdiction of office --> x
@@ -398,10 +389,10 @@ Entity Score = 0.119332, F1 = 0.000000, graph = great pyramid of giza --> pyrami
 Entity Score = 0.860047, F1 = 0.666667, graph = michigan --> location time zones --> x
 Top5
 Entity Score = 0.860047, F1 = 0.666667, graph = michigan --> location time zones --> x
-Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> book subject works --> x
 Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location symbol relationship symbol --> x
-Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location events --> x
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> book subject works --> x
 Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location contains --> x
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location events --> x
 
 475what is michael kors real name?	[u'Karl Anderson']	[u'Karl Anderson', u'Joan Hamburger']	0.666666666667	people.person.parents	people.person.parents	Michael Kors	Michael Kors
 Entity Score = 0.999983, F1 = 0.666667, graph = michael kors --> person parents --> x
@@ -409,8 +400,8 @@ Top5
 Entity Score = 0.999983, F1 = 0.666667, graph = michael kors --> person parents --> x
 Entity Score = 0.999983, F1 = 0.000000, graph = michael kors --> marriage spouse --> x
 Entity Score = 0.999983, F1 = 0.000000, graph = michael kors --> friendship participant --> x
-Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> person parents --> x
 Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> marriage spouse --> x
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> person parents --> x
 
 485where does carlos santana live?	[u'Jalisco']	[u'San Francisco', u'Jalisco', u'Tijuana']	0.5	people.person.places_lived..people.place_lived.location	people.person.places_lived..people.place_lived.location	Carlos Santana	Carlos Santana
 Entity Score = 0.878128, F1 = 0.500000, graph = carlos santana --> place lived location --> x
@@ -436,16 +427,16 @@ Top5
 Entity Score = 1.000000, F1 = 0.857143, graph = bangkok --> travel destination tourist attractions --> x
 Entity Score = 1.000000, F1 = 0.065359, graph = bangkok --> location contains --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = bangkok --> location containedby --> x
-Entity Score = 1.000000, F1 = 0.000000, graph = bangkok --> administrative division country --> x
 Entity Score = 0.997846, F1 = 0.000000, graph = wally backman --> batting statistics team --> x
+Entity Score = 1.000000, F1 = 0.142857, graph = bangkok --> travel destination local transportation --> x
 
 537when did arsenal won the league?	[u'2004\u201305 FA Cup', u'FA Cup 2002\u201303', u'2002 FA Cup Final', u'FA Cup 1978\u201379', u'2005 FA Cup Final', u'2003 FA Cup Final', u'FA Cup 1997\u201398', u'FA Cup 1992\u201393', u'FA Cup 1970\u201371', u'2001\u201302 FA Cup']	[u'2004\u201305 FA Cup', u'1970\u201371 FA Cup', u'2002 FA Cup Final', u'2002\u201303 FA Cup', u'2005 FA Cup Final', '...']	0.5	sports.sports_team.championships	sports.sports_team.championships	Arsenal F.C.	Arsenal F.C.
 Entity Score = 0.785957, F1 = 0.500000, graph = arsenal f.c. --> sports team championships --> x
 Top5
 Entity Score = 0.785957, F1 = 0.500000, graph = arsenal f.c. --> sports team championships --> x
 Entity Score = 0.807063, F1 = 0.000000, graph = the league --> regular tv appearance character --> x
-Entity Score = 0.785957, F1 = 0.235294, graph = arsenal f.c. --> sports award season --> x
 Entity Score = 0.785957, F1 = 0.000000, graph = arsenal f.c. --> football player loan lending team --> x
+Entity Score = 0.785957, F1 = 0.235294, graph = arsenal f.c. --> sports award season --> x
 Entity Score = 0.785957, F1 = 0.000000, graph = arsenal f.c. --> sports team colors --> x
 
 556what do people speak in germany?	[u'Bavarian Language', u'German Language', u'Saxon, Upper Language']	[u'German Language']	0.5	location.country.languages_spoken	location.country.official_language	Germany	Germany
@@ -463,8 +454,8 @@ Top5
 Entity Score = 0.998805, F1 = 0.500000, graph = theodor schwann --> education institution --> x
 Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> person nationality --> x
 Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> deceased person place of death --> x
-Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> person place of birth --> x
 Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> author works written --> x
+Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> person place of birth --> x
 
 585what is claire danes famous for?	[u'Actor']	[u'Voice Actor', u'Actor']	0.666666666667	people.person.profession	people.person.profession	Claire Danes	Claire Danes
 Entity Score = 0.994246, F1 = 0.666667, graph = claire danes --> person profession --> x
@@ -472,8 +463,8 @@ Top5
 Entity Score = 0.994246, F1 = 0.666667, graph = claire danes --> person profession --> x
 Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> performance character --> x
 Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> regular tv appearance character --> x
-Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> performance film --> x
 Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> dubbing performance character --> x
+Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> performance film --> x
 
 589what drug killed marilyn monroe?	[u'Barbiturate']	[u'Suicide', u'Barbiturate', u'Drug overdose']	0.5	people.deceased_person.cause_of_death	people.deceased_person.cause_of_death	Marilyn Monroe	Marilyn Monroe
 Entity Score = 0.979254, F1 = 0.500000, graph = marilyn monroe --> deceased person cause of death --> x
@@ -498,9 +489,9 @@ Entity Score = 0.999988, F1 = 0.666667, graph = turks and caicos islands --> loc
 Top5
 Entity Score = 0.992698, F1 = 0.500000, graph = bahamas --> location time zones --> x
 Entity Score = 0.999988, F1 = 0.666667, graph = turks and caicos islands --> location time zones --> x
-Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist track --> x
 Entity Score = 0.992698, F1 = 0.000000, graph = bahamas --> sports team location teams --> x
-Entity Score = 0.147169, F1 = 0.000000, graph = lewis cass --> author works written --> x
+Entity Score = 0.992698, F1 = 0.000000, graph = bahamas --> country form of government --> x
+Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist track --> x
 
 628what to see in montreal downtown?	[u'Casino de Montr\xe9al', u'Parc Jean-Drapeau', u'La Ronde', u'Canadian Centre for Architecture', u'Montreal Botanical Garden', u'Maisonneuve Park', u'La Fontaine Park', u'Mount Royal', u'Old City', u"Mus\xe9e d'art contemporain de Montr\xe9al"]	[u'Casino de Montr\xe9al', u'Mount Royal', u'La Fontaine Park', u'Parc Jean-Drapeau', u'La Ronde', '...']	0.869565217391	travel.travel_destination.tourist_attractions	travel.travel_destination.tourist_attractions	Montreal	Montreal
 Entity Score = 0.904973, F1 = 0.869565, graph = montreal --> travel destination tourist attractions --> x
@@ -526,7 +517,7 @@ Top5
 Entity Score = 0.880518, F1 = 0.500000, graph = australia --> country languages spoken --> x
 Entity Score = 0.880518, F1 = 0.000000, graph = australia --> country form of government --> x
 Entity Score = 0.880518, F1 = 0.000000, graph = australia --> book subject works --> x
-Entity Score = 0.880518, F1 = 0.000000, graph = australia --> religion percentage religion --> x
+Entity Score = 0.880518, F1 = 0.000000, graph = australia --> location containedby --> x
 Entity Score = 0.880518, F1 = 0.000000, graph = australia --> location contains --> x
 
 651what is the zip code for trenton?	[u'08610', u'08611', u'08618', u'08608', u'08603', u'08602', u'08601', u'08607', u'08605', u'08604']	[u'08695', u'08690', u'08691', u'08666', u'08647', '...']	0.540540540541	location.citytown.postal_codes	location.citytown.postal_codes	Trenton	Trenton
@@ -551,10 +542,10 @@ Entity Score = 0.259548, F1 = 0.000000, graph = john nash --> employment tenure 
 Entity Score = 1.000000, F1 = 0.250000, graph = amy grant --> award nomination award nominee --> x
 Top5
 Entity Score = 1.000000, F1 = 0.666667, graph = amy grant --> marriage spouse --> x
-Entity Score = 1.000000, F1 = 0.500000, graph = amy grant --> award honor award winner --> x
 Entity Score = 1.000000, F1 = 0.250000, graph = amy grant --> award nomination award nominee --> x
-Entity Score = 1.000000, F1 = 0.000000, graph = amy grant --> person parents --> x
+Entity Score = 1.000000, F1 = 0.500000, graph = amy grant --> award honor award winner --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = first husband --> performance actor --> x
+Entity Score = 1.000000, F1 = 0.000000, graph = amy grant --> person parents --> x
 
 670who did the voice for lola bunny?	[u'Britt McKillip', u'Kath Soucie']	[u'Britt McKillip', u'Kristen Wiig']	0.5	film.film_character.portrayed_in_films..film.performance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Lola Bunny	Lola Bunny
 Entity Score = 1.000000, F1 = 1.000000, graph = lola bunny --> performance actor --> x
@@ -563,7 +554,7 @@ Entity Score = 1.000000, F1 = 0.500000, graph = lola bunny --> regular tv appear
 Entity Score = 1.000000, F1 = 1.000000, graph = lola bunny --> performance actor --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = big gay als big gay boat ride --> tv guest role actor --> x
 Entity Score = 0.265803, F1 = 0.000000, graph = the voice --> tv producer term producer --> x
-Entity Score = 0.265803, F1 = 0.000000, graph = the voice --> award nomination award nominee --> x
+Entity Score = 0.119148, F1 = 0.000000, graph = google voice --> employment tenure person --> x
 
 671where does the parana river flow?	[u'Paraguay', u'Brazil', u'Argentina', u'Mesopotamia, Argentina']	[u'Brazil', u'Paraguay', u'Argentina']	0.857142857143	location.location.containedby	geography.river.basin_countries	Paraná River	Paraná River
 Entity Score = 0.979599, F1 = 1.000000, graph = paraná river --> location containedby --> x
@@ -580,17 +571,17 @@ Top5
 Entity Score = 0.790167, F1 = 0.869565, graph = czech republic --> country languages spoken --> x
 Entity Score = 0.790167, F1 = 0.181818, graph = czech republic --> country official language --> x
 Entity Score = 0.790167, F1 = 0.000000, graph = czech republic --> location contains --> x
-Entity Score = 0.790167, F1 = 0.000000, graph = czech republic --> location nearby airports --> x
 Entity Score = 0.790167, F1 = 0.000000, graph = czech republic --> country form of government --> x
+Entity Score = 0.790167, F1 = 0.000000, graph = czech republic --> location containedby --> x
 
 693who is princess leia in star wars?	[u'Carrie Fisher']	[u'Carrie Fisher', u'Amy Smart']	0.666666666667	film.film_character.portrayed_in_films..film.performance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Leia Organa	Leia Organa
 Entity Score = 0.986592, F1 = 1.000000, graph = leia organa --> performance actor --> x
 Top5
 Entity Score = 0.986592, F1 = 0.666667, graph = leia organa --> regular tv appearance actor --> x
 Entity Score = 0.986592, F1 = 1.000000, graph = leia organa --> performance actor --> x
+Entity Score = 0.986592, F1 = 0.000000, graph = leia organa --> fictional character character created by --> x
 Entity Score = 0.782263, F1 = 0.000000, graph = star wars --> award nomination award nominee --> x
 Entity Score = 0.782263, F1 = 0.000000, graph = star wars --> award honor award winner --> x
-Entity Score = 0.986592, F1 = 0.000000, graph = leia organa --> fictional character character created by --> x
 
 696what form of government is the uk?	[u'Parliamentary system', u'Unitary state', u'Constitutional monarchy', u'Hereditary monarchy']	[u'Parliamentary system', u'Unitary state', u'Constitutional monarchy']	0.857142857143	location.country.form_of_government	location.country.form_of_government	United Kingdom	United Kingdom
 Entity Score = 0.674785, F1 = 0.857143, graph = united kingdom --> country form of government --> x
@@ -607,8 +598,8 @@ Top5
 Entity Score = 0.995910, F1 = 0.666667, graph = rihanna --> person place of birth --> x
 Entity Score = 0.995910, F1 = 0.666667, graph = rihanna --> place lived location --> x
 Entity Score = 0.995910, F1 = 0.400000, graph = rihanna --> vacation choice location --> x
-Entity Score = 0.995910, F1 = 1.000000, graph = rihanna --> artist origin --> x
 Entity Score = 0.995910, F1 = 0.666667, graph = rihanna --> person nationality --> x
+Entity Score = 0.995910, F1 = 1.000000, graph = rihanna --> artist origin --> x
 
 707what college did maya moore go to?	[u'University of Connecticut']	[u'Collins Hill High School', u'University of Connecticut']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	Maya Moore	Maya Moore
 Entity Score = 1.000000, F1 = 0.666667, graph = maya moore --> education institution --> x
@@ -633,18 +624,18 @@ Entity Score = 0.972300, F1 = 0.666667, graph = anne frank --> education institu
 Top5
 Entity Score = 0.972300, F1 = 0.666667, graph = anne frank --> education institution --> x
 Entity Score = 0.999871, F1 = 0.000000, graph = rutgers-camden --> educational institution campus educational institution --> x
-Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> person profession --> x
 Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> place lived location --> x
-Entity Score = 0.999871, F1 = 0.000000, graph = rutgers-camden --> educational institution campuses --> x
+Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> person profession --> x
+Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> vacation choice location --> x
 
 717what kind of government is sweden?	[u'Representative democracy', u'Unitary state', u'Parliamentary system', u'Constitutional monarchy', u'Hereditary monarchy', u'Multi-party system']	[u'Representative democracy', u'Parliamentary system', u'Unitary state', u'Constitutional monarchy', u'Hereditary monarchy']	0.909090909091	location.country.form_of_government	location.country.form_of_government	Sweden	Sweden
 Entity Score = 0.848448, F1 = 0.909091, graph = sweden --> country form of government --> x
 Top5
 Entity Score = 0.848448, F1 = 0.909091, graph = sweden --> country form of government --> x
 Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> location contains --> x
-Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> adjoining relationship adjoins --> x
+Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> country official language --> x
 Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> country administrative divisions --> x
-Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> administrative area administrative children --> x
+Entity Score = 0.848448, F1 = 0.000000, graph = sweden --> adjoining relationship adjoins --> x
 
 734what state did john adams live in?	[u'Massachusetts']	[u'Massachusetts', u'Braintree']	0.666666666667	government.politician.government_positions_held..government.government_position_held.district_represented	people.person.places_lived..people.place_lived.location	John Adams	John Adams
 Entity Score = 0.777897, F1 = 1.000000, graph = john adams --> government position held district represented --> x
@@ -653,15 +644,15 @@ Entity Score = 0.777897, F1 = 0.666667, graph = john adams --> place lived locat
 Entity Score = 0.777897, F1 = 0.000000, graph = john adams --> person place of birth --> x
 Entity Score = 0.777897, F1 = 0.000000, graph = john adams --> deceased person place of death --> x
 Entity Score = 0.777897, F1 = 1.000000, graph = john adams --> government position held district represented --> x
-Entity Score = 0.114677, F1 = 0.000000, graph = john coolidge adams --> place lived location --> x
+Entity Score = 0.777897, F1 = 0.000000, graph = john adams --> person nationality --> x
 
 780where is victoria british columbia?	[u'Canada']	[u'Canada', u'British Columbia']	0.666666666667	location.location.containedby	location.location.containedby	Victoria	Victoria
 Entity Score = 1.000000, F1 = 0.666667, graph = victoria --> location containedby --> x
 Top5
 Entity Score = 1.000000, F1 = 0.666667, graph = victoria --> location containedby --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = victoria --> administrative division capital relationship administrative division --> x
-Entity Score = 0.963492, F1 = 1.000000, graph = british columbia --> administrative division country --> x
 Entity Score = 0.963492, F1 = 1.000000, graph = british columbia --> administrative division first level division of --> x
+Entity Score = 0.963492, F1 = 1.000000, graph = british columbia --> administrative division country --> x
 Entity Score = 0.963492, F1 = 1.000000, graph = british columbia --> location containedby --> x
 
 792where was david berkowitz arrested?	[u'New York City']	[u'Yonkers', u'New York City', u'Brooklyn']	0.5	people.person.places_lived..people.place_lived.location	people.person.places_lived..people.place_lived.location	David Berkowitz	David Berkowitz
@@ -689,7 +680,7 @@ Entity Score = 0.999993, F1 = 0.500000, graph = seattle seahawks --> team venue 
 Entity Score = 0.999993, F1 = 1.000000, graph = seattle seahawks --> sports team arena stadium --> x
 Entity Score = 0.999993, F1 = 0.000000, graph = seattle seahawks --> football roster position team --> x
 Entity Score = 0.999993, F1 = 0.000000, graph = seattle seahawks --> football team division --> x
-Entity Score = 0.999993, F1 = 0.000000, graph = seattle seahawks --> player nfl team --> x
+Entity Score = 0.999993, F1 = 0.000000, graph = seattle seahawks --> sports team location --> x
 
 803what type of money to take to cuba?	[u'Cuban peso']	[u'Cuban peso', u'Cuban convertible peso']	0.666666666667	location.country.currency_used	location.country.currency_used	Cuba	Cuba
 Entity Score = 0.888518, F1 = 0.666667, graph = cuba --> country currency used --> x
@@ -725,7 +716,7 @@ Entity Score = 0.995388, F1 = 0.666667, graph = j. r. r. tolkien --> education i
 Entity Score = 0.995388, F1 = 0.666667, graph = j. r. r. tolkien --> employment tenure company --> x
 Entity Score = 0.995388, F1 = 0.000000, graph = j. r. r. tolkien --> education major field of study --> x
 Entity Score = 0.999871, F1 = 0.000000, graph = rutgers-camden --> educational institution campus educational institution --> x
-Entity Score = 0.995388, F1 = 0.000000, graph = j. r. r. tolkien --> organization founder organizations founded --> x
+Entity Score = 0.995388, F1 = 0.000000, graph = j. r. r. tolkien --> activist area of activism --> x
 
 862where did hugo chavez go to school?	[u"Daniel Florencio O'Leary School", u'Universidad Sim\xf3n Bol\xedvar', u'Experimental Security University', u'Julian Pino School', u'Military academy of Venezuela']	[u'Universidad Sim\xf3n Bol\xedvar', u"Daniel Florencio O'Leary School", u'Julian Pino School', u'Military academy of Venezuela']	0.888888888889	people.person.education..education.education.institution	people.person.education..education.education.institution	Hugo Chávez	Hugo Chávez
 Entity Score = 0.994067, F1 = 0.888889, graph = hugo chávez --> education institution --> x
@@ -733,17 +724,8 @@ Top5
 Entity Score = 0.994067, F1 = 0.888889, graph = hugo chávez --> education institution --> x
 Entity Score = 0.994067, F1 = 0.000000, graph = hugo chávez --> education major field of study --> x
 Entity Score = 0.999871, F1 = 0.000000, graph = rutgers-camden --> educational institution campus educational institution --> x
-Entity Score = 0.994067, F1 = 0.000000, graph = hugo chávez --> political party tenure party --> x
 Entity Score = 0.994067, F1 = 0.000000, graph = hugo chávez --> activist area of activism --> x
-
-871what movies has miley cyrus been in?	[u'Hannah Montana: The Movie', u'Super Rhino', u'Sonic the Hedgehog', u'LOL: Laughing Out Loud', u'Big Fish', u'Sex and the City 2', u'Bolt', u'The Last Song', u'So Undercover', u'High School Musical 2']	[u'Hannah Montana: The Movie', u'Super Rhino', u'Sonic the Hedgehog', u'Rock Mafia Presents: The Big Bang', u'LOL: Laughing Out Loud', '...']	0.8	film.actor.film..film.performance.film	film.actor.film..film.performance.film	Miley Cyrus	Miley Cyrus
-Entity Score = 0.993006, F1 = 0.800000, graph = miley cyrus --> performance film --> x
-Top5
-Entity Score = 0.993006, F1 = 0.800000, graph = miley cyrus --> performance film --> x
-Entity Score = 0.993006, F1 = 0.333333, graph = miley cyrus --> award nomination nominated for --> x
-Entity Score = 0.993006, F1 = 0.000000, graph = miley cyrus --> music contributor film --> x
-Entity Score = 0.993006, F1 = 0.285714, graph = miley cyrus --> award honor honored for --> x
-Entity Score = 0.993006, F1 = 0.000000, graph = miley cyrus --> author works written --> x
+Entity Score = 0.994067, F1 = 0.000000, graph = hugo chávez --> political party tenure party --> x
 
 875what country did magellan represent?	[u'Portugal']	[u'Portugal', u'Kingdom of Portugal']	0.666666666667	people.person.nationality	people.person.nationality	Ferdinand Magellan	Ferdinand Magellan
 Entity Score = 0.601424, F1 = 0.666667, graph = ferdinand magellan --> person nationality --> x
@@ -777,17 +759,17 @@ Entity Score = 0.938426, F1 = 0.500000, graph = pennsylvania --> location time z
 Top5
 Entity Score = 0.938426, F1 = 0.500000, graph = pennsylvania --> location time zones --> x
 Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> book subject works --> x
-Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> location events --> x
 Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> location nearby airports --> x
-Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> government position held office holder --> x
+Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> location contains --> x
+Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> location events --> x
 
 903where do kfc get their chicken from?	[u'Kentucky']	[u'Delaware', u'Kentucky']	0.666666666667	organization.organization.headquarters..location.mailing_address.state_province_region	organization.organization.headquarters..location.mailing_address.state_province_region	KFC	KFC
 Entity Score = 0.999935, F1 = 0.666667, graph = kfc --> mailing address state province region --> x
 Top5
 Entity Score = 0.999935, F1 = 0.666667, graph = kfc --> mailing address state province region --> x
 Entity Score = 0.999935, F1 = 0.000000, graph = kfc --> mailing address citytown --> x
-Entity Score = 0.999935, F1 = 0.000000, graph = kfc --> mailing address country --> x
 Entity Score = 0.999935, F1 = 0.000000, graph = kfc --> organization place founded --> x
+Entity Score = 0.999935, F1 = 0.000000, graph = kfc --> mailing address country --> x
 Entity Score = 0.999935, F1 = 0.000000, graph = kfc --> organization locations --> x
 
 915what college did john nash teach at?	[u'Princeton University']	[u'Carnegie Institute of Technology', u'Bluefield High School', u'Princeton University']	0.5	people.person.employment_history..business.employment_tenure.company	people.person.education..education.education.institution	John Forbes Nash, Jr.	John Forbes Nash, Jr.
@@ -796,16 +778,16 @@ Top5
 Entity Score = 0.685191, F1 = 0.500000, graph = john forbes nash jr. --> education institution --> x
 Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> x
 Entity Score = 0.685191, F1 = 0.000000, graph = john forbes nash jr. --> person profession --> x
-Entity Score = 0.259548, F1 = 0.000000, graph = john nash --> person profession --> x
 Entity Score = 0.685191, F1 = 0.000000, graph = john forbes nash jr. --> education major field of study --> x
+Entity Score = 0.259548, F1 = 0.000000, graph = john nash --> person profession --> x
 
 916what is the zip code for midland tx?	[u'79702', u'79710', u'79708', u'79706', u'79707', u'79704', u'79705', u'79711', u'79703', u'79701']	[u'79711', u'79710', u'79708', u'79712', u'79706', '...']	0.952380952381	location.citytown.postal_codes	location.citytown.postal_codes	Midland	Midland
 Entity Score = 1.000000, F1 = 0.952381, graph = midland --> citytown postal codes --> x
 Top5
 Entity Score = 1.000000, F1 = 0.952381, graph = midland --> citytown postal codes --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = midland --> location time zones --> x
-Entity Score = 1.000000, F1 = 0.000000, graph = genetics --> book subject works --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = midland --> location nearby airports --> x
+Entity Score = 1.000000, F1 = 0.000000, graph = genetics --> book subject works --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = midland --> location contains --> x
 
 921what is michael kors best known for?	[u'Fashion Designer']	[u'Designer', u'Fashion Designer']	0.666666666667	people.person.profession	people.person.profession	Michael Kors	Michael Kors
@@ -832,8 +814,8 @@ Top5
 Entity Score = 0.723041, F1 = 0.666667, graph = kevin james --> education institution --> x
 Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> x
 Entity Score = 0.723041, F1 = 0.000000, graph = kevin james --> place lived location --> x
-Entity Score = 0.723041, F1 = 0.000000, graph = kevin james --> person profession --> x
 Entity Score = 0.723041, F1 = 0.000000, graph = kevin james --> person place of birth --> x
+Entity Score = 0.723041, F1 = 0.000000, graph = kevin james --> person profession --> x
 
 940when did bill clinton go to college?	[u'University College, Oxford', u'Ramble Elementary', u'Yale Law School', u'Hot Springs High School', u'Georgetown University Law Center', u'Edmund A. Walsh School of Foreign Service', u"St. John's Catholic Elementary School"]	[u'University College, Oxford', u'Ramble Elementary', u'Yale University', u'Yale Law School', u'Hot Springs High School', '...']	0.857142857143	people.person.education..education.education.institution	people.person.education..education.education.institution	Bill Clinton	Bill Clinton
 Entity Score = 0.983698, F1 = 0.857143, graph = bill clinton --> education institution --> x
@@ -850,17 +832,8 @@ Top5
 Entity Score = 0.969221, F1 = 0.526316, graph = syracuse --> citytown postal codes --> x
 Entity Score = 0.969221, F1 = 0.000000, graph = syracuse --> location time zones --> x
 Entity Score = 0.969221, F1 = 0.000000, graph = syracuse --> location events --> x
+Entity Score = 0.969221, F1 = 0.000000, graph = syracuse --> place with neighborhoods neighborhoods --> x
 Entity Score = 0.969221, F1 = 0.000000, graph = syracuse --> location contains --> x
-Entity Score = 0.969221, F1 = 0.000000, graph = syracuse --> sports team location teams --> x
-
-961where does robin williams live 2011?	[u'San Francisco']	[u'San Francisco', u'Bloomfield Hills']	0.666666666667	people.person.places_lived..people.place_lived.location	people.person.places_lived..people.place_lived.location	Robin Williams	Robin Williams
-Entity Score = 0.980452, F1 = 0.666667, graph = robin williams --> place lived location --> x
-Top5
-Entity Score = 0.980452, F1 = 0.666667, graph = robin williams --> place lived location --> x
-Entity Score = 0.980452, F1 = 0.000000, graph = robin williams --> person place of birth --> x
-Entity Score = 0.980452, F1 = 0.000000, graph = robin williams --> person nationality --> x
-Entity Score = 0.980452, F1 = 0.000000, graph = robin williams --> substance abuse problem substance --> x
-Entity Score = 0.980452, F1 = 0.000000, graph = robin williams --> education institution --> x
 
 970what disease does robin roberts have?	[u'Breast cancer']	[u'Breast cancer', u'Myelodysplastic syndrome']	0.666666666667	medicine.notable_person_with_medical_condition.condition	medicine.notable_person_with_medical_condition.condition	Robin Roberts	Robin Roberts
 Entity Score = 0.412846, F1 = 0.666667, graph = robin roberts --> notable person with medical condition condition --> x
@@ -868,8 +841,8 @@ Top5
 Entity Score = 0.412846, F1 = 0.666667, graph = robin roberts --> notable person with medical condition condition --> x
 Entity Score = 0.412846, F1 = 0.000000, graph = robin roberts --> award nomination nominated for --> x
 Entity Score = 0.412846, F1 = 0.000000, graph = robin roberts --> award honor honored for --> x
-Entity Score = 0.412846, F1 = 0.000000, graph = robin roberts --> performance film --> x
 Entity Score = 0.862183, F1 = 0.000000, graph = disease --> cause of death includes causes of death --> x
+Entity Score = 0.567709, F1 = 0.000000, graph = robin roberts --> batting statistics season --> x
 
 972what movies does matt dallas play in?	[u'The Story of Bonnie and Clyde', u'Babysitter Wanted', u'Hot Dudes with Kittens', u'Beauty & the Briefcase', u'In Between Days', u'The Indian', u'As Good as Dead', u'Living the Dream', u'Camp Slaughter', u"Wyatt Earp's Revenge"]	[u'Way of the Vampire', u'The Story of Bonnie and Clyde', u'Babysitter Wanted', u'The Ghost of Goodnight Lane', u'Hot Dudes with Kittens', '...']	0.846153846154	film.actor.film..film.performance.film	film.actor.film..film.performance.film	Matt Dallas	Matt Dallas
 Entity Score = 0.999634, F1 = 0.846154, graph = matt dallas --> performance film --> x
@@ -884,10 +857,10 @@ Entity Score = 0.695526, F1 = 0.000000, graph = film --> book subject works --> 
 Entity Score = 0.915626, F1 = 0.714286, graph = poland --> sports team location teams --> x
 Top5
 Entity Score = 0.915626, F1 = 0.714286, graph = poland --> sports team location teams --> x
-Entity Score = 0.915626, F1 = 0.000000, graph = poland --> book subject works --> x
 Entity Score = 0.915626, F1 = 0.000000, graph = poland --> location contains --> x
-Entity Score = 0.466927, F1 = 0.000000, graph = sports --> book subject works --> x
+Entity Score = 0.915626, F1 = 0.000000, graph = poland --> book subject works --> x
 Entity Score = 0.915626, F1 = 0.000000, graph = poland --> location time zones --> x
+Entity Score = 0.466927, F1 = 0.000000, graph = sports --> book subject works --> x
 
 980what political system did spain have?	[u'Parliamentary system', u'Unitary state', u'Constitutional monarchy', u'Multi-party system']	[u'Parliamentary system', u'Unitary state', u'Constitutional monarchy']	0.857142857143	location.country.form_of_government	location.country.form_of_government	Spain	Spain
 Entity Score = 0.864643, F1 = 0.857143, graph = spain --> country form of government --> x
@@ -896,7 +869,7 @@ Entity Score = 0.864643, F1 = 0.857143, graph = spain --> country form of govern
 Entity Score = 0.864643, F1 = 0.000000, graph = spain --> location contains --> x
 Entity Score = 0.864643, F1 = 0.000000, graph = spain --> travel destination tourist attractions --> x
 Entity Score = 0.864643, F1 = 0.000000, graph = spain --> country first level divisions --> x
-Entity Score = 0.864643, F1 = 0.000000, graph = spain --> adjoining relationship adjoins --> x
+Entity Score = 0.864643, F1 = 0.000000, graph = spain --> country official language --> x
 
 986what currency to take to turkey 2010?	[u'Turkish lira']	[u'Turkish lira', u'Revaluation of the Turkish Lira']	0.666666666667	location.country.currency_formerly_used	location.country.currency_formerly_used	Turkey	Turkey
 Entity Score = 0.823467, F1 = 0.666667, graph = turkey --> country currency formerly used --> x
@@ -905,7 +878,7 @@ Entity Score = 0.823467, F1 = 0.666667, graph = turkey --> country currency form
 Entity Score = 0.823467, F1 = 1.000000, graph = turkey --> country currency used --> x
 Entity Score = 0.823467, F1 = 0.000000, graph = turkey --> recurring money value currency --> x
 Entity Score = 0.823467, F1 = 0.000000, graph = turkey --> recurring money value currency --> x
-Entity Score = 0.823467, F1 = 0.000000, graph = turkey --> location time zones --> x
+Entity Score = 0.823467, F1 = 1.000000, graph = turkey --> dated money value currency --> x
 
 989what type of economy exists in china?	[u'Socialist state']	[u'Single-party state', u'Communist state', u'Socialist state']	0.5	location.country.form_of_government	location.country.form_of_government	China	China
 Entity Score = 0.897591, F1 = 0.500000, graph = china --> country form of government --> x
@@ -913,8 +886,8 @@ Top5
 Entity Score = 0.897591, F1 = 0.500000, graph = china --> country form of government --> x
 Entity Score = 0.897591, F1 = 0.000000, graph = china --> location contains --> x
 Entity Score = 0.897591, F1 = 0.000000, graph = china --> travel destination tourist attractions --> x
-Entity Score = 0.897591, F1 = 0.000000, graph = china --> adjoining relationship adjoins --> x
-Entity Score = 0.897591, F1 = 0.000000, graph = china --> imports and exports imported from --> x
+Entity Score = 0.897591, F1 = 0.000000, graph = china --> location contains major portion of --> x
+Entity Score = 0.897591, F1 = 0.000000, graph = china --> country official language --> x
 
 992who is ryan reynolds married to 2012?	[u'Blake Lively']	[u'Blake Lively', u'Scarlett Johansson']	0.666666666667	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Ryan Reynolds	Ryan Reynolds
 Entity Score = 0.995260, F1 = 0.666667, graph = ryan reynolds --> marriage spouse --> x
@@ -931,8 +904,8 @@ Top5
 Entity Score = 1.000000, F1 = 0.666667, graph = vin scully --> education institution --> x
 Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = vin scully --> place lived location --> x
-Entity Score = 1.000000, F1 = 0.000000, graph = vin scully --> person profession --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = vin scully --> person place of birth --> x
+Entity Score = 1.000000, F1 = 0.000000, graph = vin scully --> person profession --> x
 
 996what language is spoken in argentina?	[u'Spanish Language']	[u'Yiddish Language', u'Spanish Language', u'Italian Language']	0.5	location.country.languages_spoken	location.country.languages_spoken	Argentina	Argentina
 Entity Score = 0.760603, F1 = 0.500000, graph = argentina --> country languages spoken --> x
@@ -941,7 +914,7 @@ Entity Score = 0.760603, F1 = 0.500000, graph = argentina --> country languages 
 Entity Score = 0.760603, F1 = 1.000000, graph = argentina --> country official language --> x
 Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> country form of government --> x
 Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> location contains --> x
-Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> x
+Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> location containedby --> x
 
 1003who does brian dawkins play for 2011?	[u'Denver Broncos']	[u'Denver Broncos', u'Philadelphia Eagles', u'Clemson Tigers football']	0.5	sports.pro_athlete.teams..american_football.football_historical_roster_position.team	sports.pro_athlete.teams..american_football.football_historical_roster_position.team	Brian Dawkins	Brian Dawkins
 Entity Score = 0.999898, F1 = 0.500000, graph = brian dawkins --> football historical roster position team --> x
@@ -959,15 +932,15 @@ Entity Score = 0.999825, F1 = 0.666667, graph = george vi --> person parents -->
 Entity Score = 0.997901, F1 = 0.666667, graph = george vi --> person parents --> x
 Entity Score = 0.999825, F1 = 0.000000, graph = george vi --> marriage spouse --> x
 Entity Score = 0.997901, F1 = 0.000000, graph = george vi --> marriage spouse --> x
-Entity Score = 0.500000, F1 = 0.000000, graph = john douglas 9th marquess of queensberry --> marriage spouse --> x
+Entity Score = 0.103884, F1 = 0.000000, graph = king george county --> namesake named after --> x
 
 1020where did derek fisher go to college?	[u'University of Arkansas at Little Rock']	[u'Parkview Arts and Science Magnet High School', u'University of Arkansas at Little Rock', u'University of Arkansas']	0.5	sports.drafted_athlete.drafted..sports.sports_league_draft_pick.school	people.person.education..education.education.institution	Derek Fisher	Derek Fisher
 Entity Score = 0.999822, F1 = 1.000000, graph = derek fisher --> sports league draft pick school --> x
 Top5
 Entity Score = 0.999822, F1 = 0.500000, graph = derek fisher --> education institution --> x
 Entity Score = 0.999822, F1 = 0.000000, graph = derek fisher --> place lived location --> x
-Entity Score = 0.999822, F1 = 0.000000, graph = derek fisher --> person place of birth --> x
-Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> x
+Entity Score = 0.999822, F1 = 0.000000, graph = derek fisher --> sports team roster team --> x
+Entity Score = 0.999822, F1 = 0.000000, graph = derek fisher --> sports team roster team --> x
 Entity Score = 0.999822, F1 = 0.000000, graph = derek fisher --> sports team roster team --> x
 
 1021what are the sights to see in madrid?	[u'Paseo del Prado', u'Thyssen-Bornemisza Museum', u'Almudena Cathedral', u'Plaza de Cibeles', u'Puerta del Sol', u'Royal Palace of Madrid', u'Museo de Lazaro Galdiano', u'Gran V\xeda', u'Museo Nacional Centro de Arte Reina Sof\xeda', u'Plaza Mayor, Madrid']	[u'Paseo del Prado', u'Parque Warner Madrid', u'Almudena Cathedral', u'Plaza Mayor, Madrid', u'Museo Nacional Del Prado', '...']	0.8	travel.travel_destination.tourist_attractions	travel.travel_destination.tourist_attractions	Madrid	Madrid
@@ -976,7 +949,7 @@ Top5
 Entity Score = 0.902669, F1 = 0.800000, graph = madrid --> travel destination tourist attractions --> x
 Entity Score = 0.902669, F1 = 0.060606, graph = madrid --> location contains --> x
 Entity Score = 0.902669, F1 = 0.000000, graph = madrid --> place with neighborhoods neighborhoods --> x
-Entity Score = 0.902669, F1 = 0.000000, graph = madrid --> administrative division capital relationship administrative division --> x
+Entity Score = 0.902669, F1 = 0.000000, graph = madrid --> helynevek helynev --> x
 Entity Score = 0.902669, F1 = 0.000000, graph = madrid --> administrative area administrative parent --> x
 
 1030where did clay matthews go to school?	[u'Agoura High School', u'University of Southern California']	[u'University of Southern California']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	Clay Matthews III	Clay Matthews, Jr.
@@ -986,15 +959,15 @@ Entity Score = 0.108731, F1 = 0.666667, graph = clay matthews jr. --> education 
 Entity Score = 0.443585, F1 = 1.000000, graph = clay matthews iii --> education institution --> x
 Entity Score = 0.999871, F1 = 0.000000, graph = rutgers-camden --> educational institution campus educational institution --> x
 Entity Score = 0.999871, F1 = 0.000000, graph = rutgers-camden --> educational institution campuses --> x
-Entity Score = 0.108731, F1 = 0.000000, graph = clay matthews jr. --> person profession --> x
+Entity Score = 0.999871, F1 = 0.000000, graph = rutgers-camden --> mailing address citytown --> x
 
 1045what college did john stockton go to?	[u'Gonzaga University']	[u'Gonzaga Preparatory School', u'Gonzaga University']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	John Stockton	John Stockton
 Entity Score = 0.988785, F1 = 0.666667, graph = john stockton --> education institution --> x
 Top5
 Entity Score = 0.988785, F1 = 0.666667, graph = john stockton --> education institution --> x
 Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> x
-Entity Score = 0.988785, F1 = 0.000000, graph = john stockton --> person profession --> x
 Entity Score = 0.988785, F1 = 0.000000, graph = john stockton --> person place of birth --> x
+Entity Score = 0.988785, F1 = 0.000000, graph = john stockton --> person profession --> x
 Entity Score = 0.988785, F1 = 0.000000, graph = john stockton --> person religion --> x
 
 1051what language do they speak in malta?	[u'Maltese Language', u'English Language']	[u'English Language']	0.666666666667	location.country.official_language	location.country.languages_spoken	Malta	Malta
@@ -1003,8 +976,8 @@ Top5
 Entity Score = 0.785399, F1 = 0.666667, graph = malta --> country languages spoken --> x
 Entity Score = 0.785399, F1 = 1.000000, graph = malta --> country official language --> x
 Entity Score = 0.785399, F1 = 0.000000, graph = malta --> country form of government --> x
-Entity Score = 0.785399, F1 = 0.000000, graph = malta --> location nearby airports --> x
 Entity Score = 0.785399, F1 = 0.000000, graph = malta --> location contains --> x
+Entity Score = 0.785399, F1 = 0.000000, graph = malta --> location nearby airports --> x
 
 1062what is ella fitzgerald parents name?	[u'William Fitzgerald', u'Temperance Tempie Fitzgerald']	[u'William Fitzgerald', u'Temperance Fitzgerald']	0.5	people.person.parents	people.person.parents	Ella Fitzgerald	Ella Fitzgerald
 Entity Score = 0.996774, F1 = 0.500000, graph = ella fitzgerald --> person parents --> x
@@ -1023,6 +996,15 @@ Entity Score = 0.998460, F1 = 0.000000, graph = anne hutchinson --> person place
 Entity Score = 0.998460, F1 = 0.000000, graph = anne hutchinson --> deceased person place of death --> x
 Entity Score = 0.998460, F1 = 0.000000, graph = anne hutchinson --> person nationality --> x
 Entity Score = 0.155281, F1 = 0.000000, graph = states of india --> location containedby --> x
+
+1081what language do they use in pakistan?	[u'Seraiki Language', u'Hindustani language', u'Pashto language', u'Punjabi language', u'Brahui Language', u'Balochi language', u'English Language', u'Urdu Language', u'Sindhi Language', u'Hindko dialect']	[u'Seraiki Language', u'Hindustani language', u'Pashto language', u'Punjabi language', u'Brahui Language', '...']	0.952380952381	location.country.languages_spoken	location.country.languages_spoken	Pakistan	Pakistan
+Entity Score = 0.890645, F1 = 0.952381, graph = pakistan --> country languages spoken --> x
+Top5
+Entity Score = 0.890645, F1 = 0.952381, graph = pakistan --> country languages spoken --> x
+Entity Score = 0.890645, F1 = 0.333333, graph = pakistan --> country official language --> x
+Entity Score = 0.890645, F1 = 0.000000, graph = pakistan --> location contains --> x
+Entity Score = 0.890645, F1 = 0.000000, graph = pakistan --> location containedby --> x
+Entity Score = 0.890645, F1 = 0.000000, graph = pakistan --> location partially containedby --> x
 
 1088when did celtics win the championship?	[u'1969 NBA Finals', u'1986 NBA Finals', u'2008 NBA Finals', u'1974 NBA Finals', u'1984 NBA Finals', u'1965 NBA Finals', u'1966 NBA Finals', u'1976 NBA Finals', u'1981 NBA Finals', u'1968 NBA Finals']	[u'1969 NBA Finals', u'1957 NBA Finals', u'1986 NBA Finals', u'1963 NBA Finals', u'1960 NBA Finals', '...']	0.740740740741	sports.sports_team.championships	sports.sports_team.championships	Boston Celtics	Boston Celtics
 Entity Score = 0.958145, F1 = 0.740741, graph = boston celtics --> sports team championships --> x
@@ -1058,16 +1040,16 @@ Entity Score = 0.999960, F1 = 0.666667, graph = jacqueline kennedy onassis --> d
 Entity Score = 0.866598, F1 = 0.015873, graph = cancer --> cause of death includes causes of death --> x
 Entity Score = 0.866598, F1 = 0.007722, graph = cancer --> disease includes diseases --> x
 Entity Score = 0.866598, F1 = 0.000000, graph = cancer --> cause of death parent cause of death --> x
-Entity Score = 0.999960, F1 = 0.000000, graph = jacqueline kennedy onassis --> book subject works --> x
+Entity Score = 0.999960, F1 = 0.000000, graph = jacqueline kennedy onassis --> deceased person place of death --> x
 
 1134what team does josh hamilton play for?	[u'Texas Rangers', u'Los Angeles Angels of Anaheim']	[u'Texas Rangers']	0.666666666667	sports.pro_athlete.teams..sports.sports_team_roster.team	baseball.baseball_player.former_teams..sports.sports_team_roster.team	Josh Hamilton	Josh Hamilton
 Entity Score = 0.894428, F1 = 0.800000, graph = josh hamilton --> sports team roster team --> x
 Top5
+Entity Score = 0.894428, F1 = 0.666667, graph = josh hamilton --> sports team roster team --> x
+Entity Score = 0.894428, F1 = 0.666667, graph = josh hamilton --> sports team roster team --> x
 Entity Score = 0.894428, F1 = 0.800000, graph = josh hamilton --> sports team roster team --> x
-Entity Score = 0.894428, F1 = 0.666667, graph = josh hamilton --> sports team roster team --> x
-Entity Score = 0.894428, F1 = 0.666667, graph = josh hamilton --> sports team roster team --> x
 Entity Score = 0.894428, F1 = 0.500000, graph = josh hamilton --> batting statistics team --> x
-Entity Score = 0.894428, F1 = 0.500000, graph = josh hamilton --> baseball historical roster position team --> x
+Entity Score = 0.894428, F1 = 0.666667, graph = josh hamilton --> baseball historical roster position team --> x
 
 1143what kind of monarchy does japan have?	[u'Constitutional monarchy']	[u'Parliamentary system', u'Unitary state', u'Constitutional monarchy']	0.5	location.country.form_of_government	location.country.form_of_government	Japan	Japan
 Entity Score = 0.922833, F1 = 0.500000, graph = japan --> country form of government --> x
@@ -1093,8 +1075,8 @@ Top5
 Entity Score = 0.980407, F1 = 0.512821, graph = arabic language --> human language countries spoken in --> x
 Entity Score = 0.980407, F1 = 0.142857, graph = arabic language --> human language main country --> x
 Entity Score = 0.980407, F1 = 0.000000, graph = arabic language --> human language language family --> x
-Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> x
 Entity Score = 0.980407, F1 = 0.000000, graph = arabic language --> human language writing system --> x
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> x
 
 1184where did john steinbeck go to college?	[u'Stanford University']	[u'Stanford University', u'Salinas High School']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	John Steinbeck	John Steinbeck
 Entity Score = 0.968270, F1 = 0.666667, graph = john steinbeck --> education institution --> x
@@ -1102,8 +1084,8 @@ Top5
 Entity Score = 0.968270, F1 = 0.666667, graph = john steinbeck --> education institution --> x
 Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> x
 Entity Score = 0.968270, F1 = 0.000000, graph = john steinbeck --> place lived location --> x
-Entity Score = 0.968270, F1 = 0.000000, graph = john steinbeck --> person profession --> x
 Entity Score = 0.968270, F1 = 0.000000, graph = john steinbeck --> person place of birth --> x
+Entity Score = 0.968270, F1 = 0.000000, graph = john steinbeck --> deceased person place of death --> x
 
 1189what was sir isaac newton's inventions?	[u'Reflecting telescope']	[u'Reflecting telescope', u'Pet door']	0.666666666667	law.inventor.inventions	law.inventor.inventions	Isaac Newton	Isaac Newton
 Entity Score = 1.000000, F1 = 0.666667, graph = isaac newton --> inventor inventions --> x
@@ -1119,8 +1101,8 @@ Entity Score = 0.994360, F1 = 0.740741, graph = albert einstein --> influence no
 Top5
 Entity Score = 0.994360, F1 = 0.740741, graph = albert einstein --> influence node influenced by --> x
 Entity Score = 0.994360, F1 = 0.000000, graph = albert einstein --> peer relationship peers --> x
-Entity Score = 0.994360, F1 = 0.000000, graph = albert einstein --> influence node influenced --> x
 Entity Score = 0.994360, F1 = 0.000000, graph = albert einstein --> organization founder organizations founded --> x
+Entity Score = 0.994360, F1 = 0.000000, graph = albert einstein --> influence node influenced --> x
 Entity Score = 0.994360, F1 = 0.000000, graph = albert einstein --> person profession --> x
 
 1205where is olympic national park located?	[u'Washington']	[u'Jefferson County', u'Washington']	0.666666666667	location.location.containedby	location.location.containedby	Olympic National Park	Olympic National Park
@@ -1148,7 +1130,7 @@ Entity Score = 0.969261, F1 = 0.500000, graph = whitney houston --> deceased per
 Entity Score = 0.969261, F1 = 0.000000, graph = whitney houston --> book subject works --> x
 Entity Score = 0.185076, F1 = 0.000000, graph = medicine --> book subject works --> x
 Entity Score = 0.185076, F1 = 0.000000, graph = medicine --> religion deities --> x
-Entity Score = 0.969261, F1 = 0.000000, graph = whitney houston --> performance character --> x
+Entity Score = 0.969261, F1 = 0.000000, graph = whitney houston --> award honor honored for --> x
 
 1248what city and state is yale located in?	[u'Connecticut']	[u'Connecticut', u'New Haven', u'United States of America']	0.5	location.location.containedby	location.location.containedby	Yale University	Yale University
 Entity Score = 0.727727, F1 = 0.500000, graph = yale university --> location containedby --> x
@@ -1163,8 +1145,8 @@ Entity Score = 0.596032, F1 = 0.000000, graph = city --> book subject works --> 
 Entity Score = 0.956381, F1 = 0.909091, graph = william shakespeare --> person profession --> x
 Top5
 Entity Score = 0.956381, F1 = 0.909091, graph = william shakespeare --> person profession --> x
-Entity Score = 1.000000, F1 = 0.142857, graph = diablo cody --> person profession --> x
 Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> fictional character creator fictional characters created --> x
+Entity Score = 1.000000, F1 = 0.142857, graph = diablo cody --> person profession --> x
 Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> author works written --> x
 Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> film story contributor film story credits --> x
 
@@ -1183,8 +1165,8 @@ Top5
 Entity Score = 0.887560, F1 = 0.500000, graph = united states of america --> country form of government --> x
 Entity Score = 0.887560, F1 = 0.000000, graph = united states of america --> location contains --> x
 Entity Score = 0.887560, F1 = 0.000000, graph = united states of america --> travel destination tourist attractions --> x
+Entity Score = 0.887560, F1 = 0.000000, graph = united states of america --> location in fiction contains --> x
 Entity Score = 0.887560, F1 = 0.000000, graph = united states of america --> imports and exports imported from --> x
-Entity Score = 0.887560, F1 = 0.000000, graph = united states of america --> military combatant group combatants --> x
 
 1268what language do people speak in brazil?	[u'Portuguese Language']	[u'Brazilian Portuguese', u'Portuguese Language', u'Italian Language']	0.5	location.country.languages_spoken	location.country.languages_spoken	Brazil	Brazil
 Entity Score = 0.797211, F1 = 0.500000, graph = brazil --> country languages spoken --> x
@@ -1201,16 +1183,16 @@ Top5
 Entity Score = 0.999968, F1 = 0.500000, graph = justin bieber --> group member instruments played --> x
 Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> track contribution role --> x
 Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> artist genre --> x
-Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> recording contribution album --> x
 Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> track contribution track --> x
+Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> recording contribution album --> x
 
 1287where did michelle obama graduated from?	[u'Harvard Law School', u'Whitney M. Young Magnet High School', u'Princeton University']	[u'Harvard Law School', u'Whitney M. Young Magnet High School', u'Princeton University', u'Harvard University']	0.857142857143	people.person.education..education.education.institution	people.person.education..education.education.institution	Michelle Obama	Michelle Obama
 Entity Score = 0.999986, F1 = 0.857143, graph = michelle obama --> education institution --> x
 Top5
 Entity Score = 0.999986, F1 = 0.857143, graph = michelle obama --> education institution --> x
-Entity Score = 0.999986, F1 = 0.000000, graph = michelle obama --> employment tenure company --> x
 Entity Score = 0.999986, F1 = 0.000000, graph = michelle obama --> person place of birth --> x
-Entity Score = 1.000000, F1 = 0.000000, graph = porter-gaud school --> educational institution campus educational institution --> x
+Entity Score = 0.999986, F1 = 0.000000, graph = michelle obama --> employment tenure company --> x
+Entity Score = 0.999986, F1 = 0.000000, graph = michelle obama --> person nationality --> x
 Entity Score = 0.999986, F1 = 0.000000, graph = michelle obama --> person profession --> x
 
 1291what is the political system in germany?	[u'Constitutional republic', u'Multi-party system', u'Federal republic', u'Democracy', u'Parliamentary republic']	[u'Representative democracy', u'Constitutional republic', u'Federal republic', u'Parliamentary republic']	0.666666666667	location.country.form_of_government	location.country.form_of_government	Germany	Germany
@@ -1221,15 +1203,6 @@ Entity Score = 0.260642, F1 = 0.666667, graph = germany --> country form of gove
 Entity Score = 0.892185, F1 = 0.000000, graph = germany --> location contains --> x
 Entity Score = 0.892185, F1 = 0.000000, graph = germany --> travel destination tourist attractions --> x
 Entity Score = 0.260642, F1 = 0.000000, graph = germany --> location contains --> x
-
-1302which country was justin bieber born in?	[u'Canada']	[u'Canada', u'Stratford']	0.666666666667	people.person.nationality	people.person.places_lived..people.place_lived.location	Justin Bieber	Justin Bieber
-Entity Score = 0.999968, F1 = 1.000000, graph = justin bieber --> person nationality --> x
-Top5
-Entity Score = 0.999968, F1 = 0.666667, graph = justin bieber --> place lived location --> x
-Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> person place of birth --> x
-Entity Score = 0.999968, F1 = 1.000000, graph = justin bieber --> person nationality --> x
-Entity Score = 0.622210, F1 = 0.000000, graph = country --> book subject works --> x
-Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> award nomination award nominee --> x
 
 1307what high school did maya angelou go to?	[u'George Washington High School']	[u'George Washington High School', u'California Labor School']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	Maya Angelou	Maya Angelou
 Entity Score = 0.930088, F1 = 0.666667, graph = maya angelou --> education institution --> x
@@ -1247,7 +1220,7 @@ Entity Score = 0.986830, F1 = 0.500000, graph = gordon brown --> education insti
 Entity Score = 0.790237, F1 = 0.000000, graph = university --> school category schools of this kind --> x
 Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> education major field of study --> x
 Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> political party tenure party --> x
-Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> person profession --> x
+Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> place lived location --> x
 
 1325what type of government did mexico have?	[u'Federal republic']	[u'Constitutional republic', u'Presidential system', u'Federal republic']	0.5	location.country.form_of_government	location.country.form_of_government	Mexico	Mexico
 Entity Score = 0.826744, F1 = 0.500000, graph = mexico --> country form of government --> x
@@ -1258,22 +1231,13 @@ Entity Score = 0.826744, F1 = 0.000000, graph = mexico --> imports and exports i
 Entity Score = 0.826744, F1 = 0.000000, graph = mexico --> imports and exports exported to --> x
 Entity Score = 0.826744, F1 = 0.000000, graph = mexico --> adjoining relationship adjoins --> x
 
-1327what to do with kids in summer in dubai?	[u'Mushrif Park', u'Dubai Zoo', u'Fish Roundabout', u'Jumeirah Beach', u'Dubai International Convention Centre', u'Grand mosque', u'The Dubai Mall', u'Wild Wadi Water Park', u'Dubai Museum', u'Deira Clocktower']	[u'Dubai Creek', u'Dubai Autodrome', u'Mushrif Park', u'Burj Khalifa', u'Dubai Zoo', '...']	0.642857142857	travel.travel_destination.tourist_attractions	travel.travel_destination.tourist_attractions	Dubai	Dubai
-Entity Score = 0.908616, F1 = 0.642857, graph = dubai --> travel destination tourist attractions --> x
-Top5
-Entity Score = 0.908616, F1 = 0.642857, graph = dubai --> travel destination tourist attractions --> x
-Entity Score = 0.908616, F1 = 0.020408, graph = dubai --> location contains --> x
-Entity Score = 0.908616, F1 = 0.000000, graph = dubai --> place with neighborhoods neighborhoods --> x
-Entity Score = 0.746314, F1 = 0.000000, graph = summer --> administrative division capital relationship capital --> x
-Entity Score = 0.908616, F1 = 0.000000, graph = dubai --> imports and exports exported to --> x
-
 1336what school did douglas macarthur go to?	[u'TMI \u2014 The Episcopal School of Texas']	[u'United States Military Academy', u'TMI \u2014 The Episcopal School of Texas']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	Douglas MacArthur	Douglas MacArthur
 Entity Score = 0.991985, F1 = 0.666667, graph = douglas macarthur --> education institution --> x
 Top5
 Entity Score = 0.991985, F1 = 0.666667, graph = douglas macarthur --> education institution --> x
 Entity Score = 0.991985, F1 = 0.000000, graph = douglas macarthur --> activist area of activism --> x
-Entity Score = 0.991985, F1 = 0.000000, graph = douglas macarthur --> person profession --> x
 Entity Score = 0.991985, F1 = 0.000000, graph = douglas macarthur --> organization founder organizations founded --> x
+Entity Score = 0.991985, F1 = 0.000000, graph = douglas macarthur --> person profession --> x
 Entity Score = 0.991985, F1 = 0.000000, graph = douglas macarthur --> book subject works --> x
 
 1337which countries speak german officially?	[u'Canada', u'German Democratic Republic', u'Luxembourg', u'Switzerland', u'Liechtenstein', u'Germany', u'West Germany', u'Belgium', u'Vatican City', u'Second Polish Republic']	[u'Canada', u'Czech Republic', u'South Africa', u'Denmark', u'German Democratic Republic', '...']	0.769230769231	language.human_language.countries_spoken_in	language.human_language.countries_spoken_in	German Language	German Language
@@ -1292,7 +1256,7 @@ Entity Score = 0.979691, F1 = 0.909091, graph = john mayer --> artist genre --> 
 Entity Score = 0.979691, F1 = 0.000000, graph = john mayer --> guitarist guitars played --> x
 Entity Score = 0.979691, F1 = 0.000000, graph = john mayer --> group member instruments played --> x
 Entity Score = 0.536762, F1 = 0.000000, graph = music --> literary genre books in this genre --> x
-Entity Score = 0.979691, F1 = 0.000000, graph = john mayer --> track contribution role --> x
+Entity Score = 0.685714, F1 = 0.000000, graph = bossa nova --> genre parent genre --> x
 
 1367who did reese witherspoon get married to?	[u'Ryan Phillippe']	[u'Ryan Phillippe', u'Jim Toth']	0.666666666667	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Reese Witherspoon	Reese Witherspoon
 Entity Score = 0.994745, F1 = 0.666667, graph = reese witherspoon --> marriage spouse --> x
@@ -1319,7 +1283,7 @@ Entity Score = 0.808680, F1 = 0.500000, graph = f. scott fitzgerald --> educatio
 Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> x
 Entity Score = 0.808680, F1 = 0.000000, graph = f. scott fitzgerald --> place lived location --> x
 Entity Score = 0.808680, F1 = 0.000000, graph = f. scott fitzgerald --> deceased person place of death --> x
-Entity Score = 0.808680, F1 = 0.000000, graph = f. scott fitzgerald --> person profession --> x
+Entity Score = 0.117589, F1 = 0.000000, graph = scott fitzgerald --> place lived location --> x
 
 1434who is in the american league in baseball?	[u'Chicago White Sox', u'Baltimore Orioles', u'Los Angeles Angels of Anaheim', u'Detroit Tigers', u'Boston Red Sox', u'New York Yankees', u'Oakland Athletics', u'Minnesota Twins', u'Cleveland Indians', u'Kansas City Royals']	[u'California Angels', u'New York Highlanders', u'Baltimore Orioles', u'St. Louis Browns', u'Chicago White Stockings', '...']	0.511363636364	baseball.baseball_league.teams	sports.sports_league.teams..sports.sports_league_participation.team	American League	American League
 Entity Score = 0.999980, F1 = 0.689655, graph = american league --> baseball league teams --> x
@@ -1327,17 +1291,26 @@ Top5
 Entity Score = 0.999980, F1 = 0.511364, graph = american league --> sports league participation team --> x
 Entity Score = 0.850211, F1 = 0.181818, graph = baseball --> sport played by clubs --> x
 Entity Score = 0.850211, F1 = 0.044280, graph = baseball --> sport teams --> x
+Entity Score = 0.999980, F1 = 0.689655, graph = american league --> baseball league teams --> x
 Entity Score = 0.850211, F1 = 0.000000, graph = baseball --> book subject works --> x
-Entity Score = 0.999980, F1 = 0.000000, graph = american league --> employment tenure person --> x
 
 1438who will plaxico burress play for in 2011?	[u'New York Jets']	[u'New York Giants', u'Pittsburgh Steelers', u'New York Jets']	0.5	american_football.football_player.former_teams..american_football.football_historical_roster_position.team	american_football.football_player.former_teams..american_football.football_historical_roster_position.team	Plaxico Burress	Plaxico Burress
 Entity Score = 1.000000, F1 = 0.500000, graph = plaxico burress --> football historical roster position team --> x
 Top5
 Entity Score = 1.000000, F1 = 0.500000, graph = plaxico burress --> football historical roster position team --> x
 Entity Score = 1.000000, F1 = 0.500000, graph = plaxico burress --> football historical roster position team --> x
+Entity Score = 1.000000, F1 = 0.500000, graph = plaxico burress --> sports team roster team --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = plaxico burress --> sports team roster team --> x
 Entity Score = 1.000000, F1 = 0.500000, graph = plaxico burress --> sports team roster team --> x
-Entity Score = 1.000000, F1 = 0.500000, graph = plaxico burress --> sports team roster team --> x
+
+1440what is the name of sonia gandhi daughter?	[u'Priyanka Vadra']	[u'Priyanka Vadra', u'Rahul Gandhi']	0.666666666667	people.person.children	people.person.children	Sonia Gandhi	Sonia Gandhi
+Entity Score = 0.999986, F1 = 0.666667, graph = sonia gandhi --> person children --> x
+Top5
+Entity Score = 0.999986, F1 = 0.666667, graph = sonia gandhi --> person children --> x
+Entity Score = 0.418958, F1 = 0.000000, graph = daughter --> book subject works --> x
+Entity Score = 0.999986, F1 = 0.000000, graph = sonia gandhi --> person parents --> x
+Entity Score = 0.999986, F1 = 0.000000, graph = sonia gandhi --> marriage spouse --> x
+Entity Score = 0.999986, F1 = 0.000000, graph = sonia gandhi --> author works written --> x
 
 1445what other movies has tom hardy played in?	[u'Warrior', u'Mad Max: Fury Road', u'Thick as Thieves', u'Lawless', u'This Means War', u'Tinker, Tailor, Soldier, Spy', u'Bronson', u'The Dark Knight Rises', u'Inception', u'Sergeant Slaughter, My Big Brother']	[u'Warrior', u'Tinker, Tailor, Soldier, Spy', u'Bronson', u'Star Trek Nemesis', u'The Dark Knight Rises', '...']	0.588235294118	film.actor.film..film.performance.film	award.award_nominee.award_nominations..award.award_nomination.nominated_for	Tom Hardy	Tom Hardy
 Entity Score = 0.962177, F1 = 0.416667, graph = tom hardy --> performance film --> x
@@ -1353,9 +1326,9 @@ Entity Score = 0.807384, F1 = 0.666667, graph = nigeria --> country form of gove
 Top5
 Entity Score = 0.807384, F1 = 0.666667, graph = nigeria --> country form of government --> x
 Entity Score = 0.807384, F1 = 0.000000, graph = nigeria --> country official language --> x
-Entity Score = 0.807384, F1 = 0.000000, graph = nigeria --> location contains --> x
 Entity Score = 0.807384, F1 = 0.000000, graph = nigeria --> country languages spoken --> x
-Entity Score = 0.107406, F1 = 0.000000, graph = nigeria national football team --> sports team founded --> x
+Entity Score = 0.807384, F1 = 0.000000, graph = nigeria --> location contains --> x
+Entity Score = 0.107406, F1 = 0.000000, graph = nigeria national football team --> sports team championships --> x
 
 1450what district does nancy pelosi represent?	[u'California\u2019s 5th congressional district', u'California\u2019s 8th congressional district', u'California\u2019s 12th congressional district']	[u'California\u2019s 5th congressional district', u'California\u2019s 8th congressional district']	0.8	government.politician.government_positions_held..government.government_position_held.district_represented	base.government2.elected_official.elected_positions_held..base.government2.elected_government_positions_held.district_represented	Nancy Pelosi	Nancy Pelosi
 Entity Score = 0.999977, F1 = 1.000000, graph = nancy pelosi --> government position held district represented --> x
@@ -1371,9 +1344,9 @@ Entity Score = 1.000000, F1 = 0.666667, graph = malaysia --> country form of gov
 Top5
 Entity Score = 1.000000, F1 = 0.666667, graph = malaysia --> country form of government --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = malaysia --> location contains --> x
+Entity Score = 1.000000, F1 = 0.000000, graph = malaysia --> country official language --> x
+Entity Score = 1.000000, F1 = 0.000000, graph = malaysia --> country languages spoken --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = malaysia --> adjoining relationship adjoins --> x
-Entity Score = 1.000000, F1 = 0.000000, graph = malaysia --> imports and exports exported to --> x
-Entity Score = 1.000000, F1 = 0.000000, graph = malaysia --> imports and exports imported from --> x
 
 1478what kind of language does colombia speak?	[u'Wiwa language', u'Uw Cuwa', u'Andoque language', u'Spanish Language', u'Cams\xe1 Language', u'Cogui Language', u'Guambiano Language', u'P\xe1ez language', u'Arhuaco Language']	[u'P\xe1ez language', u'Wiwa language', u'Spanish Language', u"U'wa language", u'Andoque language', '...']	0.888888888889	location.country.languages_spoken	location.country.languages_spoken	Colombia	Colombia
 Entity Score = 0.843416, F1 = 0.888889, graph = colombia --> country languages spoken --> x
@@ -1416,8 +1389,8 @@ Entity Score = 0.868275, F1 = 0.500000, graph = france --> country form of gover
 Top5
 Entity Score = 0.868275, F1 = 0.500000, graph = france --> country form of government --> x
 Entity Score = 0.868275, F1 = 0.000000, graph = france --> location contains --> x
-Entity Score = 0.868275, F1 = 0.000000, graph = france --> military combatant group combatants --> x
 Entity Score = 0.868275, F1 = 0.000000, graph = france --> country first level divisions --> x
+Entity Score = 0.868275, F1 = 0.000000, graph = france --> military combatant group combatants --> x
 Entity Score = 0.868275, F1 = 0.000000, graph = france --> adjoining relationship adjoins --> x
 
 1502what prompted shakespeare to write poetry?	[u'Thomas More', u'Ovid', u'Geoffrey Chaucer', u'Plutarch', u'Terence', u'Thomas Kyd', u'Plautus', u'Michel de Montaigne', u'John Pory', u'Christopher Marlowe']	[u'Edmund Spenser', u'Thomas More', u'Lucian', u'Ovid', u'Geoffrey Chaucer', '...']	0.833333333333	influence.influence_node.influenced_by	influence.influence_node.influenced_by	William Shakespeare	William Shakespeare
@@ -1427,16 +1400,7 @@ Entity Score = 0.956381, F1 = 0.833333, graph = william shakespeare --> influenc
 Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> film story contributor film story credits --> x
 Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> author works written --> x
 Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> person profession --> x
-Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> person children --> x
-
-1512what other books did charles dickens write?	[u'The Chimes', u'Our Mutual Friend', u'The Old Curiosity Shop', u'David Copperfield', u'A Christmas Carol', u'The Cricket on the Hearth', u'The Life and Adventures of Nicholas Nickleby', u'Hard Times', u'Oliver Twist', u'A Tale of Two Cities']	[u'Nicholas Nickleby', u'David Copperfield', u'A Christmas Carol', u"A Diva's Christmas Carol", u'Twisted', '...']	0.539109506619	book.author.works_written	film.film_story_contributor.film_story_credits	Charles Dickens	Charles Dickens
-Entity Score = 0.979025, F1 = 0.089552, graph = charles dickens --> author works written --> x
-Top5
-Entity Score = 0.979025, F1 = 0.539110, graph = charles dickens --> film story contributor film story credits --> x
-Entity Score = 0.979025, F1 = 0.057143, graph = charles dickens --> fictional character creator fictional characters created --> x
-Entity Score = 0.979025, F1 = 0.257081, graph = charles dickens --> author book editions published --> x
-Entity Score = 0.979025, F1 = 0.089552, graph = charles dickens --> author works written --> x
-Entity Score = 0.979025, F1 = 0.000000, graph = charles dickens --> writer film --> x
+Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> author book editions published --> x
 
 1517what to see and do in vancouver washington?	[u'Slocum House', u'Fort Vancouver', u'Fort Vancouver Barracks Officers Row', u'Fort Vancouver National Historic Site', u'Vancouver National Historic Reserve Historic District', u'Officers Row', u'House of Providence', u'Covington House', u'Evergreen Hotel', u'Hidden Houses']	[u'Covington House', u'Carnegie Library Vancouver, Washington', u'Evergreen Hotel', u'House of Providence', u'Vancouver-Portland Bridge', '...']	0.666666666667	location.location.contains	location.location.contains	Vancouver	Vancouver
 Entity Score = 0.999002, F1 = 0.666667, graph = vancouver --> location contains --> x
@@ -1444,8 +1408,8 @@ Top5
 Entity Score = 0.999002, F1 = 0.666667, graph = vancouver --> location contains --> x
 Entity Score = 0.999002, F1 = 0.000000, graph = vancouver --> adjoining relationship adjoins --> x
 Entity Score = 0.999002, F1 = 0.000000, graph = vancouver --> hud county place county --> x
+Entity Score = 0.999002, F1 = 0.000000, graph = vancouver --> location events --> x
 Entity Score = 0.999002, F1 = 0.000000, graph = vancouver --> location containedby --> x
-Entity Score = 0.999002, F1 = 0.000000, graph = vancouver --> administrative division capital relationship administrative division --> x
 
 1519what language group does germany belong to?	[u'Bavarian Language', u'German Language', u'Saxon, Upper Language']	[u'German Language']	0.5	location.country.languages_spoken	location.country.official_language	Germany	Germany
 Entity Score = 0.892185, F1 = 1.000000, graph = germany --> country languages spoken --> x
@@ -1461,9 +1425,9 @@ Entity Score = 0.880518, F1 = 0.666667, graph = australia --> country form of go
 Top5
 Entity Score = 0.880518, F1 = 0.666667, graph = australia --> country form of government --> x
 Entity Score = 0.880518, F1 = 0.000000, graph = australia --> location contains --> x
+Entity Score = 0.880518, F1 = 0.000000, graph = australia --> country languages spoken --> x
+Entity Score = 0.880518, F1 = 0.000000, graph = australia --> country capital --> x
 Entity Score = 0.880518, F1 = 0.000000, graph = australia --> imports and exports imported from --> x
-Entity Score = 0.880518, F1 = 0.000000, graph = australia --> imports and exports exported to --> x
-Entity Score = 0.880518, F1 = 0.000000, graph = australia --> adjoining relationship adjoins --> x
 
 1529what are the beliefs of the roman catholic?	[u'Jesus Christ', u'Paul the Apostle', u'Saint Augustine of Hippo']	[u'Jesus Christ', u'Augustine of Hippo', u'Paul the Apostle']	0.666666666667	organization.organization.founders	organization.organization.founders	Roman Catholic Church	Roman Catholic Church
 Entity Score = 0.967087, F1 = 0.666667, graph = roman catholic church --> organization founders --> x
@@ -1472,7 +1436,7 @@ Entity Score = 0.967087, F1 = 0.666667, graph = roman catholic church --> organi
 Entity Score = 0.967087, F1 = 0.000000, graph = roman catholic church --> religious organization associated with --> x
 Entity Score = 0.967087, F1 = 0.000000, graph = roman catholic church --> employment tenure person --> x
 Entity Score = 0.967087, F1 = 0.000000, graph = roman catholic church --> book subject works --> x
-Entity Score = 0.967087, F1 = 0.000000, graph = roman catholic church --> religious organization leadership jurisdiction --> x
+Entity Score = 0.166792, F1 = 0.000000, graph = the roman --> performance film --> x
 
 1534what events lead to the battle of antietam?	[u'Maryland Campaign', u'American Civil War']	[u'American Civil War', u'Overland Campaign']	0.5	time.event.included_in_event	time.event.included_in_event	Battle of Antietam	Battle of Cold Harbor
 Entity Score = 0.999883, F1 = 1.000000, graph = battle of antietam --> event included in event --> x
@@ -1507,8 +1471,8 @@ Top5
 Entity Score = 0.999848, F1 = 0.666667, graph = michigan --> location time zones --> x
 Entity Score = 0.448276, F1 = 0.000000, graph = arizona --> location time zones --> x
 Entity Score = 0.999848, F1 = 0.000000, graph = michigan --> book subject works --> x
-Entity Score = 0.448276, F1 = 0.000000, graph = arizona --> book subject works --> x
 Entity Score = 0.999848, F1 = 0.000000, graph = michigan --> location symbol relationship symbol --> x
+Entity Score = 0.999848, F1 = 0.000000, graph = michigan --> location contains --> x
 
 1563who played captain kirk in star trek movie?	[u'William Shatner']	[u'Jimmy Bennett', u'Chris Pine', u'William Shatner']	0.5	film.film_character.portrayed_in_films..film.performance.actor	film.film_character.portrayed_in_films..film.performance.actor	James T. Kirk	James T. Kirk
 Entity Score = 0.911377, F1 = 0.500000, graph = james t. kirk --> performance actor --> x
@@ -1544,7 +1508,7 @@ Entity Score = 0.985882, F1 = 0.666667, graph = bangalore --> location time zone
 Entity Score = 0.985882, F1 = 0.000000, graph = bangalore --> location events --> x
 Entity Score = 0.985882, F1 = 0.000000, graph = bangalore --> location contains --> x
 Entity Score = 0.985882, F1 = 0.000000, graph = bangalore --> location nearby airports --> x
-Entity Score = 0.254112, F1 = 0.000000, graph = time --> book subject works --> x
+Entity Score = 0.985882, F1 = 0.000000, graph = bangalore --> travel destination tourist attractions --> x
 
 1599what language do people from thailand speak?	[u'Mon Language', u'Lao Language', u'Khmer language', u'Hmong language', u'Thai Language', u'Cham language', u'Mlabri language', u'Malay, Pattani Language', u'Nyaw Language', u'Saek language']	[u'Mon Language', u'Lao Language', u'Khmer language', u'Hmong language', u'Akha language', '...']	0.869565217391	location.country.languages_spoken	location.country.languages_spoken	Thailand	Thailand
 Entity Score = 0.852567, F1 = 0.869565, graph = thailand --> country languages spoken --> x
@@ -1552,8 +1516,8 @@ Top5
 Entity Score = 0.852567, F1 = 0.869565, graph = thailand --> country languages spoken --> x
 Entity Score = 0.852567, F1 = 0.181818, graph = thailand --> country official language --> x
 Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> x
-Entity Score = 0.852567, F1 = 0.000000, graph = thailand --> country form of government --> x
 Entity Score = 0.999863, F1 = 0.000000, graph = st davids --> location containedby --> x
+Entity Score = 0.852567, F1 = 0.000000, graph = thailand --> country form of government --> x
 
 1601what kind of language do they speak in iran?	[u'Turkmen Language', u'Pashto language', u'Kurdish language', u'Gilaki Language', u'Assyrian Neo-Aramaic Language', u'Azerbaijani language', u'Armenian Language', u'Persian Language', u'Mazanderani Language', u'Luri language']	[u'Talysh language', u'Afshar language', u'Turkmen Language', u'Pashto language', u'Balochi language', '...']	0.740740740741	location.country.languages_spoken	location.country.languages_spoken	Iran	Iran
 Entity Score = 0.893266, F1 = 0.740741, graph = iran --> country languages spoken --> x
@@ -1571,15 +1535,15 @@ Entity Score = 0.797211, F1 = 0.500000, graph = brazil --> country languages spo
 Entity Score = 0.797211, F1 = 1.000000, graph = brazil --> country official language --> x
 Entity Score = 0.797211, F1 = 0.000000, graph = brazil --> country form of government --> x
 Entity Score = 0.797211, F1 = 0.000000, graph = brazil --> location contains --> x
-Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> x
+Entity Score = 0.797211, F1 = 0.000000, graph = brazil --> location containedby --> x
 
 1610what kind of equipment did isaac newton use?	[u'Reflecting telescope']	[u'Reflecting telescope', u'Pet door']	0.666666666667	law.inventor.inventions	law.inventor.inventions	Isaac Newton	Isaac Newton
 Entity Score = 0.991583, F1 = 0.666667, graph = isaac newton --> inventor inventions --> x
 Top5
 Entity Score = 0.991583, F1 = 0.666667, graph = isaac newton --> inventor inventions --> x
 Entity Score = 0.991583, F1 = 0.000000, graph = isaac newton --> innovator original ideas --> x
-Entity Score = 0.991583, F1 = 0.000000, graph = isaac newton --> author book editions published --> x
 Entity Score = 0.991583, F1 = 0.000000, graph = isaac newton --> author works written --> x
+Entity Score = 0.991583, F1 = 0.000000, graph = isaac newton --> author book editions published --> x
 Entity Score = 0.991583, F1 = 0.000000, graph = isaac newton --> book subject works --> x
 
 1630where were the great pyramids of giza built?	[u'Giza Plateau']	[u'Egypt', u'Giza Plateau']	0.666666666667	location.location.containedby	location.location.containedby	Great Pyramid of Giza	Great Pyramid of Giza
@@ -1605,9 +1569,9 @@ Entity Score = 0.938426, F1 = 0.500000, graph = pennsylvania --> location time z
 Top5
 Entity Score = 0.938426, F1 = 0.500000, graph = pennsylvania --> location time zones --> x
 Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist track --> x
-Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> book subject works --> x
 Entity Score = 0.254112, F1 = 0.000000, graph = time --> book subject works --> x
-Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> location events --> x
+Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> book subject works --> x
+Entity Score = 0.938426, F1 = 0.000000, graph = pennsylvania --> location nearby airports --> x
 
 1643what type of government does australia have?	[u'Parliamentary system', u'Federation', u'Constitutional monarchy']	[u'Parliamentary system', u'Federal monarchy', u'Constitutional monarchy']	0.666666666667	location.country.form_of_government	location.country.form_of_government	Australia	Australia
 Entity Score = 0.880518, F1 = 0.666667, graph = australia --> country form of government --> x
@@ -1615,8 +1579,8 @@ Top5
 Entity Score = 0.880518, F1 = 0.666667, graph = australia --> country form of government --> x
 Entity Score = 0.880518, F1 = 0.000000, graph = australia --> location contains --> x
 Entity Score = 0.880518, F1 = 0.000000, graph = australia --> imports and exports imported from --> x
+Entity Score = 0.880518, F1 = 0.000000, graph = australia --> government position held district represented --> x
 Entity Score = 0.880518, F1 = 0.000000, graph = australia --> adjoining relationship adjoins --> x
-Entity Score = 0.880518, F1 = 0.000000, graph = australia --> imports and exports exported to --> x
 
 1661where did the battle of passchendaele happen?	[u'Passendale']	[u'Flanders', u'Passendale']	0.666666666667	time.event.locations	time.event.locations	Battle of Passchendaele	Battle of Passchendaele
 Entity Score = 1.000000, F1 = 0.666667, graph = battle of passchendaele --> event locations --> x
@@ -1633,8 +1597,8 @@ Top5
 Entity Score = 0.851261, F1 = 0.500000, graph = italy --> country form of government --> x
 Entity Score = 0.851261, F1 = 0.000000, graph = italy --> location contains --> x
 Entity Score = 0.851261, F1 = 0.000000, graph = italy --> military combatant group combatants --> x
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> country official language --> x
 Entity Score = 0.851261, F1 = 0.000000, graph = italy --> adjoining relationship adjoins --> x
-Entity Score = 0.851261, F1 = 0.000000, graph = italy --> imports and exports exported to --> x
 
 1688what type of government does germany have now?	[u'Constitutional republic', u'Multi-party system', u'Federal republic', u'Democracy', u'Parliamentary republic']	[u'Representative democracy', u'Constitutional republic', u'Federal republic', u'Parliamentary republic']	0.666666666667	location.country.form_of_government	location.country.form_of_government	Germany	Germany
 Entity Score = 0.892185, F1 = 0.666667, graph = germany --> country form of government --> x
@@ -1642,8 +1606,8 @@ Top5
 Entity Score = 0.892185, F1 = 0.666667, graph = germany --> country form of government --> x
 Entity Score = 0.892185, F1 = 0.000000, graph = germany --> location contains --> x
 Entity Score = 0.892185, F1 = 0.000000, graph = germany --> travel destination tourist attractions --> x
+Entity Score = 0.892185, F1 = 0.003490, graph = germany --> book subject works --> x
 Entity Score = 0.892185, F1 = 0.000000, graph = germany --> military combatant group combatants --> x
-Entity Score = 0.892185, F1 = 0.000000, graph = germany --> imports and exports exported to --> x
 
 1693what is the zip code for schenectady new york?	[u'12325', u'12305', u'12304', u'12307', u'12306', u'12301', u'12303', u'12302', u'12345', u'12308']	[u'12325', u'12345', u'12305', u'12304', u'12307', '...']	0.952380952381	location.citytown.postal_codes	location.citytown.postal_codes	Schenectady	Schenectady
 Entity Score = 1.000000, F1 = 0.952381, graph = schenectady --> citytown postal codes --> x
@@ -1659,9 +1623,9 @@ Entity Score = 0.946849, F1 = 0.933333, graph = central america --> location con
 Top5
 Entity Score = 0.946849, F1 = 0.933333, graph = central america --> location contains --> x
 Entity Score = 0.946849, F1 = 0.000000, graph = central america --> location containedby --> x
-Entity Score = 0.946849, F1 = 0.000000, graph = central america --> location events --> x
 Entity Score = 0.946849, F1 = 0.000000, graph = central america --> book subject works --> x
-Entity Score = 0.836924, F1 = 0.000000, graph = the seven --> tv guest role actor --> x
+Entity Score = 0.946849, F1 = 0.000000, graph = central america --> location events --> x
+Entity Score = 0.147722, F1 = 0.000000, graph = seven nations --> artist track --> x
 
 1711what type of government did soviet union have?	[u'Communist state']	[u'Soviet democracy', u'Communist state', u'Socialist state']	0.5	location.country.form_of_government	location.country.form_of_government	Soviet Union	Soviet Union
 Entity Score = 0.955994, F1 = 0.500000, graph = soviet union --> country form of government --> x
@@ -1670,7 +1634,7 @@ Entity Score = 0.955994, F1 = 0.500000, graph = soviet union --> country form of
 Entity Score = 0.955994, F1 = 0.000000, graph = soviet union --> location contains --> x
 Entity Score = 0.955994, F1 = 0.000000, graph = soviet union --> adjoining relationship adjoins --> x
 Entity Score = 0.955994, F1 = 0.000000, graph = soviet union --> military combatant group combatants --> x
-Entity Score = 0.955994, F1 = 0.000000, graph = soviet union --> government position held office holder --> x
+Entity Score = 0.955994, F1 = 0.000000, graph = soviet union --> country official language --> x
 
 1726what type of government does russia have 2010?	[u'Semi-presidential system', u'Constitutional republic', u'Republic', u'Federation']	[u'Semi-presidential system', u'Constitutional republic', u'Federal republic']	0.571428571429	location.country.form_of_government	location.country.form_of_government	Russia	Russia
 Entity Score = 0.851601, F1 = 0.571429, graph = russia --> country form of government --> x
@@ -1714,8 +1678,8 @@ Top5
 Entity Score = 0.549243, F1 = 0.500000, graph = bilbo baggins --> performance actor --> x
 Entity Score = 0.137177, F1 = 0.066667, graph = the lord of the rings: the fellowship of the ring --> performance actor --> x
 Entity Score = 0.151150, F1 = 0.000000, graph = the lord of the rings --> award nomination award nominee --> x
+Entity Score = 0.549243, F1 = 0.000000, graph = bilbo baggins --> fictional character character created by --> x
 Entity Score = 0.151150, F1 = 0.000000, graph = the lord of the rings --> award honor award winner --> x
-Entity Score = 0.137177, F1 = 0.041667, graph = the lord of the rings: the fellowship of the ring --> award nomination award nominee --> x
 
 1762what type of government system does italy have?	[u'Constitutional republic', u'Parliamentary republic', u'Unitary state']	[u'Unitary republic', u'Constitutional republic', u'Parliamentary republic']	0.666666666667	location.country.form_of_government	location.country.form_of_government	Italy	Italy
 Entity Score = 0.851261, F1 = 0.666667, graph = italy --> country form of government --> x
@@ -1723,16 +1687,16 @@ Top5
 Entity Score = 0.851261, F1 = 0.666667, graph = italy --> country form of government --> x
 Entity Score = 0.851261, F1 = 0.000000, graph = italy --> location contains --> x
 Entity Score = 0.851261, F1 = 0.000000, graph = italy --> military combatant group combatants --> x
-Entity Score = 0.851261, F1 = 0.000000, graph = italy --> imports and exports exported to --> x
-Entity Score = 0.851261, F1 = 0.000000, graph = italy --> adjoining relationship adjoins --> x
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> country official language --> x
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> country second level divisions --> x
 
 1766where did drew brees go to college wikianswers?	[u'Purdue University']	[u'Westlake High School', u'Stanford Graduate School of Business', u'Purdue University']	0.5	people.person.education..education.education.institution	people.person.education..education.education.institution	Drew Brees	Drew Brees
 Entity Score = 0.999994, F1 = 0.500000, graph = drew brees --> education institution --> x
 Top5
 Entity Score = 0.999994, F1 = 0.500000, graph = drew brees --> education institution --> x
 Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> x
-Entity Score = 0.999994, F1 = 0.000000, graph = drew brees --> person profession --> x
 Entity Score = 0.999994, F1 = 0.000000, graph = drew brees --> education major field of study --> x
+Entity Score = 0.999994, F1 = 0.000000, graph = drew brees --> person profession --> x
 Entity Score = 0.999994, F1 = 0.000000, graph = drew brees --> sports team roster team --> x
 
 1777what city is the university of oregon state in?	[u'Eugene']	[u'United States of America', u'Oregon', u'Eugene']	0.5	organization.organization.headquarters..location.mailing_address.citytown	location.location.containedby	University of Oregon	University of Oregon
@@ -1741,8 +1705,8 @@ Top5
 Entity Score = 1.000000, F1 = 0.500000, graph = university of oregon --> location containedby --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = university of oregon --> mailing address state province region --> x
 Entity Score = 1.000000, F1 = 1.000000, graph = university of oregon --> mailing address citytown --> x
-Entity Score = 0.343750, F1 = 0.000000, graph = oregon state university --> mailing address state province region --> x
 Entity Score = 0.343750, F1 = 0.000000, graph = oregon state university --> mailing address citytown --> x
+Entity Score = 0.343750, F1 = 0.000000, graph = oregon state university --> mailing address state province region --> x
 
 1783what are the two official languages of paraguay?	[u'Paraguayan Guaran\xed', u'Spanish Language']	[u'Ukrainian Language', u'Spanish Language']	0.5	location.country.official_language	location.country.languages_spoken	Paraguay	Paraguay
 Entity Score = 0.800963, F1 = 1.000000, graph = paraguay --> country official language --> x
@@ -1759,16 +1723,16 @@ Top5
 Entity Score = 0.833015, F1 = 0.666667, graph = jamaica --> country languages spoken --> x
 Entity Score = 0.833015, F1 = 1.000000, graph = jamaica --> country official language --> x
 Entity Score = 0.833015, F1 = 0.000000, graph = jamaica --> country form of government --> x
-Entity Score = 0.833015, F1 = 0.000000, graph = jamaica --> location nearby airports --> x
-Entity Score = 0.833015, F1 = 0.000000, graph = jamaica --> book subject works --> x
+Entity Score = 0.833015, F1 = 0.000000, graph = jamaica --> location contains --> x
+Entity Score = 0.833015, F1 = 0.000000, graph = jamaica --> location containedby --> x
 
 1823what musical instruments does justin bieber play?	[u'guitar', u'Piano', u'trumpet', u'Drums']	[u'Guitar', u'Piano', u'Trumpet', u'Drums']	0.5	music.group_member.instruments_played	music.group_member.instruments_played	Justin Bieber	Justin Bieber
 Entity Score = 0.999968, F1 = 0.500000, graph = justin bieber --> group member instruments played --> x
 Top5
 Entity Score = 0.999968, F1 = 0.500000, graph = justin bieber --> group member instruments played --> x
 Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> track contribution role --> x
-Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> artist genre --> x
 Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> track contribution track --> x
+Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> artist genre --> x
 Entity Score = 0.999968, F1 = 0.000000, graph = justin bieber --> artist track --> x
 
 1824what did james k polk do before he was president?	[u'Lawyer']	[u'Politician', u'Lawyer', u'Farmer']	0.5	people.person.profession	people.person.profession	James K. Polk	James K. Polk
@@ -1812,8 +1776,8 @@ Entity Score = 0.760603, F1 = 0.750000, graph = argentina --> country form of go
 Top5
 Entity Score = 0.760603, F1 = 0.750000, graph = argentina --> country form of government --> x
 Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> location contains --> x
-Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> travel destination tourist attractions --> x
 Entity Score = 0.136704, F1 = 0.000000, graph = argentina national football team --> sports team arena stadium --> x
+Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> travel destination tourist attractions --> x
 Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> adjoining relationship adjoins --> x
 
 1882what system of government is practiced in nigeria?	[u'Federal republic']	[u'Presidential system', u'Federal republic']	0.666666666667	location.country.form_of_government	location.country.form_of_government	Nigeria	Nigeria
@@ -1821,25 +1785,25 @@ Entity Score = 0.807384, F1 = 0.666667, graph = nigeria --> country form of gove
 Top5
 Entity Score = 0.807384, F1 = 0.666667, graph = nigeria --> country form of government --> x
 Entity Score = 0.807384, F1 = 0.000000, graph = nigeria --> location contains --> x
-Entity Score = 0.807384, F1 = 0.000000, graph = nigeria --> location partially contains --> x
 Entity Score = 0.107406, F1 = 0.000000, graph = nigeria national football team --> sports team championships --> x
+Entity Score = 0.807384, F1 = 0.000000, graph = nigeria --> location partially contains --> x
 Entity Score = 0.807384, F1 = 0.000000, graph = nigeria --> country capital --> x
 
 1889where is the university of maryland medical school?	[u'Maryland', u'United States of America', u'Baltimore']	[u'Baltimore']	0.5	location.location.containedby	organization.organization.headquarters..location.mailing_address.citytown	University of Maryland, Baltimore	University of Maryland, Baltimore
 Entity Score = 1.000000, F1 = 1.000000, graph = university of maryland baltimore --> location containedby --> x
 Top5
 Entity Score = 1.000000, F1 = 0.500000, graph = university of maryland baltimore --> mailing address citytown --> x
-Entity Score = 0.924211, F1 = 0.000000, graph = university of maryland college park --> mailing address citytown --> x
 Entity Score = 0.111732, F1 = 0.000000, graph = university of virginia --> organization place founded --> x
+Entity Score = 0.924211, F1 = 0.000000, graph = university of maryland college park --> mailing address citytown --> x
 Entity Score = 0.871429, F1 = 0.000000, graph = university of maryland college park --> mailing address citytown --> x
-Entity Score = 0.924211, F1 = 0.000000, graph = university of maryland college park --> location contains --> x
+Entity Score = 0.924211, F1 = 0.666667, graph = university of maryland college park --> location containedby --> x
 
 1890what are the landlocked countries in latin america?	[u'Bolivia', u'Honduras', u'Cuba', u'El Salvador', u'Guatemala', u'Costa Rica', u'Cuauht\xe9moc, D.F.', u'Great Pyramid of Tenochtitl\xe1n', u'Paraguay', u'Belize']	[u'Belize', u'Honduras', u'Chile', u'Mexico', u'El Salvador', '...']	0.689655172414	location.location.contains	location.location.contains	Latin America	Latin America
 Entity Score = 0.885824, F1 = 0.689655, graph = latin america --> location contains --> x
 Top5
 Entity Score = 0.885824, F1 = 0.689655, graph = latin america --> location contains --> x
-Entity Score = 0.148148, F1 = 0.000000, graph = french guiana --> location contains --> x
 Entity Score = 0.140000, F1 = 0.000000, graph = latin language --> human language countries spoken in --> x
+Entity Score = 0.148148, F1 = 0.000000, graph = french guiana --> location contains --> x
 Entity Score = 0.140000, F1 = 0.000000, graph = latin language --> human language main country --> x
 Entity Score = 0.148148, F1 = 0.000000, graph = french guiana --> administrative division capital relationship capital --> x
 
@@ -1849,16 +1813,16 @@ Top5
 Entity Score = 1.000000, F1 = 0.933333, graph = henry viii of england --> person children --> x
 Entity Score = 0.640973, F1 = 0.000000, graph = the-dream --> person children --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = henry viii of england --> person parents --> x
-Entity Score = 0.358753, F1 = 0.000000, graph = wally pfister --> person children --> x
 Entity Score = 1.000000, F1 = 0.000000, graph = henry viii of england --> marriage spouse --> x
+Entity Score = 0.358753, F1 = 0.000000, graph = wally pfister --> person children --> x
 
 1898what are the names of michael jackson's 3 children?	[u'Paris-Michael Katherine Jackson', u'Prince Michael Jackson I', u'Prince Michael Jackson II']	[u'Paris-Michael Katherine Jackson', u'Michael Joseph Jackson, Jr.', u'Prince Michael Jackson II']	0.666666666667	people.person.children	people.person.children	Michael Jackson	Michael Jackson
 Entity Score = 0.957940, F1 = 0.666667, graph = michael jackson --> person children --> x
 Top5
 Entity Score = 0.957940, F1 = 0.666667, graph = michael jackson --> person children --> x
 Entity Score = 0.294118, F1 = 0.000000, graph = nam phuong --> person children --> x
-Entity Score = 0.352941, F1 = 0.000000, graph = li peng --> person children --> x
 Entity Score = 0.352941, F1 = 0.000000, graph = yang shangkun --> person children --> x
+Entity Score = 0.352941, F1 = 0.000000, graph = li peng --> person children --> x
 Entity Score = 0.957940, F1 = 0.000000, graph = michael jackson --> dated participant --> x
 
 1900what are the names of harry potter movies in order?	[u'Harry Potter and the Half-Blood Prince', u'Harry Potter and the Deathly Hallows', u'Harry Potter and the Goblet of Fire', u"Harry Potter and the Philosopher's Stone", u'Harry Potter and the Chamber of Secrets', u'Harry Potter and the Order of the Phoenix', u'Harry Potter and the Prisoner of Azkaban']	[u'Harry Potter and the Half-Blood Prince', u'J.K. Rowling: A Year in the Life', u'Harry Potter and the Deathly Hallows - Part I', u'Harry Potter and the Forbidden Journey', u'Harry Potter and the Goblet of Fire', '...']	0.705882352941	book.literary_series.works_in_this_series	film.film_character.portrayed_in_films..film.performance.film	Harry Potter literary series	Harry Potter
@@ -1875,8 +1839,8 @@ Entity Score = 0.985304, F1 = 0.666667, graph = new york knicks --> sports team 
 Top5
 Entity Score = 0.985304, F1 = 0.666667, graph = new york knicks --> sports team championships --> x
 Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> sports championship events --> x
-Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> recurring event instances --> x
 Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> sports award season --> x
+Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> recurring event instances --> x
 Entity Score = 0.985304, F1 = 0.000000, graph = new york knicks --> sports team colors --> x
 
 1905what form of government does the united states use?	[u'Presidential system', u'Federal republic', u'Representative democracy', u'Two-party system', u'Constitutional republic', u'Republic']	[u'Constitutional republic', u'Presidential system', u'Federal republic']	0.666666666667	location.country.form_of_government	location.country.form_of_government	United States of America	United States of America
@@ -1931,7 +1895,7 @@ Entity Score = 0.760603, F1 = 0.500000, graph = argentina --> country languages 
 Entity Score = 0.760603, F1 = 1.000000, graph = argentina --> country official language --> x
 Entity Score = 0.110230, F1 = 0.000000, graph = esperanto language --> human language language family --> x
 Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> country form of government --> x
-Entity Score = 0.110230, F1 = 0.000000, graph = esperanto language --> human language region --> x
+Entity Score = 0.760603, F1 = 0.000000, graph = argentina --> location contains --> x
 
 1937where is the fukushima daiichi nuclear power station?	[u'Japan', u'Okuma']	[u'Okuma']	0.666666666667	location.location.containedby	time.event.locations	Fukushima Daiichi Nuclear Power Plant	Fukushima Daiichi nuclear disaster
 Entity Score = 0.733728, F1 = 1.000000, graph = fukushima daiichi nuclear power plant --> location containedby --> x
@@ -1949,7 +1913,7 @@ Entity Score = 0.851261, F1 = 0.500000, graph = italy --> country form of govern
 Entity Score = 0.472223, F1 = 0.000000, graph = malaysia --> country form of government --> x
 Entity Score = 0.851261, F1 = 0.000000, graph = italy --> location contains --> x
 Entity Score = 0.851261, F1 = 0.000000, graph = italy --> location events --> x
-Entity Score = 0.472223, F1 = 0.000000, graph = malaysia --> location contains --> x
+Entity Score = 0.472223, F1 = 0.000000, graph = malaysia --> location events --> x
 
 1953where is the galapagos islands located on a world map?	[u'Pacific Ocean', u'Gal\xe1pagos Province']	[u'Pacific Ocean', u'Gal\xe1pagos Province', u'Ecuador']	0.8	location.location.containedby	location.location.containedby	Galápagos Islands	Galápagos Islands
 Entity Score = 0.998699, F1 = 0.800000, graph = galápagos islands --> location containedby --> x
@@ -1965,18 +1929,18 @@ Entity Score = 0.969316, F1 = 0.500000, graph = detroit pistons --> sports team 
 Top5
 Entity Score = 0.969316, F1 = 0.500000, graph = detroit pistons --> sports team championships --> x
 Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> sports championship events --> x
-Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> recurring event instances --> x
 Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> sports award season --> x
+Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> recurring event instances --> x
 Entity Score = 0.835030, F1 = 0.000000, graph = football league championship --> sports league participation team --> x
 
 1973when was the last time the ny knicks won a playoff game?	[u'1973 NBA Finals']	[u'1970 NBA Finals', u'1973 NBA Finals']	0.666666666667	sports.sports_team.championships	sports.sports_team.championships	New York Knicks	New York Knicks
 Entity Score = 0.864662, F1 = 0.666667, graph = new york knicks --> sports team championships --> x
 Top5
 Entity Score = 0.864662, F1 = 0.666667, graph = new york knicks --> sports team championships --> x
-Entity Score = 0.864662, F1 = 0.000000, graph = new york knicks --> sports team founded --> x
 Entity Score = 0.124005, F1 = 0.000000, graph = nba playoffs --> recurring event instances --> x
+Entity Score = 0.864662, F1 = 0.000000, graph = new york knicks --> sports team founded --> x
 Entity Score = 0.864662, F1 = 0.000000, graph = new york knicks --> sports team colors --> x
-Entity Score = 0.417597, F1 = 0.000000, graph = game --> book subject works --> x
+Entity Score = 0.864662, F1 = 0.000000, graph = new york knicks --> basketball roster position player --> x
 
 1978what type of government does the us constitution set up?	[u'Presidential system', u'Federal republic', u'Representative democracy', u'Two-party system', u'Constitutional republic', u'Republic']	[u'Constitutional republic', u'Presidential system', u'Federal republic']	0.666666666667	location.country.form_of_government	location.country.form_of_government	United States of America	United States of America
 Entity Score = 0.596042, F1 = 0.666667, graph = united states of america --> country form of government --> x
@@ -1993,8 +1957,8 @@ Top5
 Entity Score = 0.949915, F1 = 0.666667, graph = meg griffin --> regular tv appearance actor --> x
 Entity Score = 0.987574, F1 = 0.166667, graph = family guy --> regular tv appearance actor --> x
 Entity Score = 0.949915, F1 = 0.000000, graph = meg griffin --> performance actor --> x
-Entity Score = 0.987574, F1 = 0.000000, graph = family guy --> tv program writer relationship writer --> x
 Entity Score = 0.987574, F1 = 0.000000, graph = family guy --> award nomination award nominee --> x
+Entity Score = 0.987574, F1 = 0.000000, graph = family guy --> tv program writer relationship writer --> x
 
 1983where is the euphrates and tigris river located on a map?	[u'Turkey', u'Syria', u'Iraq', u'Iran']	[u'Turkey', u'Garden of Eden', u'Iraq']	0.571428571429	geography.river.basin_countries	location.location.containedby	Tigris	Tigris
 Entity Score = 0.999980, F1 = 1.000000, graph = tigris --> river basin countries --> x
@@ -2018,10 +1982,10 @@ Entity Score = 0.327485, F1 = 0.000000, graph = arvo pärt --> person nationalit
 Entity Score = 0.961024, F1 = 0.666667, graph = houston rockets --> sports team championships --> x
 Top5
 Entity Score = 0.961024, F1 = 0.666667, graph = houston rockets --> sports team championships --> x
-Entity Score = 0.410571, F1 = 0.000000, graph = football league championship --> recurring event instances --> x
-Entity Score = 0.410571, F1 = 0.000000, graph = football league championship --> sports championship events --> x
 Entity Score = 0.961024, F1 = 0.000000, graph = houston rockets --> sports team colors --> x
+Entity Score = 0.410571, F1 = 0.000000, graph = football league championship --> recurring event instances --> x
 Entity Score = 0.410571, F1 = 0.000000, graph = football league championship --> sports award season --> x
+Entity Score = 0.410571, F1 = 0.000000, graph = football league championship --> sports championship events --> x
 
 2008who played stanley kowalski in a streetcar named desire movie?	[u'Marlon Brando']	[u'Treat Williams', u'Marlon Brando', u'Alec Baldwin']	0.5	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	film.film_character.portrayed_in_films..film.performance.actor	Stanley Kowalski	Stanley Kowalski
 Entity Score = 0.930612, F1 = 1.000000, graph = stanley kowalski --> regular tv appearance actor --> x
@@ -2063,8 +2027,8 @@ Entity Score = 0.957495, F1 = 0.000000, graph = united states of america --> imp
 Entity Score = 0.620997, F1 = 0.666667, graph = united states of america --> country form of government --> x
 Top5
 Entity Score = 0.957495, F1 = 0.666667, graph = united states of america --> country form of government --> x
-Entity Score = 0.957495, F1 = 0.000092, graph = united states of america --> location contains --> x
 Entity Score = 0.620997, F1 = 0.666667, graph = united states of america --> country form of government --> x
+Entity Score = 0.957495, F1 = 0.000092, graph = united states of america --> location contains --> x
 Entity Score = 0.620997, F1 = 0.000092, graph = united states of america --> location contains --> x
 Entity Score = 0.957495, F1 = 0.000000, graph = united states of america --> imports and exports exported to --> x
 
