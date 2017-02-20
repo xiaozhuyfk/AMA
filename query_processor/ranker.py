@@ -633,7 +633,10 @@ class Ranker(object):
 
                 best_predictions = list(set(best_candidate.objects))
                 if len(best_predictions) > 5:
-                    best_predictions = best_predictions[:5] + ["..."]
+                    limit_predictions = best_predictions[:5] + ["..."]
+                else:
+                    limit_predictions = best_predictions
+
                 result_line = "\t".join([str(query.id) + query.utterance,
                                          str(query.target_result),
                                          str(list(best_predictions)),
@@ -652,7 +655,14 @@ class Ranker(object):
                                     str(num_top10)])
                 logger.info(message)
 
-                content = result_line
+                content = "\t".join([str(query.id) + query.utterance,
+                                         str(query.target_result),
+                                         str(list(limit_predictions)),
+                                         str(best_candidate.f1),
+                                         best_relation,
+                                         best_candidate.relation,
+                                         best_subject,
+                                         best_candidate.subject]) + "\n"
                 if best is None:
                     content += "Empty\n"
                 else:
