@@ -503,10 +503,27 @@ class Ranker(object):
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
 
+        same_file = "/home/hongyul/AMA/test_result/result_diff.txt"
+        cover_file = "/home/hongyul/AMA/test_result/result_10.txt"
+        above_file = "/home/hongyul/AMA/test_result/result_5-10.txt"
+        below_file = "/home/hongyul/AMA/test_result/result_0-5.txt"
+        zero_file = "/home/hongyul/AMA/test_result/result_0.txt"
+        entity_diff_file = "/home/hongyul/AMA/test_result/result_entity_diff.txt"
+        relation_diff_file = "/home/hongyul/AMA/test_result/result_relation_diff.txt"
+        codecsWriteFile(same_file, "")
+        codecsWriteFile(cover_file, "")
+        codecsWriteFile(above_file, "")
+        codecsWriteFile(below_file, "")
+        codecsWriteFile(zero_file, "")
+        codecsWriteFile(entity_diff_file, "")
+        codecsWriteFile(relation_diff_file, "")
+
         cover = 0
         num_top2 = 0
         num_top5 = 0
         num_top10 = 0
+        entity_diff = 0
+        relation_diff = 0
         queries = load_eval_queries(dataset)
         for query in queries:
             try:
@@ -618,6 +635,8 @@ class Ranker(object):
                     num_top10 += 1
 
                 best_predictions = list(set(best_candidate.objects))
+                if len(best_predictions) > 5:
+                    best_predictions = best_predictions[:5] + ["..."]
                 result_line = "\t".join([str(query.id) + query.utterance,
                                          str(query.target_result),
                                          str(list(best_predictions)),
@@ -636,6 +655,31 @@ class Ranker(object):
                                     str(num_top10)])
                 logger.info(message)
 
+                content = result_line
+                if best is None:
+                    content += "Empty\n"
+                else:
+                    content += best.message
+                content += "Top5\n"
+                for idx in top5:
+                    candidate = candidates[idx]
+                    content += candidate.message
+                content += "\n"
+                if best_candidate.f1 == 1.0:
+                    codecsWriteFile(cover_file, content, "a")
+                elif best_candidate.f1 >= 0.5:
+                    codecsWriteFile(above_file, content, "a")
+                elif best_candidate.f1 > 0:
+                    codecsWriteFile(below_file, content, "a")
+                else:
+                    codecsWriteFile(zero_file, content, "a")
+                if best_subject != best_candidate.subject:
+                    codecsWriteFile(entity_diff_file, content, "a")
+                    entity_diff += 1
+                elif best_candidate.relation != best_relation:
+                    codecsWriteFile(same_file, content, "a")
+                    relation_diff += 1
+
             except Exception:
                 logger.info("Error processing query" + " " + str(query.id))
 
@@ -643,6 +687,9 @@ class Ranker(object):
         print(cover)
         print(num_top5)
         print(num_top10)
+
+        logger.info("Entity diff count: %d", entity_diff)
+        logger.info("Relation diff count: %d", relation_diff)
 
 
 
