@@ -125,6 +125,12 @@ class FactCandidate(object):
 
         self.f1 = computeF1(self.answers, self.objects)[2]
 
+        graph_tokens = [" ".join(self.subject_tokens),
+                        " ".join(self.relation_tokens),
+                        "x"]
+        graph_str = " --> ".join(graph_tokens)
+        self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
+
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
         sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
                         (sentence_size - len(sentence)) * [0]
@@ -489,15 +495,12 @@ class Ranker(object):
 
 
     def test(self, dataset):
-        # lstm_model = LSTMPointwise(self.config_options, 'LSTMPointwise')
-        # trigram_model = LSTMPointwise(self.config_options, 'LSTMPointwiseTrigram')
         pairwise_model = LSTMPairwise(self.config_options, 'LSTMPairwise')
         pairwise_trigram = LSTMPairwise(self.config_options, 'LSTMPairwiseTrigram')
         jointpairwise = self.get_model('LSTMJointPairwise')
         jointpairwise_trigram = self.get_model('LSTMJointPairwiseTrigram')
         embedding = self.get_model('EmbeddingJointPairwise')
         embedding_trigram = self.get_model('EmbeddingJointPairwiseTrigram')
-
         logger.info("Finish loading models.")
 
         test_result = self.config_options.get('Test', 'test-result')
@@ -593,18 +596,12 @@ class Ranker(object):
                     candidate.add_feature(embedding_trigram_predictions[idx])
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
-                    # candidate.add_feature(5, lstm_predictions[idx])
-                    # candidate.add_feature(6, trigram_predictions[idx])
 
                 self.nomalize_features(candidates)
                 for candidate in candidates:
                     codecsWriteFile(self.svmTestingFeatureVectorsFile,
                                     str(candidate.feature_vector),
                                     "a")
-                #for candidate in self.nomalize_features(candidates, 4):
-                #    codecsWriteFile(self.svmTestingFeatureVectorsFile,
-                #                    str(candidate.feature_vector),
-                #                    "a")
                 self.svm_rank()
 
                 # Choose answers from candidates
