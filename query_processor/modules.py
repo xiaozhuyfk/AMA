@@ -2,7 +2,7 @@ import logging
 import globals
 from word2vec import Word2Vec
 from fact_extractor import FactExtractor
-from wiki_extractor import WikiExtractor
+from wiki_extractor import WikiAPIExtractor
 from corenlp_parser.parser import CoreNLPParser
 from entity_linker.entity_linker import EntityLinker
 from ranker import Ranker
