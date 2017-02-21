@@ -50,10 +50,7 @@ class WikiExtractor(object):
                 ):
                     if (event == 'end' and elem.tag[len(prefix):] == 'page'):
                         for e in elem:
-
-
-
-
+                            pass
 
 
 if __name__ == '__main__':
