@@ -71,4 +71,5 @@ if __name__ == '__main__':
             sentences = text.text.strip().split(". ")
             for sent in sentences:
                 print sent
-            break
+            if title.text == "Anachism":
+                break
