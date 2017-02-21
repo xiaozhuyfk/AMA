@@ -1,0 +1,677 @@
+3what did romo do?	[u'Baseball player']	[u'Denmark']	0	EMPTY	location.location.containedby	NONE	Rømø
+Empty
+Top5
+Entity Score = 0.635180, F1 = 0.000000, graph = rømø --> location containedby --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+'''rømø''' ({{lang-de|röm}}, [[north frisian language|north frisian]]: ''rem'') is a [[denmark|danish]] island in the [[wadden sea]].
+Entity Score = 0.169434, F1 = 0.000000, graph = romo --> genre parent genre --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.635180, F1 = 0.000000, graph = rømø --> object name --> x
+Number of support sentences = 13, Number of summary sentences = 5
+Example support sentence:
+aerial view of rømø.jpg|aerial view
+Entity Score = 0.169434, F1 = 0.000000, graph = romo --> object name --> x
+Number of support sentences = 36, Number of summary sentences = 4
+Example support sentence:
+other promoters have also hosted such glam/style-orientated clubnights in the 2000s – most notably glam-ou-rama, which later relocated to [[tel aviv]].<ref>{{cite web|url=http://www.glam-ou-rama.co.uk/ |title=glam-ou-rama website |publisher=glam-ou-rama.co.uk |accessdate=28 november 2011}}</ref>  romo night in sweden, first established in 1996 during the original london scene's lifetime, was still active as of 2003.<ref>{{cite web|url=hem.bredband.net/b144242/uk_info.htm |title=archive of information page in english on romo night in sweden website |publisher=web.archive.org |date=23 march 2003 |accessdate=28 november 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20030405083902/http://hem.bredband.net/b144242/uk_info.htm |archivedate=5 april 2003 }}</ref><ref>{{cite web|url=hem.bredband.net/b144242/uk_new.htm |title=archive of news page in english on romo night in sweden website |publisher=web.archive.org |date=25 october 2003 |accessdate=28 november 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20031025105216/http://hem.bredband.net/b144242/uk_new.htm |archivedate=25 october 2003 }}</ref>
+Entity Score = 0.635180, F1 = 0.000000, graph = rømø --> location area --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+4what does sarabi?	[u'Physician']	[u'Circle of Life', u'Hakuna Matata']	0	EMPTY	award.award_nominated_work.award_nominations..award.award_nomination.nominated_for	NONE	The Lion King
+Empty
+Top5
+Entity Score = 0.678692, F1 = 0.000000, graph = the lion king --> award nomination nominated for --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.254510, F1 = 0.000000, graph = madge sinclair --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.678692, F1 = 0.000000, graph = the lion king --> performance character --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+Entity Score = 0.254510, F1 = 0.000000, graph = madge sinclair --> performance character --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.254510, F1 = 0.000000, graph = madge sinclair --> award honor honored for --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+10what does gm make?	[u'Automobile']	[u'Hummer', u'Pontiac', u'Chevrolet', u'Buick', u'Oldsmobile', '...']	0	EMPTY	business.consumer_company.brands..business.company_brand_relationship.brand	NONE	General Motors
+Empty
+Top5
+Entity Score = 0.543254, F1 = 0.000000, graph = general motors --> company brand relationship brand --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.543254, F1 = 0.000000, graph = general motors --> phone sandbox product or service --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.543254, F1 = 0.000000, graph = general motors --> company make s --> x
+Number of support sentences = 1, Number of summary sentences = 4
+Example support sentence:
+#redirect [[general motors]] {{r from other capitalisation}}
+Entity Score = 0.543254, F1 = 0.000000, graph = general motors --> company manufacturing plants --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.543254, F1 = 0.000000, graph = general motors --> organization relationship child --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+
+35who is moira in x men?	[u'Olivia Williams', u'Rose Byrne']	[u'Sumela Kay', u'Halle Berry', u'Hugh Jackman', u'Patrick Stewart', u'Quinn Wright', '...']	0	EMPTY	film.film.starring..film.performance.actor	NONE	X-Men
+Empty
+Top5
+Entity Score = 0.147986, F1 = 0.000000, graph = x-men --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.265475, F1 = 0.000000, graph = moira --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.147986, F1 = 0.000000, graph = x-men --> award honor award winner --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.147986, F1 = 0.000000, graph = x-men --> award nomination award nominee --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.147986, F1 = 0.000000, graph = x-men --> performance character --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+
+39who owns mazda canada?	[u'Ford Motor Company']	[u'Jujiro Matsuda']	0	EMPTY	organization.organization.founders	NONE	Mazda
+Empty
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = mazda --> organization founders --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+the company website also notes that the name also derives from the name of the company's founder, [[jujiro matsuda]].<ref>{{cite web|url=http://www2.mazda.com/en/csr/download/pdf/2005/e200503.pdf |archive-url=https://web.archive.org/web/20160304002919/http://www2.mazda.com/en/csr/download/pdf/2005/e200503.pdf |dead-url=yes |archive-date=march 4, 2016 |title=the history and spirit of mazda |publisher=mazda |accessdate=june 9, 2015}}</ref>
+Entity Score = 1.000000, F1 = 0.000000, graph = mazda --> employment tenure person --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+wallace was succeeded by james miller in november 1997, followed in december 1999 by ford executive [[mark fields (businessman)|mark fields]], who has been credited with expanding mazda's new product lineup and leading the turnaround during the early 2000s.
+Entity Score = 1.000000, F1 = 0.000000, graph = mazda --> organization relationship child --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = mazda --> company make s --> x
+Number of support sentences = 152, Number of summary sentences = 3
+Example support sentence:
+this effort to bring attention to itself apparently helped, as mazda rapidly began to export its vehicles.
+Entity Score = 1.000000, F1 = 0.000000, graph = mazda --> organization board membership member --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+42when was john paul ii?	[u'10/16/1978']	[u"Parkinson's disease"]	0	EMPTY	medicine.notable_person_with_medical_condition.condition	NONE	Pope John Paul II
+Empty
+Top5
+Entity Score = 0.983599, F1 = 0.000000, graph = pope john paul ii --> notable person with medical condition condition --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.983599, F1 = 0.000000, graph = pope john paul ii --> organization founder organizations founded --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.983599, F1 = 0.000000, graph = pope john paul ii --> artist track --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.983599, F1 = 0.000000, graph = pope john paul ii --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.780807, F1 = 0.000000, graph = pope paul ii --> religious organization leadership role --> x
+Number of support sentences = 5, Number of summary sentences = 1
+Example support sentence:
+*[http://www.fiu.edu/~mirandas/election-paulii.htm francis a. burkle-young, "the election of pope paul ii (1464)"]
+
+52who is moira en x men?	[u'Mutant']	[u'Elizabeth McGovern']	0	EMPTY	film.film_character.portrayed_in_films..film.performance.actor	NONE	Moira
+Empty
+Top5
+Entity Score = 0.265475, F1 = 0.000000, graph = moira --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.147986, F1 = 0.000000, graph = x-men --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.147986, F1 = 0.000000, graph = x-men --> award honor award winner --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.147986, F1 = 0.000000, graph = x-men --> award nomination award nominee --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.147986, F1 = 0.000000, graph = x-men --> performance character --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+
+72what was goebbels role?	[u"After Hitler's coup in 1933, Goebbels was named Reich Minister for Public Enlightenment and Propaganda and president of the newly-formed Chamber of Culture, which gave him total control over Germany's media."]	[u'Fritz Goebbels', u'Katharina Maria Goebbels']	0	EMPTY	people.person.parents	NONE	Joseph Goebbels
+Empty
+Top5
+Entity Score = 0.984220, F1 = 0.000000, graph = joseph goebbels --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.984220, F1 = 0.000000, graph = joseph goebbels --> person profession --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+'''paul joseph goebbels''' ({{ipa-de|ˈɡœbəls|lang|de-paul joseph goebbels.oga}};<ref>[http://www.aolsvc.merriam-webster.aol.com/dictionary/goebbels merriam-webster dictionary: ''goebbels'']</ref> 29 october 1897&nbsp;– 1 may 1945) was a german politician and [[reichs ministry of public enlightenment and propaganda|reich minister of propaganda]] of [[nazi germany]] from 1933 to 1945. he was one of [[adolf hitler]]'s close associates and most devoted followers, and was known for his skills in [[public speaking]] and his deep, virulent [[antisemitism]], which was evident in his publicly voiced views.
+Entity Score = 0.984220, F1 = 0.000000, graph = joseph goebbels --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.984220, F1 = 0.000000, graph = joseph goebbels --> writer film --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.984220, F1 = 0.000000, graph = joseph goebbels --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+78who were jesus siblings?	[u'Jude the Apostle', u'James the Just', u'Simon (brother of Jesus)', u'Joses']	[u'Saint Joseph', u'Mary']	0	EMPTY	people.person.parents	NONE	Jesus Christ
+Empty
+Top5
+Entity Score = 0.955803, F1 = 0.000000, graph = jesus christ --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.955803, F1 = 0.000000, graph = jesus christ --> activist area of activism --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.955803, F1 = 0.000000, graph = jesus christ --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.955803, F1 = 0.000000, graph = jesus christ --> founding figure religion founded --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.955803, F1 = 0.000000, graph = jesus christ --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+
+86what did drita find out?	[u'Football Superleague of Kosovo']	[u'1994']	0	EMPTY	sports.sports_team.founded	NONE	FK Drita
+Empty
+Top5
+Entity Score = 0.103448, F1 = 0.000000, graph = fk drita --> sports team founded --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.103448, F1 = 0.000000, graph = fk drita --> sports league participation league --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.450304, F1 = 0.000000, graph = drita --> object name --> x
+Number of support sentences = 7, Number of summary sentences = 0
+Example support sentence:
+* [[drita (name)]], an albanian female name, with the meaning "light"
+Entity Score = 0.109534, F1 = 0.000000, graph = light --> object name --> x
+Number of support sentences = 155, Number of summary sentences = 15
+Example support sentence:
+the fixed value of the speed of light in si units results from the fact that the metre is now defined in terms of the speed of light.
+Entity Score = 0.103448, F1 = 0.000000, graph = fk drita --> object name --> x
+Number of support sentences = 3, Number of summary sentences = 1
+Example support sentence:
+'''fk drita''' ({{lang-mk|фк дрита}}) is a [[football (soccer)|football]] club based in the village [[bogovinje]] near [[tetovo]], [[republic of macedonia]].
+
+134who was ulysses s. grant?	[u'Lieutenant-General']	[u'Memoirs and selected letters', u'Speeches of General U.S. Grant', u"General Grant's Letters To A Friend, 1861-1880", u'The Civil War memoirs of Ulysses S. Grant', u'The autobiography of General Ulysses. S. Grant', '...']	0	EMPTY	book.author.works_written	NONE	Ulysses S. Grant
+Empty
+Top5
+Entity Score = 0.987128, F1 = 0.000000, graph = ulysses s. grant --> author works written --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+*{{cite book |title=grant's last battle: the story behind the personal memoirs of ulysses s. grant |last1=mackowski |first1=chris |last2=white |first2=kristopher d.|publisher=savas beatie llc|location=[[el dorado hills, california|el dorado hills]], [[california]]|date=2015|isbn=978-1-61121-160-3 |url=https://books.google.com/books?id=_5vicgaaqbaj& |ref=harv}}
+Entity Score = 0.987128, F1 = 0.000000, graph = ulysses s. grant --> book subject works --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+*{{cite book |title=grant's last battle: the story behind the personal memoirs of ulysses s. grant |last1=mackowski |first1=chris |last2=white |first2=kristopher d.|publisher=savas beatie llc|location=[[el dorado hills, california|el dorado hills]], [[california]]|date=2015|isbn=978-1-61121-160-3 |url=https://books.google.com/books?id=_5vicgaaqbaj& |ref=harv}}
+Entity Score = 0.363634, F1 = 0.000000, graph = ulysses --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.363634, F1 = 0.000000, graph = ulysses --> book characters --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.987128, F1 = 0.000000, graph = ulysses s. grant --> person profession --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+|authorlink=william b. hesseltine |title=ulysses s. grant: politician |url=http://www.questia.com/library/book/ulysses-s-grant-politician-by-william-b-hesseltine.jsp |location=new york, new york |publisher=f.
+
+149what is armenian currency?	[u'Armenian dram']	[u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']	0	EMPTY	book.book_subject.works	NONE	Currency
+Empty
+Top5
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> object name --> x
+Number of support sentences = 79, Number of summary sentences = 6
+Example support sentence:
+== currency convertibility ==
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> topic image --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> equivalent topic equivalent type --> x
+Number of support sentences = 79, Number of summary sentences = 6
+Example support sentence:
+== currency convertibility ==
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> ikariam resource category resources --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+a '''currency''' (from {{lang-enm|curraunt}}, "in circulation", from {{lang-la|currens, -entis}}) in the most specific use of the word refers to [[money]] in any form when in actual use or circulation as a [[medium of exchange]], especially circulating [[banknote]]s and [[coin]]s.<ref>{{cite web | url = http://www.thefreedictionary.com/currency | title = currency | publisher = the free dictionary}}</ref><ref name=bernstein>{{cite book |last =bernstein |first =peter |authorlink =peter l. bernstein |title=a primer on money, banking and gold | edition = 3rd |year=2008 |origyear=1965 |publisher=wiley |location=hoboken, nj  |isbn=978-0-470-28758-3 |oclc = 233484849 |chapter= 4–5}}</ref> a more general definition is that a currency is a ''system of money'' (monetary units) in common use, especially in a nation.<ref>{{cite web | url = http://www.investopedia.com/terms/c/currency.asp#axzz2cqfsx9bd | title = currency | publisher = investopedia}}</ref> under this definition, us dollars, british pounds, australian dollars, and european euros are examples of currency.
+
+173where do flemish come from?	[u'Belgium']	[u'COMEFROM']	0	EMPTY	type.object.name	NONE	COMEFROM
+Empty
+Top5
+Entity Score = 0.841572, F1 = 0.000000, graph = comefrom --> object name --> x
+Number of support sentences = 1, Number of summary sentences = 9
+Example support sentence:
+#redirect [[comefrom]] {{r from other capitalisation}}
+
+189who plays blaine in batman?	[u'Him/Herself']	[u'Sam Rockwell', u'Peter Weller', u'Jason Sudeikis', u'Jing Abalos', u'Michael Keaton', '...']	0	EMPTY	film.film_character.portrayed_in_films..film.performance.actor	NONE	Batman
+Empty
+Top5
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> performance actor --> x
+Number of support sentences = 15, Number of summary sentences = 1
+Example support sentence:
+the film was a huge success; not only was it the top-grossing film of the year, but at the time was the fifth highest-grossing film in history.<ref>{{cite web | url=http://www.boxofficemojo.com/movies/?id=batman.htm | title= batman (1989) | publisher=box office mojo | accessdate=may 27, 2007 | archiveurl= https://web.archive.org/web/20070513103130/http://www.boxofficemojo.com/movies/?id=batman.htm| archivedate= may 13, 2007 | deadurl= no}}</ref> the film also won the [[academy award for best art direction]].<ref>{{cite web | url = http://awardsdatabase.oscars.org/ampas_awards/displaymain.jsp?curtime=1223147717805 | title = batman | work = [[academy of motion picture arts and sciences]] | accessdate = october 4, 2008}}</ref> the film's success spawned three sequels: ''[[batman returns]]'' (1992), ''[[batman forever]]'' (1995) and ''[[batman & robin (film)|batman & robin]]'' (1997); the latter two of which were directed by [[joel schumacher]] instead of burton, and replaced keaton as batman with [[val kilmer]] and [[george clooney]], respectively.
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> tv guest role actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> regular tv appearance actor --> x
+Number of support sentences = 9, Number of summary sentences = 1
+Example support sentence:
+kevin conroy has reprised his voice role of batman for several of these films, while others have featured celebrity voice actors in the role; including [[jeremy sisto]], [[william baldwin]], [[bruce greenwood]], [[ben mckenzie]], and [[peter weller]].<ref>{{cite web|url=http://www.behindthevoiceactors.com/characters/batman/batman/|title=voice(s) of batman|publisher=|accessdate=january 16, 2017}}</ref> a [[lego]]-themed version of batman was also featured as one of the protagonists in the animated film ''[[the lego movie]]'' (2014), with [[will arnett]] providing the voice.<ref>{{cite news|last=sneider|first=jeff|title=super voices in play for wb's lego movie|url=http://www.variety.com/article/vr1118055994|accessdate=june 26, 2012|newspaper=variety|date=june 26, 2012|archiveurl=https://web.archive.org/web/20120629032823/http://www.variety.com/article/vr1118055994|archivedate=june 29, 2012|deadurl=no}}</ref> arnett reprised the voice role for the spin-off film ''[[the lego batman movie]]'' (2017).<ref>{{cite news|last1=kit|first1=borys|title='lego batman' spinoff movie in the works at warner bros.|url=http://www.hollywoodreporter.com/heat-vision/lego-batman-spinoff-movie-works-738631?utm_source=twitter|accessdate=october 11, 2014|work=the hollywood reporter|date=october 10, 2014}}</ref>
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> dubbing performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> fictional character character created by --> x
+Number of support sentences = 18, Number of summary sentences = 0
+Example support sentence:
+bob kane and bill finger discussed batman's background and decided that "there's nothing more traumatic than having your parents murdered before your eyes".<ref>daniels (1999), p. 31.</ref> despite his trauma, he sets his mind on studying to become a scientist<ref name="referencea">detective comics #33, november 1939, bill finger, bob kane</ref><ref name="referenceb">batman #1 spring 1940,bill finger, bob kane</ref> and to train his body into physical perfection<ref name="referencea"/><ref name="referenceb"/> to fight crime in [[gotham city]] as batman, an inspired idea from wayne's insight into the criminal mind.<ref name="referencea"/><ref name="referenceb"/>
+
+192when is st joseph birthday?	[u'March 19']	[u'Vatterott College, Saint Joseph, Missouri', u'Hall Street Historic District', u'German-American Bank Building', u'Edmond Jacques Eckel House', u'St. Joseph Female College', '...']	0	EMPTY	location.location.contains	NONE	Saint Joseph
+Empty
+Top5
+Entity Score = 0.235369, F1 = 0.000000, graph = saint joseph --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.235369, F1 = 0.000000, graph = saint joseph --> travel destination tourist attractions --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.235369, F1 = 0.000000, graph = saint joseph --> hud county place county --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.267335, F1 = 0.000000, graph = saint joseph --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.235369, F1 = 0.000000, graph = saint joseph --> hud county place place --> x
+Number of support sentences = 39, Number of summary sentences = 2
+Example support sentence:
+saint joseph is the patron saint of a number of cities, regions and countries, among them the [[americas]], [[canada]], [[china]], [[croatia]], [[mexico]], [[korea]], [[austria]], [[belgium]], [[peru]], the [[philippines]] and vietnam, as well as of families, fathers, expectant mothers (pregnant women), travelers, [[immigrant]]s, house sellers and buyers, craftsmen, engineers, and working people in general.
+
+194what jamaican money called?	[u'United States dollar']	[u'Greenback: The Almighty Dollar and the Invention of America', u'The 21 Success Secrets of Self-Made Millionaires', u'Some Thoughts Concerning Education', u'Fiat Money Inflation in France', u'Devil May Care', '...']	0	EMPTY	book.book_subject.works	NONE	Money
+Empty
+Top5
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> book subject works --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+monetary policy is the process by which a [[government]], central bank, or [[monetary authority]] manages the [[money supply]] to achieve specific goals.
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> object name --> x
+Number of support sentences = 129, Number of summary sentences = 7
+Example support sentence:
+[[file:rian archive 978776 printing paper money at goznak factory in perm.jpg|thumb|right|printing paper money at a printing press in [[perm]]]]
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> film subject films --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> symbolism symbol --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> quotation subject quotations about this subject --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+195what is the islamic belief?	[u'God in Islam', u'Monotheism', u'Qiyamah', u'Predestination in Islam', u'Tawhid', u'Masih ad-Dajjal', u'Islamic holy books', u'Prophets in Islam', u'Islamic view of angels']	[u'Belief']	0	EMPTY	type.object.name	NONE	Belief
+Empty
+Top5
+Entity Score = 0.889577, F1 = 0.000000, graph = belief --> object name --> x
+Number of support sentences = 172, Number of summary sentences = 7
+Example support sentence:
+===approaches to the beliefs of others===
+Entity Score = 0.889577, F1 = 0.000000, graph = belief --> equivalent topic equivalent type --> x
+Number of support sentences = 172, Number of summary sentences = 7
+Example support sentence:
+===approaches to the beliefs of others===
+Entity Score = 0.889577, F1 = 0.000000, graph = belief --> quotation subject quotations about this subject --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+212who influenced picasso art?	[u'\xc9douard Manet', u'Paul C\xe9zanne', u'Henri Rousseau', u'Paul Gauguin', u'Sara Murphy', u'Diego Vel\xe1zquez', u'Jean Auguste Dominique Ingres', u'Eug\xe8ne Delacroix', u'Alfred Jarry', u'Francisco Goya']	[u'Art?']	0	EMPTY	type.object.name	NONE	Art?
+Empty
+Top5
+Entity Score = 0.500000, F1 = 0.000000, graph = art --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = art --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+223what is malaysian currency?	[u'Malaysian ringgit']	[u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']	0	EMPTY	book.book_subject.works	NONE	Currency
+Empty
+Top5
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> object name --> x
+Number of support sentences = 79, Number of summary sentences = 6
+Example support sentence:
+== currency convertibility ==
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> topic image --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> equivalent topic equivalent type --> x
+Number of support sentences = 79, Number of summary sentences = 6
+Example support sentence:
+== currency convertibility ==
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> ikariam resource category resources --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+a '''currency''' (from {{lang-enm|curraunt}}, "in circulation", from {{lang-la|currens, -entis}}) in the most specific use of the word refers to [[money]] in any form when in actual use or circulation as a [[medium of exchange]], especially circulating [[banknote]]s and [[coin]]s.<ref>{{cite web | url = http://www.thefreedictionary.com/currency | title = currency | publisher = the free dictionary}}</ref><ref name=bernstein>{{cite book |last =bernstein |first =peter |authorlink =peter l. bernstein |title=a primer on money, banking and gold | edition = 3rd |year=2008 |origyear=1965 |publisher=wiley |location=hoboken, nj  |isbn=978-0-470-28758-3 |oclc = 233484849 |chapter= 4–5}}</ref> a more general definition is that a currency is a ''system of money'' (monetary units) in common use, especially in a nation.<ref>{{cite web | url = http://www.investopedia.com/terms/c/currency.asp#axzz2cqfsx9bd | title = currency | publisher = investopedia}}</ref> under this definition, us dollars, british pounds, australian dollars, and european euros are examples of currency.
+
+224where will tebow go in 2013?	[u'New York Jets']	[u'Tennessee', u'Claiborne County']	0	EMPTY	location.location.containedby	NONE	Goin
+Empty
+Top5
+Entity Score = 0.231707, F1 = 0.000000, graph = goin --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = goin moselle --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.231707, F1 = 0.000000, graph = goin --> object name --> x
+Number of support sentences = 6, Number of summary sentences = 0
+Example support sentence:
+{{wiktionary|goin}}
+Entity Score = 0.500000, F1 = 0.000000, graph = goin moselle --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.231707, F1 = 0.000000, graph = goin --> topic alias --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+249where do they speak turkish?	[u'Turkey', u'Republic of Macedonia', u'Austria', u'Cyprus', u'Republic of Kosovo']	[u'They Speak']	0	EMPTY	type.object.name	NONE	They Speak
+Empty
+Top5
+Entity Score = 0.500000, F1 = 0.000000, graph = they speak --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = they speak --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+257who did shaq first play for?	[u'Orlando Magic']	[u'FirstPlay']	0	EMPTY	type.object.name	NONE	FirstPlay
+Empty
+Top5
+Entity Score = 0.980263, F1 = 0.000000, graph = firstplay --> object name --> x
+Number of support sentences = 20, Number of summary sentences = 1
+Example support sentence:
+'''''firstplay''''' was a video gaming [[online magazine]] published by [[future publishing]] for [[sony computer entertainment europe]].
+Entity Score = 0.333333, F1 = 0.000000, graph = for --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.333333, F1 = 0.000000, graph = for --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.333333, F1 = 0.000000, graph = for --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.980263, F1 = 0.000000, graph = firstplay --> topic official website --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+|website = http://www.firstplay.co.uk
+
+271what are abraham sons names?	[u'Zimran', u'Ishbak', u'Midian', u'Shuah', u'Ishmael', u'Jokshan', u'Isaac', u'Medan']	[u'Name']	0	EMPTY	type.object.name	NONE	Name
+Empty
+Top5
+Entity Score = 0.100480, F1 = 0.000000, graph = name --> object name --> x
+Number of support sentences = 77, Number of summary sentences = 7
+Example support sentence:
+in the ancient world, particularly in the ancient near-east ([[israel]], [[mesopotamia]], [[egypt]], [[persia]]) names were thought to be extremely powerful and to act, in some ways, as a separate manifestation of a person or deity.<ref>"egyptian religion", e. a. wallis budge", arkana 1987 edition,  isbn 0-14-019017-1</ref> this viewpoint is responsible both for the reluctance to use the proper name of [[god]] in [[hebrew language|hebrew]] writing or speech, as well as the common understanding in ancient [[magic (paranormal)|magic]] that magical rituals had to be carried out "in [someone's] name".
+Entity Score = 0.100480, F1 = 0.000000, graph = name --> topic alias --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.100480, F1 = 0.000000, graph = name --> topic image --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.100480, F1 = 0.000000, graph = name --> processed with review queue question id --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+278what timezone is sweden gmt?	[u'Central European Time', u'UTC+01:00']	[u'Time zone']	0	EMPTY	type.object.name	NONE	Time zone
+Empty
+Top5
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> object name --> x
+Number of support sentences = 96, Number of summary sentences = 4
+Example support sentence:
+for example, the border between its eastern and central time zones ran through [[detroit]], [[buffalo, new york|buffalo]], [[pittsburgh]], [[atlanta]], and [[charleston, south carolina|charleston]].
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> linguistic hint subject form --> x
+Number of support sentences = 47, Number of summary sentences = 3
+Example support sentence:
+for example, the border between its eastern and central time zones ran through [[detroit]], [[buffalo, new york|buffalo]], [[pittsburgh]], [[atlanta]], and [[charleston, south carolina|charleston]].
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> equivalent topic equivalent type --> x
+Number of support sentences = 96, Number of summary sentences = 4
+Example support sentence:
+for example, the border between its eastern and central time zones ran through [[detroit]], [[buffalo, new york|buffalo]], [[pittsburgh]], [[atlanta]], and [[charleston, south carolina|charleston]].
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> ontology instance mapping uri --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> ontology instance mapping ontology --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+293where did john franklin live?	[u'Blue Island']	[u'Spilsby']	0	EMPTY	people.person.place_of_birth	NONE	John Franklin
+Empty
+Top5
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> person place of birth --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+[[file:john franklin iln.jpg|thumb|left|sketch of the statue at spilsby prior to installation (1861)]]
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> marriage spouse --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+in 1823, after returning to england, sir john franklin married the poet [[eleanor anne porden]].
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> object name --> x
+Number of support sentences = 31, Number of summary sentences = 1
+Example support sentence:
+* joel, c. r. (2011) ''a tale of ambition and unrealised hope: john montagu and sir john franklin''.
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> kwtopic has sentences --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+295what county is st paul nc in?	[u'Robeson County']	[u'Commerce Building', u'Benjamin Brunson House', u'Colorado Street Bridge', u'Finch, Vanslyck, and McConville Dry Goods Company Building', u'James Griffin Stadium', '...']	0	EMPTY	location.location.contains	NONE	Saint Paul
+Empty
+Top5
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> administrative division capital relationship administrative division --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> place with neighborhoods neighborhoods --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> bibs location country --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+315who do islamic people follow?	[u'Allah']	[u'English Language']	0	EMPTY	book.periodical.language	NONE	People
+Empty
+Top5
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure person --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> object name --> x
+Number of support sentences = 19, Number of summary sentences = 2
+Example support sentence:
+outside the united states, criminal trials in [[republic of ireland|ireland]] and the [[philippines]] are prosecuted in the name of the people of their respective states.
+Entity Score = 0.222446, F1 = 0.000000, graph = people --> object name --> x
+Number of support sentences = 19, Number of summary sentences = 2
+Example support sentence:
+outside the united states, criminal trials in [[republic of ireland|ireland]] and the [[philippines]] are prosecuted in the name of the people of their respective states.
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical subjects --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+337what does anne frank died of?	[u'Typhus']	[u'Epidemic typhus']	0	EMPTY	people.deceased_person.cause_of_death	NONE	Anne Frank
+Empty
+Top5
+Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.972300, F1 = 0.000000, graph = anne frank --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+338what does janelle brown work?	[u'Actor']	[u'Becoming Sister Wives: The Story of an Unconventional Marriage']	0	EMPTY	book.author.works_written	NONE	Janelle Brown
+Empty
+Top5
+Entity Score = 0.256579, F1 = 0.000000, graph = janelle brown --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.736842, F1 = 0.000000, graph = janelle brown --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = brown work --> image rights holder text attribution --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = brown work --> image appears in topic gallery --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.736842, F1 = 0.000000, graph = janelle brown --> object name --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+367what is tatu baby's real name?	[u'Yulia Volkova']	[u'Rush Limbaugh, Sr.', u'Mildred Limbaugh']	0	EMPTY	people.person.parents	NONE	Rush Limbaugh
+Empty
+Top5
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> canoodled participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = s real --> artist track --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+370who played donna on west wing?	[u'Catherine Tate']	[u'Tori Spelling']	0	EMPTY	tv.tv_character.appeared_in_tv_episodes..tv.tv_guest_role.actor	NONE	Donna
+Empty
+Top5
+Entity Score = 0.165988, F1 = 0.000000, graph = donna --> tv guest role actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.592246, F1 = 0.000000, graph = the west wing --> regular tv appearance actor --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.592246, F1 = 0.000000, graph = the west wing --> award honor award winner --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+Entity Score = 0.592246, F1 = 0.000000, graph = the west wing --> award nomination award nominee --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.592246, F1 = 0.000000, graph = the west wing --> tv producer term producer --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+
+376what time zone is toronto gmt?	[u'North American Eastern Time Zone']	[u'Make Your Move ~koudou wo okose~', u'Secret Base ~Kimi ga Kureta Mono~ (Backing Track)', u'Egao Biyori', u'\u4e00\u96eb (Backing Tracks)', u'Renren (Backing Track)', '...']	0	EMPTY	music.artist.track	NONE	Zone
+Empty
+Top5
+Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist track --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+* ''[[in the zone]]'', a britney spears album
+Entity Score = 0.254112, F1 = 0.000000, graph = time --> book subject works --> x
+Number of support sentences = 432, Number of summary sentences = 20
+Example support sentence:
+* ''[[a brief history of time]]'' by [[stephen hawking]]
+Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist album --> x
+Number of support sentences = 63, Number of summary sentences = 0
+Example support sentence:
+*''in the zone'', the third part of thomas pynchon's novel ''[[gravity's rainbow]]''
+Entity Score = 0.603984, F1 = 0.000000, graph = time --> periodical language --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+{{cite journal | url=http://ahdictionary.com/word/search.html?q=time | title=time | work=the american heritage dictionary of the english language | edition=fourth | publisher=houghton mifflin company | date=2011 | quote=a nonspatial continuum in which events occur in apparently irreversible succession from the past through the present to the future.
+Entity Score = 0.603984, F1 = 0.000000, graph = time --> employment tenure person --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+385where is augusta masters 2012?	[u'Augusta National Golf Course']	[u'First Presbyterian Church', u'Augusta Canal', u'Augusta Regional Airport', u'Phinizy Swamp Nature Park', u'Daniel Field', '...']	0	EMPTY	location.location.contains	NONE	Augusta
+Empty
+Top5
+Entity Score = 0.260422, F1 = 0.000000, graph = augusta --> location contains --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+**[[augusta national golf club]] ("augusta"), home of the masters tournament
+Entity Score = 0.260422, F1 = 0.000000, graph = augusta --> hud county place county --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.260422, F1 = 0.000000, graph = augusta --> administrative division capital relationship administrative division --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.260422, F1 = 0.000000, graph = augusta --> hud county place place --> x
+Number of support sentences = 69, Number of summary sentences = 0
+Example support sentence:
+*[[augusta, arkansas]]
+Entity Score = 0.136599, F1 = 0.000000, graph = augusta --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+392who do islamic people pray to?	[u'Allah']	[u'English Language']	0	EMPTY	book.periodical.language	NONE	People
+Empty
+Top5
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure person --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure title --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical publisher period publisher --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> magazine genre --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+401what movies did tupac star in?	[u'Nothing but Trouble']	[u"Mike Nelson's Movie Megacheese", u'City Boys', u'Red dragon', u'The Magic Behind the Voices', u'Mondo Macabro', '...']	0	EMPTY	book.book_subject.works	NONE	Film
+Empty
+Top5
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> book subject works --> x
+Number of support sentences = 277, Number of summary sentences = 17
+Example support sentence:
+but, cinemas may also show theatrical movies from their home video transfers that include blu-ray disc, dvd, and videocassette when they possess sufficient projection quality or based upon need, such as movies that exist only in their transferred state, which may be due to the loss or deterioration of the film master and prints from which the movie originally existed.
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> education specialization --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+however, films with credits that end a film often repeat some credits at or near the start of a film and therefore appear twice, such as that film's acting leads, while less frequently some appearing near or at the beginning only appear there, not at the end, which often happens to the director's credit.
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> industry parent industry --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> industry child industry --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> education institution --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+hand-painted images based on the photographs were projected as moving images by means of his [[zoopraxiscope]].<ref>williams, alan larson (1992) [https://books.google.com/books?id=esvzoghoi6kc&pg=pa17&dq=eadweard+muybridge+horse+-+english+photographer&hl=en&ei=755ftlkabogblaffoknbba&sa=x&oi=book_result&ct=result&resnum=8&ved=0cfcq6aewbw#v=onepage&q=eadweard%20muybridge%20horse%20-%20english%20photographer&f=false republic of images: a history of french filmmaking] harvard university press</ref>
+
