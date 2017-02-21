@@ -58,7 +58,7 @@ if __name__ == '__main__':
         if (event == 'end'):
             for e in elem:
                 print e.tag[len(prefix):],
-                print
+            print
 
         #if (event == 'end') and (elem.tag == 'title'):
         #    print elem.text[11:]
