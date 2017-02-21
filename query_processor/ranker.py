@@ -199,10 +199,10 @@ class FactCandidate(object):
         self.add_feature(float(self.score))
 
         # Add wiki popularity
-        self.add_feature(len(self.support))
+        #self.add_feature(len(self.support))
 
         # Add wiki summary popularity
-        self.add_feature(len(self.support_summary))
+        #self.add_feature(len(self.support_summary))
 
         # Add number of nodes
         # relations = self.relation.split("\n")
