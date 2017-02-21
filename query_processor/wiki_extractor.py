@@ -42,12 +42,16 @@ class WikiExtractor(object):
                     if (event == 'end') and (elem.tag == 'title'):
                         self.abstract.add(elem.text[11:].lower())
             d = {}
+            prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
             if candidate.subject in self.abstract:
                 for event, elem in etree.iterparse(
                     self.data_xml,
                     events=('start', 'end', 'start-ns', 'end-ns')
                 ):
-                    pass
+                    if (event == 'end' and elem.tag[len(prefix):] == 'page'):
+                        for e in elem:
+
+
 
 
 
@@ -58,10 +62,12 @@ if __name__ == '__main__':
     count = 0
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
-            print elem
-            for e in elem:
-                print e.tag[len(prefix):],
-            print
+            title = elem.find(prefix+"title")
+            print title.text
+            #print elem
+            #for e in elem:
+            #    print e.tag[len(prefix):],
+            #print
 
         #if (event == 'end') and (elem.tag == 'title'):
         #    print elem.text[11:]
