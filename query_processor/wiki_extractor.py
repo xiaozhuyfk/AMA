@@ -70,6 +70,6 @@ if __name__ == '__main__':
             text = revision.find(prefix + "text")
             sentences = text.text.strip().split(". ")
             for sent in sentences:
-                print sent
+                print "####YOYOYOOY####", sent
             if title.text == "Anachism":
                 break
