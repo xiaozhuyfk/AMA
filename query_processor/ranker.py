@@ -141,8 +141,7 @@ class FactCandidate(object):
             object = object.lower()
             for sent in sentences:
                 sent = sent.lower()
-                if self.subject in sent and object in sent:
-                    print("I have it?")
+                if self.subject.lower() in sent and object in sent:
                     self.support.add(sent)
 
         # support sentences from wikipedia summary
@@ -160,7 +159,7 @@ class FactCandidate(object):
             object = object.lower()
             for sent in sentences:
                 sent = sent.lower()
-                if self.subject in sent and object in sent:
+                if self.subject.lower() in sent and object in sent:
                     self.support_summary.add(sent)
 
         graph_tokens = [" ".join(self.subject_tokens),
