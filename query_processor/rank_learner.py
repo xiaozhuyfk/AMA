@@ -49,6 +49,7 @@ def main():
     process_parser.set_defaults(which='model')
 
     wiki_parser = subparsers.add_parser('wiki', help="extract wiki data")
+    wiki_parser.add_argument('dataset', help='dataset')
     wiki_parser.set_defaults(which='wiki')
 
     args = parser.parse_args()
