@@ -291,7 +291,7 @@ class Ranker(object):
             facts = json["facts"]
             for ie in facts:
                 subject = ie["subject"].lower()
-                sid = ie["sid"]
+                sid = ie["sid"].replace(".", "-")
                 modules.wiki_extractor.extract_wiki_page(dataset, query, subject, sid)
 
     def extract_fact_candidates(self, dataset):
