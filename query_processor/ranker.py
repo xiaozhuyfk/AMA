@@ -130,6 +130,7 @@ class FactCandidate(object):
         self.f1 = computeF1(self.answers, self.objects)[2]
 
         # support sentences
+        """
         sentences = modules.wiki_extractor.extract_wiki_page(
             query.dataset,
             query,
@@ -143,6 +144,7 @@ class FactCandidate(object):
                 sent = sent.lower()
                 if self.subject in sent and object in sent:
                     self.support.add(sent)
+        """
 
         # support sentences from wikipedia summary
         sentences = []
@@ -169,8 +171,8 @@ class FactCandidate(object):
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
         self.message += "Number of support sentences = %d, Number of summary sentences = %d\n" % (len(self.support), len(self.support_summary))
         self.message += "Example support sentence:\n"
-        if len(self.support) > 0:
-            self.message += list(self.support)[0]
+        if len(self.support_summary) > 0:
+            self.message += list(self.support_summary)[0]
 
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
@@ -198,7 +200,7 @@ class FactCandidate(object):
         self.add_feature(float(self.score))
 
         # Add wiki popularity
-        self.add_feature(len(self.support))
+        #self.add_feature(len(self.support))
 
         # Add wiki summary popularity
         self.add_feature(len(self.support_summary))
