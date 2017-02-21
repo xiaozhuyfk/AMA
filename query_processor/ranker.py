@@ -142,6 +142,7 @@ class FactCandidate(object):
             for sent in sentences:
                 sent = sent.lower()
                 if self.subject in sent and object in sent:
+                    print("I have it?")
                     self.support.add(sent)
 
         # support sentences from wikipedia summary
@@ -757,6 +758,7 @@ class Ranker(object):
 
             except Exception:
                 logger.info("Error processing query" + " " + str(query.id))
+            break
 
         print("")
         print(cover)
