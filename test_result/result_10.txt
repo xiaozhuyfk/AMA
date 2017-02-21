@@ -2770,3 +2770,669 @@ Entity Score = 0.992845, F1 = 0.000000, graph = nashville --> location contains 
 Number of support sentences = 0, Number of summary sentences = 0
 Example support sentence:
 
+413where was elvis costello born?	[u'Paddington']	[u'Paddington']	1.0	people.person.place_of_birth	people.person.place_of_birth	Elvis Costello	Elvis Costello
+Entity Score = 0.999717, F1 = 1.000000, graph = elvis costello --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999717, F1 = 1.000000, graph = elvis costello --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999717, F1 = 0.000000, graph = elvis costello --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999717, F1 = 0.000000, graph = elvis costello --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999717, F1 = 0.000000, graph = elvis costello --> education institution --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999717, F1 = 0.000000, graph = elvis costello --> person children --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+414what language speak in brazil?	[u'Brazilian Portuguese', u'Portuguese Language', u'Italian Language']	[u'Brazilian Portuguese', u'Portuguese Language', u'Italian Language']	1.0	location.country.languages_spoken	location.country.languages_spoken	Brazil	Brazil
+Entity Score = 0.797211, F1 = 1.000000, graph = brazil --> country languages spoken --> x
+Number of support sentences = 8, Number of summary sentences = 0
+Example support sentence:
+brazil is the only portuguese-speaking nation in the americas, making the language an important part of brazilian national identity and giving it a national culture distinct from those of its spanish-speaking neighbors.<ref name="language2">{{cite web|url=http://countrystudies.us/brazil/39.htm|title=portuguese language and the brazilian singularity}}</ref>
+Top5
+Entity Score = 0.797211, F1 = 1.000000, graph = brazil --> country languages spoken --> x
+Number of support sentences = 8, Number of summary sentences = 0
+Example support sentence:
+brazil is the only portuguese-speaking nation in the americas, making the language an important part of brazilian national identity and giving it a national culture distinct from those of its spanish-speaking neighbors.<ref name="language2">{{cite web|url=http://countrystudies.us/brazil/39.htm|title=portuguese language and the brazilian singularity}}</ref>
+Entity Score = 0.797211, F1 = 0.500000, graph = brazil --> country official language --> x
+Number of support sentences = 8, Number of summary sentences = 0
+Example support sentence:
+brazil is the only portuguese-speaking nation in the americas, making the language an important part of brazilian national identity and giving it a national culture distinct from those of its spanish-speaking neighbors.<ref name="language2">{{cite web|url=http://countrystudies.us/brazil/39.htm|title=portuguese language and the brazilian singularity}}</ref>
+Entity Score = 0.797211, F1 = 0.000000, graph = brazil --> country form of government --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+the official language of brazil is portuguese<ref name="cia people">{{cite web |title=people of brazil |work=the world factbook |publisher=central intelligence agency |year=2008 |url=https://www.cia.gov/library/publications/the-world-factbook/geos/br.html |accessdate=3 june 2008}}</ref> (article 13 of the constitution of the federal republic of brazil), which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes.
+Entity Score = 0.797211, F1 = 0.000000, graph = brazil --> location contains --> x
+Number of support sentences = 153, Number of summary sentences = 4
+Example support sentence:
+the current president is [[michel temer]], who replaced [[dilma rousseff]] after her [[impeachment of dilma rousseff|impeachment]].<ref name="auto">{{cite web|url=http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote/index.html|title=brazil's senate ousts rousseff in impeachment vote|last=cnn|first=catherine e. shoichet and euan mckirdy|website=cnn|access-date=31 august 2016}}</ref> the president appoints the [[minister of state|ministers of state]], who assist in government.<ref name="constituição"/> legislative houses in each political entity are the main source of law in brazil.
+Entity Score = 0.797211, F1 = 0.000000, graph = brazil --> location containedby --> x
+Number of support sentences = 24, Number of summary sentences = 2
+Example support sentence:
+george philander|title=encyclopedia of global warming and climate change, second edition|url=https://books.google.com/books?id=b8ve92tdqeec&pg=pa148|year=2012|publisher=princeton university |isbn=978-1-4129-9261-9|page=148}}</ref><ref name="crocittivallance2011">{{cite book|author1=john j. crocitti|author2=monique vallance|title=brazil today: an encyclopedia of life in the republic|url=https://books.google.com/books?id=vp9jhaol_s4c&pg=pr23|year=2011|publisher=south dakota state university|isbn=978-0-313-34673-6|page=23}}</ref> bounded by the atlantic ocean on the east, brazil has a [[coastline of brazil|coastline]] of {{convert|7491|km|mi|0|sp=us}}<ref name="cia geo"/> it borders all other south american countries except ecuador and chile and covers 47.3% of the continent's land area.<ref>{{cite web|url=http://www.un.int/brazil/brasil/brazil-land.htm |title=brazil – land |publisher= |deadurl=yes |archiveurl=https://web.archive.org/web/20141023154830/http://www.un.int/brazil/brasil/brazil-land.htm |archivedate=23 october 2014}}</ref> its [[amazon river basin]] includes a [[amazon rainforest|vast tropical forest]], home to diverse [[wildlife of brazil|wildlife]], a variety of [[environment of brazil|ecological system]]s, and extensive natural resources spanning numerous [[protected areas of brazil|protected habitats]].<ref name="cia geo">{{cite web |title=geography of brazil |work=the world factbook |publisher=central intelligence agency |year=2008 |url=https://www.cia.gov/library/publications/the-world-factbook/geos/br.html |accessdate=3 june 2008}}</ref> this unique environmental heritage makes brazil one of 17 [[megadiverse countries]], and is the subject of significant global interest and debate regarding deforestation and environmental protection.
+
+416where does sherrod brown live?	[u'Mansfield']	[u'Mansfield']	1.0	people.person.place_of_birth	people.person.places_lived..people.place_lived.location	Sherrod Brown	Sherrod Brown
+Entity Score = 0.999981, F1 = 1.000000, graph = sherrod brown --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999981, F1 = 1.000000, graph = sherrod brown --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999981, F1 = 1.000000, graph = sherrod brown --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999981, F1 = 0.000000, graph = sherrod brown --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999981, F1 = 0.000000, graph = sherrod brown --> government position held district represented --> x
+Number of support sentences = 12, Number of summary sentences = 0
+Example support sentence:
+"<ref>{{cite news |title=stimulus bill approved; ohio sen. sherrod brown rushes back to capitol to cast deciding vote |first=jack |last=torry |newspaper=the columbus dispatch |date=february 14, 2009}}</ref>
+Entity Score = 0.999981, F1 = 0.000000, graph = sherrod brown --> government position held jurisdiction of office --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+421what did george clemenceau do?	[u'Newspaper', u'Physician', u'Statesman', u'Publisher']	[u'Newspaper', u'Physician', u'Statesman', u'Publisher']	1.0	people.person.profession	people.person.profession	Georges Clémenceau	Georges Clémenceau
+Entity Score = 1.000000, F1 = 1.000000, graph = georges clémenceau --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = georges clémenceau --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = georges clémenceau --> political party tenure party --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = georges clémenceau --> person religion --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = georges clémenceau --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = georges clémenceau --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+422where was shakespeare born at?	[u'Stratford-upon-Avon']	[u'Stratford-upon-Avon']	1.0	people.deceased_person.place_of_death	people.deceased_person.place_of_death	William Shakespeare	William Shakespeare
+Entity Score = 0.956381, F1 = 1.000000, graph = william shakespeare --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.956381, F1 = 1.000000, graph = william shakespeare --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.956381, F1 = 1.000000, graph = william shakespeare --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.956381, F1 = 1.000000, graph = william shakespeare --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.956381, F1 = 0.000000, graph = william shakespeare --> book subject works --> x
+Number of support sentences = 1, Number of summary sentences = 1
+Example support sentence:
+#redirect [[william shakespeare]] {{r from other capitalisation}}
+
+428where did leif ericson grow up?	[u'Iceland']	[u'Iceland']	1.0	people.person.place_of_birth	people.person.place_of_birth	Leif Ericson	Leif Ericson
+Entity Score = 0.996210, F1 = 1.000000, graph = leif ericson --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.996210, F1 = 1.000000, graph = leif ericson --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.996210, F1 = 0.000000, graph = leif ericson --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.996210, F1 = 0.666667, graph = leif ericson --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.996210, F1 = 0.000000, graph = leif ericson --> person religion --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996210, F1 = 0.000000, graph = leif ericson --> person children --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+434what drugs lindsay lohan abuse?	[u'Cocaine', u'Alcoholic beverage']	[u'Cocaine', u'Alcoholic beverage']	1.0	base.popstra.celebrity.substance_abuse..base.popstra.substance_abuse.substance	base.popstra.celebrity.substance_abuse..base.popstra.substance_abuse.substance	Lindsay Lohan	Lindsay Lohan
+Entity Score = 0.999956, F1 = 1.000000, graph = lindsay lohan --> substance abuse substance --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999956, F1 = 1.000000, graph = lindsay lohan --> substance abuse substance --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999956, F1 = 0.666667, graph = lindsay lohan --> substance abuse problem substance --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999956, F1 = 0.000000, graph = lindsay lohan --> performance character --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+#redirect [[lindsay lohan]] {{r from other capitalisation}}
+Entity Score = 0.999956, F1 = 0.000000, graph = lindsay lohan --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999956, F1 = 0.000000, graph = lindsay lohan --> performance film --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+436what are dallas cowboys colors?	[u'Blue', u'Royal blue', u'White', u'Silver', u'Navy Blue']	[u'Blue', u'Navy Blue', u'White', u'Silver', u'Royal blue']	1.0	sports.sports_team.colors	sports.sports_team.colors	Dallas Cowboys	Dallas Cowboys
+Entity Score = 0.875513, F1 = 1.000000, graph = dallas cowboys --> sports team colors --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.875513, F1 = 1.000000, graph = dallas cowboys --> sports team colors --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.875513, F1 = 0.000000, graph = dallas cowboys --> sports team championships --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.875513, F1 = 0.000000, graph = dallas cowboys --> football roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.875513, F1 = 0.000000, graph = dallas cowboys --> sports team season record season --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.875513, F1 = 0.000000, graph = dallas cowboys --> player nfl team --> x
+Number of support sentences = 1, Number of summary sentences = 2
+Example support sentence:
+#redirect [[dallas cowboys]] {{r from other capitalisation}}
+
+441what did joan crawford died of?	[u'Myocardial infarction', u'Pancreatic cancer']	[u'Myocardial infarction', u'Pancreatic cancer']	1.0	people.deceased_person.cause_of_death	people.deceased_person.cause_of_death	Joan Crawford	Joan Crawford
+Entity Score = 0.975560, F1 = 1.000000, graph = joan crawford --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.975560, F1 = 1.000000, graph = joan crawford --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.975560, F1 = 0.000000, graph = joan crawford --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.975560, F1 = 0.000000, graph = joan crawford --> place lived location --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+cassin was accused of embezzlement and although acquitted in court, was blacklisted in lawton, and the family moved to [[kansas city, missouri]], around 1916.<ref name="spoto">{{cite book|last=spoto|first=donald|title=possessed - the life of joan crawford|year=2010|publisher=harper collins|isbn=978-0-06-185600-6|pages=6–14}}</ref> cassin was first listed in the city directory in 1917, living at 403 east ninth street.
+Entity Score = 0.975560, F1 = 0.000000, graph = joan crawford --> regular tv appearance character --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+crawford made three more television appearances, as stephanie white in a 1970 episode ("the nightmare") of ''[[the virginian (tv series)|the virginian]]''<ref>{{cite web|url=https://www.youtube.com/watch?v=vkojl6lrhqi|title=joan crawford in "the virginian" part 1 of 8|work=[[youtube]]|accessdate=october 6, 2012}}</ref> and as joan fairchild (her final performance) in a 1972 episode ("dear joan: we're going to scare you to death") of ''[[the sixth sense (tv series)|the sixth sense]]''.<ref>{{cite web|url=https://www.youtube.com/watch?v=dirpti_ud_q|title=joan crawford on the sixth sense|work=[[youtube]]|accessdate=october 6, 2012}}</ref>
+Entity Score = 0.975560, F1 = 0.000000, graph = joan crawford --> performance character --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+it epitomized the lush visual style and the hard-boiled [[film noir]] sensibility that defined warner bros. movies of the late forties, earning crawford the [[academy award]] for [[academy award for best actress|best actress in a leading role]].<ref>{{cite web|last1=miller|first1=julie|title=the academy award that joan crawford accepted in bed sells; can you guess for how much?|url=http://www.vanityfair.com/online/oscars/2012/09/joan-crawford-academy-award-auction|website=vanity fair|accessdate=december 23, 2014|date=september 26, 2012}}</ref>
+
+455where is tupac from originally?	[u'East Harlem']	[u'East Harlem']	1.0	people.person.place_of_birth	people.person.place_of_birth	Tupac Shakur	Tupac Shakur
+Entity Score = 0.755502, F1 = 1.000000, graph = tupac shakur --> person place of birth --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+shakur was born on june 16, 1971, in the [[east harlem]] section of [[manhattan]] in [[new york city]].<ref>{{harv|hoye|2006|p=30}}</ref> his birth name was lesane parish crooks, but in 1972, he was renamed after the last incan emperor,<ref>{{cite web|author=cathy scott |url=http://www.lasvegassun.com/news/1996/oct/02/22-year-old-arrested-in-tupac-shakur-killing/#axzz2tfq6ldhs |title=22-year-old arrested in tupac shakur killing - las vegas sun news |publisher=lasvegassun.com |accessdate=september 13, 2013}}</ref><ref name="cathyscott1">{{cite web|title=tupac coroner's report|url=http://www.cathyscott.com/artcls/tupac%20coroners%20report.html|publisher=[[cathy scott]]|accessdate=july 24, 2007|archiveurl=https://web.archive.org/web/20110723212104/http://www.cathyscott.com/artcls/tupac%20coroners%20report.html|archivedate=july 23, 2011}}</ref><ref>{{cite web|author=debra d. bass |url=http://www.lasvegassun.com/news/1997/sep/04/book-chronicling-shakur-murder-set-to-hit-stores/#axzz2tfq6ldhs |title=book chronicling shakur murder set to hit stores - las vegas sun news |publisher=lasvegassun.com |accessdate=september 13, 2013}}</ref> [[túpac amaru ii]],<ref>john crow "the epic of america", page 408.</ref><ref>{{cite web|url=http://charlesfwalker.com/tupac-shakur-tupac-amaru/|author=charles f. walker|title=tupac shakur and tupac amaru}}</ref> the 18th-century [[viceroyalty of peru|peruvian]] [[revolutionary]] who was executed after leading an [[indigenous peoples|indigenous]] uprising against [[spanish empire|spanish rule]].<ref>{{cite web|url=http://www.history.ucsb.edu/faculty/marcuse/classes/2c/col&neocolonlatamscline034.pdf |title=colonial and neocolonial latin america (1750–1900) |format=pdf |accessdate=october 14, 2010}}</ref> shakur was of [[african-american]] descent.<ref>{{cite web|url=http://mycolumbuspower.com/2916523/rare-interview-with-tupacs-biological-father-video/|publisher=power 107.5|title=rare interview with tupac's biological father}}</ref>
+Top5
+Entity Score = 0.755502, F1 = 1.000000, graph = tupac shakur --> person place of birth --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+shakur was born on june 16, 1971, in the [[east harlem]] section of [[manhattan]] in [[new york city]].<ref>{{harv|hoye|2006|p=30}}</ref> his birth name was lesane parish crooks, but in 1972, he was renamed after the last incan emperor,<ref>{{cite web|author=cathy scott |url=http://www.lasvegassun.com/news/1996/oct/02/22-year-old-arrested-in-tupac-shakur-killing/#axzz2tfq6ldhs |title=22-year-old arrested in tupac shakur killing - las vegas sun news |publisher=lasvegassun.com |accessdate=september 13, 2013}}</ref><ref name="cathyscott1">{{cite web|title=tupac coroner's report|url=http://www.cathyscott.com/artcls/tupac%20coroners%20report.html|publisher=[[cathy scott]]|accessdate=july 24, 2007|archiveurl=https://web.archive.org/web/20110723212104/http://www.cathyscott.com/artcls/tupac%20coroners%20report.html|archivedate=july 23, 2011}}</ref><ref>{{cite web|author=debra d. bass |url=http://www.lasvegassun.com/news/1997/sep/04/book-chronicling-shakur-murder-set-to-hit-stores/#axzz2tfq6ldhs |title=book chronicling shakur murder set to hit stores - las vegas sun news |publisher=lasvegassun.com |accessdate=september 13, 2013}}</ref> [[túpac amaru ii]],<ref>john crow "the epic of america", page 408.</ref><ref>{{cite web|url=http://charlesfwalker.com/tupac-shakur-tupac-amaru/|author=charles f. walker|title=tupac shakur and tupac amaru}}</ref> the 18th-century [[viceroyalty of peru|peruvian]] [[revolutionary]] who was executed after leading an [[indigenous peoples|indigenous]] uprising against [[spanish empire|spanish rule]].<ref>{{cite web|url=http://www.history.ucsb.edu/faculty/marcuse/classes/2c/col&neocolonlatamscline034.pdf |title=colonial and neocolonial latin america (1750–1900) |format=pdf |accessdate=october 14, 2010}}</ref> shakur was of [[african-american]] descent.<ref>{{cite web|url=http://mycolumbuspower.com/2916523/rare-interview-with-tupacs-biological-father-video/|publisher=power 107.5|title=rare interview with tupac's biological father}}</ref>
+Entity Score = 0.755502, F1 = 0.000000, graph = tupac shakur --> place lived location --> x
+Number of support sentences = 7, Number of summary sentences = 0
+Example support sentence:
+on september 7, 1996, shakur was fatally shot in a drive-by shooting at the intersection of [[flamingo road (las vegas)|flamingo road]] and koval lane in [[las vegas, nevada]].<ref>{{cite news |title=fbi outlines parallels in notorious b.i.g., tupac slayings |author=antonio planas |url=http://www.lvrj.com/news/fbi-outlines-parallels-in-notorious-b-i-g-tupac-slayings-119389104.html |newspaper=[[las vegas review-journal]] |date=april 7, 2011 |accessdate=february 19, 2013}}</ref> he was taken to the [[university medical center of southern nevada]], where he died six days later.<ref name="tsdcd">{{cite web|last1=koch|first1=ed|title=tupac shakur's death certificate details|url=http://www.numberonestars.com/tupacshakur/tupacdeathcertificatedetails.htm|website=numberonestars|publisher=las vegas sun|accessdate=31 december 2016|archiveurl=http://archive.is/izpw|archivedate=23 may 2012|date=october 24, 1997}}</ref>
+Entity Score = 0.755502, F1 = 0.000000, graph = tupac shakur --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.755502, F1 = 0.000000, graph = tupac shakur --> deceased person place of death --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+on september 7, 1996, shakur was fatally shot in a drive-by shooting at the intersection of [[flamingo road (las vegas)|flamingo road]] and koval lane in [[las vegas, nevada]].<ref>{{cite news |title=fbi outlines parallels in notorious b.i.g., tupac slayings |author=antonio planas |url=http://www.lvrj.com/news/fbi-outlines-parallels-in-notorious-b-i-g-tupac-slayings-119389104.html |newspaper=[[las vegas review-journal]] |date=april 7, 2011 |accessdate=february 19, 2013}}</ref> he was taken to the [[university medical center of southern nevada]], where he died six days later.<ref name="tsdcd">{{cite web|last1=koch|first1=ed|title=tupac shakur's death certificate details|url=http://www.numberonestars.com/tupacshakur/tupacdeathcertificatedetails.htm|website=numberonestars|publisher=las vegas sun|accessdate=31 december 2016|archiveurl=http://archive.is/izpw|archivedate=23 may 2012|date=october 24, 1997}}</ref>
+Entity Score = 0.755502, F1 = 0.000000, graph = tupac shakur --> artist origin --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+457where was franz ferdinand from?	[u'Glasgow']	[u'Glasgow']	1.0	music.artist.origin	music.artist.origin	Franz Ferdinand	Franz Ferdinand
+Entity Score = 0.712586, F1 = 1.000000, graph = franz ferdinand --> artist origin --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.712586, F1 = 1.000000, graph = franz ferdinand --> artist origin --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.231535, F1 = 0.000000, graph = archduke franz ferdinand of austria --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.231535, F1 = 0.000000, graph = archduke franz ferdinand of austria --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.231535, F1 = 0.000000, graph = archduke franz ferdinand of austria --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.231535, F1 = 0.000000, graph = archduke franz ferdinand of austria --> person nationality --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+#redirect [[archduke franz ferdinand of austria]] {{r from other capitalisation}}
+
+476when was abe lincoln president?	[u'Abraham Lincoln 1865 presidential inauguration', u'Abraham Lincoln 1861 presidential inauguration']	[u'Abraham Lincoln 1865 presidential inauguration', u'Abraham Lincoln 1861 presidential inauguration']	1.0	base.inaugurations.inauguration_speaker.inauguration	base.inaugurations.inauguration_speaker.inauguration	Abraham Lincoln	Abraham Lincoln
+Entity Score = 1.000000, F1 = 1.000000, graph = abraham lincoln --> inauguration speaker inauguration --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = abraham lincoln --> inauguration speaker inauguration --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.908851, F1 = 1.000000, graph = abraham lincoln --> inauguration speaker inauguration --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = abraham lincoln --> presidential nominee nominated at --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = abraham lincoln --> dedication dedicated to --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.908851, F1 = 0.000000, graph = abraham lincoln --> presidential nominee nominated at --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+486where did louis sachar grow up?	[u'East Meadow']	[u'East Meadow']	1.0	people.person.place_of_birth	people.person.place_of_birth	Louis Sachar	Louis Sachar
+Entity Score = 0.999419, F1 = 1.000000, graph = louis sachar --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999419, F1 = 1.000000, graph = louis sachar --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999419, F1 = 0.000000, graph = louis sachar --> place lived location --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[https://web.archive.org/web/20131202232102/http://www.austinchronicle.com/books/1999-02-26/521429 "louis sachar: top of his class"], ''[[the austin chronicle]]'' 18.26. retrieved 2007-07-24. archived 2013-12-02.</ref>  sachar graduated from [[university of california, hastings college of the law]] in 1980 and did part-time legal work while continuing to write children's books.<ref name= "seat">goodnow, cecelia.
+Entity Score = 0.999419, F1 = 0.000000, graph = louis sachar --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999419, F1 = 0.000000, graph = louis sachar --> person children --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999419, F1 = 0.000000, graph = louis sachar --> person religion --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+488where does kurdish people live?	[u'Asia']	[u'Asia']	1.0	people.ethnicity.geographic_distribution	people.ethnicity.geographic_distribution	Kurdish people	Kurdish people
+Entity Score = 1.000000, F1 = 1.000000, graph = kurdish people --> ethnicity geographic distribution --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = kurdish people --> ethnicity geographic distribution --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = kurdish people --> ethnicity included in group --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = kurdish people --> ethnicity languages spoken --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = kurdish people --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+489where did edgar allan poe died?	[u'Baltimore']	[u'Baltimore']	1.0	people.deceased_person.place_of_death	people.deceased_person.place_of_death	Edgar Allan Poe	Edgar Allan Poe
+Entity Score = 0.986152, F1 = 1.000000, graph = edgar allan poe --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = edgar allan poe --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999997, F1 = 1.000000, graph = edgar allan poe --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.986152, F1 = 1.000000, graph = edgar allan poe --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = edgar allan poe --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999997, F1 = 0.000000, graph = edgar allan poe --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+490what do people speak in canada?	[u'French Language', u'English Language']	[u'French Language', u'English Language']	1.0	location.country.official_language	location.country.official_language	Canada	Canada
+Entity Score = 0.929016, F1 = 1.000000, graph = canada --> country official language --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+the 1977 [[charter of the french language]] established french as the official language of quebec.<ref>{{cite journal|last=bourhis|first=richard y|author2=montaruli, elisa |author3=amiot, catherine e |title=language planning and french-english bilingual communication: montreal field studies from 1977 to 1997|journal=[[international journal of the sociology of language]]|date=may 2007|issue=185|pages=187–224|doi=10.1515/ijsl.2007.031|volume=2007}}</ref> although more than 85 percent of french-speaking canadians live in quebec, there are substantial [[francophone]] populations in [[demographics of new brunswick|new brunswick]], [[franco-albertan|alberta]], and [[franco-manitoban|manitoba]]; [[franco-ontarian|ontario]] has the largest french-speaking population outside quebec.<ref name="webber2015">{{cite book|author=jeremy webber|title=the constitution of canada: a contextual analysis|url=https://books.google.com/books?id=f357bwaaqbaj&pg=pa214|year=2015|publisher=bloomsbury publishing|isbn=978-1-78225-631-1|page=214}}</ref> new brunswick, the only officially bilingual province, has a french-speaking acadian minority constituting 33 percent of the population.<ref name="auer2010b">{{cite book|author=peter auer|title=language and space: an international handbook of linguistic variation.
+Top5
+Entity Score = 0.929016, F1 = 1.000000, graph = canada --> country official language --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+the 1977 [[charter of the french language]] established french as the official language of quebec.<ref>{{cite journal|last=bourhis|first=richard y|author2=montaruli, elisa |author3=amiot, catherine e |title=language planning and french-english bilingual communication: montreal field studies from 1977 to 1997|journal=[[international journal of the sociology of language]]|date=may 2007|issue=185|pages=187–224|doi=10.1515/ijsl.2007.031|volume=2007}}</ref> although more than 85 percent of french-speaking canadians live in quebec, there are substantial [[francophone]] populations in [[demographics of new brunswick|new brunswick]], [[franco-albertan|alberta]], and [[franco-manitoban|manitoba]]; [[franco-ontarian|ontario]] has the largest french-speaking population outside quebec.<ref name="webber2015">{{cite book|author=jeremy webber|title=the constitution of canada: a contextual analysis|url=https://books.google.com/books?id=f357bwaaqbaj&pg=pa214|year=2015|publisher=bloomsbury publishing|isbn=978-1-78225-631-1|page=214}}</ref> new brunswick, the only officially bilingual province, has a french-speaking acadian minority constituting 33 percent of the population.<ref name="auer2010b">{{cite book|author=peter auer|title=language and space: an international handbook of linguistic variation.
+Entity Score = 0.929016, F1 = 0.060606, graph = canada --> country languages spoken --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+in ontario, french has some legal status, but is not fully co-official.<ref>{{cite book|last=heller|first=monica|title=crosswords: language, education and ethnicity in french ontario|year=2003|publisher=[[mouton de gruyter]]|isbn=978-3-11-017687-2|pages=72, 74}}</ref> there are 11 [[languages of canada#aboriginal languages|aboriginal language groups]], composed of more than 65 distinct languages and dialects.<ref>{{cite web|url=http://www.statcan.gc.ca/pub/89-589-x/4067801-eng.htm|title=aboriginal languages|publisher=statistics canada|accessdate=october 5, 2009}}</ref> of these, only the [[cree language|cree]], [[inuit language|inuktitut]] and [[ojibwe language|ojibway]] languages have a large enough population of fluent speakers to be considered viable to [[language extinction|survive in the long term]].<ref>{{cite book|author=olive patricia dickason|title=canada's first nations: a history of founding peoples from earliest times|url=https://books.google.com/books?id=m5khh8l1ldmc&pg=pa419|year=1992|publisher=university of oklahoma press|isbn=978-0-8061-2439-1|page=419}}</ref> several aboriginal languages have official status in the northwest territories.<ref>{{cite book|last=fettes|first=mark|author2=norton, ruth|title=aboriginal education: fulfilling the promise|editor=castellano, marlene brant |editor2=davis, lynne |editor3=lahache, louise|publisher=[[ubc press]]|year=2001|page=39|chapter=voices of winter: aboriginal languages and public policy in canada|isbn=978-0-7748-0783-8}}</ref> inuktitut is the majority language in nunavut, and is one of three official languages in the territory.<ref>{{cite book|last=russell|first=peter h|title=unfinished constitutional business?
+Entity Score = 0.370275, F1 = 0.666667, graph = people --> periodical language --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.929016, F1 = 0.000000, graph = canada --> country form of government --> x
+Number of support sentences = 3, Number of summary sentences = 1
+Example support sentence:
+the governor general or monarch may, though, in certain crisis situations exercise their power without ministerial [[advice (constitutional)|advice]].<ref name=forseyp1/> to ensure the stability of government, the governor general will usually appoint as prime minister the person who is the current leader of the political party that can obtain the confidence of a [[plurality (voting)|plurality]] in the house of commons.<ref>{{cite book| last=johnson| first=david| title=thinking government: public sector management in canada| publisher=university of toronto press| year=2006| edition=2nd| pages=134–135, 149| isbn=978-1-55111-779-9}}</ref> the [[office of the prime minister (canada)|prime minister's office]] (pmo) is thus one of the most powerful institutions in government, initiating most legislation for parliamentary approval and selecting for appointment by the crown, besides the aforementioned, the governor general, [[lieutenant governor (canada)|lieutenant governors]], senators, federal court judges, and heads of [[crown corporations of canada|crown corporations]] and government agencies.<ref name=forseyp1/> the leader of the party with the second-most seats usually becomes the [[leader of the official opposition (canada)|leader of her majesty's loyal opposition]] and is part of an adversarial parliamentary system intended to keep the government in check.<ref>{{cite web|title=the opposition in a parliamentary system |url=http://www.parl.gc.ca/content/lop/researchpublications/bp47-e.htm |publisher=library of parliament |accessdate=may 23, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20101125122354/http://www2.parl.gc.ca/content/lop/researchpublications/bp47-e.htm |archivedate=november 25, 2010 }}</ref>
+Entity Score = 0.929016, F1 = 0.000000, graph = canada --> location contains --> x
+Number of support sentences = 144, Number of summary sentences = 9
+Example support sentence:
+the cabinet of [[liberal party of canada|liberal]] prime minister [[wilfrid laurier]] fostered continental european immigrants settling the prairies and [[alberta]] and [[saskatchewan]] became provinces in 1905.<ref name=canatlas/>
+
+493what team did jeremy lin go to?	[u'Houston Rockets']	[u'Houston Rockets']	1.0	sports.pro_athlete.teams..basketball.basketball_roster_position.team	sports.pro_athlete.teams..basketball.basketball_roster_position.team	Jeremy Lin	Jeremy Lin
+Entity Score = 1.000000, F1 = 1.000000, graph = jeremy lin --> basketball roster position team --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+in [[2013–14 houston rockets season|2013–14]], lin was replaced in the rockets' starting lineup by [[patrick beverley]], and lin became the second unit's primary ball handler and scoring option as the team's [[sixth man]].<ref>{{cite news|last=araton|first=harvey|title=lin is better off (and better)|date=november 13, 2013|newspaper=the new york times|url=http://www.nytimes.com/2013/11/13/sports/basketball/jeremy-lin-got-away-from-the-knicks-then-got-better-with-the-rockets.html |archiveurl=http://www.webcitation.org/6l8gyw6ni|archivedate=november 15, 2013|deadurl=no}}</ref><ref>{{cite news|last=devine|first=dan|title=surging jeremy lin hopes to 'be a subplot' as rockets visit msg to take on knicks|date=november 14, 2013|publisher=yahoo |url=https://sports.yahoo.com/blogs/nba-ball-dont-lie/surging-jeremy-lin-hopes-subplot-rockets-visit-msg-214543980--nba.html|archiveurl=http://www.webcitation.org/6l8hjt0h0|archivedate=november 15, 2013|deadurl=no}}</ref><ref>{{cite news|last=lynam|first=dei|title=sixers' hands full with super-sub jeremy lin|date=november 13, 2013|publisher=csnphilly.com|url=http://www.csnphilly.com/basketball-philadelphia-sixers/sixers-hands-full-super-sub-jeremy-lin|archiveurl=http://www.webcitation.org/6lcmddffk|archivedate=november 17, 2013|deadurl=no}}</ref> houston liked beginning games with beverley's defensive pressure, but also preferred increasing lin's playing time without harden also on the court.<ref name=feigen_11142013/> lin and harden were both attacking players offensively, but each struggled defensively.<ref>{{cite news|last=amick|first=sam|title=houston rockets trade jeremy lin to los angeles lakers|date=july 12, 2014|newspaper=usa today|url=http://www.usatoday.com/story/sports/nba/2014/07/12/jeremy-lin-trade-houston-rockets-los-angeles-lakers-cap-space/12563435/|archiveurl=http://www.webcitation.org/6r0ve3iuh|archivedate=july 12, 2014|deadurl=no}}</ref> in november, lin established the highest two-game scoring total of his career, 65 points, including season-highs of 34 points and 11 assists along with a rockets record-tying nine three-pointers in a start in place of an injured harden.<ref name=ap_11142013/><ref name=freidman>{{cite news|last=friedman|first=jason|title=year in review: jeremy lin|website=rockets.com|url=http://www.nba.com/rockets/news/year-review-jeremy-lin|archiveurl=http://www.webcitation.org/6cpioxdyg|archivedate=october 20, 2015|deadurl=no}}</ref> it was followed by a 21-point performance in a win at new york.<ref name=ap_11142013>{{cite news|title=rockets withstand carmelo anthony's 45 points to down knicks|date=november 14, 2013|publisher=espn |agency=associated press|url=http://espn.go.com/nba/recap?id=400488996|archiveurl=http://www.webcitation.org/6lcjok3sp|archivedate=november 17, 2013|deadurl=no}}</ref> he received a round of applause upon entering the game, though it was more subdued than in his first return against the knicks.<ref>{{cite news|last=deveney|first=sean|title=back where it all began, lin continues to embrace his new reality|date=november 15, 2013|publisher=sportingnews.com|url=http://www.sportingnews.com/nba/story/2013-11-15/jeremy-lin-at-msg-rockets-knicks-linsanity-sixth-man-james-harden|archiveurl=http://www.webcitation.org/6lck09ev6|archivedate=november 17, 2013|deadurl=no}}</ref> on november 27, lin sprained his right knee against the [[atlanta hawks]], causing him to miss six games.<ref>{{cite news|title=jeremy lin (knee) out 2 weeks|date=november 29, 2013|publisher=espn |url=http://espn.go.com/nba/story/_/id/10052443/jeremy-lin-houston-rockets-miss-2-week-knee-sprain|archiveurl=http://www.webcitation.org/6mbauirrp|archivedate=december 27, 2013|deadurl=no}}</ref><ref>{{cite news|title=lamarcus aldridge scores 31, gets 25 rebounds as blazers top rockets|date=december 12, 2013|publisher=espn |agency=associated press|url=http://espn.go.com/nba/recap?gameid=400489201|archiveurl=http://www.webcitation.org/6mbb3nymv|archivedate=december 27, 2013|deadurl=no}}</ref> he missed four additional games in december due to [[back spasms]]; he started in his return on december 23 with both harden and beverley injured—beverley was estimated to be out four to six weeks due to a fractured right hand.<ref>{{cite news|title=rockets report: lin back in fold, aims to improve|date=december 23, 2013|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2013/12/rockets-report-lin-back-in-fold%e2%80%a8aims-to-improve/|archiveurl=http://www.webcitation.org/6mbcc5nhj|archivedate=december 27, 2013|deadurl=no}}</ref> on february 1, 2014, lin recorded 15 points, 11 rebounds and 10 assists—his first career [[triple-double]]—in 29 minutes off the bench in a 106–92 home victory over the cleveland cavaliers.<ref>{{cite news|title=jeremy lin's 1st career triple-double propels rockets|date=february 1, 2014|publisher=espn |agency=associated press|url=http://scores.espn.go.com/nba/recap?gameid=400489574}}</ref> he was the first rocket to notch a triple-double off the bench since [[cedric maxwell]] in 1988.<ref name=freidman/> however, he went into a shooting slump after the all-star break,<ref>{{cite news|last=dial creech|first=jenny|title=jeremy lin mired in shooting slump|date=march 2, 2014|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2014/03/jeremy-lin-mired-in-shooting-slump|archiveurl=http://www.webcitation.org/6nrg1isvb|archivedate=march 5, 2014|deadurl=no}}</ref> and again experienced problems with his back.<ref>{{cite news|last=riccobono|first=anthony|title=jeremy lin injury news: has rockets point guard played hurt in recent games?|newspaper=international business times|url=http://www.ibtimes.com/jeremy-lin-injury-news-has-rockets-point-guard-played-hurt-recent-games-1559541|archiveurl=http://www.webcitation.org/6nrgtd3v4|archivedate=march 4, 2014|deadurl=no}}</ref><ref>{{cite news|last=feigen|first=jonathan|title=dwight howard and jeremy lin miss practice due to back issues|date=march 4, 2014|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2014/03/dwight-howard-and-jeremy-lin-miss-practice-due-to-back-issues|archiveurl=http://www.webcitation.org/6nrgevldo|archivedate=march 4, 2014|deadurl=no}}</ref>
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = jeremy lin --> basketball roster position team --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+in [[2013–14 houston rockets season|2013–14]], lin was replaced in the rockets' starting lineup by [[patrick beverley]], and lin became the second unit's primary ball handler and scoring option as the team's [[sixth man]].<ref>{{cite news|last=araton|first=harvey|title=lin is better off (and better)|date=november 13, 2013|newspaper=the new york times|url=http://www.nytimes.com/2013/11/13/sports/basketball/jeremy-lin-got-away-from-the-knicks-then-got-better-with-the-rockets.html |archiveurl=http://www.webcitation.org/6l8gyw6ni|archivedate=november 15, 2013|deadurl=no}}</ref><ref>{{cite news|last=devine|first=dan|title=surging jeremy lin hopes to 'be a subplot' as rockets visit msg to take on knicks|date=november 14, 2013|publisher=yahoo |url=https://sports.yahoo.com/blogs/nba-ball-dont-lie/surging-jeremy-lin-hopes-subplot-rockets-visit-msg-214543980--nba.html|archiveurl=http://www.webcitation.org/6l8hjt0h0|archivedate=november 15, 2013|deadurl=no}}</ref><ref>{{cite news|last=lynam|first=dei|title=sixers' hands full with super-sub jeremy lin|date=november 13, 2013|publisher=csnphilly.com|url=http://www.csnphilly.com/basketball-philadelphia-sixers/sixers-hands-full-super-sub-jeremy-lin|archiveurl=http://www.webcitation.org/6lcmddffk|archivedate=november 17, 2013|deadurl=no}}</ref> houston liked beginning games with beverley's defensive pressure, but also preferred increasing lin's playing time without harden also on the court.<ref name=feigen_11142013/> lin and harden were both attacking players offensively, but each struggled defensively.<ref>{{cite news|last=amick|first=sam|title=houston rockets trade jeremy lin to los angeles lakers|date=july 12, 2014|newspaper=usa today|url=http://www.usatoday.com/story/sports/nba/2014/07/12/jeremy-lin-trade-houston-rockets-los-angeles-lakers-cap-space/12563435/|archiveurl=http://www.webcitation.org/6r0ve3iuh|archivedate=july 12, 2014|deadurl=no}}</ref> in november, lin established the highest two-game scoring total of his career, 65 points, including season-highs of 34 points and 11 assists along with a rockets record-tying nine three-pointers in a start in place of an injured harden.<ref name=ap_11142013/><ref name=freidman>{{cite news|last=friedman|first=jason|title=year in review: jeremy lin|website=rockets.com|url=http://www.nba.com/rockets/news/year-review-jeremy-lin|archiveurl=http://www.webcitation.org/6cpioxdyg|archivedate=october 20, 2015|deadurl=no}}</ref> it was followed by a 21-point performance in a win at new york.<ref name=ap_11142013>{{cite news|title=rockets withstand carmelo anthony's 45 points to down knicks|date=november 14, 2013|publisher=espn |agency=associated press|url=http://espn.go.com/nba/recap?id=400488996|archiveurl=http://www.webcitation.org/6lcjok3sp|archivedate=november 17, 2013|deadurl=no}}</ref> he received a round of applause upon entering the game, though it was more subdued than in his first return against the knicks.<ref>{{cite news|last=deveney|first=sean|title=back where it all began, lin continues to embrace his new reality|date=november 15, 2013|publisher=sportingnews.com|url=http://www.sportingnews.com/nba/story/2013-11-15/jeremy-lin-at-msg-rockets-knicks-linsanity-sixth-man-james-harden|archiveurl=http://www.webcitation.org/6lck09ev6|archivedate=november 17, 2013|deadurl=no}}</ref> on november 27, lin sprained his right knee against the [[atlanta hawks]], causing him to miss six games.<ref>{{cite news|title=jeremy lin (knee) out 2 weeks|date=november 29, 2013|publisher=espn |url=http://espn.go.com/nba/story/_/id/10052443/jeremy-lin-houston-rockets-miss-2-week-knee-sprain|archiveurl=http://www.webcitation.org/6mbauirrp|archivedate=december 27, 2013|deadurl=no}}</ref><ref>{{cite news|title=lamarcus aldridge scores 31, gets 25 rebounds as blazers top rockets|date=december 12, 2013|publisher=espn |agency=associated press|url=http://espn.go.com/nba/recap?gameid=400489201|archiveurl=http://www.webcitation.org/6mbb3nymv|archivedate=december 27, 2013|deadurl=no}}</ref> he missed four additional games in december due to [[back spasms]]; he started in his return on december 23 with both harden and beverley injured—beverley was estimated to be out four to six weeks due to a fractured right hand.<ref>{{cite news|title=rockets report: lin back in fold, aims to improve|date=december 23, 2013|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2013/12/rockets-report-lin-back-in-fold%e2%80%a8aims-to-improve/|archiveurl=http://www.webcitation.org/6mbcc5nhj|archivedate=december 27, 2013|deadurl=no}}</ref> on february 1, 2014, lin recorded 15 points, 11 rebounds and 10 assists—his first career [[triple-double]]—in 29 minutes off the bench in a 106–92 home victory over the cleveland cavaliers.<ref>{{cite news|title=jeremy lin's 1st career triple-double propels rockets|date=february 1, 2014|publisher=espn |agency=associated press|url=http://scores.espn.go.com/nba/recap?gameid=400489574}}</ref> he was the first rocket to notch a triple-double off the bench since [[cedric maxwell]] in 1988.<ref name=freidman/> however, he went into a shooting slump after the all-star break,<ref>{{cite news|last=dial creech|first=jenny|title=jeremy lin mired in shooting slump|date=march 2, 2014|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2014/03/jeremy-lin-mired-in-shooting-slump|archiveurl=http://www.webcitation.org/6nrg1isvb|archivedate=march 5, 2014|deadurl=no}}</ref> and again experienced problems with his back.<ref>{{cite news|last=riccobono|first=anthony|title=jeremy lin injury news: has rockets point guard played hurt in recent games?|newspaper=international business times|url=http://www.ibtimes.com/jeremy-lin-injury-news-has-rockets-point-guard-played-hurt-recent-games-1559541|archiveurl=http://www.webcitation.org/6nrgtd3v4|archivedate=march 4, 2014|deadurl=no}}</ref><ref>{{cite news|last=feigen|first=jonathan|title=dwight howard and jeremy lin miss practice due to back issues|date=march 4, 2014|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2014/03/dwight-howard-and-jeremy-lin-miss-practice-due-to-back-issues|archiveurl=http://www.webcitation.org/6nrgevldo|archivedate=march 4, 2014|deadurl=no}}</ref>
+Entity Score = 1.000000, F1 = 1.000000, graph = jeremy lin --> basketball roster position team --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+in [[2013–14 houston rockets season|2013–14]], lin was replaced in the rockets' starting lineup by [[patrick beverley]], and lin became the second unit's primary ball handler and scoring option as the team's [[sixth man]].<ref>{{cite news|last=araton|first=harvey|title=lin is better off (and better)|date=november 13, 2013|newspaper=the new york times|url=http://www.nytimes.com/2013/11/13/sports/basketball/jeremy-lin-got-away-from-the-knicks-then-got-better-with-the-rockets.html |archiveurl=http://www.webcitation.org/6l8gyw6ni|archivedate=november 15, 2013|deadurl=no}}</ref><ref>{{cite news|last=devine|first=dan|title=surging jeremy lin hopes to 'be a subplot' as rockets visit msg to take on knicks|date=november 14, 2013|publisher=yahoo |url=https://sports.yahoo.com/blogs/nba-ball-dont-lie/surging-jeremy-lin-hopes-subplot-rockets-visit-msg-214543980--nba.html|archiveurl=http://www.webcitation.org/6l8hjt0h0|archivedate=november 15, 2013|deadurl=no}}</ref><ref>{{cite news|last=lynam|first=dei|title=sixers' hands full with super-sub jeremy lin|date=november 13, 2013|publisher=csnphilly.com|url=http://www.csnphilly.com/basketball-philadelphia-sixers/sixers-hands-full-super-sub-jeremy-lin|archiveurl=http://www.webcitation.org/6lcmddffk|archivedate=november 17, 2013|deadurl=no}}</ref> houston liked beginning games with beverley's defensive pressure, but also preferred increasing lin's playing time without harden also on the court.<ref name=feigen_11142013/> lin and harden were both attacking players offensively, but each struggled defensively.<ref>{{cite news|last=amick|first=sam|title=houston rockets trade jeremy lin to los angeles lakers|date=july 12, 2014|newspaper=usa today|url=http://www.usatoday.com/story/sports/nba/2014/07/12/jeremy-lin-trade-houston-rockets-los-angeles-lakers-cap-space/12563435/|archiveurl=http://www.webcitation.org/6r0ve3iuh|archivedate=july 12, 2014|deadurl=no}}</ref> in november, lin established the highest two-game scoring total of his career, 65 points, including season-highs of 34 points and 11 assists along with a rockets record-tying nine three-pointers in a start in place of an injured harden.<ref name=ap_11142013/><ref name=freidman>{{cite news|last=friedman|first=jason|title=year in review: jeremy lin|website=rockets.com|url=http://www.nba.com/rockets/news/year-review-jeremy-lin|archiveurl=http://www.webcitation.org/6cpioxdyg|archivedate=october 20, 2015|deadurl=no}}</ref> it was followed by a 21-point performance in a win at new york.<ref name=ap_11142013>{{cite news|title=rockets withstand carmelo anthony's 45 points to down knicks|date=november 14, 2013|publisher=espn |agency=associated press|url=http://espn.go.com/nba/recap?id=400488996|archiveurl=http://www.webcitation.org/6lcjok3sp|archivedate=november 17, 2013|deadurl=no}}</ref> he received a round of applause upon entering the game, though it was more subdued than in his first return against the knicks.<ref>{{cite news|last=deveney|first=sean|title=back where it all began, lin continues to embrace his new reality|date=november 15, 2013|publisher=sportingnews.com|url=http://www.sportingnews.com/nba/story/2013-11-15/jeremy-lin-at-msg-rockets-knicks-linsanity-sixth-man-james-harden|archiveurl=http://www.webcitation.org/6lck09ev6|archivedate=november 17, 2013|deadurl=no}}</ref> on november 27, lin sprained his right knee against the [[atlanta hawks]], causing him to miss six games.<ref>{{cite news|title=jeremy lin (knee) out 2 weeks|date=november 29, 2013|publisher=espn |url=http://espn.go.com/nba/story/_/id/10052443/jeremy-lin-houston-rockets-miss-2-week-knee-sprain|archiveurl=http://www.webcitation.org/6mbauirrp|archivedate=december 27, 2013|deadurl=no}}</ref><ref>{{cite news|title=lamarcus aldridge scores 31, gets 25 rebounds as blazers top rockets|date=december 12, 2013|publisher=espn |agency=associated press|url=http://espn.go.com/nba/recap?gameid=400489201|archiveurl=http://www.webcitation.org/6mbb3nymv|archivedate=december 27, 2013|deadurl=no}}</ref> he missed four additional games in december due to [[back spasms]]; he started in his return on december 23 with both harden and beverley injured—beverley was estimated to be out four to six weeks due to a fractured right hand.<ref>{{cite news|title=rockets report: lin back in fold, aims to improve|date=december 23, 2013|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2013/12/rockets-report-lin-back-in-fold%e2%80%a8aims-to-improve/|archiveurl=http://www.webcitation.org/6mbcc5nhj|archivedate=december 27, 2013|deadurl=no}}</ref> on february 1, 2014, lin recorded 15 points, 11 rebounds and 10 assists—his first career [[triple-double]]—in 29 minutes off the bench in a 106–92 home victory over the cleveland cavaliers.<ref>{{cite news|title=jeremy lin's 1st career triple-double propels rockets|date=february 1, 2014|publisher=espn |agency=associated press|url=http://scores.espn.go.com/nba/recap?gameid=400489574}}</ref> he was the first rocket to notch a triple-double off the bench since [[cedric maxwell]] in 1988.<ref name=freidman/> however, he went into a shooting slump after the all-star break,<ref>{{cite news|last=dial creech|first=jenny|title=jeremy lin mired in shooting slump|date=march 2, 2014|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2014/03/jeremy-lin-mired-in-shooting-slump|archiveurl=http://www.webcitation.org/6nrg1isvb|archivedate=march 5, 2014|deadurl=no}}</ref> and again experienced problems with his back.<ref>{{cite news|last=riccobono|first=anthony|title=jeremy lin injury news: has rockets point guard played hurt in recent games?|newspaper=international business times|url=http://www.ibtimes.com/jeremy-lin-injury-news-has-rockets-point-guard-played-hurt-recent-games-1559541|archiveurl=http://www.webcitation.org/6nrgtd3v4|archivedate=march 4, 2014|deadurl=no}}</ref><ref>{{cite news|last=feigen|first=jonathan|title=dwight howard and jeremy lin miss practice due to back issues|date=march 4, 2014|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2014/03/dwight-howard-and-jeremy-lin-miss-practice-due-to-back-issues|archiveurl=http://www.webcitation.org/6nrgevldo|archivedate=march 4, 2014|deadurl=no}}</ref>
+Entity Score = 1.000000, F1 = 0.000000, graph = jeremy lin --> sports team roster team --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+"<ref>{{cite news|last=alper|first=josh|title=jeremy lin isn't totally without precedent|date=february 14, 2012|publisher=nbc new york |url=http://www.nbcnewyork.com/news/sports/jeremy-lin-mark-fidrych-floyd-mayweather-hype-linsanity-139289358.html|archiveurl=http://www.webcitation.org/65s7bnxwi|archivedate=february 14, 2012}}</ref> on february 15, the msg network during game coverage showed a fan's sign of lin's face above a [[fortune cookie]] with the words "the knicks good fortune", which some viewed as an [[ethnic stereotype]].<ref>{{cite news |last=mccarthy |first=michael |title=asian stereotypes appearing in coverage of knicks' jeremy lin |date=february 16, 2012 |newspaper=usa today| url=http://www.usatoday.com/sports/basketball/nba/story/2012-02-16/asian-stereotypes-appearing-in-coverage-of-knicks-jeremy-lin/53120426/1 |archiveurl=http://www.webcitation.org/65vppkagp |archivedate=february 16, 2012}}</ref> ''[[sporting news]]'' wrote that the sign was "questionable", while [[cbs news]] called it "distasteful".<ref>{{cite news|last=smith|first=stephen|title=msg airs jeremy lin fortune cookie sign|date=february 16, 2012|publisher=cbs news |url=http://www.cbsnews.com/8301-31751_162-57379127-10391697/msg-displays-jeremy-lin-fortune-cookie-graphic|archiveurl=http://www.webcitation.org/65vsynb4p|archivedate=february 16, 2012}}</ref><ref>{{cite news|title=msg posts questionable image of new york knicks' jeremy lin|date=february 15, 2012|publisher=sportingnews.com|url=http://aol.sportingnews.com/nba/story/2012-02-15/msg-posts-regretful-graphic-on-new-york-knicks-jeremy-lin|archiveurl=http://www.webcitation.org/65vsivjmj|archivedate=february 16, 2012}}</ref> some knicks teammates were criticized for [[bowing]] to lin during games.<ref>{{cite news|last=padya|first=sameer|title=the jeremy lin discussion|date=february 16, 2012|publisher=espn|url=http://espn.go.com/espn/commentary/story/_/id/7581502/the-racial-complexion-jeremy-lin-discussion|archiveurl=http://www.webcitation.org/65wtqnsls|archivedate=february 17, 2012}}</ref><ref>{{cite news|last=leitch|first=will|title=the jeremy lin show is just getting started, folks|date=february 7, 2012|magazine=new york|url=http://nymag.com/daily/sports/2012/02/jeremy-lin-show-is-just-getting-started.html|archiveurl=http://www.webcitation.org/65wu9femj|archivedate=february 17, 2012}}</ref><ref>{{cite news|last=flock|first=elizabeth|date=february 15, 2012|title=jeremy lin and race: bigotry in sports is nothing new|newspaper=the washington post|url=http://www.washingtonpost.com/blogs/blogpost/post/jeremy-lin-and-race-bigotry-in-sports-is-nothing-new/2012/02/15/giqaehe7fr_blog.html?tid=pm_national_pop |archiveurl=http://www.webcitation.org/65wujwmxj|archivedate=february 17, 2012}}</ref> on february 17, [[espn]] used a racial slur on its mobile website in the headline "chink in the armor" after lin had nine turnovers in new york's loss to the hornets.
+Entity Score = 1.000000, F1 = 1.000000, graph = jeremy lin --> sports team roster team --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+in [[2013–14 houston rockets season|2013–14]], lin was replaced in the rockets' starting lineup by [[patrick beverley]], and lin became the second unit's primary ball handler and scoring option as the team's [[sixth man]].<ref>{{cite news|last=araton|first=harvey|title=lin is better off (and better)|date=november 13, 2013|newspaper=the new york times|url=http://www.nytimes.com/2013/11/13/sports/basketball/jeremy-lin-got-away-from-the-knicks-then-got-better-with-the-rockets.html |archiveurl=http://www.webcitation.org/6l8gyw6ni|archivedate=november 15, 2013|deadurl=no}}</ref><ref>{{cite news|last=devine|first=dan|title=surging jeremy lin hopes to 'be a subplot' as rockets visit msg to take on knicks|date=november 14, 2013|publisher=yahoo |url=https://sports.yahoo.com/blogs/nba-ball-dont-lie/surging-jeremy-lin-hopes-subplot-rockets-visit-msg-214543980--nba.html|archiveurl=http://www.webcitation.org/6l8hjt0h0|archivedate=november 15, 2013|deadurl=no}}</ref><ref>{{cite news|last=lynam|first=dei|title=sixers' hands full with super-sub jeremy lin|date=november 13, 2013|publisher=csnphilly.com|url=http://www.csnphilly.com/basketball-philadelphia-sixers/sixers-hands-full-super-sub-jeremy-lin|archiveurl=http://www.webcitation.org/6lcmddffk|archivedate=november 17, 2013|deadurl=no}}</ref> houston liked beginning games with beverley's defensive pressure, but also preferred increasing lin's playing time without harden also on the court.<ref name=feigen_11142013/> lin and harden were both attacking players offensively, but each struggled defensively.<ref>{{cite news|last=amick|first=sam|title=houston rockets trade jeremy lin to los angeles lakers|date=july 12, 2014|newspaper=usa today|url=http://www.usatoday.com/story/sports/nba/2014/07/12/jeremy-lin-trade-houston-rockets-los-angeles-lakers-cap-space/12563435/|archiveurl=http://www.webcitation.org/6r0ve3iuh|archivedate=july 12, 2014|deadurl=no}}</ref> in november, lin established the highest two-game scoring total of his career, 65 points, including season-highs of 34 points and 11 assists along with a rockets record-tying nine three-pointers in a start in place of an injured harden.<ref name=ap_11142013/><ref name=freidman>{{cite news|last=friedman|first=jason|title=year in review: jeremy lin|website=rockets.com|url=http://www.nba.com/rockets/news/year-review-jeremy-lin|archiveurl=http://www.webcitation.org/6cpioxdyg|archivedate=october 20, 2015|deadurl=no}}</ref> it was followed by a 21-point performance in a win at new york.<ref name=ap_11142013>{{cite news|title=rockets withstand carmelo anthony's 45 points to down knicks|date=november 14, 2013|publisher=espn |agency=associated press|url=http://espn.go.com/nba/recap?id=400488996|archiveurl=http://www.webcitation.org/6lcjok3sp|archivedate=november 17, 2013|deadurl=no}}</ref> he received a round of applause upon entering the game, though it was more subdued than in his first return against the knicks.<ref>{{cite news|last=deveney|first=sean|title=back where it all began, lin continues to embrace his new reality|date=november 15, 2013|publisher=sportingnews.com|url=http://www.sportingnews.com/nba/story/2013-11-15/jeremy-lin-at-msg-rockets-knicks-linsanity-sixth-man-james-harden|archiveurl=http://www.webcitation.org/6lck09ev6|archivedate=november 17, 2013|deadurl=no}}</ref> on november 27, lin sprained his right knee against the [[atlanta hawks]], causing him to miss six games.<ref>{{cite news|title=jeremy lin (knee) out 2 weeks|date=november 29, 2013|publisher=espn |url=http://espn.go.com/nba/story/_/id/10052443/jeremy-lin-houston-rockets-miss-2-week-knee-sprain|archiveurl=http://www.webcitation.org/6mbauirrp|archivedate=december 27, 2013|deadurl=no}}</ref><ref>{{cite news|title=lamarcus aldridge scores 31, gets 25 rebounds as blazers top rockets|date=december 12, 2013|publisher=espn |agency=associated press|url=http://espn.go.com/nba/recap?gameid=400489201|archiveurl=http://www.webcitation.org/6mbb3nymv|archivedate=december 27, 2013|deadurl=no}}</ref> he missed four additional games in december due to [[back spasms]]; he started in his return on december 23 with both harden and beverley injured—beverley was estimated to be out four to six weeks due to a fractured right hand.<ref>{{cite news|title=rockets report: lin back in fold, aims to improve|date=december 23, 2013|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2013/12/rockets-report-lin-back-in-fold%e2%80%a8aims-to-improve/|archiveurl=http://www.webcitation.org/6mbcc5nhj|archivedate=december 27, 2013|deadurl=no}}</ref> on february 1, 2014, lin recorded 15 points, 11 rebounds and 10 assists—his first career [[triple-double]]—in 29 minutes off the bench in a 106–92 home victory over the cleveland cavaliers.<ref>{{cite news|title=jeremy lin's 1st career triple-double propels rockets|date=february 1, 2014|publisher=espn |agency=associated press|url=http://scores.espn.go.com/nba/recap?gameid=400489574}}</ref> he was the first rocket to notch a triple-double off the bench since [[cedric maxwell]] in 1988.<ref name=freidman/> however, he went into a shooting slump after the all-star break,<ref>{{cite news|last=dial creech|first=jenny|title=jeremy lin mired in shooting slump|date=march 2, 2014|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2014/03/jeremy-lin-mired-in-shooting-slump|archiveurl=http://www.webcitation.org/6nrg1isvb|archivedate=march 5, 2014|deadurl=no}}</ref> and again experienced problems with his back.<ref>{{cite news|last=riccobono|first=anthony|title=jeremy lin injury news: has rockets point guard played hurt in recent games?|newspaper=international business times|url=http://www.ibtimes.com/jeremy-lin-injury-news-has-rockets-point-guard-played-hurt-recent-games-1559541|archiveurl=http://www.webcitation.org/6nrgtd3v4|archivedate=march 4, 2014|deadurl=no}}</ref><ref>{{cite news|last=feigen|first=jonathan|title=dwight howard and jeremy lin miss practice due to back issues|date=march 4, 2014|newspaper=houston chronicle|url=http://blog.chron.com/ultimaterockets/2014/03/dwight-howard-and-jeremy-lin-miss-practice-due-to-back-issues|archiveurl=http://www.webcitation.org/6nrgevldo|archivedate=march 4, 2014|deadurl=no}}</ref>
+Entity Score = 1.000000, F1 = 0.666667, graph = jeremy lin --> sports team roster team --> x
+Number of support sentences = 8, Number of summary sentences = 0
+Example support sentence:
+"<ref>{{cite news|last=alper|first=josh|title=jeremy lin isn't totally without precedent|date=february 14, 2012|publisher=nbc new york |url=http://www.nbcnewyork.com/news/sports/jeremy-lin-mark-fidrych-floyd-mayweather-hype-linsanity-139289358.html|archiveurl=http://www.webcitation.org/65s7bnxwi|archivedate=february 14, 2012}}</ref> on february 15, the msg network during game coverage showed a fan's sign of lin's face above a [[fortune cookie]] with the words "the knicks good fortune", which some viewed as an [[ethnic stereotype]].<ref>{{cite news |last=mccarthy |first=michael |title=asian stereotypes appearing in coverage of knicks' jeremy lin |date=february 16, 2012 |newspaper=usa today| url=http://www.usatoday.com/sports/basketball/nba/story/2012-02-16/asian-stereotypes-appearing-in-coverage-of-knicks-jeremy-lin/53120426/1 |archiveurl=http://www.webcitation.org/65vppkagp |archivedate=february 16, 2012}}</ref> ''[[sporting news]]'' wrote that the sign was "questionable", while [[cbs news]] called it "distasteful".<ref>{{cite news|last=smith|first=stephen|title=msg airs jeremy lin fortune cookie sign|date=february 16, 2012|publisher=cbs news |url=http://www.cbsnews.com/8301-31751_162-57379127-10391697/msg-displays-jeremy-lin-fortune-cookie-graphic|archiveurl=http://www.webcitation.org/65vsynb4p|archivedate=february 16, 2012}}</ref><ref>{{cite news|title=msg posts questionable image of new york knicks' jeremy lin|date=february 15, 2012|publisher=sportingnews.com|url=http://aol.sportingnews.com/nba/story/2012-02-15/msg-posts-regretful-graphic-on-new-york-knicks-jeremy-lin|archiveurl=http://www.webcitation.org/65vsivjmj|archivedate=february 16, 2012}}</ref> some knicks teammates were criticized for [[bowing]] to lin during games.<ref>{{cite news|last=padya|first=sameer|title=the jeremy lin discussion|date=february 16, 2012|publisher=espn|url=http://espn.go.com/espn/commentary/story/_/id/7581502/the-racial-complexion-jeremy-lin-discussion|archiveurl=http://www.webcitation.org/65wtqnsls|archivedate=february 17, 2012}}</ref><ref>{{cite news|last=leitch|first=will|title=the jeremy lin show is just getting started, folks|date=february 7, 2012|magazine=new york|url=http://nymag.com/daily/sports/2012/02/jeremy-lin-show-is-just-getting-started.html|archiveurl=http://www.webcitation.org/65wu9femj|archivedate=february 17, 2012}}</ref><ref>{{cite news|last=flock|first=elizabeth|date=february 15, 2012|title=jeremy lin and race: bigotry in sports is nothing new|newspaper=the washington post|url=http://www.washingtonpost.com/blogs/blogpost/post/jeremy-lin-and-race-bigotry-in-sports-is-nothing-new/2012/02/15/giqaehe7fr_blog.html?tid=pm_national_pop |archiveurl=http://www.webcitation.org/65wujwmxj|archivedate=february 17, 2012}}</ref> on february 17, [[espn]] used a racial slur on its mobile website in the headline "chink in the armor" after lin had nine turnovers in new york's loss to the hornets.
+
+496what did shannon hoon die from?	[u'Drug overdose']	[u'Drug overdose']	1.0	people.deceased_person.cause_of_death	people.deceased_person.cause_of_death	Shannon Hoon	Shannon Hoon
+Entity Score = 0.993952, F1 = 1.000000, graph = shannon hoon --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.993952, F1 = 1.000000, graph = shannon hoon --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993952, F1 = 0.000000, graph = shannon hoon --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993952, F1 = 0.000000, graph = shannon hoon --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993952, F1 = 0.000000, graph = shannon hoon --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993952, F1 = 0.000000, graph = shannon hoon --> group member instruments played --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+508who is jamie little engaged to?	[u'Cody Selman']	[u'Cody Selman']	1.0	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Jamie Little	Jamie Little
+Entity Score = 1.000000, F1 = 1.000000, graph = jamie little --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = jamie little --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999956, F1 = 0.000000, graph = kelly osbourne --> romantic relationship celebrity --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+"kelly osbourne arrested for assault"] ''[[people magazine|people]]'' 19 january 2009</ref> in march 2009, osbourne was engaged to model [[luke worrall]].<ref>[http://www.hellomagazine.com/celebrities-news-in-pics/27-03-2009/8/general/ kelly osbourne plans long engagement to parents' relief], hellomagazine.com, 27 march 2009</ref> in july 2010, she split from him<ref>{{cite web|url=http://www.popeater.com/2010/07/14/kelly-osbourne-fiance-split/ |title=source: kelly osbourne, fiancé split amid cheating rumors |publisher=popeater.com |date=14 july 2010 |accessdate=20 november 2011}}</ref> after he had an affair with model elle schneider.<ref>{{cite web|first=contessa|last=gayles |url=http://blog.music.aol.com/2011/11/01/kelly-osbourne-cheating-fiance/ |title=kelly osbourne shares new revelation about cheating ex-fiance – aol music blog |publisher=blog.music.aol.com |date=1 november 2011 |accessdate=20 november 2011}}</ref><ref>{{cite news|url=http://www.huffingtonpost.com/2011/11/01/kelly-osbourne-luke-worrall-transgender-affair-_n_1069689.html |title=kelly osbourne slammed for comments over ex-fiance's transgender affair |publisher=huffingtonpost.com |date=1 november 2011 |accessdate=20 november 2011 |first=curtis |last=wong}}</ref><ref>{{cite news|url=http://www.huffingtonpost.com/2011/02/08/kelly-osbourne-ex-luke-elle-schneider_n_820374.html |title=kelly osbourne: ex luke worrall's cheating partner elle schneider speaks out |publisher=huffingtonpost.com |date=8 february 2011 |accessdate=20 november 2011 |first=jordan |last=zakarin}}</ref> osbourne presented itv2's coverage of the [[national television awards]] with her brother jack, and a documentary on japanese pop culture called ''kelly osbourne: turning japanese'' for the same channel.<ref name="imdb">{{cite web| url = http://www.imdb.com/title/tt0972540/ | title = "kelly osbourne turning japanese" (2007) | accessdate = 3 january 2008 }}</ref> osbourne has presented on ''[[the sunday surgery|the surgery with kelly osbourne]]'' on [[bbc radio 1]].
+Entity Score = 0.999956, F1 = 0.000000, graph = kelly osbourne --> friendship participant --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+in july 2013, osbourne became engaged to matthew mosshart, a chef whom she met at the 2011 wedding of model [[kate moss]] to [[jamie hince]].<ref>{{cite web|title=kelly osbourne gets engaged|url=http://badhil.com/kelly-osbourne-gets-engaged/|publisher=reuters}}</ref> osbourne and mosshart called off the engagement in january 2014.<ref>{{cite web|url=http://www.usmagazine.com/celebrity-news/news/kelly-osbourne-matthew-mosshart-end-engagement-split-is-amicable-201481|title=kelly osbourne, matthew mosshart end engagement: "the split is amicable"|accessdate=8 january 2014|publisher=us weekly|date=8 january 2014|first=rachel|last=mcrady}}</ref>
+Entity Score = 0.999956, F1 = 0.000000, graph = kelly osbourne --> dated participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999956, F1 = 0.000000, graph = kelly osbourne --> person parents --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+[[file:sharon osbourne and kelly osbourne at the 38th people's choice award.jpg|right|thumb|kelly (''right'') with her mother sharon osbourne in 2012]]
+
+509where is jamarcus russell from?	[u'Mobile']	[u'Mobile']	1.0	people.person.place_of_birth	people.person.places_lived..people.place_lived.location	JaMarcus Russell	JaMarcus Russell
+Entity Score = 1.000000, F1 = 1.000000, graph = jamarcus russell --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = jamarcus russell --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 1.000000, graph = jamarcus russell --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jamarcus russell --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jamarcus russell --> sports league draft pick team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jamarcus russell --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+510what did george orwell died of?	[u'Tuberculosis']	[u'Tuberculosis']	1.0	people.deceased_person.cause_of_death	people.deceased_person.cause_of_death	George Orwell	George Orwell
+Entity Score = 0.953466, F1 = 1.000000, graph = george orwell --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.953466, F1 = 1.000000, graph = george orwell --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.953466, F1 = 0.000000, graph = george orwell --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.953466, F1 = 0.000000, graph = george orwell --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.953466, F1 = 0.000000, graph = george orwell --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.953466, F1 = 0.000000, graph = george orwell --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+512who did sir francis drake marry?	[u'Mary Newman', u'Elizabeth Sydenham']	[u'Mary Newman', u'Elizabeth Sydenham']	1.0	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Francis Drake	Francis Drake
+Entity Score = 0.981464, F1 = 1.000000, graph = francis drake --> marriage spouse --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+francis drake married mary newman in 1569.  she died 12 years later, in 1581.  in 1585, drake married elizabeth sydenham—born circa 1562, the only child of sir george sydenham, of [[combe sydenham]],<ref>{{cite book|last=warren|first=derrick|title=curious somerset|date=2005|publisher=sutton publishing|location=stroud|isbn=978-0-7509-4057-3|pages=90–91}}</ref> who was the [[high sheriff of somerset]].<ref>{{cite web | url=http://www.tudorplace.com.ar/documents/sheriffs_of_somerset.htm | title=the occupants of the ancient office of high sheriff of somerset | publisher=tudor court | accessdate=30 march 2011}}</ref> after drake's death, the widow elizabeth eventually married sir [[william courtenay (died 1630)|william courtenay]] of powderham.<ref>{{cite web|url=http://www.tudorplace.com.ar/bios/francisdrake.htm|title=captain sir francis drake|work=tudorplace.com.ar|accessdate=28 may 2008}}{{unreliable source?|certain=y|reason=self published website; and jorge h. castelli is not an expert|date=january 2015}}</ref>
+Top5
+Entity Score = 0.993261, F1 = 1.000000, graph = francis drake --> marriage spouse --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+francis drake married mary newman in 1569.  she died 12 years later, in 1581.  in 1585, drake married elizabeth sydenham—born circa 1562, the only child of sir george sydenham, of [[combe sydenham]],<ref>{{cite book|last=warren|first=derrick|title=curious somerset|date=2005|publisher=sutton publishing|location=stroud|isbn=978-0-7509-4057-3|pages=90–91}}</ref> who was the [[high sheriff of somerset]].<ref>{{cite web | url=http://www.tudorplace.com.ar/documents/sheriffs_of_somerset.htm | title=the occupants of the ancient office of high sheriff of somerset | publisher=tudor court | accessdate=30 march 2011}}</ref> after drake's death, the widow elizabeth eventually married sir [[william courtenay (died 1630)|william courtenay]] of powderham.<ref>{{cite web|url=http://www.tudorplace.com.ar/bios/francisdrake.htm|title=captain sir francis drake|work=tudorplace.com.ar|accessdate=28 may 2008}}{{unreliable source?|certain=y|reason=self published website; and jorge h. castelli is not an expert|date=january 2015}}</ref>
+Entity Score = 0.981464, F1 = 1.000000, graph = francis drake --> marriage spouse --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+francis drake married mary newman in 1569.  she died 12 years later, in 1581.  in 1585, drake married elizabeth sydenham—born circa 1562, the only child of sir george sydenham, of [[combe sydenham]],<ref>{{cite book|last=warren|first=derrick|title=curious somerset|date=2005|publisher=sutton publishing|location=stroud|isbn=978-0-7509-4057-3|pages=90–91}}</ref> who was the [[high sheriff of somerset]].<ref>{{cite web | url=http://www.tudorplace.com.ar/documents/sheriffs_of_somerset.htm | title=the occupants of the ancient office of high sheriff of somerset | publisher=tudor court | accessdate=30 march 2011}}</ref> after drake's death, the widow elizabeth eventually married sir [[william courtenay (died 1630)|william courtenay]] of powderham.<ref>{{cite web|url=http://www.tudorplace.com.ar/bios/francisdrake.htm|title=captain sir francis drake|work=tudorplace.com.ar|accessdate=28 may 2008}}{{unreliable source?|certain=y|reason=self published website; and jorge h. castelli is not an expert|date=january 2015}}</ref>
+Entity Score = 0.387748, F1 = 0.000000, graph = francis bacon --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993261, F1 = 0.000000, graph = francis drake --> person parents --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+he was the eldest of the twelve sons<ref name="odnb04">thomson,george malcolm(1972), 'sir francis drake', william morrow & company inc. isbn 978-0-436-52049-5</ref> of edmund drake (1518–1585), a [[protestant]] farmer, and his wife mary mylwaye.
+Entity Score = 0.981464, F1 = 0.000000, graph = francis drake --> person parents --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+he was the eldest of the twelve sons<ref name="odnb04">thomson,george malcolm(1972), 'sir francis drake', william morrow & company inc. isbn 978-0-436-52049-5</ref> of edmund drake (1518–1585), a [[protestant]] farmer, and his wife mary mylwaye.
+
+516where is denmark south carolina?	[u'South Carolina', u'Bamberg County', u'United States of America']	[u'South Carolina', u'Bamberg County', u'United States of America']	1.0	location.location.containedby	location.location.containedby	Denmark	Denmark
+Entity Score = 1.000000, F1 = 1.000000, graph = denmark --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = denmark --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = denmark --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.500000, graph = denmark --> hud county place county --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = denmark --> hud county place place --> x
+Number of support sentences = 338, Number of summary sentences = 9
+Example support sentence:
+denmark wields considerable influence in northern europe and is a [[middle power]] in international affairs.<ref>{{cite web|last1=behringer|first1=ronald m.|title=middle power leadership on the human security agenda|url=http://cac.sagepub.com/content/40/3/305.abstract|publisher=nordic international studies association / sage publications|accessdate=1 may 2016|date=september 2005}}</ref> in recent years, greenland and the faroe islands have been guaranteed a say in foreign policy issues such as fishing, [[whaling]], and geopolitical concerns.
+Entity Score = 0.801255, F1 = 0.285714, graph = south carolina --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+518what did f. scott fitzgerald do?	[u'Poet', u'Novelist', u'Writer']	[u'Poet', u'Novelist', u'Writer']	1.0	people.person.profession	people.person.profession	F. Scott Fitzgerald	F. Scott Fitzgerald
+Entity Score = 0.981016, F1 = 1.000000, graph = f. scott fitzgerald --> person profession --> x
+Number of support sentences = 5, Number of summary sentences = 1
+Example support sentence:
+fitzgerald's work has inspired writers ever since he was first published.<ref>''the golden moment: the novels of f. scott fitzgerald''.
+Top5
+Entity Score = 0.999990, F1 = 1.000000, graph = f. scott fitzgerald --> person profession --> x
+Number of support sentences = 5, Number of summary sentences = 1
+Example support sentence:
+fitzgerald's work has inspired writers ever since he was first published.<ref>''the golden moment: the novels of f. scott fitzgerald''.
+Entity Score = 0.981016, F1 = 1.000000, graph = f. scott fitzgerald --> person profession --> x
+Number of support sentences = 5, Number of summary sentences = 1
+Example support sentence:
+fitzgerald's work has inspired writers ever since he was first published.<ref>''the golden moment: the novels of f. scott fitzgerald''.
+Entity Score = 0.117589, F1 = 0.000000, graph = scott fitzgerald --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999990, F1 = 0.000000, graph = f. scott fitzgerald --> author works written --> x
+Number of support sentences = 8, Number of summary sentences = 1
+Example support sentence:
+boston, ma: g.k. hall, 1984</ref>  the novel did not sell well upon publication but, like the earlier ''gatsby'', the book's reputation has since risen significantly.<ref>reader's companion to f. scott fitzgerald's tender is the night.
+Entity Score = 0.981016, F1 = 0.000000, graph = f. scott fitzgerald --> author works written --> x
+Number of support sentences = 8, Number of summary sentences = 1
+Example support sentence:
+boston, ma: g.k. hall, 1984</ref>  the novel did not sell well upon publication but, like the earlier ''gatsby'', the book's reputation has since risen significantly.<ref>reader's companion to f. scott fitzgerald's tender is the night.
+
+520who played lauren reed on alias?	[u'Melissa George']	[u'Melissa George']	1.0	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Lauren Reed	Lauren Reed
+Entity Score = 1.000000, F1 = 1.000000, graph = lauren reed --> regular tv appearance actor --> x
+Number of support sentences = 3, Number of summary sentences = 1
+Example support sentence:
+[[katherine heigl]] auditioned for the role of lauren reed but did not get it.<ref>{{cite web|last=valby|first=karen|title=baby, it's you!|url=http://www.ew.com/ew/article/0,,20041035_2,00.html|work=[[entertainment weekly]]|accessdate=june 10, 2013|page=2|date=june 3, 2007}}</ref> melissa george was working on ''[[charmed]]'' when j.j. abrams called to tell her she had landed the part.<ref>{{cite web|last=o'hare|first=kate|title='alias's other woman|url=http://tv.msn.com/tv/article.aspx?news=143182|work=tv news|publisher=yahoo|accessdate=june 7, 2013}}</ref> george had auditioned to play lead character [[sydney bristow]], but lost out to [[jennifer garner]].
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = lauren reed --> regular tv appearance actor --> x
+Number of support sentences = 3, Number of summary sentences = 1
+Example support sentence:
+[[katherine heigl]] auditioned for the role of lauren reed but did not get it.<ref>{{cite web|last=valby|first=karen|title=baby, it's you!|url=http://www.ew.com/ew/article/0,,20041035_2,00.html|work=[[entertainment weekly]]|accessdate=june 10, 2013|page=2|date=june 3, 2007}}</ref> melissa george was working on ''[[charmed]]'' when j.j. abrams called to tell her she had landed the part.<ref>{{cite web|last=o'hare|first=kate|title='alias's other woman|url=http://tv.msn.com/tv/article.aspx?news=143182|work=tv news|publisher=yahoo|accessdate=june 7, 2013}}</ref> george had auditioned to play lead character [[sydney bristow]], but lost out to [[jennifer garner]].
+Entity Score = 0.533665, F1 = 0.117647, graph = alias --> regular tv appearance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.533665, F1 = 0.000000, graph = alias --> tv producer term producer --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.533665, F1 = 0.000000, graph = alias --> tv program writer relationship writer --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.533665, F1 = 0.000000, graph = alias --> award honor award winner --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+521what did gerald r ford die from?	[u'Cardiovascular disease']	[u'Cardiovascular disease']	1.0	people.deceased_person.cause_of_death	people.deceased_person.cause_of_death	Gerald Ford	Gerald Ford
+Entity Score = 0.964617, F1 = 1.000000, graph = gerald ford --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.964617, F1 = 1.000000, graph = gerald ford --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999565, F1 = 0.000000, graph = robert ford --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.964617, F1 = 0.000000, graph = gerald ford --> government position held district represented --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999565, F1 = 0.000000, graph = robert ford --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.964617, F1 = 0.000000, graph = gerald ford --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+523what team did brandon roy go to?	[u'Minnesota Timberwolves']	[u'Minnesota Timberwolves']	1.0	basketball.basketball_player.team..sports.sports_team_roster.team	basketball.basketball_player.team..basketball.basketball_roster_position.team	Brandon Roy	Brandon Roy
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> basketball roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> basketball roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> athlete salary team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999962, F1 = 0.666667, graph = brandon roy --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+536what language do russians speak?	[u'Russian Language']	[u'Russian Language']	1.0	people.ethnicity.languages_spoken	people.ethnicity.languages_spoken	Russian	Russian
+Entity Score = 0.679282, F1 = 1.000000, graph = russian --> ethnicity languages spoken --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+*[[russian language]], the most widely spoken of the slavic languages
+Top5
+Entity Score = 0.679282, F1 = 1.000000, graph = russian --> ethnicity languages spoken --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+*[[russian language]], the most widely spoken of the slavic languages
+Entity Score = 0.118602, F1 = 0.333333, graph = russia --> country languages spoken --> x
+Number of support sentences = 15, Number of summary sentences = 0
+Example support sentence:
+|chapter=atheism: contemporary rates and patterns |title=the cambridge companion to atheism |editor=michael martin |publisher=cambridge university press |year=2005}}</ref> the number of atheists has decreased significantly; according to the recent statistic, only seven percent declared themselves atheists, a decrease of 5% in three years.<ref name="2013 belivers">{{cite web|url=http://www.sova-center.ru/religion/discussions/how-many/2013/01/d26201/|script-title=ru:социологи вновь посчитали верующих россиян|trans-title=sociologists have counted russian believers anew|publisher=sova center|language=russian language|date=january 15, 2013|accessdate=april 29, 2013}}</ref> in a 2012 poll by [[win/gia|gallup international]], 6% of russian people reported that they were "convinced atheists which is lowest among european countries"<ref name="gallupint">{{cite web|url=http://redcresearch.ie/wp-content/uploads/2012/08/red-c-press-release-religion-and-atheism-25-7-12.pdf|title=global index of religion and atheism|publisher=win/gallup international|accessdate=november 7, 2015}}</ref>
+Entity Score = 0.118602, F1 = 1.000000, graph = russia --> country official language --> x
+Number of support sentences = 14, Number of summary sentences = 0
+Example support sentence:
+|chapter=atheism: contemporary rates and patterns |title=the cambridge companion to atheism |editor=michael martin |publisher=cambridge university press |year=2005}}</ref> the number of atheists has decreased significantly; according to the recent statistic, only seven percent declared themselves atheists, a decrease of 5% in three years.<ref name="2013 belivers">{{cite web|url=http://www.sova-center.ru/religion/discussions/how-many/2013/01/d26201/|script-title=ru:социологи вновь посчитали верующих россиян|trans-title=sociologists have counted russian believers anew|publisher=sova center|language=russian language|date=january 15, 2013|accessdate=april 29, 2013}}</ref> in a 2012 poll by [[win/gia|gallup international]], 6% of russian people reported that they were "convinced atheists which is lowest among european countries"<ref name="gallupint">{{cite web|url=http://redcresearch.ie/wp-content/uploads/2012/08/red-c-press-release-religion-and-atheism-25-7-12.pdf|title=global index of religion and atheism|publisher=win/gallup international|accessdate=november 7, 2015}}</ref>
+Entity Score = 0.679282, F1 = 0.000000, graph = russian --> ethnicity geographic distribution --> x
+Number of support sentences = 20, Number of summary sentences = 0
+Example support sentence:
+*[[russian river (disambiguation)]]
+Entity Score = 0.118602, F1 = 0.000000, graph = russia --> country form of government --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+on september 1 (14), 1917, upon a decree of the provisional government, the russian republic was proclaimed.<ref>http://www.prlib.ru/en-us/history/pages/item.aspx?itemid=1112</ref> on january 6 (19), 1918, the [[russian constituent assembly]] declared russia a democratic federal republic (thus ratifying the provisional government's decision).
+
+541what has charlie hunnam been in?	[u'Deadfall', u'Nicholas Nickleby', u'Pacific Rim', u'Green Street', u'Frankie Go Boom', u'The Ledge', u'Children of Men', u'Abandon', u'Cold Mountain', u'Whatever Happened to Harold Smith?']	[u'Deadfall', u'Nicholas Nickleby', u'Pacific Rim', u'Green Street', u'Frankie Go Boom', '...']	1.0	film.actor.film..film.performance.film	film.actor.film..film.performance.film	Charlie Hunnam	Charlie Hunnam
+Entity Score = 1.000000, F1 = 1.000000, graph = charlie hunnam --> performance film --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+hunnam starred as raleigh becket in [[guillermo del toro]]'s sci-fi film ''[[pacific rim (film)|pacific rim]]'',<ref>{{cite web |url=http://collider.com/charlie-hunnam-pacific-rim-amber-heard-shiloh-fernandez-syrup/ |title=casting call: charlie hunnam to star in guillermo del toro's pacific rim; amber heard and shiloh fernandez like syrup |publisher=collider |accessdate=5 september 2013}}</ref> that opened in july 2013 and grossed $411 million worldwide.
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = charlie hunnam --> performance film --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+hunnam starred as raleigh becket in [[guillermo del toro]]'s sci-fi film ''[[pacific rim (film)|pacific rim]]'',<ref>{{cite web |url=http://collider.com/charlie-hunnam-pacific-rim-amber-heard-shiloh-fernandez-syrup/ |title=casting call: charlie hunnam to star in guillermo del toro's pacific rim; amber heard and shiloh fernandez like syrup |publisher=collider |accessdate=5 september 2013}}</ref> that opened in july 2013 and grossed $411 million worldwide.
+Entity Score = 1.000000, F1 = 0.100000, graph = charlie hunnam --> performance character --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+hunnam starred as raleigh becket in [[guillermo del toro]]'s sci-fi film ''[[pacific rim (film)|pacific rim]]'',<ref>{{cite web |url=http://collider.com/charlie-hunnam-pacific-rim-amber-heard-shiloh-fernandez-syrup/ |title=casting call: charlie hunnam to star in guillermo del toro's pacific rim; amber heard and shiloh fernandez like syrup |publisher=collider |accessdate=5 september 2013}}</ref> that opened in july 2013 and grossed $411 million worldwide.
+Entity Score = 1.000000, F1 = 0.000000, graph = charlie hunnam --> person profession --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+'''charles matthew''' "'''charlie'''" '''hunnam''' (born 10 april 1980)<ref>{{cite web |url=http://www.tvguide.com/celebrities/charlie-hunnam/bio/144223 |title=charlie hunnam: biography |publisher=[[tv guide|tvguide.com]] |deadurl=no |accessdate=27 november 2013}}</ref> is an english actor.
+Entity Score = 1.000000, F1 = 0.000000, graph = charlie hunnam --> regular tv appearance character --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+a production manager for the newcastle-based children's show ''[[byker grove]] ''approached him and hunnam was later cast in his first role as jason in three episodes of the show.<ref name=":2" /><ref name=":0" /><ref>{{cite web |url=http://www.femalefirst.co.uk/movies/charlie-hunnam-300975.html |title=charlie hunnam q&a |publisher=female first |date=11 july 2013}}</ref> aged 18, his first major role came when he was cast by [[russell t davies]] as fifteen-year-old schoolboy nathan maloney in davies' [[channel 4]] drama ''[[queer as folk (uk tv series)|queer as folk]]''.<ref name=burly>{{cite news|url=http://www.independent.co.uk/arts-entertainment/tv/features/charlie-hunnam-the-queer-as-folk-star-has-grown-into-a-burly-biker-with-a-toprated-cable-show-1951666.html|title=charlie hunnam: the queer as folk star has grown into a burly biker with a top-rated cable show|author=holmes, barry j|date=25 april 2010|work=[[the independent]]|accessdate=30 june 2012}}</ref>
+Entity Score = 1.000000, F1 = 0.000000, graph = charlie hunnam --> dated participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+

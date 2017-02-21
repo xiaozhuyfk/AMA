@@ -1170,3 +1170,406 @@ Number of support sentences = 2, Number of summary sentences = 1
 Example support sentence:
 the '''2000 fa cup final''' was the 119th final of the [[fa cup]], and the 72nd (excluding replays) and last to be played at the old [[wembley stadium (1923)|wembley stadium]].
 
+412what country borders slovakia?	[u'Ukraine', u'Austria', u'Poland', u'Czech Republic', u'Hungary']	[u'Romania', u'Empire of Japan', u'Finland', u'Croatia', u'Nazi Germany', '...']	0.142857142857	location.location.adjoin_s..location.adjoining_relationship.adjoins	military.military_combatant.military_conflicts..military.military_combatant_group.combatants	Slovakia	Slovakia
+Entity Score = 0.722632, F1 = 1.000000, graph = slovakia --> adjoining relationship adjoins --> x
+Number of support sentences = 22, Number of summary sentences = 0
+Example support sentence:
+the nuclear power production in slovakia sometimes draws attention to [[austria]]n green-energy activists who occasionally organise protests and block the borders between the two countries.
+Top5
+Entity Score = 0.722632, F1 = 0.142857, graph = slovakia --> military combatant group combatants --> x
+Number of support sentences = 21, Number of summary sentences = 0
+Example support sentence:
+in 1919, during the chaos following the break-up of austria-hungary, czechoslovakia was formed with numerous germans and hungarians within the newly set borders.
+Entity Score = 0.722632, F1 = 1.000000, graph = slovakia --> adjoining relationship adjoins --> x
+Number of support sentences = 22, Number of summary sentences = 0
+Example support sentence:
+the nuclear power production in slovakia sometimes draws attention to [[austria]]n green-energy activists who occasionally organise protests and block the borders between the two countries.
+Entity Score = 0.722632, F1 = 0.000000, graph = slovakia --> countries continent --> x
+Number of support sentences = 27, Number of summary sentences = 2
+Example support sentence:
+bratislava's geographical position in central europe has long made bratislava a crossroads for [[international trade]] traffic.<ref>{{cite web|publisher=encyclopædia britannica|url=http://concise.britannica.com/ebc/article-9273337/bratislava,-slovakia|title=bratislava in encyclopædia britannica|year=2007|accessdate=30 april 2007}}{{dead link|date=september 2013}}</ref><ref>{{cite web|publisher=city of bratislava |url=http://www.visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |title=mipim 2007 – other segments |year=2007 |accessdate=30 april 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070611190123/http://visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |archivedate=11 june 2007}}</ref> various ancient [[trade route]]s, such as the [[amber road]] and the [[danube]] waterway, have crossed territory of present-day bratislava.
+Entity Score = 0.722632, F1 = 0.000000, graph = slovakia --> location contains --> x
+Number of support sentences = 66, Number of summary sentences = 1
+Example support sentence:
+bratislava's geographical position in central europe has long made bratislava a crossroads for [[international trade]] traffic.<ref>{{cite web|publisher=encyclopædia britannica|url=http://concise.britannica.com/ebc/article-9273337/bratislava,-slovakia|title=bratislava in encyclopædia britannica|year=2007|accessdate=30 april 2007}}{{dead link|date=september 2013}}</ref><ref>{{cite web|publisher=city of bratislava |url=http://www.visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |title=mipim 2007 – other segments |year=2007 |accessdate=30 april 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070611190123/http://visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |archivedate=11 june 2007}}</ref> various ancient [[trade route]]s, such as the [[amber road]] and the [[danube]] waterway, have crossed territory of present-day bratislava.
+Entity Score = 0.722632, F1 = 0.000000, graph = slovakia --> location containedby --> x
+Number of support sentences = 27, Number of summary sentences = 2
+Example support sentence:
+bratislava's geographical position in central europe has long made bratislava a crossroads for [[international trade]] traffic.<ref>{{cite web|publisher=encyclopædia britannica|url=http://concise.britannica.com/ebc/article-9273337/bratislava,-slovakia|title=bratislava in encyclopædia britannica|year=2007|accessdate=30 april 2007}}{{dead link|date=september 2013}}</ref><ref>{{cite web|publisher=city of bratislava |url=http://www.visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |title=mipim 2007 – other segments |year=2007 |accessdate=30 april 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070611190123/http://visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |archivedate=11 june 2007}}</ref> various ancient [[trade route]]s, such as the [[amber road]] and the [[danube]] waterway, have crossed territory of present-day bratislava.
+
+420what county is san antonio in?	[u'Comal County']	[u'Area code 210', u'Comal County', u'United States of America', u'Bexar County', u'Texas']	0.333333333333	location.location.containedby	location.location.containedby	San Antonio	San Antonio
+Entity Score = 0.732190, F1 = 0.333333, graph = san antonio --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 5
+Example support sentence:
+Top5
+Entity Score = 0.732190, F1 = 0.333333, graph = san antonio --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 5
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = isan --> location containedby --> x
+Number of support sentences = 17, Number of summary sentences = 2
+Example support sentence:
+'''isan''' ([[isan language|isan]]/{{lang-th|ภาคอีสาน}} {{ipa-th|pʰâːk.ʔiːsǎːn||th-isan.ogg}}; also written as isaan, isarn, issarn, issan, esan, or esarn; from [[pali]] ऐशान ''aiśāna'' or [[sanskrit]] ऐशान ''aiśāna'' "northeast")<ref>{{cite web|author=klaus glashoff |url=http://spokensanskrit.de/index.php?script=hk&tinput=northeast&country_id=&trans=translate&direction=au |title=spoken sanskrit |publisher=spokensanskrit.de |date= |accessdate=2010-05-02}}</ref> consists of 20 provinces in the northeastern region of [[thailand]].
+Entity Score = 0.732190, F1 = 0.000000, graph = san antonio --> administrative division capital relationship administrative division --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = isan --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.732190, F1 = 0.000000, graph = san antonio --> bibs location country --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+424what movies has spike lee made?	[u'Jungle Fever', u'Inside Man', u'He Got Game', u'Clockers', u'Bamboozled', u'25th Hour', u'Girl 6', u'Get on the Bus', u'Crooklyn', u'Do the Right Thing']	[u'4 Little Girls', u'25th Hour', u"She's Gotta Have It", u'When the Levees Broke', u'Love & Basketball', '...']	0.25	film.director.film	award.award_nominee.award_nominations..award.award_nomination.nominated_for	Spike Lee	Spike Lee
+Entity Score = 0.999747, F1 = 0.408163, graph = spike lee --> director film --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+  | accessdate = 2009-02-10}}</ref> however, his 2013 film ''[[oldboy (2013 film)|oldboy]]'' uses the traditional "a spike lee film" credit after producers heavily re-edited it.<ref name="variety1">{{cite news|author=maane khatchatourian |url=http://variety.com/2013/film/news/spike-lees-oldboy-looking-like-a-big-fat-turkey-at-thanksgiving-b-o-1200892692/ |title='oldboy' will likely be trampled by new releases in thanksgiving rush |work=variety |date=november 29, 2013 |accessdate=2016-08-04}}</ref>
+Top5
+Entity Score = 0.999747, F1 = 0.250000, graph = spike lee --> award nomination nominated for --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+lee said in an april 7, 2006 interview with ''[[new york (magazine)|new york]]'' magazine that the other film's success, which he thought was based on safe stereotypes, hurt him more than if his film had not been nominated for an award.<ref>{{cite web|last=hill |first=logan |url=http://nymag.com/anniversary/40th/culture/45772/ |title=q&a with spike lee on making 'do the right thing' |work=[[new york (magazine)|new york]] |date=april 7, 2008 |accessdate=june 13, 2011}}</ref>
+Entity Score = 0.999747, F1 = 0.454545, graph = spike lee --> performance film --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+lee said in an april 7, 2006 interview with ''[[new york (magazine)|new york]]'' magazine that the other film's success, which he thought was based on safe stereotypes, hurt him more than if his film had not been nominated for an award.<ref>{{cite web|last=hill |first=logan |url=http://nymag.com/anniversary/40th/culture/45772/ |title=q&a with spike lee on making 'do the right thing' |work=[[new york (magazine)|new york]] |date=april 7, 2008 |accessdate=june 13, 2011}}</ref>
+Entity Score = 0.999747, F1 = 0.153846, graph = spike lee --> award honor honored for --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+lee said in an april 7, 2006 interview with ''[[new york (magazine)|new york]]'' magazine that the other film's success, which he thought was based on safe stereotypes, hurt him more than if his film had not been nominated for an award.<ref>{{cite web|last=hill |first=logan |url=http://nymag.com/anniversary/40th/culture/45772/ |title=q&a with spike lee on making 'do the right thing' |work=[[new york (magazine)|new york]] |date=april 7, 2008 |accessdate=june 13, 2011}}</ref>
+Entity Score = 0.999747, F1 = 0.521739, graph = spike lee --> writer film --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+lee said in an april 7, 2006 interview with ''[[new york (magazine)|new york]]'' magazine that the other film's success, which he thought was based on safe stereotypes, hurt him more than if his film had not been nominated for an award.<ref>{{cite web|last=hill |first=logan |url=http://nymag.com/anniversary/40th/culture/45772/ |title=q&a with spike lee on making 'do the right thing' |work=[[new york (magazine)|new york]] |date=april 7, 2008 |accessdate=june 13, 2011}}</ref>
+Entity Score = 0.999747, F1 = 0.000000, graph = spike lee --> author works written --> x
+Number of support sentences = 31, Number of summary sentences = 0
+Example support sentence:
+"<ref>{{cite news|url=https://www.theguardian.com/film/2008/jun/09/news.usa|title='we're not on a plantation, clint'|date=june 9, 2008 |first=martin |last=wainwright |work=the guardian}}</ref> lee later claimed that the event was exaggerated by the media and that he and eastwood had reconciled through mutual friend [[steven spielberg]], culminating in his sending eastwood a print of ''miracle at st. anna''.<ref>[http://omg.yahoo.com/news/access-exclusive-spike-lee-on-clint-eastwood-we-re-cool/12796 "access exclusive: spike lee on clint eastwood: 'we're cool'" omg!/yahoo!
+
+425who does owen schmitt play for?	[u'Seattle Seahawks']	[u'West Virginia Mountaineers football', u'Seattle Seahawks', u'Philadelphia Eagles', u'Oakland Raiders']	0.4	sports.pro_athlete.teams..american_football.football_historical_roster_position.team	sports.pro_athlete.teams..american_football.football_historical_roster_position.team	Owen Schmitt	Owen Schmitt
+Entity Score = 0.999496, F1 = 0.400000, graph = owen schmitt --> football historical roster position team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:owen schmitt.jpg|150px|thumbnail|right|schmitt with the [[seattle seahawks]] in september 2009.]]
+Top5
+Entity Score = 0.999496, F1 = 0.400000, graph = owen schmitt --> football historical roster position team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:owen schmitt.jpg|150px|thumbnail|right|schmitt with the [[seattle seahawks]] in september 2009.]]
+Entity Score = 0.999496, F1 = 0.400000, graph = owen schmitt --> football historical roster position team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:owen schmitt.jpg|150px|thumbnail|right|schmitt with the [[seattle seahawks]] in september 2009.]]
+Entity Score = 0.999496, F1 = 0.400000, graph = owen schmitt --> sports team roster team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:owen schmitt.jpg|150px|thumbnail|right|schmitt with the [[seattle seahawks]] in september 2009.]]
+Entity Score = 0.999496, F1 = 0.400000, graph = owen schmitt --> sports team roster team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:owen schmitt.jpg|150px|thumbnail|right|schmitt with the [[seattle seahawks]] in september 2009.]]
+Entity Score = 0.999496, F1 = 0.666667, graph = owen schmitt --> athlete salary team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:owen schmitt.jpg|150px|thumbnail|right|schmitt with the [[seattle seahawks]] in september 2009.]]
+
+427what sport is popular in italy?	[u"Italy women's national football team", u"Italy women's national volleyball team", u'Italy Fed Cup team', u'Italy national cricket team', u'Italy Davis Cup team', u"Italy men's national volleyball team", u'A1 Team Italy', u"Italy women's national beach handball team", u'Italy national futsal team', u'Italy national football team']	[u'Fortitudo Pallacanestro Bologna', u'Treviso Basket', u'S.S. Felice Scandone', u'Italy national futsal team', u'Olimpia Milano', '...']	0.454545454545	sports.sports_team_location.teams	sports.sports_team_location.teams	Italy	Italy
+Entity Score = 0.851261, F1 = 0.454545, graph = italy --> sports team location teams --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+italy's [[italy national rugby union team|national team]] competes in the [[six nations championship]], and is a regular at the [[rugby world cup]].
+Top5
+Entity Score = 0.851261, F1 = 0.454545, graph = italy --> sports team location teams --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+italy's [[italy national rugby union team|national team]] competes in the [[six nations championship]], and is a regular at the [[rugby world cup]].
+Entity Score = 0.685501, F1 = 0.000000, graph = italian front --> event included in event --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> location time zones --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> country form of government --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+italy has been a [[unitary state|unitary]] [[parliamentary republic]] since 2 june 1946, when the monarchy was abolished by a [[italian constitutional referendum, 1946|constitutional referendum]].
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> book subject works --> x
+Number of support sentences = 335, Number of summary sentences = 14
+Example support sentence:
+today, the most notable centres of jazz music in italy include milan, rome, and sicily.
+
+430what is san francisco zip code?	[u'94109', u'94108', u'94102', u'94101', u'94103', u'94111', u'94105', u'94104', u'94107', u'94110']	[u'94177', u'94199', u'94171', u'94130', u'94131', '...']	0.294117647059	location.citytown.postal_codes	location.citytown.postal_codes	San Francisco	San Francisco
+Entity Score = 0.916784, F1 = 0.294118, graph = san francisco --> citytown postal codes --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.916784, F1 = 0.294118, graph = san francisco --> citytown postal codes --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.916784, F1 = 0.000000, graph = san francisco --> location events --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.916784, F1 = 0.010167, graph = san francisco --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+Entity Score = 0.916784, F1 = 0.000000, graph = san francisco --> location time zones --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.916784, F1 = 0.000000, graph = san francisco --> place with neighborhoods neighborhoods --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+
+433where turkish people originate?	[u'Turkey', u'Republic of Macedonia', u'Austria', u'Cyprus', u'Republic of Kosovo']	[u'Canada', u'Turkey', u'France', u'Norway', u'Algeria', '...']	0.148148148148	people.ethnicity.geographic_distribution	people.ethnicity.geographic_distribution	Turkish people	Turkish people
+Entity Score = 0.500000, F1 = 0.148148, graph = turkish people --> ethnicity geographic distribution --> x
+Number of support sentences = 4, Number of summary sentences = 1
+Example support sentence:
+the extent to which gene flow from central asia's original turkic nomads has contributed to the current gene pool of the turkish people of turkey, and the question regarding the role of the 11th century settlements by turkic people in anatolia, has been the subject of various studies.
+Top5
+Entity Score = 0.500000, F1 = 0.148148, graph = turkish people --> ethnicity geographic distribution --> x
+Number of support sentences = 4, Number of summary sentences = 1
+Example support sentence:
+the extent to which gene flow from central asia's original turkic nomads has contributed to the current gene pool of the turkish people of turkey, and the question regarding the role of the 11th century settlements by turkic people in anatolia, has been the subject of various studies.
+Entity Score = 0.500000, F1 = 0.000000, graph = turkish people --> ethnicity included in group --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+in these sources, "turk" appears as "tujue" ({{zh|c={{linktext|突|厥}}|w=t’u-chüe}}), which referred to the [[göktürks]].<ref name="stokes & gorman 2010 loc=707">{{harvnb|stokes|gorman|2010|loc=707}}.</ref><ref name="findley 2005 loc=21">{{harvnb|findley|2005|loc=21}}.</ref> although "turk" refers to turkish people, it may also sometimes refer to the wider language group of [[turkic peoples]].
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure person --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = turkish people --> ethnicity people --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+438where president obama was born?	[u'Honolulu']	[u'White House', u'Washington, D.C.', u'New York City', u'Chicago', u'Honolulu', '...']	0.285714285714	people.person.places_lived..people.place_lived.location	people.person.places_lived..people.place_lived.location	Barack Obama	Barack Obama
+Entity Score = 1.000000, F1 = 0.285714, graph = barack obama --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.285714, graph = barack obama --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.975501, F1 = 0.285714, graph = barack obama --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = barack obama --> producer location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.975501, F1 = 0.000000, graph = barack obama --> producer location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 1.000000, graph = barack obama --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+450who is vancouver canucks coach?	[u'Alain Vigneault']	[u'Tom Maher', u'Steve Coppell', u'Jeff Quinn', u'Tim Ginever', u'Cl\xe9ment Jodoin', '...']	0.000295464618112	sports.sports_team.coaches..sports.sports_team_coach_tenure.coach	people.profession.people_with_this_profession	Vancouver Canucks	Coach
+Entity Score = 0.965871, F1 = 0.666667, graph = vancouver canucks --> sports team coach tenure coach --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.367595, F1 = 0.000295, graph = coach --> profession people with this profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.965871, F1 = 0.666667, graph = vancouver canucks --> sports team coach tenure coach --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.367595, F1 = 0.000000, graph = coach --> sports team coach tenure coach --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.965871, F1 = 0.000000, graph = vancouver canucks --> professional sports team owner s --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.107633, F1 = 0.000000, graph = baseball coach --> profession people with this profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+456what to see in phoenix arizona?	[u'Grand Canyon', u'Phoenix Mountain Preserve', u'Phoenix Art Museum', u'Desert Botanical Garden', u'Heard Museum', u'Musical Instrument Museum', u'Arizona Science Center', u'Ro Ho En', u'Mesa Arts Center', u'Pueblo Grande Ruin']	[u'First Presbyterian Church', u"St. Mary's Church", u'Phoenix College', u'Refrigeration School Inc', u'DeVry University-Arizona', '...']	0.0518134715026	travel.travel_destination.tourist_attractions	location.location.contains	Phoenix	Phoenix
+Entity Score = 0.999990, F1 = 1.000000, graph = phoenix --> travel destination tourist attractions --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+* [[phoenix art museum]], the southwest united states' largest art museum for visual art
+Top5
+Entity Score = 0.999990, F1 = 0.051813, graph = phoenix --> location contains --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+* [[phoenix art museum]], the southwest united states' largest art museum for visual art
+Entity Score = 0.999990, F1 = 1.000000, graph = phoenix --> travel destination tourist attractions --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+* [[phoenix art museum]], the southwest united states' largest art museum for visual art
+Entity Score = 0.999990, F1 = 0.000000, graph = phoenix --> place with neighborhoods neighborhoods --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999990, F1 = 0.000000, graph = phoenix --> adjoining relationship adjoins --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999990, F1 = 0.000000, graph = phoenix --> location events --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+471what language do they in ghana?	[u'English Language']	[u'Ga Language', u'Dagbani Language', u'Fula language', u'Akan Language', u'Dagaare language', '...']	0.153846153846	location.country.languages_spoken	location.country.languages_spoken	Ghana	Ghana
+Entity Score = 0.803360, F1 = 0.153846, graph = ghana --> country languages spoken --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+|official_languages     = [[english language|english]]<ref name="the ghanaian government states that english is the official language">{{cite web|quote=english is the official language of ghana and is universally used in schools in addition to nine other local languages.
+Top5
+Entity Score = 0.803360, F1 = 0.153846, graph = ghana --> country languages spoken --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+|official_languages     = [[english language|english]]<ref name="the ghanaian government states that english is the official language">{{cite web|quote=english is the official language of ghana and is universally used in schools in addition to nine other local languages.
+Entity Score = 0.803360, F1 = 1.000000, graph = ghana --> country official language --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+|official_languages     = [[english language|english]]<ref name="the ghanaian government states that english is the official language">{{cite web|quote=english is the official language of ghana and is universally used in schools in addition to nine other local languages.
+Entity Score = 0.803360, F1 = 0.000000, graph = ghana --> government position held district represented --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.803360, F1 = 0.000000, graph = ghana --> location contains --> x
+Number of support sentences = 208, Number of summary sentences = 2
+Example support sentence:
+the most prominent ghanaian authors are novelists; [[j. e. casely hayford]], [[ayi kwei armah]] and [[nii ayikwei parkes]], who gained international acclaim with the books, ''ethiopia unbound'' (1911), ''[[the beautyful ones are not yet born]]'' (1968) and ''tail of the blue bird'' (2009), respectively.<ref name="lit">{{cite web |work= amadeus |url= http://www.amadeus.net/home/destinations/es/guides/gh/cul.htm |title= ghana |language= spanish |accessdate=1 august 2013}}</ref> in addition to novels, other literature arts such as ghanaian theatre and poetry have also had a very good development and support at the national level with prominent ghanaian playwrights and poets [[joe de graft]] and [[efua sutherland]].<ref name="lit"/>
+Entity Score = 0.111561, F1 = 0.000000, graph = ghana national football team --> sports team location --> x
+Number of support sentences = 16, Number of summary sentences = 2
+Example support sentence:
+{{ghana national football team managers}}
+
+479when will the world end mayans?	[u'2012']	[u'The Hero Twins', u'Mayeros', u'Sacred Mysteries Among The Mayas and The Quiches', u'The mystery of the Maya', u'2012', '...']	0.25	book.book_subject.works	book.book_subject.works	Maya civilization	Maya civilization
+Entity Score = 0.656581, F1 = 0.250000, graph = maya civilization --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.656581, F1 = 0.250000, graph = maya civilization --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.336931, F1 = 0.000000, graph = end --> football roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.336931, F1 = 0.000000, graph = end --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.336931, F1 = 0.000000, graph = end --> football historical roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.491277, F1 = 0.000000, graph = world --> current area record country --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+495what's there to see in atlanta?	[u'Atlanta History Center', u'Atlanta Cyclorama & Civil War Museum', u'Atlanta Ballet', u'Fernbank Museum of Natural History', u'Woodruff Arts Center', u'Zoo Atlanta', u'Atlanta Symphony Orchestra', u'Centennial Olympic Park', u'Martin Luther King, Jr., National Historic Site', u'Fernbank Science Center']	[u'Flatiron Building', u'Atlanta College of Art', u'High Museum of Art', u'The Art Institute of Atlanta', u'Glenridge Hall', '...']	0.0397586084487	travel.travel_destination.tourist_attractions	location.location.contains	Atlanta	Atlanta
+Entity Score = 0.829890, F1 = 0.666667, graph = atlanta --> travel destination tourist attractions --> x
+Number of support sentences = 15, Number of summary sentences = 0
+Example support sentence:
+the streetcar's line, which is also known as the downtown loop, runs 2.7 miles around the downtown tourist areas of [[peachtree center]], [[centennial olympic park]], the [[martin luther king, jr. national historic site]], and sweet auburn.<ref>{{cite web |title = atlanta streetcar |url = http://streetcar.atlantaga.gov/}}</ref> the atlanta streetcar line is also being expanded on in the coming years to include a wider range of atlanta's neighborhoods and important places of interest, with a total of over 50 miles of track in the plan.<ref>{{cite web|last1=flynn|first1=jason|title=atlanta streetcar plan approval may not matter much|url=http://atlanta.curbed.com/2015/12/10/9892580/atlanta-streetcar-plan-approval-may-not-matter-much|website=curbed atlanta|publisher=vox media|accessdate=13 october 2016}}</ref>
+Top5
+Entity Score = 0.829890, F1 = 0.039759, graph = atlanta --> location contains --> x
+Number of support sentences = 58, Number of summary sentences = 0
+Example support sentence:
+elton wilson |title=a choice with no options: atlanta public housing residents' lived experiences in the face of relocation |publisher=[[georgia state university]] |deadurl=yes |archiveurl=https://web.archive.org/web/20141218203321/http://urbanhealth.gsu.edu/files/gsu_public_housing_report1.pdf |archivedate=december 18, 2014 |df=mdy}}</ref><ref name="manhattan">{{cite web|url=http://www.iut.nu/members/usa/georgia/reinventingpublhous2009.pdf|first=howard|last=husock|title=reinventing public housing: is the atlanta model right for your city?|publisher=[[manhattan institute for policy research]]}}</ref><ref>us census bureau 1990 census – total number of housing units in atlanta city</ref> in 2005, the $2.8 billion [[beltline]] project was adopted, with the stated goals of converting a disused 22-mile freight railroad loop that surrounds the central city into an art-filled multi-use trail and increasing the city's park space by 40%.<ref name="beltlinefacts">{{cite web|title=the atlanta beltline in 5|url=https://beltline.org/about/the-atlanta-beltline-project/atlanta-beltline-overview/|website=atlanta beltline|publisher=atlanta beltline inc.|accessdate=6 february 2017}}</ref> atlanta's cultural offerings expanded during the 2000s: the [[high museum of art]] doubled in size; the [[alliance theatre]] won a [[tony award]]; and art galleries were established on the once-industrial [[west midtown|westside]].<ref name="online.wsj.com">{{cite news|url=http://online.wsj.com/article/sb10001424052748704415104576250962970106874.html?mod=wsj_hp_middletopminileadstory |work=[[the wall street journal]] |first=timothy w. |last=martin |title=the new new south |date=april 16, 2011}}</ref>
+Entity Score = 0.829890, F1 = 0.000000, graph = atlanta --> hud county place place --> x
+Number of support sentences = 284, Number of summary sentences = 8
+Example support sentence:
+''[[atlanta (magazine)|atlanta]]'' magazine is an award-winning, monthly general-interest magazine based in and covering atlanta.
+Entity Score = 0.829890, F1 = 0.000000, graph = atlanta --> location containedby --> x
+Number of support sentences = 62, Number of summary sentences = 2
+Example support sentence:
+* [http://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/atlanta entry in the new georgia encyclopedia]
+Entity Score = 0.829890, F1 = 0.000000, graph = atlanta --> place with neighborhoods neighborhoods --> x
+Number of support sentences = 28, Number of summary sentences = 0
+Example support sentence:
+{{wide image|atlanta downtown skyline.jpg|align-cap=center|1000px|the [[downtown atlanta|downtown]] skyline}}
+Entity Score = 0.829890, F1 = 0.000000, graph = atlanta --> bibs location state --> x
+Number of support sentences = 62, Number of summary sentences = 1
+Example support sentence:
+* [http://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/atlanta entry in the new georgia encyclopedia]
+
+499what the largest city in spain?	[u'Madrid']	[u'Canary Islands', u'Extremadura', u'Castile and Le\xf3n', u'Perejil Island', u'Valencian Community', '...']	0.0833333333333	time.event.locations	location.country.first_level_divisions	2004 Madrid train bombings	Spain
+Entity Score = 0.573152, F1 = 1.000000, graph = 2004 madrid train bombings --> event locations --> x
+Number of support sentences = 12, Number of summary sentences = 1
+Example support sentence:
+the '''2004 madrid train bombings''' (also known in spain as '''11-m''') were nearly simultaneous, coordinated bombings against the [[cercanías madrid|cercanías]] commuter train system of [[madrid]], spain, on the morning of 11 march 2004 – three days before [[spanish general election, 2004|spain's general elections]].
+Top5
+Entity Score = 0.864643, F1 = 0.083333, graph = spain --> country first level divisions --> x
+Number of support sentences = 48, Number of summary sentences = 2
+Example support sentence:
+the unification of the crowns of aragon and castile by the marriage of their sovereigns laid the basis for modern spain and the spanish empire, although each kingdom of spain remained a separate country, in social, political, laws, currency and language.<ref>{{cite web|url=http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |title=imperial spain |accessdate=13 august 2008 |publisher=university of calgary |deadurl=yes |archiveurl=https://web.archive.org/web/20080629000351/http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |archivedate=29 june 2008}}</ref><ref>{{cite book|url=https://books.google.com/?id=y84wagaxxo4c&lpg=pa472&dq=unification%20of%20the%20crowns%20of%20aragon%20and%20castile&pg=pa472#v=onepage&q&f=false |title=handbook of european history |publisher=books.google.es |date= |accessdate=26 april 2013|isbn=9004097600|year=1994}}</ref>
+Entity Score = 0.864643, F1 = 0.000432, graph = spain --> location contains --> x
+Number of support sentences = 160, Number of summary sentences = 3
+Example support sentence:
+smaller numbers of immigrants from several [[sub-saharan]] countries have recently been settling in spain.
+Entity Score = 0.864643, F1 = 0.086957, graph = spain --> administrative area administrative children --> x
+Number of support sentences = 47, Number of summary sentences = 2
+Example support sentence:
+the unification of the crowns of aragon and castile by the marriage of their sovereigns laid the basis for modern spain and the spanish empire, although each kingdom of spain remained a separate country, in social, political, laws, currency and language.<ref>{{cite web|url=http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |title=imperial spain |accessdate=13 august 2008 |publisher=university of calgary |deadurl=yes |archiveurl=https://web.archive.org/web/20080629000351/http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |archivedate=29 june 2008}}</ref><ref>{{cite book|url=https://books.google.com/?id=y84wagaxxo4c&lpg=pa472&dq=unification%20of%20the%20crowns%20of%20aragon%20and%20castile&pg=pa472#v=onepage&q&f=false |title=handbook of european history |publisher=books.google.es |date= |accessdate=26 april 2013|isbn=9004097600|year=1994}}</ref>
+Entity Score = 0.864643, F1 = 0.030303, graph = spain --> country administrative divisions --> x
+Number of support sentences = 52, Number of summary sentences = 2
+Example support sentence:
+the unification of the crowns of aragon and castile by the marriage of their sovereigns laid the basis for modern spain and the spanish empire, although each kingdom of spain remained a separate country, in social, political, laws, currency and language.<ref>{{cite web|url=http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |title=imperial spain |accessdate=13 august 2008 |publisher=university of calgary |deadurl=yes |archiveurl=https://web.archive.org/web/20080629000351/http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |archivedate=29 june 2008}}</ref><ref>{{cite book|url=https://books.google.com/?id=y84wagaxxo4c&lpg=pa472&dq=unification%20of%20the%20crowns%20of%20aragon%20and%20castile&pg=pa472#v=onepage&q&f=false |title=handbook of european history |publisher=books.google.es |date= |accessdate=26 april 2013|isbn=9004097600|year=1994}}</ref>
+Entity Score = 0.864643, F1 = 1.000000, graph = spain --> country capital --> x
+Number of support sentences = 8, Number of summary sentences = 1
+Example support sentence:
+western [[castile and león|castile–león]], northeastern [[castilla-la mancha]] and northern [[community of madrid|madrid]]) and into much rainier areas (notably [[galicia (spain)|galicia]]).
+
+513what was nikola tesla known for?	[u'Inventor']	[u'Physicist', u'Scientist', u'Futurist', u'Electrical engineer', u'Mechanical Engineer', '...']	0.285714285714	people.person.profession	people.person.profession	Nikola Tesla	Nikola Tesla
+Entity Score = 0.994500, F1 = 0.285714, graph = nikola tesla --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.994500, F1 = 0.285714, graph = nikola tesla --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.994500, F1 = 0.000000, graph = nikola tesla --> inventor inventions --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.994500, F1 = 0.000000, graph = nikola tesla --> innovator original ideas --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.994500, F1 = 0.000000, graph = nikola tesla --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.994500, F1 = 0.000000, graph = nikola tesla --> author book editions published --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+527who does jordan palmer play for?	[u'Jacksonville Jaguars']	[u'Arizona Rattlers', u'Sacramento Mountain Lions', u'Washington Redskins', u'Jacksonville Jaguars', u'UTEP Miners football', '...']	0.285714285714	sports.pro_athlete.teams..american_football.football_historical_roster_position.team	american_football.football_player.former_teams..sports.sports_team_roster.team	Jordan Palmer	Jordan Palmer
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> football historical roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.681326, F1 = 1.000000, graph = jordan palmer --> athlete salary team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> football historical roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> football historical roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+530who does david beckham play for?	[u'Paris Saint-Germain F.C.']	[u'Real Madrid C.F.', u'Preston North End F.C.', u'Manchester United F.C.', u'A.C. Milan', u'LA Galaxy', '...']	0.222222222222	sports.pro_athlete.teams..soccer.football_roster_position.team	sports.pro_athlete.teams..soccer.football_roster_position.team	David Beckham	David Beckham
+Entity Score = 0.996289, F1 = 0.222222, graph = david beckham --> football roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.996289, F1 = 0.222222, graph = david beckham --> football roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996289, F1 = 0.222222, graph = david beckham --> football roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996289, F1 = 0.222222, graph = david beckham --> football player stats team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996289, F1 = 0.222222, graph = david beckham --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996289, F1 = 0.222222, graph = david beckham --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+

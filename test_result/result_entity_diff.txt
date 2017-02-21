@@ -607,3 +607,459 @@ Entity Score = 0.963918, F1 = 0.000000, graph = adolf hitler --> activist area o
 Number of support sentences = 0, Number of summary sentences = 0
 Example support sentence:
 
+437who is the texas state senator?	[u'Kay Bailey Hutchison']	[u'Wendy Davis', u'Sylvia Garcia']	0	government.political_district.representatives..government.government_position_held.office_holder	government.governmental_body.members..government.government_position_held.office_holder	Texas	Texas Senate
+Entity Score = 0.252802, F1 = 0.058824, graph = texas --> government position held office holder --> x
+Number of support sentences = 6, Number of summary sentences = 0
+Example support sentence:
+texas's most notable [[union (american civil war)|unionist]] was the state governor, [[sam houston]].
+Top5
+Entity Score = 0.953362, F1 = 0.000000, graph = texas senate --> government position held office holder --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.252802, F1 = 0.058824, graph = texas --> government position held office holder --> x
+Number of support sentences = 6, Number of summary sentences = 0
+Example support sentence:
+texas's most notable [[union (american civil war)|unionist]] was the state governor, [[sam houston]].
+Entity Score = 0.252802, F1 = 0.000000, graph = texas --> government position held office holder --> x
+Number of support sentences = 9, Number of summary sentences = 0
+Example support sentence:
+universities in texas host three presidential libraries: [[george bush presidential library]] at texas a&m university, the [[lyndon baines johnson library and museum]] at the university of texas at austin, and the [[george w. bush presidential library]] at [[southern methodist university]].
+Entity Score = 0.252802, F1 = 0.000000, graph = texas --> government position held appointed by --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.298455, F1 = 0.000000, graph = state senator --> government position held office holder --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+439who won the league cup in 2002?	[u'Liverpool F.C.']	[u'Pete', u'Kayden', u'Jenny']	0	sports.sports_award_type.winners..sports.sports_award.award_winner	tv.tv_program.regular_cast..tv.regular_tv_appearance.character	Football League Cup	The League
+Entity Score = 0.529655, F1 = 1.000000, graph = football league cup --> sports award award winner --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.807063, F1 = 0.000000, graph = the league --> regular tv appearance character --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.807063, F1 = 0.000000, graph = the league --> regular tv appearance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.529655, F1 = 0.000000, graph = football league cup --> sports championship events --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.529655, F1 = 1.000000, graph = football league cup --> sports award award winner --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.529655, F1 = 0.000000, graph = football league cup --> recurring event instances --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+442what did stephen hawking study?	[u'Physics']	[u'SVU College of Engineering, Sri Venkateswara University', u'Indira Gandhi Institute of Technology', u'University of Scranton', u'Chanakya National Law University', u'Babasaheb Ambedkar Technological University', '...']	0	people.person.education..education.education.major_field_of_study	education.school_category.schools_of_this_kind	Stephen Hawking	Research
+Entity Score = 0.969964, F1 = 1.000000, graph = stephen hawking --> education major field of study --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.148617, F1 = 0.000000, graph = research --> school category schools of this kind --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:alcator c-mod.jpg|thumb|right|scientific research equipment at [[massachusetts institute of technology|mit]].]]
+Entity Score = 0.969964, F1 = 0.000000, graph = stephen hawking --> notable person with medical condition condition --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.969964, F1 = 0.000000, graph = stephen hawking --> education institution --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.969964, F1 = 0.000000, graph = stephen hawking --> employment tenure company --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.969964, F1 = 0.000000, graph = stephen hawking --> organization founder organizations founded --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+444who was queen elizabeth ii mom?	[u'Queen Elizabeth The Queen Mother']	[u'Anne Boleyn', u'Henry VIII of England']	0	people.person.parents	people.person.parents	Elizabeth II	Elizabeth I of England
+Entity Score = 0.966997, F1 = 0.666667, graph = elizabeth ii --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.286776, F1 = 0.000000, graph = elizabeth i of england --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993227, F1 = 0.666667, graph = elizabeth ii --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.966997, F1 = 0.666667, graph = elizabeth ii --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993227, F1 = 0.000000, graph = elizabeth ii --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.966997, F1 = 0.000000, graph = elizabeth ii --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+447who plays dwight in the office?	[u'Rainn Wilson']	[u'Clive Owen']	0	award.award_winning_work.awards_won..award.award_honor.award_winner	film.film_character.portrayed_in_films..film.performance.actor	The Office	Dwight McCarthy
+Entity Score = 0.676464, F1 = 0.050000, graph = the office --> award honor award winner --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.116600, F1 = 0.000000, graph = dwight mccarthy --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.323393, F1 = 1.000000, graph = dwight schrute --> regular tv appearance actor --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+| caption = [[rainn wilson]] as dwight schrute
+Entity Score = 0.676464, F1 = 0.050000, graph = the office --> award honor award winner --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.676464, F1 = 0.000000, graph = the office --> tv producer term producer --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.676464, F1 = 0.025974, graph = the office --> award nomination award nominee --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+
+450who is vancouver canucks coach?	[u'Alain Vigneault']	[u'Tom Maher', u'Steve Coppell', u'Jeff Quinn', u'Tim Ginever', u'Cl\xe9ment Jodoin', '...']	0.000295464618112	sports.sports_team.coaches..sports.sports_team_coach_tenure.coach	people.profession.people_with_this_profession	Vancouver Canucks	Coach
+Entity Score = 0.965871, F1 = 0.666667, graph = vancouver canucks --> sports team coach tenure coach --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.367595, F1 = 0.000295, graph = coach --> profession people with this profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.965871, F1 = 0.666667, graph = vancouver canucks --> sports team coach tenure coach --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.367595, F1 = 0.000000, graph = coach --> sports team coach tenure coach --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.965871, F1 = 0.000000, graph = vancouver canucks --> professional sports team owner s --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.107633, F1 = 0.000000, graph = baseball coach --> profession people with this profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+454where did joseph's family live?	[u'Canaan']	[u'Cape Town']	0	people.person.place_of_birth	people.person.place_of_birth	Joseph	Moeneeb Josephs
+Entity Score = 0.414617, F1 = 1.000000, graph = joseph --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.284542, F1 = 0.000000, graph = moeneeb josephs --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.233052, F1 = 0.000000, graph = joseph haydn --> person place of birth --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+joseph haydn was born in [[rohrau, austria|rohrau]], [[habsburg monarchy|austria]], a village that at that time stood on the border with [[hungary]].
+Entity Score = 0.414617, F1 = 1.000000, graph = joseph --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.179461, F1 = 0.000000, graph = saint joseph --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.233052, F1 = 0.000000, graph = joseph haydn --> deceased person place of death --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+*{{cite book |last=dies |first=albert christoph |authorlink=albert christoph dies |year=1810 |title=biographische nachrichten von joseph haydn nach mündlichen erzählungen desselben entworfen und herausgegeben |trans-title=biographical accounts of joseph haydn, written and edited from his own spoken narratives |location=vienna |publisher=camesinaische buchhandlung |ref=harv }} english translation in: {{cite book |last=dies |first=albert christoph |chapter=biographical accounts of joseph haydn |year=1963 |editor-last=gotwals |editor-first=vernon |title=haydn: two contemporary portraits |others=(translation by vernon gotwals) |location=milwaukee |publisher=univ.
+
+467what to do downtown sacramento?	[u'Zac Hill']	[u'Sacramento Convention Center Complex']	0	location.location.people_born_here	location.location.contains	Sacramento	Downtown Sacramento
+Entity Score = 0.750528, F1 = 0.003367, graph = sacramento --> location people born here --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = downtown sacramento --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.750528, F1 = 0.000000, graph = sacramento --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+Entity Score = 0.750528, F1 = 0.000000, graph = sacramento --> travel destination tourist attractions --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.750528, F1 = 0.000000, graph = sacramento --> place with neighborhoods neighborhoods --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.750528, F1 = 0.000000, graph = sacramento --> adjoining relationship adjoins --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+469where is giza pyramids located?	[u'Egypt', u'Giza Governorate']	[u'Egypt']	0.666666666667	location.location.containedby	location.location.containedby	Giza	Giza Necropolis
+Entity Score = 0.846332, F1 = 1.000000, graph = giza --> location containedby --> x
+Number of support sentences = 19, Number of summary sentences = 4
+Example support sentence:
+giza's learning institutions include [[cairo university]], which was moved to giza in 1924. the city is a hub of education and educational services not only for egypt but also for the entire [[mediterranean region]].
+Top5
+Entity Score = 0.859188, F1 = 0.666667, graph = giza necropolis --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.846332, F1 = 1.000000, graph = giza --> location containedby --> x
+Number of support sentences = 19, Number of summary sentences = 4
+Example support sentence:
+giza's learning institutions include [[cairo university]], which was moved to giza in 1924. the city is a hub of education and educational services not only for egypt but also for the entire [[mediterranean region]].
+Entity Score = 0.119332, F1 = 0.500000, graph = great pyramid of giza --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.846332, F1 = 0.000000, graph = giza --> location contains --> x
+Number of support sentences = 8, Number of summary sentences = 1
+Example support sentence:
+giza's learning institutions include [[cairo university]], which was moved to giza in 1924. the city is a hub of education and educational services not only for egypt but also for the entire [[mediterranean region]].
+Entity Score = 0.119332, F1 = 0.000000, graph = great pyramid of giza --> pyramid site --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+480what is arkansas state capitol?	[u'Little Rock']	[u'United States of America']	0	location.location.street_address..location.mailing_address.citytown	base.biblioness.bibs_location.country	Arkansas State Capitol	Arkansas
+Entity Score = 0.998158, F1 = 1.000000, graph = arkansas state capitol --> mailing address citytown --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.127469, F1 = 0.000000, graph = arkansas --> bibs location country --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+in 1881, the [[arkansas general assembly]] passed the following concurrent resolution, now arkansas code 1 april 105:<ref>{{cite journal | url = http://www.arkleg.state.ar.us/assembly/arkansascode/0/1-4-105.htm | format = official text | title = code | place = ar, [[united states of america|us]] | publisher = assembly | issue = 1‐4‐105 | postscript = <!-- bot inserted parameter.
+Entity Score = 0.127469, F1 = 0.000000, graph = arkansas --> location containedby --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+in 1881, the [[arkansas general assembly]] passed the following concurrent resolution, now arkansas code 1 april 105:<ref>{{cite journal | url = http://www.arkleg.state.ar.us/assembly/arkansascode/0/1-4-105.htm | format = official text | title = code | place = ar, [[united states of america|us]] | publisher = assembly | issue = 1‐4‐105 | postscript = <!-- bot inserted parameter.
+Entity Score = 0.127469, F1 = 0.000000, graph = arkansas --> government position held jurisdiction of office --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+in 1881, the [[arkansas general assembly]] passed the following concurrent resolution, now arkansas code 1 april 105:<ref>{{cite journal | url = http://www.arkleg.state.ar.us/assembly/arkansascode/0/1-4-105.htm | format = official text | title = code | place = ar, [[united states of america|us]] | publisher = assembly | issue = 1‐4‐105 | postscript = <!-- bot inserted parameter.
+Entity Score = 0.372212, F1 = 0.000000, graph = arkansas state university --> mailing address citytown --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+* [[arkansas state university-paragould]], an instructional site of the jonesboro campus
+Entity Score = 0.998158, F1 = 0.666667, graph = arkansas state capitol --> location containedby --> x
+Number of support sentences = 1, Number of summary sentences = 1
+Example support sentence:
+#redirect [[arkansas state capitol]]
+
+484what kind of guitar john mayer?	[u'Fender Stratocaster']	[u'Chapman Stick', u'Moog', u'Accordion', u'flugelhorn', u'Timpani', '...']	0	music.guitarist.guitars_played	music.performance_role.track_performances..music.track_contribution.role	John Mayer	Guitar
+Entity Score = 0.979691, F1 = 1.000000, graph = john mayer --> guitarist guitars played --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.861266, F1 = 0.000000, graph = guitar --> track contribution role --> x
+Number of support sentences = 152, Number of summary sentences = 11
+Example support sentence:
+the body of an acoustic guitar has a sound hole through which sound projects.
+Entity Score = 0.979691, F1 = 1.000000, graph = john mayer --> guitarist guitars played --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.979691, F1 = 0.000000, graph = john mayer --> artist genre --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.979691, F1 = 0.000000, graph = john mayer --> track contribution role --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.861266, F1 = 0.000000, graph = guitar --> recording contribution performance role --> x
+Number of support sentences = 82, Number of summary sentences = 8
+Example support sentence:
+some electric guitar models feature [[piezoelectricity|piezoelectric]] pickups, which function as [[transducer]]s to provide a sound closer to that of an acoustic guitar with the flip of a switch or knob, rather than switching guitars.
+
+494who was saint paul the apostle?	[u'Tentmaker', u'Prophet', u'Writer', u'Missionary', u'Martyr']	[u'Paul the Apostle']	0	people.person.profession	symbols.namesake.named_after	Paul the Apostle	Saint Paul
+Entity Score = 0.999996, F1 = 0.888889, graph = paul the apostle --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.461442, F1 = 0.000000, graph = saint paul --> namesake named after --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.461442, F1 = 0.000000, graph = saint paul --> government position held office holder --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.461442, F1 = 0.000000, graph = saint paul --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999996, F1 = 0.000000, graph = paul the apostle --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999996, F1 = 0.888889, graph = paul the apostle --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+498who is louisiana state senator?	[u'Mary Landrieu']	[u'Les Miles']	0	education.educational_institution.students_graduates..education.education.student	american_football.football_team.current_head_coach	Louisiana State University	LSU Tigers football
+Entity Score = 0.388240, F1 = 0.002172, graph = louisiana state university --> education student --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+[[file:louisiana state university (aerial view).jpg|thumb|right|250px|lsu's campus with [[tiger stadium (lsu)|tiger stadium]] and the [[pete maravich assembly center|pmac]] in the foreground]]
+Top5
+Entity Score = 0.313736, F1 = 0.000000, graph = lsu tigers football --> football team current head coach --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.872832, F1 = 0.000000, graph = louisiana state legislature --> government position held office holder --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.138755, F1 = 0.076923, graph = louisiana --> government position held office holder --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+in 2004, [[david vitter]] was the first republican in louisiana to be popularly elected as a u.s. senator.
+Entity Score = 0.138755, F1 = 0.000000, graph = louisiana --> government position held office holder --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+elites had control in the early 20th century, before populist [[huey long]] came to power as governor.<ref name=cashman>{{cite book|last=cashman|first=sean dennis|title=african-americans and the quest for civil rights, 1900–1990|year=1991|publisher=new york university press|isbn=9780814714416|page=8|url=https://books.google.com/books?id=hto8hy9wmo8c}}</ref> in multiple acts of resistance, blacks left behind the segregation, violence and oppression of the state and moved out to seek better opportunities in northern and western industrial cities during the [[great migration (african american)|great migrations]] of 1910–1970, markedly reducing their proportion of population in louisiana.
+Entity Score = 0.127168, F1 = 0.000000, graph = louisiana state senate --> government position held office holder --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+499what the largest city in spain?	[u'Madrid']	[u'Canary Islands', u'Extremadura', u'Castile and Le\xf3n', u'Perejil Island', u'Valencian Community', '...']	0.0833333333333	time.event.locations	location.country.first_level_divisions	2004 Madrid train bombings	Spain
+Entity Score = 0.573152, F1 = 1.000000, graph = 2004 madrid train bombings --> event locations --> x
+Number of support sentences = 12, Number of summary sentences = 1
+Example support sentence:
+the '''2004 madrid train bombings''' (also known in spain as '''11-m''') were nearly simultaneous, coordinated bombings against the [[cercanías madrid|cercanías]] commuter train system of [[madrid]], spain, on the morning of 11 march 2004 – three days before [[spanish general election, 2004|spain's general elections]].
+Top5
+Entity Score = 0.864643, F1 = 0.083333, graph = spain --> country first level divisions --> x
+Number of support sentences = 48, Number of summary sentences = 2
+Example support sentence:
+the unification of the crowns of aragon and castile by the marriage of their sovereigns laid the basis for modern spain and the spanish empire, although each kingdom of spain remained a separate country, in social, political, laws, currency and language.<ref>{{cite web|url=http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |title=imperial spain |accessdate=13 august 2008 |publisher=university of calgary |deadurl=yes |archiveurl=https://web.archive.org/web/20080629000351/http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |archivedate=29 june 2008}}</ref><ref>{{cite book|url=https://books.google.com/?id=y84wagaxxo4c&lpg=pa472&dq=unification%20of%20the%20crowns%20of%20aragon%20and%20castile&pg=pa472#v=onepage&q&f=false |title=handbook of european history |publisher=books.google.es |date= |accessdate=26 april 2013|isbn=9004097600|year=1994}}</ref>
+Entity Score = 0.864643, F1 = 0.000432, graph = spain --> location contains --> x
+Number of support sentences = 160, Number of summary sentences = 3
+Example support sentence:
+smaller numbers of immigrants from several [[sub-saharan]] countries have recently been settling in spain.
+Entity Score = 0.864643, F1 = 0.086957, graph = spain --> administrative area administrative children --> x
+Number of support sentences = 47, Number of summary sentences = 2
+Example support sentence:
+the unification of the crowns of aragon and castile by the marriage of their sovereigns laid the basis for modern spain and the spanish empire, although each kingdom of spain remained a separate country, in social, political, laws, currency and language.<ref>{{cite web|url=http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |title=imperial spain |accessdate=13 august 2008 |publisher=university of calgary |deadurl=yes |archiveurl=https://web.archive.org/web/20080629000351/http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |archivedate=29 june 2008}}</ref><ref>{{cite book|url=https://books.google.com/?id=y84wagaxxo4c&lpg=pa472&dq=unification%20of%20the%20crowns%20of%20aragon%20and%20castile&pg=pa472#v=onepage&q&f=false |title=handbook of european history |publisher=books.google.es |date= |accessdate=26 april 2013|isbn=9004097600|year=1994}}</ref>
+Entity Score = 0.864643, F1 = 0.030303, graph = spain --> country administrative divisions --> x
+Number of support sentences = 52, Number of summary sentences = 2
+Example support sentence:
+the unification of the crowns of aragon and castile by the marriage of their sovereigns laid the basis for modern spain and the spanish empire, although each kingdom of spain remained a separate country, in social, political, laws, currency and language.<ref>{{cite web|url=http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |title=imperial spain |accessdate=13 august 2008 |publisher=university of calgary |deadurl=yes |archiveurl=https://web.archive.org/web/20080629000351/http://www.ucalgary.ca/applied_history/tutor/eurvoya/imperial.html |archivedate=29 june 2008}}</ref><ref>{{cite book|url=https://books.google.com/?id=y84wagaxxo4c&lpg=pa472&dq=unification%20of%20the%20crowns%20of%20aragon%20and%20castile&pg=pa472#v=onepage&q&f=false |title=handbook of european history |publisher=books.google.es |date= |accessdate=26 april 2013|isbn=9004097600|year=1994}}</ref>
+Entity Score = 0.864643, F1 = 1.000000, graph = spain --> country capital --> x
+Number of support sentences = 8, Number of summary sentences = 1
+Example support sentence:
+western [[castile and león|castile–león]], northeastern [[castilla-la mancha]] and northern [[community of madrid|madrid]]) and into much rainier areas (notably [[galicia (spain)|galicia]]).
+
+500where do florida panthers play?	[u'BB&T Center']	[u'Boca Chita Key', u'Winter Springs', u'Larsen', u'Eagle Island', u'Taylor Creek', '...']	0	sports.sports_team.arena_stadium	location.location.contains	Florida Panthers	Florida
+Entity Score = 0.958075, F1 = 0.666667, graph = florida panthers --> sports team arena stadium --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.856536, F1 = 0.000000, graph = florida --> location contains --> x
+Number of support sentences = 500, Number of summary sentences = 11
+Example support sentence:
+| colspan="13" style="text-align:center;font-size:120%;background:#e8eafa;"|average high and low temperatures for various florida cities
+Entity Score = 0.958075, F1 = 0.666667, graph = florida panthers --> sports team arena stadium --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.856536, F1 = 0.000000, graph = florida --> adjoining relationship adjoins --> x
+Number of support sentences = 6, Number of summary sentences = 1
+Example support sentence:
+americans of [[english-american|english descent]] and americans of [[scotch-irish americans|scots-irish descent]] began moving into northern florida from the backwoods of [[georgia (u.s. state)|georgia]] and [[south carolina]].
+Entity Score = 0.856536, F1 = 0.000000, graph = florida --> travel destination tourist attractions --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.958075, F1 = 0.000000, graph = florida panthers --> hockey team division --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+501what bible do catholics follow?	[u'Book of Nehemiah', u'The Bible', u'New Testament', u'Old Testament']	[u'In Praise of Wisdom', u'Dinosaurs of Eden', u'Hegel', u'Cover to Cover', u'Ponder These Things', '...']	0	religion.religion.texts	book.book_subject.works	Catholicism	The Bible
+Entity Score = 0.415596, F1 = 1.000000, graph = catholicism --> religion texts --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.963573, F1 = 0.000000, graph = the bible --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.415596, F1 = 0.000000, graph = catholicism --> religion deities --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+of the latter particular churches, 14 use the [[byzantine rite]] for their liturgy.<ref>''[[annuario pontificio]]'', 2012 edition, pages 1140–1141 (isbn 978-88-209-8722-0).</ref> within the universal church, each "particular church", whether eastern or western, is of equal dignity.<ref>''orientalium ecclesiarum'', 3</ref> finally, in its official documents, the catholic church, though made up of several particular churches, "continues to refer to itself as the 'catholic church{{'"}}<ref>thomas p. rausch, s.j., ''catholicism in the third millennium'' (collegeville: the liturgical press), xii.</ref> or, less frequently but consistently, as the 'roman catholic church', owing to its essential<ref name=advanced/> link with the bishop of rome.<ref>for example, in [http://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html his encyclical ''humani generis''] {{webarchive |url=https://web.archive.org/web/20120419021937/http://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html |date=19 april 2012 }}, 27-28 [[pope pius xii]] decried the error of those who denied that they were bound by "the doctrine, explained in our encyclical letter of a few years ago, and based on the sources of revelation, which teaches that the mystical body of christ and the roman catholic church are one and the same thing"; and in [http://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri_en.html his ''divini illius magistri''] {{webarchive |url=https://web.archive.org/web/20100923233927/http://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri_en.html |date=23 september 2010 }} pope pius xi wrote: "in the city of god, the holy roman catholic church, a good citizen and an upright man are absolutely one and the same thing."
+Entity Score = 0.415596, F1 = 1.000000, graph = catholicism --> religion texts --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.415596, F1 = 0.000000, graph = catholicism --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.963573, F1 = 0.000000, graph = the bible --> adapted work adaptations --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+511when did shays rebellion start?	[u'1786']	[u'Politician']	0	time.event.start_date	people.person.profession	Shays' Rebellion	Chris Shays
+Entity Score = 0.960921, F1 = 1.000000, graph = shays rebellion --> event start date --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.434775, F1 = 0.000000, graph = chris shays --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.736445, F1 = 0.000000, graph = rebellion --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.960921, F1 = 0.000000, graph = shays rebellion --> event locations --> x
+Number of support sentences = 1, Number of summary sentences = 1
+Example support sentence:
+[[file:monument to shays rebellion.jpg|thumb|left|this monument marks the spot of the final battle of shays' rebellion, in [[sheffield, massachusetts]].]]
+Entity Score = 0.434775, F1 = 0.000000, graph = chris shays --> education institution --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.434775, F1 = 0.000000, graph = chris shays --> political party tenure party --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+526when did we start war with iraq?	[u'2001']	[u'War on Terrorism']	0	location.statistical_region.life_expectancy..measurement_unit.dated_float.date	time.event.included_in_event	Iraq	Iraq War
+Entity Score = 0.834143, F1 = 0.038462, graph = iraq --> dated float date --> x
+Number of support sentences = 135, Number of summary sentences = 1
+Example support sentence:
+this angered hulagu, and, consistent with mongol strategy of discouraging resistance, he [[siege of baghdad (1258)|besieged baghdad]], sacked the city and massacred many of the inhabitants.<ref>{{cite web|url=http://www.sfusd.k12.ca.us/schwww/sch618/ibn_battuta/battuta's_trip_three.html |title=battuta's travels: part three – persia and iraq |publisher=sfusd.k12.ca.us |accessdate=2010-04-21 |archiveurl=https://web.archive.org/web/20080423014420/http://www.sfusd.k12.ca.us/schwww/sch618/ibn_battuta/battuta's_trip_three.html |archivedate=april 23, 2008 |deadurl=yes |df= }}</ref> estimates of the number of dead range from 200,000 to a million.<ref>{{cite web|last= frazier |first= ian |url= http://www.newyorker.com/archive/2005/04/25/050425fa_fact4?currentpage=4 |title= annals of history: invaders: destroying baghdad |publisher= the new yorker |date= 2005-04-25 |page= 4 |accessdate=2013-01-25}}</ref>
+Top5
+Entity Score = 0.381491, F1 = 0.000000, graph = iraq war --> event included in event --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.381491, F1 = 0.000000, graph = iraq war --> event includes event --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.381491, F1 = 0.000000, graph = iraq war --> event entity involved --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.208085, F1 = 0.000000, graph = iran–iraq war --> event includes event --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.410391, F1 = 0.000000, graph = 2003 invasion of iraq --> event includes event --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+531who founded new york university?	[u'Albert Gallatin', u'Mordecai Manuel Noah']	[u'Lorna Marsden', u'Michiel Horn', u'Trichy Sankaran', u'Leo Panitch', u'Christopher D. Green', '...']	0	organization.organization.founders	business.employer.employees..business.employment_tenure.person	New York University	York University
+Entity Score = 0.996292, F1 = 1.000000, graph = new york university --> organization founders --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+on april 18, 1831, an institution was established, with the support of a group of prominent new york city residents from the city's [[merchant]]s, [[banker]]s, and [[trader (finance)|trader]]s.<ref name="nyu and the city">{{cite book |last=frusciano |first=thomas |lastauthoramp=yes |last2=pettit |first2=marilyn |title=new york university and the city: an illustrated history |location=new brunswick, nj |publisher=rutgers university press |year=1997 |isbn= }}</ref> albert gallatin was elected as the institution's first president.<ref name="nyu in retrospect">{{cite web |url=http://www.nyu.edu/library/bobst/research/arch/thenandnow/ |title=a window into the past: nyu in retrospect |last1=friss |first1=evan |last2= |first2= |website=nyu archives |publisher=new york university |accessdate=august 30, 2013}}</ref> on april 21, 1831, the new institution received its [[charter]] and was incorporated as the university of the city of new york by the [[new york state legislature]]; older documents often refer to it by that name.
+Top5
+Entity Score = 0.898772, F1 = 0.000000, graph = york university --> employment tenure person --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+murray ross, who continues to be honoured today at the university in several ways – including the [[murray g. ross award]], was still vice-president of u of t when he was approached to become york university's new president.<ref name="pound2005">{{cite book |title='fitzhenry and whiteside book of canadian facts and dates'  |last=pound |first=richard w. |publisher=fitzhenry and whiteside |year=2005}}</ref> at the time, york university was envisaged as a feeder campus to u of t, until ross's powerful vision led it to become a completely separate institution.<ref>ross, murray.
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> employment tenure person --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996292, F1 = 0.000000, graph = new york university --> employment tenure person --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+the league and its 47 representatives gather every two years to discuss global issues in [[education]].<ref>{{cite web | title = league of world universities meets for forum | publisher = [[minnesota daily]] | date = october 2, 2002 | url = http://www.mndaily.com/articles/2002/10/02/33504 | accessdate = october 11, 2007 |archivedate=april 14, 2008 |archiveurl=https://web.archive.org/web/20080414192729/http://www.mndaily.com/articles/2002/10/02/33504 }}</ref> [[l. jay oliva]] formed the organization in 1991 just after he was inaugurated president of new york university.<ref>{{cite web | title = higher education leaders from around the world meet at nyu to discuss financial challenges and fundraising | publisher = nyu office of public affairs | date = february 12, 1999 | url = http://www.nyu.edu/public.affairs/releases/detail/473 | accessdate = october 11, 2007}}</ref>
+Entity Score = 0.996292, F1 = 1.000000, graph = new york university --> organization founders --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+on april 18, 1831, an institution was established, with the support of a group of prominent new york city residents from the city's [[merchant]]s, [[banker]]s, and [[trader (finance)|trader]]s.<ref name="nyu and the city">{{cite book |last=frusciano |first=thomas |lastauthoramp=yes |last2=pettit |first2=marilyn |title=new york university and the city: an illustrated history |location=new brunswick, nj |publisher=rutgers university press |year=1997 |isbn= }}</ref> albert gallatin was elected as the institution's first president.<ref name="nyu in retrospect">{{cite web |url=http://www.nyu.edu/library/bobst/research/arch/thenandnow/ |title=a window into the past: nyu in retrospect |last1=friss |first1=evan |last2= |first2= |website=nyu archives |publisher=new york university |accessdate=august 30, 2013}}</ref> on april 21, 1831, the new institution received its [[charter]] and was incorporated as the university of the city of new york by the [[new york state legislature]]; older documents often refer to it by that name.
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> government position held appointed by --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+534what shows are shot in new york?	[u'Flight of the Conchords', u'The Stand']	[u'Harpersfield', u'Mortimer', u'Bull Mine', u'Cooperstown', u'East Greenbush', '...']	0	tv.tv_location.tv_shows_filmed_here	location.location.contains	New York City	New York
+Entity Score = 0.300972, F1 = 1.000000, graph = new york city --> tv location tv shows filmed here --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> location contains --> x
+Number of support sentences = 1, Number of summary sentences = 20
+Example support sentence:
+#redirect [[new york]]
+Entity Score = 0.300972, F1 = 0.000000, graph = new york city --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 3
+Example support sentence:
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> location events --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.300972, F1 = 0.000000, graph = new york city --> location events --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.300972, F1 = 0.000000, graph = new york city --> travel destination tourist attractions --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+

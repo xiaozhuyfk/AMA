@@ -803,3 +803,362 @@ Number of support sentences = 3, Number of summary sentences = 1
 Example support sentence:
 '''theodor seuss geisel''' ({{ipac-en|ˈ|s|ɔɪ|s}} {{ipac-en|ˈ|ɡ|aɪ|z|əl|audio=en-us-geisel.ogg}}; march 2, 1904&nbsp;– september 24, 1991)<ref>{{cite web|title=about the author, dr. seuss, seussville|url=http://www.seussville.com/?home#/author|location=timeline|accessdate=february 15, 2012}}</ref> was an american writer, cartoonist, animator, book publisher, and artist best known for authoring [[children's books]] under the pen name '''dr.
 
+419what did peter tchaikovsky do?	[u'Composer']	[u'Writer', u'Composer']	0.666666666667	people.person.profession	people.person.profession	Pyotr Ilyich Tchaikovsky	Pyotr Ilyich Tchaikovsky
+Entity Score = 0.999965, F1 = 0.666667, graph = pyotr ilyich tchaikovsky --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999965, F1 = 0.666667, graph = pyotr ilyich tchaikovsky --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> award nomination nominated for --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> music contributor film --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> book subject works --> x
+Number of support sentences = 16, Number of summary sentences = 0
+Example support sentence:
+{{see also|death of pyotr ilyich tchaikovsky|symphony no.
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+429what team does heskey play for?	[u'Newcastle Jets FC']	[u'Newcastle Jets FC', u'Aston Villa F.C.', u'Wigan Athletic F.C.']	0.5	soccer.football_player.current_team..soccer.football_roster_position.team	soccer.football_player.current_team..soccer.football_roster_position.team	Emile Heskey	Emile Heskey
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> football roster position team --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+[[file:emile heskey cropped.jpg|thumb|left|upright|heskey playing for [[aston villa f.c.|aston villa]] in 2009]]
+Top5
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> football roster position team --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+[[file:emile heskey cropped.jpg|thumb|left|upright|heskey playing for [[aston villa f.c.|aston villa]] in 2009]]
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> football roster position team --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+[[file:emile heskey cropped.jpg|thumb|left|upright|heskey playing for [[aston villa f.c.|aston villa]] in 2009]]
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> sports team roster team --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+[[file:emile heskey cropped.jpg|thumb|left|upright|heskey playing for [[aston villa f.c.|aston villa]] in 2009]]
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> sports team roster team --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+[[file:emile heskey cropped.jpg|thumb|left|upright|heskey playing for [[aston villa f.c.|aston villa]] in 2009]]
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> football player stats team --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+[[file:emile heskey cropped.jpg|thumb|left|upright|heskey playing for [[aston villa f.c.|aston villa]] in 2009]]
+
+443which airport to fly into rome?	[u'Ciampino \u2013 G.B. Pastine International Airport', u'Roma Termini railway station', u'Civitavecchia Ferry Terminal', u'Leonardo da Vinci\u2013Fiumicino Airport']	[u'Ciampino\u2013G. B. Pastine International Airport', u'Roma Termini railway station', u'Civitavecchia Ferry Terminal', u'Leonardo da Vinci\u2013Fiumicino Airport']	0.75	travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus	travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus	Rome	Rome
+Entity Score = 0.769089, F1 = 0.750000, graph = rome --> transportation transport terminus --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+rome's main railway station, [[roma termini railway station|termini]], is one of the largest railway stations in europe and the most heavily used in italy, with around 400 thousand travellers passing through every day.
+Top5
+Entity Score = 0.769089, F1 = 0.750000, graph = rome --> transportation transport terminus --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+rome's main railway station, [[roma termini railway station|termini]], is one of the largest railway stations in europe and the most heavily used in italy, with around 400 thousand travellers passing through every day.
+Entity Score = 0.769089, F1 = 0.222222, graph = rome --> location nearby airports --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.769089, F1 = 0.000000, graph = rome --> location contains --> x
+Number of support sentences = 49, Number of summary sentences = 0
+Example support sentence:
+there are around 900 churches in rome in total, aside from the cathedral itself, some others of note include: the [[basilica di santa maria maggiore]], the [[basilica of saint paul outside the walls]], the [[basilica di san clemente]], [[san carlo alle quattro fontane]] and the [[church of the gesu|church of the gesù]].
+Entity Score = 0.769089, F1 = 0.000000, graph = rome --> imports exports by industry industry --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+eventually, the city  successively became the capital of the [[roman kingdom]], the [[roman republic]] and the [[roman empire]], and is regarded as one of the birthplaces of [[western culture|western civilisation]] and by some as the first ever [[metropolis]].<ref>{{cite web|url=http://www.historytoday.com/mary-harlow/old-age-ancient-rome|title=old age in ancient rome – history today|publisher=}}</ref> it was first called ''the eternal city'' ({{lang-la|urbs aeterna}}; {{lang-it|la città eterna}}) by the roman poet [[tibullus]] in the 1st century bce, and the expression was also taken up by [[ovid]], [[virgil]], and [[livy]].<ref>stephanie malia hom, "consuming the view: tourism, rome, and the topos of the eternal city", ''annali d'igtalianistica'' '''28''':91–116 {{jstor|24016389}}</ref><ref>{{cite web|last=andres perez|first=javier|title=aproximación a la iconografía de roma aeterna|url=http://www.elfuturodelpasado.com/elfuturodelpasado/ultimo_numero_files/023.pdf|publisher=el futuro del pasado|accessdate=28 may 2014|pages=349–363|year=2010}}</ref> rome is also called the "[[caput mundi]]" (capital of the world).
+Entity Score = 0.769089, F1 = 0.000000, graph = rome --> travel destination tourist attractions --> x
+Number of support sentences = 32, Number of summary sentences = 0
+Example support sentence:
+there are around 900 churches in rome in total, aside from the cathedral itself, some others of note include: the [[basilica di santa maria maggiore]], the [[basilica of saint paul outside the walls]], the [[basilica di san clemente]], [[san carlo alle quattro fontane]] and the [[church of the gesu|church of the gesù]].
+
+448what did ferdinand magellan do?	[u'Navigator', u'Explorer']	[u'Navigator', u'Sailor', u'Explorer']	0.8	people.person.profession	people.person.profession	Ferdinand Magellan	Ferdinand Magellan
+Entity Score = 0.996471, F1 = 0.800000, graph = ferdinand magellan --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.996471, F1 = 0.800000, graph = ferdinand magellan --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> person children --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+449what's my timezone in oklahoma?	[u'Central Time Zone']	[u'Central Time Zone', u'UTC\u221206:00']	0.666666666667	location.location.time_zones	location.location.time_zones	Oklahoma	Oklahoma
+Entity Score = 0.727318, F1 = 0.666667, graph = oklahoma --> location time zones --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.727318, F1 = 0.666667, graph = oklahoma --> location time zones --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> performance film --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> government position held office holder --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+in the 112th congress, oklahoma's u.s. senators were republicans [[jim inhofe]] and [[tom coburn]], and its u.s. representatives were [[john sullivan (u.s. rep)|john sullivan]] (r-ok-1), [[dan boren]] (d-ok-2), [[frank lucas (oklahoma politician)|frank d. lucas]] (r-ok-3), [[tom cole]] (r-ok-4), and [[james lankford]] (r-ok-5).
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> government position held office holder --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> book subject works --> x
+Number of support sentences = 13, Number of summary sentences = 1
+Example support sentence:
+[[file:national powwow dancer 2007.jpg|thumb|200px|national powwow dancer of the [[cherokee]] of oklahoma, 2007.]]
+
+453what was jesse owens education?	[u'Ohio State University']	[u'East Technical High School', u'Ohio State University']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	Jesse Owens	Jesse Owens
+Entity Score = 0.981065, F1 = 0.666667, graph = jesse owens --> education institution --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+owens first came to national attention when he was a student of [[east technical high school]] in cleveland; he equalled the world record of 9.4 seconds in the {{convert|100|yd|sing=on}} dash and long-jumped {{convert|24|ft|9+1/2|in|m|sigfig=3|abbr=off}} at the 1933 national high school championship in [[chicago]].<ref name=jocom>{{cite web | title=jesse owens: track & field legend: biography|url=http://www.jesseowens.com/biography/| accessdate=january 6, 2008 |archiveurl = https://web.archive.org/web/20071223020629/http://www.jesseowens.com/biography/ |archivedate = december 23, 2007}}</ref>
+Top5
+Entity Score = 0.981065, F1 = 0.666667, graph = jesse owens --> education institution --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+owens first came to national attention when he was a student of [[east technical high school]] in cleveland; he equalled the world record of 9.4 seconds in the {{convert|100|yd|sing=on}} dash and long-jumped {{convert|24|ft|9+1/2|in|m|sigfig=3|abbr=off}} at the 1933 national high school championship in [[chicago]].<ref name=jocom>{{cite web | title=jesse owens: track & field legend: biography|url=http://www.jesseowens.com/biography/| accessdate=january 6, 2008 |archiveurl = https://web.archive.org/web/20071223020629/http://www.jesseowens.com/biography/ |archivedate = december 23, 2007}}</ref>
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> person profession --> x
+Number of support sentences = 3, Number of summary sentences = 1
+Example support sentence:
+owens specialized in the [[sprint (running)|sprint]]s and the [[long jump]] and was recognized in his lifetime as "perhaps the greatest and most famous athlete in track and field history".<ref>{{citation |last= litsky |first= frank|year=1980 |title=jesse owens dies of cancer at 66 |publication-place=''new york times'' |url=http://www.nytimes.com/learning/general/onthisday/bday/0912.html |accessdate= march 23, 2014 }}</ref> his achievement of setting three world records and tying another in less than an hour at the 1935 big ten track meet in [[ann arbor, michigan]], has been called "the greatest 45 minutes ever in sport"<ref>{{cite web |url=http://www.si.com/more-sports/2010/05/24/owens-recordday |title=greatest 45 minutes ever in sports |last=rothschild |first= richard |date= may 24, 2010|website= sports illustrated.com |accessdate= march 23, 2014}}</ref> and has never been equalled.
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> author works written --> x
+Number of support sentences = 50, Number of summary sentences = 1
+Example support sentence:
+"<ref name="latimes">{{cite web|url=http://articles.latimes.com/2001/jun/30/local/me-17013|title=ruth owens; widow of legendary olympian|date=june 30, 2001|publisher=latimes.com|accessdate=december 22, 2013}}</ref>  after the parade, owens was not permitted to enter through the main doors of the [[waldorf astoria new york]] and instead forced to travel up to the event in a freight elevator to reach the reception honoring him.<ref name="olympic moments"/><ref name=schwartz>{{cite web | last = schwartz | first = larry | title=owens pierced a myth|url=http://espn.go.com/sportscentury/features/00016393.html| year=2007}}</ref> president [[franklin d. roosevelt]] (fdr) never invited jesse owens to the white house following his triumphs at the olympics games.<ref>{{cite book|url=https://books.google.co.uk/books?id=hwtpk00qmhic&pg=pa210&dq=roosevelt+jesse+owens&hl=en&sa=x&ei=cp_xvmb-ldlv7aberihadw&ved=0cdyq6aewbdgk#v=onepage&q=roosevelt%20jesse%20owens&f=false|title=new deal or raw deal?
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> deceased person cause of death --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+owens was a pack-a-day cigarette smoker for 35{{nbsp}}years and had been hospitalized with an extremely aggressive and [[drug-resistant]] type of [[lung cancer]] on and off beginning in december 1979. he died of the disease at age{{nbsp}}66 in [[tucson, arizona]], on march 31, 1980, with his wife and other family members at his bedside.<ref>{{cite news|url=http://www.nytimes.com/learning/general/onthisday/bday/0912.html |title=jesse owens dies of cancer at 66: hero of the 1936 berlin olympics |publisher=nytimes.com |date= |accessdate=august 5, 2013}}</ref>  he is buried in [[oak woods cemetery]] in [[chicago]].
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> performance film --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+"<ref name="latimes">{{cite web|url=http://articles.latimes.com/2001/jun/30/local/me-17013|title=ruth owens; widow of legendary olympian|date=june 30, 2001|publisher=latimes.com|accessdate=december 22, 2013}}</ref>  after the parade, owens was not permitted to enter through the main doors of the [[waldorf astoria new york]] and instead forced to travel up to the event in a freight elevator to reach the reception honoring him.<ref name="olympic moments"/><ref name=schwartz>{{cite web | last = schwartz | first = larry | title=owens pierced a myth|url=http://espn.go.com/sportscentury/features/00016393.html| year=2007}}</ref> president [[franklin d. roosevelt]] (fdr) never invited jesse owens to the white house following his triumphs at the olympics games.<ref>{{cite book|url=https://books.google.co.uk/books?id=hwtpk00qmhic&pg=pa210&dq=roosevelt+jesse+owens&hl=en&sa=x&ei=cp_xvmb-ldlv7aberihadw&ved=0cdyq6aewbdgk#v=onepage&q=roosevelt%20jesse%20owens&f=false|title=new deal or raw deal?
+
+460what has ashley greene been in?	[u'Skateland', u'New Moon', u'Radio Free Albemuth', u"A Warrior's Heart", u'Eclipse', u"Summer's Blood", u'King of California', u'The Apparition', u'Twilight', u'The Twilight Saga: Breaking Dawn - Part 1']	[u'Butter', u'Skateland', u"Summer's Blood", u'New Moon', u'Americana', '...']	0.689655172414	film.actor.film..film.performance.film	film.actor.film..film.performance.film	Ashley Greene	Ashley Greene
+Entity Score = 0.999957, F1 = 0.689655, graph = ashley greene --> performance film --> x
+Number of support sentences = 7, Number of summary sentences = 0
+Example support sentence:
+she reprised her role as alice in the 2009 sequel to ''twilight'', ''[[the twilight saga: new moon]]'', 2010's ''[[the twilight saga: eclipse]]'', 2011's ''[[the twilight saga: breaking dawn - part 1]]'', 2012's ''[[the twilight saga: breaking dawn - part 2]]''.<ref>{{cite web | author=jocelyn vena | title=ashley greene says 'new moon' script tops 'twilight' | url=http://www.mtv.com/movies/news/articles/1605673/story.jhtml | publisher=mtv | date=february 23, 2009 | accessdate=march 30, 2009 | archiveurl= https://web.archive.org/web/20090312080100/http://www.mtv.com/movies/news/articles/1605673/story.jhtml| archivedate= 12 march 2009 <!--dashbot-->| deadurl= no}}</ref><ref>{{cite web |title=peter facinelli, ashley greene, kellan lutz, jackson rathbone, elizabeth reaser, nikki reed, and billy burke sign on to breaking dawn; plus three new twilight: eclipse posters|url=http://www.collider.com/tag/the-twilight-saga-breaking-dawn/|publisher=collider |date=may 19, 2010 |accessdate=may 20, 2010 | archiveurl= https://web.archive.org/web/20100526013340/http://www.collider.com/tag/the-twilight-saga-breaking-dawn/| archivedate= 26 may 2010 <!--dashbot-->| deadurl= no}}</ref>
+Top5
+Entity Score = 0.999957, F1 = 0.689655, graph = ashley greene --> performance film --> x
+Number of support sentences = 7, Number of summary sentences = 0
+Example support sentence:
+she reprised her role as alice in the 2009 sequel to ''twilight'', ''[[the twilight saga: new moon]]'', 2010's ''[[the twilight saga: eclipse]]'', 2011's ''[[the twilight saga: breaking dawn - part 1]]'', 2012's ''[[the twilight saga: breaking dawn - part 2]]''.<ref>{{cite web | author=jocelyn vena | title=ashley greene says 'new moon' script tops 'twilight' | url=http://www.mtv.com/movies/news/articles/1605673/story.jhtml | publisher=mtv | date=february 23, 2009 | accessdate=march 30, 2009 | archiveurl= https://web.archive.org/web/20090312080100/http://www.mtv.com/movies/news/articles/1605673/story.jhtml| archivedate= 12 march 2009 <!--dashbot-->| deadurl= no}}</ref><ref>{{cite web |title=peter facinelli, ashley greene, kellan lutz, jackson rathbone, elizabeth reaser, nikki reed, and billy burke sign on to breaking dawn; plus three new twilight: eclipse posters|url=http://www.collider.com/tag/the-twilight-saga-breaking-dawn/|publisher=collider |date=may 19, 2010 |accessdate=may 20, 2010 | archiveurl= https://web.archive.org/web/20100526013340/http://www.collider.com/tag/the-twilight-saga-breaking-dawn/| archivedate= 26 may 2010 <!--dashbot-->| deadurl= no}}</ref>
+Entity Score = 0.999957, F1 = 0.000000, graph = ashley greene --> performance character --> x
+Number of support sentences = 14, Number of summary sentences = 0
+Example support sentence:
+she reprised her role as alice in the 2009 sequel to ''twilight'', ''[[the twilight saga: new moon]]'', 2010's ''[[the twilight saga: eclipse]]'', 2011's ''[[the twilight saga: breaking dawn - part 1]]'', 2012's ''[[the twilight saga: breaking dawn - part 2]]''.<ref>{{cite web | author=jocelyn vena | title=ashley greene says 'new moon' script tops 'twilight' | url=http://www.mtv.com/movies/news/articles/1605673/story.jhtml | publisher=mtv | date=february 23, 2009 | accessdate=march 30, 2009 | archiveurl= https://web.archive.org/web/20090312080100/http://www.mtv.com/movies/news/articles/1605673/story.jhtml| archivedate= 12 march 2009 <!--dashbot-->| deadurl= no}}</ref><ref>{{cite web |title=peter facinelli, ashley greene, kellan lutz, jackson rathbone, elizabeth reaser, nikki reed, and billy burke sign on to breaking dawn; plus three new twilight: eclipse posters|url=http://www.collider.com/tag/the-twilight-saga-breaking-dawn/|publisher=collider |date=may 19, 2010 |accessdate=may 20, 2010 | archiveurl= https://web.archive.org/web/20100526013340/http://www.collider.com/tag/the-twilight-saga-breaking-dawn/| archivedate= 26 may 2010 <!--dashbot-->| deadurl= no}}</ref>
+Entity Score = 0.999957, F1 = 0.000000, graph = ashley greene --> award nomination nominated for --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+she reprised her role as alice in the 2009 sequel to ''twilight'', ''[[the twilight saga: new moon]]'', 2010's ''[[the twilight saga: eclipse]]'', 2011's ''[[the twilight saga: breaking dawn - part 1]]'', 2012's ''[[the twilight saga: breaking dawn - part 2]]''.<ref>{{cite web | author=jocelyn vena | title=ashley greene says 'new moon' script tops 'twilight' | url=http://www.mtv.com/movies/news/articles/1605673/story.jhtml | publisher=mtv | date=february 23, 2009 | accessdate=march 30, 2009 | archiveurl= https://web.archive.org/web/20090312080100/http://www.mtv.com/movies/news/articles/1605673/story.jhtml| archivedate= 12 march 2009 <!--dashbot-->| deadurl= no}}</ref><ref>{{cite web |title=peter facinelli, ashley greene, kellan lutz, jackson rathbone, elizabeth reaser, nikki reed, and billy burke sign on to breaking dawn; plus three new twilight: eclipse posters|url=http://www.collider.com/tag/the-twilight-saga-breaking-dawn/|publisher=collider |date=may 19, 2010 |accessdate=may 20, 2010 | archiveurl= https://web.archive.org/web/20100526013340/http://www.collider.com/tag/the-twilight-saga-breaking-dawn/| archivedate= 26 may 2010 <!--dashbot-->| deadurl= no}}</ref>
+Entity Score = 0.999957, F1 = 0.333333, graph = ashley greene --> award honor honored for --> x
+Number of support sentences = 6, Number of summary sentences = 0
+Example support sentence:
+she reprised her role as alice in the 2009 sequel to ''twilight'', ''[[the twilight saga: new moon]]'', 2010's ''[[the twilight saga: eclipse]]'', 2011's ''[[the twilight saga: breaking dawn - part 1]]'', 2012's ''[[the twilight saga: breaking dawn - part 2]]''.<ref>{{cite web | author=jocelyn vena | title=ashley greene says 'new moon' script tops 'twilight' | url=http://www.mtv.com/movies/news/articles/1605673/story.jhtml | publisher=mtv | date=february 23, 2009 | accessdate=march 30, 2009 | archiveurl= https://web.archive.org/web/20090312080100/http://www.mtv.com/movies/news/articles/1605673/story.jhtml| archivedate= 12 march 2009 <!--dashbot-->| deadurl= no}}</ref><ref>{{cite web |title=peter facinelli, ashley greene, kellan lutz, jackson rathbone, elizabeth reaser, nikki reed, and billy burke sign on to breaking dawn; plus three new twilight: eclipse posters|url=http://www.collider.com/tag/the-twilight-saga-breaking-dawn/|publisher=collider |date=may 19, 2010 |accessdate=may 20, 2010 | archiveurl= https://web.archive.org/web/20100526013340/http://www.collider.com/tag/the-twilight-saga-breaking-dawn/| archivedate= 26 may 2010 <!--dashbot-->| deadurl= no}}</ref>
+Entity Score = 0.999957, F1 = 0.000000, graph = ashley greene --> regular tv appearance character --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+468what state does romney live in?	[u'Massachusetts']	[u'Massachusetts', u'Bloomfield Hills']	0.666666666667	government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office	people.person.places_lived..people.place_lived.location	Mitt Romney	Mitt Romney
+Entity Score = 0.313213, F1 = 1.000000, graph = mitt romney --> government position held jurisdiction of office --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.313213, F1 = 0.666667, graph = mitt romney --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.313213, F1 = 0.000000, graph = mitt romney --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> location containedby --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+*[[romney academy]], a 19th-century educational institution in romney, west virginia
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> hud county place county --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+469where is giza pyramids located?	[u'Egypt', u'Giza Governorate']	[u'Egypt']	0.666666666667	location.location.containedby	location.location.containedby	Giza	Giza Necropolis
+Entity Score = 0.846332, F1 = 1.000000, graph = giza --> location containedby --> x
+Number of support sentences = 19, Number of summary sentences = 4
+Example support sentence:
+giza's learning institutions include [[cairo university]], which was moved to giza in 1924. the city is a hub of education and educational services not only for egypt but also for the entire [[mediterranean region]].
+Top5
+Entity Score = 0.859188, F1 = 0.666667, graph = giza necropolis --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.846332, F1 = 1.000000, graph = giza --> location containedby --> x
+Number of support sentences = 19, Number of summary sentences = 4
+Example support sentence:
+giza's learning institutions include [[cairo university]], which was moved to giza in 1924. the city is a hub of education and educational services not only for egypt but also for the entire [[mediterranean region]].
+Entity Score = 0.119332, F1 = 0.500000, graph = great pyramid of giza --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.846332, F1 = 0.000000, graph = giza --> location contains --> x
+Number of support sentences = 8, Number of summary sentences = 1
+Example support sentence:
+giza's learning institutions include [[cairo university]], which was moved to giza in 1924. the city is a hub of education and educational services not only for egypt but also for the entire [[mediterranean region]].
+Entity Score = 0.119332, F1 = 0.000000, graph = great pyramid of giza --> pyramid site --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+473what standard time is michigan?	[u'Central Time Zone', u'North American Eastern Time Zone', u'UTC-5']	[u'Central Time Zone', u'Eastern Time Zone', u'UTC-5']	0.666666666667	location.location.time_zones	location.location.time_zones	Michigan	Michigan
+Entity Score = 0.860047, F1 = 0.666667, graph = michigan --> location time zones --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.860047, F1 = 0.666667, graph = michigan --> location time zones --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location symbol relationship symbol --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> book subject works --> x
+Number of support sentences = 384, Number of summary sentences = 12
+Example support sentence:
+[[interstate 196|i-196]] branches off from this freeway at [[grand rapids, michigan|grand rapids]] and connects to i-94 near [[benton harbor, michigan|benton harbor]].
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location contains --> x
+Number of support sentences = 266, Number of summary sentences = 9
+Example support sentence:
+residents have called for [[secession]] from michigan and establishment as a new state to be called "[[superior (proposed u.s. state)|superior]]".
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location events --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+475what is michael kors real name?	[u'Karl Anderson']	[u'Karl Anderson', u'Joan Hamburger']	0.666666666667	people.person.parents	people.person.parents	Michael Kors	Michael Kors
+Entity Score = 0.999983, F1 = 0.666667, graph = michael kors --> person parents --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+'''michael kors''' (born '''karl anderson, jr.'''; august 9, 1959)<ref>{{cite news |url=http://www.nydailynews.com/archives/news/2000/02/10/2000-02-10_kors__show_a_knockout_opulen.html |location=new york |work=daily news |title=kors' show a knockout opulence, glitz dominate wardrobes |date=february 10, 2000 |deadurl=yes |archiveurl=https://web.archive.org/web/20071109164424/http://www.nydailynews.com/archives/news/2000/02/10/2000-02-10_kors__show_a_knockout_opulen.html |archivedate=november 9, 2007}}</ref> is a new york city-based american [[sportswear (fashion)|sportswear]] fashion designer.
+Top5
+Entity Score = 0.999983, F1 = 0.666667, graph = michael kors --> person parents --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+'''michael kors''' (born '''karl anderson, jr.'''; august 9, 1959)<ref>{{cite news |url=http://www.nydailynews.com/archives/news/2000/02/10/2000-02-10_kors__show_a_knockout_opulen.html |location=new york |work=daily news |title=kors' show a knockout opulence, glitz dominate wardrobes |date=february 10, 2000 |deadurl=yes |archiveurl=https://web.archive.org/web/20071109164424/http://www.nydailynews.com/archives/news/2000/02/10/2000-02-10_kors__show_a_knockout_opulen.html |archivedate=november 9, 2007}}</ref> is a new york city-based american [[sportswear (fashion)|sportswear]] fashion designer.
+Entity Score = 0.999983, F1 = 0.000000, graph = michael kors --> marriage spouse --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+kors' mother is jewish and his father was of swedish descent.<ref name="book1" /><ref name="book2">{{cite book |last=rappaport |first=jill |authorlink= |title=mazel tov: celebrities' bar and bat mitzvah memories |publisher=simon & schuster |date=november 2007 |location= |pages= |url= |isbn=0-7432-8787-8}}</ref><ref name=advocate>{{cite news |title=working the runway: out designer michael kors tells it like it is to would-be fashionistas on bravo's project runway |url=http://findarticles.com/p/articles/mi_m1589/is_2005_feb_1/ai_n9487809 |work=[[the advocate]] |date=2005-02-01 |first=richard |last=andreoli |accessdate=2007-06-20 |archiveurl=http://web.archive.org/web/20071109211930/http://findarticles.com/p/articles/mi_m1589/is_2005_feb_1/ai_n9487809 <!-- bot retrieved archive --> |archivedate=2007-11-09}}</ref><ref>{{cite web |url=http://www.interviewmagazine.com/fashion/michael-kors |title=michael kors |work=interview magazine}}</ref> kors married his partner, lance le pere, on august 16, 2011, in [[southampton, new york]].<ref name="shny">{{cite news |last=lee |first=joyce |title=designer michael kors marries longtime partner |publisher=[[cbs news]] |date=august 17, 2011 |url=http://www.cbsnews.com/news/designer-michael-kors-marries-longtime-partner/ |accessdate=october 24, 2014}}</ref><ref>{{cite news |last=rathe |first=adam |date=august 18, 2011 |title=michael kors marries longtime boyfriend lance lepere in barefoot southampton beach ceremony |url=http://www.nydailynews.com/entertainment/gossip/michael-kors-marries-longtime-boyfriend-lance-lepere-barefoot-southampton-beach-ceremony-article-1.948941 |work=[[new york daily news]] |accessdate=april 22, 2016}}</ref>
+Entity Score = 0.999983, F1 = 0.000000, graph = michael kors --> friendship participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+485where does carlos santana live?	[u'Jalisco']	[u'San Francisco', u'Jalisco', u'Tijuana']	0.5	people.person.places_lived..people.place_lived.location	people.person.places_lived..people.place_lived.location	Carlos Santana	Carlos Santana
+Entity Score = 0.878128, F1 = 0.500000, graph = carlos santana --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.878128, F1 = 0.500000, graph = carlos santana --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.878128, F1 = 0.000000, graph = carlos santana --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.109254, F1 = 0.000000, graph = carlos santana --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.878128, F1 = 0.000000, graph = carlos santana --> artist origin --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.878128, F1 = 0.000000, graph = carlos santana --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+487what is steve nash nationality?	[u'Canada']	[u'Canada', u'England']	0.666666666667	people.person.nationality	people.person.nationality	Steve Nash	Steve Nash
+Entity Score = 0.973240, F1 = 0.666667, graph = steve nash --> person nationality --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+on may 8, 2012, nash became general manager of the canadian senior national team.<ref>[http://www.thestar.com/sports/basketball/2012/05/08/steve_nash_named_gm_of_canadas_basketball_team.html steve nash named gm of canada’s basketball team] ''[[toronto star]]''.
+Top5
+Entity Score = 0.973240, F1 = 0.666667, graph = steve nash --> person nationality --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+on may 8, 2012, nash became general manager of the canadian senior national team.<ref>[http://www.thestar.com/sports/basketball/2012/05/08/steve_nash_named_gm_of_canadas_basketball_team.html steve nash named gm of canada’s basketball team] ''[[toronto star]]''.
+Entity Score = 0.973240, F1 = 0.000000, graph = steve nash --> place lived location --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+retrieved 20 february 2008.</ref><ref name="jock"/> his family moved to [[regina, saskatchewan]] when he was 18 months old, before settling in [[victoria, british columbia]].<ref name=jock>[http://www.jockbio.com/bios/nash/nash_bio.html steve nash], jockbio.com.
+Entity Score = 0.973240, F1 = 0.000000, graph = steve nash --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.973240, F1 = 0.000000, graph = steve nash --> athlete salary team --> x
+Number of support sentences = 6, Number of summary sentences = 0
+Example support sentence:
+in november, he was sidelined for an estimated minimum of two weeks due to nerve root irritation.<ref>[http://www.usatoday.com/story/sports/nba/lakers/2013/11/11/steve-nash-back-injury-los-angeles/3500855/ los angeles lakers' steve nash has unnerving injury]</ref> nash returned on february 4, 2014, shooting 3-for-6 for 7 points.
+Entity Score = 0.973240, F1 = 0.000000, graph = steve nash --> sports award season --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+515what to do in bangkok in 4 days?	[u'MRT Blue Line', u'Wat Benchamabophit', u'Grand Palace', u'Ananta Samakhom Throne Hall', u'Wat Saket', u'Khaosan Road', u'Bangkok National Museum', u'Samutprakarn Crocodile Farm and Zoo', u'Wat Pho', u'Wat Arun']	[u'Safari World', u'Rajamangala Stadium', u'Grand Palace', u'Ananta Samakhom Throne Hall', u'Wat Benchamabophit', '...']	0.857142857143	travel.travel_destination.tourist_attractions	travel.travel_destination.tourist_attractions	Bangkok	Bangkok
+Entity Score = 1.000000, F1 = 0.857143, graph = bangkok --> travel destination tourist attractions --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+among bangkok's well-known sights are the grand palace and major buddhist temples, including [[wat phra kaew]], [[wat pho]], and [[wat arun]].
+Top5
+Entity Score = 1.000000, F1 = 0.857143, graph = bangkok --> travel destination tourist attractions --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+among bangkok's well-known sights are the grand palace and major buddhist temples, including [[wat phra kaew]], [[wat pho]], and [[wat arun]].
+Entity Score = 1.000000, F1 = 0.065359, graph = bangkok --> location contains --> x
+Number of support sentences = 20, Number of summary sentences = 0
+Example support sentence:
+don mueang reopened for domestic flights in 2007,<ref name="awst_20070101">"in with the old", ''[[aviation week & space technology]]'', 1 january 2007.</ref> and resumed international services focusing on low-cost carriers in october 2012.<ref>{{cite news|last=mahitthirook|first=amornrat |title=don mueang airport reopens |url=http://www.bangkokpost.com/news/local/314973/don-mueang-airport-reopens|accessdate=11 october 2012|newspaper=bangkok post|date=1 october 2012}}</ref> suvarnabhumi is undergoing expansion in order to increase its capacity to 60 million, which is expected to be completed by 2016.<ref>{{cite news|last=kositchotethana|first=boonsong|title=suvarnabhumi expansion to accelerate, finish in 2016|url=http://www.bangkokpost.com/business/aviation/310702/suvarnabhumi-expansion-to-accelerate-finish-in-2016|accessdate=17 september 2012|newspaper=bangkok post|date=4 september 2012}}</ref>
+Entity Score = 1.000000, F1 = 0.000000, graph = bangkok --> location containedby --> x
+Number of support sentences = 69, Number of summary sentences = 3
+Example support sentence:
+petersburg in figures – international and interregional ties |publisher=eng.gov.spb.ru |accessdate=27 june 2010}}{{dead link|date=october 2016 |bot=internetarchivebot |fix-attempted=yes}}</ref><ref>{{cite web|title= protocol on cooperation between the city of bangkok (the kingdom of thailand) and the city of st. petersburg (the russian federation)|date= 20 june 1997|url=http://iad.bangkok.go.th/sites/default/files/st%27%20petersburg.pdf |author1=bangkok metropolitan administration |author2=city of st.petersburg}}</ref>
+Entity Score = 0.997846, F1 = 0.000000, graph = wally backman --> batting statistics team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.142857, graph = bangkok --> travel destination local transportation --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+bangkok is currently served by three rapid transit systems: the [[bts skytrain]], the underground [[mrt (bangkok)|mrt]] and the elevated [[airport rail link (bangkok)|airport rail link]].
+
+537when did arsenal won the league?	[u'2004\u201305 FA Cup', u'FA Cup 2002\u201303', u'2002 FA Cup Final', u'FA Cup 1978\u201379', u'2005 FA Cup Final', u'2003 FA Cup Final', u'FA Cup 1997\u201398', u'FA Cup 1992\u201393', u'FA Cup 1970\u201371', u'2001\u201302 FA Cup']	[u'2004\u201305 FA Cup', u'1970\u201371 FA Cup', u'2002 FA Cup Final', u'2002\u201303 FA Cup', u'2005 FA Cup Final', '...']	0.5	sports.sports_team.championships	sports.sports_team.championships	Arsenal F.C.	Arsenal F.C.
+Entity Score = 0.785957, F1 = 0.500000, graph = arsenal f.c. --> sports team championships --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.785957, F1 = 0.500000, graph = arsenal f.c. --> sports team championships --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.807063, F1 = 0.000000, graph = the league --> regular tv appearance character --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.785957, F1 = 0.000000, graph = arsenal f.c. --> football player loan lending team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.785957, F1 = 0.235294, graph = arsenal f.c. --> sports award season --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.785957, F1 = 0.000000, graph = arsenal f.c. --> sports team colors --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+the team wore a similar kit (but with redcurrant socks) during the [[2005–06 arsenal f.c.
+

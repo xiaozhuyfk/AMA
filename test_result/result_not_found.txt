@@ -675,3 +675,272 @@ Number of support sentences = 1, Number of summary sentences = 0
 Example support sentence:
 hand-painted images based on the photographs were projected as moving images by means of his [[zoopraxiscope]].<ref>williams, alan larson (1992) [https://books.google.com/books?id=esvzoghoi6kc&pg=pa17&dq=eadweard+muybridge+horse+-+english+photographer&hl=en&ei=755ftlkabogblaffoknbba&sa=x&oi=book_result&ct=result&resnum=8&ved=0cfcq6aewbw#v=onepage&q=eadweard%20muybridge%20horse%20-%20english%20photographer&f=false republic of images: a history of french filmmaking] harvard university press</ref>
 
+415what does british colony mean?	[u'British American']	[u'Strangers Within the Realm', u'Like Hidden Fire', u'The Anubis Gates', u'Empire: The Rise and Demise of the British World Order and the Lessons for Global Power', u'Big Chief Elizabeth', '...']	0	EMPTY	book.book_subject.works	NONE	British Empire
+Empty
+Top5
+Entity Score = 0.268389, F1 = 0.000000, graph = british empire --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.268389, F1 = 0.000000, graph = british empire --> military command military commander --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.268389, F1 = 0.000000, graph = british empire --> military combatant group conflict --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.552021, F1 = 0.000000, graph = crown colony --> object name --> x
+Number of support sentences = 16, Number of summary sentences = 5
+Example support sentence:
+| separated from british india in 1937 and became a crown colony.
+Entity Score = 0.268389, F1 = 0.000000, graph = british empire --> military command military conflict --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+423where were greek temples built?	[u'Europe']	[u'Maratreanism']	0	EMPTY	religion.type_of_place_of_worship.religion	NONE	Temple
+Empty
+Top5
+Entity Score = 0.489374, F1 = 0.000000, graph = temple --> type of place of worship religion --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.969048, F1 = 0.000000, graph = ancient greek temple --> object name --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+* [[list of ancient greek temples]]
+Entity Score = 0.489374, F1 = 0.000000, graph = temple --> object name --> x
+Number of support sentences = 126, Number of summary sentences = 4
+Example support sentence:
+==buddhist temples==
+Entity Score = 0.969048, F1 = 0.000000, graph = ancient greek temple --> building function buildings --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.489374, F1 = 0.000000, graph = temple --> building function buildings --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+445what are egyptian money called?	[u'Egyptian pound']	[u'Greenback: The Almighty Dollar and the Invention of America', u'The 21 Success Secrets of Self-Made Millionaires', u'Some Thoughts Concerning Education', u'Fiat Money Inflation in France', u'Devil May Care', '...']	0	EMPTY	book.book_subject.works	NONE	Money
+Empty
+Top5
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> book subject works --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+monetary policy is the process by which a [[government]], central bank, or [[monetary authority]] manages the [[money supply]] to achieve specific goals.
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> symbolism symbol --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> object name --> x
+Number of support sentences = 129, Number of summary sentences = 7
+Example support sentence:
+[[file:rian archive 978776 printing paper money at goznak factory in perm.jpg|thumb|right|printing paper money at a printing press in [[perm]]]]
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> film subject films --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> quotation subject quotations about this subject --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+463what language do maltese speak?	[u'Maltese Language', u'English Language']	[u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'Language and the Internet', u'Mandaean Book of John', u'The British Edda', u'Language in Danger', '...']	0	EMPTY	book.book_subject.works	NONE	Language
+Empty
+Top5
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> equivalent topic equivalent domain --> x
+Number of support sentences = 396, Number of summary sentences = 23
+Example support sentence:
+: {{cite book|last=lyons|first=john|authorlink=john lyons (linguist)|year=1981|title=language and linguistics|publisher=cambridge university press|isbn=0-521-29775-3|ref=harv}}
+Entity Score = 0.500000, F1 = 0.000000, graph = speak --> release region --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> object name --> x
+Number of support sentences = 396, Number of summary sentences = 23
+Example support sentence:
+: {{cite book|last=lyons|first=john|authorlink=john lyons (linguist)|year=1981|title=language and linguistics|publisher=cambridge university press|isbn=0-521-29775-3|ref=harv}}
+Entity Score = 0.500000, F1 = 0.000000, graph = speak --> album artist --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+470who does ron stoppable's voice?	[u'Will Friedle']	[u'Don Fletcher', u'Vincent Paquet', u'Craig Walker']	0	EMPTY	business.employer.employees..business.employment_tenure.person	NONE	Google Voice
+Empty
+Top5
+Entity Score = 0.119148, F1 = 0.000000, graph = google voice --> employment tenure person --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.348153, F1 = 0.000000, graph = human voice --> group membership member --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.348153, F1 = 0.000000, graph = human voice --> group membership role --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.119148, F1 = 0.000000, graph = google voice --> employment tenure title --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.348153, F1 = 0.000000, graph = human voice --> group membership group --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+492where to go in vietnam beaches?	[u'\u0110\u1eafk N\xf4ng Province']	[u'Hai Hung Tinh', u'Tuyen Quang', u'Long Khanh District', u'Kien An Airport', u'District 3, Ho Chi Minh City', '...']	0	EMPTY	location.location.contains	NONE	Vietnam
+Empty
+Top5
+Entity Score = 0.774731, F1 = 0.000000, graph = vietnam --> location contains --> x
+Number of support sentences = 41, Number of summary sentences = 1
+Example support sentence:
+[[vietnam airlines]], the state-owned national airline, maintains a fleet of 69 passenger aircraft,<ref name="fleet">{{cite web| title = vietnam airlines details and fleet history | publisher = planespotters.net | date = 1 april 2010 | url = http://www.planespotters.net/airline/vietnam-airlines | accessdate =1 april 2010}}</ref><ref>{{cite web| title = fleet information | publisher = vietnam airlines | url = http://vietnamairlines.com.vn/wps/portal/en/site/flight_info/fleet_information/!ut/p/c5/fy1rc4iwfez_udybwturjhsfbmsmdc-xqoywxq8r-o_beqkxvffx8j0dgsjp5j1y8xr8zby0opc3vuy8ixuimkyxibzkuqw2ilvauz9e1nurukkkoygvx1-fqfvn76fzjevleyxrpjyix4xleqt3yw8dapkzscvjsdrnksysjsj0rrfmmcnzboflcvn8alblrcu!/dl3/d3/l0ljsklna21bl0lkakfbq3lbqkvsq0pbisevnezhz3nvmfz2eme5sufnis83x0nhqug0n0wwme9vtzcwmjdsuu4zmk8wtzawl0fsx19fnti!/?wcm_portlet=pc_7_cgah47l00ouo7027rqn32o0o00_wcm&wcm_global_context=/wps/wcm/connect/en/site/flight_info/fleet_information/ | accessdate =30 june 2011 }}</ref> and aims to operate 150 by 2020. several private airlines are also in operation in vietnam, including [[air mekong]], [[jetstar pacific airlines]], [[vietnam air service company|vasco]] and [[vietjet air]].
+Entity Score = 0.302325, F1 = 0.000000, graph = vietnam war --> event locations --> x
+Number of support sentences = 1, Number of summary sentences = 3
+Example support sentence:
+#redirect [[vietnam war]] {{r from other capitalisation}}
+Entity Score = 0.774731, F1 = 0.000000, graph = vietnam --> country administrative divisions --> x
+Number of support sentences = 18, Number of summary sentences = 1
+Example support sentence:
+a large number of vietnam's most acclaimed universities are based in hanoi and ho chi minh city.
+Entity Score = 0.774731, F1 = 0.000000, graph = vietnam --> administrative area administrative children --> x
+Number of support sentences = 17, Number of summary sentences = 1
+Example support sentence:
+a large number of vietnam's most acclaimed universities are based in hanoi and ho chi minh city.
+Entity Score = 0.774731, F1 = 0.000000, graph = vietnam --> adjoining relationship adjoins --> x
+Number of support sentences = 32, Number of summary sentences = 5
+Example support sentence:
+japan exploited vietnam's natural resources to support its military campaigns, culminating in a [[japanese coup d'état in french indochina|full-scale takeover of the country]] in march 1945 and the [[vietnamese famine of 1945]], which caused up to two million deaths.<ref name="hirschman"/>
+
+505when did william mckinley died?	[u'9/14/1901']	[u'Assassination', u'Firearm']	0	EMPTY	people.deceased_person.cause_of_death	NONE	William McKinley
+Empty
+Top5
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> inauguration speaker inauguration --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> murdered person murdered by --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> presidential nominee nominated at --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> assassination assassin --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+506what language do british speak?	[u'Scottish Gaelic language', u'Scots Language', u'Cornish Language', u'Irish', u'English Language', u'Welsh Language', u'Guern\xe9siais', u'Ulster Scots dialects', u'J\xe8rriais', u'Manx Language']	[u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'Language and the Internet', u'Mandaean Book of John', u'The British Edda', u'Language in Danger', '...']	0	EMPTY	book.book_subject.works	NONE	Language
+Empty
+Top5
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = speak --> release region --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> equivalent topic equivalent domain --> x
+Number of support sentences = 396, Number of summary sentences = 23
+Example support sentence:
+: {{cite book|last=lyons|first=john|authorlink=john lyons (linguist)|year=1981|title=language and linguistics|publisher=cambridge university press|isbn=0-521-29775-3|ref=harv}}
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> object name --> x
+Number of support sentences = 396, Number of summary sentences = 23
+Example support sentence:
+: {{cite book|last=lyons|first=john|authorlink=john lyons (linguist)|year=1981|title=language and linguistics|publisher=cambridge university press|isbn=0-521-29775-3|ref=harv}}
+Entity Score = 0.500000, F1 = 0.000000, graph = speak --> release track --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+522what are the catholic holy days?	[u'Name day', u"Saint Patrick's Day", u'Maundy Thursday', u'Palm Sunday', u"Saint George's Day", u"Saint Joseph's Day", u'Christmas']	[u'George Nichols']	0	EMPTY	film.film_character.portrayed_in_films..film.performance.actor	NONE	The Catholic
+Empty
+Top5
+Entity Score = 0.200000, F1 = 0.000000, graph = the catholic --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.200000, F1 = 0.000000, graph = the catholic --> performance film --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.759002, F1 = 0.000000, graph = day --> subject of curiousity explanation --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.408888, F1 = 0.000000, graph = shia days of remembrance --> object name --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[category:shia days of remembrance| ]]
+Entity Score = 0.152145, F1 = 0.000000, graph = holy day of obligation --> object name --> x
+Number of support sentences = 13, Number of summary sentences = 0
+Example support sentence:
+the following day is also a holy day of obligation in all of the dominican republic:
+
+525where was the assyrian homeland?	[u'Middle East']	[u'United States of America', u'Riverside County', u'California']	0	EMPTY	location.location.containedby	NONE	Homeland
+Empty
+Top5
+Entity Score = 0.155448, F1 = 0.000000, graph = homeland --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.155448, F1 = 0.000000, graph = homeland --> hud county place county --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.155448, F1 = 0.000000, graph = homeland --> hud county place place --> x
+Number of support sentences = 19, Number of summary sentences = 4
+Example support sentence:
+mother homeland), while "''baba ocağı''" (lit.
+Entity Score = 0.190827, F1 = 0.000000, graph = bantustan --> form of government countries --> x
+Number of support sentences = 5, Number of summary sentences = 2
+Example support sentence:
+the first bantustan was the transkei, under the leadership of [[chief kaizer daliwonga matanzima]] in the [[cape province]] for the xhosa nation.
+Entity Score = 0.202050, F1 = 0.000000, graph = the assyrian --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+529what are malaysian coins called?	[u'Malaysian ringgit']	[u"Double Eagle: The Epic Story of the World's Most Valuable Coin", u'Medieval European coinage', u'Discovering America', u'The Big Problem of Small Change']	0	EMPTY	book.book_subject.works	NONE	Coin
+Empty
+Top5
+Entity Score = 0.593805, F1 = 0.000000, graph = coin --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.593805, F1 = 0.000000, graph = coin --> collection category name of collection activity --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+* [[coin collecting]]
+Entity Score = 0.593805, F1 = 0.000000, graph = coin --> jewish studies field online projects --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.593805, F1 = 0.000000, graph = coin --> collection category parent category --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.593805, F1 = 0.000000, graph = coin --> collection category items in this category --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+535when does jewish new year start?	[u'Yiddish Language']	[u'Amitabh Bachchan']	0	EMPTY	film.film_character.portrayed_in_films..film.performance.actor	NONE	Year
+Empty
+Top5
+Entity Score = 0.244091, F1 = 0.000000, graph = year --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = rosh hashanah --> holiday holiday period --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.830683, F1 = 0.000000, graph = new year --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = rosh hashanah --> holiday period holidays --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = rosh hashanah --> holiday featured in religions --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+
+538what did lincoln steffens wrote?	[u'The shame of the cities']	[u'Lincoln Steffens speaking', u'Upbuilders', u'Die Geschichte meines Lebens', u'The struggle for self-government', u'The autobiography of Lincoln Steffens', '...']	0	EMPTY	book.author.works_written	NONE	Lincoln Steffens
+Empty
+Top5
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> author works written --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+his family's opulent home in the state capital later became the governor's mansion.<ref name=":0">{{cite book|title=the autobiography of lincoln steffens|url=https://books.google.com/books?id=arsc2h9-_kwc}}</ref>
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> person profession --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+* {{findagrave|976|name=joseph lincoln steffens|work=journalist, muckraker|date=january 1, 2001}}
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> employment tenure company --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> education institution --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> deceased person place of death --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+steffens died of [[heart failure]] on august 9, 1936, in [[carmel-by-the-sea, california]].<ref>{{cite news |author= |coauthors= |title=lincoln steffens, first muckraker dies at 70 |url=https://news.google.com/newspapers?id=2peraaaaibaj&sjid=y3efaaaaibaj&pg=3980,3333463&dq=lincoln+steffens&hl=en |newspaper=[[associated press]] |date=august 10, 1936 |accessdate=2011-05-10 }}</ref>
+

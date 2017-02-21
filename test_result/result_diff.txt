@@ -4203,3 +4203,1210 @@ Entity Score = 0.989949, F1 = 0.000000, graph = luke skywalker --> performance f
 Number of support sentences = 0, Number of summary sentences = 0
 Example support sentence:
 
+411what to do with kids in essex?	[u'RHS Garden, Hyde Hall', u'Mountfitchet Castle', u'Marsh Farm Country Park', u'Thorndon Country Park', u'Green Island Gardens', u'Mistley Place Park', u'Beth Chatto Gardens', u'Colchester Zoo', u'Waltham Abbey Royal Gunpowder Mills', u'Cudmore Grove Country Park']	[u'St Lawrence Bay', u'Tillingham', u'Havering Sixth Form College', u'Blackmore', u'Woodham Mortimer', '...']	0	travel.travel_destination.tourist_attractions	location.location.contains	Essex	Essex
+Entity Score = 0.598644, F1 = 1.000000, graph = essex --> travel destination tourist attractions --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.598644, F1 = 0.000000, graph = essex --> location contains --> x
+Number of support sentences = 31, Number of summary sentences = 0
+Example support sentence:
+* [[university of essex]] (wivenhoe park, colchester and [[loughton]])
+Entity Score = 0.598644, F1 = 1.000000, graph = essex --> travel destination tourist attractions --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.598644, F1 = 0.000000, graph = essex --> administrative area administrative children --> x
+Number of support sentences = 11, Number of summary sentences = 0
+Example support sentence:
+in all there are some 90 state secondary schools provided by these authorities, the majority of which are comprehensive, although one in [[uttlesford]], two in [[chelmsford]], two in [[colchester]] and four in [[southend-on-sea]] are selective [[grammar school]]s. there are also various independent schools particularly, as mentioned above, in rural parts and the west of the county.<ref>essex county council.
+Entity Score = 0.598644, F1 = 0.000000, graph = essex --> administrative division capital relationship capital --> x
+Number of support sentences = 7, Number of summary sentences = 0
+Example support sentence:
+in all there are some 90 state secondary schools provided by these authorities, the majority of which are comprehensive, although one in [[uttlesford]], two in [[chelmsford]], two in [[colchester]] and four in [[southend-on-sea]] are selective [[grammar school]]s. there are also various independent schools particularly, as mentioned above, in rural parts and the west of the county.<ref>essex county council.
+Entity Score = 0.598644, F1 = 0.000000, graph = essex --> administrative area capital --> x
+Number of support sentences = 7, Number of summary sentences = 0
+Example support sentence:
+in all there are some 90 state secondary schools provided by these authorities, the majority of which are comprehensive, although one in [[uttlesford]], two in [[chelmsford]], two in [[colchester]] and four in [[southend-on-sea]] are selective [[grammar school]]s. there are also various independent schools particularly, as mentioned above, in rural parts and the west of the county.<ref>essex county council.
+
+412what country borders slovakia?	[u'Ukraine', u'Austria', u'Poland', u'Czech Republic', u'Hungary']	[u'Romania', u'Empire of Japan', u'Finland', u'Croatia', u'Nazi Germany', '...']	0.142857142857	location.location.adjoin_s..location.adjoining_relationship.adjoins	military.military_combatant.military_conflicts..military.military_combatant_group.combatants	Slovakia	Slovakia
+Entity Score = 0.722632, F1 = 1.000000, graph = slovakia --> adjoining relationship adjoins --> x
+Number of support sentences = 22, Number of summary sentences = 0
+Example support sentence:
+the nuclear power production in slovakia sometimes draws attention to [[austria]]n green-energy activists who occasionally organise protests and block the borders between the two countries.
+Top5
+Entity Score = 0.722632, F1 = 0.142857, graph = slovakia --> military combatant group combatants --> x
+Number of support sentences = 21, Number of summary sentences = 0
+Example support sentence:
+in 1919, during the chaos following the break-up of austria-hungary, czechoslovakia was formed with numerous germans and hungarians within the newly set borders.
+Entity Score = 0.722632, F1 = 1.000000, graph = slovakia --> adjoining relationship adjoins --> x
+Number of support sentences = 22, Number of summary sentences = 0
+Example support sentence:
+the nuclear power production in slovakia sometimes draws attention to [[austria]]n green-energy activists who occasionally organise protests and block the borders between the two countries.
+Entity Score = 0.722632, F1 = 0.000000, graph = slovakia --> countries continent --> x
+Number of support sentences = 27, Number of summary sentences = 2
+Example support sentence:
+bratislava's geographical position in central europe has long made bratislava a crossroads for [[international trade]] traffic.<ref>{{cite web|publisher=encyclopædia britannica|url=http://concise.britannica.com/ebc/article-9273337/bratislava,-slovakia|title=bratislava in encyclopædia britannica|year=2007|accessdate=30 april 2007}}{{dead link|date=september 2013}}</ref><ref>{{cite web|publisher=city of bratislava |url=http://www.visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |title=mipim 2007 – other segments |year=2007 |accessdate=30 april 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070611190123/http://visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |archivedate=11 june 2007}}</ref> various ancient [[trade route]]s, such as the [[amber road]] and the [[danube]] waterway, have crossed territory of present-day bratislava.
+Entity Score = 0.722632, F1 = 0.000000, graph = slovakia --> location contains --> x
+Number of support sentences = 66, Number of summary sentences = 1
+Example support sentence:
+bratislava's geographical position in central europe has long made bratislava a crossroads for [[international trade]] traffic.<ref>{{cite web|publisher=encyclopædia britannica|url=http://concise.britannica.com/ebc/article-9273337/bratislava,-slovakia|title=bratislava in encyclopædia britannica|year=2007|accessdate=30 april 2007}}{{dead link|date=september 2013}}</ref><ref>{{cite web|publisher=city of bratislava |url=http://www.visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |title=mipim 2007 – other segments |year=2007 |accessdate=30 april 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070611190123/http://visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |archivedate=11 june 2007}}</ref> various ancient [[trade route]]s, such as the [[amber road]] and the [[danube]] waterway, have crossed territory of present-day bratislava.
+Entity Score = 0.722632, F1 = 0.000000, graph = slovakia --> location containedby --> x
+Number of support sentences = 27, Number of summary sentences = 2
+Example support sentence:
+bratislava's geographical position in central europe has long made bratislava a crossroads for [[international trade]] traffic.<ref>{{cite web|publisher=encyclopædia britannica|url=http://concise.britannica.com/ebc/article-9273337/bratislava,-slovakia|title=bratislava in encyclopædia britannica|year=2007|accessdate=30 april 2007}}{{dead link|date=september 2013}}</ref><ref>{{cite web|publisher=city of bratislava |url=http://www.visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |title=mipim 2007 – other segments |year=2007 |accessdate=30 april 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070611190123/http://visit.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700014&id=1088&p1=1800 |archivedate=11 june 2007}}</ref> various ancient [[trade route]]s, such as the [[amber road]] and the [[danube]] waterway, have crossed territory of present-day bratislava.
+
+416where does sherrod brown live?	[u'Mansfield']	[u'Mansfield']	1.0	people.person.place_of_birth	people.person.places_lived..people.place_lived.location	Sherrod Brown	Sherrod Brown
+Entity Score = 0.999981, F1 = 1.000000, graph = sherrod brown --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999981, F1 = 1.000000, graph = sherrod brown --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999981, F1 = 1.000000, graph = sherrod brown --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999981, F1 = 0.000000, graph = sherrod brown --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999981, F1 = 0.000000, graph = sherrod brown --> government position held district represented --> x
+Number of support sentences = 12, Number of summary sentences = 0
+Example support sentence:
+"<ref>{{cite news |title=stimulus bill approved; ohio sen. sherrod brown rushes back to capitol to cast deciding vote |first=jack |last=torry |newspaper=the columbus dispatch |date=february 14, 2009}}</ref>
+Entity Score = 0.999981, F1 = 0.000000, graph = sherrod brown --> government position held jurisdiction of office --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+417when did gordon brown resigns?	[u'7 January, 2007']	[u'New Scotland, New Britain', u'Maxton', u'Where there is greed--', u'Speeches, 1997-2006', u"Britain's Everyday Heroes", '...']	0	tv.tv_actor.guest_roles..tv.tv_guest_role.episodes_appeared_in	book.author.works_written	Gordon Brown	Gordon Brown
+Entity Score = 0.986830, F1 = 0.111111, graph = gordon brown --> tv guest role episodes appeared in --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> celebrity famous for --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> political party tenure party --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.986830, F1 = 0.000000, graph = gordon brown --> leadership organization --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+418what countries are near italy?	[u'Switzerland', u'Slovenia', u'Austria', u'France']	[u'Hafling', u'Castelnuovo, Trentino', u'Treville', u'Gardens of Sallust', u'Soresina', '...']	0	location.location.adjoin_s..location.adjoining_relationship.adjoins	location.location.contains	Italy	Italy
+Entity Score = 0.851261, F1 = 1.000000, graph = italy --> adjoining relationship adjoins --> x
+Number of support sentences = 16, Number of summary sentences = 1
+Example support sentence:
+to the north, italy borders [[france]], [[switzerland]], [[austria]], and [[slovenia]], and is roughly delimited by the [[alps|alpine watershed]], enclosing the [[po valley]] and the [[venetian plain]].
+Top5
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> location contains --> x
+Number of support sentences = 335, Number of summary sentences = 14
+Example support sentence:
+today, the most notable centres of jazz music in italy include milan, rome, and sicily.
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> country first level divisions --> x
+Number of support sentences = 21, Number of summary sentences = 0
+Example support sentence:
+{{convert|12|c|lk=on}} in sicily, like so the average summer temperatures range from {{convert|20|c|lk=on}} to over {{convert|25|c|lk=on}}.<ref>{{cite web|title=climate atlas of italy|url=http://clima.meteoam.it/atlanteclimatico.php?ling=eng|publisher=network of the air force meteorological service|accessdate=30 september 2012}}</ref>
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> country administrative divisions --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+during the 2013 general election these three parties won 579 out of 630 seats available in the chamber of deputies and 294 out of 315 in the senate.<ref>{{cite news|title=elezioni politiche 2013, riepilogo nazionale|url=http://www.ilsole24ore.com/speciali/2013/elezioni/risultati/politiche/static/italia.shtml|accessdate=6 december 2014|publisher=[[il sole 24 ore]]}}</ref> most of the remaining seats were won by a short-lived [[with monti for italy|electoral bloc]] formed to support the outgoing prime minister [[mario monti]], the far left party [[left, ecology, freedom]] or by parties that contest elections only in one part of italy: the [[northern league (italy)|northern league]], the [[south tyrolean people's party]], [[aosta valley (political coalition)|vallée d'aoste]] and [[great south (italy)|great south]].
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> administrative area administrative children --> x
+Number of support sentences = 21, Number of summary sentences = 0
+Example support sentence:
+{{convert|12|c|lk=on}} in sicily, like so the average summer temperatures range from {{convert|20|c|lk=on}} to over {{convert|25|c|lk=on}}.<ref>{{cite web|title=climate atlas of italy|url=http://clima.meteoam.it/atlanteclimatico.php?ling=eng|publisher=network of the air force meteorological service|accessdate=30 september 2012}}</ref>
+Entity Score = 0.851261, F1 = 0.000000, graph = italy --> location partially contains --> x
+Number of support sentences = 9, Number of summary sentences = 1
+Example support sentence:
+to the north, italy borders [[france]], [[switzerland]], [[austria]], and [[slovenia]], and is roughly delimited by the [[alps|alpine watershed]], enclosing the [[po valley]] and the [[venetian plain]].
+
+424what movies has spike lee made?	[u'Jungle Fever', u'Inside Man', u'He Got Game', u'Clockers', u'Bamboozled', u'25th Hour', u'Girl 6', u'Get on the Bus', u'Crooklyn', u'Do the Right Thing']	[u'4 Little Girls', u'25th Hour', u"She's Gotta Have It", u'When the Levees Broke', u'Love & Basketball', '...']	0.25	film.director.film	award.award_nominee.award_nominations..award.award_nomination.nominated_for	Spike Lee	Spike Lee
+Entity Score = 0.999747, F1 = 0.408163, graph = spike lee --> director film --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+  | accessdate = 2009-02-10}}</ref> however, his 2013 film ''[[oldboy (2013 film)|oldboy]]'' uses the traditional "a spike lee film" credit after producers heavily re-edited it.<ref name="variety1">{{cite news|author=maane khatchatourian |url=http://variety.com/2013/film/news/spike-lees-oldboy-looking-like-a-big-fat-turkey-at-thanksgiving-b-o-1200892692/ |title='oldboy' will likely be trampled by new releases in thanksgiving rush |work=variety |date=november 29, 2013 |accessdate=2016-08-04}}</ref>
+Top5
+Entity Score = 0.999747, F1 = 0.250000, graph = spike lee --> award nomination nominated for --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+lee said in an april 7, 2006 interview with ''[[new york (magazine)|new york]]'' magazine that the other film's success, which he thought was based on safe stereotypes, hurt him more than if his film had not been nominated for an award.<ref>{{cite web|last=hill |first=logan |url=http://nymag.com/anniversary/40th/culture/45772/ |title=q&a with spike lee on making 'do the right thing' |work=[[new york (magazine)|new york]] |date=april 7, 2008 |accessdate=june 13, 2011}}</ref>
+Entity Score = 0.999747, F1 = 0.454545, graph = spike lee --> performance film --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+lee said in an april 7, 2006 interview with ''[[new york (magazine)|new york]]'' magazine that the other film's success, which he thought was based on safe stereotypes, hurt him more than if his film had not been nominated for an award.<ref>{{cite web|last=hill |first=logan |url=http://nymag.com/anniversary/40th/culture/45772/ |title=q&a with spike lee on making 'do the right thing' |work=[[new york (magazine)|new york]] |date=april 7, 2008 |accessdate=june 13, 2011}}</ref>
+Entity Score = 0.999747, F1 = 0.153846, graph = spike lee --> award honor honored for --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+lee said in an april 7, 2006 interview with ''[[new york (magazine)|new york]]'' magazine that the other film's success, which he thought was based on safe stereotypes, hurt him more than if his film had not been nominated for an award.<ref>{{cite web|last=hill |first=logan |url=http://nymag.com/anniversary/40th/culture/45772/ |title=q&a with spike lee on making 'do the right thing' |work=[[new york (magazine)|new york]] |date=april 7, 2008 |accessdate=june 13, 2011}}</ref>
+Entity Score = 0.999747, F1 = 0.521739, graph = spike lee --> writer film --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+lee said in an april 7, 2006 interview with ''[[new york (magazine)|new york]]'' magazine that the other film's success, which he thought was based on safe stereotypes, hurt him more than if his film had not been nominated for an award.<ref>{{cite web|last=hill |first=logan |url=http://nymag.com/anniversary/40th/culture/45772/ |title=q&a with spike lee on making 'do the right thing' |work=[[new york (magazine)|new york]] |date=april 7, 2008 |accessdate=june 13, 2011}}</ref>
+Entity Score = 0.999747, F1 = 0.000000, graph = spike lee --> author works written --> x
+Number of support sentences = 31, Number of summary sentences = 0
+Example support sentence:
+"<ref>{{cite news|url=https://www.theguardian.com/film/2008/jun/09/news.usa|title='we're not on a plantation, clint'|date=june 9, 2008 |first=martin |last=wainwright |work=the guardian}}</ref> lee later claimed that the event was exaggerated by the media and that he and eastwood had reconciled through mutual friend [[steven spielberg]], culminating in his sending eastwood a print of ''miracle at st. anna''.<ref>[http://omg.yahoo.com/news/access-exclusive-spike-lee-on-clint-eastwood-we-re-cool/12796 "access exclusive: spike lee on clint eastwood: 'we're cool'" omg!/yahoo!
+
+426who was kobe bryant drafted by?	[u'Los Angeles Lakers']	[u'Joe Bryant', u'Pam Bryant']	0	people.person.employment_history..business.employment_tenure.company	people.person.parents	Kobe Bryant	Kobe Bryant
+Entity Score = 0.978746, F1 = 1.000000, graph = kobe bryant --> employment tenure company --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.978746, F1 = 0.000000, graph = kobe bryant --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.978746, F1 = 0.000000, graph = kobe bryant --> infidelity victim --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.978746, F1 = 0.000000, graph = kobe bryant --> friendship participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.978746, F1 = 0.000000, graph = kobe bryant --> canoodled participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.978746, F1 = 0.000000, graph = kobe bryant --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+
+431what guitar did joe walsh play?	[u'Fender Stratocaster']	[u'Mellotron', u'Drum', u'Acoustic guitar', u'Organ', u'Percussion', '...']	0	music.guitarist.guitars_played	music.group_member.instruments_played	Joe Walsh	Joe Walsh
+Entity Score = 0.911992, F1 = 1.000000, graph = joe walsh --> guitarist guitars played --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.911992, F1 = 0.000000, graph = joe walsh --> group member instruments played --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.861266, F1 = 0.000000, graph = guitar --> instrument variation --> x
+Number of support sentences = 112, Number of summary sentences = 10
+Example support sentence:
+the body of an acoustic guitar has a sound hole through which sound projects.
+Entity Score = 0.911992, F1 = 1.000000, graph = joe walsh --> guitarist guitars played --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.861266, F1 = 0.000000, graph = guitar --> track contribution role --> x
+Number of support sentences = 152, Number of summary sentences = 11
+Example support sentence:
+the body of an acoustic guitar has a sound hole through which sound projects.
+Entity Score = 0.861266, F1 = 0.000000, graph = guitar --> recording contribution performance role --> x
+Number of support sentences = 82, Number of summary sentences = 8
+Example support sentence:
+some electric guitar models feature [[piezoelectricity|piezoelectric]] pickups, which function as [[transducer]]s to provide a sound closer to that of an acoustic guitar with the flip of a switch or knob, rather than switching guitars.
+
+432what countries makes up the uk?	[u'Scotland', u'England', u'Wales', u'Northern Ireland']	[u'Europe', u'Eurasia', u'Western Europe', u'United Kingdom, with Dependencies and Territories']	0	location.country.first_level_divisions	location.location.containedby	United Kingdom	United Kingdom
+Entity Score = 0.674785, F1 = 1.000000, graph = united kingdom --> country first level divisions --> x
+Number of support sentences = 0, Number of summary sentences = 3
+Example support sentence:
+Top5
+Entity Score = 0.783777, F1 = 0.000000, graph = united kingdom --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.783777, F1 = 0.000248, graph = united kingdom --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 7
+Example support sentence:
+Entity Score = 0.783777, F1 = 0.000000, graph = united kingdom --> administrative area subdivides place --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.674785, F1 = 0.000000, graph = united kingdom --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.674785, F1 = 0.000248, graph = united kingdom --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 7
+Example support sentence:
+
+435what county is west st paul in?	[u'Dakota County']	[u'George W. Wentworth House']	0	location.location.containedby	location.location.contains	West St. Paul	West St. Paul
+Entity Score = 0.736309, F1 = 0.500000, graph = west st. paul --> location containedby --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+* [[west st. paul, minnesota]], united states
+Top5
+Entity Score = 0.736309, F1 = 0.000000, graph = west st. paul --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.736309, F1 = 1.000000, graph = west st. paul --> hud county place county --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999941, F1 = 0.000000, graph = west side highway --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.736309, F1 = 0.000000, graph = west st. paul --> hud county place place --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+'''west st. paul''' can refer to:
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+440what was john deere famous for?	[u'Agricultural machinery']	[u'Mowing and Spraying Equipment', u'Engines', u'Compact Equipment Power Trains (Compact Equipment', u'Farm & Ranch Safety Management', u'Marketing Agricultural Commodities (Farm Business Management', '...']	0	base.schemastaging.organization_extra.phone_number..base.schemastaging.phone_sandbox.product_or_service	book.author.works_written	Deere & Company	Deere & Company
+Entity Score = 0.990988, F1 = 0.500000, graph = deere  company --> phone sandbox product or service --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.990988, F1 = 0.000000, graph = deere  company --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.990988, F1 = 0.000000, graph = deere  company --> company brand relationship brand --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.990988, F1 = 0.500000, graph = deere  company --> phone sandbox product or service --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.990988, F1 = 0.000000, graph = deere  company --> organization relationship child --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.990988, F1 = 0.000000, graph = deere  company --> organization founders --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+
+446who financed sir francis drake?	[u'francis drake commissioned by queen elizabeth i of england']	[u'Mary Newman', u'Elizabeth Sydenham']	0	base.kwebbase.kwtopic.connections_from	people.person.spouse_s..people.marriage.spouse	Francis Drake	Francis Drake
+Entity Score = 0.981464, F1 = 0.285714, graph = francis drake --> kwtopic connections from --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.993261, F1 = 0.000000, graph = francis drake --> marriage spouse --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+francis drake married mary newman in 1569.  she died 12 years later, in 1581.  in 1585, drake married elizabeth sydenham—born circa 1562, the only child of sir george sydenham, of [[combe sydenham]],<ref>{{cite book|last=warren|first=derrick|title=curious somerset|date=2005|publisher=sutton publishing|location=stroud|isbn=978-0-7509-4057-3|pages=90–91}}</ref> who was the [[high sheriff of somerset]].<ref>{{cite web | url=http://www.tudorplace.com.ar/documents/sheriffs_of_somerset.htm | title=the occupants of the ancient office of high sheriff of somerset | publisher=tudor court | accessdate=30 march 2011}}</ref> after drake's death, the widow elizabeth eventually married sir [[william courtenay (died 1630)|william courtenay]] of powderham.<ref>{{cite web|url=http://www.tudorplace.com.ar/bios/francisdrake.htm|title=captain sir francis drake|work=tudorplace.com.ar|accessdate=28 may 2008}}{{unreliable source?|certain=y|reason=self published website; and jorge h. castelli is not an expert|date=january 2015}}</ref>
+Entity Score = 0.981464, F1 = 0.000000, graph = francis drake --> marriage spouse --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+francis drake married mary newman in 1569.  she died 12 years later, in 1581.  in 1585, drake married elizabeth sydenham—born circa 1562, the only child of sir george sydenham, of [[combe sydenham]],<ref>{{cite book|last=warren|first=derrick|title=curious somerset|date=2005|publisher=sutton publishing|location=stroud|isbn=978-0-7509-4057-3|pages=90–91}}</ref> who was the [[high sheriff of somerset]].<ref>{{cite web | url=http://www.tudorplace.com.ar/documents/sheriffs_of_somerset.htm | title=the occupants of the ancient office of high sheriff of somerset | publisher=tudor court | accessdate=30 march 2011}}</ref> after drake's death, the widow elizabeth eventually married sir [[william courtenay (died 1630)|william courtenay]] of powderham.<ref>{{cite web|url=http://www.tudorplace.com.ar/bios/francisdrake.htm|title=captain sir francis drake|work=tudorplace.com.ar|accessdate=28 may 2008}}{{unreliable source?|certain=y|reason=self published website; and jorge h. castelli is not an expert|date=january 2015}}</ref>
+Entity Score = 0.387748, F1 = 0.000000, graph = francis bacon --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993261, F1 = 0.000000, graph = francis drake --> person parents --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+he was the eldest of the twelve sons<ref name="odnb04">thomson,george malcolm(1972), 'sir francis drake', william morrow & company inc. isbn 978-0-436-52049-5</ref> of edmund drake (1518–1585), a [[protestant]] farmer, and his wife mary mylwaye.
+Entity Score = 0.981464, F1 = 0.000000, graph = francis drake --> person parents --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+he was the eldest of the twelve sons<ref name="odnb04">thomson,george malcolm(1972), 'sir francis drake', william morrow & company inc. isbn 978-0-436-52049-5</ref> of edmund drake (1518–1585), a [[protestant]] farmer, and his wife mary mylwaye.
+
+451what two states is st louis in?	[u'Missouri']	[u'US Census 2000 Tract 29510107600', u'Moline Acres', u"Hammerstone's", u'Lakeshire', u'US Census 2000 Tract 29510121400', '...']	0	base.biblioness.bibs_location.state	location.location.contains	St. Louis	St. Louis
+Entity Score = 1.000000, F1 = 1.000000, graph = st. louis --> bibs location state --> x
+Number of support sentences = 50, Number of summary sentences = 2
+Example support sentence:
+in 1904, the city hosted a [[world's fair]] at [[forest park (st. louis, missouri)|forest park]] called the [[louisiana purchase exposition]].
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = st. louis --> location contains --> x
+Number of support sentences = 158, Number of summary sentences = 1
+Example support sentence:
+|[[lasalle park, st. louis|lasalle park]]
+Entity Score = 1.000000, F1 = 0.000000, graph = st. louis --> us county hud county place --> x
+Number of support sentences = 421, Number of summary sentences = 9
+Example support sentence:
+*[[list of mayors of st. louis]]
+Entity Score = 1.000000, F1 = 0.000000, graph = st. louis --> hud county place county --> x
+Number of support sentences = 421, Number of summary sentences = 9
+Example support sentence:
+*[[list of mayors of st. louis]]
+Entity Score = 1.000000, F1 = 0.333333, graph = st. louis --> location containedby --> x
+Number of support sentences = 55, Number of summary sentences = 3
+Example support sentence:
+in 1904, the city hosted a [[world's fair]] at [[forest park (st. louis, missouri)|forest park]] called the [[louisiana purchase exposition]].
+Entity Score = 1.000000, F1 = 0.000000, graph = st. louis --> adjoining relationship adjoins --> x
+Number of support sentences = 16, Number of summary sentences = 1
+Example support sentence:
+similarly, the metropolitan sewer district provides sanitary and storm sewer service to the city and much of st. louis county.
+
+452what did mark zuckerberg study?	[u'Harvard University']	[u'ConnectU', u'Facebook, Inc.', u'FWD.us']	0	people.person.education..education.education.institution	organization.organization_founder.organizations_founded	Mark Zuckerberg	Mark Zuckerberg
+Entity Score = 0.995002, F1 = 0.400000, graph = mark zuckerberg --> education institution --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+zuckerberg launched facebook from his harvard dormitory room on february 4, 2004.<ref name="rww051009">{{cite web|title=did mark zuckerberg's inspiration for facebook come before harvard?|url=http://www.readwriteweb.com/archives/mark_zuckerberg_inspiration_for_facebook_before_harvard.php|work=readwrite social|publisher=say media, inc|accessdate=march 26, 2013|first=steffan|last=antonas|date=may 10, 2009}}</ref><ref name=exeter>{{cite web|title=face-to-face with mark zuckerberg '02|url=http://www.exeter.edu/news_and_events/news_events_5594.aspx|work=phillips exeter academy|publisher=phillips exeter academy|accessdate=march 26, 2013|date=january 24, 2007}}</ref> an earlier inspiration for facebook may have come from [[phillips exeter academy]], the prep school from which zuckerberg graduated in 2002. it published its own student directory, "the photo address book", which students referred to as "the facebook".
+Top5
+Entity Score = 0.995002, F1 = 0.000000, graph = mark zuckerberg --> organization founder organizations founded --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+the founders and contributors to the group were primarily silicon valley entrepreneurs and investors, and its president was [[joe green (entrepreneur)|joe green]], a close friend of zuckerberg.<ref name=fwd-us-techcrunch1>{{cite web|url=http://techcrunch.com/2013/04/11/fwd-us/|title = zuckerberg and a team of tech all-stars launch political advocacy group fwd.us|last = constine|first = josh|date= april 11, 2013|accessdate = april 17, 2013|publisher = ''[[techcrunch]]''}}</ref><ref name=fwd-us-techcrunch2>{{cite web|url=http://techcrunch.com/2013/04/11/zuckerberg-launches-a-tech-lobby-but-what-will-it-do-differently/|title = zuckerberg launches a tech lobby, but what will it do differently?|last = ferenstein|first = gregory|date = april 11, 2013|accessdate = april 17, 2013|publisher = ''[[techcrunch]]''}}</ref><ref name=fwd-us-gigaom>{{cite web|url=http://gigaom.com/2013/04/11/why-i-have-issues-with-mark-zuckerbergs-fwd-us/|title = why i have issues with mark zuckerberg’s fwd.us|last = malik|first = om|date = april 11, 2013|publisher = ''[[gigaom]]''|accessdate = april 17, 2013}}</ref><ref name=fwd-us-theverge>{{cite web|url = http://www.theverge.com/2013/4/11/4212094/fwd-us-facebook-ceo-joins-tech-execs-for-immigration-reform|title = mark zuckerberg launches fwd.us with notable silicon valley execs in fight for immigration reform|last = brian|first = matt|date = april 11, 2013|accessdate = april 17, 2013|publisher = ''[[the verge]]''}}</ref> the goals of the group include [[immigration reform]], improving the state of education in the us, and enabling more technological breakthroughs that benefit the public,<ref name=fwd-us-zuck-op-ed>{{cite news|url=http://www.washingtonpost.com/opinions/mark-zuckerberg-immigrants-are-the-key-to-a-knowledge-economy/2013/04/10/aba05554-a20b-11e2-82bc-511538ae90a4_story.html|title = facebook’s mark zuckerberg: immigration and the knowledge economy|last = zuckerberg|first = mark|date = april 11, 2013|accessdate = april 17, 2013|publisher = ''[[washington post]]''}}</ref><ref name=fwd-us-about-us>{{cite web|url=http://www.fwd.us/about_us|title = about us|publisher = fwd.us|accessdate = april 17, 2013}}</ref> yet it has also been criticized for financing ads advocating a variety of oil and gas development initiatives, including drilling in the arctic national wildlife refuge and the keystone xl pipeline.<ref name=zuckerberg_takes_heat>{{cite web|url=http://www.usnews.com/news/articles/2013/04/30/facebooks-zuckerberg-takes-heat-over-keystone-drilling-ads|title = facebook's zuckerberg takes heat over keystone, drilling ads|last = handley|first = meg|date = april 30, 2013|accessdate = may 3, 2013|publisher = ''[[u.s. news & world report]]''}}</ref> in 2013, numerous liberal and progressive groups, such as [[league of conservation voters|the league of conservation voters]], [[moveon.org]], the [[sierra club]], [[democracy for america]], credo, [[daily kos]], [[350.org]], and presente and progressives united agreed to either pull their facebook ad buys or not buy facebook ads for at least two weeks, in protest of zuckerberg ads funded by fwd.us that were in support of oil drilling and the [[keystone xl pipeline]], and in opposition to [[obamacare]] among republican us senators who back immigration reform.
+Entity Score = 0.995002, F1 = 0.000000, graph = mark zuckerberg --> employment tenure company --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+zuckerberg receives a [[one-dollar salary]] as ceo of facebook.<ref name="$1club">{{cite web|url=http://www.sec.gov/archives/edgar/data/1326801/000119312513178090/d493645ddef14a.htm|title=facebook, inc. proxy statement|date=april 26, 2013|accessdate=march 30, 2014|publisher=united states security and exchange commission|quote=on january 1, 2013, mr. zuckerberg’s annual base salary was reduced to $1 and he will no longer receive annual bonus compensation under our bonus plan.|page=31}}</ref>  on december 3, 2016 [[forbes]] reported facebook shares have declined 7% since november 8, 2016, reducing zuckerberg's net worth by 3.7 billion dollars.<ref>{{cite news|first=noah|last=kirsch|title=since trump's election, mark zuckerberg's net worth has fallen $3.7 billion|url=http://www.forbes.com/sites/noahkirsch/2016/12/03/since-trumps-election-mark-zuckerbergs-net-worth-has-fallen-3-7-billion/#1b4d7d1a1ab0|accessdate=december 4, 2016|website=forbes.com|date=december 3, 2016}}</ref> in june 2016, [[business insider]] named zuckerberg one of the "top 10 business visionaries creating value for the world" along with [[elon musk]] and [[sal khan]], due to the fact that he and his wife "pledged to give away 99% of their wealth — which is estimated at over $52.1 billion.
+Entity Score = 0.995002, F1 = 0.400000, graph = mark zuckerberg --> education institution --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+zuckerberg launched facebook from his harvard dormitory room on february 4, 2004.<ref name="rww051009">{{cite web|title=did mark zuckerberg's inspiration for facebook come before harvard?|url=http://www.readwriteweb.com/archives/mark_zuckerberg_inspiration_for_facebook_before_harvard.php|work=readwrite social|publisher=say media, inc|accessdate=march 26, 2013|first=steffan|last=antonas|date=may 10, 2009}}</ref><ref name=exeter>{{cite web|title=face-to-face with mark zuckerberg '02|url=http://www.exeter.edu/news_and_events/news_events_5594.aspx|work=phillips exeter academy|publisher=phillips exeter academy|accessdate=march 26, 2013|date=january 24, 2007}}</ref> an earlier inspiration for facebook may have come from [[phillips exeter academy]], the prep school from which zuckerberg graduated in 2002. it published its own student directory, "the photo address book", which students referred to as "the facebook".
+Entity Score = 0.995002, F1 = 0.000000, graph = mark zuckerberg --> website owner websites owned --> x
+Number of support sentences = 41, Number of summary sentences = 0
+Example support sentence:
+*{{cite web|url=http://www.mercurynews.com/business/ci_24760678/facebooks-mark-zuckerberg-makes-1-billion-donation|title = facebook's mark zuckerberg makes $1 billion donation|last = bailey|first = brandon|date = december 19, 2013|accessdate = december 20, 2013|newspaper=[[san jose mercury news]]}}
+Entity Score = 0.995002, F1 = 0.000000, graph = mark zuckerberg --> leadership organization --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+zuckerberg receives a [[one-dollar salary]] as ceo of facebook.<ref name="$1club">{{cite web|url=http://www.sec.gov/archives/edgar/data/1326801/000119312513178090/d493645ddef14a.htm|title=facebook, inc. proxy statement|date=april 26, 2013|accessdate=march 30, 2014|publisher=united states security and exchange commission|quote=on january 1, 2013, mr. zuckerberg’s annual base salary was reduced to $1 and he will no longer receive annual bonus compensation under our bonus plan.|page=31}}</ref>  on december 3, 2016 [[forbes]] reported facebook shares have declined 7% since november 8, 2016, reducing zuckerberg's net worth by 3.7 billion dollars.<ref>{{cite news|first=noah|last=kirsch|title=since trump's election, mark zuckerberg's net worth has fallen $3.7 billion|url=http://www.forbes.com/sites/noahkirsch/2016/12/03/since-trumps-election-mark-zuckerbergs-net-worth-has-fallen-3-7-billion/#1b4d7d1a1ab0|accessdate=december 4, 2016|website=forbes.com|date=december 3, 2016}}</ref> in june 2016, [[business insider]] named zuckerberg one of the "top 10 business visionaries creating value for the world" along with [[elon musk]] and [[sal khan]], due to the fact that he and his wife "pledged to give away 99% of their wealth — which is estimated at over $52.1 billion.
+
+456what to see in phoenix arizona?	[u'Grand Canyon', u'Phoenix Mountain Preserve', u'Phoenix Art Museum', u'Desert Botanical Garden', u'Heard Museum', u'Musical Instrument Museum', u'Arizona Science Center', u'Ro Ho En', u'Mesa Arts Center', u'Pueblo Grande Ruin']	[u'First Presbyterian Church', u"St. Mary's Church", u'Phoenix College', u'Refrigeration School Inc', u'DeVry University-Arizona', '...']	0.0518134715026	travel.travel_destination.tourist_attractions	location.location.contains	Phoenix	Phoenix
+Entity Score = 0.999990, F1 = 1.000000, graph = phoenix --> travel destination tourist attractions --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+* [[phoenix art museum]], the southwest united states' largest art museum for visual art
+Top5
+Entity Score = 0.999990, F1 = 0.051813, graph = phoenix --> location contains --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+* [[phoenix art museum]], the southwest united states' largest art museum for visual art
+Entity Score = 0.999990, F1 = 1.000000, graph = phoenix --> travel destination tourist attractions --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+* [[phoenix art museum]], the southwest united states' largest art museum for visual art
+Entity Score = 0.999990, F1 = 0.000000, graph = phoenix --> place with neighborhoods neighborhoods --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999990, F1 = 0.000000, graph = phoenix --> adjoining relationship adjoins --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999990, F1 = 0.000000, graph = phoenix --> location events --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+458where did dolly parton grow up?	[u'Tennessee']	[u'Sevierville']	0	people.person.places_lived..people.place_lived.location	people.person.place_of_birth	Dolly Parton	Dolly Parton
+Entity Score = 0.990704, F1 = 1.000000, graph = dolly parton --> place lived location --> x
+Number of support sentences = 11, Number of summary sentences = 0
+Example support sentence:
+non-musical ventures include [[dollywood]], a theme park in pigeon forge in the [[smoky mountains]] of tennessee, and her efforts on behalf of childhood literacy, particularly her imagination library, as well as [[dolly parton's dixie stampede]] and pirates voyage dinner & show.<ref>{{cite web|url=http://dollyparton.com/family_destinations/pirates_voyage/pirates-voyage-grand-opening/|title=pirates voyage grand opening |publisher=dollyparton.com |date= |accessdate=june 14, 2014}}</ref>
+Top5
+Entity Score = 0.990704, F1 = 0.000000, graph = dolly parton --> person place of birth --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+she was awarded a star on the [[hollywood walk of fame]] for her music in 1984, located at 6712 hollywood boulevard in [[hollywood, california]]; a star on the nashville star walk for grammy winners;<ref>{{cite news |last= |first= |date=february 17, 1988 |title=dolly parton leaves prints at star walk |url=https://www.newspapers.com/clip/7111464// |newspaper=the san bernardino county sun |location=san bernardino, ca |publisher= |via=[[newspapers.com]] |accessdate=october 20, 2016 }} {{open access}}</ref> and a bronze sculpture on the courthouse lawn in sevierville.
+Entity Score = 0.990704, F1 = 1.000000, graph = dolly parton --> place lived location --> x
+Number of support sentences = 11, Number of summary sentences = 0
+Example support sentence:
+non-musical ventures include [[dollywood]], a theme park in pigeon forge in the [[smoky mountains]] of tennessee, and her efforts on behalf of childhood literacy, particularly her imagination library, as well as [[dolly parton's dixie stampede]] and pirates voyage dinner & show.<ref>{{cite web|url=http://dollyparton.com/family_destinations/pirates_voyage/pirates-voyage-grand-opening/|title=pirates voyage grand opening |publisher=dollyparton.com |date= |accessdate=june 14, 2014}}</ref>
+Entity Score = 0.990704, F1 = 0.000000, graph = dolly parton --> artist origin --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+she was awarded a star on the [[hollywood walk of fame]] for her music in 1984, located at 6712 hollywood boulevard in [[hollywood, california]]; a star on the nashville star walk for grammy winners;<ref>{{cite news |last= |first= |date=february 17, 1988 |title=dolly parton leaves prints at star walk |url=https://www.newspapers.com/clip/7111464// |newspaper=the san bernardino county sun |location=san bernardino, ca |publisher= |via=[[newspapers.com]] |accessdate=october 20, 2016 }} {{open access}}</ref> and a bronze sculpture on the courthouse lawn in sevierville.
+Entity Score = 0.990704, F1 = 0.000000, graph = dolly parton --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.990704, F1 = 0.000000, graph = dolly parton --> person languages --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+459where are the nordic countries?	[u'Northern Europe']	[u'Greenland', u'Scandinavia', u'Faroe Islands', u'Iceland', u'Norway', '...']	0	location.location.containedby	location.location.contains	Nordic countries	Nordic countries
+Entity Score = 1.000000, F1 = 1.000000, graph = nordic countries --> location containedby --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+the '''nordic countries''' or '''nordics'''<ref>{{cite news|url=http://www.economist.com/news/leaders/21571136-politicians-both-right-and-left-could-learn-nordic-countries-next-supermodel|title=the next supermodel|date=2013-02-02|newspaper=the economist|issn=0013-0613|access-date=2016-10-15}}</ref> are a geographical and cultural [[region]] in [[northern europe]] and the [[atlantic ocean|north atlantic]], where they are most commonly known as '''norden''' (lit., "the north").
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = nordic countries --> location contains --> x
+Number of support sentences = 31, Number of summary sentences = 3
+Example support sentence:
+however the nordic foreign and security policy cooperation has become closer and, over the past few years, expanded its scope.<ref>{{cite web |url=http://valtioneuvosto.fi/ajankohtaista/tiedotteet/tiedote/fi.jsp?oid=408655 |title=nordic countries strengthen their cooperation in foreign and security policy |website=valtioneuvosto.fi |publisher=finnish government |accessdate=2014-03-27}}</ref><ref>{{cite web |url=http://formin.finland.fi/public/download.aspx?id=126747&guid={a6a5df01-72e4-45bd-8b29-488ee055acc1} |title=joint statement by the ministers of foreign affairs of denmark, finland, iceland, norway and sweden on nordic foreign and security policy cooperation – building security in a comprehensive manner |publisher=nordic council |accessdate=2014-03-27}}</ref>
+Entity Score = 1.000000, F1 = 1.000000, graph = nordic countries --> location containedby --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+the '''nordic countries''' or '''nordics'''<ref>{{cite news|url=http://www.economist.com/news/leaders/21571136-politicians-both-right-and-left-could-learn-nordic-countries-next-supermodel|title=the next supermodel|date=2013-02-02|newspaper=the economist|issn=0013-0613|access-date=2016-10-15}}</ref> are a geographical and cultural [[region]] in [[northern europe]] and the [[atlantic ocean|north atlantic]], where they are most commonly known as '''norden''' (lit., "the north").
+Entity Score = 1.000000, F1 = 0.000000, graph = nordic countries --> object name --> x
+Number of support sentences = 139, Number of summary sentences = 8
+Example support sentence:
+nordic citizens – and for the three member countries of the eu also eu-citizens – living in another nordic country are normally entitled to vote in local government elections after three months of residence; other foreign citizens have to reside in the nordic countries for three to four years before they are eligible to vote.
+Entity Score = 1.000000, F1 = 0.000000, graph = nordic countries --> location people born here --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = nordic countries --> organization scope organizations with this scope --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+461what did alice paul accomplish?	[u'Silent Sentinels', u"National Woman's Party"]	[u"Women's suffrage"]	0	organization.organization_founder.organizations_founded	base.activism.activist.area_of_activism	Alice Stokes Paul	Alice Stokes Paul
+Entity Score = 0.992426, F1 = 1.000000, graph = alice stokes paul --> organization founder organizations founded --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.992426, F1 = 0.000000, graph = alice stokes paul --> activist area of activism --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.992426, F1 = 0.000000, graph = alice stokes paul --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.992426, F1 = 1.000000, graph = alice stokes paul --> organization founder organizations founded --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.992426, F1 = 0.000000, graph = alice stokes paul --> education institution --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.992426, F1 = 0.000000, graph = alice stokes paul --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+462who did messi have a baby with?	[u'Antonella Roccuzzo']	[u'FC Barcelona']	0	people.person.spouse_s..people.marriage.spouse	base.schemastaging.athlete_extra.salary..base.schemastaging.athlete_salary.team	Lionel Messi	Lionel Messi
+Entity Score = 0.960989, F1 = 1.000000, graph = lionel messi --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.960989, F1 = 0.000000, graph = lionel messi --> athlete salary team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.960989, F1 = 0.000000, graph = lionel messi --> football roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.960989, F1 = 0.000000, graph = lionel messi --> football roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.960989, F1 = 0.000000, graph = lionel messi --> football player stats team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.960989, F1 = 0.000000, graph = lionel messi --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+464what cancer did patrick swayze?	[u'Pancreatic cancer']	[u'Ghost', u'Next of Kin', u'Road House', u'To Wong Foo, Thanks for Everything! Julie Newmar', u'Point Break', '...']	0	people.deceased_person.cause_of_death	award.award_nominee.award_nominations..award.award_nomination.nominated_for	Patrick Swayze	Patrick Swayze
+Entity Score = 0.983554, F1 = 1.000000, graph = patrick swayze --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.983554, F1 = 0.000000, graph = patrick swayze --> award nomination nominated for --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.983554, F1 = 0.000000, graph = patrick swayze --> performance film --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.983554, F1 = 0.000000, graph = patrick swayze --> producer film --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.983554, F1 = 1.000000, graph = patrick swayze --> notable person with medical condition condition --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.866598, F1 = 0.015873, graph = cancer --> cause of death includes causes of death --> x
+Number of support sentences = 99, Number of summary sentences = 7
+Example support sentence:
+image:breastcancer.jpg|a large invasive [[mammary ductal carcinoma|ductal carcinoma]] in a [[mastectomy]] specimen
+
+465what was firefox programmed in?	[u'XUL', u'XBL', u'JavaScript', u'C++', u'Cascading Style Sheets']	[u'Hypertext Transfer Protocol over Secure Socket Layer', u'File Transfer Protocol', u'Hypertext Transfer Protocol']	0	computer.software.languages_used	computer.software.protocols_used	Firefox	Firefox
+Entity Score = 0.948247, F1 = 1.000000, graph = firefox --> software languages used --> x
+Number of support sentences = 15, Number of summary sentences = 0
+Example support sentence:
+solutions will be available to allow older add-ons to operate within the new architecture, but by 2017, xpcom and xul add-ons will no longer be supported.<ref name="ars-webextensions">{{cite web |title=mozilla sets plan to dump firefox add-ons, move to chrome-like extensions|url=http://arstechnica.com/information-technology/2015/08/mozilla-sets-plan-to-dump-firefox-add-ons-move-to-chrome-like-extensions/|website=ars technica|accessdate=august 22, 2015}}</ref>
+Top5
+Entity Score = 0.948247, F1 = 0.000000, graph = firefox --> software protocols used --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.948247, F1 = 1.000000, graph = firefox --> software languages used --> x
+Number of support sentences = 15, Number of summary sentences = 0
+Example support sentence:
+solutions will be available to allow older add-ons to operate within the new architecture, but by 2017, xpcom and xul add-ons will no longer be supported.<ref name="ars-webextensions">{{cite web |title=mozilla sets plan to dump firefox add-ons, move to chrome-like extensions|url=http://arstechnica.com/information-technology/2015/08/mozilla-sets-plan-to-dump-firefox-add-ons-move-to-chrome-like-extensions/|website=ars technica|accessdate=august 22, 2015}}</ref>
+Entity Score = 0.948247, F1 = 0.000000, graph = firefox --> product manufacturer --> x
+Number of support sentences = 13, Number of summary sentences = 1
+Example support sentence:
+in celebration of the third anniversary of the founding of the [[mozilla foundation]], the "world firefox day" campaign was established on july 15, 2006,<ref>{{cite web |title=world firefox day launches |author=sfx team |publisher=spread firefox: sfx team's blog |url=http://www.spreadfirefox.com/node/24241 |archiveurl=http://archive-sfx.spreadfirefox.com/node/24241 |archivedate=august 3, 2006 |accessdate=january 24, 2007 |date=july 16, 2006}}</ref><ref>{{cite web |url=http://www-archive.mozilla.org/press/mozilla-foundation.html |title=mozilla foundation announcement |date=july 15, 2003 |publisher=mozilla}}</ref> and ran until september 15, 2006.<ref>{{cite web |title=friends of firefox frequently asked questions |url=http://www.worldfirefoxday.com/faq.php |archiveurl=https://web.archive.org/web/20071116084027/http://worldfirefoxday.com/faq.php |archivedate=november 16, 2007 |accessdate=november 27, 2007}}</ref> participants registered themselves and a friend on the website for nomination to have their names displayed on the firefox friends wall, a digital wall that will be displayed at the headquarters of the mozilla foundation.
+Entity Score = 0.948247, F1 = 0.000000, graph = firefox --> software software genre --> x
+Number of support sentences = 24, Number of summary sentences = 3
+Example support sentence:
+firefox is a widely [[internationalization and localization|localized]] web browser.
+Entity Score = 0.948247, F1 = 0.000000, graph = firefox --> software developer --> x
+Number of support sentences = 16, Number of summary sentences = 1
+Example support sentence:
+in celebration of the third anniversary of the founding of the [[mozilla foundation]], the "world firefox day" campaign was established on july 15, 2006,<ref>{{cite web |title=world firefox day launches |author=sfx team |publisher=spread firefox: sfx team's blog |url=http://www.spreadfirefox.com/node/24241 |archiveurl=http://archive-sfx.spreadfirefox.com/node/24241 |archivedate=august 3, 2006 |accessdate=january 24, 2007 |date=july 16, 2006}}</ref><ref>{{cite web |url=http://www-archive.mozilla.org/press/mozilla-foundation.html |title=mozilla foundation announcement |date=july 15, 2003 |publisher=mozilla}}</ref> and ran until september 15, 2006.<ref>{{cite web |title=friends of firefox frequently asked questions |url=http://www.worldfirefoxday.com/faq.php |archiveurl=https://web.archive.org/web/20071116084027/http://worldfirefoxday.com/faq.php |archivedate=november 16, 2007 |accessdate=november 27, 2007}}</ref> participants registered themselves and a friend on the website for nomination to have their names displayed on the firefox friends wall, a digital wall that will be displayed at the headquarters of the mozilla foundation.
+
+466what county is frederick md in?	[u'Frederick County']	[u'The Temple-A Paul Mitchell Partner School', u'Silver Maple', u'James K.P. Wolfe House', u'Hard Times Cafe, Frederick', u'Schifferstadt', '...']	0	location.location.containedby	location.location.contains	Frederick	Frederick
+Entity Score = 0.968750, F1 = 0.500000, graph = frederick --> location containedby --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+* [[frederick, maryland]], a city in frederick county
+Top5
+Entity Score = 0.968750, F1 = 0.000000, graph = frederick --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.968750, F1 = 1.000000, graph = frederick --> hud county place county --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+* [[frederick, maryland]], a city in frederick county
+Entity Score = 0.968750, F1 = 0.500000, graph = frederick --> location containedby --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+* [[frederick, maryland]], a city in frederick county
+Entity Score = 0.968750, F1 = 1.000000, graph = frederick --> administrative division capital relationship administrative division --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+* [[frederick, maryland]], a city in frederick county
+Entity Score = 0.968750, F1 = 0.000000, graph = frederick --> location events --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+468what state does romney live in?	[u'Massachusetts']	[u'Massachusetts', u'Bloomfield Hills']	0.666666666667	government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office	people.person.places_lived..people.place_lived.location	Mitt Romney	Mitt Romney
+Entity Score = 0.313213, F1 = 1.000000, graph = mitt romney --> government position held jurisdiction of office --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.313213, F1 = 0.666667, graph = mitt romney --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.313213, F1 = 0.000000, graph = mitt romney --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> location containedby --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+*[[romney academy]], a 19th-century educational institution in romney, west virginia
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> hud county place county --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+472who did carlos boozer play for?	[u'Utah Jazz', u'Cleveland Cavaliers']	[u'Chicago Bulls']	0	basketball.basketball_player.player_statistics..basketball.basketball_player_stats.team	basketball.basketball_player.team..basketball.basketball_roster_position.team	Carlos Boozer	Carlos Boozer
+Entity Score = 0.999984, F1 = 1.000000, graph = carlos boozer --> basketball player stats team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:carlos boozer-2.jpeg|thumb|left|carlos boozer shooting a free throw while playing with the [[utah jazz]] in march 2008.|300x300px]]
+Top5
+Entity Score = 0.999984, F1 = 0.000000, graph = carlos boozer --> basketball roster position team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+on july 8, 2010, boozer was acquired by the [[chicago bulls]] in a [[sign and trade|sign-and-trade]] deal with the jazz.<ref>{{cite web |url=http://www.insidehoops.com/blog/?p=6168 |title=bulls sign carlos boozer |work=insidehoops.com |date=july 8, 2010 |accessdate=july 8, 2010}}</ref><ref>{{cite web |url=http://sports.espn.go.com/chicago/nba/news/story?id=5361792 |title=boozer has bulls deal |work=espn.com |date=july 8, 2010 |accessdate=july 8, 2010}}</ref>
+Entity Score = 0.999984, F1 = 0.000000, graph = carlos boozer --> basketball roster position team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+on july 8, 2010, boozer was acquired by the [[chicago bulls]] in a [[sign and trade|sign-and-trade]] deal with the jazz.<ref>{{cite web |url=http://www.insidehoops.com/blog/?p=6168 |title=bulls sign carlos boozer |work=insidehoops.com |date=july 8, 2010 |accessdate=july 8, 2010}}</ref><ref>{{cite web |url=http://sports.espn.go.com/chicago/nba/news/story?id=5361792 |title=boozer has bulls deal |work=espn.com |date=july 8, 2010 |accessdate=july 8, 2010}}</ref>
+Entity Score = 0.999984, F1 = 0.000000, graph = carlos boozer --> athlete salary team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+on july 8, 2010, boozer was acquired by the [[chicago bulls]] in a [[sign and trade|sign-and-trade]] deal with the jazz.<ref>{{cite web |url=http://www.insidehoops.com/blog/?p=6168 |title=bulls sign carlos boozer |work=insidehoops.com |date=july 8, 2010 |accessdate=july 8, 2010}}</ref><ref>{{cite web |url=http://sports.espn.go.com/chicago/nba/news/story?id=5361792 |title=boozer has bulls deal |work=espn.com |date=july 8, 2010 |accessdate=july 8, 2010}}</ref>
+Entity Score = 0.999984, F1 = 0.000000, graph = carlos boozer --> sports team roster team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+on july 8, 2010, boozer was acquired by the [[chicago bulls]] in a [[sign and trade|sign-and-trade]] deal with the jazz.<ref>{{cite web |url=http://www.insidehoops.com/blog/?p=6168 |title=bulls sign carlos boozer |work=insidehoops.com |date=july 8, 2010 |accessdate=july 8, 2010}}</ref><ref>{{cite web |url=http://sports.espn.go.com/chicago/nba/news/story?id=5361792 |title=boozer has bulls deal |work=espn.com |date=july 8, 2010 |accessdate=july 8, 2010}}</ref>
+Entity Score = 0.999984, F1 = 0.000000, graph = carlos boozer --> sports team roster team --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+john's]] and [[ucla bruins men's basketball|ucla]], but boozer elected to play for coach [[mike krzyzewski]] at [[duke blue devils men's basketball|duke university]], helping the team win the 2001 [[list of ncaa men's division i basketball champions|ncaa championship]].<ref>[http://www.goduke.com/viewarticle.dbml?atclid=135171 carlos boozer biography]</ref>
+
+474what is william taft known for?	[u'President of the United States']	[u'The Collected Works of William Howard Taft, Vol. 7: Taft Papers On League of Nations', u'The Collected Works of William Howard Taft, Vol. 2: Political Issues and Outlooks: Speeches, August 1908-February 1909', u'The Collected Works of William Howard Taft, Vol. 1: Four Aspects of Civic Duty & Present Day Problems', u'The Collected Works of William Howard Taft, Vol. 6: The President and His Powers and The United States and Peace', u'The Collected Works of William Howard Taft, Vol. 3: Presidential Addresses and State Papers', '...']	0	government.politician.government_positions_held..government.government_position_held.office_position_or_title	book.author.works_written	William Howard Taft	William Howard Taft
+Entity Score = 0.999910, F1 = 0.333333, graph = william howard taft --> government position held office position or title --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+three days following his death, on march 11, he became the first president and first member of the supreme court to be buried at [[arlington national cemetery]].<ref name="arlington">{{cite web|title=biography of william howard taft, president of the united states and chief justice of the u.s. supreme court |work=historical information |publisher=arlington national cemetery |url=http://www.arlingtoncemetery.org/historical_information/william_taft.html |accessdate=february 24, 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20061206043942/http://www.arlingtoncemetery.org/historical_information/william_taft.html |archivedate=december 6, 2006 }}</ref><ref>{{cite news|last=gresko|first=jessica|url=http://www.huffingtonpost.com/2010/08/03/supreme-court-at-arlingto_n_668450.html|title=supreme court at arlington: justices are chummy even in death|date=may 25, 2011|accessdate=february 24, 2016}}</ref> [[james earle fraser (sculptor)|james earle fraser]] sculpted his grave marker out of [[stony creek (branford)|stony creek]] granite.<ref name=arlington/>
+Top5
+Entity Score = 0.999910, F1 = 0.000000, graph = william howard taft --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999910, F1 = 0.000000, graph = william howard taft --> inauguration speaker inauguration --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999910, F1 = 0.000000, graph = william howard taft --> author series written or contributed to --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999910, F1 = 0.000000, graph = william howard taft --> artist track --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999910, F1 = 0.000000, graph = william howard taft --> book subject works --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+'back to the constitution': theodore roosevelt, william howard taft and republican party division 1910–1912|first=john|last=murphy|journal=irish journal of american studies|volume= 4|year=1995|pages= 109–126|jstor=30003333|ref={{sfnref|murphy}} }}
+
+477where was anne boleyn executed?	[u'Tower of London']	[u'Hever']	0	base.prison.prisoner.imprisoned..base.prison.imprisonment.prison	people.person.place_of_birth	Anne Boleyn	Anne Boleyn
+Entity Score = 0.977534, F1 = 1.000000, graph = anne boleyn --> imprisonment prison --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.977534, F1 = 0.000000, graph = anne boleyn --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.977534, F1 = 1.000000, graph = anne boleyn --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.977534, F1 = 0.000000, graph = anne boleyn --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.977534, F1 = 0.000000, graph = anne boleyn --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.977534, F1 = 0.000000, graph = anne boleyn --> book subject works --> x
+Number of support sentences = 1, Number of summary sentences = 1
+Example support sentence:
+#redirect [[anne boleyn]]
+
+478what is the best tour to egypt?	[u'eg']	[u'RAF Fayid', u'Philae', u'Pyramid of Teti', u'Mit Gazal', u'Pyramid of Neferirkare', '...']	0	location.country.internet_tld	location.location.contains	Egypt	Egypt
+Entity Score = 0.828170, F1 = 1.000000, graph = egypt --> country internet tld --> x
+Number of support sentences = 494, Number of summary sentences = 13
+Example support sentence:
+egypt is a recognised cultural trend-setter of the arabic-speaking world.
+Top5
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> location contains --> x
+Number of support sentences = 494, Number of summary sentences = 13
+Example support sentence:
+egypt is a recognised cultural trend-setter of the arabic-speaking world.
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> location events --> x
+Number of support sentences = 7, Number of summary sentences = 0
+Example support sentence:
+|established_event5 = [[egyptian revolution of 1952|republic declared]]
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> country form of government --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> book subject works --> x
+Number of support sentences = 89, Number of summary sentences = 3
+Example support sentence:
+the first telephone line between the two cities was installed in 1881.<ref name=te>{{cite web|title=historical synopsis of telecom egypt's developments|url=http://telecomegypt.com.eg/english/te_history.asp|}}</ref> in september 1999 a national project for a technological renaissance was announced reflecting the commitment of the egyptian government to developing the country's it-sector.
+Entity Score = 0.114096, F1 = 0.000000, graph = tour de france --> recurring event instances --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+481where does airtran airways fly?	[u'LaGuardia Airport', u'Southwest Florida International Airport', u'Indianapolis International Airport', u'Logan International Airport', u'Chicago Midway International Airport', u'Fort Lauderdale\u2013Hollywood International Airport', u'General Mitchell International Airport', u'Akron-Canton Airport', u'Port Columbus International Airport', u'Tampa International Airport']	[u'Atlanta', u'Orlando']	0	aviation.airline.focus_cities	aviation.airline.airports_served..aviation.airline_airport_presence.cities_served	AirTran Airways	AirTran Airways
+Entity Score = 1.000000, F1 = 0.909091, graph = airtran airways --> airline focus cities --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+on july 27, 2010, airtran airways hosted the grand opening of their new system operations control (soc) center at orlando international airport.
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = airtran airways --> airline airport presence cities served --> x
+Number of support sentences = 8, Number of summary sentences = 1
+Example support sentence:
+on july 10, 1997, valujet, inc., the holding company for valujet airlines, inc., announced plans to acquire airways corporation, inc., the holding company for airtran airways, inc. of orlando, florida.
+Entity Score = 1.000000, F1 = 0.250000, graph = airtran airways --> airline airport presence airport --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = airtran airways --> mailing address citytown --> x
+Number of support sentences = 7, Number of summary sentences = 1
+Example support sentence:
+on july 10, 1997, valujet, inc., the holding company for valujet airlines, inc., announced plans to acquire airways corporation, inc., the holding company for airtran airways, inc. of orlando, florida.
+Entity Score = 1.000000, F1 = 0.142857, graph = airtran airways --> airline hubs --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+on july 27, 2010, airtran airways hosted the grand opening of their new system operations control (soc) center at orlando international airport.
+Entity Score = 1.000000, F1 = 0.000000, graph = airtran airways --> phone sandbox service location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+482what was van halen first album?	[u'Van Halen']	[u'Jump', u'Right Now', u'Finish What Ya Started', u'The Seventh Seal', u'For Unlawful Carnal Knowledge']	0	music.artist.album	award.award_nominee.award_nominations..award.award_nomination.nominated_for	Van Halen	Van Halen
+Entity Score = 0.919672, F1 = 0.025974, graph = van halen --> artist album --> x
+Number of support sentences = 1, Number of summary sentences = 8
+Example support sentence:
+#redirect [[van halen]] {{r from other capitalisation}}
+Top5
+Entity Score = 0.919672, F1 = 0.000000, graph = van halen --> award nomination nominated for --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.919672, F1 = 0.000000, graph = van halen --> award honor honored for --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.919672, F1 = 0.000000, graph = van halen --> producer tracks produced --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.919672, F1 = 0.006969, graph = van halen --> artist track --> x
+Number of support sentences = 1, Number of summary sentences = 8
+Example support sentence:
+#redirect [[van halen]] {{r from other capitalisation}}
+Entity Score = 0.919672, F1 = 0.000000, graph = van halen --> composer compositions --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+483when did tony romo got drafted?	[u'2002']	[u'Football player', u'Athlete', u'American football player']	0	sports.pro_athlete.career_start	people.person.profession	Tony Romo	Tony Romo
+Entity Score = 0.999995, F1 = 1.000000, graph = tony romo --> pro athlete career start --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999995, F1 = 0.000000, graph = tony romo --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 1.000000, graph = tony romo --> pro sports played career start --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 1.000000, graph = tony romo --> pro athlete career start --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = tony romo --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = tony romo --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+491what is jamie spears baby name?	[u'Bryan Spears']	[u'Emma Roberts', u'Miley Cyrus', u'Erin Sanders']	0	people.person.sibling_s..people.sibling_relationship.sibling	base.popstra.celebrity.friendship..base.popstra.friendship.participant	Jamie Lynn Spears	Jamie Lynn Spears
+Entity Score = 0.985925, F1 = 0.666667, graph = jamie lynn spears --> sibling relationship sibling --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+my first single is available now on itunes!|url=https://twitter.com/jamielynnspears/status/404850371400433664|author=jamielynnspears|publisher=twitter.com|date=november 25, 2013|accessdate=november 26, 2013}}</ref> the song debuted at number 29 on [[billboard (magazine)|billboard's]] [[hot country songs]].<ref>{{cite web|url=http://www.billboard.com/articles/columns/chart-beat/5819624/jamie-lynn-spears-exclusive-qa-there-is-no-rivalry-with-britney|title=jamie lynn spears exclusive q&a: 'there is no rivalry' with britney|publisher=billboard.com|author=gary trust|date=december 5, 2013|accessdate=july 10, 2014}}</ref> spears is featured on her older sister, [[britney spears]]'s eighth studio album ''[[britney jean]]'' on the song "chillin' with you".<ref>{{cite web|url=http://www.idolator.com/7493249/britney-spears-britney-jean-tracklist|title=britney spears reveals ‘britney jean’ tracklist|publisher=idolator.com|author=sam lansky|date=november 12, 2013|accessdate=november 13, 2013}}</ref> on may 27, 2014, spears released an ep called ''[[the journey (jamie lynn spears album)|the journey]]''.<ref>{{cite web|url=http://radio.com/2014/05/09/jamie-lynn-spears-announces-country-ep-the-journey/|title=jamie lynn spears announces country ep, the journey|date=may 9, 2014|accessdate=may 10, 2014}}</ref> [[jana kramer]] recorded a song spears co-wrote, "[[i got the boy]]," which was released as the second single from ''[[thirty one (album)|thirty one]]'' in 2015.<ref>{{cite web|url=http://www.rollingstone.com/music/features/jamie-lynn-spears-on-sharing-her-boy-with-jana-kramer-20150424|title=jamie lynn spears on sharing her 'boy' with jana kramer|publisher=rolling stone|author=deborah evans price|date=april 24, 2015|accessdate=september 3, 2015}}</ref>
+Top5
+Entity Score = 0.985925, F1 = 0.000000, graph = jamie lynn spears --> friendship participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.985925, F1 = 0.000000, graph = jamie lynn spears --> marriage spouse --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+february 7, 2010. retrieved 2010-02-07.</ref> spears and aldridge reconciled in august 2010,<ref>[http://www.people.com/people/article/0,,20412946,00.html "are jamie lynn spears and casey aldridge getting back together?"].
+Entity Score = 0.985925, F1 = 0.000000, graph = jamie lynn spears --> dated participant --> x
+Number of support sentences = 5, Number of summary sentences = 0
+Example support sentence:
+february 7, 2010. retrieved 2010-02-07.</ref> spears and aldridge reconciled in august 2010,<ref>[http://www.people.com/people/article/0,,20412946,00.html "are jamie lynn spears and casey aldridge getting back together?"].
+Entity Score = 0.985925, F1 = 0.000000, graph = jamie lynn spears --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.985925, F1 = 0.000000, graph = jamie lynn spears --> person children --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+aldridge, whom she had been dating for two years, was 18.<ref name="caseyaldridge">{{cite web |title=who is casey aldridge?|url=http://www.people.com/people/article/0,,20168169,00.html |work=people magazine |accessdate=september 24, 2009}}</ref> spears gave birth to a daughter, maddie briann aldridge, on june 19, 2008, at southwest mississippi regional medical center in mccomb, mississippi.<ref>{{cite web |title=jamie lynn spears has a baby girl |url=http://www.people.com/people/article/0,,20204319,00.html |work=[[people (magazine)|people]] |date=june 19, 2008 |accessdate=august 19, 2009}}</ref><ref>{{cite web |title=jamie lynn sprouts!
+
+495what's there to see in atlanta?	[u'Atlanta History Center', u'Atlanta Cyclorama & Civil War Museum', u'Atlanta Ballet', u'Fernbank Museum of Natural History', u'Woodruff Arts Center', u'Zoo Atlanta', u'Atlanta Symphony Orchestra', u'Centennial Olympic Park', u'Martin Luther King, Jr., National Historic Site', u'Fernbank Science Center']	[u'Flatiron Building', u'Atlanta College of Art', u'High Museum of Art', u'The Art Institute of Atlanta', u'Glenridge Hall', '...']	0.0397586084487	travel.travel_destination.tourist_attractions	location.location.contains	Atlanta	Atlanta
+Entity Score = 0.829890, F1 = 0.666667, graph = atlanta --> travel destination tourist attractions --> x
+Number of support sentences = 15, Number of summary sentences = 0
+Example support sentence:
+the streetcar's line, which is also known as the downtown loop, runs 2.7 miles around the downtown tourist areas of [[peachtree center]], [[centennial olympic park]], the [[martin luther king, jr. national historic site]], and sweet auburn.<ref>{{cite web |title = atlanta streetcar |url = http://streetcar.atlantaga.gov/}}</ref> the atlanta streetcar line is also being expanded on in the coming years to include a wider range of atlanta's neighborhoods and important places of interest, with a total of over 50 miles of track in the plan.<ref>{{cite web|last1=flynn|first1=jason|title=atlanta streetcar plan approval may not matter much|url=http://atlanta.curbed.com/2015/12/10/9892580/atlanta-streetcar-plan-approval-may-not-matter-much|website=curbed atlanta|publisher=vox media|accessdate=13 october 2016}}</ref>
+Top5
+Entity Score = 0.829890, F1 = 0.039759, graph = atlanta --> location contains --> x
+Number of support sentences = 58, Number of summary sentences = 0
+Example support sentence:
+elton wilson |title=a choice with no options: atlanta public housing residents' lived experiences in the face of relocation |publisher=[[georgia state university]] |deadurl=yes |archiveurl=https://web.archive.org/web/20141218203321/http://urbanhealth.gsu.edu/files/gsu_public_housing_report1.pdf |archivedate=december 18, 2014 |df=mdy}}</ref><ref name="manhattan">{{cite web|url=http://www.iut.nu/members/usa/georgia/reinventingpublhous2009.pdf|first=howard|last=husock|title=reinventing public housing: is the atlanta model right for your city?|publisher=[[manhattan institute for policy research]]}}</ref><ref>us census bureau 1990 census – total number of housing units in atlanta city</ref> in 2005, the $2.8 billion [[beltline]] project was adopted, with the stated goals of converting a disused 22-mile freight railroad loop that surrounds the central city into an art-filled multi-use trail and increasing the city's park space by 40%.<ref name="beltlinefacts">{{cite web|title=the atlanta beltline in 5|url=https://beltline.org/about/the-atlanta-beltline-project/atlanta-beltline-overview/|website=atlanta beltline|publisher=atlanta beltline inc.|accessdate=6 february 2017}}</ref> atlanta's cultural offerings expanded during the 2000s: the [[high museum of art]] doubled in size; the [[alliance theatre]] won a [[tony award]]; and art galleries were established on the once-industrial [[west midtown|westside]].<ref name="online.wsj.com">{{cite news|url=http://online.wsj.com/article/sb10001424052748704415104576250962970106874.html?mod=wsj_hp_middletopminileadstory |work=[[the wall street journal]] |first=timothy w. |last=martin |title=the new new south |date=april 16, 2011}}</ref>
+Entity Score = 0.829890, F1 = 0.000000, graph = atlanta --> hud county place place --> x
+Number of support sentences = 284, Number of summary sentences = 8
+Example support sentence:
+''[[atlanta (magazine)|atlanta]]'' magazine is an award-winning, monthly general-interest magazine based in and covering atlanta.
+Entity Score = 0.829890, F1 = 0.000000, graph = atlanta --> location containedby --> x
+Number of support sentences = 62, Number of summary sentences = 2
+Example support sentence:
+* [http://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/atlanta entry in the new georgia encyclopedia]
+Entity Score = 0.829890, F1 = 0.000000, graph = atlanta --> place with neighborhoods neighborhoods --> x
+Number of support sentences = 28, Number of summary sentences = 0
+Example support sentence:
+{{wide image|atlanta downtown skyline.jpg|align-cap=center|1000px|the [[downtown atlanta|downtown]] skyline}}
+Entity Score = 0.829890, F1 = 0.000000, graph = atlanta --> bibs location state --> x
+Number of support sentences = 62, Number of summary sentences = 1
+Example support sentence:
+* [http://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/atlanta entry in the new georgia encyclopedia]
+
+497where is chesapeake bay bridge?	[u'Anne Arundel County', u"Queen Anne's County"]	[u'Sandy Point Shoal Light']	0	transportation.bridge.locale	location.location.contains	Chesapeake Bay Bridge	Chesapeake Bay Bridge
+Entity Score = 0.986278, F1 = 1.000000, graph = chesapeake bay bridge --> bridge locale --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+in december 2004, a study concluded that traffic across the bridge was expected to increase by 40% by 2025.  the following year, a task force formed by maryland governor [[robert ehrlich|bob ehrlich]] met to again explore the possibility of establishing a new chesapeake bay crossing.<ref name="second bridge">{{cite news|last=berman|first=dori|url=http://findarticles.com/p/articles/mi_qn4183/is_20050627/ai_n14693744  |title=task force says second chesapeake bay bridge is best option|publisher=the baltimore daily record|date=june 27, 2005|accessdate=2008-02-05}}</ref>  the task force concluded that a bridge would be the best option for an additional crossing, and four geographic locations for such a bridge were explored: baltimore county to kent county, anne arundel county to queen anne's county (the existing location), anne arundel or calvert county to talbot county, and calvert county to dorchester county.<ref name="task force pdf">{{cite web|url=http://www.mdta.state.md.us/mdta/baycrossing/briefingbook/taskforce_briefing_book_2-001.pdf |title=meeting #2: bridge, traffic, and highway issues |publisher=maryland transportation authority |accessdate=2008-02-05 |format=pdf |deadurl=yes |archiveurl=https://web.archive.org/web/20070124043621/http://www.mdta.state.md.us/mdta/baycrossing/briefingbook/taskforce_briefing_book_2-001.pdf |archivedate=2007-01-24 |df= }}</ref>  in late 2006, the task force released a report on the study but did not make a final recommendation; members of the task force requested additional time to continue the study.<ref name="wtop-report released">{{cite news|last=wyatt|first=kristen|url=http://www.wtopnews.com/?nid=25&sid=896776|title=bay bridge report released without recommendation|publisher=wtop news|date=august 29, 2006|accessdate=2008-02-05}}</ref>
+Top5
+Entity Score = 0.986278, F1 = 0.000000, graph = chesapeake bay bridge --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.950958, F1 = 0.000000, graph = chesapeake bay --> location contains --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.950958, F1 = 0.000000, graph = chesapeake bay --> location partially containedby --> x
+Number of support sentences = 0, Number of summary sentences = 2
+Example support sentence:
+Entity Score = 0.950958, F1 = 0.000000, graph = chesapeake bay --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.877647, F1 = 0.000000, graph = san francisco-oakland bay bridge --> location containedby --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+502where does houston dynamo play?	[u'Houston']	[u'BBVA Compass Stadium']	0	sports.sports_team.location	sports.sports_team.arena_stadium	Houston Dynamo	Houston Dynamo
+Entity Score = 0.955665, F1 = 1.000000, graph = houston dynamo --> sports team location --> x
+Number of support sentences = 88, Number of summary sentences = 2
+Example support sentence:
+the houston dynamo won their first match against sydney fc, before finishing second place after their 6–1 loss to [[gamba osaka]] in the final match.
+Top5
+Entity Score = 0.955665, F1 = 0.000000, graph = houston dynamo --> sports team arena stadium --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:bbva compass stadium, north facade.jpg|thumb|bbva compass stadium is the current home of the houston dynamo.]]
+Entity Score = 0.955665, F1 = 1.000000, graph = houston dynamo --> sports team location --> x
+Number of support sentences = 88, Number of summary sentences = 2
+Example support sentence:
+the houston dynamo won their first match against sydney fc, before finishing second place after their 6–1 loss to [[gamba osaka]] in the final match.
+Entity Score = 0.955665, F1 = 0.000000, graph = houston dynamo --> sports team championships --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+the club would then be an expansion team of the league, which began play in 2006. houston dynamo won the [[mls cup 2006|2006]] and [[mls cup 2007|2007]] [[mls cup]]s being in their first two seasons.
+Entity Score = 0.955665, F1 = 0.000000, graph = houston dynamo --> sports team sport --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+the '''houston dynamo''' is an american professional [[association football|soccer]] club based in [[houston|houston, texas]].
+Entity Score = 0.955665, F1 = 0.000000, graph = houston dynamo --> sports team founded --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+503who is angelina jolies brother?	[u'James Haven']	[u'Brad Pitt', u'Jenny Shimizu']	0	people.person.sibling_s..people.sibling_relationship.sibling	celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity	Angelina Jolie	Angelina Jolie
+Entity Score = 1.000000, F1 = 1.000000, graph = angelina jolie --> sibling relationship sibling --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = angelina jolie --> romantic relationship celebrity --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = angelina jolie --> dated participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = angelina jolie --> infidelity participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = angelina jolie --> infidelity participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = angelina jolie --> friendship participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+504what do they speak in scotland?	[u'Scottish English']	[u'Old English', u'English Language']	0	location.country.official_language	location.country.languages_spoken	Scotland	Scotland
+Entity Score = 0.828242, F1 = 1.000000, graph = scotland --> country official language --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.828242, F1 = 0.000000, graph = scotland --> country languages spoken --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+*sharp, l. w. ''the expansion of the english language in scotland'', (cambridge university phd thesis, 1927), pp.&nbsp;102–325;
+Entity Score = 0.828242, F1 = 1.000000, graph = scotland --> country official language --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.828242, F1 = 0.000000, graph = scotland --> country form of government --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+| established_event3 = [[scotland act 1998|devolution]]
+Entity Score = 0.828242, F1 = 0.000000, graph = scotland --> location symbol relationship symbol --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+the national animal of scotland is the [[unicorn]], which has been a scottish heraldic symbol since the 12th century.<ref>{{cite web|url=http://www.scotsman.com/lifestyle/heritage/scottish-fact-of-the-week-scotland-s-official-animal-the-unicorn-1-2564399|title=scottish fact of the week: scotland's official animal, the unicorn|publisher=|accessdate=17 september 2014}}</ref>
+Entity Score = 0.828242, F1 = 0.000000, graph = scotland --> government position held district represented --> x
+Number of support sentences = 21, Number of summary sentences = 1
+Example support sentence:
+there are fifteen [[scottish universities]], some of which are amongst the [[list of oldest universities in continuous operation|oldest in the world]].<ref>{{cite web | title = welcome to the carnegie trust for the universities of scotland | url = http://www.carnegie-trust.org/what_we_do.htm|publisher=carnegie trust for the universities of scotland | accessdate =18 october 2007 | archiveurl = https://web.archive.org/web/20071011070532/http://www.carnegie-trust.org/what_we_do.htm <!-- added by h3llbot --> | archivedate = 11 october 2007 }}</ref><ref>{{cite web | title = understanding scottish qualifications | url =http://www.sac.ac.uk/learning/prospective/international/ireland/irelandscotsqual|publisher=scottish agricultural college | accessdate =18 october 2007|archiveurl=https://web.archive.org/web/20120522144025/http://www.sac.ac.uk/learning/prospective/international/ireland/irelandscotsqual|archivedate=22 may 2012}}</ref> these include the [[university of st andrews]], the [[university of glasgow]], the [[university of aberdeen]] and the [[university of edinburgh]]—many of which are ranked amongst the best in the uk.<ref>{{cite news|url=https://www.theguardian.com/education/table/2008/dec/18/rae-2008-results-uk-universities |title=rae 2008: results for uk universities |work=the guardian  |date=18 december 2008 |accessdate=11 june 2009 | location=london}}</ref><ref>{{cite news|url=http://extras.timesonline.co.uk/tol_gug/gooduniversityguide.php |title=the times good university guide 2009 – league table |work=the times  |accessdate=30 april 2010 | location=london | first=patrick | last=foster}}</ref> proportionally, scotland had more universities in [[qs world university rankings|qs' world university rankings']] top 100 in 2012 than any other nation.<ref>{{cite web |title=scotland tops global university rankings |url=http://www.newsnetscotland.com/index.php/scottish-news/5813-scotland-tops-global-university-rankings |publisher=newsnet scotland |date=11 september 2012 |accessdate=11 january 2013}}</ref> the country produces 1% of the world's [[academic publishing|published research]] with less than 0.1% of the world's population, and higher education institutions account for 9% of scotland's service sector exports.<ref>{{cite web | title = a framework for higher education in scotland: higher education review phase 2 | url = http://www.gov.scot/publications/2003/03/16786/20354|publisher=scottish government | accessdate =18 october 2007 }}</ref><ref>{{cite web |title=what is higher education?
+
+507what did james chadwick invent?	[u'Neutron']	[u'Collection of journal articles']	0	base.nobelprizes.nobel_prize_winner.nobel_honor..base.nobelprizes.nobel_honor.subject_area	book.author.works_written	James Chadwick	James Chadwick
+Entity Score = 0.993824, F1 = 1.000000, graph = james chadwick --> nobel honor subject area --> x
+Number of support sentences = 5, Number of summary sentences = 1
+Example support sentence:
+ |title=the neutron and the bomb: a biography of sir james chadwick
+Top5
+Entity Score = 0.993824, F1 = 0.000000, graph = james chadwick --> author works written --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.993824, F1 = 0.000000, graph = james chadwick --> person profession --> x
+Number of support sentences = 2, Number of summary sentences = 1
+Example support sentence:
+{{sfn|brown|1997|pp=360–363}} his papers are held at the [[churchill archives centre]] in cambridge, and are accessible to the public.<ref>{{cite web |url=http://janus.lib.cam.ac.uk/db/node.xsp?id=ead%2fgbr%2f0014%2fchad |title=the papers of sir james chadwick |publisher=[[janus (database)|janus]] |accessdate=26 april 2013 }}</ref> the chadwick laboratory at the university of liverpool is named after him,<ref>{{cite web |url=http://www.scienceplaces.org/liverpool/liverpool_list.html |title=liverpool science places |publisher=scienceplaces.org |accessdate=6 august 2014 }}</ref> as is its sir james chadwick chair of experimental physics, which was named after him in 1991 as part of celebrations of the centenary of his birth.<ref>{{cite web |url=http://www.liv.ac.uk/commsec/calendar/university%20chairs%20and%20their%20holders%20past%20and%20present.pdf |title=university chairs and their holders past and present |publisher=[[university of liverpool]] |accessdate=1 august 2014 }}</ref> a [[chadwick (crater)|crater on the moon]] is also named after him.<ref>{{cite web |url=http://planetarynames.wr.usgs.gov/feature/1118?__fsk=1722400487 |title=planetary names: crater, craters: chadwick on moon |publisher=[[united states geological survey]] |accessdate=12 august 2012 }}</ref> the james chadwick building, which houses part of the [[school of chemical engineering and analytical sciences, university of manchester]] is named in his honour.<ref>{{cite web |url=http://www.ceas.manchester.ac.uk/about-us/maps-and-travel/james-chadwick-building-directions/ |title=james chadwick building - directions |publisher=the university of manchester |accessdate=18 may 2016 }}</ref>  he was described by the [[united kingdom atomic energy authority]] official historian [[lorna arnold]] as "a physicist, a scientist-diplomat, and a good, wise, and humane man.
+Entity Score = 0.993824, F1 = 0.000000, graph = james chadwick --> employment tenure company --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+{{sfn|brown|1997|pp=360–363}} his papers are held at the [[churchill archives centre]] in cambridge, and are accessible to the public.<ref>{{cite web |url=http://janus.lib.cam.ac.uk/db/node.xsp?id=ead%2fgbr%2f0014%2fchad |title=the papers of sir james chadwick |publisher=[[janus (database)|janus]] |accessdate=26 april 2013 }}</ref> the chadwick laboratory at the university of liverpool is named after him,<ref>{{cite web |url=http://www.scienceplaces.org/liverpool/liverpool_list.html |title=liverpool science places |publisher=scienceplaces.org |accessdate=6 august 2014 }}</ref> as is its sir james chadwick chair of experimental physics, which was named after him in 1991 as part of celebrations of the centenary of his birth.<ref>{{cite web |url=http://www.liv.ac.uk/commsec/calendar/university%20chairs%20and%20their%20holders%20past%20and%20present.pdf |title=university chairs and their holders past and present |publisher=[[university of liverpool]] |accessdate=1 august 2014 }}</ref> a [[chadwick (crater)|crater on the moon]] is also named after him.<ref>{{cite web |url=http://planetarynames.wr.usgs.gov/feature/1118?__fsk=1722400487 |title=planetary names: crater, craters: chadwick on moon |publisher=[[united states geological survey]] |accessdate=12 august 2012 }}</ref> the james chadwick building, which houses part of the [[school of chemical engineering and analytical sciences, university of manchester]] is named in his honour.<ref>{{cite web |url=http://www.ceas.manchester.ac.uk/about-us/maps-and-travel/james-chadwick-building-directions/ |title=james chadwick building - directions |publisher=the university of manchester |accessdate=18 may 2016 }}</ref>  he was described by the [[united kingdom atomic energy authority]] official historian [[lorna arnold]] as "a physicist, a scientist-diplomat, and a good, wise, and humane man.
+Entity Score = 0.993824, F1 = 0.000000, graph = james chadwick --> education institution --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+{{sfn|brown|1997|pp=360–363}} his papers are held at the [[churchill archives centre]] in cambridge, and are accessible to the public.<ref>{{cite web |url=http://janus.lib.cam.ac.uk/db/node.xsp?id=ead%2fgbr%2f0014%2fchad |title=the papers of sir james chadwick |publisher=[[janus (database)|janus]] |accessdate=26 april 2013 }}</ref> the chadwick laboratory at the university of liverpool is named after him,<ref>{{cite web |url=http://www.scienceplaces.org/liverpool/liverpool_list.html |title=liverpool science places |publisher=scienceplaces.org |accessdate=6 august 2014 }}</ref> as is its sir james chadwick chair of experimental physics, which was named after him in 1991 as part of celebrations of the centenary of his birth.<ref>{{cite web |url=http://www.liv.ac.uk/commsec/calendar/university%20chairs%20and%20their%20holders%20past%20and%20present.pdf |title=university chairs and their holders past and present |publisher=[[university of liverpool]] |accessdate=1 august 2014 }}</ref> a [[chadwick (crater)|crater on the moon]] is also named after him.<ref>{{cite web |url=http://planetarynames.wr.usgs.gov/feature/1118?__fsk=1722400487 |title=planetary names: crater, craters: chadwick on moon |publisher=[[united states geological survey]] |accessdate=12 august 2012 }}</ref> the james chadwick building, which houses part of the [[school of chemical engineering and analytical sciences, university of manchester]] is named in his honour.<ref>{{cite web |url=http://www.ceas.manchester.ac.uk/about-us/maps-and-travel/james-chadwick-building-directions/ |title=james chadwick building - directions |publisher=the university of manchester |accessdate=18 may 2016 }}</ref>  he was described by the [[united kingdom atomic energy authority]] official historian [[lorna arnold]] as "a physicist, a scientist-diplomat, and a good, wise, and humane man.
+Entity Score = 0.993824, F1 = 0.000000, graph = james chadwick --> deceased person place of death --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+{{sfn|brown|1997|pp=360–363}} his papers are held at the [[churchill archives centre]] in cambridge, and are accessible to the public.<ref>{{cite web |url=http://janus.lib.cam.ac.uk/db/node.xsp?id=ead%2fgbr%2f0014%2fchad |title=the papers of sir james chadwick |publisher=[[janus (database)|janus]] |accessdate=26 april 2013 }}</ref> the chadwick laboratory at the university of liverpool is named after him,<ref>{{cite web |url=http://www.scienceplaces.org/liverpool/liverpool_list.html |title=liverpool science places |publisher=scienceplaces.org |accessdate=6 august 2014 }}</ref> as is its sir james chadwick chair of experimental physics, which was named after him in 1991 as part of celebrations of the centenary of his birth.<ref>{{cite web |url=http://www.liv.ac.uk/commsec/calendar/university%20chairs%20and%20their%20holders%20past%20and%20present.pdf |title=university chairs and their holders past and present |publisher=[[university of liverpool]] |accessdate=1 august 2014 }}</ref> a [[chadwick (crater)|crater on the moon]] is also named after him.<ref>{{cite web |url=http://planetarynames.wr.usgs.gov/feature/1118?__fsk=1722400487 |title=planetary names: crater, craters: chadwick on moon |publisher=[[united states geological survey]] |accessdate=12 august 2012 }}</ref> the james chadwick building, which houses part of the [[school of chemical engineering and analytical sciences, university of manchester]] is named in his honour.<ref>{{cite web |url=http://www.ceas.manchester.ac.uk/about-us/maps-and-travel/james-chadwick-building-directions/ |title=james chadwick building - directions |publisher=the university of manchester |accessdate=18 may 2016 }}</ref>  he was described by the [[united kingdom atomic energy authority]] official historian [[lorna arnold]] as "a physicist, a scientist-diplomat, and a good, wise, and humane man.
+
+509where is jamarcus russell from?	[u'Mobile']	[u'Mobile']	1.0	people.person.place_of_birth	people.person.places_lived..people.place_lived.location	JaMarcus Russell	JaMarcus Russell
+Entity Score = 1.000000, F1 = 1.000000, graph = jamarcus russell --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = jamarcus russell --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 1.000000, graph = jamarcus russell --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jamarcus russell --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jamarcus russell --> sports league draft pick team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jamarcus russell --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+514who is captain james cook facts?	[u'Explorer']	[u'James Cook', u'Grace Pace Cook']	0	people.person.profession	people.person.parents	James Cook	James Cook
+Entity Score = 0.990287, F1 = 0.666667, graph = james cook --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Top5
+Entity Score = 0.990287, F1 = 0.000000, graph = james cook --> person parents --> x
+Number of support sentences = 1, Number of summary sentences = 1
+Example support sentence:
+#redirect [[james cook]] {{r from other capitalisation}}
+Entity Score = 0.990287, F1 = 0.000000, graph = james cook --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = captain james --> performance actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.990287, F1 = 0.666667, graph = james cook --> person profession --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.990287, F1 = 0.000000, graph = james cook --> person children --> x
+Number of support sentences = 1, Number of summary sentences = 1
+Example support sentence:
+#redirect [[james cook]] {{r from other capitalisation}}
+
+517who was john f kennedy's family?	[u'John F. Kennedy, Jr.', u'Patrick Bouvier Kennedy', u'Arabella Kennedy', u'Caroline Kennedy']	[u'Lyndon B. Johnson']	0	people.person.children	government.us_president.vice_president	John F. Kennedy	John F. Kennedy
+Entity Score = 0.965021, F1 = 1.000000, graph = john f. kennedy --> person children --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = john f. kennedy --> us president vice president --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.965380, F1 = 0.000000, graph = john f. kennedy --> us president vice president --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.965021, F1 = 0.000000, graph = john f. kennedy --> us president vice president --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = john f. kennedy --> government position held office holder --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.965380, F1 = 0.000000, graph = john f. kennedy --> government position held office holder --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+519what is serbian language called?	[u'Serbian language']	[u'Indo-European languages', u'Slavic languages', u'South Slavic languages']	0	type.object.name	language.human_language.language_family	Serbian language	Serbian language
+Entity Score = 0.999916, F1 = 1.000000, graph = serbian language --> object name --> x
+Number of support sentences = 8, Number of summary sentences = 0
+Example support sentence:
+standard serbian language uses both [[serbian cyrillic alphabet|cyrillic]] ({{lang|sh-cryl|ћирилица}}, {{lang|sh-latn|ćirilica}}) and [[gaj's latin alphabet|latin script]] ({{lang|sh-latn|latinica}}, {{lang|sh-cyrl|латиница}}).
+Top5
+Entity Score = 0.999916, F1 = 0.000000, graph = serbian language --> human language language family --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999916, F1 = 0.000000, graph = serbian language --> human language countries spoken in --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+[[file:serbian language in municipalities in croatia.jpg|thumb|serbian language as co-official minority language in municipalities in croatia]]
+Entity Score = 0.999916, F1 = 0.000000, graph = serbian language --> human language main country --> x
+Number of support sentences = 8, Number of summary sentences = 0
+Example support sentence:
+standard serbian language uses both [[serbian cyrillic alphabet|cyrillic]] ({{lang|sh-cryl|ћирилица}}, {{lang|sh-latn|ćirilica}}) and [[gaj's latin alphabet|latin script]] ({{lang|sh-latn|latinica}}, {{lang|sh-cyrl|латиница}}).
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999916, F1 = 0.000000, graph = serbian language --> human language writing system --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+standard serbian language uses both [[serbian cyrillic alphabet|cyrillic]] ({{lang|sh-cryl|ћирилица}}, {{lang|sh-latn|ćirilica}}) and [[gaj's latin alphabet|latin script]] ({{lang|sh-latn|latinica}}, {{lang|sh-cyrl|латиница}}).
+
+523what team did brandon roy go to?	[u'Minnesota Timberwolves']	[u'Minnesota Timberwolves']	1.0	basketball.basketball_player.team..sports.sports_team_roster.team	basketball.basketball_player.team..basketball.basketball_roster_position.team	Brandon Roy	Brandon Roy
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> basketball roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> basketball roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> athlete salary team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999962, F1 = 0.666667, graph = brandon roy --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.999962, F1 = 1.000000, graph = brandon roy --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+524who is nicolas cage married too?	[u'Nicolas Cage; Katherine Heigl']	[u'Lisa Marie Presley', u'Alice Kim', u'Patricia Arquette']	0	tv.tv_actor.guest_roles..tv.tv_guest_role.episodes_appeared_in	people.person.spouse_s..people.marriage.spouse	Nicolas Cage	Nicolas Cage
+Entity Score = 0.997625, F1 = 0.068966, graph = nicolas cage --> tv guest role episodes appeared in --> x
+Number of support sentences = 1, Number of summary sentences = 1
+Example support sentence:
+#redirect [[nicolas cage]] {{r from other capitalisation}}
+Top5
+Entity Score = 0.997625, F1 = 0.000000, graph = nicolas cage --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997625, F1 = 0.000000, graph = nicolas cage --> dated participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997625, F1 = 0.000000, graph = nicolas cage --> canoodled participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997625, F1 = 0.000000, graph = nicolas cage --> friendship participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997625, F1 = 0.000000, graph = nicolas cage --> person parents --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+527who does jordan palmer play for?	[u'Jacksonville Jaguars']	[u'Arizona Rattlers', u'Sacramento Mountain Lions', u'Washington Redskins', u'Jacksonville Jaguars', u'UTEP Miners football', '...']	0.285714285714	sports.pro_athlete.teams..american_football.football_historical_roster_position.team	american_football.football_player.former_teams..sports.sports_team_roster.team	Jordan Palmer	Jordan Palmer
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> football historical roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> sports team roster team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.681326, F1 = 1.000000, graph = jordan palmer --> athlete salary team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> football historical roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.681326, F1 = 0.285714, graph = jordan palmer --> football historical roster position team --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+528what state is barack obama from?	[u'Hawaii']	[u'United States of America']	0	base.popstra.celebrity.vacations_in..base.popstra.vacation_choice.location	government.political_appointer.appointees..government.government_position_held.jurisdiction_of_office	Barack Obama	Barack Obama
+Entity Score = 0.997223, F1 = 0.666667, graph = barack obama --> vacation choice location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.997223, F1 = 0.000000, graph = barack obama --> government position held jurisdiction of office --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997223, F1 = 0.000000, graph = barack obama --> government position held jurisdiction of office --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997223, F1 = 0.000000, graph = barack obama --> government position held district represented --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997223, F1 = 0.000000, graph = barack obama --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997223, F1 = 0.000000, graph = barack obama --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+532where was farrah fawcett buried?	[u'Westwood Village Memorial Park Cemetery']	[u'Santa Monica']	0	people.deceased_person.place_of_burial	people.deceased_person.place_of_death	Farrah Fawcett	Farrah Fawcett
+Entity Score = 0.997731, F1 = 1.000000, graph = farrah fawcett --> deceased person place of burial --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.997731, F1 = 0.000000, graph = farrah fawcett --> deceased person place of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997731, F1 = 0.000000, graph = farrah fawcett --> person place of birth --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997731, F1 = 0.000000, graph = farrah fawcett --> deceased person cause of death --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997731, F1 = 0.000000, graph = farrah fawcett --> place lived location --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.997731, F1 = 0.000000, graph = farrah fawcett --> person nationality --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+533who played obi wan in episode 2?	[u'Ewan McGregor']	[u'James Arnold Taylor']	0	film.film_character.portrayed_in_films..film.performance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Obi-Wan Kenobi	Obi-Wan Kenobi
+Entity Score = 0.947963, F1 = 0.500000, graph = obi-wan kenobi --> performance actor --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+obi-wan kenobi is a main character in the animated micro-series ''[[star wars: clone wars (tv series)|star wars: clone wars]]'' and the [[computer-generated imagery|cgi]] animated series ''[[star wars: the clone wars (2008 tv series)|star wars: the clone wars]]'', voiced by [[james arnold taylor]].
+Top5
+Entity Score = 0.947963, F1 = 0.000000, graph = obi-wan kenobi --> regular tv appearance actor --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+obi-wan kenobi is a main character in the animated micro-series ''[[star wars: clone wars (tv series)|star wars: clone wars]]'' and the [[computer-generated imagery|cgi]] animated series ''[[star wars: the clone wars (2008 tv series)|star wars: the clone wars]]'', voiced by [[james arnold taylor]].
+Entity Score = 0.947963, F1 = 0.500000, graph = obi-wan kenobi --> performance actor --> x
+Number of support sentences = 3, Number of summary sentences = 0
+Example support sentence:
+obi-wan kenobi is a main character in the animated micro-series ''[[star wars: clone wars (tv series)|star wars: clone wars]]'' and the [[computer-generated imagery|cgi]] animated series ''[[star wars: the clone wars (2008 tv series)|star wars: the clone wars]]'', voiced by [[james arnold taylor]].
+Entity Score = 0.203296, F1 = 0.000000, graph = the homer of seville --> tv guest role actor --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.947963, F1 = 0.000000, graph = obi-wan kenobi --> fictional character character created by --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.418614, F1 = 0.000000, graph = half-life 2: episode two --> game performance character --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+539what was scottie pippen good at?	[u'Basketball']	[u'University of Central Arkansas']	0	sports.pro_athlete.sports_played_professionally..sports.pro_sports_played.sport	people.person.education..education.education.institution	Scottie Pippen	Scottie Pippen
+Entity Score = 0.997459, F1 = 1.000000, graph = scottie pippen --> pro sports played sport --> x
+Number of support sentences = 14, Number of summary sentences = 0
+Example support sentence:
+'''total''' (may be incomplete): $109,192,430<ref name="pippen_cash">{{cite web|url=http://www.basketball-reference.com/players/p/pippesc01.html|title=scottie pippen|work=basketball-reference.com|accessdate=december 28, 2013}}</ref>
+Top5
+Entity Score = 0.997459, F1 = 0.000000, graph = scottie pippen --> education institution --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+pippen is a two-time inductee into the [[naismith memorial basketball hall of fame]] (for his individual career, and as a member of the "dream team"), being inducted for both on august 13, 2010.<ref>{{cite press release|url=http://www.hoophall.com/news/2010/4/5/naismith-memorial-basketball-hall-of-fame-announces-class-of.html |title=naismith memorial basketball hall of fame announces class of 2010 |publisher=naismith memorial basketball hall of fame |date=april 5, 2010 |accessdate=2010-04-05}}</ref> on november 8, 2005, the chicago bulls retired his number #33, while his college, [[university of central arkansas]], retired his number #33 on january 21, 2010 as well.<ref name="pippencollege">{{cite web|url=http://www.nba.com/bulls/news/pippen_jersey_100121.html|title=central arkansas retires scottie pippen's jersey|work=nba.com|date=january 21, 2010|accessdate=december 22, 2014}}</ref>
+Entity Score = 0.997459, F1 = 0.000000, graph = scottie pippen --> basketball historical roster position from --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+the bulls won their season-opening game 104–94.<ref name="pippen_rookie">{{cite web|url=http://www.basketball-reference.com/players/p/pippesc01/gamelog/1988/|title=scottie pippen 1987–88 game log|work=basketball-reference.com|accessdate=january 3, 2013}}</ref> with fellow bull [[michael jordan]] as a motivational and instructional mentor, pippen refined his skills and slowly developed many new ones over his career.
+Entity Score = 0.997459, F1 = 0.000000, graph = scottie pippen --> basketball historical roster position from --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+the bulls won their season-opening game 104–94.<ref name="pippen_rookie">{{cite web|url=http://www.basketball-reference.com/players/p/pippesc01/gamelog/1988/|title=scottie pippen 1987–88 game log|work=basketball-reference.com|accessdate=january 3, 2013}}</ref> with fellow bull [[michael jordan]] as a motivational and instructional mentor, pippen refined his skills and slowly developed many new ones over his career.
+Entity Score = 0.997459, F1 = 0.000000, graph = scottie pippen --> pro athlete career start --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+the bulls won their season-opening game 104–94.<ref name="pippen_rookie">{{cite web|url=http://www.basketball-reference.com/players/p/pippesc01/gamelog/1988/|title=scottie pippen 1987–88 game log|work=basketball-reference.com|accessdate=january 3, 2013}}</ref> with fellow bull [[michael jordan]] as a motivational and instructional mentor, pippen refined his skills and slowly developed many new ones over his career.
+Entity Score = 0.997459, F1 = 0.000000, graph = scottie pippen --> basketball historical roster position to --> x
+Number of support sentences = 2, Number of summary sentences = 0
+Example support sentence:
+in the [[lockout (industry)|lockout]]-shortened {{nbay|1998}} season, after being with the [[chicago bulls]] for 11 seasons, pippen, the second all-time leader in points, assists, and steals in bulls franchise history, was traded to the [[houston rockets]] in exchange for [[roy rogers (basketball)|roy rogers]] and a 2nd round pick in the [[2000 nba draft]] ([[jake voskuhl]] was later selected).<ref name="pippen_cash"/> pippen's trade to houston received much publicity, including his only solo cover of ''[[sports illustrated]]''.<ref>si.cnn.com, [http://dynamic.si.cnn.com/covers/search si covers search], accessed february 9, 2008 '''note:''' enter scottie pippen in the si covers search box</ref> in order for the rockets to create enough salary-cap room to acquire pippen, [[charles barkley]] said that he sacrificed greatly as he signed a five-year $67.2 million contract before the previous season.<ref name="pipchuck">{{cite web|url=http://assets.espn.go.com/nba/news/1999/0929/85794.html|title=pippen, barkley play the feud|publisher=[[espn]]|date=oct 2, 1999|accessdate=november 28, 2014}}</ref> pippen's salary was $11,000,000, almost four times as much as his salary the previous season with the chicago bulls, $2,775,000.<ref name="pippen_cash"/>
+
+540what is eminem's real full name?	[u'Marshall Bruce Mathers, Jr.']	[u'Steve King', u'Dr. Dre', u'Richard Huredia', u'Joseph Kahn', u'Mauricio Iragorri', '...']	0	people.person.parents	award.award_winner.awards_won..award.award_honor.award_winner	Eminem	Eminem
+Entity Score = 1.000000, F1 = 0.666667, graph = eminem --> person parents --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+eminem was born on october 17, 1972, in [[st. joseph, missouri]], the only child of marshall bruce mathers, jr. (born june 30, 1951; known as bruce) and deborah rae "debbie" nelson (born january 6, 1955).<ref>united states public record number 1222170896{{nonspecific|date=february 2017}}</ref><ref>united states public records number 292343335{{nonspecific|date=february 2017}}</ref><ref name=mysonmarshall/> debbie was 14 when she met 18-year-old bruce;<ref name=mysonmarshall>{{cite book|last=nelson|first=debbie|title=[[my son marshall, my son eminem]]|year=2008|publisher=[[phoenix books]]|location=beverly hills, ca|isbn=1-59777-596-7}}</ref> at age 17, she nearly died during her 73-hour labor.<ref name=sl00>{{cite journal| last =elrick| first =m.l.| date =july 25, 2000| title =eminem's dirty secrets | publisher =[[salon (website)|salon]] | url =http://www.salon.com/2000/07/25/eminem_secrets/| accessdate =march 9, 2013}}</ref> eminem's parents were in a band called daddy warbucks, playing in [[ramada]] inns along the [[the dakotas|dakotas]]{{ndash}}[[montana]] border before their separation.
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = eminem --> award honor award winner --> x
+Number of support sentences = 31, Number of summary sentences = 2
+Example support sentence:
+on march 31, 2002, french [[jazz]] pianist [[jacques loussier]] filed a $10&nbsp;million lawsuit against eminem and dr. dre, claiming that the beat for "kill you" was from his instrumental "pulsion".<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/music/1904507.stm|title=eminem sued by jazz star |accessdate=december 24, 2008 |work=bbc news |date=march 31, 2002}}</ref> loussier demanded that sales of ''the marshall mathers lp'' be halted, and any remaining copies destroyed.
+Entity Score = 1.000000, F1 = 0.666667, graph = eminem --> person parents --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+eminem was born on october 17, 1972, in [[st. joseph, missouri]], the only child of marshall bruce mathers, jr. (born june 30, 1951; known as bruce) and deborah rae "debbie" nelson (born january 6, 1955).<ref>united states public record number 1222170896{{nonspecific|date=february 2017}}</ref><ref>united states public records number 292343335{{nonspecific|date=february 2017}}</ref><ref name=mysonmarshall/> debbie was 14 when she met 18-year-old bruce;<ref name=mysonmarshall>{{cite book|last=nelson|first=debbie|title=[[my son marshall, my son eminem]]|year=2008|publisher=[[phoenix books]]|location=beverly hills, ca|isbn=1-59777-596-7}}</ref> at age 17, she nearly died during her 73-hour labor.<ref name=sl00>{{cite journal| last =elrick| first =m.l.| date =july 25, 2000| title =eminem's dirty secrets | publisher =[[salon (website)|salon]] | url =http://www.salon.com/2000/07/25/eminem_secrets/| accessdate =march 9, 2013}}</ref> eminem's parents were in a band called daddy warbucks, playing in [[ramada]] inns along the [[the dakotas|dakotas]]{{ndash}}[[montana]] border before their separation.
+Entity Score = 1.000000, F1 = 0.000000, graph = eminem --> award nomination award nominee --> x
+Number of support sentences = 50, Number of summary sentences = 2
+Example support sentence:
+he appeared at the [[bet awards 2010|2010 bet awards]],<ref name="jacobs">{{cite web|url=http://www.hiphopdx.com/index/news/id.11506 |title=eminem to perform at 2010 bet awards|last=jacobs|first=allen|accessdate=june 18, 2010}}</ref> performing "not afraid" and "[[airplanes, part ii]]" with [[b.o.b]] and [[keyshia cole]].
+Entity Score = 1.000000, F1 = 0.000000, graph = eminem --> dated participant --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = eminem --> marriage spouse --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
+542what is cindy sherman known for?	[u'Photographer']	[u'Photography']	0	people.person.profession	visual_art.visual_artist.art_forms	Cindy Sherman	Cindy Sherman
+Entity Score = 0.991812, F1 = 0.500000, graph = cindy sherman --> person profession --> x
+Number of support sentences = 23, Number of summary sentences = 0
+Example support sentence:
+| artist             = cindy sherman
+Top5
+Entity Score = 0.991812, F1 = 0.000000, graph = cindy sherman --> visual artist art forms --> x
+Number of support sentences = 4, Number of summary sentences = 0
+Example support sentence:
+it was in buffalo that sherman encountered the photo-based conceptual works of artists [[hannah wilke]], [[eleanor antin]], and [[adrian piper]].<ref>[[roberta smith]] (february 23, 2012), [https://www.nytimes.com/2012/02/24/arts/design/cindy-sherman-at-museum-of-modern-art.html "photography's angel provocateur - ‘cindy sherman’ at museum of modern art"], nytimes.com; accessed march 7, 2015.</ref> along with artists like [[laurie simmons]], [[louise lawler]], and [[barbara kruger]], sherman is considered to be part of the [[the pictures generation|pictures generation]].<ref>douglas eklund, [http://www.metmuseum.org/toah/hd/pcgn/hd_pcgn.htm heilbrunn timeline of art history: the pictures generation], metmuseum.org; accessed march 7, 2015.</ref>
+Entity Score = 0.991812, F1 = 0.000000, graph = cindy sherman --> author works written --> x
+Number of support sentences = 65, Number of summary sentences = 0
+Example support sentence:
+"</ref> shortly after her birth, her family moved to the township of [[huntington, new york|huntington]], long island, where her father worked as an engineer for [[grumman|grumman aircraft]].<ref>carol vogel (february 16, 2012), [https://www.nytimes.com/2012/02/19/arts/design/moma-to-showcase-cindy-shermans-new-and-old-characters.html 'cindy sherman unmasked"], nytimes.com; accessed march 7, 2015.</ref> her mother taught reading to children with learning difficulties.<ref name="sherman: me, myself and i">simon hattenstone (15 january 2011), [https://www.theguardian.com/artanddesign/2011/jan/15/cindy-sherman-interviewcindy sherman: me, myself and i] ''[[the guardian]]''.</ref>
+Entity Score = 0.991812, F1 = 0.500000, graph = cindy sherman --> person profession --> x
+Number of support sentences = 23, Number of summary sentences = 0
+Example support sentence:
+| artist             = cindy sherman
+Entity Score = 0.991812, F1 = 0.000000, graph = cindy sherman --> performance film --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+*in 2009, paul hasegawa-overacker and tom donahue completed a feature documentary, ''guest of cindy sherman,'' about the former's relationship with sherman.
+Entity Score = 0.991812, F1 = 0.000000, graph = cindy sherman --> award honor honored for --> x
+Number of support sentences = 1, Number of summary sentences = 0
+Example support sentence:
+among her awards are the [[aldrich contemporary art museum|larry aldrich foundation award]] (1993); [[museum ludwig|wolfgang hahn prize]] (1997); [[hasselblad award]] (1999); guild hall academy of the arts lifetime achievement award for visual arts (2005); [[american academy of arts and sciences|american academy of arts and sciences award]] (2003); [[national arts awards|national arts award]] (2001); [[jewish museum (new york)|jewish museum]]’s man ray award (2009);<ref>[http://www.blouinartinfo.com/visual-arts/article/33209-cindy-sherman-to-receive-the-jewish-museums-man-ray-award cindy sherman to receive the jewish museum's man ray award] blouinartinfo, november 12, 2009.</ref> and the roswitha haftmann prize (2012).
+
+543what happened to jill valentine?	[u'BSAA']	[u'Resident Evil 5', u'Marvel vs. Capcom 2: New Age of Heroes', u'Resident Evil', u'Marvel vs. Capcom 3: Fate of Two Worlds', u'Resident Evil: The Umbrella Chronicles', '...']	0	fictional_universe.fictional_character.organizations	cvg.game_character.games..cvg.game_performance.game	Jill Valentine	Jill Valentine
+Entity Score = 0.987439, F1 = 0.666667, graph = jill valentine --> fictional character organizations --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.987439, F1 = 0.000000, graph = jill valentine --> game performance game --> x
+Number of support sentences = 0, Number of summary sentences = 1
+Example support sentence:
+Entity Score = 0.987439, F1 = 0.000000, graph = jill valentine --> performance film --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.987439, F1 = 0.000000, graph = jill valentine --> fictional character character created by --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.987439, F1 = 0.666667, graph = jill valentine --> fictional character organizations --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+Entity Score = 0.987439, F1 = 0.000000, graph = jill valentine --> game performance playable --> x
+Number of support sentences = 0, Number of summary sentences = 0
+Example support sentence:
+
