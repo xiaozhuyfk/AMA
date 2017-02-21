@@ -60,6 +60,7 @@ if __name__ == '__main__':
         if count > 10:
             break
         if (event == 'end'):
+            print elem
             for e in elem:
                 print e.tag[len(prefix):],
             print
