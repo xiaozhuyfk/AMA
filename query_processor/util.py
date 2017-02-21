@@ -53,6 +53,27 @@ def codecsWriteFile(filename, contents, mode="wt", encoding='utf-8'):
     return True
 
 
+def loadJson(filename, mode="rt", encoding='utf-8'):
+    f = None
+    d = None
+    try:
+        with open(filename, mode, encoding) as f:
+            d = json.load(f)
+    finally:
+        if (f != None): f.close()
+    return d
+
+
+def dumpJson(filename, contents, mode="wt", encoding='utf-8'):
+    f = None
+    try:
+        with open(filename, mode, encoding) as f:
+            json.dump(contents, f, indent=4)
+    finally:
+        if (f != None): f.close()
+    return True
+
+
 def codecsLoadJson(filename, mode="rt", encoding='utf-8'):
     f = None
     d = None
