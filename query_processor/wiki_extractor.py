@@ -98,7 +98,7 @@ class WikiAPIExtractor(object):
         self.config_options = config_options
         self.url = "https://en.wikipedia.org/w/api.php"
         self.wiki = "https://en.wikipedia.org/wiki/index.html"
-        #self.wiki_dir = config_options.get('Wiki', 'wiki-dir')
+        self.wiki_dir = config_options.get('Wiki', 'wiki-dir')
         self.tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
     @staticmethod
@@ -123,9 +123,9 @@ class WikiAPIExtractor(object):
         return codecsLoadJson(path)
 
     def extract_wiki_page(self, dataset, query, subject):
-        #logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
-        #if self.wiki_data_on_disk(dataset, query, subject):
-        #    return self.load_wiki_data_from_disk(dataset, query, subject)
+        logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
+        if self.wiki_data_on_disk(dataset, query, subject):
+            return self.load_wiki_data_from_disk(dataset, query, subject)
         parameter = {
             "action": "query",
             "format": "json",
@@ -143,7 +143,7 @@ class WikiAPIExtractor(object):
         paragraphs = text.strip().split("\n")
         sentences = [self.tokenizer.tokenize(p) for p in paragraphs if p]
         sentences = [s for p in sentences for s in p]
-        #self.store_wiki_data(dataset, query, subject, sentences)
+        self.store_wiki_data(dataset, query, subject, sentences)
 
         return sentences
 
