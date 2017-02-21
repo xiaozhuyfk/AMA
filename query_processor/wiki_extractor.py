@@ -1,6 +1,6 @@
 import logging
 import xml.etree.ElementTree as etree
-import xmltodict
+import nltk.data
 import os
 from util import (
     codecsWriteFile,
@@ -63,13 +63,13 @@ if __name__ == '__main__':
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles.xml"
     prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
     count = 0
+    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text")
-            para = text.text.strip().split("\n")
-            for sent in para:
-                print "####YOYOYOOY####", sent
+            for sent in tokenizer.tokenize(text):
+                print "-----YOYOY-----", sent
             if title.text == "Anachism":
                 break
