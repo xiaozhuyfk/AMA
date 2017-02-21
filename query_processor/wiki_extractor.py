@@ -57,14 +57,11 @@ if __name__ == '__main__':
     prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
     count = 0
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
-        if count > 40:
-            break
-        if (event == 'end'):
+        if (event == 'end' and event[0].tag[len(prefix):] == 'page'):
             print elem
             for e in elem:
                 print e.tag[len(prefix):],
             print
-            count += 1
 
         #if (event == 'end') and (elem.tag == 'title'):
         #    print elem.text[11:]
