@@ -49,8 +49,9 @@ class WikiExtractor(object):
                     events=('start', 'end', 'start-ns', 'end-ns')
                 ):
                     if (event == 'end' and elem.tag[len(prefix):] == 'page'):
-                        for e in elem:
-                            pass
+                        title = elem.find(prefix + "title")
+                        revision = elem.find(prefix + "revision")
+                        text = revision.find(prefix + "text")
 
 
 if __name__ == '__main__':
@@ -59,8 +60,10 @@ if __name__ == '__main__':
     count = 0
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
-            title = elem.find(prefix+"title")
-            print title.text
+            title = elem.find(prefix + "title")
+            revision = elem.find(prefix + "revision")
+            text = revision.find(prefix + "text")
+            print text.text
             #print elem
             #for e in elem:
             #    print e.tag[len(prefix):],
