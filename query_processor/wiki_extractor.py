@@ -38,5 +38,6 @@ class WikiExtractor(object):
 
 if __name__ == '__main__':
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-abstract.xml"
-    abstract = etree.parse(abstract_xml)
+    for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
+        print event, elem
 
