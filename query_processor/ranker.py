@@ -280,6 +280,16 @@ class Ranker(object):
                         negative.append(fact_candiate)
         return correct, positive, negative
 
+    def extract_wiki_data(self, dataset):
+        queries = load_eval_queries(dataset)
+        for query in queries:
+            logger.info("Processing query " + str(query.id))
+            json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
+            facts = json["facts"]
+            for ie in facts:
+                subject = ie["subject"].lower()
+                modules.wiki_extractor.extract_wiki_page(dataset, query, subject)
+
     def extract_fact_candidates(self, dataset):
         queries = load_eval_queries(dataset)
         vocab = set([])

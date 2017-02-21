@@ -20,6 +20,9 @@ def train(dataset):
 def test(dataset):
     modules.facts_ranker.test(dataset)
 
+def extract_wiki():
+    modules.facts_ranker.extract_wiki_data("webquestionstrain")
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description='Choose to learn or test AMA')
@@ -45,6 +48,9 @@ def main():
                                 help='Training model name')
     process_parser.set_defaults(which='model')
 
+    wiki_parser = subparsers.add_parser('wiki', help="extract wiki data")
+    wiki_parser.set_defaults(which='wiki')
+
     args = parser.parse_args()
 
     # Read global config
@@ -59,6 +65,8 @@ def main():
         test(args.dataset)
     elif args.which == 'model':
         train_model(args.name)
+    elif args.which == 'wiki':
+        extract_wiki()
 
 
 if __name__ == '__main__':
