@@ -56,9 +56,8 @@ if __name__ == '__main__':
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
         if (event == 'end'):
             for e in elem:
-                print e.text,
+                print e.tag,
             print
-            break
 
         #if (event == 'end') and (elem.tag == 'title'):
         #    print elem.text[11:]
