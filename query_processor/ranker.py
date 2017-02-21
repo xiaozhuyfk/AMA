@@ -171,7 +171,7 @@ class FactCandidate(object):
         #self.message += "Number of summary sentences = %d\n" % (len(self.support_summary))
         self.message += "Example support sentence:\n"
         if len(self.support) > 0:
-            self.message += list(self.support)[0]
+            self.message += list(self.support)[0] + "\n"
 
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
