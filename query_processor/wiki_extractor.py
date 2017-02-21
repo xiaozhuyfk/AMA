@@ -22,23 +22,39 @@ class WikiExtractor(object):
     def init_from_config(config_options):
         return WikiExtractor(config_options)
 
-    def wiki_data_on_disk(self, dataset, query):
+    def wiki_data_on_disk(self, dataset, query, candidate):
         return False
 
-    def load_wiki_data_from_disk(self, dataset, query):
+    def load_wiki_data_from_disk(self, dataset, query, candidate):
         pass
 
-    def extract_support_sentences(self, dataset, query):
+    def extract_support_sentences(self, dataset, query, candidate):
         if self.wiki_data_on_disk(dataset, query):
             return self.load_wiki_data_from_disk(dataset, query)
         else:
             if self.abstract is None:
-                self.xml = etree.parse(self.data)
+                self.abstract = set([])
+                for event, elem in etree.iterparse(
+                        self.abstract_xml,
+                        events=('start', 'end', 'start-ns', 'end-ns')
+                ):
+                    if (event == 'end') and (elem.tag == 'title'):
+                        self.abstract.add(elem.text[11:].lower())
+            d = {}
+            if candidate.subject in self.abstract:
+                for event, elem in etree.iterparse(
+                    self.data_xml,
+                    events=('start', 'end', 'start-ns', 'end-ns')
+                ):
+                    pass
+
+
 
 
 if __name__ == '__main__':
-    abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-abstract.xml"
+    abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles.xml"
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
-        if (event == 'end') and (elem.tag == 'title'):
-            print elem.text[11:]
+        print event, elem.text
+        #if (event == 'end') and (elem.tag == 'title'):
+        #    print elem.text[11:]
 
