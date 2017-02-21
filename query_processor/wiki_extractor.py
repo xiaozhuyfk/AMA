@@ -68,8 +68,8 @@ if __name__ == '__main__':
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text")
-            sentences = text.text.strip().split(". ")
-            for sent in sentences:
+            para = text.text.strip().split("\n")
+            for sent in para:
                 print "####YOYOYOOY####", sent
             if title.text == "Anachism":
                 break
