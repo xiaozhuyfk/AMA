@@ -142,7 +142,7 @@ class WikiAPIExtractor(object):
         text = value["revisions"][0]["*"].lower()
         paragraphs = text.strip().split("\n")
         sentences = [self.tokenizer.tokenize(p) for p in paragraphs if p]
-        sentences = [s.encode('utf-8') for p in sentences for s in p]
+        sentences = [s.decode('utf-8') for p in sentences for s in p]
         self.store_wiki_data(dataset, query, subject, sentences)
 
         return sentences
