@@ -169,7 +169,8 @@ class FactCandidate(object):
                         "x"]
         graph_str = " --> ".join(graph_tokens)
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
-        self.message += "Number of support sentences = %d, Number of summary sentences = %d\n" % (len(self.support), len(self.support_summary))
+        #self.message += "Number of support sentences = %d, Number of summary sentences = %d\n" % (len(self.support), len(self.support_summary))
+        self.message += "Number of summary sentences = %d\n" % (len(self.support_summary))
         self.message += "Example support sentence:\n"
         if len(self.support_summary) > 0:
             self.message += list(self.support_summary)[0]
