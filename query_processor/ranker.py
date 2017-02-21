@@ -129,12 +129,6 @@ class FactCandidate(object):
 
         self.f1 = computeF1(self.answers, self.objects)[2]
 
-        graph_tokens = [" ".join(self.subject_tokens),
-                        " ".join(self.relation_tokens),
-                        "x"]
-        graph_str = " --> ".join(graph_tokens)
-        self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
-
         # support sentences
         sentences = modules.wiki_extractor.extract_wiki_page(
             query.dataset,
@@ -167,6 +161,16 @@ class FactCandidate(object):
                 sent = sent.lower()
                 if self.subject in sent and object in sent:
                     self.support_summary.add(sent)
+
+        graph_tokens = [" ".join(self.subject_tokens),
+                        " ".join(self.relation_tokens),
+                        "x"]
+        graph_str = " --> ".join(graph_tokens)
+        self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
+        self.message += "Number of support sentences = %d, Number of summary sentences = %d\n" % (len(self.support), len(self.support_summary))
+        self.message += "Example support sentence:\n"
+        if len(self.support) > 0:
+            self.message += list(self.support)[0]
 
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):

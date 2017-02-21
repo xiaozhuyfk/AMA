@@ -123,7 +123,7 @@ class WikiAPIExtractor(object):
         return loadJson(path)
 
     def extract_wiki_page(self, dataset, query, subject, sid):
-        logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
+        #logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
         if self.wiki_data_on_disk(dataset, query, sid):
             return self.load_wiki_data_from_disk(dataset, query, sid)
         parameter = {
