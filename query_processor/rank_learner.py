@@ -21,7 +21,7 @@ def test(dataset):
     modules.facts_ranker.test(dataset)
 
 def extract_wiki():
-    modules.facts_ranker.extract_wiki_data("webquestionstrain")
+    modules.facts_ranker.extract_wiki_data("webquestionstest")
 
 def main():
     import argparse

@@ -131,6 +131,9 @@ class FactCandidate(object):
         graph_str = " --> ".join(graph_tokens)
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
 
+        # support sentences
+        self.sentences = modules.wiki_extractor.extract_wiki_page()
+
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
         sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
                         (sentence_size - len(sentence)) * [0]
