@@ -53,6 +53,7 @@ class WikiExtractor(object):
                 ):
                     if (event == 'end') and (elem.tag == 'title'):
                         self.abstract.add(elem.text[11:].lower())
+                logger.info("Load abstract complete.")
             d = {}
             prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
             if subject in self.abstract:
