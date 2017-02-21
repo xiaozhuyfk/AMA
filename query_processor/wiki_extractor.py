@@ -136,7 +136,7 @@ class WikiAPIExtractor(object):
         r = requests.get(self.url, params = parameter)
 
         key, value = r.json()["query"]["pages"].popitem()
-        if key == -1:
+        if key == "-1":
             return []
 
         text = value["revisions"][0]["*"].lower()
