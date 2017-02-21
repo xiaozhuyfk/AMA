@@ -53,6 +53,11 @@ class WikiExtractor(object):
                         revision = elem.find(prefix + "revision")
                         text = revision.find(prefix + "text")
 
+                        if title.text.lower() != candidate.subject:
+                            continue
+
+
+
 
 if __name__ == '__main__':
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles.xml"
@@ -63,8 +68,7 @@ if __name__ == '__main__':
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text")
-            print text.text
-            #print elem
-            #for e in elem:
-            #    print e.tag[len(prefix):],
-            #print
+            sentences = text.text.strip().split(". ")
+            for sent in sentences:
+                print sent
+            break
