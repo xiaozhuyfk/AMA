@@ -53,11 +53,11 @@ class WikiExtractor(object):
 
 if __name__ == '__main__':
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles.xml"
+    prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
         if (event == 'end'):
             for e in elem:
-                print e.tag,
-            print
+                print e.tag[len(prefix):],
 
         #if (event == 'end') and (elem.tag == 'title'):
         #    print elem.text[11:]
