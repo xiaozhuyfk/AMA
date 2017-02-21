@@ -40,5 +40,5 @@ if __name__ == '__main__':
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-abstract.xml"
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
         if (event == 'end') and (elem.tag == 'title'):
-            print elem.text
+            print elem.text[11:]
 
