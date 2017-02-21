@@ -29,6 +29,7 @@ class WikiExtractor(object):
         pass
 
     def extract_support_sentences(self, dataset, query, candidate):
+        logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
         if self.wiki_data_on_disk(dataset, query):
             return self.load_wiki_data_from_disk(dataset, query)
         else:
@@ -54,12 +55,15 @@ class WikiExtractor(object):
 if __name__ == '__main__':
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles.xml"
     prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
+    count = 0
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
+        if count > 10:
+            break
         if (event == 'end'):
-            if elem == []: continue
             for e in elem:
                 print e.tag[len(prefix):],
             print
+            count += 1
 
         #if (event == 'end') and (elem.tag == 'title'):
         #    print elem.text[11:]
