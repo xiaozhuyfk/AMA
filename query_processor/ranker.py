@@ -757,7 +757,6 @@ class Ranker(object):
 
             except Exception:
                 logger.info("Error processing query" + " " + str(query.id))
-            break
 
         print("")
         print(cover)
