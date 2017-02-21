@@ -57,7 +57,7 @@ def loadJson(filename, mode="rt", encoding='utf-8'):
     f = None
     d = None
     try:
-        with open(filename, mode, encoding) as f:
+        with open(filename, mode) as f:
             d = json.load(f)
     finally:
         if (f != None): f.close()
@@ -67,7 +67,7 @@ def loadJson(filename, mode="rt", encoding='utf-8'):
 def dumpJson(filename, contents, mode="wt", encoding='utf-8'):
     f = None
     try:
-        with open(filename, mode, encoding) as f:
+        with open(filename, mode) as f:
             json.dump(contents, f, indent=4)
     finally:
         if (f != None): f.close()
