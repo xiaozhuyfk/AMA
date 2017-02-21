@@ -10,8 +10,8 @@ import requests
 from util import (
     codecsWriteFile,
     codecsReadFile,
-    codecsDumpJson,
-    codecsLoadJson
+    dumpJson,
+    loadJson
 )
 
 logger = logging.getLogger(__name__)
@@ -110,7 +110,7 @@ class WikiAPIExtractor(object):
         if not os.path.exists(query_dir):
             os.makedirs(query_dir)
         path = query_dir + subject
-        codecsDumpJson(path, text)
+        dumpJson(path, text)
 
     def wiki_data_on_disk(self, dataset, query, subject):
         query_dir = self.wiki_dir + dataset + '/' + str(query.id) + '/'
@@ -120,7 +120,7 @@ class WikiAPIExtractor(object):
     def load_wiki_data_from_disk(self, dataset, query, subject):
         query_dir = self.wiki_dir + dataset + '/' + str(query.id) + '/'
         path = query_dir + subject
-        return codecsLoadJson(path)
+        return loadJson(path)
 
     def extract_wiki_page(self, dataset, query, subject):
         logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
