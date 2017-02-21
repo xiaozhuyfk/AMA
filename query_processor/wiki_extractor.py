@@ -69,7 +69,7 @@ if __name__ == '__main__':
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text")
-            for sent in tokenizer.tokenize(text):
+            for sent in tokenizer.tokenize(text.text):
                 print "-----YOYOY-----", sent
             if title.text == "Anachism":
                 break
