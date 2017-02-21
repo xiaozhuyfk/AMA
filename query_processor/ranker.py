@@ -132,7 +132,17 @@ class FactCandidate(object):
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
 
         # support sentences
-        self.sentences = modules.wiki_extractor.extract_wiki_page()
+        sentences = modules.wiki_extractor.extract_wiki_page(
+            query.dataset,
+            query,
+            self.subject,
+            sid.replace(".", "-")
+        )
+        self.support = set([])
+        for object in self.objects:
+            for sent in sentences:
+                if self.subject in sent and object in sent:
+                    self.support.add(sent)
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
         sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
@@ -157,6 +167,9 @@ class FactCandidate(object):
 
         # Add entity linking score
         self.add_feature(float(self.score))
+
+        # Add wiki popularity
+        self.add_feature(len(self.support))
 
         # Add number of nodes
         # relations = self.relation.split("\n")
@@ -416,6 +429,7 @@ class Ranker(object):
         codecsWriteFile(self.svmTrainingFeatureVectorsFile, "")
         for query in queries:
             logger.info("Processing query " + str(query.id))
+            query.dataset = dataset
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
             facts = json["facts"]
             if len(facts) == 0:
@@ -520,6 +534,7 @@ class Ranker(object):
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
 
+        not_found_file = "/home/hongyul/AMA/test_result/result_not_found.txt"
         same_file = "/home/hongyul/AMA/test_result/result_diff.txt"
         cover_file = "/home/hongyul/AMA/test_result/result_10.txt"
         above_file = "/home/hongyul/AMA/test_result/result_5-10.txt"
@@ -527,6 +542,7 @@ class Ranker(object):
         zero_file = "/home/hongyul/AMA/test_result/result_0.txt"
         entity_diff_file = "/home/hongyul/AMA/test_result/result_entity_diff.txt"
         relation_diff_file = "/home/hongyul/AMA/test_result/result_relation_diff.txt"
+        codecsWriteFile(not_found_file, "")
         codecsWriteFile(same_file, "")
         codecsWriteFile(cover_file, "")
         codecsWriteFile(above_file, "")
@@ -539,12 +555,14 @@ class Ranker(object):
         num_top2 = 0
         num_top5 = 0
         num_top10 = 0
+        not_found = 0
         entity_diff = 0
         relation_diff = 0
         queries = load_eval_queries(dataset)
         for query in queries:
             try:
                 codecsWriteFile(self.svmTestingFeatureVectorsFile, "")
+                query.dataset = dataset
                 candidates = []
 
                 json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
@@ -694,7 +712,10 @@ class Ranker(object):
                     codecsWriteFile(below_file, content, "a")
                 else:
                     codecsWriteFile(zero_file, content, "a")
-                if best_subject != best_candidate.subject:
+                if best is None:
+                    codecsWriteFile(not_found_file, content, "a")
+                    not_found += 1
+                elif best_subject != best_candidate.subject:
                     codecsWriteFile(entity_diff_file, content, "a")
                     entity_diff += 1
                 elif best_candidate.relation != best_relation:
@@ -709,6 +730,7 @@ class Ranker(object):
         print(num_top5)
         print(num_top10)
 
+        logger.info("Best candidate not found: %d", not_found)
         logger.info("Entity diff count: %d", entity_diff)
         logger.info("Relation diff count: %d", relation_diff)
 

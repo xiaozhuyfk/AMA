@@ -20,8 +20,8 @@ def train(dataset):
 def test(dataset):
     modules.facts_ranker.test(dataset)
 
-def extract_wiki():
-    modules.facts_ranker.extract_wiki_data("webquestionstest")
+def extract_wiki(dataset):
+    modules.facts_ranker.extract_wiki_data(dataset)
 
 def main():
     import argparse
@@ -67,7 +67,7 @@ def main():
     elif args.which == 'model':
         train_model(args.name)
     elif args.which == 'wiki':
-        extract_wiki()
+        extract_wiki(args.dataset)
 
 
 if __name__ == '__main__':
