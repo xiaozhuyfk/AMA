@@ -22,8 +22,12 @@ from model import (
     EmbeddingJointPairwise,
     vectorize_sentence_one_hot
 )
+import wikipedia
+import nltk.data
 
 logger = logging.getLogger(__name__)
+
+tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 
 def tokenize_term(t):
@@ -140,9 +144,30 @@ class FactCandidate(object):
         )
         self.support = set([])
         for object in self.objects:
+            object = object.lower()
             for sent in sentences:
+                sent = sent.lower()
                 if self.subject in sent and object in sent:
                     self.support.add(sent)
+
+        # support sentences from wikipedia summary
+        sentences = []
+        try:
+            text = wikipedia.summary(self.subject)
+            paragraphs = text.strip().split("\n")
+            sentences = [tokenizer.tokenize(p) for p in paragraphs if p]
+            sentences = [s for p in sentences for s in p]
+        except:
+            pass
+        self.support_summary = set([])
+
+        for object in self.objects:
+            object = object.lower()
+            for sent in sentences:
+                sent = sent.lower()
+                if self.subject in sent and object in sent:
+                    self.support_summary.add(sent)
+
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
         sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
@@ -170,6 +195,9 @@ class FactCandidate(object):
 
         # Add wiki popularity
         self.add_feature(len(self.support))
+
+        # Add wiki summary popularity
+        self.add_feature(len(self.support_summary))
 
         # Add number of nodes
         # relations = self.relation.split("\n")
