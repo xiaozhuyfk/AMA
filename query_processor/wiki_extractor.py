@@ -122,10 +122,10 @@ class WikiAPIExtractor(object):
         path = query_dir + subject
         return loadJson(path)
 
-    def extract_wiki_page(self, dataset, query, subject):
+    def extract_wiki_page(self, dataset, query, subject, sid):
         logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
-        if self.wiki_data_on_disk(dataset, query, subject):
-            return self.load_wiki_data_from_disk(dataset, query, subject)
+        if self.wiki_data_on_disk(dataset, query, sid):
+            return self.load_wiki_data_from_disk(dataset, query, sid)
         parameter = {
             "action": "query",
             "format": "json",
@@ -143,7 +143,7 @@ class WikiAPIExtractor(object):
         paragraphs = text.strip().split("\n")
         sentences = [self.tokenizer.tokenize(p) for p in paragraphs if p]
         sentences = [s.decode('utf-8') for p in sentences for s in p]
-        self.store_wiki_data(dataset, query, subject, sentences)
+        self.store_wiki_data(dataset, query, sid, sentences)
 
         return sentences
 
