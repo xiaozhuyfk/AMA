@@ -27,4 +27,4 @@ def init_from_config(args):
     #parser = CoreNLPParser.init_from_config()
     #entity_linker = EntityLinker.init_from_config()
     facts_ranker = Ranker.init_from_config(config_options)
-    wiki_extractor = WikiExtractor.init_from_config(config_options)
+    wiki_extractor = WikiAPIExtractor.init_from_config(config_options)

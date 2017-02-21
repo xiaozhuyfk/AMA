@@ -2,9 +2,15 @@ import logging
 import xml.etree.ElementTree as etree
 import nltk.data
 import os
+import json
+import string
+import urllib2
+import requests
+
 from util import (
     codecsWriteFile,
     codecsReadFile,
+    codecsDumpJson
 )
 
 logger = logging.getLogger(__name__)
@@ -85,14 +91,50 @@ class WikiExtractor(object):
                         """
 
 
+class WikiAPIExtractor(object):
 
+    def __init__(self, config_options):
+        self.config_options = config_options
+        self.url = "https://en.wikipedia.org/w/api.php"
+        self.wiki = "https://en.wikipedia.org/wiki/index.html"
+        self.wiki_dir = config_options.get('Wiki', 'wiki-dir')
+        self.tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
+    @staticmethod
+    def init_from_config(config_options):
+        return WikiAPIExtractor(config_options)
+
+    def store_wiki_data(self, dataset, query, subject, text):
+        query_dir = self.wiki_dir + dataset + '/' + str(query.id) + '/'
+        if not os.path.exists(query_dir):
+            os.makedirs(query_dir)
+        path = query_dir + subject
+        codecsDumpJson(path, text)
+
+    def extract_wiki_page(self, dataset, query, subject):
+        #logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
+        parameter = {
+            "action": "query",
+            "format": "json",
+            "titles": subject,
+            "prop": "revisions",
+            "rvprop": "content"
+        }
+        r = requests.get(self.url, params = parameter)
+        text = r.json()["query"]["pages"].popitem()[1]["revisions"][0]["*"].lower()
+        paragraphs = text.strip().split("\n")
+        sentences = [self.tokenizer.tokenize(p) for p in paragraphs if p]
+        sentences = [s for p in sentences for s in p]
+        self.store_wiki_data(dataset, query, subject, sentences)
+
+        return sentences
 
 
 
 
 
 if __name__ == '__main__':
+    """
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles.xml"
     prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
     count = 0
@@ -109,3 +151,7 @@ if __name__ == '__main__':
                 print "-----YOYOY-----", sent
             if title.text == "Anachism":
                 break
+    """
+    wiki = WikiAPIExtractor(None)
+    print wiki.extract_wiki_page(None, None, "anarchism")
+
