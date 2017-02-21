@@ -18,7 +18,7 @@ facts_ranker = None
 wiki_extractor = None
 
 def init_from_config(args):
-    global w2v, sparql_backend, extractor, parser, entity_linker, facts_ranker
+    global w2v, sparql_backend, extractor, parser, entity_linker, facts_ranker, wiki_extractor
     config_options = globals.config
 
     w2v = Word2Vec.init_from_config(config_options)
