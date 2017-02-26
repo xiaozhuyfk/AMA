@@ -202,7 +202,6 @@ if __name__ == '__main__':
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles.xml"
     prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
     count = 0
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
             title = elem.find(prefix + "title")
@@ -213,7 +212,7 @@ if __name__ == '__main__':
             sentences = [s for p in sentences for s in p]
             for sent in sentences:
                 print "-----YOYOY-----", sent
-            if title.text == "Anachism":
+            if title.text == "Anarchism":
                 break
     #wiki = WikiAPIExtractor(None)
     #print wiki.extract_test("Barack Obama")
