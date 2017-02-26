@@ -336,7 +336,7 @@ class Ranker(object):
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
             facts = json["facts"]
             for ie in facts:
-                subject = ie["subject"].lower()
+                subject = ie["subject"]
                 sid = ie["sid"].replace(".", "-")
                 modules.wiki_extractor.extract_wiki_page(dataset, query, subject, sid)
 
