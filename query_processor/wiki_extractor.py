@@ -6,6 +6,7 @@ import json
 import string
 import urllib2
 import requests
+import re
 from nltk.tokenize import sent_tokenize
 
 from util import (
