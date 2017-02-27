@@ -207,14 +207,18 @@ if __name__ == '__main__':
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
-            text = revision.find(prefix + "text").text
-            print text
+            text = revision.find(prefix + "text")
 
+            for ref in text.findall("ref"):
+                text.remove(ref)
+            print text.text
+
+            """
             ref_start = '&lt;ref&gt;'
             ref_end = '&lt;/ref&gt;'
             iter_start = list(re.finditer(re.compile(ref_start), text))
             iter_end = list(re.finditer(re.compile(ref_end), text))
-            #print iter_start, iter_end
+            print iter_start, iter_end
 
             replace = []
             assert(len(iter_start) == len(iter_end))
@@ -228,6 +232,7 @@ if __name__ == '__main__':
             for rep in replace:
                 text.replace(rep, "")
             #print text
+            """
 
 
             #paragraphs = text.strip().split("\n")
