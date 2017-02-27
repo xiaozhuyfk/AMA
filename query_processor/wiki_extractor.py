@@ -68,7 +68,7 @@ class WikiExtractor(object):
             ):
             if (event == 'end' and elem.tag[len(prefix):] == 'page'):
                 title = elem.find(prefix + "title").text.replace(' ', '_')
-                title = title.replace('/', '|')
+                title = title.replace('/', '|').encode('utf-8')
                 logger.info("Processing wiki page: %s", title)
                 title_path = self.title_dir + title
                 codecsWriteFile(title_path, "")
@@ -132,7 +132,7 @@ class WikiExtractor(object):
                         if not entity:
                             continue
                         filename = entity.replace(" ", "_")
-                        filepath = result_path + filename
+                        filepath = result_path + filename.encode('utf-8')
                         if os.path.isfile(filepath):
                             codecsWriteFile(filepath, sent + "\n", 'a')
                         else:
