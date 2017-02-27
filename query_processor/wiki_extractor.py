@@ -210,9 +210,10 @@ if __name__ == '__main__':
             text = revision.find(prefix + "text").text
 
             replace = []
+            print type(text)
             for part in re.split('</ref>|/>', text):
-                print part
-                print
+                #print part
+                #print
                 idx = part.find('<ref')
                 if idx:
                     replace.append(part[idx:])
