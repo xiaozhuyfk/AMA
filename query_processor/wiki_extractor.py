@@ -211,8 +211,6 @@ if __name__ == '__main__':
 
             replace = []
             for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
-                print part
-                print
                 idx = part.find('<ref')
                 if idx:
                     replace.append(part[idx:])
@@ -232,9 +230,9 @@ if __name__ == '__main__':
                 print
                 replace.append(text[start:end])
             """
-            #for rep in replace:
-            #    text = text.replace(rep, "")
-            #print text
+            for rep in replace:
+                text = text.replace(rep, "")
+            print text
 
 
             #paragraphs = text.strip().split("\n")
