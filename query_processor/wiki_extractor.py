@@ -210,7 +210,7 @@ if __name__ == '__main__':
             text = revision.find(prefix + "text")
 
             for e in text.iter():
-                print e.text
+                print e.tag
 
             #for ref in text.findall("ref"):
             #    text.remove(ref)
