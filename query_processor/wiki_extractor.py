@@ -99,8 +99,6 @@ class WikiExtractor(object):
                 sentences = [tokenizer.tokenize(p) for p in paragraphs if p]
                 sentences = [s for p in sentences for s in p]
 
-                for sent in sentences:
-
 
     def extract_wiki_page(self, dataset, query, subject):
         logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
