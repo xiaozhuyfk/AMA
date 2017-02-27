@@ -208,6 +208,7 @@ if __name__ == '__main__':
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text").text[:1000]
+            print text
             ref_start = '&lt;ref&gt;'
             ref_end = '&lt;/ref&gt;'
 
