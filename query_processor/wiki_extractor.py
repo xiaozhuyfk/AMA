@@ -206,7 +206,7 @@ if __name__ == '__main__':
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
-            text = revision.find(prefix + "text")
+            text = revision.find(prefix + "text").text
             ref_start = '&lt;ref&gt;'
             ref_end = '&lt;/ref&gt;'
 
@@ -222,7 +222,7 @@ if __name__ == '__main__':
             sentences = [s for p in sentences for s in p]
             #for sent in sentences:
             #    print "-----YOYOY-----", sent
-            print text
+            print text.
             if title.text == "Anarchism":
                 break
     #wiki = WikiAPIExtractor(None)
