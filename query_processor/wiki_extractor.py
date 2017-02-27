@@ -31,6 +31,7 @@ class WikiExtractor(object):
 
         self.file_pattern = self.enwiki_dir + "enwiki-latest-pages-articles%d.xml"
         self.support_dir = config_options.get('Wiki', 'support-sentence-dir')
+        self.title_dir = config_options.get('Wiki', 'title-sentence-dir')
 
     @staticmethod
     def init_from_config(config_options):
@@ -64,7 +65,10 @@ class WikiExtractor(object):
                 events=('start', 'end', 'start-ns', 'end-ns')
             ):
             if (event == 'end' and elem.tag[len(prefix):] == 'page'):
-                title = elem.find(prefix + "title")
+                title = elem.find(prefix + "title").replace(' ', '_')
+                title_path = self.title_dir + title
+                codecsWriteFile(title_path, "")
+
                 revision = elem.find(prefix + "revision")
                 text = revision.find(prefix + "text")
 
@@ -119,6 +123,7 @@ class WikiExtractor(object):
                             codecsWriteFile(filepath, sent + "\n", 'a')
                         else:
                             codecsWriteFile(filepath, sent + "\n")
+                    codecsWriteFile(title_path, sent + "\n", 'a')
 
     def extract_wiki_page(self, dataset, query, subject):
         logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
