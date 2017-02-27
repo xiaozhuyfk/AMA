@@ -55,6 +55,7 @@ class WikiExtractor(object):
         codecsWriteFile(path, text)
 
     def extract_support_sentence(self, idx):
+        prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
         xml_path = self.file_pattern % idx
         result_path = self.support_dir + str(idx) + '/'
         if not os.path.exists(result_path):
