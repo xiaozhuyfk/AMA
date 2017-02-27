@@ -209,9 +209,12 @@ if __name__ == '__main__':
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text")
 
-            for ref in text.findall("ref"):
-                text.remove(ref)
-            print text.text
+            for e in text.iter():
+                print e.text
+
+            #for ref in text.findall("ref"):
+            #    text.remove(ref)
+            #print text.text
 
             """
             ref_start = '&lt;ref&gt;'
