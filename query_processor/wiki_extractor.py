@@ -216,7 +216,13 @@ if __name__ == '__main__':
                     content += part[:idx]
                 else:
                     content += part
-            print content
+
+            paragraphs = content.strip().split("\n")
+            sentences = [sent_tokenize(p) for p in paragraphs if p]
+            sentences = [s for p in sentences for s in p]
+            for sent in sentences:
+                print sent
+
             """
             ref_start = ur'<ref'
             ref_end = ur'</ref>|/>'
@@ -237,12 +243,6 @@ if __name__ == '__main__':
             #    text = text.replace(rep, "")
             #print text
 
-
-            #paragraphs = text.strip().split("\n")
-            #sentences = [sent_tokenize(p) for p in paragraphs if p]
-            #sentences = [s for p in sentences for s in p]
-            #for sent in sentences:
-            #    print "-----YOYOY-----", sent
             if title.text == "Anarchism":
                 break
     #wiki = WikiAPIExtractor(None)
