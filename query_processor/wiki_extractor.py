@@ -207,11 +207,12 @@ if __name__ == '__main__':
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
-            text = revision.find(prefix + "text").text[:1000]
+            text = revision.find(prefix + "text").text
             print text
+            break
+
             ref_start = '&lt;ref&gt;'
             ref_end = '&lt;/ref&gt;'
-
             iter_start = list(re.finditer(re.compile(ref_start), text))
             iter_end = list(re.finditer(re.compile(ref_end), text))
             print iter_start, iter_end
