@@ -207,13 +207,13 @@ if __name__ == '__main__':
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
-            text = str(revision.find(prefix + "text").text)
+            text = revision.find(prefix + "text").text
 
             replace = []
             print type(text)
-            for part in re.split('</ref>|/>', text):
-                #print part
-                #print
+            for part in re.split(ur'</ref>|/>', text):
+                print part
+                print
                 idx = part.find('<ref')
                 if idx:
                     replace.append(part[idx:])
