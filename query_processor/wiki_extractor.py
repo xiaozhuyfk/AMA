@@ -213,6 +213,7 @@ if __name__ == '__main__':
 
             iter_start = list(re.finditer(re.compile(ref_start), text))
             iter_end = list(re.finditer(re.compile(ref_end), text))
+            print len(iter_start)
 
             """
             find_start = text.find(ref_start)
