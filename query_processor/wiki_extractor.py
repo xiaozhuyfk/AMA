@@ -209,13 +209,12 @@ if __name__ == '__main__':
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text").text
             print text
-            break
 
             ref_start = '&lt;ref&gt;'
             ref_end = '&lt;/ref&gt;'
             iter_start = list(re.finditer(re.compile(ref_start), text))
             iter_end = list(re.finditer(re.compile(ref_end), text))
-            print iter_start, iter_end
+            #print iter_start, iter_end
 
             replace = []
             assert(len(iter_start) == len(iter_end))
