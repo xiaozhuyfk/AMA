@@ -100,7 +100,7 @@ class WikiExtractor(object):
                         content += part
                 text = content
 
-                paragraphs = text.text.strip().split("\n")
+                paragraphs = text.strip().split("\n")
                 sentences = [sent_tokenize(p) for p in paragraphs if p]
                 sentences = [s for p in sentences for s in p]
 
