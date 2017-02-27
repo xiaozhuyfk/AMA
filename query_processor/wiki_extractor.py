@@ -207,7 +207,7 @@ if __name__ == '__main__':
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
-            text = revision.find(prefix + "text").text[:6000]
+            text = revision.find(prefix + "text").text
 
             replace = []
             for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
