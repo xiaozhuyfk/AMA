@@ -283,7 +283,7 @@ if __name__ == '__main__':
                 for occur in sent.split("[[")[1:]:
                     idx = occur.find("]]")
                     entity = occur[:idx]
-                    if ("File:" in entity or "Image:" in entity):
+                    if ("File:" in entity or "Image:" in entity or "Category:" in entity):
                         continue
                     if ('|' in entity):
                         entity = entity[:entity.find('|')]
