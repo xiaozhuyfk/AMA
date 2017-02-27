@@ -212,10 +212,12 @@ if __name__ == '__main__':
             content = ""
             for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
                 idx = part.find('<ref')
-                assert(idx != -1)
-                content += part[:idx]
+                if idx:
+                    content += part[:idx]
+                else:
+                    print part
 
-            print content
+            #print content
             """
             ref_start = ur'<ref'
             ref_end = ur'</ref>|/>'
