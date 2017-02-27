@@ -209,31 +209,30 @@ if __name__ == '__main__':
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text").text
 
+            """
             replace = []
-            print type(text)
             for part in re.split(ur'</ref>|/>', text):
                 print part
                 print
                 idx = part.find('<ref')
                 if idx:
                     replace.append(part[idx:])
-
             """
-            ref_start = '&lt;ref&gt;'
-            ref_end = '&lt;/ref&gt;'
+            ref_start = '<ref'
+            ref_end = '</ref>|/>'
             iter_start = list(re.finditer(re.compile(ref_start), text))
             iter_end = list(re.finditer(re.compile(ref_end), text))
-            print iter_start, iter_end
 
             replace = []
             assert(len(iter_start) == len(iter_end))
+
             for i in xrange(len(iter_start)):
                 start = iter_start[i].start(0)
                 end = iter_end[i].end(0)
-                print start, end
                 print text[start:end]
+                print
                 replace.append(text[start:end])
-            """
+
             #for rep in replace:
             #    text = text.replace(rep, "")
             #print text
