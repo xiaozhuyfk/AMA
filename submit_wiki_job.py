@@ -1,6 +1,6 @@
 import subprocess
 
-def SubmitOneJob(self, idx):
+def SubmitOneJob(idx):
     lCmd = [
         '/bos/usr0/suruchis/Files/qsub',
         'python -m query_processor.rank_learner wiki %d' % idx
