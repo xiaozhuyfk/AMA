@@ -263,6 +263,18 @@ if __name__ == '__main__':
                     content += part
             text = content
 
+            content = ""
+            for part in re.split(ur']]', text, flags=re.UNICODE):
+                idx1 = part.find('[[File:')
+                idx2 = part.find('[[Image:')
+                if idx1 >= 0:
+                    content += part[:idx1]
+                elif idx2 >= 0:
+                    content += part[:idx2]
+                else:
+                    content += part
+            text = content
+
             paragraphs = content.strip().split("\n")
             sentences = [sent_tokenize(p) for p in paragraphs if p]
             sentences = [s for p in sentences for s in p]
