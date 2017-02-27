@@ -207,10 +207,13 @@ if __name__ == '__main__':
         if (event == 'end' and elem.tag[len(prefix):] == 'page'):
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
-            text = revision.find(prefix + "text")
+            text = revision.find(prefix + "text").text
 
-            for e in text.iter():
-                print e.tag
+            replace = []
+            for part in re.split('<ref/>|/>', text):
+                idx = part.find('<ref')
+                if idx:
+                    replace.append(part[idx:])
 
             #for ref in text.findall("ref"):
             #    text.remove(ref)
@@ -231,11 +234,10 @@ if __name__ == '__main__':
                 print start, end
                 print text[start:end]
                 replace.append(text[start:end])
-
+            """
             for rep in replace:
                 text.replace(rep, "")
-            #print text
-            """
+            print text
 
 
             #paragraphs = text.strip().split("\n")
