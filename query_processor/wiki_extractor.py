@@ -224,7 +224,7 @@ if __name__ == '__main__':
             """
 
             replace = []
-            assert(len(iter_start) == len(iter_end))
+            #assert(len(iter_start) == len(iter_end))
             for i in xrange(len(iter_start)):
                 start = iter_start[i].start(0)
                 end = iter_end[i].end(0)
