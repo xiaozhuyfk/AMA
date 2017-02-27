@@ -209,9 +209,8 @@ if __name__ == '__main__':
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text").text
 
-            """
             replace = []
-            for part in re.split(ur'</ref>|/>', text):
+            for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
                 print part
                 print
                 idx = part.find('<ref')
@@ -232,7 +231,7 @@ if __name__ == '__main__':
                 print text[start:end]
                 print
                 replace.append(text[start:end])
-
+            """
             #for rep in replace:
             #    text = text.replace(rep, "")
             #print text
