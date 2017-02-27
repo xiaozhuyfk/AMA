@@ -212,6 +212,7 @@ if __name__ == '__main__':
             replace = []
             for part in re.split('</ref>|/>', text):
                 print part
+                print
                 idx = part.find('<ref')
                 if idx:
                     replace.append(part[idx:])
