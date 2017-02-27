@@ -67,6 +67,7 @@ class WikiExtractor(object):
             ):
             if (event == 'end' and elem.tag[len(prefix):] == 'page'):
                 title = elem.find(prefix + "title").text.replace(' ', '_')
+                logger.info("Processing wiki page: %s", title)
                 title_path = self.title_dir + title
                 codecsWriteFile(title_path, "")
 
