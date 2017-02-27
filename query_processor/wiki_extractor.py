@@ -71,7 +71,7 @@ class WikiExtractor(object):
                 codecsWriteFile(title_path, "")
 
                 revision = elem.find(prefix + "revision")
-                text = revision.find(prefix + "text")
+                text = revision.find(prefix + "text").text
 
                 content = ""
                 for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
