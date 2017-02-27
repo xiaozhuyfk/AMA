@@ -99,11 +99,8 @@ class WikiExtractor(object):
                 sentences = [tokenizer.tokenize(p) for p in paragraphs if p]
                 sentences = [s for p in sentences for s in p]
 
-                for object in candidate.objects:
-                    d[object] = []
-                    for sent in sentences:
-                        if subject in sent and object in sent:
-                            d[object].append(sent)
+                for sent in sentences:
+
 
     def extract_wiki_page(self, dataset, query, subject):
         logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
@@ -267,6 +264,11 @@ if __name__ == '__main__':
             sentences = [sent_tokenize(p) for p in paragraphs if p]
             sentences = [s for p in sentences for s in p]
             for sent in sentences:
+                if ("[[" not in sent and "]]" not in sent):
+                    continue
+                for occur in sent.split("[[")[1:]:
+                    idx = occur.find("]]")
+                    print "[[" + occur[:idx] + "]]",
                 print sent
 
             """
