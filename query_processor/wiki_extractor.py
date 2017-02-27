@@ -124,6 +124,8 @@ class WikiExtractor(object):
                         entities.append(entity)
 
                     for entity in entities:
+                        if not entity:
+                            continue
                         filename = entity.replace(" ", "_")
                         filepath = result_path + filename
                         if os.path.isfile(filepath):
