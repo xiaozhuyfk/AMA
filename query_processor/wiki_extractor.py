@@ -211,6 +211,7 @@ if __name__ == '__main__':
 
             replace = []
             for part in re.split('</ref>|/>', text):
+                print part
                 idx = part.find('<ref')
                 if idx:
                     replace.append(part[idx:])
@@ -231,9 +232,9 @@ if __name__ == '__main__':
                 print text[start:end]
                 replace.append(text[start:end])
             """
-            for rep in replace:
-                text = text.replace(rep, "")
-            print text
+            #for rep in replace:
+            #    text = text.replace(rep, "")
+            #print text
 
 
             #paragraphs = text.strip().split("\n")
