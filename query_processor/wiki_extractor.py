@@ -197,8 +197,6 @@ class WikiAPIExtractor(object):
         return sentences
 
 
-
-
 if __name__ == '__main__':
     abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles1.xml"
     prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
@@ -216,6 +214,16 @@ if __name__ == '__main__':
                     content += part[:idx]
                 else:
                     content += part
+            text = content
+
+            content = ""
+            for part in re.split(ur'}}', text, flags=re.UNICODE):
+                idx = part.find('{{')
+                if idx >= 0:
+                    content += part[:idx]
+                else:
+                    content += part
+            text = content
 
             paragraphs = content.strip().split("\n")
             sentences = [sent_tokenize(p) for p in paragraphs if p]
