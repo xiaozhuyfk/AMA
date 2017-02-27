@@ -89,8 +89,32 @@ edges = [
 
 result_file = "../testresult/dump/pairs"
 
+def extract_wikiurl():
+    dump = '/home/hongyul/AMA/freebase_dump/freebase-rdf-latest.gz'
+    result_path = '/home/hongyul/AMA/freebase_dump/wikiurl'
+    writeFile(result_path, "")
+    reader = FreebaseDumpReaderC()
+    reader.open(dump)
+    Parser = FreebaseDumpParserC()
+    d = {}
+
+    for cnt,lvCol in enumerate(reader):
+
+        if 0 == (cnt % 1000):
+            print 'read [%d] obj' %(cnt)
+
+        ObjId = Parser.GetObjId(lvCol)
+        wiki_url = Parser.GetWikiUrl(lvCol)
+
+        if ObjId and wiki_url:
+            content = "\t".join([ObjId] + wiki_url) + "\n"
+            writeFile(result_path, content, "a")
+
+    print 'finished'
+    return
+
 def test():
-    file = "/data/freebase-rdf-latest.gz"
+    file = "/home/hongyul/AMA/freebase_dump/freebase-rdf-latest.gz"
     reader = FreebaseDumpReaderC()
     reader.open(file)
     Parser = FreebaseDumpParserC()
@@ -120,7 +144,7 @@ def test():
                 print e2
 
 
-test()
+extract_wikiurl()
 
 
 

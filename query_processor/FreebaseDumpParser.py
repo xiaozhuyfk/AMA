@@ -39,8 +39,8 @@ class FreebaseDumpParserC(object):
         mid = col.strip("<").strip(">")
         vCol = mid.split("/")
         target = vCol[len(vCol)-1]
-        #return '/' + target.replace('.','/')
-        return target
+        return '/' + target.replace('.','/')
+        #return target
 
     @staticmethod
     def GetIdForCol(col):
