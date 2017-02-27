@@ -245,7 +245,6 @@ def split_into_sentences(text):
     text = re.sub(" "+suffixes+"[.] "+starters," \\1<stop> \\2",text)
     text = re.sub(" "+suffixes+"[.]"," \\1<prd>",text)
     text = re.sub(" " + caps + "[.]"," \\1<prd>",text)
-    if "”" in text: text = text.replace(".”","”.")
     if "\"" in text: text = text.replace(".\"","\".")
     if "!" in text: text = text.replace("!\"","\"!")
     if "?" in text: text = text.replace("?\"","\"?")
