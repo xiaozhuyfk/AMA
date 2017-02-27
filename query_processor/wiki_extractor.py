@@ -55,7 +55,9 @@ class WikiExtractor(object):
 
     def extract_support_sentence(self, idx):
         xml_path = self.file_pattern % idx
-        result_path = self.support_dir + str(idx)
+        result_path = self.support_dir + str(idx) + '/'
+        if not os.path.exists(result_path):
+            os.makedirs(result_path)
 
         for event, elem in etree.iterparse(
                 xml_path,
@@ -65,6 +67,33 @@ class WikiExtractor(object):
                 title = elem.find(prefix + "title")
                 revision = elem.find(prefix + "revision")
                 text = revision.find(prefix + "text")
+
+                content = ""
+                for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
+                    idx = part.find('<ref')
+                    if idx >= 0:
+                        content += part[:idx]
+                    else:
+                        content += part
+                text = content
+
+                content = ""
+                for part in re.split(ur'}}', text, flags=re.UNICODE):
+                    idx = part.find('{{')
+                    if idx >= 0:
+                        content += part[:idx]
+                    else:
+                        content += part
+                text = content
+
+                content = ""
+                for part in re.split(ur'-->', text, flags=re.UNICODE):
+                    idx = part.find('<!--')
+                    if idx >= 0:
+                        content += part[:idx]
+                    else:
+                        content += part
+                text = content
 
                 paragraphs = text.text.strip().split("\n")
                 sentences = [tokenizer.tokenize(p) for p in paragraphs if p]
@@ -219,6 +248,15 @@ if __name__ == '__main__':
             content = ""
             for part in re.split(ur'}}', text, flags=re.UNICODE):
                 idx = part.find('{{')
+                if idx >= 0:
+                    content += part[:idx]
+                else:
+                    content += part
+            text = content
+
+            content = ""
+            for part in re.split(ur'-->', text, flags=re.UNICODE):
+                idx = part.find('<!--')
                 if idx >= 0:
                     content += part[:idx]
                 else:
