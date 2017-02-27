@@ -218,8 +218,8 @@ if __name__ == '__main__':
                 if idx:
                     replace.append(part[idx:])
             """
-            ref_start = '<ref'
-            ref_end = '</ref>|/>'
+            ref_start = ur'<ref'
+            ref_end = ur'</ref>|/>'
             iter_start = list(re.finditer(re.compile(ref_start), text))
             iter_end = list(re.finditer(re.compile(ref_end), text))
 
