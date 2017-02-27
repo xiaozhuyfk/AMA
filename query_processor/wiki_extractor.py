@@ -106,14 +106,19 @@ class WikiExtractor(object):
                     for occur in sent.split("[[")[1:]:
                         idx = occur.find("]]")
                         entity = occur[:idx]
-                        if ("File:" in entity or "Image:" in entity):
+                        if ("File:" in entity or "Image:" in entity or "Category:" in entity):
                             continue
                         if ('|' in entity):
                             entity = entity[:entity.find('|')]
                         entities.append(entity)
-                    print " ".join(entities)
-                    print sent
 
+                    for entity in entities:
+                        filename = entity.replace(" ", "_")
+                        filepath = result_path + filename
+                        if os.path.isfile(filepath):
+                            codecsWriteFile(filepath, sent + "\n", 'a')
+                        else:
+                            codecsWriteFile(filepath, sent + "\n")
 
     def extract_wiki_page(self, dataset, query, subject):
         logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
@@ -288,7 +293,11 @@ if __name__ == '__main__':
                     if ('|' in entity):
                         entity = entity[:entity.find('|')]
                     entities.append(entity)
-                print " ".join(entities)
+
+                for entity in entities:
+                    filename = entity.replace(" ", "_")
+                    print filename,
+                print
                 print sent
 
             """
