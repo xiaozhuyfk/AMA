@@ -209,13 +209,13 @@ if __name__ == '__main__':
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text").text
 
-            replace = []
+            content = ""
             for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
                 idx = part.find('<ref')
-                if idx:
-                    print part[idx:]
-                    print
-                    replace.append(part[idx:])
+                assert(idx != -1)
+                content += part[:idx]
+
+            print content
             """
             ref_start = ur'<ref'
             ref_end = ur'</ref>|/>'
