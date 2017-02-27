@@ -207,6 +207,16 @@ if __name__ == '__main__':
             title = elem.find(prefix + "title")
             revision = elem.find(prefix + "revision")
             text = revision.find(prefix + "text")
+            ref_start = '&lt;ref&gt;'
+            ref_end = '&lt;/ref&gt;'
+
+            find_start = text.find(ref_start)
+            find_end = text.find(ref_end)
+            while (find_start):
+                text = text[:find_start] + text[find_end+11]
+                find_start = text.find(ref_start)
+                find_end = text.find(ref_end)
+
             paragraphs = text.text.strip().split("\n")
             sentences = [sent_tokenize(p) for p in paragraphs if p]
             sentences = [s for p in sentences for s in p]
