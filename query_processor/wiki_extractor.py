@@ -210,7 +210,7 @@ if __name__ == '__main__':
             text = revision.find(prefix + "text").text
 
             content = ""
-            for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
+            for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE)[1:-1]:
                 idx = part.find('<ref')
                 if idx >= 0:
                     content += part[:idx]
