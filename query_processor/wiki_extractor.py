@@ -210,19 +210,12 @@ if __name__ == '__main__':
             text = revision.find(prefix + "text").text
 
             replace = []
-            for part in re.split('<ref/>|/>', text):
-                print part
-                print
-
-                #idx = part.find('<ref')
-                #if idx:
-                #    print part[idx:]
-                #    print
-                #    replace.append(part[idx:])
-
-            #for ref in text.findall("ref"):
-            #    text.remove(ref)
-            #print text.text
+            for part in re.split('</ref>|/>', text):
+                idx = part.find('<ref')
+                if idx:
+                    print part[idx:]
+                    print
+                    replace.append(part[idx:])
 
             """
             ref_start = '&lt;ref&gt;'
@@ -242,7 +235,7 @@ if __name__ == '__main__':
             """
             for rep in replace:
                 text = text.replace(rep, "")
-            #print text
+            print text
 
 
             #paragraphs = text.strip().split("\n")
