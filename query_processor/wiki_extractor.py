@@ -210,19 +210,34 @@ if __name__ == '__main__':
             ref_start = '&lt;ref&gt;'
             ref_end = '&lt;/ref&gt;'
 
+            iter_start = list(re.finditer(re.compile(ref_start), text))
+            iter_end = list(re.finditer(re.compile(ref_end), text))
+
+            """
             find_start = text.find(ref_start)
             find_end = text.find(ref_end)
             while (find_start):
                 text = text[:find_start] + text[find_end+11]
                 find_start = text.find(ref_start)
                 find_end = text.find(ref_end)
+            """
 
-            paragraphs = text.text.strip().split("\n")
-            sentences = [sent_tokenize(p) for p in paragraphs if p]
-            sentences = [s for p in sentences for s in p]
+            replace = []
+            assert(len(iter_start) == len(iter_end))
+            for i in xrange(len(iter_start)):
+                start = iter_start[i].start(0)
+                end = iter_end[i].end(0)
+                replace.append(text[start:end])
+            for rep in replace:
+                text.replace(rep, "")
+            print text
+
+
+            #paragraphs = text.strip().split("\n")
+            #sentences = [sent_tokenize(p) for p in paragraphs if p]
+            #sentences = [s for p in sentences for s in p]
             #for sent in sentences:
             #    print "-----YOYOY-----", sent
-            print text
             if title.text == "Anarchism":
                 break
     #wiki = WikiAPIExtractor(None)
