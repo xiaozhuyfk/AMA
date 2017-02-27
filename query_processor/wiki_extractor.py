@@ -213,6 +213,8 @@ if __name__ == '__main__':
             for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
                 idx = part.find('<ref')
                 if idx:
+                    print part[idx:]
+                    print
                     replace.append(part[idx:])
             """
             ref_start = ur'<ref'
