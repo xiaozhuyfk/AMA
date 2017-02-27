@@ -234,7 +234,7 @@ if __name__ == '__main__':
             """
             for rep in replace:
                 text = text.replace(rep, "")
-            print text
+            #print text
 
 
             #paragraphs = text.strip().split("\n")
