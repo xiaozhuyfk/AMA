@@ -96,8 +96,23 @@ class WikiExtractor(object):
                 text = content
 
                 paragraphs = text.text.strip().split("\n")
-                sentences = [tokenizer.tokenize(p) for p in paragraphs if p]
+                sentences = [sent_tokenize(p) for p in paragraphs if p]
                 sentences = [s for p in sentences for s in p]
+
+                for sent in sentences:
+                    if ("[[" not in sent and "]]" not in sent):
+                        continue
+                    entities = []
+                    for occur in sent.split("[[")[1:]:
+                        idx = occur.find("]]")
+                        entity = occur[:idx]
+                        if ("File:" in entity or "Image:" in entity):
+                            continue
+                        if ('|' in entity):
+                            entity = entity[:entity.find('|')]
+                        entities.append(entity)
+                    print " ".join(entities)
+                    print sent
 
 
     def extract_wiki_page(self, dataset, query, subject):
