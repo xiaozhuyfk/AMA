@@ -4,6 +4,7 @@ import json
 def SubmitOneJob(idx):
     lCmd = [
         '/bos/usr0/suruchis/Files/qsub',
+        '-log '
         'python -m query_processor.rank_learner wiki %d' % idx
     ]
     CondorOut = subprocess.check_output(lCmd)
