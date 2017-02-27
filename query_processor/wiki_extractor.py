@@ -267,6 +267,7 @@ if __name__ == '__main__':
                 for occur in sent.split("[[")[1:]:
                     idx = occur.find("]]")
                     print "[[" + occur[:idx] + "]]",
+                print
                 print sent
 
             """
