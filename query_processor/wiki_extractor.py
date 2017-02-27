@@ -220,8 +220,9 @@ if __name__ == '__main__':
             paragraphs = text.text.strip().split("\n")
             sentences = [sent_tokenize(p) for p in paragraphs if p]
             sentences = [s for p in sentences for s in p]
-            for sent in sentences:
-                print "-----YOYOY-----", sent
+            #for sent in sentences:
+            #    print "-----YOYOY-----", sent
+            print text
             if title.text == "Anarchism":
                 break
     #wiki = WikiAPIExtractor(None)
