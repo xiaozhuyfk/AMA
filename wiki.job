@@ -1,0 +1,191 @@
+Universe = vanilla
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 1
+output = /home/hongyul/condor/condor1.job.out
+log = /tmp/hongyul1.job.log
+error = /home/hongyul/condor/condor1.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 2
+output = /home/hongyul/condor/condor2.job.out
+log = /tmp/hongyul2.job.log
+error = /home/hongyul/condor/condor2.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 3
+output = /home/hongyul/condor/condor3.job.out
+log = /tmp/hongyul3.job.log
+error = /home/hongyul/condor/condor3.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 4
+output = /home/hongyul/condor/condor4.job.out
+log = /tmp/hongyul4.job.log
+error = /home/hongyul/condor/condor4.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 5
+output = /home/hongyul/condor/condor5.job.out
+log = /tmp/hongyul5.job.log
+error = /home/hongyul/condor/condor5.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 6
+output = /home/hongyul/condor/condor6.job.out
+log = /tmp/hongyul6.job.log
+error = /home/hongyul/condor/condor6.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 7
+output = /home/hongyul/condor/condor7.job.out
+log = /tmp/hongyul7.job.log
+error = /home/hongyul/condor/condor7.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 8
+output = /home/hongyul/condor/condor8.job.out
+log = /tmp/hongyul8.job.log
+error = /home/hongyul/condor/condor8.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 9
+output = /home/hongyul/condor/condor9.job.out
+log = /tmp/hongyul9.job.log
+error = /home/hongyul/condor/condor9.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 10
+output = /home/hongyul/condor/condor10.job.out
+log = /tmp/hongyul10.job.log
+error = /home/hongyul/condor/condor10.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 11
+output = /home/hongyul/condor/condor11.job.out
+log = /tmp/hongyul11.job.log
+error = /home/hongyul/condor/condor11.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 12
+output = /home/hongyul/condor/condor12.job.out
+log = /tmp/hongyul12.job.log
+error = /home/hongyul/condor/condor12.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 13
+output = /home/hongyul/condor/condor13.job.out
+log = /tmp/hongyul13.job.log
+error = /home/hongyul/condor/condor13.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 14
+output = /home/hongyul/condor/condor14.job.out
+log = /tmp/hongyul14.job.log
+error = /home/hongyul/condor/condor14.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 15
+output = /home/hongyul/condor/condor15.job.out
+log = /tmp/hongyul15.job.log
+error = /home/hongyul/condor/condor15.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 16
+output = /home/hongyul/condor/condor16.job.out
+log = /tmp/hongyul16.job.log
+error = /home/hongyul/condor/condor16.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 17
+output = /home/hongyul/condor/condor17.job.out
+log = /tmp/hongyul17.job.log
+error = /home/hongyul/condor/condor17.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 18
+output = /home/hongyul/condor/condor18.job.out
+log = /tmp/hongyul18.job.log
+error = /home/hongyul/condor/condor18.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 19
+output = /home/hongyul/condor/condor19.job.out
+log = /tmp/hongyul19.job.log
+error = /home/hongyul/condor/condor19.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 20
+output = /home/hongyul/condor/condor20.job.out
+log = /tmp/hongyul20.job.log
+error = /home/hongyul/condor/condor20.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 21
+output = /home/hongyul/condor/condor21.job.out
+log = /tmp/hongyul21.job.log
+error = /home/hongyul/condor/condor21.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 22
+output = /home/hongyul/condor/condor22.job.out
+log = /tmp/hongyul22.job.log
+error = /home/hongyul/condor/condor22.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 23
+output = /home/hongyul/condor/condor23.job.out
+log = /tmp/hongyul23.job.log
+error = /home/hongyul/condor/condor23.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 24
+output = /home/hongyul/condor/condor24.job.out
+log = /tmp/hongyul24.job.log
+error = /home/hongyul/condor/condor24.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 25
+output = /home/hongyul/condor/condor25.job.out
+log = /tmp/hongyul25.job.log
+error = /home/hongyul/condor/condor25.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 26
+output = /home/hongyul/condor/condor26.job.out
+log = /tmp/hongyul26.job.log
+error = /home/hongyul/condor/condor26.job.err
+queue
+
+executable = /home/hongyul/AMA/wiki.sh
+arguments = 27
+output = /home/hongyul/condor/condor27.job.out
+log = /tmp/hongyul27.job.log
+error = /home/hongyul/condor/condor27.job.err
+queue
+

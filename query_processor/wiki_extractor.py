@@ -55,6 +55,7 @@ class WikiExtractor(object):
         codecsWriteFile(path, text)
 
     def extract_support_sentence(self, idx):
+        logger.info("Start extracting support sentences for partition %d", idx)
         prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
         xml_path = self.file_pattern % idx
         result_path = self.support_dir + str(idx) + '/'
@@ -133,6 +134,7 @@ class WikiExtractor(object):
                         else:
                             codecsWriteFile(filepath, sent + "\n")
                     codecsWriteFile(title_path, sent + "\n", 'a')
+        logger.info("Finished extracting support sentences for partition %d", idx)
 
     def extract_wiki_page(self, dataset, query, subject):
         logger.info("Extracting wiki from question %d: %s" % (query.id, query.utterance))
