@@ -133,17 +133,11 @@ class WikiExtractor(object):
                             continue
                         filename = entity.replace(" ", "_")
                         filepath = result_path + filename
-                        try:
-                            if os.path.isfile(filepath):
-                                codecsWriteFile(filepath, sent + "\n", 'a')
-                            else:
-                                codecsWriteFile(filepath, sent + "\n")
-                        except:
-                            logger.info("Error writing support sentence to file")
-                    try:
-                        codecsWriteFile(title_path, sent + "\n", 'a')
-                    except:
-                        logger.info("Error writing title sentence: %s", title)
+                        if os.path.isfile(filepath):
+                            codecsWriteFile(filepath, sent + "\n", 'a')
+                        else:
+                            codecsWriteFile(filepath, sent + "\n")
+                    codecsWriteFile(title_path, sent + "\n", 'a')
         logger.info("Finished extracting support sentences for partition %d", idx)
 
     def extract_wiki_page(self, dataset, query, subject):
