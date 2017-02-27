@@ -279,10 +279,16 @@ if __name__ == '__main__':
             for sent in sentences:
                 if ("[[" not in sent and "]]" not in sent):
                     continue
+                entities = []
                 for occur in sent.split("[[")[1:]:
                     idx = occur.find("]]")
-                    print "[[" + occur[:idx] + "]]",
-                print
+                    entity = occur[:idx]
+                    if ("File:" in entity or "Image:" in entity):
+                        continue
+                    if ('|' in entity):
+                        entity = entity[:entity.find('|')]
+                    entities.append(entity)
+                print " ".join(entities)
                 print sent
 
             """
