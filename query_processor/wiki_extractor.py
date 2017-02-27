@@ -67,77 +67,81 @@ class WikiExtractor(object):
                 events=('start', 'end', 'start-ns', 'end-ns')
             ):
             if (event == 'end' and elem.tag[len(prefix):] == 'page'):
-                title = elem.find(prefix + "title").text.replace(' ', '_')
-                title = title.replace('/', '|').encode('utf-8')
-                logger.info("Processing wiki page: %s", title)
-                title_path = self.title_dir + title
-                codecsWriteFile(title_path, "")
 
-                revision = elem.find(prefix + "revision")
-                text = revision.find(prefix + "text").text
+                try:
+                    title = elem.find(prefix + "title").text.replace(' ', '_')
+                    title = title.replace('/', '|').encode('utf-8')
+                    logger.info("Processing wiki page: %s", title)
+                    title_path = self.title_dir + title
+                    codecsWriteFile(title_path, "")
 
-                content = ""
-                for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
-                    idx = part.find('<ref')
-                    if idx >= 0:
-                        content += part[:idx]
-                    else:
-                        content += part
-                text = content
+                    revision = elem.find(prefix + "revision")
+                    text = revision.find(prefix + "text").text
 
-                content = ""
-                for part in re.split(ur'}}', text, flags=re.UNICODE):
-                    idx = part.find('{{')
-                    if idx >= 0:
-                        content += part[:idx]
-                    else:
-                        content += part
-                text = content
-
-                content = ""
-                for part in re.split(ur'-->', text, flags=re.UNICODE):
-                    idx = part.find('<!--')
-                    if idx >= 0:
-                        content += part[:idx]
-                    else:
-                        content += part
-                text = content
-
-                paragraphs = text.strip().split("\n")
-                sentences = [sent_tokenize(p) for p in paragraphs if p]
-                sentences = [s for p in sentences for s in p]
-
-                for sent in sentences:
-                    if ("[[" not in sent and "]]" not in sent):
-                        continue
-                    entities = []
-                    for occur in sent.split("[[")[1:]:
-                        idx = occur.find("]]")
-                        entity = occur[:idx]
-                        if ("File:" in entity or
-                            "Image:" in entity or
-                            "Category:" in entity or
-                            "Wikipedia:" in entity or
-                            "Template:" in entity):
-                            continue
-                        if ('|' in entity):
-                            entity = entity[:entity.find('|')]
-                        if ('#' in entity):
-                            entity = entity[:entity.find('#')]
-                        if ('/' in entity):
-                            entity = entity.replace('/', '|')
-                        entities.append(entity)
-
-                    for entity in entities:
-                        if not entity:
-                            continue
-                        filename = entity.replace(" ", "_")
-                        filepath = result_path + filename.encode('utf-8')
-                        if os.path.isfile(filepath):
-                            codecsWriteFile(filepath, sent + "\n", 'a')
+                    content = ""
+                    for part in re.split(ur'</ref>|/>', text, flags=re.UNICODE):
+                        idx = part.find('<ref')
+                        if idx >= 0:
+                            content += part[:idx]
                         else:
-                            codecsWriteFile(filepath, sent + "\n")
-                    codecsWriteFile(title_path, sent + "\n", 'a')
+                            content += part
+                    text = content
+
+                    content = ""
+                    for part in re.split(ur'}}', text, flags=re.UNICODE):
+                        idx = part.find('{{')
+                        if idx >= 0:
+                            content += part[:idx]
+                        else:
+                            content += part
+                    text = content
+
+                    content = ""
+                    for part in re.split(ur'-->', text, flags=re.UNICODE):
+                        idx = part.find('<!--')
+                        if idx >= 0:
+                            content += part[:idx]
+                        else:
+                            content += part
+                    text = content
+
+                    paragraphs = text.strip().split("\n")
+                    sentences = [sent_tokenize(p) for p in paragraphs if p]
+                    sentences = [s for p in sentences for s in p]
+
+                    for sent in sentences:
+                        if ("[[" not in sent and "]]" not in sent):
+                            continue
+                        entities = []
+                        for occur in sent.split("[[")[1:]:
+                            idx = occur.find("]]")
+                            entity = occur[:idx]
+                            if ("File:" in entity or
+                                "Image:" in entity or
+                                "Category:" in entity or
+                                "Wikipedia:" in entity or
+                                "Template:" in entity):
+                                continue
+                            if ('|' in entity):
+                                entity = entity[:entity.find('|')]
+                            if ('#' in entity):
+                                entity = entity[:entity.find('#')]
+                            if ('/' in entity):
+                                entity = entity.replace('/', '|')
+                            entities.append(entity)
+
+                        for entity in entities:
+                            if not entity:
+                                continue
+                            filename = entity.replace(" ", "_")
+                            filepath = result_path + filename.encode('utf-8')
+                            if os.path.isfile(filepath):
+                                codecsWriteFile(filepath, sent + "\n", 'a')
+                            else:
+                                codecsWriteFile(filepath, sent + "\n")
+                        codecsWriteFile(title_path, sent + "\n", 'a')
+                except:
+                    logger.info("Error processing")
         logger.info("Finished extracting support sentences for partition %d", idx)
 
     def extract_wiki_page(self, dataset, query, subject):
