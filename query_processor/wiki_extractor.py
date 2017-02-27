@@ -234,8 +234,8 @@ if __name__ == '__main__':
                 print
                 replace.append(text[start:end])
             """
-            for rep in replace:
-                text = text.replace(rep, "")
+            #for rep in replace:
+            #    text = text.replace(rep, "")
             #print text
 
 
