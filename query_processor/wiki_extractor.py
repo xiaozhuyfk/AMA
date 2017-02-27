@@ -127,7 +127,7 @@ class WikiAPIExtractor(object):
         self.config_options = config_options
         self.url = "https://en.wikipedia.org/w/api.php"
         self.wiki = "https://en.wikipedia.org/wiki/index.html"
-        #self.wiki_dir = config_options.get('Wiki', 'wiki-dir')
+        self.wiki_dir = config_options.get('Wiki', 'wiki-dir')
         self.tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
     @staticmethod
@@ -200,7 +200,7 @@ class WikiAPIExtractor(object):
 
 
 if __name__ == '__main__':
-    abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles.xml"
+    abstract_xml = "/home/hongyul/AMA/wiki/enwiki/enwiki-latest-pages-articles1.xml"
     prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
     count = 0
     for event, elem in etree.iterparse(abstract_xml, events=('start', 'end', 'start-ns', 'end-ns')):
@@ -213,16 +213,7 @@ if __name__ == '__main__':
 
             iter_start = list(re.finditer(re.compile(ref_start), text))
             iter_end = list(re.finditer(re.compile(ref_end), text))
-            print len(iter_start)
-
-            """
-            find_start = text.find(ref_start)
-            find_end = text.find(ref_end)
-            while (find_start):
-                text = text[:find_start] + text[find_end+11]
-                find_start = text.find(ref_start)
-                find_end = text.find(ref_end)
-            """
+            print iter_start, iter_end
 
             replace = []
             assert(len(iter_start) == len(iter_end))
