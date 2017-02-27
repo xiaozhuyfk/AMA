@@ -222,7 +222,7 @@ if __name__ == '__main__':
             sentences = [s for p in sentences for s in p]
             #for sent in sentences:
             #    print "-----YOYOY-----", sent
-            print text.
+            print text
             if title.text == "Anarchism":
                 break
     #wiki = WikiAPIExtractor(None)
