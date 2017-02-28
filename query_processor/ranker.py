@@ -178,7 +178,7 @@ class FactCandidate(object):
                         "x"]
         graph_str = " --> ".join(graph_tokens)
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
-        #self.message += "Number of support sentences = %d, Number of summary sentences = %d\n" % (len(self.support), len(self.support_summary))
+        self.message += "Number of support sentences = %d\n" % (len(self.support))
         #self.message += "Number of summary sentences = %d\n" % (len(self.support_summary))
         self.message += "Example support sentence:\n"
         if len(self.support) > 0:
@@ -210,7 +210,7 @@ class FactCandidate(object):
         self.add_feature(float(self.score))
 
         # Add wiki popularity
-        #self.add_feature(len(self.support))
+        self.add_feature(len(self.support))
 
         # Add wiki summary popularity
         #self.add_feature(len(self.support_summary))

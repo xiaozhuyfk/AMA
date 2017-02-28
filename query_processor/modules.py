@@ -25,12 +25,12 @@ def init_from_config(args):
     global wiki_url
     config_options = globals.config
 
-    #w2v = Word2Vec.init_from_config(config_options)
+    w2v = Word2Vec.init_from_config(config_options)
     #sparql_backend = globals.get_sparql_backend(config_options)
-    #extractor = FactExtractor.init_from_config(args, config_options)
+    extractor = FactExtractor.init_from_config(args, config_options)
     #parser = CoreNLPParser.init_from_config()
-    #entity_linker = EntityLinker.init_from_config()
-    #facts_ranker = Ranker.init_from_config(config_options)
+    entity_linker = EntityLinker.init_from_config()
+    facts_ranker = Ranker.init_from_config(config_options)
     #wiki_extractor = WikiAPIExtractor.init_from_config(config_options)
-    #support_sentence_extractor = WikiExtractor.init_from_config(config_options)
+    support_sentence_extractor = WikiExtractor.init_from_config(config_options)
     wiki_url = WikiUrl(config_options)
