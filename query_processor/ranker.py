@@ -129,12 +129,6 @@ class FactCandidate(object):
 
         self.f1 = computeF1(self.answers, self.objects)[2]
 
-
-        # support sentences
-        self.support = set([])
-        for o in self.oid:
-            self.support |= set(modules.support_sentence_extractor.get_support_sentence_with_pair(self.sid, o))
-
         """
         # support sentences
         sentences = modules.wiki_extractor.extract_wiki_page(
@@ -170,6 +164,7 @@ class FactCandidate(object):
                     self.support_summary.add(sent)
         """
 
+        """
         graph_tokens = [" ".join(self.subject_tokens),
                         " ".join(self.relation_tokens),
                         str(self.objects[:5])]
@@ -180,9 +175,27 @@ class FactCandidate(object):
         if len(self.support) > 0:
             for sent in list(self.support)[:4]:
                 self.message += sent + "\n"
+        """
 
-        print(self.message)
+    def get_support_sentence(self):
+        self.support = set([])
+        for o in self.oid:
+            self.support |= set(modules.support_sentence_extractor.get_support_sentence_with_pair(self.sid, o))
 
+    def __str__(self):
+        self.get_support_sentence()
+
+        graph_tokens = [" ".join(self.subject_tokens),
+                        " ".join(self.relation_tokens),
+                        str(self.objects[:5])]
+        graph_str = " --> ".join(graph_tokens)
+        self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
+        self.message += "Number of support sentences = %d\n" % (len(self.support))
+        self.message += "Example support sentence:\n"
+        if len(self.support) > 0:
+            for sent in list(self.support)[:4]:
+                self.message += sent + "\n"
+        return self.message
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
         sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
@@ -209,7 +222,7 @@ class FactCandidate(object):
         self.add_feature(float(self.score))
 
         # Add wiki popularity
-        self.add_feature(len(self.support))
+        #self.add_feature(len(self.support))
 
         # Add wiki summary popularity
         #self.add_feature(len(self.support_summary))
@@ -494,12 +507,8 @@ class Ranker(object):
                                                   relations[rel])
                     fact_candiate.extract_features()
                     query_candidates.append(fact_candiate)
-            break
 
             # add lstm feature for all candidates
-            #lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
-            #trigram_predictions = trigram_model.predict(query_candidates, 203).flatten()
-
             pairwise_predictions = pairwise_model.predict(query_candidates, 28).flatten()
             pairwise_trigram_predictions = pairwise_trigram.predict(query_candidates, 203).flatten()
             jointpairwise_predictions = jointpairwise.predict(
@@ -535,8 +544,7 @@ class Ranker(object):
                 candidate.add_feature(embedding_trigram_predictions[idx])
                 candidate.add_feature(pairwise_predictions[idx])
                 candidate.add_feature(pairwise_trigram_predictions[idx])
-                #candidate.add_feature(lstm_predictions[idx])
-                #candidate.add_feature(trigram_predictions[idx])
+
             self.nomalize_features(query_candidates)
             for candidate in query_candidates:
                 codecsWriteFile(self.svmTrainingFeatureVectorsFile,
@@ -742,11 +750,11 @@ class Ranker(object):
                 if best is None:
                     content += "Empty\n"
                 else:
-                    content += best.message
+                    content += str(best)
                 content += "Top5\n"
                 for idx in top5:
                     candidate = candidates[idx]
-                    content += candidate.message
+                    content += str(candidate)
                 content += "\n"
                 if best_candidate.f1 == 1.0:
                     codecsWriteFile(cover_file, content, "a")
