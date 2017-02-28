@@ -133,10 +133,7 @@ class FactCandidate(object):
         # support sentences
         self.support = set([])
         for o in self.oid:
-            self.support.add(
-                 set(modules.support_sentence_extractor.get_support_sentence_with_pair(
-                     self.sid, o))
-            )
+            self.support |= set(modules.support_sentence_extractor.get_support_sentence_with_pair(self.sid, o))
 
         """
         # support sentences
