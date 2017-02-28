@@ -181,6 +181,8 @@ class FactCandidate(object):
             for sent in list(self.support)[:4]:
                 self.message += sent + "\n"
 
+        print(self.message)
+
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
         sentence_idx = [word_idx.get(t, 0) for t in sentence] + \
@@ -492,6 +494,7 @@ class Ranker(object):
                                                   relations[rel])
                     fact_candiate.extract_features()
                     query_candidates.append(fact_candiate)
+            break
 
             # add lstm feature for all candidates
             #lstm_predictions = lstm_model.predict(query_candidates, 28).flatten()
