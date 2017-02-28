@@ -17,6 +17,9 @@ class WikiUrl(object):
             for line in f:
                 if line:
                     triple = line.strip().split("\t")
+                    if len(triple) != 3:
+                        print triple
+                        continue
                     mid = triple[0]
                     url1 = triple[1]
                     url2 = triple[2]
