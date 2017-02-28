@@ -15,18 +15,19 @@ class WikiUrl(object):
 
         with open(self.data) as f:
             for line in f:
-                triple = line.strip().split("\t")
-                mid = triple[0]
-                url1 = triple[1]
-                url2 = triple[2]
+                if line:
+                    triple = line.strip().split("\t")
+                    mid = triple[0]
+                    url1 = triple[1]
+                    url2 = triple[2]
 
-                if url1[len(prefix):].startswith("index.html?"):
-                    name = url2[len(prefix):]
-                else:
-                    name = url1[len(prefix):]
-                if ("/" in name):
-                    name = name.replace("/", "|")
-                self.wiki_name[mid] = name
+                    if url1[len(prefix):].startswith("index.html?"):
+                        name = url2[len(prefix):]
+                    else:
+                        name = url1[len(prefix):]
+                    if ("/" in name):
+                        name = name.replace("/", "|")
+                    self.wiki_name[mid] = name
         logger.info("Done loading wiki urls.")
 
 
