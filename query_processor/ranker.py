@@ -129,6 +129,15 @@ class FactCandidate(object):
 
         self.f1 = computeF1(self.answers, self.objects)[2]
 
+
+        # support sentences
+        self.support = set([])
+        for o in self.oid:
+            self.support.add(
+                 modules.support_sentence_extractor.get_support_sentence_with_pair(
+                     self.sid, o)
+            )
+
         """
         # support sentences
         sentences = modules.wiki_extractor.extract_wiki_page(
@@ -169,7 +178,7 @@ class FactCandidate(object):
                         "x"]
         graph_str = " --> ".join(graph_tokens)
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
-        self.message += "Number of support sentences = %d, Number of summary sentences = %d\n" % (len(self.support), len(self.support_summary))
+        #self.message += "Number of support sentences = %d, Number of summary sentences = %d\n" % (len(self.support), len(self.support_summary))
         #self.message += "Number of summary sentences = %d\n" % (len(self.support_summary))
         self.message += "Example support sentence:\n"
         if len(self.support) > 0:

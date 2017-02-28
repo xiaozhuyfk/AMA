@@ -54,6 +54,42 @@ class WikiExtractor(object):
         path = query_dir + subject
         codecsWriteFile(path, text)
 
+    def get_support_sentence_with_pair(self, sid, oid):
+        import modules
+        subject_name = modules.wiki_url[sid]
+        object_name = modules.wiki_url[oid]
+        if subject_name is None or object_name is None:
+            return []
+
+        result = []
+        for i in xrange(27):
+            idx = i+1
+            result_path = self.support_dir + str(idx) + '/' + subject_name
+            if (os.path.isfile(result_path)):
+                sentences = codecsReadFile(result_path).strip().split('\n')
+                for sent in sentences:
+                    if ("[[" not in sent and "]]" not in sent):
+                        continue
+                    for occur in sent.split("[[")[1:]:
+                        idx = occur.find("]]")
+                        entity = occur[:idx]
+                        if ("File:" in entity or
+                            "Image:" in entity or
+                            "Category:" in entity or
+                            "Wikipedia:" in entity or
+                            "Template:" in entity):
+                            continue
+                        if ('|' in entity):
+                            entity = entity[:entity.find('|')]
+                        if ('#' in entity):
+                            entity = entity[:entity.find('#')]
+                        if ('/' in entity):
+                            entity = entity.replace('/', '|')
+                        if entity == object_name:
+                            result.append(sent)
+                            break
+        return result
+
     def extract_support_sentence(self, idx):
         logger.info("Start extracting support sentences for partition %d", idx)
         prefix = "{http://www.mediawiki.org/xml/export-0.10/}"
