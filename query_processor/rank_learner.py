@@ -21,7 +21,8 @@ def test(dataset):
     modules.facts_ranker.test(dataset)
 
 def extract_wiki(idx):
-    modules.support_sentence_extractor.extract_support_sentence(idx)
+    pass
+    #modules.support_sentence_extractor.extract_support_sentence(idx)
     #modules.facts_ranker.extract_wiki_data(dataset)
 
 def main():

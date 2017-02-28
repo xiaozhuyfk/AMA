@@ -129,6 +129,7 @@ class FactCandidate(object):
 
         self.f1 = computeF1(self.answers, self.objects)[2]
 
+        """
         # support sentences
         sentences = modules.wiki_extractor.extract_wiki_page(
             query.dataset,
@@ -161,6 +162,7 @@ class FactCandidate(object):
                 sent = sent.lower()
                 if self.subject.lower() in sent and object in sent:
                     self.support_summary.add(sent)
+        """
 
         graph_tokens = [" ".join(self.subject_tokens),
                         " ".join(self.relation_tokens),
