@@ -134,8 +134,8 @@ class FactCandidate(object):
         self.support = set([])
         for o in self.oid:
             self.support.add(
-                 modules.support_sentence_extractor.get_support_sentence_with_pair(
-                     self.sid, o)
+                 set(modules.support_sentence_extractor.get_support_sentence_with_pair(
+                     self.sid, o))
             )
 
         """
