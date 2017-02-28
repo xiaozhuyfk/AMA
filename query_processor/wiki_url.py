@@ -25,7 +25,7 @@ class WikiUrl(object):
                             continue
                         if "%" in suffix:
                             continue
-                        name = url
+                        name = suffix
 
                     if (name is not None and "/" in name):
                         name = name.replace("/", "|")
