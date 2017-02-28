@@ -132,3 +132,10 @@ Entity Score = 0.882146, F1 = 0.000000, graph = currency --> ikariam resource ca
 Number of support sentences = 0
 Example support sentence:
 
+173where do flemish come from?	[u'Belgium']	[u'COMEFROM']	0	EMPTY	type.object.name	NONE	COMEFROM
+Empty
+Top5
+Entity Score = 0.841572, F1 = 0.000000, graph = comefrom --> object name --> [u'COMEFROM']
+Number of support sentences = 0
+Example support sentence:
+

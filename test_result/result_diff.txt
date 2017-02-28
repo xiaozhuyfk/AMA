@@ -1284,3 +1284,112 @@ Entity Score = 0.991947, F1 = 0.000000, graph = thomas hobbes --> education inst
 Number of support sentences = 0
 Example support sentence:
 
+167what does julian lennon do?	[u'Singer', u'Writer', u'Guitarist', u'Musician', u'Actor', u'Singer-songwriter', u'Record producer']	[u'Too Late for Goodbyes']	0	people.person.profession	award.award_nominee.award_nominations..award.award_nomination.nominated_for	Julian Lennon	Julian Lennon
+Entity Score = 0.996866, F1 = 1.000000, graph = julian lennon --> person profession --> [u'Singer-songwriter', u'Actor', u'Guitarist', u'Musician', u'Singer']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.996866, F1 = 0.000000, graph = julian lennon --> award nomination nominated for --> [u'Too Late for Goodbyes']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996866, F1 = 0.000000, graph = julian lennon --> performance film --> [u"Hail! Hail! Rock 'n' Roll", u'David Copperfield']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996866, F1 = 0.000000, graph = julian lennon --> artist track --> [u"Now You're in Heaven", u"Now You're in Heaven", u"Now You're In Heaven", u'Now You\u2019re in Heaven', u"Now You're in Heaven"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996866, F1 = 1.000000, graph = julian lennon --> person profession --> [u'Singer-songwriter', u'Actor', u'Guitarist', u'Musician', u'Singer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996866, F1 = 0.000000, graph = julian lennon --> music contributor film --> [u'Playing for Keeps']
+Number of support sentences = 0
+Example support sentence:
+
+172who was demi lovato dating?	[u'Joe Jonas']	[u'Joe Jonas']	1.0	base.popstra.celebrity.dated..base.popstra.dated.participant	celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity	Demi Lovato	Demi Lovato
+Entity Score = 0.999995, F1 = 0.500000, graph = demi lovato --> dated participant --> [u'Joe Jonas', u'Cody Linley', u'Nick Braun']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999995, F1 = 1.000000, graph = demi lovato --> romantic relationship celebrity --> [u'Joe Jonas']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.500000, graph = demi lovato --> dated participant --> [u'Joe Jonas', u'Cody Linley', u'Nick Braun']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.133333, graph = demi lovato --> friendship participant --> [u'Trace Cyrus', u'Justin Bieber', u'Nick Jonas', u'Miley Cyrus', u'Taylor Swift']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = demi lovato --> person parents --> [u'Dianna Hart', u'Patrick Lovato']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = demi lovato --> person profession --> [u'Singer-songwriter', u'Actor', u'Musician', u'Model']
+Number of support sentences = 0
+Example support sentence:
+
+175what did elliot stabler do?	[u'Law & Order: Special Victims Unit', u'New York City Police Department']	[u'Kathy Stabler']	0	fictional_universe.fictional_character.employers..fictional_universe.fictional_employment_tenure.employer	fictional_universe.fictional_character.married_to..fictional_universe.marriage_of_fictional_characters.spouses	Elliot Stabler	Elliot Stabler
+Entity Score = 1.000000, F1 = 1.000000, graph = elliot stabler --> fictional employment tenure employer --> [u'Law & Order: Special Victims Unit', u'New York City Police Department']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = elliot stabler --> marriage of fictional characters spouses --> [u'Kathy Stabler']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = elliot stabler --> fictional character character created by --> [u'Dick Wolf']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = elliot stabler --> regular tv appearance actor --> [u'Christopher Meloni']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = elliot stabler --> fictional character children --> [u'Richard ""Dickie"" Stabler', u'Kathleen Stabler', u'Maureen Stabler', u'Elliot ""Eli"" Stabler Jr.', u'Elizabeth ""Lizzie"" Stabler']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = elliot stabler --> fictional character education --> [u'Queens College, City University of New York', u'Sisters of Mercy']
+Number of support sentences = 0
+Example support sentence:
+
+177where is byron nelson 2012?	[u'Roanoke']	[u'Waxahachie']	0	people.deceased_person.place_of_death	people.person.place_of_birth	Byron Nelson	Byron Nelson
+Entity Score = 0.989100, F1 = 1.000000, graph = byron nelson --> deceased person place of death --> [u'Roanoke']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.989100, F1 = 0.000000, graph = byron nelson --> person place of birth --> [u'Waxahachie']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.989100, F1 = 1.000000, graph = byron nelson --> deceased person place of death --> [u'Roanoke']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.989100, F1 = 0.000000, graph = byron nelson --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.989100, F1 = 0.000000, graph = byron nelson --> book subject works --> [u"Byron Nelson's Winning Golf"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.989100, F1 = 0.000000, graph = byron nelson --> education institution --> [u'University of Houston']
+Number of support sentences = 0
+Example support sentence:
+
+178where is bob marley buried?	[u'Bob Marley Mausoleum']	[u'Miami']	0	people.deceased_person.place_of_burial	people.deceased_person.place_of_death	Bob Marley	Bob Marley
+Entity Score = 0.980239, F1 = 1.000000, graph = bob marley --> deceased person place of burial --> [u'Bob Marley Mausoleum']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.980239, F1 = 0.000000, graph = bob marley --> deceased person place of death --> [u'Miami']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.980239, F1 = 0.000000, graph = bob marley --> person place of birth --> [u'Nine Mile, Jamaica']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.980239, F1 = 0.000000, graph = bob marley --> place lived location --> [u'Wilmington']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.980239, F1 = 0.000000, graph = bob marley --> person nationality --> [u'Jamaica']
+Number of support sentences = 9
+Example support sentence:
+The '''Bob Marley Museum''' is a [[museum]] in [[Kingston, Jamaica|Kingston]], [[Jamaica]], dedicated to the [[reggae]] [[musician]] [[Bob Marley]].
+'''Vincent Ford''' (c. 1940 &ndash; 28 December 2008), known as "Tata" or "Tartar", was a [[Jamaica]]n [[songwriter]] best known for receiving writing credit for "[[No Woman, No Cry]]", the [[reggae]] song made famous by [[Bob Marley & The Wailers]], as well as three other [[Bob Marley]] songs.
+During the mid-70s, after attending a concert by [[Bob Marley]] (at which he was fascinated as much by Marley's shamanistic presence as by his music), Pierce became deeply engrossed in [[reggae]]; eventually he would travel to [[Jamaica]] to explore the music, a trip that left him ambivalent about the music's relevance to American culture.
+Forde can be heard presenting the radio documentaries ''Behind The Smile: The Real Life of [[Bob Marley]]'' and ''Island Rock'' to mark the 40th anniversary of [[Jamaica]]n independence.
+Entity Score = 0.980239, F1 = 0.000000, graph = bob marley --> deceased person cause of death --> [u'Acral lentiginous melanoma']
+Number of support sentences = 0
+Example support sentence:
+

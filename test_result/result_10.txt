@@ -975,3 +975,129 @@ Entity Score = 0.988241, F1 = 0.000000, graph = electrolux --> phone sandbox ser
 Number of support sentences = 0
 Example support sentence:
 
+166where did jay moriarty die?	[u'Maldives']	[u'Maldives']	1.0	people.deceased_person.place_of_death	people.deceased_person.place_of_death	Jay Moriarty	Jay Moriarty
+Entity Score = 1.000000, F1 = 1.000000, graph = jay moriarty --> deceased person place of death --> [u'Maldives']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 1.000000, graph = jay moriarty --> deceased person place of death --> [u'Maldives']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jay moriarty --> deceased person cause of death --> [u'Drowning']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jay moriarty --> place lived location --> [u'Santa Cruz']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jay moriarty --> person place of birth --> [u'Georgia']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = jay moriarty --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+
+168what did thomas malthus do?	[u'Mathematician', u'Demographer', u'Scientist', u'Economist']	[u'Mathematician', u'Demographer', u'Scientist', u'Economist']	1.0	people.person.profession	people.person.profession	Thomas Robert Malthus	Thomas Robert Malthus
+Entity Score = 0.938157, F1 = 1.000000, graph = thomas robert malthus --> person profession --> [u'Scientist', u'Economist', u'Mathematician', u'Demographer']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.938157, F1 = 1.000000, graph = thomas robert malthus --> person profession --> [u'Scientist', u'Economist', u'Mathematician', u'Demographer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.938157, F1 = 0.000000, graph = thomas robert malthus --> activist area of activism --> [u'Sustainability']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.938157, F1 = 0.000000, graph = thomas robert malthus --> scientist known for --> [u'Malthusian growth model', u'Population growth']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.938157, F1 = 0.000000, graph = thomas robert malthus --> author works written --> [u'Essai sur le principe de population', u'An Essay on the Principle of Population', u'Parallel Chapters from the First and Second Editions of An Essay on the Principle of Population: 1798', u'Ensayo Sobre El Principio de La Poblacion']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.938157, F1 = 0.000000, graph = thomas robert malthus --> education institution --> [u'University of Cambridge', u'Jesus College, Cambridge', u'Warrington Academy']
+Number of support sentences = 0
+Example support sentence:
+
+169where was terry waite born?	[u'Bollington']	[u'Bollington']	1.0	people.person.place_of_birth	people.person.place_of_birth	Terry Waite	Terry Waite
+Entity Score = 0.998797, F1 = 1.000000, graph = terry waite --> person place of birth --> [u'Bollington']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.998797, F1 = 1.000000, graph = terry waite --> person place of birth --> [u'Bollington']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998797, F1 = 0.000000, graph = terry waite --> person nationality --> [u'United Kingdom']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998797, F1 = 0.000000, graph = terry waite --> person religion --> [u'Anglicanism']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998797, F1 = 0.000000, graph = terry waite --> author works written --> [u'Travels with a primate', u'Wysheid Uit Die Psalms', u'Taken on Trust', u'Footfalls In Memory - Reflections From Solitude', u'A Pub Of Our Own']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998797, F1 = 0.000000, graph = terry waite --> person date of birth --> [u'1939-05-31']
+Number of support sentences = 0
+Example support sentence:
+
+172who was demi lovato dating?	[u'Joe Jonas']	[u'Joe Jonas']	1.0	base.popstra.celebrity.dated..base.popstra.dated.participant	celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity	Demi Lovato	Demi Lovato
+Entity Score = 0.999995, F1 = 0.500000, graph = demi lovato --> dated participant --> [u'Joe Jonas', u'Cody Linley', u'Nick Braun']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999995, F1 = 1.000000, graph = demi lovato --> romantic relationship celebrity --> [u'Joe Jonas']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.500000, graph = demi lovato --> dated participant --> [u'Joe Jonas', u'Cody Linley', u'Nick Braun']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.133333, graph = demi lovato --> friendship participant --> [u'Trace Cyrus', u'Justin Bieber', u'Nick Jonas', u'Miley Cyrus', u'Taylor Swift']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = demi lovato --> person parents --> [u'Dianna Hart', u'Patrick Lovato']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = demi lovato --> person profession --> [u'Singer-songwriter', u'Actor', u'Musician', u'Model']
+Number of support sentences = 0
+Example support sentence:
+
+176where did thomas paine die?	[u'New York City']	[u'New York City']	1.0	people.deceased_person.place_of_death	people.deceased_person.place_of_death	Thomas Paine	Thomas Paine
+Entity Score = 0.977094, F1 = 1.000000, graph = thomas paine --> deceased person place of death --> [u'New York City']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.977094, F1 = 1.000000, graph = thomas paine --> deceased person place of death --> [u'New York City']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.977094, F1 = 0.000000, graph = thomas paine --> person place of birth --> [u'Thetford']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.977094, F1 = 0.000000, graph = thomas paine --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.977094, F1 = 0.000000, graph = thomas paine --> book subject works --> [u'Thomas Paine: Enlightenment, Revolution, and the Birth of Modern Nations', u'Tom Paine and Revolutionary America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.977094, F1 = 0.000000, graph = thomas paine --> person profession --> [u'Inventor', u'Author', u'Pamphleteer']
+Number of support sentences = 0
+Example support sentence:
+
+179who played elaine the pain?	[u'Julia Louis-Dreyfus']	[u'Julia Louis-Dreyfus']	1.0	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Elaine Benes	Elaine Benes
+Entity Score = 0.327829, F1 = 1.000000, graph = elaine benes --> regular tv appearance actor --> [u'Julia Louis-Dreyfus']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.327829, F1 = 1.000000, graph = elaine benes --> regular tv appearance actor --> [u'Julia Louis-Dreyfus']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.327829, F1 = 0.000000, graph = elaine benes --> fictional character character created by --> [u'Larry David', u'Jerry Seinfeld', u'Carol Leifer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.780375, F1 = 0.000000, graph = pain --> disease includes diseases --> [u'Acute Pain', u'Chronic pain', u'Chronic pain syndrome', u'Central pain syndrome', u'Neoplasm related pain (acute) (chronic)']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.780375, F1 = 0.000000, graph = pain --> book subject works --> [u'Capitale de la douleur', u'The Body Broken: A Memoir']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.780375, F1 = 0.000000, graph = pain --> disease cause diseases --> [u'Mastoiditis']
+Number of support sentences = 0
+Example support sentence:
+
