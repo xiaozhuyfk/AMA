@@ -18,6 +18,7 @@ class WikiUrl(object):
                 if line:
                     triple = line.strip().split("\t")
                     mid = triple[0][1:].replace("/", ".")
+                    print mid
                     name = None
                     for url in triple[1:]:
                         suffix = url[len(prefix):]

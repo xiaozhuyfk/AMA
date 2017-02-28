@@ -56,6 +56,9 @@ class WikiExtractor(object):
 
     def get_support_sentence_with_pair(self, sid, oid):
         import modules
+        if not oid.startswith("m."):
+            return []
+
         subject_name = modules.wiki_url[sid]
         object_name = modules.wiki_url[oid]
         if subject_name is None or object_name is None:
