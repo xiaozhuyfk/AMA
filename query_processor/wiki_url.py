@@ -17,27 +17,28 @@ class WikiUrl(object):
             for line in f:
                 if line:
                     triple = line.strip().split("\t")
-                    if len(triple) != 3:
-                        print triple
-                        continue
-                    mid = triple[0]
-                    url1 = triple[1]
-                    url2 = triple[2]
+                    mid = triple[0][1:].replace("/", ".")
+                    name = None
+                    for url in triple[1:]:
+                        suffix = url[len(prefix):]
+                        if suffix.startswith("index.html?"):
+                            continue
+                        if "%" in suffix:
+                            continue
+                        name = url
 
-                    if url1[len(prefix):].startswith("index.html?"):
-                        name = url2[len(prefix):]
-                    else:
-                        name = url1[len(prefix):]
-                    if ("/" in name):
+                    if (name is not None and "/" in name):
                         name = name.replace("/", "|")
-                    self.wiki_name[mid] = name
+                    if (name is not None):
+                        self.wiki_name[mid] = name
         logger.info("Done loading wiki urls.")
-
-
 
     @staticmethod
     def init_from_config(config_options):
         return WikiExtractor(config_options)
+
+    def __getitem__(self, item):
+        return self.wiki_name.get(item)
 
 
 
