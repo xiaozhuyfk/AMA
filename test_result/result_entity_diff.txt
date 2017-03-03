@@ -111,3 +111,996 @@ Entity Score = 0.140537, F1 = 0.000000, graph = knight rider --> tv producer ter
 Number of support sentences = 0
 Example support sentence:
 
+186who does lee clark manager?	[u'Birmingham City F.C.']	[u'Bobby Cox', u'Larry Schlafly', u'Jewel Ens', u'Jeff Torborg', u'Joe Altobelli', '...']	0	soccer.football_team_manager.team..soccer.football_team_management_tenure.team	baseball.baseball_position.players	Lee Clark	Manager
+Entity Score = 0.753639, F1 = 0.666667, graph = lee clark --> football team management tenure team --> [u'Birmingham City F.C.', u'Huddersfield Town F.C.']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.280017, F1 = 0.000000, graph = manager --> baseball position players --> [u'Joe Maddon', u'Yogi Berra', u'Jimmy Williams', u'Buck Showalter', u'Davey Johnson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.232138, F1 = 0.000000, graph = coach --> profession people with this profession --> [u'Clarence Shelmon', u'Paulo Jorge Rebelo Duarte', u'Dougie Brown', u'Ricky Hunley', u'Brent Guy']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.280017, F1 = 0.000000, graph = manager --> profession people with this profession --> [u'George Kissell', u'Jos\xe9 Rodr\xedguez', u'Yutaka Wada', u'Johnny Keane', u'Yogi Berra']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.112517, F1 = 0.000000, graph = manager --> profession people with this profession --> [u'Mark McGhee', u'John Ward', u'Dorinel Munteanu', u'\xd3scar Garc\xeda Junyent', u'Marcelo Bielsa']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.280017, F1 = 0.000000, graph = manager --> sports team coach tenure coach --> [u'Junji Ogawa']
+Number of support sentences = 0
+Example support sentence:
+
+245when is nrl grand final day?	[u'NRL Grand Final']	[u'2010 AFL Grand Final', u'2000 AFL Grand Final', u'2001 AFL Grand Final', u'2007 AFL Grand Final', u'2002 AFL Grand Final', '...']	0	sports.sports_league.championship	sports.sports_championship.events	National Rugby League	AFL Grand Final
+Entity Score = 0.999986, F1 = 1.000000, graph = national rugby league --> sports league championship --> [u'NRL Grand Final']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = afl grand final --> sports championship events --> [u'2006 AFL Grand Final', u'2003 AFL Grand Final', u'2002 AFL Grand Final', u'2001 AFL Grand Final', u'2000 AFL Grand Final']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999986, F1 = 0.000000, graph = national rugby league --> sports league participation team --> [u'Parramatta Eels', u'Sydney Roosters', u'Wests Tigers', u'South Sydney Rabbitohs', u'North Queensland Cowboys']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999986, F1 = 0.000000, graph = national rugby league --> mailing address citytown --> [u'Sydney']
+Number of support sentences = 4
+Example support sentence:
+The [[National Rugby League|NRL]] side, [[St George Illawarra Dragons]] have their [[Sydney]] office based at nearby WIN Jubilee Oval, often referred to as Kogarah Oval.
+'''Hassan Saleh''' (born 22 October 1979 in [[Sydney]], [[New South Wales]]) is a [[Lebanon|Lebanese]]-Australian former professional [[rugby league]] player for the [[Wests Tigers]], [[St George Illawarra Dragons]] and the [[Cronulla-Sutherland Sharks]] in the [[National Rugby League]] competition.
+'''Darren Burns''' (born 17 May 1974, in [[Sydney]], [[Australia]]) was an [[Australia]]n [[rugby league]] player for the [[Western Suburbs Magpies]], [[South Sydney Rabbitohs]], [[Sydney Roosters]] and the [[Brisbane Broncos]] over his seven-year career in the Australian [[National Rugby League]] competition. 
+'''Brendan Oake''' (born 17 September 1985 in [[Sydney]]) is an [[Australia]]n  [[rugby league]] player who at club level has played for the [[Parramatta Eels]] in the [[National Rugby League]].
+Entity Score = 0.999986, F1 = 0.000000, graph = national rugby league --> mailing address state province region --> [u'New South Wales']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999986, F1 = 1.000000, graph = national rugby league --> sports league championship --> [u'NRL Grand Final']
+Number of support sentences = 0
+Example support sentence:
+
+276where is ancient phoenician?	[u'Lebanon']	[u'Lebanon']	1.0	location.location.containedby	language.human_language.main_country	Phoenicia	Phoenician
+Entity Score = 0.522245, F1 = 1.000000, graph = phoenicia --> location containedby --> [u'Lebanon']
+Number of support sentences = 8
+Example support sentence:
+It quickly spread, initially to other [[Semitic people]]s, in [[Parthian Empire|Parthian]]-ruled [[Assyria]] and [[Mesopotamia]] (modern [[Iraq]]), [[Roman Empire|Roman]]-ruled [[Syria]] (ancient [[Aramea]]), [[Phoenicia]] (modern [[Lebanon]]), southern and eastern [[Asia Minor]] (modern [[Turkey]]), and northwestern [[Persia]] (modern [[Iran]]) and [[Malta]].
+* [[Carthage]] is founded by [[Phoenicia]]n colonists from modern-day [[Lebanon]], led by queen [[Dido (Queen of Carthage)|Dido]].
+This area and other parts of the former Assyrian Empire to the east (including Assyria itself) were renamed [[Syria]] ([[Seleucid Syria]]), a 9th-century BC [[Hurrian]], [[Luwian]] and [[Greek language|Greek]] corruption of '''Assyria''' (see [[Etymology of Syria]] and [[Name of Syria]]), which had for centuries until this point referred specifically to the land of [[Assyria]] and the [[Assyrian people|Assyrians]], which in modern terms actually covered the northern half of [[Iraq]], north east [[Syria]], south east [[Turkey]] and the north western fringes of [[Iran]], and not the bulk of ''modern Syria'' and [[Lebanon]] and its largely [[Aramean]] and [[Phoenicia]]n inhabitants.
+Antiochus III gains territory in [[Lebanon]], [[Palestine (region)|Palestine]] and [[Phoenicia]].
+Top5
+Entity Score = 0.293540, F1 = 1.000000, graph = phoenician --> human language main country --> [u'Lebanon']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.522245, F1 = 1.000000, graph = phoenicia --> location containedby --> [u'Lebanon']
+Number of support sentences = 8
+Example support sentence:
+It quickly spread, initially to other [[Semitic people]]s, in [[Parthian Empire|Parthian]]-ruled [[Assyria]] and [[Mesopotamia]] (modern [[Iraq]]), [[Roman Empire|Roman]]-ruled [[Syria]] (ancient [[Aramea]]), [[Phoenicia]] (modern [[Lebanon]]), southern and eastern [[Asia Minor]] (modern [[Turkey]]), and northwestern [[Persia]] (modern [[Iran]]) and [[Malta]].
+* [[Carthage]] is founded by [[Phoenicia]]n colonists from modern-day [[Lebanon]], led by queen [[Dido (Queen of Carthage)|Dido]].
+This area and other parts of the former Assyrian Empire to the east (including Assyria itself) were renamed [[Syria]] ([[Seleucid Syria]]), a 9th-century BC [[Hurrian]], [[Luwian]] and [[Greek language|Greek]] corruption of '''Assyria''' (see [[Etymology of Syria]] and [[Name of Syria]]), which had for centuries until this point referred specifically to the land of [[Assyria]] and the [[Assyrian people|Assyrians]], which in modern terms actually covered the northern half of [[Iraq]], north east [[Syria]], south east [[Turkey]] and the north western fringes of [[Iran]], and not the bulk of ''modern Syria'' and [[Lebanon]] and its largely [[Aramean]] and [[Phoenicia]]n inhabitants.
+Antiochus III gains territory in [[Lebanon]], [[Palestine (region)|Palestine]] and [[Phoenicia]].
+Entity Score = 0.522245, F1 = 0.000000, graph = phoenicia --> location events --> [u'Siege of Tyre']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.293540, F1 = 0.000000, graph = phoenician --> human language language family --> [u'Afroasiatic languages', u'Semitic languages']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.293540, F1 = 0.000000, graph = phoenician --> human language writing system --> [u'Phoenician alphabet']
+Number of support sentences = 0
+Example support sentence:
+
+299who plays ziva david on ncis?	[u'Cote de Pablo']	[u'Pauley Perrette', u'Michael Weatherly', u'Lauren Holly', u'Rocky Carroll', u'Sasha Alexander', '...']	0.166666666667	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	tv.tv_program.regular_cast..tv.regular_tv_appearance.actor	Ziva David	NCIS
+Entity Score = 1.000000, F1 = 1.000000, graph = ziva david --> regular tv appearance actor --> [u'Cote de Pablo']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.784187, F1 = 0.166667, graph = ncis --> regular tv appearance actor --> [u'Brian Dietzen', u'Mark Harmon', u'Robert Newman', u'Michael Weatherly', u'Pauley Perrette']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 1.000000, graph = ziva david --> regular tv appearance actor --> [u'Cote de Pablo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 1.000000, graph = ziva david --> tv guest role actor --> [u'Cote de Pablo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.784187, F1 = 0.000000, graph = ncis --> award nomination award nominee --> [u'Diamond Farnsworth', u'Mark Harmon', u'Charles Durning']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.784187, F1 = 0.000000, graph = ncis --> tv program program creator --> [u'Donald Bellisario', u'Don McGill']
+Number of support sentences = 0
+Example support sentence:
+
+313what race is vanessa carlton?	[u'Russian', u'Scandinavians']	[u'Lincoln on Race and Slavery', u'Le racisme', u'Essays on race and empire', u'Toward the final solution', u'The Negro', '...']	0	people.person.ethnicity	book.book_subject.works	Vanessa Carlton	Race
+Entity Score = 0.999780, F1 = 1.000000, graph = vanessa carlton --> person ethnicity --> [u'Russian', u'Scandinavians']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.442881, F1 = 0.000000, graph = race --> book subject works --> [u'Lincoln on Race and Slavery', u'Between camps', u'Race contacts and interracial relations', u'Le racisme', u'Race, Class, and Power']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999780, F1 = 0.000000, graph = vanessa carlton --> person profession --> [u'Singer-songwriter', u'Musician', u'Singer', u'Record producer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999780, F1 = 0.000000, graph = vanessa carlton --> place lived location --> [u'Manhattan']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999780, F1 = 0.000000, graph = vanessa carlton --> award nomination nominated for --> [u'A Thousand Miles', u'A Thousand Miles']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999780, F1 = 0.000000, graph = vanessa carlton --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+
+331when did kelly slater go pro?	[u'2008 ASP World Tour']	[u'Woodman Labs, Inc.']	0	base.surfing.surfer.asp_world_tours..base.surfing.asp_world_tour_rating.season	business.brand.owner_s..business.company_brand_relationship.company	Kelly Slater	GoPro
+Entity Score = 0.995075, F1 = 0.166667, graph = kelly slater --> asp world tour rating season --> [u'2004 ASP World Tour', u'2006 ASP World Tour', u'2008 ASP World Tour', u'2002 ASP World Tour', u'2003 ASP World Tour']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.998664, F1 = 0.000000, graph = gopro --> company brand relationship company --> [u'Woodman Labs, Inc.']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.995075, F1 = 0.000000, graph = kelly slater --> person profession --> [u'Actor', u'Musician', u'Surfer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.995075, F1 = 0.000000, graph = kelly slater --> performance film --> [u'Bounty Hunters', u'The Surf Codes', u'Clay Marzo: Just Add Water', u'5th Symphony Document', u'The Kill 5']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.995075, F1 = 0.000000, graph = kelly slater --> producer film --> [u'September Sessions']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.995075, F1 = 0.000000, graph = kelly slater --> author works written --> [u'For the Love', u'Pipe Dreams']
+Number of support sentences = 0
+Example support sentence:
+
+342who is in paul ryan's family?	[u'Elizabeth Ryan', u'Charles Ryan', u'Samuel Ryan']	[u'Philadelphia Eagles', u'Houston Texans']	0	people.person.children	base.schemastaging.athlete_extra.salary..base.schemastaging.athlete_salary.team	Paul Ryan	DeMeco Ryans
+Entity Score = 1.000000, F1 = 1.000000, graph = paul ryan --> person children --> [u'Elizabeth Ryan', u'Charles Ryan', u'Samuel Ryan']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.493468, F1 = 0.000000, graph = demeco ryans --> athlete salary team --> [u'Houston Texans', u'Philadelphia Eagles']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.493468, F1 = 0.000000, graph = demeco ryans --> football roster position team --> [u'Philadelphia Eagles']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.493468, F1 = 0.000000, graph = demeco ryans --> football roster position team --> [u'Philadelphia Eagles']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = paul ryan --> marriage spouse --> [u'Janna Ryan']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.493468, F1 = 0.000000, graph = demeco ryans --> player game statistics team --> [u'Houston Texans']
+Number of support sentences = 0
+Example support sentence:
+
+346where does marta play soccer?	[u'Ume\xe5 IK']	[u'Lazio', u'Latium', u'Italy', u'Province of Viterbo']	0	soccer.football_player.current_team..soccer.football_roster_position.team	location.location.containedby	Marta	Marta, Lazio
+Entity Score = 0.296838, F1 = 1.000000, graph = marta --> football roster position team --> [u'Ume\xe5 IK']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.100955, F1 = 0.000000, graph = marta lazio --> location containedby --> [u'Italy', u'Latium', u'Lazio', u'Province of Viterbo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.913243, F1 = 0.000000, graph = football --> book subject works --> [u'The high rise private eyes', u'The case of the sneaker sneak', u'Rash', u'Tuesday morning quarterback', u'Cobra Strike']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.296838, F1 = 0.000000, graph = marta --> place lived location --> [u'Tyres\xf6 Municipality', u'Alagoas']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.296838, F1 = 0.000000, graph = marta --> person place of birth --> [u'Dois Riachos']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.296838, F1 = 0.000000, graph = marta --> athlete salary team --> [u'Tyres\xf6 FF']
+Number of support sentences = 0
+Example support sentence:
+
+387who plays edward on deception?	[u'Robert Pattinson']	[u'Vic Mignogna', u'Romi Park']	0	film.film_character.portrayed_in_films..film.performance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Edward Cullen	Edward Elric
+Entity Score = 0.335865, F1 = 1.000000, graph = edward cullen --> performance actor --> [u'Robert Pattinson']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.133022, F1 = 0.000000, graph = edward elric --> regular tv appearance actor --> [u'Romi Park', u'Vic Mignogna']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.335865, F1 = 1.000000, graph = edward cullen --> performance actor --> [u'Robert Pattinson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.133022, F1 = 0.000000, graph = edward elric --> performance actor --> [u'Romi Park']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.133022, F1 = 0.000000, graph = edward elric --> dubbing performance actor --> [u'Vic Mignogna']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.133022, F1 = 0.000000, graph = edward elric --> tv star dubbing performance actor --> [u'Vic Mignogna']
+Number of support sentences = 0
+Example support sentence:
+
+437who is the texas state senator?	[u'Kay Bailey Hutchison']	[u'Wendy Davis', u'Sylvia Garcia']	0	government.political_district.representatives..government.government_position_held.office_holder	government.governmental_body.members..government.government_position_held.office_holder	Texas	Texas Senate
+Entity Score = 0.252802, F1 = 0.058824, graph = texas --> government position held office holder --> [u"W. Lee O'Daniel", u'Ralph Yarborough', u'Richard Coke', u'Samuel B. Maxey', u'Lyndon B. Johnson']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.953362, F1 = 0.000000, graph = texas senate --> government position held office holder --> [u'Wendy Davis', u'Sylvia Garcia']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.252802, F1 = 0.058824, graph = texas --> government position held office holder --> [u"W. Lee O'Daniel", u'Ralph Yarborough', u'Richard Coke', u'Samuel B. Maxey', u'Lyndon B. Johnson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.252802, F1 = 0.000000, graph = texas --> government position held office holder --> [u'Ron Kirk', u'George Bush', u'Phil Wilson', u"W. Lee O'Daniel", u'John Connally']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.298455, F1 = 0.000000, graph = state senator --> government position held office holder --> [u'Hilda Solis', u'Abraham X. Parker', u'Benjamin Tappan', u'Nathaniel P. Tallmadge', u'Susan Kent']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.252802, F1 = 0.000000, graph = texas --> government position held appointed by --> [u'Ann Richards', u'Rick Perry']
+Number of support sentences = 0
+Example support sentence:
+
+439who won the league cup in 2002?	[u'Liverpool F.C.']	[u'Pete', u'Kayden', u'Jenny']	0	sports.sports_award_type.winners..sports.sports_award.award_winner	tv.tv_program.regular_cast..tv.regular_tv_appearance.character	Football League Cup	The League
+Entity Score = 0.529655, F1 = 1.000000, graph = football league cup --> sports award award winner --> [u'Liverpool F.C.']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.807063, F1 = 0.000000, graph = the league --> regular tv appearance character --> [u'Pete', u'Jenny', u'Kayden']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.807063, F1 = 0.000000, graph = the league --> regular tv appearance actor --> [u'Kayden Kross', u'Jon Lajoie', u'Nadine Velazquez', u'Stephen Rannazzisi', u'Paul Scheer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.529655, F1 = 0.000000, graph = football league cup --> sports championship events --> [u'2003 Football League Cup Final']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.529655, F1 = 1.000000, graph = football league cup --> sports award award winner --> [u'Liverpool F.C.']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.529655, F1 = 0.000000, graph = football league cup --> recurring event instances --> [u'2002\u201303 Football League Cup']
+Number of support sentences = 0
+Example support sentence:
+
+442what did stephen hawking study?	[u'Physics']	[u'SVU College of Engineering, Sri Venkateswara University', u'Indira Gandhi Institute of Technology', u'University of Scranton', u'Chanakya National Law University', u'Babasaheb Ambedkar Technological University', '...']	0	people.person.education..education.education.major_field_of_study	education.school_category.schools_of_this_kind	Stephen Hawking	Research
+Entity Score = 0.969964, F1 = 1.000000, graph = stephen hawking --> education major field of study --> [u'Physics']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.148617, F1 = 0.000000, graph = research --> school category schools of this kind --> [u'Vasavi college of engineering', u'PSG Institute of Management Coimbatore', u'IEC College of Engineering and Technology', u'TIFR Centre for Applicable Mathematics', u'Indian Institute of Technology Kharagpur']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.969964, F1 = 0.000000, graph = stephen hawking --> education institution --> [u'University of Oxford', u'St Albans High School for Girls', u'Trinity Hall, Cambridge', u'St Albans School']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.969964, F1 = 0.000000, graph = stephen hawking --> notable person with medical condition condition --> [u'Quadriplegia', u'Amyotrophic lateral sclerosis']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.969964, F1 = 0.000000, graph = stephen hawking --> employment tenure company --> [u'University of Cambridge']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.969964, F1 = 0.000000, graph = stephen hawking --> organization founder organizations founded --> [u'Microsoft Research']
+Number of support sentences = 0
+Example support sentence:
+
+444who was queen elizabeth ii mom?	[u'Queen Elizabeth The Queen Mother']	[u'Anne Boleyn', u'Henry VIII of England']	0	people.person.parents	people.person.parents	Elizabeth II	Elizabeth I of England
+Entity Score = 0.966997, F1 = 0.666667, graph = elizabeth ii --> person parents --> [u'George VI', u'Queen Elizabeth The Queen Mother']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.286776, F1 = 0.000000, graph = elizabeth i of england --> person parents --> [u'Henry VIII of England', u'Anne Boleyn']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.993227, F1 = 0.666667, graph = elizabeth ii --> person parents --> [u'George VI', u'Queen Elizabeth The Queen Mother']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.966997, F1 = 0.666667, graph = elizabeth ii --> person parents --> [u'George VI', u'Queen Elizabeth The Queen Mother']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.993227, F1 = 0.000000, graph = elizabeth ii --> marriage spouse --> [u'Prince Philip, Duke of Edinburgh']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.966997, F1 = 0.000000, graph = elizabeth ii --> marriage spouse --> [u'Prince Philip, Duke of Edinburgh']
+Number of support sentences = 0
+Example support sentence:
+
+454where did joseph's family live?	[u'Canaan']	[u'Cape Town']	0	people.person.place_of_birth	people.person.place_of_birth	Joseph	Moeneeb Josephs
+Entity Score = 0.414617, F1 = 1.000000, graph = joseph --> person place of birth --> [u'Canaan']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.284542, F1 = 0.000000, graph = moeneeb josephs --> person place of birth --> [u'Cape Town']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.414617, F1 = 1.000000, graph = joseph --> person place of birth --> [u'Canaan']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.233052, F1 = 0.000000, graph = joseph haydn --> person place of birth --> [u'Rohrau, Austria']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.179461, F1 = 0.000000, graph = saint joseph --> person place of birth --> [u'Nazareth']
+Number of support sentences = 3
+Example support sentence:
+At the [[Jaffa Gate|Joppa Gate]] in Jerusalem, [[Mary (mother of Jesus)|Mary]] and [[Saint Joseph|Joseph]] pass through on their way from [[Nazareth]] to [[Bethlehem]].
+|[[Saint Joseph|Joseph]]||&nbsp;||&nbsp;||Unknown||[[Nazareth]]||Husband of the [[Blessed Virgin Mary]]
+She and her husband [[Saint Joseph|Joseph]] leave their home in [[Nazareth]] to travel about 150 kilometres (90 miles) to Joseph's ancestral home, [[Bethlehem]], to register for a [[census]] ordered by Emperor [[Augustus]].
+Entity Score = 0.233052, F1 = 0.000000, graph = joseph haydn --> deceased person place of death --> [u'Vienna']
+Number of support sentences = 4
+Example support sentence:
+*[[Joseph Haydn]] returns to [[Vienna]] following second [[London]] visit.
+At the age of 21 he moved to [[Vienna]], where he began studying composition with [[Joseph Haydn]], and gained a reputation as a virtuoso pianist.
+He was acquainted with composers [[Joseph Haydn]] and [[Ludwig van Beethoven]], whom he visited on several occasions in [[Vienna]], and to whom he showed the possibilities of the double bass as a [[solo (music)|solo]] instrument.
+'''Maria Anna Sabina (von) Genzinger''' (6 November 1754 - 26 January 1793), called "Marianne", was a [[Vienna|Viennese]] amateur musician, the mother of six children, and a friend of the composer [[Joseph Haydn]].
+
+467what to do downtown sacramento?	[u'Zac Hill']	[u'Sacramento Convention Center Complex']	0	location.location.people_born_here	location.location.contains	Sacramento	Downtown Sacramento
+Entity Score = 0.750528, F1 = 0.003367, graph = sacramento --> location people born here --> [u'Harvey Itano', u'George T. Tamura', u'Brandon Tyler Dickson', u'Ruth Slenczynska', u'Lindsay Frimodt']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = downtown sacramento --> location contains --> [u'Sacramento Convention Center Complex']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750528, F1 = 0.000000, graph = sacramento --> location contains --> [u'Fuller Northern California, Sacramento', u'William J Geery Theater', u'California State University, Sacramento', u'Raging Waters Sacramento', u'Sleep Train Arena']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750528, F1 = 0.000000, graph = sacramento --> travel destination tourist attractions --> [u'Raging Waters Sacramento', u'Sacramento Zoo', u'Crocker Art Museum', u"Sutter's Fort", u'California State Capitol Museum']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750528, F1 = 0.000000, graph = sacramento --> place with neighborhoods neighborhoods --> [u'Gardenland', u'Del Paso Heights', u'Curtis Park', u'Tahoe Park', u'Valley View Acres']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750528, F1 = 0.000000, graph = sacramento --> adjoining relationship adjoins --> [u'Yolo County']
+Number of support sentences = 0
+Example support sentence:
+
+469where is giza pyramids located?	[u'Egypt', u'Giza Governorate']	[u'Egypt']	0.666666666667	location.location.containedby	location.location.containedby	Giza	Giza Necropolis
+Entity Score = 0.846332, F1 = 1.000000, graph = giza --> location containedby --> [u'Egypt', u'Giza Governorate']
+Number of support sentences = 36
+Example support sentence:
+| death_place     = [[Giza]], [[Egypt]]
+| location         = [[Dokki]], [[Giza]], [[Egypt]]
+[[2381 BC]] to [[2323 BC]]) in the [[necropolis]] of [[Saqqara]], north of [[Pharaoh]] [[Djoser]]'s [[Step Pyramid]] and about 30&nbsp;kilometers south of [[Giza]], [[Egypt]].
+The '''Giza Zoo''' is a  [[zoo|zoological garden]] in  [[Giza]], [[Egypt]].
+Top5
+Entity Score = 0.859188, F1 = 0.666667, graph = giza necropolis --> location containedby --> [u'Egypt']
+Number of support sentences = 3
+Example support sentence:
+Because of agreement to [[naming rights]], the [[Giza Necropolis]] in [[Egypt]] was renamed to ''Hugh Sitton'', a photographer of [[Corbis Corporation]].
+Another song sequence ("Suraj Hua Maddham") involving Khan and Kajol was shot with the backdrop of the [[Giza Necropolis|Pyramids of Giza]] in the city of [[Cairo]] in [[Egypt]].
+* This is the year that the [[Stargate (device)|Stargate]] is discovered in [[Giza]], [[Egypt]], near the [[Giza Necropolis|Great Pyramids]], as seen in the film ''[[Stargate (film)|Stargate]]'' ([[1994]]).
+Entity Score = 0.846332, F1 = 1.000000, graph = giza --> location containedby --> [u'Egypt', u'Giza Governorate']
+Number of support sentences = 36
+Example support sentence:
+| death_place     = [[Giza]], [[Egypt]]
+| location         = [[Dokki]], [[Giza]], [[Egypt]]
+[[2381 BC]] to [[2323 BC]]) in the [[necropolis]] of [[Saqqara]], north of [[Pharaoh]] [[Djoser]]'s [[Step Pyramid]] and about 30&nbsp;kilometers south of [[Giza]], [[Egypt]].
+The '''Giza Zoo''' is a  [[zoo|zoological garden]] in  [[Giza]], [[Egypt]].
+Entity Score = 0.119332, F1 = 0.500000, graph = great pyramid of giza --> location containedby --> [u'Egypt', u'Giza Plateau']
+Number of support sentences = 8
+Example support sentence:
+The [[Great Pyramid of Giza]] in [[Egypt]] was the [[world's tallest structure]] for 4,000 years, until the completion of [[Lincoln Cathedral]] around the year 1300.
+The Winterland concerts of October 17, 18, 20, 21, and 22, 1978, were the first shows played by the Dead after their concerts near the [[Great Pyramid of Giza]] in [[Egypt]] a month earlier.
+They toured nationally starting in June 1967 (their first foray to New York), with a few detours to [[Canada]], [[Europe]] and three nights at the [[Great Pyramid of Giza]] in [[Egypt]] in 1978.
+[[Great Pyramid of Giza]] was built in [[Egypt]].
+Entity Score = 0.846332, F1 = 0.000000, graph = giza --> location contains --> [u'Cairo University', u'Giza Plateau', u'Helmi Zamora Stadium', u'Giza Zoo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.119332, F1 = 0.000000, graph = great pyramid of giza --> pyramid site --> [u'Giza Plateau']
+Number of support sentences = 0
+Example support sentence:
+
+480what is arkansas state capitol?	[u'Little Rock']	[u'United States of America']	0	location.location.street_address..location.mailing_address.citytown	base.biblioness.bibs_location.country	Arkansas State Capitol	Arkansas
+Entity Score = 0.998158, F1 = 1.000000, graph = arkansas state capitol --> mailing address citytown --> [u'Little Rock']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.127469, F1 = 0.000000, graph = arkansas --> bibs location country --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.127469, F1 = 0.000000, graph = arkansas --> government position held jurisdiction of office --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.127469, F1 = 0.000000, graph = arkansas --> location containedby --> [u'United States of America', u'Contiguous United States', u'United States, with Territories']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.372212, F1 = 0.000000, graph = arkansas state university --> mailing address citytown --> [u'Jonesboro']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998158, F1 = 1.000000, graph = arkansas state capitol --> mailing address citytown --> [u'Little Rock']
+Number of support sentences = 0
+Example support sentence:
+
+494who was saint paul the apostle?	[u'Tentmaker', u'Prophet', u'Writer', u'Missionary', u'Martyr']	[u'Paul the Apostle']	0	people.person.profession	symbols.namesake.named_after	Paul the Apostle	Saint Paul
+Entity Score = 0.999996, F1 = 0.888889, graph = paul the apostle --> person profession --> [u'Writer', u'Prophet', u'Missionary', u'Tentmaker']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.461442, F1 = 0.000000, graph = saint paul --> namesake named after --> [u'Paul the Apostle']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.461442, F1 = 0.000000, graph = saint paul --> book subject works --> [u"Mr. White's Confession: A Novel"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.461442, F1 = 0.000000, graph = saint paul --> government position held office holder --> [u'Chris Coleman']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999996, F1 = 0.000000, graph = paul the apostle --> book subject works --> [u'The Antichrist']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.361846, F1 = 0.000000, graph = apostle --> book subject works --> [u'The Acts Of The Apostles: With Maps, Notes, And Introduction (1885)']
+Number of support sentences = 0
+Example support sentence:
+
+498who is louisiana state senator?	[u'Mary Landrieu']	[u'Les Miles']	0	education.educational_institution.students_graduates..education.education.student	american_football.football_team.current_head_coach	Louisiana State University	LSU Tigers football
+Entity Score = 0.388240, F1 = 0.002172, graph = louisiana state university --> education student --> [u'Ebert Van Buren', u'Kelvin Sheppard', u'Amanda Ashy-Boyd', u'Charles ""Bubba"" Chaney', u'Andrew L. Sevier']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.313736, F1 = 0.000000, graph = lsu tigers football --> football team current head coach --> [u'Les Miles']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.872832, F1 = 0.000000, graph = louisiana state legislature --> government position held office holder --> [u'Rush Wimberly']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.138755, F1 = 0.000000, graph = louisiana --> government position held office holder --> [u'Earl Long', u'John McEnery', u'Oscar K. Allen', u'Thomas B. Robertson', u'Tom Schedler']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.138755, F1 = 0.076923, graph = louisiana --> government position held office holder --> [u'Jean Noel Destr\xe9han', u'Russell B. Long', u'Alexandre Mouton', u'John Slidell', u'Mary Landrieu']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.127168, F1 = 0.000000, graph = louisiana state senate --> government position held office holder --> [u'Henry Braden', u"Michael O'Keefe", u'Joel Chaisson', u'Phil Short']
+Number of support sentences = 0
+Example support sentence:
+
+501what bible do catholics follow?	[u'Book of Nehemiah', u'The Bible', u'New Testament', u'Old Testament']	[u'In Praise of Wisdom', u'Dinosaurs of Eden', u'Hegel', u'Cover to Cover', u'Ponder These Things', '...']	0	religion.religion.texts	book.book_subject.works	Catholicism	The Bible
+Entity Score = 0.415596, F1 = 1.000000, graph = catholicism --> religion texts --> [u'Book of Nehemiah', u'The Bible', u'New Testament', u'Old Testament']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.963573, F1 = 0.000000, graph = the bible --> book subject works --> [u'The Works of Josephus', u'The book of hiding', u'Exploring the Basics of the Bible', u'God, the Devil, and Darwin', u'Epicenter']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.415596, F1 = 0.000000, graph = catholicism --> religion deities --> [u'Jesus Christ', u'God', u'Holy Spirit', u'The Father']
+Number of support sentences = 5
+Example support sentence:
+Many Christians use it to refer more broadly to the whole [[Christian Church]] or to all believers in [[Jesus]] [[Christ]] regardless of denominational affiliation; it can also more narrowly refer to [[Catholicism]], which encompasses several historic churches sharing major beliefs.
+[[Jesus]] appears and points out that [[Catholicism]] and [[Judaism]] are very similar.
+While attending [[Our Lady of Mercy High School (Rochester, New York)|Our Lady of Mercy High School]], a [[Catholicism|Catholic]] high school, Smith developed an [[eating disorder]], lost her faith in [[God]] and realized that she was a [[lesbian]], all after her brother's death.
+[[Anglican Consultative Council]] - [[Bishop]]s, [[Diocese]]s, and [[Episcopal polity]]>[[Image:Canterbury Cathedral, view of the Western Towers engraved by J.LeKeux after a picture by G.Cattermole, 1821 edited.jpg|50px|Canterbury Cathedral]]</td></tr><tr>width:100%;padding:0px;;;" class="navbox-list navbox-"><div style="padding:0em 0.25em">[[Christianity]] - [[Christian Church]] - [[Anglican Communion]] - [[History of the Anglican Communion|History]] - [[Jesus]] [[Christ]]<br  [[Catholic|Catholicity]] and [[Catholicism#Other Catholics and Anglicans|Catholicism]] - [[Apostolic Succession]] - [[Anglican ministry|Ministry]] - [[Ecumenical council]]s <br  
+Entity Score = 0.415596, F1 = 1.000000, graph = catholicism --> religion texts --> [u'Book of Nehemiah', u'The Bible', u'New Testament', u'Old Testament']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.415596, F1 = 0.000000, graph = catholicism --> book subject works --> [u'The Quest for God: A Personal Pilgrimage', u'John Paul The Great: Remembering a Spiritual Father', u'My Secret History']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.963573, F1 = 0.000000, graph = the bible --> adapted work adaptations --> [u'The Prodigal', u'Mary, Mother of Jesus', u'Esther', u'The Ten Commandments', u'The Nativity Story']
+Number of support sentences = 0
+Example support sentence:
+
+511when did shays rebellion start?	[u'1786']	[u'Politician']	0	time.event.start_date	people.person.profession	Shays' Rebellion	Chris Shays
+Entity Score = 0.960921, F1 = 1.000000, graph = shays rebellion --> event start date --> [u'1786']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.434775, F1 = 0.000000, graph = chris shays --> person profession --> [u'Politician']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.736445, F1 = 0.000000, graph = rebellion --> book subject works --> [u'A Tale of Two Utopias: The Political Journey of the Generation of 1968', u'The Big Book of Dummies, Rebels and Other Geniuses', u'The Rebellious Century']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.960921, F1 = 0.000000, graph = shays rebellion --> event locations --> [u'Massachusetts']
+Number of support sentences = 12
+Example support sentence:
+Subsequently, he served as a [[Massachusetts]] legislator, and he assisted Gen. William Shepard in stopping [[Shays' Rebellion]].
+*[[1786]] - [[Shays' Rebellion]], an armed uprising of [[Massachusetts]] farmers, begins in response to high debt and tax burdens.
+* [[February 4]] &ndash; [[Shays' Rebellion]] in [[Massachusetts]] fails.
+In 1795 after [[Shays' Rebellion]] [[Daniel Shays]] moved from [[Massachusetts]] to [[Preston-Potter Hollow, New York|Preston Hollow]], a hamlet in Rensselaerville.
+Entity Score = 0.434775, F1 = 0.000000, graph = chris shays --> education institution --> [u'New York University', u'Principia College', u'The Principia']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.434775, F1 = 0.000000, graph = chris shays --> political party tenure party --> [u'Republican Party']
+Number of support sentences = 0
+Example support sentence:
+
+531who founded new york university?	[u'Albert Gallatin', u'Mordecai Manuel Noah']	[u'Lorna Marsden', u'Michiel Horn', u'Trichy Sankaran', u'Leo Panitch', u'Christopher D. Green', '...']	0	organization.organization.founders	business.employer.employees..business.employment_tenure.person	New York University	York University
+Entity Score = 0.996292, F1 = 1.000000, graph = new york university --> organization founders --> [u'Albert Gallatin', u'Mordecai Manuel Noah']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.898772, F1 = 0.000000, graph = york university --> employment tenure person --> [u'Joel Bakan', u'H\xe9di Bouraoui', u'Eli Mandel', u'Michael Ondaatje', u'James Laxer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> employment tenure person --> [u'John Ordronaux', u'Mary Jo White', u'Forrest Church', u'John Zuccotti']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996292, F1 = 0.000000, graph = new york university --> employment tenure person --> [u'James McNaughton Hester', u'Amir Pnueli', u'Jared Bernstein', u'David Finney', u'Joseph M. Juran']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996292, F1 = 1.000000, graph = new york university --> organization founders --> [u'Albert Gallatin', u'Mordecai Manuel Noah']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> government position held appointed by --> [u'Andrew Cuomo']
+Number of support sentences = 0
+Example support sentence:
+
+534what shows are shot in new york?	[u'Flight of the Conchords', u'The Stand']	[u'Harpersfield', u'Mortimer', u'Bull Mine', u'Cooperstown', u'East Greenbush', '...']	0	tv.tv_location.tv_shows_filmed_here	location.location.contains	New York City	New York
+Entity Score = 0.300972, F1 = 1.000000, graph = new york city --> tv location tv shows filmed here --> [u'The Stand', u'Flight of the Conchords']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> location contains --> [u'Fabius', u'Laurens', u'Laurens', u'Milford', u'Milford']
+Number of support sentences = 20
+Example support sentence:
+*... that '''[[13th Avenue (Borough Park)|13th Avenue]]''', a commercially successful [[Orthodox Judaism|Orthodox Jewish]] shopping district in [[Brooklyn]], [[New York]], has 18 banks in the space of 10 blocks?
+... that '''[[13th Avenue (Borough Park)|13th Avenue]]''', a commercially successful [[Orthodox Judaism|Orthodox Jewish]] shopping district in [[Brooklyn]], [[New York]], has 18 banks in the space of 10 blocks?
+I have lived in [[rural]] [[Florida]] and currently live in [[Brooklyn]], [[New York]].
+[[Jacqueline Kennedy Onassis|Jacqueline Bouvier]] at [[The Chapin School]] in [[Manhattan]], [[New York]].
+Entity Score = 0.300972, F1 = 0.000000, graph = new york city --> location contains --> [u'Port Morris', u'New Lots', u'Hotel Pennsylvania', u'Mesivtha Tifereth Jerusalem', u'Ocean Hill']
+Number of support sentences = 1543
+Example support sentence:
+* [[330 West 42nd Street|McGraw-Hill Building]], [[Manhattan]], [[New York City]] 1931
+'''Leshorn Whitehead''' (born June 15, 1972), better known by his stage name '''Chuck Fenda''', is a [[Jamaican American]] reggae musician and deejay born in  [[Brooklyn]], [[New York City|New York]].
+|[[Manhattan]], [[New York City]], [[New York (state)|NY]], US
+Hoping to clear his head and develop new ideas for songs, Armstrong traveled to [[New York City]] alone for a few weeks, renting a small loft in the [[East Village, Manhattan|East Village]] of [[Manhattan]].
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> location events --> [u'Battle of Fort Oswego', u'Siege of Fort Ticonderoga', u'2009 Bronx terrorism plot', u'United States Senate elections, 2006', u'Third Anglo-Dutch War']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.300972, F1 = 0.000000, graph = new york city --> location events --> [u'Gotham Independent Film Awards 2004', u'1966 New York City transit strike', u"CCNY-Ohio St 1950 NCAA Men's Division I Basketball Tournament Game", u"1950 NCAA Men's Division I Basketball Tournament", u"1957 NCAA Men's Division I Basketball Tournament"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.653213, F1 = 0.000000, graph = new york --> location partially contains --> [u'Berlin Mountain', u'Mount Raimer', u'Misery Mountain', u'Rounds Mountain', u'Alander Mountain']
+Number of support sentences = 0
+Example support sentence:
+
+553what jobs did robert burns have?	[u'Poet', u'Writer', u'Bard', u'Author']	[u'Designer', u'Businessperson', u'Entrepreneur', u'Inventor']	0	people.person.profession	people.person.profession	Robert Burns	Steve Jobs
+Entity Score = 0.972865, F1 = 1.000000, graph = robert burns --> person profession --> [u'Poet', u'Writer', u'Author', u'Bard']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.485930, F1 = 0.000000, graph = steve jobs --> person profession --> [u'Businessperson', u'Designer', u'Inventor', u'Entrepreneur']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.972865, F1 = 1.000000, graph = robert burns --> person profession --> [u'Poet', u'Writer', u'Author', u'Bard']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.485930, F1 = 0.000000, graph = steve jobs --> inventor inventions --> [u'Macintosh', u'iPhone', u'iPad', u'iPod', u'Retina Display']
+Number of support sentences = 3
+Example support sentence:
+He moved to the United States where he worked for various multimedia companies that did product launches like working directly with [[Steve Jobs]] with the [[Apple Lisa|Lisa]] launch and [[Macintosh]] launch.
+The Dating Game was parodied by [[Steve Jobs]] during a 1983 [[Macintosh]] pre-launch event.
+'''Reality distortion field''' ('''RDF''') is a term coined by [[Bud Tribble]] at [[Apple Inc.|Apple Computer]] in 1981, to describe company co-founder [[Steve Jobs]]'s [[charisma]] and its effects on the developers working on the [[Macintosh]] project.
+Entity Score = 0.972865, F1 = 0.000000, graph = robert burns --> author works written --> [u'Poems, songs, and letters', u'The Songs of Robert Burns', u'The correspondence between Burns and Clarinda', u'Doing Business in Asia', u'Auld Lang Syne And Other Songs']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.972865, F1 = 0.000000, graph = robert burns --> writer film --> [u'Tam-Lin']
+Number of support sentences = 0
+Example support sentence:
+
+571what are italians classified as?	[u'Latin European peoples', u'Europeans']	[u'2011 David di Donatello Awards', u'Battle of the Silarus', u'Italian plague of 1629\u20131631', u'1973 David di Donatello Awards', u'Battle of Augusta', '...']	0	people.ethnicity.included_in_group	location.location.events	Italian people	Italy
+Entity Score = 0.604781, F1 = 1.000000, graph = italian people --> ethnicity included in group --> [u'Europeans', u'Latin European peoples']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.177639, F1 = 0.000000, graph = italy --> location events --> [u'Spring 1945 offensive in Italy', u'Battle of the Mincio River', u'Battle of Carpi', u'Battle of the Cremera', u'Battle of Lake Vadimo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.177639, F1 = 0.000000, graph = italy --> book subject works --> [u'The Charterhouse of Parma', u'The Nature of Blood', u'Seventeenth-century Italian prints', u'The Mafia', u'Time at War']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.177639, F1 = 0.000000, graph = italy --> location partially contains --> [u'Adriatic Euroregion', u'Mont Blanc de Courmayeur', u'III. Hornspitze', u'Coglians', u'Wei\xdfseespitze']
+Number of support sentences = 76
+Example support sentence:
+The '''false Mnestra ringlet''', ''Erebia aethiopellus'', is a [[butterfly]] of the family [[Nymphalidae]] found in [[France]] and [[Italy]] ([[Alps]]).
+It originated in [[Valtellina]], a valley in the [[Alps]] of northern [[Italy]]'s [[Lombardy]] region.
+One of his most famous achievements was at the outbreak of the [[Second Punic War]], when he marched an army, which included [[war elephant]]s, from [[Iberian Peninsula|Iberia]] over the [[Pyrenees]] and the [[Alps]] into northern [[Italy]].
+'''German Tyrol''' (; ) is a historical region in the [[Alps]] now divided between [[Austria]] and [[Italy]].
+Entity Score = 0.177639, F1 = 0.000000, graph = italy --> location contains --> [u"Sant'Ignazio Church, Rome", u'Province of Trieste', u'Maria SS. Assunta University of Rome', u'Muggia', u'Albiate']
+Number of support sentences = 12620
+Example support sentence:
+'''Sant'Andrea del Garigliano''' is a ''[[comune]]'' (municipality) in the [[Province of Frosinone]] in the [[Italy|Italian]] region [[Lazio]], located about  southeast of [[Rome]] and about  southeast of [[Frosinone]].
+'''Montelabbate''' is a ''[[comune]]'' (municipality) in the [[Province of Pesaro e Urbino]] in the [[Italy|Italian]] region [[Marche]], located about  northwest of [[Ancona]] and about  southwest of [[Pesaro]].
+'''Valsolda''' is a ''[[comune]]'' (municipality) of about 1,600 inhabitants in the [[Province of Como]] in the [[Italy|Italian]] region [[Lombardy]], located about  north of [[Milan]] and about  north of [[Como]], on the border with [[Switzerland]].
+'''Sozzago''' ([[Piedmontese language|Piedmontese]]: ''Sosach'') is a ''[[comune]]'' (municipality) in the [[province of Novara]] in the [[Italy|Italian]] region [[Piedmont]], located about  northeast of [[Turin]] and about  southeast of [[Novara]].
+Entity Score = 0.177639, F1 = 0.000000, graph = italy --> location time zones --> [u'UTC+01:00', u'Central European Time']
+Number of support sentences = 0
+Example support sentence:
+
+587what band was george clinton in?	[u'The Parliaments', u'P-Funk All Stars', u'Funkadelic', u'George Clinton & Bootsy Collins', u'George Clinton', u'Parliament-Funkadelic']	[u'Clinton Airport']	0	music.group_member.membership..music.group_membership.group	location.location.nearby_airports	George Clinton	Clinton
+Entity Score = 0.724169, F1 = 0.833333, graph = george clinton --> group membership group --> [u'George Clinton & Bootsy Collins', u'The Parliaments', u'Funkadelic', u"Dolby's Cube", u'P-Funk All Stars']
+Number of support sentences = 33
+Example support sentence:
+In addition, Brown's former band mates, including Fred Wesley, Maceo Parker and the Collins brothers, had found bigger success as members of [[George Clinton (musician)|George Clinton]]'s [[Parliament-Funkadelic]] collective.
+*[[George Clinton (musician)|George Clinton]] and [[Parliament-Funkadelic]]
+Cold 187&nbsp;um was at the time experimenting with 1970s [[P-Funk]] samples ([[Parliament]], [[Funkadelic]], [[Bootsy Collins]], [[George Clinton (musician)|George Clinton]] etc.
+Other performances in the first month included [[Cake (band)|Cake]] and [[Anberlin]], [[George Clinton (musician)|George Clinton - Pittsburgh Concert Schedule]] and [[Parliament-Funkadelic]], and Pittsburgh-natives [[Wiz Khalifa]] and [[The Clarks]].
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = clinton --> location nearby airports --> [u'Clinton Airport']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.724169, F1 = 0.000000, graph = george clinton --> place lived location --> [u'Tallahassee', u'Plainfield']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.724169, F1 = 0.000000, graph = george clinton --> person place of birth --> [u'Kannapolis']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.724169, F1 = 0.000000, graph = george clinton --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.246662, F1 = 0.000000, graph = george clinton --> person place of birth --> [u'Little Britain']
+Number of support sentences = 0
+Example support sentence:
+
+588who owns volkswagen car company?	[u'Volkswagen Group']	[u'Chikuhei Nakajima']	0	organization.organization.parent..organization.organization_relationship.parent	organization.organization.founders	Bugatti	Subaru
+Entity Score = 0.129412, F1 = 1.000000, graph = bugatti --> organization relationship parent --> [u'Volkswagen Group']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.658822, F1 = 0.000000, graph = subaru --> organization founders --> [u'Chikuhei Nakajima']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.913900, F1 = 0.000000, graph = volkswagen passenger cars --> organization founders --> [u'Ferdinand Porsche']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.211764, F1 = 0.000000, graph = studebaker --> organization founders --> [u'Clement Studebaker']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.129412, F1 = 0.000000, graph = bugatti --> organization founders --> [u'Ettore Bugatti']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.913900, F1 = 0.000000, graph = volkswagen passenger cars --> company make s --> [u'Volkswagen']
+Number of support sentences = 0
+Example support sentence:
+
+591who is on the board of facebook?	[u'Mark Zuckerberg']	[u'Yuri Andropov', u'Vladimir Lenin', u'Georgy Malenkov', u'Mikhail Gorbachev', u'Nikita Khrushchev', '...']	0	internet.website.owner	government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder	Facebook	Soviet Union
+Entity Score = 0.980081, F1 = 0.666667, graph = facebook --> website owner --> [u'Facebook, Inc.', u'Mark Zuckerberg']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.164665, F1 = 0.000000, graph = soviet union --> government position held office holder --> [u'Leonid Brezhnev', u'Joseph Stalin', u'Vagit Alekperov', u'Vyacheslav Molotov', u'Vladimir Lenin']
+Number of support sentences = 1
+Example support sentence:
+In ten contrasting movements, the cantata relates the story of the [[October Revolution|Bolshevik Revolution]] and the birth of the [[Soviet Union]], from the battle for the [[Winter Palace]] in 1917, through the suffering of 1918 and Lenin's funeral in 1924, to the building of factories and collective farms in the early thirties, and the final consolidation of [[Joseph_Stalin|Stalin]]'s control over the country with his new constitution of 1936.
+Entity Score = 0.164665, F1 = 0.000000, graph = soviet union --> military command military commander --> [u'Nikolai Fyodorovich Vatutin', u'Kliment Voroshilov', u'Semyon Timoshenko', u'Joseph Stalin', u'Nikita Khrushchev']
+Number of support sentences = 1
+Example support sentence:
+In ten contrasting movements, the cantata relates the story of the [[October Revolution|Bolshevik Revolution]] and the birth of the [[Soviet Union]], from the battle for the [[Winter Palace]] in 1917, through the suffering of 1918 and Lenin's funeral in 1924, to the building of factories and collective farms in the early thirties, and the final consolidation of [[Joseph_Stalin|Stalin]]'s control over the country with his new constitution of 1936.
+Entity Score = 0.166666, F1 = 0.000000, graph = rugby football league --> employment tenure person --> [u'Christopher Mather']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.259682, F1 = 0.000000, graph = board of directors --> employment tenure person --> [u'Jim Balsillie', u'William Campbell', u'Josh Hannah', u'Philippe Cases', u'Rebecca Smith-Coggins']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.150000, F1 = 0.000000, graph = board of directors --> employment tenure person --> [u'Jim Balsillie', u'William Campbell', u'Josh Hannah', u'Philippe Cases', u'Rebecca Smith-Coggins']
+Number of support sentences = 0
+Example support sentence:
+
+597who was queen isabella's mother?	[u'Maria of Aragon, Queen of Portugal']	[u'Joan I of Navarre', u'Philip IV of France']	0	people.person.children	people.person.parents	Isabella I of Castile	Isabella of France
+Entity Score = 1.000000, F1 = 0.333333, graph = isabella i of castile --> person children --> [u'Joanna of Castile', u'Catherine of Aragon', u'John, Prince of Asturias', u'Maria of Aragon, Queen of Portugal', u'Isabella of Aragon, Queen of Portugal']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.225547, F1 = 0.000000, graph = isabella of france --> person parents --> [u'Joan I of Navarre', u'Philip IV of France']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = isabella i of castile --> person parents --> [u'Isabella of Portugal, Queen of Castile', u'John II of Castile']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998466, F1 = 0.000000, graph = isabella ii of spain --> person parents --> [u'Infanta Luisa Fernanda, Duchess of Montpensier', u'Ferdinand VII of Spain', u'Maria Christina of the Two Sicilies']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998466, F1 = 0.000000, graph = isabella ii of spain --> marriage spouse --> [u'Francis of Spain, Duke of C\xe1diz']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.225547, F1 = 0.000000, graph = isabella of france --> marriage spouse --> [u'Edward II of England']
+Number of support sentences = 0
+Example support sentence:
+
+598what language do brazilians use?	[u'Pomeranian language', u'German Language', u'Portuguese Language', u'Plautdietsch Language', u'Hunsr\xfcckisch']	[u'Brazilian Portuguese', u'Portuguese Language', u'Italian Language']	0.25	people.ethnicity.languages_spoken	location.country.languages_spoken	Brazilian people	Brazil
+Entity Score = 0.221244, F1 = 0.800000, graph = brazilian people --> ethnicity languages spoken --> [u'Plautdietsch Language', u'Hunsr\xfcckisch dialect', u'German Language', u'Pomeranian language', u'Portuguese Language']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.501174, F1 = 0.250000, graph = brazil --> country languages spoken --> [u'Italian Language', u'Brazilian Portuguese', u'Portuguese Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.501174, F1 = 0.333333, graph = brazil --> country official language --> [u'Portuguese Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.221244, F1 = 0.800000, graph = brazilian people --> ethnicity languages spoken --> [u'Plautdietsch Language', u'Hunsr\xfcckisch dialect', u'German Language', u'Pomeranian language', u'Portuguese Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.501174, F1 = 0.000000, graph = brazil --> country form of government --> [u'Presidential system', u'Federal republic', u'Constitutional republic']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> [u'Language and the Internet', u'The Nature of This Paradigm Dancing', u'Language in Danger', u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'The British Edda']
+Number of support sentences = 0
+Example support sentence:
+
+600what is the clemson mascot name?	[u'The Tiger and the Cub', u'The Clemson Tiger']	[u"Clemson Tigers men's basketball"]	0	education.educational_institution.mascot	sports.sports_team_location.teams	Clemson University	Clemson
+Entity Score = 0.436444, F1 = 1.000000, graph = clemson university --> educational institution mascot --> [u'The Clemson Tiger', u'The Tiger and the Cub']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.134863, F1 = 0.000000, graph = clemson --> sports team location teams --> [u"Clemson Tigers men's basketball"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.134863, F1 = 0.000000, graph = clemson --> location time zones --> [u'Eastern Time Zone']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.436444, F1 = 0.000000, graph = clemson university --> educational institution sports teams --> [u"Clemson Tigers men's basketball"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.436444, F1 = 0.000000, graph = clemson university --> organization founders --> [u'Thomas Green Clemson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.134863, F1 = 0.000000, graph = clemson --> location contains --> [u'Clemson University Historic District II', u'Clemson University', u'Fort Hill', u'Old Stone Church and Cemetery', u'Hanover House']
+Number of support sentences = 0
+Example support sentence:
+
+604where did kobe earthquake happen?	[u'Great Hanshin earthquake']	[u'Keihanshin', u'Japan', u'Hy\u014dgo Prefecture']	0	type.object.name	location.location.containedby	Great Hanshin earthquake	Kobe
+Entity Score = 0.998765, F1 = 1.000000, graph = great hanshin earthquake --> object name --> [u'Great Hanshin earthquake']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.845504, F1 = 0.000000, graph = kobe --> location containedby --> [u'Japan', u'Hy\u014dgo Prefecture', u'Keihanshin']
+Number of support sentences = 143
+Example support sentence:
+Jones was born in [[Kobe]], [[Japan]], to American parents.
+The five gathered for the first time in [[Kobe]], [[Japan]] in January 2007.
+* Deployed during August 1950 to [[Kobe]], [[Japan]]
+The Second World Conference on Disaster Reduction conference was held in [[Kobe]], [[Japan]] from 18 to 22 January 2005.
+Entity Score = 0.845504, F1 = 0.000000, graph = kobe --> administrative division capital relationship administrative division --> [u'Hy\u014dgo Prefecture']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.845504, F1 = 0.000000, graph = kobe --> administrative area administrative parent --> [u'Hy\u014dgo Prefecture']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.845504, F1 = 0.000000, graph = kobe --> location contains --> [u'Kobe Institute Of Computing', u'Konan University', u'Nishi-ku, Kobe', u"Kobe Shoin Women's University", u'Kobe University of Fashion and Design']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.845504, F1 = 0.000000, graph = kobe --> travel destination tourist attractions --> [u'Meriken Park', u'Nunobiki Falls', u'Kobe Port Tower', u'Ikuta Shrine', u'Mount Maya']
+Number of support sentences = 0
+Example support sentence:
+
+614who is the president of peru now?	[u'Ollanta Humala']	[u'Miguel Antonio Caro', u'Hafez al-Assad', u'Charles de Gaulle', u'Dilma Rousseff', u'Henri Christophe', '...']	0.00272479564033	government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder	government.government_office_category.officeholders..government.government_position_held.office_holder	Peru	President
+Entity Score = 0.895963, F1 = 0.666667, graph = peru --> government position held office holder --> [u'Sim\xf3n Bol\xedvar', u'Ollanta Humala']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.215957, F1 = 0.000000, graph = president --> government position held office holder --> [u'Luisa Diogo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.215957, F1 = 0.002725, graph = president --> government position held office holder --> [u'Blaise Compaor\xe9', u'\xd3scar Carmona', u'Jean-Fran\xe7ois Robillon', u'Francisco Craveiro Lopes', u'Rafael Filiberto Bonnelly']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.320921, F1 = 0.000000, graph = president of the united states --> government position held office holder --> [u'Benjamin Harrison', u'James Monroe', u'William Henry Harrison', u'James A. Garfield', u'Franklin D. Roosevelt']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.154710, F1 = 0.000000, graph = president of the united states --> government position held office holder --> [u'Benjamin Harrison', u'James Monroe', u'William Henry Harrison', u'James A. Garfield', u'Franklin D. Roosevelt']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = president of peru --> government position held office holder --> [u'Sim\xf3n Bol\xedvar']
+Number of support sentences = 0
+Example support sentence:
+
+615what time zone is in the bahamas?	[u'UTC-5', u'North American Eastern Time Zone']	[u'UTC-5', u'Eastern Time Zone']	0.5	location.location.time_zones	location.location.time_zones	Turks and Caicos Islands	Bahamas
+Entity Score = 0.999988, F1 = 0.666667, graph = turks and caicos islands --> location time zones --> [u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.992698, F1 = 0.500000, graph = bahamas --> location time zones --> [u'Eastern Time Zone', u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999988, F1 = 0.666667, graph = turks and caicos islands --> location time zones --> [u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist track --> [u'Renren (Backing Track)', u'Renren...', u'RenRen', u'\u201cFor Tomorrow\u201d', u'Sarariman (Takayo, Maiko)']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.992698, F1 = 0.000000, graph = bahamas --> sports team location teams --> [u'Bahamas national football team']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.147169, F1 = 0.000000, graph = lewis cass --> author works written --> [u'An examination of the question, now in discussion, between the American and British governments, concerning the rights of search', u'A discourse, delivered at the first meeting of the Historical Society of Michigan, Sept. 18, 1829']
+Number of support sentences = 0
+Example support sentence:
+
+618who plays roxanne in ghost rider?	[u'Daryl Hannah']	[u'Nicolas Cage', u'Jonathan Oldham', u'Mathew Wilkinson', u'Matt Long', u'Peter Callan', '...']	0	film.film.starring..film.performance.actor	film.film.starring..film.performance.actor	Roxanne	Ghost Rider
+Entity Score = 0.170905, F1 = 0.068966, graph = roxanne --> performance actor --> [u'Kevin Nealon', u'Claire Caplan', u'Hope North', u'Jean Sincere', u'Shandra Beri']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.189309, F1 = 0.000000, graph = ghost rider --> performance actor --> [u'Wes Bentley', u'Brett Swain', u'Troy Planet', u'Kenneth Ransom', u'Sally Arnott']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.170905, F1 = 0.068966, graph = roxanne --> performance actor --> [u'Kevin Nealon', u'Claire Caplan', u'Hope North', u'Jean Sincere', u'Shandra Beri']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.170905, F1 = 0.000000, graph = roxanne --> award nomination award nominee --> [u'Steve Martin']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.189309, F1 = 0.000000, graph = ghost rider --> award nomination award nominee --> [u'Nicolas Cage']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.170905, F1 = 0.000000, graph = roxanne --> award honor award winner --> [u'Steve Martin']
+Number of support sentences = 0
+Example support sentence:
+
+627what county is st. louis park in?	[u'Hennepin County']	[u'St. Louis County', u'Area code 314', u'United States of America', u'Area code 557', u'Missouri']	0	location.location.containedby	location.location.containedby	St. Louis Park	St. Louis
+Entity Score = 0.990584, F1 = 0.400000, graph = st. louis park --> location containedby --> [u'Minnesota', u'United States of America', u'Hennepin County', u'Minneapolis\u2013Saint Paul']
+Number of support sentences = 1
+Example support sentence:
+'''Minnesota State Highway 7''', or '''Trunk Highway&nbsp;7''', ('''MN&nbsp;7''', '''TH&nbsp;7''') is a [[state highway]] in [[Minnesota]], which runs from its intersection with [[Minnesota State Highway 28|MN&nbsp;28]] near [[Beardsley, Minnesota|Beardsley]] and continues east to its terminus with [[Minnesota State Highway 100|MN&nbsp;100]] and County Road&nbsp;25 (CR&nbsp;25) in [[St. Louis Park, Minnesota|St.
+Top5
+Entity Score = 0.798137, F1 = 0.000000, graph = st. louis --> location containedby --> [u'Missouri', u'United States of America', u'St. Louis County', u'Area code 557', u'Area code 314']
+Number of support sentences = 319
+Example support sentence:
+|align=left| [[Savvis Center]],<br>[[St. Louis]], [[Missouri]]
+| [[St. Louis Cardinals]] || [[St. Louis]] || [[Missouri]] || MLB || 1882 || ||
+* The [[St. Louis]], [[Missouri]] [[Metro-East]] region of Illinois ([[Madison County, Illinois]], [[St. Clair County, Illinois]], [[Montgomery County, Illinois]], [[Macoupin County, Illinois]], [[Jersey County, Illinois]], [[Bond County, Illinois]], and [[Adams County, Illinois]])
+Calhoun County is part of the [[Metro-East]] portion of the [[St. Louis]], [[Missouri|MO]]-IL [[Greater St. Louis|Metropolitan Statistical Area]].
+Entity Score = 0.798137, F1 = 0.000000, graph = st. louis --> location contains --> [u'Cheltenham', u'St. Louis Place', u'Chaifetz Arena', u'Kingsway West', u'St. Louis Hills']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.798137, F1 = 0.000000, graph = st. louis --> hud county place county --> [u'St. Louis']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = st. louis park --> location contains --> [u'University of Phoenix-Minneapolis/St Paul Campus', u"Toby Keith's I Love This Bar & Grill", u'Chicago, Milwaukee, St. Paul and Pacific Depot', u'Peavey\u2013Haglin Experimental Concrete Grain Elevator', u'DeVry University-Minnesota']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.990584, F1 = 0.000000, graph = st. louis park --> location contains --> [u'University of Phoenix-Minneapolis/St Paul Campus', u"Toby Keith's I Love This Bar & Grill", u'Chicago, Milwaukee, St. Paul and Pacific Depot', u'Peavey\u2013Haglin Experimental Concrete Grain Elevator', u'DeVry University-Minnesota']
+Number of support sentences = 0
+Example support sentence:
+
+646who was king after leonidas died?	[u'Pleistarchus']	[u'Albert II, Prince of Monaco', u'Hamad bin Isa Al Khalifah', u'Albert II of Belgium', u'Jinseong of Silla', u'Jigme Khesar Namgyel Wangchuck', '...']	0	people.person.children	government.government_office_category.officeholders..government.government_position_held.office_holder	Leonidas I	Monarch
+Entity Score = 0.573778, F1 = 1.000000, graph = leonidas i --> person children --> [u'Pleistarchus']
+Number of support sentences = 2
+Example support sentence:
+* [[Pausanias (general)|Pausanias]] becomes regent for King Leonidas' son, [[Pleistarchus]], after [[Leonidas I]] is killed at [[Thermopylae]].
+He was a scion of the royal house of the [[Agiad]]s but was not in the direct line of succession: he was the son of [[Cleombrotus (regent)|Cleombrotus]] and nephew of [[Leonidas I]], and served as [[regent]] after the latter's death, since Leonidas' son [[Pleistarchus]] was under age.
+Top5
+Entity Score = 0.358902, F1 = 0.000000, graph = monarch --> government position held office holder --> [u'Albert II, Prince of Monaco', u'Mohammed bin Rashid Al Maktoum', u'George Tupou V', u'Tupou VI', u'Mohammed VI of Morocco']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.358902, F1 = 0.000000, graph = monarch --> government position held office holder --> [u'Elizabeth II']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.358902, F1 = 0.000000, graph = monarch --> government position held appointed by --> [u'Adolf I, Count of the Mark']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.573778, F1 = 0.000000, graph = leonidas i --> military command military combatant --> [u'Sparta']
+Number of support sentences = 13
+Example support sentence:
+However, this did not prevent Athens from being captured and sacked twice by the [[Achaemenid Empire|Persians]] within one year, after a heroic resistance at [[Battle of Thermopylae|Thermopylae]] by [[Sparta]]ns and other Greeks led by [[Leonidas I|King Leonidas]], after both [[Boeotia]] and [[Attica]] fell to the Persians.
+** [[August 11]] &ndash; [[Leonidas I]], king of [[Sparta]]
+The plot revolves around [[Leonidas I|King Leonidas]] ([[Gerard Butler]]), who leads 300 [[Sparta]]ns into battle against the [[Achaemenid Empire|Persian]] [[Divine king|"god-King"]] [[Xerxes I of Persia|Xerxes]] ([[Rodrigo Santoro]]) and his invading army of more than 300,000 soldiers.
+His army engulfs a force of 300 [[Sparta]]ns and 700 [[Thespiae]] under the [[Sparta]]n King, [[Leonidas I]].
+Entity Score = 0.573778, F1 = 0.000000, graph = leonidas i --> marriage spouse --> [u'Gorgo, Queen of Sparta']
+Number of support sentences = 0
+Example support sentence:
+
+652where was mary todd lincoln from?	[u'Lexington', u'Springfield']	[u'Tulsa']	0	people.person.places_lived..people.place_lived.location	people.person.place_of_birth	Mary Todd Lincoln	Todd Lincoln
+Entity Score = 0.996813, F1 = 1.000000, graph = mary todd lincoln --> place lived location --> [u'Lexington', u'Springfield']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = todd lincoln --> person place of birth --> [u'Tulsa']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = todd lincoln --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996923, F1 = 0.666667, graph = mary todd lincoln --> person place of birth --> [u'Lexington']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996813, F1 = 0.666667, graph = mary todd lincoln --> person place of birth --> [u'Lexington']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996923, F1 = 0.000000, graph = mary todd lincoln --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+
+653who won the battle of gettysburg?	[u'United States of America']	[u'Marcelo Ebrard', u'Andr\xe9s Manuel L\xf3pez Obrador']	0	military.military_conflict.combatants..military.military_combatant_group.combatants	government.political_district.representatives..government.government_position_held.office_holder	Battle of Gettysburg	Mexico City
+Entity Score = 0.505527, F1 = 0.500000, graph = battle of gettysburg --> military combatant group combatants --> [u'United States of America', u'Confederate States of America', u'Union']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.454545, F1 = 0.000000, graph = mexico city --> government position held office holder --> [u'Marcelo Ebrard', u'Andr\xe9s Manuel L\xf3pez Obrador']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.454545, F1 = 0.000000, graph = mexico city --> government position held office holder --> [u'Marcelo Ebrard', u'Andr\xe9s Manuel L\xf3pez Obrador']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.272207, F1 = 0.000000, graph = the battle of gettysburg --> performance actor --> [u'Willard Mack', u'Charles K. French']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.995011, F1 = 0.000000, graph = battle of gettysburg --> military command military commander --> [u'Robert E. Lee', u'George Meade']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.620482, F1 = 0.000000, graph = battle of cold harbor --> military command military commander --> [u'Robert E. Lee', u'Ulysses S. Grant', u'George Meade']
+Number of support sentences = 0
+Example support sentence:
+
+656what do australians call bigfoot?	[u'Waleed Aly']	[u'Will Penny', u'Suburban Sasquatch', u'Assault of the Sasquatch', u'Eaglewalk']	0	people.ethnicity.people	film.film_character.portrayed_in_films..film.performance.film	Australians	Bigfoot
+Entity Score = 0.485742, F1 = 0.028571, graph = australians --> ethnicity people --> [u'Katerina Kotsonis', u'John Collins', u'Damien Anderson', u'Frances Rings', u'Sean Williams']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.886088, F1 = 0.000000, graph = bigfoot --> performance film --> [u'Will Penny', u'Suburban Sasquatch', u'Eaglewalk', u'Assault of the Sasquatch']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.289883, F1 = 0.000000, graph = australia --> book subject works --> [u'The bamboo flute', u'Lockie Leonard Legend', u'Railway nationalisation and the farmer.', u'Novae Hollandiae Plantarum Specimen', u'Handbook of Australian, New Zealand and Antarctic Birds']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.289883, F1 = 0.000000, graph = australia --> location time zones --> [u'UTC+8', u'UTC+10:00', u'UTC+09:30']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.289883, F1 = 0.000000, graph = australia --> religion percentage religion --> [u'Buddhism', u'Catholicism', u'Islam', u'Anglicanism']
+Number of support sentences = 12
+Example support sentence:
+'''Holy Cross College''' is a [[Catholicism|Catholic]] [[high school]] for boys located in the suburb of [[Ryde]] in [[Sydney]], [[New South Wales]], [[Australia]] established in the tradition of the [[Patrician Brothers]].
+'''St Paul's Cathedral''' is an [[Anglicanism|Anglican]] [[cathedral]] in [[Melbourne]], [[Victoria (Australia)|Victoria]], [[Australia]].
+He also earned his degree in [[Buddhism|Buddhist]] philosophy from Fu Yan Buddhist Institute, [[Taiwan]], Bachelor of Arts in Psychology and Sociology from [[Monash University]], [[Australia]], and Master of Buddhist Studies from [[University of Sydney]], Australia.
+'''David John Leyburn Richardson'''  (born 14 March 1946) is an [[Australia]]n-born [[Anglicanism|Anglican]] priest, former cathedral dean and director of the [[Anglican Centre in Rome]].
+Entity Score = 0.289883, F1 = 0.000000, graph = australia --> country currency used --> [u'Australian dollar']
+Number of support sentences = 0
+Example support sentence:
+
+667what year was first world series?	[u'1903 World Series']	[u'1997 World Series', u'1953 World Series', u'1903 World Series', u'2008 World Series', u'1918 World Series', '...']	0.018691588785	type.object.name	time.recurring_event.instances	1903 World Series	World Series
+Entity Score = 1.000000, F1 = 1.000000, graph = 1903 world series --> object name --> [u'1903 World Series']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.672604, F1 = 0.018692, graph = world series --> recurring event instances --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.672604, F1 = 0.018018, graph = world series --> sports championship events --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.672604, F1 = 0.000000, graph = world series --> book subject works --> [u"The Gashouse Gang: How Dizzy Dean, Leo Durocher, Branch Rickey, Pepper Martin, and Their Colorful, Come-from-Behind Ball Club Won the World Series - and America's Heart - During the Great Depression"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = 1903 world series --> event locations --> [u'Huntington Avenue Grounds', u'Exposition Park']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = 1903 world series --> sports championship event season --> [u'1903 Major League Baseball Season']
+Number of support sentences = 0
+Example support sentence:
+
+673what countries constitute the eu?	[u'Czech Republic', u'Estonia', u'Denmark', u'Finland', u'France', u'Austria', u'Germany', u'Belgium', u'Cyprus', u'Bulgaria']	[u'Paris Dauphine University', u'Benbradagh', u'Ul\xf8ya', u'Great End', u'Azerbaijan University of Languages', '...']	0.00811541929666	organization.membership_organization.members..organization.organization_membership.member	location.location.contains	European Union	Europe
+Entity Score = 1.000000, F1 = 0.526316, graph = european union --> organization membership member --> [u'Belgium', u'Bulgaria', u'Croatia', u'Finland', u'Germany']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.148580, F1 = 0.008115, graph = europe --> location contains --> [u'Lakmos', u'Warkworth Castle', u'Hru\u0161ki vrh', u'Danylo Halytsky Lviv National Medical University', u'Tokarnia']
+Number of support sentences = 1009
+Example support sentence:
+7000 BC''': [[Wild horse]] populations drop in mainland [[Europe]]; horse disappears from the island of [[Great Britain]], but was never found in [[Ireland]] (Horse & Man, Clutton-Brock) Extinction probably caused by climatic shift, leading to excessively rich spring feed and mass lameness from [[Laminitis|founder]], making them easy prey (Bolich & Ingraham)
+The only retentionist country in [[Europe]] is [[Belarus]].
+'''''Fraxinus ornus''''' ('''manna ash''' or '''South European flowering ash''') is a species of ''[[Fraxinus]]'' native to southern [[Europe]] and southwestern [[Asia]], from [[Spain]] and [[Italy]] north to [[Austria]], [[Poland]] and the [[Czech Republic]], and east through the [[Balkans]], [[Turkey]], and western [[Syria]] to [[Lebanon]] and [[Armenia]].
+Germany is in [[Western Europe|Western]] and [[Central Europe|Central]] [[Europe]], bordering [[Denmark]] in the north [[Poland]] and the [[Czech Republic]] in the east, [[Austria]] and [[Switzerland]] in the south, [[France]] and [[Luxembourg]] in the south-west, and [[Belgium]] and the [[Netherlands]] in the north-west.
+Entity Score = 1.000000, F1 = 0.000000, graph = european union --> mailing address citytown --> [u'Brussels']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = european union --> mailing address citytown --> [u'City of Brussels']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.181818, graph = european union --> mailing address country --> [u'Belgium']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = european union --> mailing address state province region --> [u'Brussels']
+Number of support sentences = 0
+Example support sentence:
+
+682who is the coach of the sf giants?	[u'Tim Flannery']	[u'Tom Maher', u'Steve Coppell', u'Jeff Quinn', u'Tim Ginever', u'Cl\xe9ment Jodoin', '...']	0.000295464618112	baseball.baseball_team.current_coaches..baseball.current_coaching_tenure.baseball_coach	people.profession.people_with_this_profession	San Francisco Giants	Coach
+Entity Score = 1.000000, F1 = 0.250000, graph = san francisco giants --> current coaching tenure baseball coach --> [u'Bill Hayes', u'Mark Gardener', u'Roberto Kelly', u'Tim Flannery', u'Dave Righetti']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.367595, F1 = 0.000295, graph = coach --> profession people with this profession --> [u'Clarence Shelmon', u'Paulo Jorge Rebelo Duarte', u'Dougie Brown', u'Ricky Hunley', u'Brent Guy']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.438367, F1 = 0.000000, graph = science fiction --> profession people with this profession --> [u'Jim Baen', u'Duncan Lunan', u'Jacob Weisman', u'Michael Cobley', u'Gary Gibson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = san francisco giants --> employment tenure person --> [u'Peter A. Magowan', u'Ron Schueler', u'Brian Sabean']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.367595, F1 = 0.000000, graph = coach --> sports team coach tenure coach --> [u'Franky Vercauteren', u'Vahid Halilhod\u017ei\u0107', u'Lynn Howells', u'Lucien Favre', u'Jeff Hornacek']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.367595, F1 = 0.000000, graph = coach --> sports team coach tenure team --> [u'FC Kuban Krasnodar', u'Boston Celtics', u'Los Angeles Clippers', u'Poland national football team', u'Vitesse']
+Number of support sentences = 0
+Example support sentence:
+

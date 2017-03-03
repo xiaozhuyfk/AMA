@@ -139,3 +139,855 @@ Entity Score = 0.841572, F1 = 0.000000, graph = comefrom --> object name --> [u'
 Number of support sentences = 0
 Example support sentence:
 
+189who plays blaine in batman?	[u'Him/Herself']	[u'Sam Rockwell', u'Peter Weller', u'Jason Sudeikis', u'Jing Abalos', u'Michael Keaton', '...']	0	EMPTY	film.film_character.portrayed_in_films..film.performance.actor	NONE	Batman
+Empty
+Top5
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> performance actor --> [u'Kevin Conroy', u'Val Kilmer', u'Michael Keaton', u'Will Friedle', u'Will Arnett']
+Number of support sentences = 1
+Example support sentence:
+Arnett lent his voice to [[Batman]] in the film ''[[The Lego Movie]]'', making him the second Canadian actor to portray Batman in a film, after [[Bruce_Greenwood|Bruce Greenwood]] first did so in [[Batman: Under the Red Hood|Batman: Under the Red hood]]; he reprised the role in ''[[The Lego Batman Movie]]'', a spin-off of ''The Lego Movie'' released in 2017.
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> tv guest role actor --> [u'Seth Green']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> regular tv appearance actor --> [u'Kevin Conroy', u'Will Friedle', u'Adam West']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> dubbing performance actor --> [u'Shinichiro Miki', u'Tessh\u014d Genda']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.608938, F1 = 0.000000, graph = batman --> fictional character character created by --> [u'Bruce Timm', u'Bill Finger', u'Bob Kane', u'Paul Dini']
+Number of support sentences = 0
+Example support sentence:
+
+192when is st joseph birthday?	[u'March 19']	[u'Vatterott College, Saint Joseph, Missouri', u'Hall Street Historic District', u'German-American Bank Building', u'Edmond Jacques Eckel House', u'St. Joseph Female College', '...']	0	EMPTY	location.location.contains	NONE	Saint Joseph
+Empty
+Top5
+Entity Score = 0.235369, F1 = 0.000000, graph = saint joseph --> location contains --> [u'Missouri Western State University', u'Hillyard Technical Ctr.', u'Patee House', u'Patee Town Historic District', u'Robidoux Row']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.235369, F1 = 0.000000, graph = saint joseph --> travel destination tourist attractions --> [u'Patee House']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.235369, F1 = 0.000000, graph = saint joseph --> hud county place county --> [u'Buchanan County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.267335, F1 = 0.000000, graph = saint joseph --> person profession --> [u'Carpenter']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.235369, F1 = 0.000000, graph = saint joseph --> location containedby --> [u'Missouri', u'United States of America', u'Buchanan County']
+Number of support sentences = 3
+Example support sentence:
+Sully headed US troops out of [[Ft. Leavenworth]], [[Kansas]], in June 1861 as [[Captain (United States)|captain]] and [[Military occupation|occupied]] the city of [[St. Joseph, Missouri|St Joseph]], [[Missouri]], declaring [[martial law]].
+In [[Missouri]], US&nbsp;169 replaced [[Missouri Route 1 (pre-1926)|Route&nbsp;1]] from [[Kansas City, Missouri|Kansas City]] to [[St. Joseph, Missouri|St.
+He moved to [[Missouri]] in 1845 with his parents, who settled on a farm near [[St. Joseph, Missouri|St.
+
+194what jamaican money called?	[u'United States dollar']	[u'Greenback: The Almighty Dollar and the Invention of America', u'The 21 Success Secrets of Self-Made Millionaires', u'Some Thoughts Concerning Education', u'Fiat Money Inflation in France', u'Devil May Care', '...']	0	EMPTY	book.book_subject.works	NONE	Money
+Empty
+Top5
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> book subject works --> [u'The Millionaires: A Novel of the New South', u'Money: Whence It Came, Where It Went', u'The Passion-Driven Writer and the Digital-Age Literary Marketplace', u'Bunny money', u'Devil May Care']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> object name --> [u'Money']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> film subject films --> [u'97% Owned']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> symbolism symbol --> [u'Maneki-neko']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> quotation subject quotations about this subject --> [u'Anyone can be great with money. With money, greatness is not a talent but an obligation. The trick is to be great without money.', u"I haven't got as much money as some folks, but I've got as much impudence as any of them, and that's the next thing to money.", u'We might make a public moan in the newspapers about the decay of conscience, but in private conversation, no matter what crimes a man may have committed or how cynically he may have debased his talent or his friends, variations on the answer Yes, but I did it for the money, satisfy all but the most tiresome objections.', u'There are few ways in which a man can be more innocently employed than in getting money.', u'I have imbibed such a love for money that I keep some sequins in a drawer to count, and cry over them once a week.']
+Number of support sentences = 0
+Example support sentence:
+
+195what is the islamic belief?	[u'God in Islam', u'Monotheism', u'Qiyamah', u'Predestination in Islam', u'Tawhid', u'Masih ad-Dajjal', u'Islamic holy books', u'Prophets in Islam', u'Islamic view of angels']	[u'Belief']	0	EMPTY	type.object.name	NONE	Belief
+Empty
+Top5
+Entity Score = 0.889577, F1 = 0.000000, graph = belief --> object name --> [u'Belief']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.889577, F1 = 0.000000, graph = belief --> equivalent topic equivalent type --> [u'Belief']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.889577, F1 = 0.000000, graph = belief --> quotation subject quotations about this subject --> [u'The very act of believing creates strength of its own.', u'As a rule we disbelieve all the facts and theories for which we have no use.', u'How many things served us but yesterday as articles of faith, which today we deem but fables?', u'Bandara was not an easy place to return to:  it could hide from the common worlds whose periphery it inhabited.  But Bandara never had, in all its years, completely disappeared.', u"One can't believe impossible things. I dare say you haven't had much practice, said the Queen. When I was your age, I always did it for half-an-hour a day. Why, sometimes I've believed as many as six impossible things before breakfast."]
+Number of support sentences = 0
+Example support sentence:
+
+212who influenced picasso art?	[u'\xc9douard Manet', u'Paul C\xe9zanne', u'Henri Rousseau', u'Paul Gauguin', u'Sara Murphy', u'Diego Vel\xe1zquez', u'Jean Auguste Dominique Ingres', u'Eug\xe8ne Delacroix', u'Alfred Jarry', u'Francisco Goya']	[u'Art?']	0	EMPTY	type.object.name	NONE	Art?
+Empty
+Top5
+Entity Score = 0.500000, F1 = 0.000000, graph = art --> object name --> [u'Art?']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = art --> object name --> [u'Art?']
+Number of support sentences = 0
+Example support sentence:
+
+223what is malaysian currency?	[u'Malaysian ringgit']	[u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']	0	EMPTY	book.book_subject.works	NONE	Currency
+Empty
+Top5
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> book subject works --> [u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> object name --> [u'Currency']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> topic image --> [u'Euromoenterogsedler']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> equivalent topic equivalent type --> [u'Currency']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.882146, F1 = 0.000000, graph = currency --> ikariam resource category resources --> [u'Gold']
+Number of support sentences = 0
+Example support sentence:
+
+224where will tebow go in 2013?	[u'New York Jets']	[u'Tennessee', u'Claiborne County']	0	EMPTY	location.location.containedby	NONE	Goin
+Empty
+Top5
+Entity Score = 0.231707, F1 = 0.000000, graph = goin --> location containedby --> [u'Tennessee', u'Claiborne County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = goin moselle --> location containedby --> [u'Moselle']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.231707, F1 = 0.000000, graph = goin --> object name --> [u'Goin']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = goin moselle --> object name --> [u'Goin, Moselle']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.231707, F1 = 0.000000, graph = goin --> topic alias --> [u'Goin, Tennessee']
+Number of support sentences = 0
+Example support sentence:
+
+249where do they speak turkish?	[u'Turkey', u'Republic of Macedonia', u'Austria', u'Cyprus', u'Republic of Kosovo']	[u'They Speak']	0	EMPTY	type.object.name	NONE	They Speak
+Empty
+Top5
+Entity Score = 0.500000, F1 = 0.000000, graph = they speak --> object name --> [u'They Speak']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = they speak --> object name --> [u'They Speak']
+Number of support sentences = 0
+Example support sentence:
+
+257who did shaq first play for?	[u'Orlando Magic']	[u'FirstPlay']	0	EMPTY	type.object.name	NONE	FirstPlay
+Empty
+Top5
+Entity Score = 0.980263, F1 = 0.000000, graph = firstplay --> object name --> [u'FirstPlay']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.333333, F1 = 0.000000, graph = for --> object name --> [u'For?']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.333333, F1 = 0.000000, graph = for --> object name --> [u'For?']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.333333, F1 = 0.000000, graph = for --> object name --> [u'For?']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.980263, F1 = 0.000000, graph = firstplay --> topic official website --> [u'http://www.firstplay.co.uk']
+Number of support sentences = 0
+Example support sentence:
+
+271what are abraham sons names?	[u'Zimran', u'Ishbak', u'Midian', u'Shuah', u'Ishmael', u'Jokshan', u'Isaac', u'Medan']	[u'Name']	0	EMPTY	type.object.name	NONE	Name
+Empty
+Top5
+Entity Score = 0.100480, F1 = 0.000000, graph = name --> object name --> [u'Name']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.100480, F1 = 0.000000, graph = name --> topic alias --> [u'\u038c\u03bd\u03bf\u03bc\u03b1']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.100480, F1 = 0.000000, graph = name --> processed with review queue question id --> [u'/rabj/store/questions/question_a23768cad109e15c']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.100480, F1 = 0.000000, graph = name --> topic image --> [u'Child baptism']
+Number of support sentences = 0
+Example support sentence:
+
+278what timezone is sweden gmt?	[u'Central European Time', u'UTC+01:00']	[u'Time zone']	0	EMPTY	type.object.name	NONE	Time zone
+Empty
+Top5
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> object name --> [u'Time zone']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> linguistic hint subject form --> [u'Time zones']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> equivalent topic equivalent type --> [u'Time Zone']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwPvi0JwpEbGdrcN5Y29ycA']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.942747, F1 = 0.000000, graph = time zone --> ontology instance mapping ontology --> [u'OpenCyc']
+Number of support sentences = 0
+Example support sentence:
+
+293where did john franklin live?	[u'Blue Island']	[u'Spilsby']	0	EMPTY	people.person.place_of_birth	NONE	John Franklin
+Empty
+Top5
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> person place of birth --> [u'Spilsby']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> deceased person place of death --> [u'King William Island']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> marriage spouse --> [u'Eleanor Anne Porden', u'Jane Griffin']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> object name --> [u'John Franklin']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.927909, F1 = 0.000000, graph = john franklin --> kwtopic has sentences --> [u'The British forces were repelled by the Americans and during the battle Franklin was slightly wounded.', u"Franklin's first opportunity for Arctic exploration came in January 1818 when Franklin was placed in command of the brig 'Trent', as part of a two-vessel effort to conquer the Pole by way of  Spitzbergen, north of Norway.", u'Elected a member of the Royal Society, he published his report on the voyage, ""Narrative of a Journey to the Shores of the Polar Sea, in the Years 1819-22"" (1823).', u"In May 1845 Franklin sailed with two screw steamers, the 'Erebus' and the 'Terror', provisions for three years (including a relatively new invention, canned meat) and 128 men, on his final voyage in search of the Northwest Passage.", u'The ships were last sighted by two British whaling ships in Baffin Bay, near the eastern end of the Northwest Passage, in late July 1845, and in 1847, when no further news had been received of the party for almost two years, search parties (both public and private) and additional provisions were send out to several stations along the coast.']
+Number of support sentences = 0
+Example support sentence:
+
+295what county is st paul nc in?	[u'Robeson County']	[u'Commerce Building', u'Benjamin Brunson House', u'Colorado Street Bridge', u'Finch, Vanslyck, and McConville Dry Goods Company Building', u'James Griffin Stadium', '...']	0	EMPTY	location.location.contains	NONE	Saint Paul
+Empty
+Top5
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> location contains --> [u'Minnesota History Center', u'Saint Paul Seminary School of Divinity', u'University of St. Thomas', u'Hamline University', u'Czech-Slovak Protective Society']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> location containedby --> [u'Minnesota', u'United States of America', u'Ramsey County', u'Area code 651']
+Number of support sentences = 103
+Example support sentence:
+| birth_place = [[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]], United States
+Mike Evgen, as his [[nickname]] implies, is from the Rice Street neighborhood in [[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]].
+'''Jim McKenzie''' (born June 10, 1984 in [[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]]) is an American former professional [[ice hockey]] player who last played for the [[Evansville IceMen]] of the [[ECHL]].
+'''[[Saint Paul, Minnesota|Saint Paul]]''' is the second largest [[city]] in the state of [[Minnesota]] in the [[United States]], the [[county seat]] of [[Ramsey County, Minnesota|Ramsey County]], and the [[List of capitals in the United States|state capital]] of Minnesota.
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> administrative division capital relationship administrative division --> [u'Minnesota', u'Ramsey County']
+Number of support sentences = 103
+Example support sentence:
+| birth_place = [[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]], United States
+Mike Evgen, as his [[nickname]] implies, is from the Rice Street neighborhood in [[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]].
+'''Jim McKenzie''' (born June 10, 1984 in [[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]]) is an American former professional [[ice hockey]] player who last played for the [[Evansville IceMen]] of the [[ECHL]].
+'''[[Saint Paul, Minnesota|Saint Paul]]''' is the second largest [[city]] in the state of [[Minnesota]] in the [[United States]], the [[county seat]] of [[Ramsey County, Minnesota|Ramsey County]], and the [[List of capitals in the United States|state capital]] of Minnesota.
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> bibs location country --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.424369, F1 = 0.000000, graph = saint paul --> place with neighborhoods neighborhoods --> [u'Swede Hollow', u'Saint Anthony Park', u'Highland Park', u'Frogtown']
+Number of support sentences = 0
+Example support sentence:
+
+315who do islamic people follow?	[u'Allah']	[u'English Language']	0	EMPTY	book.periodical.language	NONE	People
+Empty
+Top5
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> [u'English Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure person --> [u'Ann Moore']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> object name --> [u'People']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.222446, F1 = 0.000000, graph = people --> object name --> [u'People']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical subjects --> [u'Celebrity']
+Number of support sentences = 0
+Example support sentence:
+
+338what does janelle brown work?	[u'Actor']	[u'Becoming Sister Wives: The Story of an Unconventional Marriage']	0	EMPTY	book.author.works_written	NONE	Janelle Brown
+Empty
+Top5
+Entity Score = 0.256579, F1 = 0.000000, graph = janelle brown --> author works written --> [u'Becoming Sister Wives: The Story of an Unconventional Marriage']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.736842, F1 = 0.000000, graph = janelle brown --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = brown work --> image rights holder text attribution --> [u'Attributed to wikipedia user PKM']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = brown work --> image appears in topic gallery --> [u'Ford Madox Brown', u'Work', u'Thomas Plint']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.736842, F1 = 0.000000, graph = janelle brown --> object name --> [u'Janelle Brown']
+Number of support sentences = 0
+Example support sentence:
+
+367what is tatu baby's real name?	[u'Yulia Volkova']	[u'Rush Limbaugh, Sr.', u'Mildred Limbaugh']	0	EMPTY	people.person.parents	NONE	Rush Limbaugh
+Empty
+Top5
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> person parents --> [u'Rush Limbaugh, Sr.', u'Mildred Limbaugh']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> marriage spouse --> [u'Roxy Maxine McNeely', u'Kathryn Rogers', u'Michelle Sixta', u'Marta Fitzgerald']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> canoodled participant --> [u'Mary Lynn Rajskub']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> book subject works --> [u'Rush!', u"The Bum's Rush: The Selling of Environmental Backlash : phrases and fallacies of Rush Limbaugh", u"The Way Things Aren't", u'The Assassination of Rush Limbaugh', u'Rush Limbaugh Is a Big Fat Idiot and Other Observations']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = s real --> artist track --> [u'Sanctuary', u'Blast It']
+Number of support sentences = 0
+Example support sentence:
+
+376what time zone is toronto gmt?	[u'North American Eastern Time Zone']	[u'Make Your Move ~koudou wo okose~', u'Secret Base ~Kimi ga Kureta Mono~ (Backing Track)', u'Egao Biyori', u'\u4e00\u96eb (Backing Tracks)', u'Renren (Backing Track)', '...']	0	EMPTY	music.artist.track	NONE	Zone
+Empty
+Top5
+Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist track --> [u'Renren (Backing Track)', u'Renren...', u'RenRen', u'\u201cFor Tomorrow\u201d', u'Sarariman (Takayo, Maiko)']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist album --> [u'Secret Base - Kimi ga Kureta Mono', u'Secret Base', u'True Blue Renren', u'Yume No Kakera...', u'O']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.254112, F1 = 0.000000, graph = time --> book subject works --> [u'Being in time', u'The Garden of Time', u'Prisoner of Time', u'Faster: The Acceleration of Just About Everything', u'De revolutionibus orbium coelestium']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.603984, F1 = 0.000000, graph = time --> periodical language --> [u'English Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.603984, F1 = 0.000000, graph = time --> employment tenure person --> [u'Sanjay Gupta', u'John Dickerson', u'Jake Winebaum', u'Jay Carney', u'Robert Hughes']
+Number of support sentences = 0
+Example support sentence:
+
+385where is augusta masters 2012?	[u'Augusta National Golf Course']	[u'First Presbyterian Church', u'Augusta Canal', u'Augusta Regional Airport', u'Phinizy Swamp Nature Park', u'Daniel Field', '...']	0	EMPTY	location.location.contains	NONE	Augusta
+Empty
+Top5
+Entity Score = 0.260422, F1 = 0.000000, graph = augusta --> location contains --> [u'Augusta National Golf Club', u'Fruitlands', u'Lake Olmstead Stadium', u'Sacred Heart Cultural Center', u"St. Paul's Episcopal Church"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.260422, F1 = 0.000000, graph = augusta --> hud county place county --> [u'Richmond County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.260422, F1 = 0.000000, graph = augusta --> administrative division capital relationship administrative division --> [u'Richmond County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.136599, F1 = 0.000000, graph = augusta --> location contains --> [u'Cony High School', u'University of Maine at Augusta', u'Alls Souls Church', u'Lot Morrill House', u"St. Mary's Church"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.260422, F1 = 0.000000, graph = augusta --> hud county place place --> [u'Augusta']
+Number of support sentences = 0
+Example support sentence:
+
+392who do islamic people pray to?	[u'Allah']	[u'Ann Moore']	0	EMPTY	business.employer.employees..business.employment_tenure.person	NONE	People
+Empty
+Top5
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure person --> [u'Ann Moore']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> [u'English Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure title --> [u'President']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical publisher period publisher --> [u'Time Inc.']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure to --> [u'1993', u'1998', u'2001']
+Number of support sentences = 0
+Example support sentence:
+
+401what movies did tupac star in?	[u'Nothing but Trouble']	[u"Mike Nelson's Movie Megacheese", u'City Boys', u'Red dragon', u'The Magic Behind the Voices', u'Mondo Macabro', '...']	0	EMPTY	book.book_subject.works	NONE	Film
+Empty
+Top5
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> book subject works --> [u'Dear Me', u'Celebrity Lies', u'The lavender screen', u'Star wars', u'Rocky Stories']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> education specialization --> [u'Acting', u'Salutatorian']
+Number of support sentences = 1
+Example support sentence:
+It welcomes 35,000 to 40,000 students every year in all fields of studies: [[Social Sciences]], [[Philosophy]], [[Literature]], [[History]], Languages and [[Linguistics]], [[Economics]], [[Law]] and [[Political Sciences]], as well as Teacher Training, [[Acting]], [[Film|Cinema]], [[Physiology]] and [[Sports]].
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> industry parent industry --> [u'Motion Picture and Sound Recording Industries']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> industry child industry --> [u'Motion Picture and Video Distribution', u'Motion Picture and Video Production', u'Motion Picture and Video Distribution', u'Motion Picture and Video Exhibition', u'Postproduction Services and Other Motion Picture and Video Industries']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.695526, F1 = 0.000000, graph = film --> education institution --> [u'Ealing, Hammersmith and West London College', u'University of British Columbia', u'Loyola Marymount University', u'University of California, Santa Barbara', u'Temple University']
+Number of support sentences = 0
+Example support sentence:
+
+415what does british colony mean?	[u'British American']	[u'Strangers Within the Realm', u'Like Hidden Fire', u'The Anubis Gates', u'Empire: The Rise and Demise of the British World Order and the Lessons for Global Power', u'Big Chief Elizabeth', '...']	0	EMPTY	book.book_subject.works	NONE	British Empire
+Empty
+Top5
+Entity Score = 0.268389, F1 = 0.000000, graph = british empire --> book subject works --> [u'Tea', u'Orientalism and race', u'Extravagant Strangers', u'Barrack-Room Ballads, and Other Verses', u'The Anubis Gates']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.268389, F1 = 0.000000, graph = british empire --> military command military commander --> [u'Garnet Wolseley, 1st Viscount Wolseley', u'Harry Prendergast', u'Henry Bartle Frere', u'Frederic Thesiger, 2nd Baron Chelmsford']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.268389, F1 = 0.000000, graph = british empire --> military combatant group conflict --> [u'Battle of Jellalabad', u'Southeast Asian theatre of World War II', u'Allied intervention in the Russian Civil War', u'Battle of Hlobane', u'Battle of the Scarpe']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.268389, F1 = 0.000000, graph = british empire --> military command military conflict --> [u'Anglo-Zulu War', u'Third Anglo-Burmese War']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.552021, F1 = 0.000000, graph = crown colony --> object name --> [u'Crown colony']
+Number of support sentences = 0
+Example support sentence:
+
+423where were greek temples built?	[u'Europe']	[u'Maratreanism']	0	EMPTY	religion.type_of_place_of_worship.religion	NONE	Temple
+Empty
+Top5
+Entity Score = 0.489374, F1 = 0.000000, graph = temple --> type of place of worship religion --> [u'Maratreanism']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.969048, F1 = 0.000000, graph = ancient greek temple --> object name --> [u'Ancient Greek temple']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.489374, F1 = 0.000000, graph = temple --> object name --> [u'Temple']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.969048, F1 = 0.000000, graph = ancient greek temple --> building function buildings --> [u'Temple of Artemis', u'Spartia temple', u'Temple of Isthmia', u'Temple of Aphaea', u'Temple of Olympian Zeus, Athens']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.489374, F1 = 0.000000, graph = temple --> building function buildings --> [u'Kinkaku-ji', u'Parthenon', u'Hekatompedon temple', u'Temple of Maharraqa', u'Wat Manolom']
+Number of support sentences = 0
+Example support sentence:
+
+445what are egyptian money called?	[u'Egyptian pound']	[u'Greenback: The Almighty Dollar and the Invention of America', u'The 21 Success Secrets of Self-Made Millionaires', u'Some Thoughts Concerning Education', u'Fiat Money Inflation in France', u'Devil May Care', '...']	0	EMPTY	book.book_subject.works	NONE	Money
+Empty
+Top5
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> book subject works --> [u'The Millionaires: A Novel of the New South', u'Money: Whence It Came, Where It Went', u'The Passion-Driven Writer and the Digital-Age Literary Marketplace', u'Bunny money', u'Devil May Care']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> symbolism symbol --> [u'Maneki-neko']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> object name --> [u'Money']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> film subject films --> [u'97% Owned']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.750863, F1 = 0.000000, graph = money --> quotation subject quotations about this subject --> [u'Anyone can be great with money. With money, greatness is not a talent but an obligation. The trick is to be great without money.', u"I haven't got as much money as some folks, but I've got as much impudence as any of them, and that's the next thing to money.", u'We might make a public moan in the newspapers about the decay of conscience, but in private conversation, no matter what crimes a man may have committed or how cynically he may have debased his talent or his friends, variations on the answer Yes, but I did it for the money, satisfy all but the most tiresome objections.', u'There are few ways in which a man can be more innocently employed than in getting money.', u'I have imbibed such a love for money that I keep some sequins in a drawer to count, and cry over them once a week.']
+Number of support sentences = 0
+Example support sentence:
+
+463what language do maltese speak?	[u'Maltese Language', u'English Language']	[u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'Language and the Internet', u'Mandaean Book of John', u'The British Edda', u'Language in Danger', '...']	0	EMPTY	book.book_subject.works	NONE	Language
+Empty
+Top5
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> [u'Language and the Internet', u'The Nature of This Paradigm Dancing', u'Language in Danger', u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'The British Edda']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> equivalent topic equivalent domain --> [u'Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = speak --> release region --> [u'Japan']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> object name --> [u'Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = speak --> album artist --> [u'Acid Bell']
+Number of support sentences = 0
+Example support sentence:
+
+470who does ron stoppable's voice?	[u'Will Friedle']	[u'Don Fletcher', u'Vincent Paquet', u'Craig Walker']	0	EMPTY	business.employer.employees..business.employment_tenure.person	NONE	Google Voice
+Empty
+Top5
+Entity Score = 0.119148, F1 = 0.000000, graph = google voice --> employment tenure person --> [u'Don Fletcher', u'Craig Walker', u'Vincent Paquet']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.348153, F1 = 0.000000, graph = human voice --> group membership member --> [u'Stefan Rusconi', u'Claudio Str\xfcby', u'Cl\xe9mence Qu\xe9lennec', u'Patchai Pukdesusook', u'Peechanit Oan-Aaree']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.348153, F1 = 0.000000, graph = human voice --> group membership role --> [u'Drums', u'Electric guitar', u'Programming', u'Piano', u'Percussion']
+Number of support sentences = 3
+Example support sentence:
+|instrument = [[Human voice|Vocals]], [[Piano]]
+| instrument          = [[Piano]], [[Human voice|vocals]]
+| instrument       = [[Piano]], [[Keyboard instrument|keyboards]], [[Human voice|vocals]]
+Entity Score = 0.119148, F1 = 0.000000, graph = google voice --> employment tenure title --> [u'Founder and COO', u'Chief Technology Officer', u'Founder and CEO']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.348153, F1 = 0.000000, graph = human voice --> group membership group --> [u'Rusconi', u'La Femme', u'Potato']
+Number of support sentences = 0
+Example support sentence:
+
+505when did william mckinley died?	[u'9/14/1901']	[u'Assassination', u'Firearm']	0	EMPTY	people.deceased_person.cause_of_death	NONE	William McKinley
+Empty
+Top5
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> deceased person cause of death --> [u'Assassination', u'Firearm']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> inauguration speaker inauguration --> [u'William McKinley 1897 presidential inauguration', u'William McKinley 1901 presidential inauguration']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> murdered person murdered by --> [u'Leon Frank Czolgosz']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> assassination assassin --> [u'Leon Frank Czolgosz']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.985624, F1 = 0.000000, graph = william mckinley --> presidential nominee nominated at --> [u'1900 Republican National Convention', u'1896 Republican National Convention']
+Number of support sentences = 0
+Example support sentence:
+
+506what language do british speak?	[u'Scottish Gaelic language', u'Scots Language', u'Cornish Language', u'Irish', u'English Language', u'Welsh Language', u'Guern\xe9siais', u'Ulster Scots dialects', u'J\xe8rriais', u'Manx Language']	[u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'Language and the Internet', u'Mandaean Book of John', u'The British Edda', u'Language in Danger', '...']	0	EMPTY	book.book_subject.works	NONE	Language
+Empty
+Top5
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> [u'Language and the Internet', u'The Nature of This Paradigm Dancing', u'Language in Danger', u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'The British Edda']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> equivalent topic equivalent domain --> [u'Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = speak --> release region --> [u'Japan']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> object name --> [u'Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = speak --> release track --> [u'Broken Curve', u'Speak', u'Solitude', u'Ride on', u'Merry Goes Round']
+Number of support sentences = 0
+Example support sentence:
+
+522what are the catholic holy days?	[u'Name day', u"Saint Patrick's Day", u'Maundy Thursday', u'Palm Sunday', u"Saint George's Day", u"Saint Joseph's Day", u'Christmas']	[u'George Nichols']	0	EMPTY	film.film_character.portrayed_in_films..film.performance.actor	NONE	The Catholic
+Empty
+Top5
+Entity Score = 0.200000, F1 = 0.000000, graph = the catholic --> performance actor --> [u'George Nichols']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.200000, F1 = 0.000000, graph = the catholic --> performance film --> [u'The Death Disc: A Story of the Cromwellian Period']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.759002, F1 = 0.000000, graph = day --> subject of curiousity explanation --> [u'Copernican heliocentrism']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.408888, F1 = 0.000000, graph = shia days of remembrance --> object name --> [u'Shia days of remembrance']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.152145, F1 = 0.000000, graph = holy day of obligation --> object name --> [u'Holy day of obligation']
+Number of support sentences = 0
+Example support sentence:
+
+525where was the assyrian homeland?	[u'Middle East']	[u'United States of America', u'Riverside County', u'California']	0	EMPTY	location.location.containedby	NONE	Homeland
+Empty
+Top5
+Entity Score = 0.155448, F1 = 0.000000, graph = homeland --> location containedby --> [u'California', u'United States of America', u'Riverside County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.155448, F1 = 0.000000, graph = homeland --> hud county place county --> [u'Riverside County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.155448, F1 = 0.000000, graph = homeland --> hud county place place --> [u'Homeland']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.190827, F1 = 0.000000, graph = bantustan --> form of government countries --> [u'Lebowa', u'Namaland', u'Transkei', u'Ciskei', u'QwaQwa']
+Number of support sentences = 25
+Example support sentence:
+Several [[Bantustan]]s were entirely inside the Transvaal: [[Venda]], [[KwaNdebele]], [[Gazankulu]], [[KaNgwane]] and [[Lebowa]].
+The key to the change was thought to be that Bkekimpe was more receptive to a [[South Africa]]n proposal to transfer to Swaziland most of the [[Bantustan|homeland]] of [[KaNgwane]], an area of some  with a notional population of 800,000, including a length of coast on the [[Indian Ocean]].
+The following is a '''List of the Chief Ministers''' of the [[South African]] [[Apartheid]] era [[Bantustan]] of '''[[QwaQwa]]''', also known as the ''Basotho ba Borwa''.
+** [[Venda]] ([[Bantustan|unrecognized state]])
+Entity Score = 0.202050, F1 = 0.000000, graph = the assyrian --> performance actor --> [u'Rosie Malek-Yonan']
+Number of support sentences = 0
+Example support sentence:
+
+535when does jewish new year start?	[u'Yiddish Language']	[u'Amitabh Bachchan']	0	EMPTY	film.film_character.portrayed_in_films..film.performance.actor	NONE	Year
+Empty
+Top5
+Entity Score = 0.244091, F1 = 0.000000, graph = year --> performance actor --> [u'Amitabh Bachchan']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = rosh hashanah --> holiday holiday period --> [u'High Holy Days']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.830683, F1 = 0.000000, graph = new year --> book subject works --> [u'A Deadly Game: The Untold Story of the Scott Peterson Investigation']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = rosh hashanah --> holiday period holidays --> [u'Erev Rosh Hashanah']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999995, F1 = 0.000000, graph = rosh hashanah --> holiday featured in religions --> [u'Judaism']
+Number of support sentences = 3
+Example support sentence:
+In [[Judaism]], the day of judgment happens every year on [[Rosh Hashanah]]; therefore, the belief in a last day of judgment for all mankind is disputed.
+Yom Kippur completes the annual period known in [[Judaism]] as the [[High Holy Days]] or ''Yamim Nora'im'' ("Days of Awe") that commences with [[Rosh Hashanah]].
+* [[September 22|22]]: [[Rosh Hashanah]] <small>([[Judaism]], begins at sunset)</small>
+
+538what did lincoln steffens wrote?	[u'The shame of the cities']	[u'Lincoln Steffens speaking', u'Upbuilders', u'Die Geschichte meines Lebens', u'The struggle for self-government', u'The autobiography of Lincoln Steffens', '...']	0	EMPTY	book.author.works_written	NONE	Lincoln Steffens
+Empty
+Top5
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> author works written --> [u'The autobiography of Lincoln Steffens', u'The Shame of the Cities', u'Upbuilders', u'The struggle for self-government', u'The Old Jim Horse']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> person profession --> [u'Journalist']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> employment tenure company --> [u'New York Post', u"McClure's"]
+Number of support sentences = 1
+Example support sentence:
+With the assistance of [[Lincoln Steffens]]'s articles published in ''[[McClure's]]'' magazine, Folk led investigations of the city's Democratic boss, Col. [[Edward Butler (American politician)|Ed Butler]] and the corrupt "boodle ring" of corporate bribery in the state and municipal government.
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> education institution --> [u'University of California, Berkeley']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.989986, F1 = 0.000000, graph = lincoln steffens --> deceased person place of death --> [u'Carmel-by-the-Sea']
+Number of support sentences = 0
+Example support sentence:
+
+565when did shaq come into the nba?	[u'1992 NBA Draft']	[u'1992\u201393 NBA season', u'2001\u201302 NBA season', u'1999\u20132000 NBA season', u'2000\u201301 NBA season', u'2003\u201304 NBA season']	0	EMPTY	sports.sports_award_winner.awards..sports.sports_award.season	NONE	Shaquille O'Neal
+Empty
+Top5
+Entity Score = 0.875853, F1 = 0.000000, graph = shaquille oneal --> sports award season --> [u'2003\u201304 NBA season', u'2001\u201302 NBA season', u'2000\u201301 NBA season', u'1999\u20132000 NBA season', u'1992\u201393 NBA season']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.875853, F1 = 0.000000, graph = shaquille oneal --> basketball player stats season --> [u'2003\u201304 NBA season', u'2005\u201306 NBA season', u'2004\u201305 NBA season', u'2002\u201303 NBA season', u'2001\u201302 NBA season']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.875853, F1 = 0.000000, graph = shaquille oneal --> sports award team --> [u'Los Angeles Lakers', u'Orlando Magic']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.875853, F1 = 0.000000, graph = shaquille oneal --> basketball player stats team --> [u'Los Angeles Lakers', u'Orlando Magic', u'Phoenix Suns', u'Miami Heat']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.988292, F1 = 0.000000, graph = national basketball association --> sports league participation team --> [u'Denver Nuggets', u'Golden State Warriors', u'Boston Celtics', u'Cleveland Cavaliers', u'Los Angeles Clippers']
+Number of support sentences = 0
+Example support sentence:
+
+568what do portuguese people speak?	[u'Portuguese']	[u'Portuguese Language']	0	EMPTY	people.ethnicity.languages_spoken	NONE	Portuguese people
+Empty
+Top5
+Entity Score = 0.998792, F1 = 0.000000, graph = portuguese people --> ethnicity languages spoken --> [u'Portuguese Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> [u'English Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998792, F1 = 0.000000, graph = portuguese people --> ethnicity geographic distribution --> [u'Europe']
+Number of support sentences = 2
+Example support sentence:
+Since there was no [[Middle Ages]] in Brazil, it could not be the [[knight]], as in the [[Europe]]an [[chivalric romance]]s; it could not be the [[Portuguese people|Portuguese man]] either, since Brazilians still held resentment for the years of [[Colonial Brazil|colonization]]; it could not be the [[black people|black man]] either, since the mentality of the time did not allow it.
+There is a sizable minority population of [[Europe]]an origin, especially [[Portuguese people|Portuguese]] (about 260,000), as well as [[Brazilian people|Brazilians]] and other [[Latin American]]s. Over the last decades, a significant [[Chinese people|Chinese]] community has formed, as has a much smaller [[Vietnamese people|Vietnamese]] community.
+Entity Score = 0.998792, F1 = 0.000000, graph = portuguese people --> ethnicity included in group --> [u'Latin European peoples']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure person --> [u'Ann Moore']
+Number of support sentences = 0
+Example support sentence:
+
+570where to stay in singapore blog?	[u'Central Region, Singapore']	[u'Operation Jaywick', u'Operation Rimau']	0	EMPTY	time.event.includes_event	NONE	Japanese occupation of Singapore
+Empty
+Top5
+Entity Score = 0.875000, F1 = 0.000000, graph = japanese occupation of singapore --> event includes event --> [u'Operation Jaywick', u'Operation Rimau']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.994242, F1 = 0.000000, graph = stayin alive --> award nomination award nominee --> [u'Bee Gees']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.994242, F1 = 0.000000, graph = stayin alive --> composition recorded as album --> [u"Stayin' Alive"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.994242, F1 = 0.000000, graph = stayin alive --> composition composer --> [u'Robin Gibb', u'Maurice Gibb', u'Barry Gibb']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.875000, F1 = 0.000000, graph = japanese occupation of singapore --> object name --> [u'Japanese occupation of Singapore']
+Number of support sentences = 0
+Example support sentence:
+
+590what to do in richardson dallas?	[u"Wizard's Sports Cafe"]	[u'Time management']	0	EMPTY	type.object.name	NONE	Time management
+Empty
+Top5
+Entity Score = 0.718657, F1 = 0.000000, graph = time management --> object name --> [u'Time management']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.718657, F1 = 0.000000, graph = time management --> ontology instance mapping ontology --> [u'OpenCyc']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.718657, F1 = 0.000000, graph = time management --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwdH8-rlMEdaAAAABAxv-7A']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.718657, F1 = 0.000000, graph = time management --> topic image --> [u'Adi Holzer Werksverzeichnis 269', u'MerrillCoveyMatrix']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.718657, F1 = 0.000000, graph = time management --> webpage resource --> [u'Reporter\u2019s Notebook: Sundance Film Festival (Part I)', u"Must List: What'll it be? We like 'Greek'"]
+Number of support sentences = 0
+Example support sentence:
+
+592what does jamaican people speak?	[u'Jamaican Creole English Language', u'Jamaican English']	[u'English Language']	0	EMPTY	book.periodical.language	NONE	People
+Empty
+Top5
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> [u'English Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> employment tenure person --> [u'Ann Moore']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = jamaican people --> object name --> [u'Jamaican People']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.500000, F1 = 0.000000, graph = jamaican people --> object name --> [u'Jamaican People']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.928571, F1 = 0.000000, graph = peoplespeak --> object name --> [u'PeopleSpeak']
+Number of support sentences = 0
+Example support sentence:
+
+596what airport is nearest to rome?	[u'Ciampino \u2013 G.B. Pastine International Airport']	[u'Ciampino\u2013G. B. Pastine International Airport', u'Roma Termini railway station', u'Civitavecchia Ferry Terminal', u'Leonardo da Vinci\u2013Fiumicino Airport']	0	EMPTY	travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus	NONE	Rome
+Empty
+Top5
+Entity Score = 0.769089, F1 = 0.000000, graph = rome --> transportation transport terminus --> [u'Civitavecchia Ferry Terminal', u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Roma Termini railway station']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.769089, F1 = 0.000000, graph = rome --> location nearby airports --> [u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Italian Met Office Airport', u'Urbe Airport', u'Rome Viterbo Airport']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.769089, F1 = 0.000000, graph = rome --> book subject works --> [u'A Struggle for Rome', u'Antony and Cleopatra', u'Empire of pleasures', u'The Last King', u'Darkling I listen']
+Number of support sentences = 1
+Example support sentence:
+He is not considered to be historical, but in fact an attempt by medieval and Renaissance chroniclers to model the founding of France upon the same illustrious tradition as that used by [[Virgil]] in his ''[[Aeneid]]'' (which had [[Rome]] founded by the Trojan [[Aeneas]]).
+Entity Score = 0.769089, F1 = 0.000000, graph = rome --> location contains --> [u'Maria SS. Assunta University of Rome', u'Hotel Eden, Rome', u'Largo di Torre Argentina', u'Catacombs of Rome', u'Pontifical Gregorian University']
+Number of support sentences = 57
+Example support sentence:
+'''Villa Lante al Gianicolo''' is a villa in [[Rome]] on the [[Janiculum]] Hill (Gianicolo).
+Such buildings as the [[pyramids]] of [[Ancient Egypt|Egypt]] and the [[Rome|Roman]] [[Colosseum]] are cultural symbols, and are important links in public consciousness, even when [[scholars]] have discovered much about past civilizations through other means.
+# 4 may [[Rome|Roma]]   ([[Provincia di Roma|RO]]) - ''[[PalaLottomatica]]'' - Support [[Gianna Nannini]]
+The film was shot on location in [[London]] and at the [[Roman Forum]], the [[Colosseum]], and the Vatican gardens in [[Rome]], [[Italy]].
+Entity Score = 0.519139, F1 = 0.000000, graph = airport --> book subject works --> [u"F.P.1 Doesn't Respond", u'Airports: A Century of Architecture']
+Number of support sentences = 0
+Example support sentence:
+
+607what language is spoken in greek?	[u'Greek Language']	[u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'Language and the Internet', u'Mandaean Book of John', u'The British Edda', u'Language in Danger', '...']	0	EMPTY	book.book_subject.works	NONE	Language
+Empty
+Top5
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> book subject works --> [u'Language and the Internet', u'The Nature of This Paradigm Dancing', u'Language in Danger', u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'The British Edda']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> equivalent topic equivalent domain --> [u'Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> object name --> [u'Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> literary genre books in this genre --> [u'Word list of the Dutch language', u'The Mother Tongue: English and How It Got That Way']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.557415, F1 = 0.000000, graph = language --> subject philosophers --> [u'George Campbell', u'Jaroslav Peregrin', u'Martin Heidegger', u'Victoria, Lady Welby', u'Hans-Georg Gadamer']
+Number of support sentences = 0
+Example support sentence:
+
+621what kind of government is egypt?	[u'Semi-presidential system', u'Constitutional republic', u'Republic', u'Unitary state']	[u'Provisional government']	0	EMPTY	location.country.form_of_government	NONE	Egypt
+Empty
+Top5
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> country form of government --> [u'Provisional government']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> location contains --> [u'Grand Egyptian Museum', u'Oxyrhynchus', u'Esna', u'Girga', u"Hala'ib"]
+Number of support sentences = 1132
+Example support sentence:
+*Clashes take place between pro-[[democracy]] protesters and security forces in [[Cairo]], [[Egypt]].
+European (but not U.S.) media have widely distributed reports of a fax intercepted by [[Switzerland|Swiss]] intelligence, datelined November 10, 2005, 8.24pm, that "was sent by the [[Egypt]]ian foreign minister, [[Ahmed Aboul Gheit]], in [[Cairo]], to his ambassador in [[London]].
+The Beshtak Palace or '''Qasr Bashtak''' ("Palace of Bashtak") is a historic [[palace]] and [[museum]] in [[Cairo]], [[Egypt]], built by the [[Mamluk Sultanate (Cairo)|Mamluk]] amir Bashtak in the 14th century.
+[[Museum]]s in [[Cairo]], [[Egypt]].
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> location in fiction contains --> [u'Ancient Egypt']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> imports and exports exported to --> [u'Sudan']
+Number of support sentences = 225
+Example support sentence:
+NEF is an operational NGO with projects in nine countries: [[Armenia]], [[Egypt]], [[Jordan]], [[Lebanon]], [[Mali]], [[Morocco]], [[State of Palestine|Palestine]], [[Senegal]] and [[Sudan]].
+Today, Arabs primarily inhabit the 22 Arab states within the Arab League: [[Algeria]], [[Bahrain]], [[Comoros]], [[Djibouti]], [[Egypt]], [[Iraq]], [[Jordan]], [[Kuwait]], [[Lebanon]], [[Libya]], [[Mauritania]], [[Morocco]], [[Oman]], [[State of Palestine|Palestine]], [[Qatar]], [[Saudi Arabia]], [[Somalia]], [[Sudan]], [[Syria]], [[Tunisia]], [[United Arab Emirates]], and [[Yemen]].
+The administration was instantly [[Diplomatic recognition|recognised]] by the neighbouring Arab nationalist regimes in [[Egypt]], [[Syria]], [[Iraq]] and [[Sudan]], with Egypt sending experts to aid the inexperienced RCC.
+Additionally, the extinct [[Guanche language]] spoken on the [[Canary Islands]] by the [[Guanches]] as well as the languages of the ancient [[C-Group Culture]] in present-day southern [[Egypt]] and northern [[Sudan]] are believed to have belonged to the Berber branch of the Afro-Asiatic family.
+Entity Score = 0.828170, F1 = 0.000000, graph = egypt --> imports and exports imported from --> [u'Portugal']
+Number of support sentences = 47
+Example support sentence:
+During the [[Ajuran Sultanate|Age of the Ajurans]], the [[sultanates]] and [[republics]] of [[Merca]], [[Mogadishu]], [[Barawa]], [[Hobyo]] and their respective ports flourished and had a lucrative foreign commerce with ships sailing to [[Arabia]], [[India]], [[Venetian Republic|Venetia]], [[Persia]], [[Egypt]], [[Portugal]] and as far away as [[China]].
+This species occurs in [[France]], [[Portugal]], [[Spain]], [[Sicily]] ([[Lampedusa]]) and in [[Egypt]], [[Libya]], [[Tunisia]], [[Algeria]], [[Morocco]].
+| width="80%" | [[Albania]], [[Antigua and Barbuda]], [[Argentina]], [[Australia]], [[Austria]], [[The Bahamas]], [[Bahrain]], [[Bangladesh]], [[Barbados]], [[Belgium]], [[Belize]], [[Benin]], [[Bolivia]], [[Bosnia and Herzegovina]], [[Botswana]], [[Brazil]], [[Brunei]], [[Bulgaria]], [[Burkina Faso]], [[Burundi]], [[Cameroon]], [[Canada]], [[Central African Republic]], [[Chad]], [[Chile]], [[China]], [[Colombia]], [[Democratic Republic of the Congo]], [[Republic of the Congo]], [[Costa Rica]], [[Cote d'Ivoire]], [[Croatia]], [[Cuba]], [[Cyprus]], [[Czech Republic]], [[Denmark]], [[Djibouti]], [[Dominica]], [[Dominican Republic]], [[Ecuador]], [[Egypt]], [[El Salvador]], [[Estonia]], [[European Community]], [[Fiji]], [[Finland]], [[France]], [[Gabon]], [[The Gambia]], [[Georgia (country)|Georgia]], [[Germany]], [[Ghana]], [[Greece]], [[Guatemala]], [[Guinea]], [[Guinea-Bissau]], [[Guyana]], [[Honduras]], [[Hong Kong]], [[Hungary]], [[Iceland]], [[India]], [[Indonesia]], [[Ireland]], [[Israel]], [[Italy]], [[Jamaica]], [[Japan]], [[Kenya]], [[Republic of Korea]] (South Korea), [[Kuwait]], [[Latvia]], [[Lebanon]], [[Lesotho]], [[Liberia]], [[Libya]], [[Liechtenstein]], [[Lithuania]], [[Luxembourg]], [[Macau]], [[Macedonia]], [[Madagascar]], [[Malawi]], [[Malaysia]], [[Maldives]], [[Mali]], [[Malta]], [[Mauritania]], [[Mauritia]], [[Mexico]], [[Moldova]], [[Monaco]], [[Morocco]], [[Mozambique]], [[Myanmar]], [[Namibia]], [[Netherlands]], [[New Zealand]], [[Nicaragua]], [[Niger]], [[Nigeria]], [[Norway]], [[Pakistan]], [[Paraguay]], [[Peru]], [[Philippines]], [[Poland]], [[Portugal]], [[Romania]], [[Russia]], [[Rwanda]], [[St. Kitts and Nevis]], [[Saint Lucia]], [[Saint Vincent and the Grenadines]], [[Senegal]], [[Serbia and Montenegro]], [[Sierra Leone]], [[Singapore]], [[Slovakia]], [[Slovenia]], [[South Africa]], [[Spain]], [[Sri Lanka]], [[Suriname]], [[Swaziland]], [[Sweden]], [[Switzerland]], [[Tanzania]], [[Thailand]], [[Togo]], [[Trinidad and Tobago]], [[Tunisia]], [[Turkey]], [[Uganda]], [[Ukraine]], [[United Kingdom]], [[Uruguay]], [[Vatican City]], [[Venezuela]], [[Zambia]], [[Zimbabwe]]
+There are also remnants of formerly populous communities in [[Armenians in India|India]], [[Armenians in Myanmar|Myanmar]], [[Thailand]], [[Belgium]], [[Portugal]], [[Italy]], [[Poland]], [[Austria]], [[Hungary]], [[Bulgaria]], [[Romania]], [[Serbia]], [[Ethiopia]], [[Sudan]] and [[Egypt]].
+
+626when did truman become president?	[u'4/12/1945']	[u'Harry S. Truman 1949 presidential inauguration', u'Harry S. Truman 1945 presidential inauguration']	0	EMPTY	base.inaugurations.inauguration_speaker.inauguration	NONE	Harry S. Truman
+Empty
+Top5
+Entity Score = 0.795554, F1 = 0.000000, graph = harry s. truman --> inauguration speaker inauguration --> [u'Harry S. Truman 1945 presidential inauguration', u'Harry S. Truman 1949 presidential inauguration']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.320921, F1 = 0.000000, graph = president of the united states --> book subject works --> [u'The Sound of Leadership: Presidential Communication in the Modern Age', u'Max for President', u'Grace for President', u'White House Ghosts: Presidents and Their Speechwriters', u'Presidential Command: Power, Leadership, and the Making of Foreign Policy from Richard Nixon to George W. Bush']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.795554, F1 = 0.000000, graph = harry s. truman --> vice presidential nominee convention nominated at --> [u'1944 Democratic National Convention']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.795554, F1 = 0.000000, graph = harry s. truman --> book subject works --> [u'Plain Speaking', u'Talking with Harry', u'Harry and Ike: The Partnership That Remade the Postwar World', u'American Gunfight: The Plot to Kill President Truman - and the Shoot-out That Stopped It', u'Truman']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.795554, F1 = 0.000000, graph = harry s. truman --> author works written --> [u'Freedom and equality, addresses', u'President Truman talks price stabilization', u'Talking with Harry', u'A new era in world affairs', u'autobiography of Harry S. Truman']
+Number of support sentences = 0
+Example support sentence:
+
+629what is jacksonville fl timezone?	[u'North American Eastern Time Zone']	[u'Eastern Time Zone']	0	EMPTY	location.location.time_zones	NONE	Jacksonville
+Empty
+Top5
+Entity Score = 0.966437, F1 = 0.000000, graph = jacksonville --> location time zones --> [u'Eastern Time Zone']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.243456, F1 = 0.000000, graph = florida --> location time zones --> [u'Central Time Zone', u'Eastern Time Zone', u'UTC\u221206:00', u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.966437, F1 = 0.000000, graph = jacksonville --> citytown postal codes --> [u'32218', u'32239', u'32229', u'32207', u'32226']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.966437, F1 = 0.000000, graph = jacksonville --> sports team location teams --> [u'Jacksonville Jaguars', u'Jacksonville Barracudas']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.966437, F1 = 0.000000, graph = jacksonville --> government position held office holder --> [u'Alvin Brown', u'Lou Ritter']
+Number of support sentences = 0
+Example support sentence:
+
+644where did crabtree go to college?	[u'Texas Tech University']	[u'Northern Christian College', u"St Catherine's College, Oxford", u'Havering College of Further and Higher Education', u'Churchill College, Cambridge', u'Calcutta National Medical College', '...']	0	EMPTY	education.school_category.schools_of_this_kind	NONE	College
+Empty
+Top5
+Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> [u'Grace Bible College', u'Perth College UHI', u'Divine Word College of San Jose', u'Hampshire College', u'Pomona College']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.229070, F1 = 0.000000, graph = crabtree --> location contains --> [u'Crabtree Creek-Hoffman Covered Bridge']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.229070, F1 = 0.000000, graph = crabtree --> citytown postal codes --> [u'97335']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.229070, F1 = 0.000000, graph = crabtree --> location containedby --> [u'Oregon', u'Linn County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.147077, F1 = 0.000000, graph = crabtree --> hud county place county --> [u'Westmoreland County']
+Number of support sentences = 0
+Example support sentence:
+
+675what banjo does scott avett play?	[u'Banjo']	[u'Cumberland Plateau', u'Sugar', u'Les Oignons', u'Man With No Country', u'Sugar Hill', '...']	0	EMPTY	music.performance_role.track_performances..music.track_contribution.track	NONE	banjo
+Empty
+Top5
+Entity Score = 0.921060, F1 = 0.000000, graph = banjo --> track contribution track --> [u'Prelude to Love in the Making', u"Magdalina's Dance", u'Goodnight Irene', u'Anchors Away', u'Sleepwalking']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999189, F1 = 0.000000, graph = scott avett --> group member instruments played --> [u'banjo', u'Drum', u'Electric guitar', u'Guitar', u'Piano']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.921060, F1 = 0.000000, graph = banjo --> track contribution contributor --> [u'Blake Williams', u'Alastair McDonald', u'Al Perkins', u'Andy Summers', u'Marc Ribot']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.921060, F1 = 0.000000, graph = banjo --> recording contribution contributor --> [u'Bob Lucas', u'Tom Savage']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999189, F1 = 0.000000, graph = scott avett --> composer compositions --> [u'Live and Die']
+Number of support sentences = 0
+Example support sentence:
+
+678when was father chris riley born?	[u'1967']	[u'Echuca']	0	EMPTY	people.person.place_of_birth	NONE	Chris Riley
+Empty
+Top5
+Entity Score = 1.000000, F1 = 0.000000, graph = chris riley --> person place of birth --> [u'Echuca']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.348403, F1 = 0.000000, graph = chris riley --> person place of birth --> [u'San Diego']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.348403, F1 = 0.000000, graph = chris riley --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.328210, F1 = 0.000000, graph = father --> book subject works --> [u'Dad', u'Dinner with Dad: How I Found My Way Back to the Family Table', u"The Bloke's Guide To Pregnancy"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.348403, F1 = 0.000000, graph = chris riley --> education institution --> [u'University of Nevada, Las Vegas']
+Number of support sentences = 0
+Example support sentence:
+

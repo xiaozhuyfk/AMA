@@ -275,3 +275,962 @@ Entity Score = 0.994246, F1 = 1.000000, graph = claire danes --> infidelity part
 Number of support sentences = 0
 Example support sentence:
 
+183what did john irving wrote?	[u'Trying to Save Piggy Sneed', u'The Fourth Hand', u'The Cider House Rules', u'The 158-Pound Marriage', u'The World According to Garp', u'The Hotel New Hampshire', u'A Widow for One Year', u'A Prayer for Owen Meany', u'The Water-Method Man', u'Until I Find You']	[u'Trying to Save Piggy Sneed', u'The 158-Pound Marriage', u'The world according to Garp', u'A Son of the Circus', u'The 158-pound marriage', '...']	0.566666666667	book.author.works_written	book.author.book_editions_published	John Irving	John Irving
+Entity Score = 0.974443, F1 = 0.740741, graph = john irving --> author works written --> [u'A Widow for One Year', u'A Sound Like Someone Trying Not to Make a Sound', u'Until I Find You', u'The Hotel New Hampshire', u'Setting Free the Bears']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.974443, F1 = 0.566667, graph = john irving --> author book editions published --> [u'The world according to Garp', u'The Fourth Hand', u'The 158-pound marriage', u'Until I find you', u'The Hotel New Hampshire']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.974443, F1 = 0.740741, graph = john irving --> author works written --> [u'A Widow for One Year', u'A Sound Like Someone Trying Not to Make a Sound', u'Until I Find You', u'The Hotel New Hampshire', u'Setting Free the Bears']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.974443, F1 = 0.400000, graph = john irving --> film story contributor film story credits --> [u'The Cider House Rules', u'Simon Birch', u'The World According to Garp', u'The Hotel New Hampshire', u'The Door in the Floor']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.974443, F1 = 0.000000, graph = john irving --> fictional character creator fictional characters created --> [u'T.S. Garp', u"Eddie O'Hare", u'Jenny Fields', u'Homer Wells', u'Ruth Cole']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.974443, F1 = 0.461538, graph = john irving --> award nomination nominated for --> [u'The Cider House Rules', u'The Hotel New Hampshire', u'The World According to Garp']
+Number of support sentences = 0
+Example support sentence:
+
+198who is judy garland father?	[u'Francis Avent Gumm']	[u'Francis Avent Gumm', u'Ethel Marion Milne']	0.666666666667	people.person.parents	people.person.parents	Judy Garland	Judy Garland
+Entity Score = 0.992574, F1 = 0.666667, graph = judy garland --> person parents --> [u'Ethel Marion Milne', u'Francis Avent Gumm']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.992574, F1 = 0.666667, graph = judy garland --> person parents --> [u'Ethel Marion Milne', u'Francis Avent Gumm']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.992574, F1 = 0.000000, graph = judy garland --> dated participant --> [u'Artie Shaw', u'Gene Kelly', u'Farley Granger', u'Dirk Bogarde']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.992574, F1 = 0.000000, graph = judy garland --> marriage spouse --> [u'Mark Herron', u'Vincente Minnelli', u'Sidney Luft', u'David Rose', u'Mickey Deans']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.992574, F1 = 0.000000, graph = judy garland --> person children --> [u'Liza Minnelli', u'Lorna Luft', u'Joey Luft']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.992574, F1 = 0.000000, graph = judy garland --> person profession --> [u'Actor', u'Singer', u'Pin-up girl', u'Vaudeville Performer']
+Number of support sentences = 0
+Example support sentence:
+
+205who did kim richards marry?	[u'Greg Davis', u'John Jackson', u'G. Monty Brinson']	[u'John Jackson', u'Gregg Davis', u'G. Monty Brinson']	0.666666666667	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Kim Richards	Kim Richards
+Entity Score = 0.999807, F1 = 0.666667, graph = kim richards --> marriage spouse --> [u'G. Monty Brinson', u'Gregg Davis', u'John Jackson']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999807, F1 = 0.666667, graph = kim richards --> marriage spouse --> [u'G. Monty Brinson', u'Gregg Davis', u'John Jackson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> person parents --> [u'Kathleen Richards', u'Ken Richards']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> person profession --> [u'Presenter', u'Actor']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> person children --> [u'Whitney Davis', u'Chad Davis', u'Brooke Brinson', u'Kimberly Jackson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999807, F1 = 0.000000, graph = kim richards --> regular tv appearance character --> [u'Prudence', u'Ruthie Alder', u'Jan Standish', u'Sandy Hunter']
+Number of support sentences = 0
+Example support sentence:
+
+214what did john dalton study?	[u'Chemist']	[u'Physicist', u'Chemist']	0.666666666667	people.person.profession	people.person.profession	John Dalton	John Dalton
+Entity Score = 0.943065, F1 = 0.666667, graph = john dalton --> person profession --> [u'Chemist', u'Physicist']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.943065, F1 = 0.666667, graph = john dalton --> person profession --> [u'Chemist', u'Physicist']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> author works written --> [u'Meteorological Observations and Essays', u"Dalton's memoirs", u'Elements of English Grammar', u'System of Chemistry', u'Memoirs']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> influence node influenced by --> [u'John Gough']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> influence node influenced --> [u'James Prescott Joule', u'Antoine Lavoisier']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.943065, F1 = 0.000000, graph = john dalton --> person place of birth --> [u'Eaglesfield, Cumbria']
+Number of support sentences = 0
+Example support sentence:
+
+246what was dr seuss real name?	[u'Theodor Robert Geisel']	[u'Henrietta Seuss Geisel', u'Theodor Robert Geisel']	0.666666666667	people.person.parents	people.person.parents	Dr. Seuss	Dr. Seuss
+Entity Score = 0.967481, F1 = 0.666667, graph = dr. seuss --> person parents --> [u'Theodor Robert Geisel', u'Henrietta Seuss Geisel']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.967481, F1 = 0.666667, graph = dr. seuss --> person parents --> [u'Theodor Robert Geisel', u'Henrietta Seuss Geisel']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.967481, F1 = 0.000000, graph = dr. seuss --> marriage spouse --> [u'Audrey Geisel', u'Helen Palmer Geisel']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.306495, F1 = 0.000000, graph = republican party --> organization founders --> [u'Abraham Lincoln', u'Ronald Reagan', u'Thomas Jefferson', u'Amos Tuck']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.967481, F1 = 0.000000, graph = dr. seuss --> book subject works --> [u'Oh, the Places He Went', u'Dr. Seuss & Mr. Geisel: A Biography', u'The Seuss, the Whole Seuss and Nothing But the Seuss: A Visual Biography of Theodor Seuss Geisel', u'The Annotated Cat: Under the Hats of Seuss and His Cats', u'Dr. Seuss: American Icon']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> person parents --> [u'Rush Limbaugh, Sr.', u'Mildred Limbaugh']
+Number of support sentences = 0
+Example support sentence:
+
+260what movies is omar epps in?	[u'Daybreak', u'Major League II', u'Scream 2', u'First Time Felon', u'Breakfast of Champions', u'Juice', u'The Program', u'Deadly Voyage', u'Higher Learning', u"Don't Be a Menace to South Central While Drinking Your Juice in the Hood"]	[u'A Day in the Life', u'Against the Ropes', u'Breakfast of Champions', u'Dracula 2000', u'Higher Learning', '...']	0.606060606061	film.actor.film..film.performance.film	film.actor.film..film.performance.film	Omar Epps	Omar Epps
+Entity Score = 0.999665, F1 = 0.606061, graph = omar epps --> performance film --> [u'In Too Deep', u'Scream 2', u'Conviction', u'First Time Felon', u'Big Trouble']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999665, F1 = 0.606061, graph = omar epps --> performance film --> [u'In Too Deep', u'Scream 2', u'Conviction', u'First Time Felon', u'Big Trouble']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999665, F1 = 0.000000, graph = omar epps --> award nomination nominated for --> [u'House', u'Love & Basketball']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999665, F1 = 0.000000, graph = omar epps --> producer film --> [u'You, Me & The Circus']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999665, F1 = 0.000000, graph = omar epps --> performance character --> [u'Linc Hayes', u'FBI Agent Alan Seitz', u'Luther Shaw', u'Marlon', u'Willie Mays Hayes']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999665, F1 = 0.000000, graph = omar epps --> regular tv appearance character --> [u'Deron', u'Curtis', u'Clint', u'Eric Foreman', u'Dennis Gant']
+Number of support sentences = 0
+Example support sentence:
+
+266where is harvard university?	[u'Massachusetts']	[u'Cambridge', u'United States of America', u'Massachusetts']	0.5	location.location.containedby	location.location.containedby	Harvard University	Harvard University
+Entity Score = 0.995861, F1 = 0.500000, graph = harvard university --> location containedby --> [u'United States of America', u'Cambridge', u'Massachusetts']
+Number of support sentences = 37
+Example support sentence:
+He attended [[Milton Academy]] (a [[boarding school]] in [[Massachusetts]]) and subsequently [[Harvard University]], where he graduated in 1911 before returning to [[Iowa]].
+After growing up in [[Massachusetts]], Barro received a [[bachelor's degree]] in [[psychology]] from [[Harvard University]].
+| 1983 ||  || [[Defenceman|Defense]] || [[Harvard University|Harvard]] || [[Burlington, Massachusetts|Burlington]], [[Massachusetts]]
+The '''''Harvard Lampoon''''' is an [[undergraduate]] [[Humor magazine|humor publication]] founded in 1876 by seven undergraduates at [[Harvard University]] in [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts]].
+Top5
+Entity Score = 0.995861, F1 = 0.500000, graph = harvard university --> location containedby --> [u'United States of America', u'Cambridge', u'Massachusetts']
+Number of support sentences = 37
+Example support sentence:
+He attended [[Milton Academy]] (a [[boarding school]] in [[Massachusetts]]) and subsequently [[Harvard University]], where he graduated in 1911 before returning to [[Iowa]].
+After growing up in [[Massachusetts]], Barro received a [[bachelor's degree]] in [[psychology]] from [[Harvard University]].
+| 1983 ||  || [[Defenceman|Defense]] || [[Harvard University|Harvard]] || [[Burlington, Massachusetts|Burlington]], [[Massachusetts]]
+The '''''Harvard Lampoon''''' is an [[undergraduate]] [[Humor magazine|humor publication]] founded in 1876 by seven undergraduates at [[Harvard University]] in [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts]].
+Entity Score = 0.995861, F1 = 1.000000, graph = harvard university --> mailing address state province region --> [u'Massachusetts']
+Number of support sentences = 37
+Example support sentence:
+He attended [[Milton Academy]] (a [[boarding school]] in [[Massachusetts]]) and subsequently [[Harvard University]], where he graduated in 1911 before returning to [[Iowa]].
+After growing up in [[Massachusetts]], Barro received a [[bachelor's degree]] in [[psychology]] from [[Harvard University]].
+| 1983 ||  || [[Defenceman|Defense]] || [[Harvard University|Harvard]] || [[Burlington, Massachusetts|Burlington]], [[Massachusetts]]
+The '''''Harvard Lampoon''''' is an [[undergraduate]] [[Humor magazine|humor publication]] founded in 1876 by seven undergraduates at [[Harvard University]] in [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts]].
+Entity Score = 0.995861, F1 = 0.000000, graph = harvard university --> mailing address citytown --> [u'Cambridge']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.995861, F1 = 0.000000, graph = harvard university --> location contains --> [u'Massachusetts Hall, Harvard University']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.995861, F1 = 0.000000, graph = harvard university --> phone sandbox service location --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+
+285who is niall ferguson's wife?	[u'Ayaan Hirsi Ali']	[u'Ayaan Hirsi Ali', u'Susan Douglas']	0.666666666667	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Niall Ferguson	Niall Ferguson
+Entity Score = 1.000000, F1 = 0.666667, graph = niall ferguson --> marriage spouse --> [u'Ayaan Hirsi Ali', u'Susan Douglas']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.666667, graph = niall ferguson --> marriage spouse --> [u'Ayaan Hirsi Ali', u'Susan Douglas']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = niall ferguson --> person children --> [u'Thomas Ferguson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = niall ferguson --> person profession --> [u'Writer', u'Author', u'Historian', u'University Professor']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = niall ferguson --> influence node influenced by --> [u'Adam Smith', u'Karl Marx', u'John Maynard Keynes']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = niall ferguson --> author works written --> [u'Der falsche Krieg. Der erste Weltkrieg und das 20. Jahrhundert', u'The Arbroath and Forfar Railway', u'Colossus: The Rise and Fall of the American Empire', u"The House of Rothschild: Money's Prophets, 1798-1848", u'The Ascent of Money: A Financial History of the World']
+Number of support sentences = 0
+Example support sentence:
+
+290who did morgan freeman marry?	[u'Myrna Colley-Lee']	[u'Myrna Colley-Lee', u'Jeanette Adair Bradshaw']	0.666666666667	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Morgan Freeman	Morgan Freeman
+Entity Score = 0.998317, F1 = 0.666667, graph = morgan freeman --> marriage spouse --> [u'Myrna Colley-Lee', u'Jeanette Adair Bradshaw']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.998317, F1 = 0.666667, graph = morgan freeman --> marriage spouse --> [u'Myrna Colley-Lee', u'Jeanette Adair Bradshaw']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> person parents --> [u'Morgan Porterfield Freeman', u'Mayme Edna Revere']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> award honor award winner --> [u'Laurent Chalet', u'Jer\xf4me Maison', u'Christophe Lioud', u'Emmanuel Priou', u'Heath Ledger']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> award nomination award nominee --> [u'Kevin Costner', u'Clint Eastwood', u'Brad Pitt', u'Heath Ledger', u'Hilary Swank']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998317, F1 = 0.000000, graph = morgan freeman --> person children --> [u'Morgana Freeman', u'Saifoulaye Freeman', u'Deena Freeman', u'Alfonso Freeman']
+Number of support sentences = 0
+Example support sentence:
+
+291who is willow smith mom name?	[u'Jada Pinkett Smith']	[u'Jada Pinkett Smith', u'Will Smith']	0.666666666667	people.person.parents	people.person.parents	Willow Smith	Willow Smith
+Entity Score = 0.999899, F1 = 0.666667, graph = willow smith --> person parents --> [u'Will Smith', u'Jada Pinkett Smith']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999899, F1 = 0.666667, graph = willow smith --> person parents --> [u'Will Smith', u'Jada Pinkett Smith']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.285935, F1 = 0.000000, graph = mom --> regular tv appearance actor --> [u'Tress MacNeille']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999899, F1 = 0.000000, graph = willow smith --> person profession --> [u'Singer-songwriter', u'Actor', u'Dancer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999899, F1 = 0.000000, graph = willow smith --> regular tv appearance character --> [u'Abby', u'Young True']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999899, F1 = 0.000000, graph = willow smith --> performance character --> [u'Countee Garby', u'Gloria', u'Abby', u'Marley Neville']
+Number of support sentences = 0
+Example support sentence:
+
+301what college did joakim noah?	[u'University of Florida']	[u'University of Florida', u'Poly Prep Country Day School', u'Lawrenceville School']	0.5	sports.drafted_athlete.drafted..sports.sports_league_draft_pick.school	people.person.education..education.education.institution	Joakim Noah	Joakim Noah
+Entity Score = 0.999975, F1 = 1.000000, graph = joakim noah --> sports league draft pick school --> [u'University of Florida']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999975, F1 = 0.500000, graph = joakim noah --> education institution --> [u'University of Florida', u'Lawrenceville School', u'Poly Prep Country Day School']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> [u'Grace Bible College', u'Perth College UHI', u'Divine Word College of San Jose', u'Hampshire College', u'Pomona College']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999975, F1 = 1.000000, graph = joakim noah --> sports league draft pick school --> [u'University of Florida']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999975, F1 = 0.000000, graph = joakim noah --> place lived location --> [u'New York City']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999975, F1 = 0.000000, graph = joakim noah --> person place of birth --> [u'New York City']
+Number of support sentences = 0
+Example support sentence:
+
+312what are the sports in spain?	[u"Spain women's national handball team", u"Spain men's national volleyball team", u'Spain national beach handball team', u'Spain national football team', u"Spain women's national volleyball team", u'Spain national handball team']	[u'CB Murcia', u'Joventut Badalona', u"Spain women's national handball team", u"Spain women's national volleyball team", u'CB Breog\xe1n', '...']	0.631578947368	sports.sports_team_location.teams	sports.sports_team_location.teams	Spain	Spain
+Entity Score = 0.864643, F1 = 0.631579, graph = spain --> sports team location teams --> [u'Spain national handball team', u'B\xe0squet Manresa', u'CB Murcia', u'Spain national football team', u"Spain men's national volleyball team"]
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.864643, F1 = 0.631579, graph = spain --> sports team location teams --> [u'Spain national handball team', u'B\xe0squet Manresa', u'CB Murcia', u'Spain national football team', u"Spain men's national volleyball team"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.864643, F1 = 0.000000, graph = spain --> book subject works --> [u'Representations of holiness in some spanish hagiographical works', u'Privilege, persecution, and prophecy', u'Rifleman Dodd', u'Catalan cuisine', u'Transition through transaction']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.864643, F1 = 0.000000, graph = spain --> country languages spoken --> [u'Basque Language', u'Catalan language', u'Galician Language', u'Occitan language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.466927, F1 = 0.000000, graph = sports --> book subject works --> [u'Cricket Characters', u'The Life of Helen Stephens', u'Trout Fishing in America', u'A Terrible Splendor: Three Extraordinary Men, a World Poised for War, and the Greatest Tennis Match Ever Played', u'Blind Flight']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.864643, F1 = 0.000000, graph = spain --> country official language --> [u'Spanish Language']
+Number of support sentences = 0
+Example support sentence:
+
+322who does nolan ryan play for?	[u'California Angels', u'New York Mets']	[u'Houston Astros', u'California Angels', u'Texas Rangers', u'New York Mets']	0.666666666667	baseball.baseball_player.former_teams..baseball.baseball_historical_roster_position.team	baseball.baseball_player.batting_stats..baseball.batting_statistics.team	Nolan Ryan	Nolan Ryan
+Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> baseball historical roster position team --> [u'California Angels', u'Houston Astros', u'New York Mets']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999853, F1 = 0.666667, graph = nolan ryan --> batting statistics team --> [u'California Angels', u'Houston Astros', u'New York Mets', u'Texas Rangers']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> baseball historical roster position team --> [u'California Angels', u'Houston Astros', u'New York Mets']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> baseball historical roster position team --> [u'California Angels', u'Houston Astros', u'New York Mets']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> sports team roster team --> [u'California Angels', u'Houston Astros', u'New York Mets']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999853, F1 = 0.800000, graph = nolan ryan --> sports team roster team --> [u'California Angels', u'Houston Astros', u'New York Mets']
+Number of support sentences = 0
+Example support sentence:
+
+340what does wh smith stand for?	[u'William Henry Smith']	[u'Henry Walton Smith', u'William Henry Smith']	0.666666666667	organization.organization.founders	organization.organization.founders	W H Smith	W H Smith
+Entity Score = 0.903239, F1 = 0.666667, graph = w h smith --> organization founders --> [u'Henry Walton Smith', u'William Henry Smith']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.903239, F1 = 0.666667, graph = w h smith --> organization founders --> [u'Henry Walton Smith', u'William Henry Smith']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.903239, F1 = 0.000000, graph = w h smith --> organization place founded --> [u'London']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.903239, F1 = 0.000000, graph = w h smith --> publishing company books published --> [u'The Silver Chair & The Last Battle']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.903239, F1 = 0.000000, graph = w h smith --> organization locations --> [u'WH Smith, White Rose Centre', u'WH Smith, Minehead']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.903239, F1 = 0.000000, graph = w h smith --> mailing address citytown --> [u'Swindon']
+Number of support sentences = 0
+Example support sentence:
+
+347who is nick lachey married to?	[u'Vanessa Minnillo']	[u'Vanessa Minnillo', u'Jessica Simpson']	0.666666666667	people.person.spouse_s..people.marriage.spouse	people.person.spouse_s..people.marriage.spouse	Nick Lachey	Nick Lachey
+Entity Score = 0.999946, F1 = 0.666667, graph = nick lachey --> marriage spouse --> [u'Jessica Simpson', u'Vanessa Minnillo']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999946, F1 = 0.666667, graph = nick lachey --> marriage spouse --> [u'Jessica Simpson', u'Vanessa Minnillo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999946, F1 = 0.333333, graph = nick lachey --> dated participant --> [u'Kim Kardashian', u'Kristin Cavallari', u'Alyssa Milano', u'Vanessa Minnillo', u'Elizabeth Arnold']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999946, F1 = 0.000000, graph = nick lachey --> infidelity participant --> [u'Jessica Simpson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999946, F1 = 0.000000, graph = nick lachey --> friendship participant --> [u'Ashlee Simpson-Wentz', u'Alyssa Milano', u'Joey Fatone', u'Wilmer Valderrama']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999946, F1 = 0.000000, graph = nick lachey --> lived with participant --> [u'Ashlee Simpson-Wentz']
+Number of support sentences = 0
+Example support sentence:
+
+351what college did se hinton go?	[u'University of Tulsa']	[u'Will Rogers High School', u'University of Tulsa']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	S. E. Hinton	S. E. Hinton
+Entity Score = 0.992434, F1 = 0.666667, graph = s. e. hinton --> education institution --> [u'University of Tulsa', u'Will Rogers High School']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.992434, F1 = 0.666667, graph = s. e. hinton --> education institution --> [u'University of Tulsa', u'Will Rogers High School']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> [u'Grace Bible College', u'Perth College UHI', u'Divine Word College of San Jose', u'Hampshire College', u'Pomona College']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.147804, F1 = 0.000000, graph = hinton --> location contains --> [u'Summers County Courthouse', u'Hinton Historic District', u'HRDE-Stanley Technical Institute-Hinton']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.992434, F1 = 0.000000, graph = s. e. hinton --> place lived location --> [u'Tulsa', u'Oklahoma']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.992434, F1 = 0.000000, graph = s. e. hinton --> person place of birth --> [u'Tulsa']
+Number of support sentences = 0
+Example support sentence:
+
+398where is mt st helens located?	[u'Skamania County', u'Washington']	[u'North America', u'United States of America', u'Skamania County', u'Washington', u'Cascade Range']	0.571428571429	location.location.containedby	location.location.containedby	Mount St. Helens	Mount St. Helens
+Entity Score = 0.831103, F1 = 0.571429, graph = mount st. helens --> location containedby --> [u'North America', u'Washington', u'United States of America', u'Skamania County', u'Cascade Range']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.831103, F1 = 0.571429, graph = mount st. helens --> location containedby --> [u'North America', u'Washington', u'United States of America', u'Skamania County', u'Cascade Range']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.205738, F1 = 0.000000, graph = st helens --> location containedby --> [u'England', u'United Kingdom', u'Lancashire']
+Number of support sentences = 28
+Example support sentence:
+'''Mark Leonard''' (born 27 September 1962 in [[St Helens, Merseyside|St Helens]], [[England]]) was a professional [[football (soccer)|footballer]] who was a [[Striker (association football)|striker]] for a number of [[England|English]] league clubs.
+[[Historic counties of England|Historically]] in [[Lancashire]], Billinge is located by road approximately <span style="white-space:nowrap">4.5&nbsp;miles&nbsp;(7.2&nbsp;km)</span> southwest of [[Wigan]] (town centre) and <span style="white-space:nowrap">3.7&nbsp;miles&nbsp;(5.9&nbsp;km)</span> northeast of [[St Helens, Merseyside|St Helens]] (town centre). 
+| birth_place = [[St Helens, Merseyside|St Helens]], [[Lancashire]], England
+He was born in [[Bold, St Helens|Bold]] which was then a village near [[St Helens, Merseyside|St Helens]] in south [[Lancashire]].
+Entity Score = 0.168788, F1 = 0.000000, graph = 1980 eruption of mount st. helens --> event locations --> [u'Mount St. Helens']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.831103, F1 = 0.000000, graph = mount st. helens --> location contains --> [u'Crater Glacier', u'Spirit Lake']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.205738, F1 = 0.000000, graph = st helens --> location contains --> [u'Sutton High Sports College', u'Knowsley Road', u'St Helens College', u'Cowley International College', u'Langtree Park']
+Number of support sentences = 0
+Example support sentence:
+
+405what was dr seuss's real name?	[u'Theodor Robert Geisel']	[u'Henrietta Seuss Geisel', u'Theodor Robert Geisel']	0.666666666667	people.person.parents	people.person.parents	Dr. Seuss	Dr. Seuss
+Entity Score = 0.789773, F1 = 0.666667, graph = dr. seuss --> person parents --> [u'Theodor Robert Geisel', u'Henrietta Seuss Geisel']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.967481, F1 = 0.666667, graph = dr. seuss --> person parents --> [u'Theodor Robert Geisel', u'Henrietta Seuss Geisel']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.789773, F1 = 0.666667, graph = dr. seuss --> person parents --> [u'Theodor Robert Geisel', u'Henrietta Seuss Geisel']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.967481, F1 = 0.000000, graph = dr. seuss --> book subject works --> [u'Oh, the Places He Went', u'Dr. Seuss & Mr. Geisel: A Biography', u'The Seuss, the Whole Seuss and Nothing But the Seuss: A Visual Biography of Theodor Seuss Geisel', u'The Annotated Cat: Under the Hats of Seuss and His Cats', u'Dr. Seuss: American Icon']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.789773, F1 = 0.000000, graph = dr. seuss --> book subject works --> [u'Oh, the Places He Went', u'Dr. Seuss & Mr. Geisel: A Biography', u'The Seuss, the Whole Seuss and Nothing But the Seuss: A Visual Biography of Theodor Seuss Geisel', u'The Annotated Cat: Under the Hats of Seuss and His Cats', u'Dr. Seuss: American Icon']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.967481, F1 = 0.000000, graph = dr. seuss --> person profession --> [u'Film Producer', u'Poet', u'Writer', u'Screenwriter', u'Songwriter']
+Number of support sentences = 0
+Example support sentence:
+
+419what did peter tchaikovsky do?	[u'Composer']	[u'Writer', u'Composer']	0.666666666667	people.person.profession	people.person.profession	Pyotr Ilyich Tchaikovsky	Pyotr Ilyich Tchaikovsky
+Entity Score = 0.999965, F1 = 0.666667, graph = pyotr ilyich tchaikovsky --> person profession --> [u'Composer', u'Writer']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999965, F1 = 0.666667, graph = pyotr ilyich tchaikovsky --> person profession --> [u'Composer', u'Writer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> book subject works --> [u'Tchaikovsky']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> award nomination nominated for --> [u'Sleeping Beauty']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> music contributor film --> [u'The Queen of Spades', u'Barbie in the Nutcracker', u'Eugene Onegin', u'The Music Lovers', u'Scoop']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999965, F1 = 0.000000, graph = pyotr ilyich tchaikovsky --> author works written --> [u'Guide to the practical study of harmony', u"Detski\u012d al'bom", u'Letters to his family', u'Eugen Onegin', u'Waltz-scherzo, op. 34']
+Number of support sentences = 0
+Example support sentence:
+
+429what team does heskey play for?	[u'Newcastle Jets FC']	[u'Newcastle Jets FC', u'Aston Villa F.C.', u'Wigan Athletic F.C.']	0.5	soccer.football_player.current_team..soccer.football_roster_position.team	soccer.football_player.current_team..soccer.football_roster_position.team	Emile Heskey	Emile Heskey
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> football roster position team --> [u'Wigan Athletic F.C.', u'Newcastle Jets FC', u'Aston Villa F.C.']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> football roster position team --> [u'Wigan Athletic F.C.', u'Newcastle Jets FC', u'Aston Villa F.C.']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> football roster position team --> [u'Wigan Athletic F.C.', u'Newcastle Jets FC', u'Aston Villa F.C.']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> sports team roster team --> [u'Wigan Athletic F.C.', u'Newcastle Jets FC', u'Aston Villa F.C.']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> sports team roster team --> [u'Wigan Athletic F.C.', u'Newcastle Jets FC', u'Aston Villa F.C.']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999943, F1 = 0.500000, graph = emile heskey --> football player stats team --> [u'Wigan Athletic F.C.', u'Newcastle Jets FC', u'Aston Villa F.C.']
+Number of support sentences = 0
+Example support sentence:
+
+448what did ferdinand magellan do?	[u'Navigator', u'Explorer']	[u'Navigator', u'Sailor', u'Explorer']	0.8	people.person.profession	people.person.profession	Ferdinand Magellan	Ferdinand Magellan
+Entity Score = 0.996471, F1 = 0.800000, graph = ferdinand magellan --> person profession --> [u'Navigator', u'Sailor', u'Explorer']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.996471, F1 = 0.800000, graph = ferdinand magellan --> person profession --> [u'Navigator', u'Sailor', u'Explorer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> person parents --> [u'Rodrigo de Magalh\xe3es', u'Alda de Mesquita']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> marriage spouse --> [u'Mar\xeda Caldera Beatriz Barbosa']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> person children --> [u'Rodrigo de Magalh\xe3es', u'Carlos de Magalh\xe3es']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.996471, F1 = 0.000000, graph = ferdinand magellan --> deceased person place of death --> [u'Mactan']
+Number of support sentences = 1
+Example support sentence:
+[[Antonio Pigafetta]] had recorded the biological contrasts between the [[Philippines]] and the [[Maluku Islands]] (Spice Islands) (on opposite sides of the line) in 1521 during the continuation of the voyage of [[Ferdinand Magellan]], after Magellan had been killed on [[Mactan]].
+
+449what's my timezone in oklahoma?	[u'Central Time Zone']	[u'Central Time Zone', u'UTC\u221206:00']	0.666666666667	location.location.time_zones	location.location.time_zones	Oklahoma	Oklahoma
+Entity Score = 0.727318, F1 = 0.666667, graph = oklahoma --> location time zones --> [u'Central Time Zone', u'UTC\u221206:00']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.727318, F1 = 0.666667, graph = oklahoma --> location time zones --> [u'Central Time Zone', u'UTC\u221206:00']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> performance film --> [u'Snake Fever']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> book subject works --> [u'Sacred Ground', u'The Hot Kid', u'Faces in the Moon', u'Harpsong', u'The last gunfighter.']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> government position held office holder --> [u'Robert S. Kerr', u'Henry Bellmon', u'A. S. Mike Monroney', u'Robert Latham Owen', u'Fred R. Harris']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.727318, F1 = 0.000000, graph = oklahoma --> government position held office holder --> [u'Mick Thompson', u'Paul Nesbitt', u'Martin E. Trapp', u'Glenn Coffee', u'Robert S. Kerr']
+Number of support sentences = 0
+Example support sentence:
+
+450who is vancouver canucks coach?	[u'Alain Vigneault']	[u'Alain Vigneault', u'John Tortorella']	0.666666666667	sports.sports_team.coaches..sports.sports_team_coach_tenure.coach	sports.sports_team.coaches..sports.sports_team_coach_tenure.coach	Vancouver Canucks	Vancouver Canucks
+Entity Score = 0.965871, F1 = 0.666667, graph = vancouver canucks --> sports team coach tenure coach --> [u'John Tortorella', u'Alain Vigneault']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.965871, F1 = 0.666667, graph = vancouver canucks --> sports team coach tenure coach --> [u'John Tortorella', u'Alain Vigneault']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.367595, F1 = 0.000295, graph = coach --> profession people with this profession --> [u'Clarence Shelmon', u'Paulo Jorge Rebelo Duarte', u'Dougie Brown', u'Ricky Hunley', u'Brent Guy']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.367595, F1 = 0.000000, graph = coach --> sports team coach tenure coach --> [u'Franky Vercauteren', u'Vahid Halilhod\u017ei\u0107', u'Lynn Howells', u'Lucien Favre', u'Jeff Hornacek']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.107633, F1 = 0.000000, graph = baseball coach --> profession people with this profession --> [u'Ikkan Uchikawa', u'George Kissell', u'Brad Hill', u'Gary Gilmore', u'Harold Gore']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.965871, F1 = 0.000000, graph = vancouver canucks --> professional sports team owner s --> [u'Canucks Sports & Entertainment']
+Number of support sentences = 0
+Example support sentence:
+
+453what was jesse owens education?	[u'Ohio State University']	[u'East Technical High School', u'Ohio State University']	0.666666666667	people.person.education..education.education.institution	people.person.education..education.education.institution	Jesse Owens	Jesse Owens
+Entity Score = 0.981065, F1 = 0.666667, graph = jesse owens --> education institution --> [u'Ohio State University', u'East Technical High School']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.981065, F1 = 0.666667, graph = jesse owens --> education institution --> [u'Ohio State University', u'East Technical High School']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> person profession --> [u'Athlete']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> deceased person cause of death --> [u'Lung cancer']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> author works written --> [u'Blackthink', u'Jesse', u'Jesse, a spiritual autobiography', u'The Jesse Owens story']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.981065, F1 = 0.000000, graph = jesse owens --> person parents --> [u'Henry Cleveland Owens', u'Mary Emma Fitzgerald']
+Number of support sentences = 0
+Example support sentence:
+
+468what state does romney live in?	[u'Massachusetts']	[u'Massachusetts', u'Bloomfield Hills']	0.666666666667	government.politician.government_positions_held..government.government_position_held.jurisdiction_of_office	people.person.places_lived..people.place_lived.location	Mitt Romney	Mitt Romney
+Entity Score = 0.313213, F1 = 1.000000, graph = mitt romney --> government position held jurisdiction of office --> [u'Massachusetts']
+Number of support sentences = 41
+Example support sentence:
+116 of Kentucky's 120 counties supported former [[Massachusetts]] Governor [[Mitt Romney]] in the 2012 election while he lost to Barack Obama nationwide.
+Helaman was the son of [[Parley P. Pratt]] and [[Glasgow]]-born wife Mary Wood, the father of missionary [[Rey Pratt]], the grandfather of [[Michigan]] governor [[George W. Romney]], and the great-grandfather of [[Massachusetts]] governor [[Mitt Romney]].
+In the [[2012 United States Presidential Election]], the Republican candidate, Governor [[Mitt Romney]] of [[Massachusetts]] received 54.5% of votes cast, compared to the incumbent Democratic President [[Barack Obama]] who received 44.4% of votes cast.
+Giuliani quickly dropped out and endorsed McCain, but former [[Massachusetts]] Governor [[Mitt Romney]], a well-organized candidate who up to that point had won only his native Michigan and a couple minor caucus states, fought on.
+Top5
+Entity Score = 0.313213, F1 = 0.666667, graph = mitt romney --> place lived location --> [u'Massachusetts', u'Bloomfield Hills']
+Number of support sentences = 41
+Example support sentence:
+116 of Kentucky's 120 counties supported former [[Massachusetts]] Governor [[Mitt Romney]] in the 2012 election while he lost to Barack Obama nationwide.
+Helaman was the son of [[Parley P. Pratt]] and [[Glasgow]]-born wife Mary Wood, the father of missionary [[Rey Pratt]], the grandfather of [[Michigan]] governor [[George W. Romney]], and the great-grandfather of [[Massachusetts]] governor [[Mitt Romney]].
+In the [[2012 United States Presidential Election]], the Republican candidate, Governor [[Mitt Romney]] of [[Massachusetts]] received 54.5% of votes cast, compared to the incumbent Democratic President [[Barack Obama]] who received 44.4% of votes cast.
+Giuliani quickly dropped out and endorsed McCain, but former [[Massachusetts]] Governor [[Mitt Romney]], a well-organized candidate who up to that point had won only his native Michigan and a couple minor caucus states, fought on.
+Entity Score = 0.313213, F1 = 0.000000, graph = mitt romney --> person place of birth --> [u'Detroit']
+Number of support sentences = 1
+Example support sentence:
+Raised in [[Michigan]], Fisher attended Kingswood School (today's [[Cranbrook Kingswood School]]) in [[Bloomfield Hills]] (where she had briefly dated politician [[Mitt Romney]]), and attended college at the [[University of Michigan]] for a year before taking a volunteer position at [[American Broadcasting Company|ABC television]] in [[Detroit]], Michigan, which she left when afforded an opportunity to join the staff of [[Gerald R. Ford]], then [[President of the United States]], as the first female "advance man".
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> location containedby --> [u'West Virginia', u'Hampshire County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> hud county place county --> [u'Hampshire County']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.356100, F1 = 0.000000, graph = romney --> location contains --> [u'Hampshire County Courthouse', u'Literary Hall', u'Wilson-Wodrow-Mytinger House', u'Old Methodist District Parsonage']
+Number of support sentences = 0
+Example support sentence:
+
+469where is giza pyramids located?	[u'Egypt', u'Giza Governorate']	[u'Egypt']	0.666666666667	location.location.containedby	location.location.containedby	Giza	Giza Necropolis
+Entity Score = 0.846332, F1 = 1.000000, graph = giza --> location containedby --> [u'Egypt', u'Giza Governorate']
+Number of support sentences = 36
+Example support sentence:
+| death_place     = [[Giza]], [[Egypt]]
+| location         = [[Dokki]], [[Giza]], [[Egypt]]
+[[2381 BC]] to [[2323 BC]]) in the [[necropolis]] of [[Saqqara]], north of [[Pharaoh]] [[Djoser]]'s [[Step Pyramid]] and about 30&nbsp;kilometers south of [[Giza]], [[Egypt]].
+The '''Giza Zoo''' is a  [[zoo|zoological garden]] in  [[Giza]], [[Egypt]].
+Top5
+Entity Score = 0.859188, F1 = 0.666667, graph = giza necropolis --> location containedby --> [u'Egypt']
+Number of support sentences = 3
+Example support sentence:
+Because of agreement to [[naming rights]], the [[Giza Necropolis]] in [[Egypt]] was renamed to ''Hugh Sitton'', a photographer of [[Corbis Corporation]].
+Another song sequence ("Suraj Hua Maddham") involving Khan and Kajol was shot with the backdrop of the [[Giza Necropolis|Pyramids of Giza]] in the city of [[Cairo]] in [[Egypt]].
+* This is the year that the [[Stargate (device)|Stargate]] is discovered in [[Giza]], [[Egypt]], near the [[Giza Necropolis|Great Pyramids]], as seen in the film ''[[Stargate (film)|Stargate]]'' ([[1994]]).
+Entity Score = 0.846332, F1 = 1.000000, graph = giza --> location containedby --> [u'Egypt', u'Giza Governorate']
+Number of support sentences = 36
+Example support sentence:
+| death_place     = [[Giza]], [[Egypt]]
+| location         = [[Dokki]], [[Giza]], [[Egypt]]
+[[2381 BC]] to [[2323 BC]]) in the [[necropolis]] of [[Saqqara]], north of [[Pharaoh]] [[Djoser]]'s [[Step Pyramid]] and about 30&nbsp;kilometers south of [[Giza]], [[Egypt]].
+The '''Giza Zoo''' is a  [[zoo|zoological garden]] in  [[Giza]], [[Egypt]].
+Entity Score = 0.119332, F1 = 0.500000, graph = great pyramid of giza --> location containedby --> [u'Egypt', u'Giza Plateau']
+Number of support sentences = 8
+Example support sentence:
+The [[Great Pyramid of Giza]] in [[Egypt]] was the [[world's tallest structure]] for 4,000 years, until the completion of [[Lincoln Cathedral]] around the year 1300.
+The Winterland concerts of October 17, 18, 20, 21, and 22, 1978, were the first shows played by the Dead after their concerts near the [[Great Pyramid of Giza]] in [[Egypt]] a month earlier.
+They toured nationally starting in June 1967 (their first foray to New York), with a few detours to [[Canada]], [[Europe]] and three nights at the [[Great Pyramid of Giza]] in [[Egypt]] in 1978.
+[[Great Pyramid of Giza]] was built in [[Egypt]].
+Entity Score = 0.846332, F1 = 0.000000, graph = giza --> location contains --> [u'Cairo University', u'Giza Plateau', u'Helmi Zamora Stadium', u'Giza Zoo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.119332, F1 = 0.000000, graph = great pyramid of giza --> pyramid site --> [u'Giza Plateau']
+Number of support sentences = 0
+Example support sentence:
+
+473what standard time is michigan?	[u'Central Time Zone', u'North American Eastern Time Zone', u'UTC-5']	[u'Central Time Zone', u'Eastern Time Zone', u'UTC-5']	0.666666666667	location.location.time_zones	location.location.time_zones	Michigan	Michigan
+Entity Score = 0.860047, F1 = 0.666667, graph = michigan --> location time zones --> [u'Central Time Zone', u'Eastern Time Zone', u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.860047, F1 = 0.666667, graph = michigan --> location time zones --> [u'Central Time Zone', u'Eastern Time Zone', u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> book subject works --> [u'Masquerade', u'Whoreson', u'Every Brilliant Eye', u'Lady Yesterday', u'Poison blonde']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location symbol relationship symbol --> [u'American Robin', u'American mastodon', u'Brook trout', u'Painted turtle', u'Apple Blossom']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location events --> [u'United States Senate elections, 2006', u'Battle of Windsor', u'Copper Country Strike of 1913\u20131914']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.860047, F1 = 0.000000, graph = michigan --> location contains --> [u'Michigan College of Beauty', u'Baker College of Coldwater, main campus', u'Dorr Township', u'Whitehall', u'Burt']
+Number of support sentences = 646
+Example support sentence:
+Hudson Building''' ("Hudson's") was a [[department store]] located at 1206 [[M-1 (Michigan highway)|Woodward Avenue]] in [[Downtown Detroit|downtown]] [[Detroit]], [[Michigan]].
+Henderson was born in [[Detroit]], [[Michigan]].
+'''Brainstorm''' was an [[United States|American]] [[funk]] and [[Rhythm and blues|R&B]] band, based in [[Detroit]], [[Michigan]] in the late 1970s.
+The '''Michigan Central Railway Tunnel''' is a [[railroad]] tunnel under the [[Detroit River]] connecting [[Detroit]], [[Michigan]], in the United States with [[Windsor, Ontario]], in Canada.
+
+475what is michael kors real name?	[u'Karl Anderson']	[u'Karl Anderson', u'Joan Hamburger']	0.666666666667	people.person.parents	people.person.parents	Michael Kors	Michael Kors
+Entity Score = 0.999983, F1 = 0.666667, graph = michael kors --> person parents --> [u'Joan Hamburger', u'Karl Anderson']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.999983, F1 = 0.666667, graph = michael kors --> person parents --> [u'Joan Hamburger', u'Karl Anderson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999983, F1 = 0.000000, graph = michael kors --> marriage spouse --> [u'Lance LePere']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999983, F1 = 0.000000, graph = michael kors --> friendship participant --> [u'Donald Trump', u'Jessica Simpson']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> person parents --> [u'Rush Limbaugh, Sr.', u'Mildred Limbaugh']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.210526, F1 = 0.000000, graph = rush limbaugh --> marriage spouse --> [u'Roxy Maxine McNeely', u'Kathryn Rogers', u'Michelle Sixta', u'Marta Fitzgerald']
+Number of support sentences = 0
+Example support sentence:
+
+485where does carlos santana live?	[u'Jalisco']	[u'San Francisco', u'Jalisco', u'Tijuana']	0.5	people.person.places_lived..people.place_lived.location	people.person.places_lived..people.place_lived.location	Carlos Santana	Carlos Santana
+Entity Score = 0.878128, F1 = 0.500000, graph = carlos santana --> place lived location --> [u'San Francisco', u'Tijuana', u'Jalisco']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.878128, F1 = 0.500000, graph = carlos santana --> place lived location --> [u'San Francisco', u'Tijuana', u'Jalisco']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.878128, F1 = 0.000000, graph = carlos santana --> person place of birth --> [u'Autl\xe1n, Jalisco']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.109254, F1 = 0.000000, graph = carlos santana --> person place of birth --> [u'Santo Domingo']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.878128, F1 = 0.000000, graph = carlos santana --> artist origin --> [u'Autl\xe1n, Jalisco']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.878128, F1 = 0.000000, graph = carlos santana --> person nationality --> [u'United States of America', u'Mexico']
+Number of support sentences = 0
+Example support sentence:
+
+487what is steve nash nationality?	[u'Canada']	[u'Canada', u'England']	0.666666666667	people.person.nationality	people.person.nationality	Steve Nash	Steve Nash
+Entity Score = 0.973240, F1 = 0.666667, graph = steve nash --> person nationality --> [u'England', u'Canada']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.973240, F1 = 0.666667, graph = steve nash --> person nationality --> [u'England', u'Canada']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.973240, F1 = 0.000000, graph = steve nash --> place lived location --> [u'Victoria']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.973240, F1 = 0.000000, graph = steve nash --> person place of birth --> [u'Johannesburg']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.973240, F1 = 0.000000, graph = steve nash --> athlete salary team --> [u'Los Angeles Lakers', u'Phoenix Suns']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.973240, F1 = 0.000000, graph = steve nash --> sports award season --> [u'2005\u201306 NBA season', u'2004\u201305 NBA season']
+Number of support sentences = 0
+Example support sentence:
+
+537when did arsenal won the league?	[u'2004\u201305 FA Cup', u'FA Cup 2002\u201303', u'2002 FA Cup Final', u'FA Cup 1978\u201379', u'2005 FA Cup Final', u'2003 FA Cup Final', u'FA Cup 1997\u201398', u'FA Cup 1992\u201393', u'FA Cup 1970\u201371', u'2001\u201302 FA Cup']	[u'2004\u201305 FA Cup', u'1970\u201371 FA Cup', u'2002 FA Cup Final', u'2002\u201303 FA Cup', u'2005 FA Cup Final', '...']	0.5	sports.sports_team.championships	sports.sports_team.championships	Arsenal F.C.	Arsenal F.C.
+Entity Score = 0.785957, F1 = 0.500000, graph = arsenal f.c. --> sports team championships --> [u'2002\u201303 FA Cup', u'1978\u201379 FA Cup', u'2005 FA Cup Final', u'1997\u201398 FA Cup', u'2004\u201305 FA Cup']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.785957, F1 = 0.500000, graph = arsenal f.c. --> sports team championships --> [u'2002\u201303 FA Cup', u'1978\u201379 FA Cup', u'2005 FA Cup Final', u'1997\u201398 FA Cup', u'2004\u201305 FA Cup']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.807063, F1 = 0.000000, graph = the league --> regular tv appearance character --> [u'Pete', u'Jenny', u'Kayden']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.785957, F1 = 0.235294, graph = arsenal f.c. --> sports award season --> [u'2002\u201303 FA Cup', u'1978\u201379 FA Cup', u'1997\u201398 FA Cup', u'2004\u201305 FA Cup', u'2001\u201302 FA Cup']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.785957, F1 = 0.000000, graph = arsenal f.c. --> football player loan lending team --> [u'New York Red Bulls']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.785957, F1 = 0.000000, graph = arsenal f.c. --> sports team colors --> [u'Red']
+Number of support sentences = 0
+Example support sentence:
+
+556what do people speak in germany?	[u'Bavarian Language', u'German Language', u'Saxon, Upper Language']	[u'German Language']	0.5	location.country.languages_spoken	location.country.official_language	Germany	Germany
+Entity Score = 0.260642, F1 = 1.000000, graph = germany --> country languages spoken --> [u'Bavarian Language', u'German Language', u'Saxon, Upper Language']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.892185, F1 = 0.500000, graph = germany --> country official language --> [u'German Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.892185, F1 = 1.000000, graph = germany --> country languages spoken --> [u'Bavarian Language', u'German Language', u'Saxon, Upper Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.260642, F1 = 0.500000, graph = germany --> country official language --> [u'German Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.260642, F1 = 1.000000, graph = germany --> country languages spoken --> [u'Bavarian Language', u'German Language', u'Saxon, Upper Language']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.370275, F1 = 0.000000, graph = people --> periodical language --> [u'English Language']
+Number of support sentences = 0
+Example support sentence:
+
+558where did theodor schwann study?	[u'Humboldt University of Berlin']	[u'University of Bonn', u'Humboldt University of Berlin', u'University of W\xfcrzburg']	0.5	people.person.education..education.education.institution	people.person.education..education.education.institution	Theodor Schwann	Theodor Schwann
+Entity Score = 0.998805, F1 = 0.500000, graph = theodor schwann --> education institution --> [u'Humboldt University of Berlin', u'University of Bonn', u'University of W\xfcrzburg']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.998805, F1 = 0.500000, graph = theodor schwann --> education institution --> [u'Humboldt University of Berlin', u'University of Bonn', u'University of W\xfcrzburg']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> person nationality --> [u'Germany']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> deceased person place of death --> [u'Cologne']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> person place of birth --> [u'Neuss']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.998805, F1 = 0.000000, graph = theodor schwann --> author works written --> [u'Microscopical researches into the accordance in the structure and growth of animals and plants']
+Number of support sentences = 0
+Example support sentence:
+
+585what is claire danes famous for?	[u'Actor']	[u'Voice Actor', u'Actor']	0.666666666667	people.person.profession	people.person.profession	Claire Danes	Claire Danes
+Entity Score = 0.994246, F1 = 0.666667, graph = claire danes --> person profession --> [u'Actor', u'Voice Actor']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.994246, F1 = 0.666667, graph = claire danes --> person profession --> [u'Actor', u'Voice Actor']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> performance character --> [u'Sonja Jones', u'Girl', u'Cosette Tholomy\xe8s', u'Juliet Capulet', u'Lainee Diamond']
+Number of support sentences = 2
+Example support sentence:
+The film stars [[Leonardo DiCaprio]] and [[Claire Danes]] in the leading roles of [[Romeo]] and [[Juliet]], who instantly fall in love when Romeo crashes a party and meets her despite them being members of the Montague and Capulet family; [[Brian Dennehy]], [[John Leguizamo]], [[Pete Postlethwaite]], [[Paul Sorvino]] and [[Diane Venora]] star in supporting roles.
+* [[Claire Danes]] as [[Juliet|Juliet Capulet]]/Juliet Capulet-Montague
+Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> regular tv appearance character --> [u'Angela Chase', u'Carrie Mathison']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> performance film --> [u'Me and Orson Welles', u'Igby Goes Down', u'Shopgirl', u'U Turn', u'The Hours']
+Number of support sentences = 1
+Example support sentence:
+A story of a 28-year-old woman behind the glove counter at the [[Saks Fifth Avenue]] department store in [[Beverly Hills]], ''[[Shopgirl (novella)|Shopgirl]]'' was [[Shopgirl|made into a film starring Martin]] and [[Claire Danes]].
+Entity Score = 0.994246, F1 = 0.000000, graph = claire danes --> dubbing performance character --> [u'San']
+Number of support sentences = 0
+Example support sentence:
+
+589what drug killed marilyn monroe?	[u'Barbiturate']	[u'Suicide', u'Barbiturate', u'Drug overdose']	0.5	people.deceased_person.cause_of_death	people.deceased_person.cause_of_death	Marilyn Monroe	Marilyn Monroe
+Entity Score = 0.979254, F1 = 0.500000, graph = marilyn monroe --> deceased person cause of death --> [u'Suicide', u'Drug overdose', u'Barbiturate']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.979254, F1 = 0.500000, graph = marilyn monroe --> deceased person cause of death --> [u'Suicide', u'Drug overdose', u'Barbiturate']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.979254, F1 = 0.000000, graph = marilyn monroe --> deceased person place of death --> [u'Brentwood']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.979254, F1 = 0.000000, graph = marilyn monroe --> place lived location --> [u'Los Angeles', u'Compton', u'Hawthorne']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.979254, F1 = 0.000000, graph = marilyn monroe --> person place of birth --> [u'Los Angeles']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.979254, F1 = 0.000000, graph = marilyn monroe --> person nationality --> [u'United States of America']
+Number of support sentences = 0
+Example support sentence:
+
+601who is the king of cambodia now?	[u'Norodom Sihamoni']	[u'Hun Sen', u'Norodom Sihamoni']	0.666666666667	royalty.kingdom.rulers	government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder	Cambodia	Cambodia
+Entity Score = 0.830921, F1 = 0.066667, graph = cambodia --> kingdom rulers --> [u'Suryavarman I', u'Jayavarman VII', u'Mahendravarman', u'Jayavarman V', u'Norodom of Cambodia']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.830921, F1 = 0.666667, graph = cambodia --> government position held office holder --> [u'Hun Sen', u'Norodom Sihamoni']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.358902, F1 = 0.000000, graph = monarch --> government position held office holder --> [u'Albert II, Prince of Monaco', u'Mohammed bin Rashid Al Maktoum', u'George Tupou V', u'Tupou VI', u'Mohammed VI of Morocco']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.358902, F1 = 0.000000, graph = monarch --> government position held office holder --> [u'Elizabeth II']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.830921, F1 = 0.000000, graph = cambodia --> military command military commander --> [u'Son Sann', u'Pol Pot', u'Norodom Sihanouk', u'Khieu Samphan', u'Hun Sen']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.225000, F1 = 0.000000, graph = king of hungary --> government position held office holder --> [u'Stephen I of Hungary']
+Number of support sentences = 0
+Example support sentence:
+
+615what time zone is in the bahamas?	[u'UTC-5', u'North American Eastern Time Zone']	[u'UTC-5', u'Eastern Time Zone']	0.5	location.location.time_zones	location.location.time_zones	Turks and Caicos Islands	Bahamas
+Entity Score = 0.999988, F1 = 0.666667, graph = turks and caicos islands --> location time zones --> [u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.992698, F1 = 0.500000, graph = bahamas --> location time zones --> [u'Eastern Time Zone', u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.999988, F1 = 0.666667, graph = turks and caicos islands --> location time zones --> [u'UTC-5']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.125066, F1 = 0.000000, graph = zone --> artist track --> [u'Renren (Backing Track)', u'Renren...', u'RenRen', u'\u201cFor Tomorrow\u201d', u'Sarariman (Takayo, Maiko)']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.992698, F1 = 0.000000, graph = bahamas --> sports team location teams --> [u'Bahamas national football team']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.147169, F1 = 0.000000, graph = lewis cass --> author works written --> [u'An examination of the question, now in discussion, between the American and British governments, concerning the rights of search', u'A discourse, delivered at the first meeting of the Historical Society of Michigan, Sept. 18, 1829']
+Number of support sentences = 0
+Example support sentence:
+
+641what language does australia use?	[u'English Language']	[u'Lojban', u'Esperanto Language', u'English Language']	0.5	location.country.languages_spoken	location.country.languages_spoken	Australia	Australia
+Entity Score = 0.880518, F1 = 0.500000, graph = australia --> country languages spoken --> [u'English Language', u'Esperanto Language', u'Lojban']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.880518, F1 = 0.500000, graph = australia --> country languages spoken --> [u'English Language', u'Esperanto Language', u'Lojban']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.880518, F1 = 0.000000, graph = australia --> country form of government --> [u'Constitutional monarchy', u'Federal monarchy', u'Parliamentary system']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.880518, F1 = 0.000000, graph = australia --> book subject works --> [u'The bamboo flute', u'Lockie Leonard Legend', u'Railway nationalisation and the farmer.', u'Novae Hollandiae Plantarum Specimen', u'Handbook of Australian, New Zealand and Antarctic Birds']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.880518, F1 = 0.000000, graph = australia --> religion percentage religion --> [u'Buddhism', u'Catholicism', u'Islam', u'Anglicanism']
+Number of support sentences = 12
+Example support sentence:
+'''Holy Cross College''' is a [[Catholicism|Catholic]] [[high school]] for boys located in the suburb of [[Ryde]] in [[Sydney]], [[New South Wales]], [[Australia]] established in the tradition of the [[Patrician Brothers]].
+'''St Paul's Cathedral''' is an [[Anglicanism|Anglican]] [[cathedral]] in [[Melbourne]], [[Victoria (Australia)|Victoria]], [[Australia]].
+He also earned his degree in [[Buddhism|Buddhist]] philosophy from Fu Yan Buddhist Institute, [[Taiwan]], Bachelor of Arts in Psychology and Sociology from [[Monash University]], [[Australia]], and Master of Buddhist Studies from [[University of Sydney]], Australia.
+'''David John Leyburn Richardson'''  (born 14 March 1946) is an [[Australia]]n-born [[Anglicanism|Anglican]] priest, former cathedral dean and director of the [[Anglican Centre in Rome]].
+Entity Score = 0.880518, F1 = 0.000000, graph = australia --> location contains --> [u'Riverina Institute, Corowa', u'Brisbane River', u'Melbourne Recital Centre', u'Howlong', u'Nantawarra']
+Number of support sentences = 5722
+Example support sentence:
+|[[Brisbane]] || [[Australia]] ([[Queensland]]) || BNE || YBBN || [[Brisbane Airport]] || 2010  || || align=center | 
+'''Belgrave''' is a suburb in [[Melbourne]], [[Victoria (Australia)|Victoria]], [[Australia]], 35&nbsp;km east of Melbourne's [[Melbourne city centre|central business district]].
+The '''Sydney Opera House Trust''' operates and maintains the [[Sydney Opera House]] in [[Sydney]] for the [[Government of New South Wales]] in [[Australia]]. 
+'''North East Island''' is a national park in [[North Queensland]], [[Australia]], 700&nbsp;km northwest of [[Brisbane]].
+
+651what is the zip code for trenton?	[u'08610', u'08611', u'08618', u'08608', u'08603', u'08602', u'08601', u'08607', u'08605', u'08604']	[u'08695', u'08690', u'08691', u'08666', u'08647', '...']	0.540540540541	location.citytown.postal_codes	location.citytown.postal_codes	Trenton	Trenton
+Entity Score = 0.474980, F1 = 0.540541, graph = trenton --> citytown postal codes --> [u'08625', u'08611', u'08628', u'08638', u'08610']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.474980, F1 = 0.540541, graph = trenton --> citytown postal codes --> [u'08625', u'08611', u'08628', u'08638', u'08610']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.474980, F1 = 0.000000, graph = trenton --> location time zones --> [u'Eastern Time Zone']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = genetics --> book subject works --> [u'River Out of Eden', u'The Extended Phenotype', u'The Selfish Gene', u'An Introduction to Genetic Algorithms', u'Next']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.474980, F1 = 0.000000, graph = trenton --> location events --> [u'Battle of Trenton', u"George Washington's crossing of the Delaware River", u'Hard Justice 2008', u'Battle of the Assunpink Creek']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.474980, F1 = 0.000000, graph = trenton --> location contains --> [u'New Jersey State Prison', u'The College of New Jersey', u'New Jersey State Museum Auditorium', u"St. Michael's Church, Trenton, New Jersey", u'Friends Burying Ground, Trenton']
+Number of support sentences = 0
+Example support sentence:
+
+660what college did john nash go to?	[u'Carnegie Mellon University', u'Carnegie Institute of Technology', u'Bluefield High School', u'Princeton University', u'Massachusetts Institute of Technology']	[u'Carnegie Institute of Technology', u'Bluefield High School', u'Princeton University']	0.75	people.person.education..education.education.institution	people.person.education..education.education.institution	John Forbes Nash, Jr.	John Forbes Nash, Jr.
+Entity Score = 0.685191, F1 = 0.750000, graph = john forbes nash jr. --> education institution --> [u'Carnegie Institute of Technology', u'Princeton University', u'Bluefield High School']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.685191, F1 = 0.750000, graph = john forbes nash jr. --> education institution --> [u'Carnegie Institute of Technology', u'Princeton University', u'Bluefield High School']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.749635, F1 = 0.000000, graph = college --> school category schools of this kind --> [u'Grace Bible College', u'Perth College UHI', u'Divine Word College of San Jose', u'Hampshire College', u'Pomona College']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.685191, F1 = 0.000000, graph = john forbes nash jr. --> education major field of study --> [u'Mathematics']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.685191, F1 = 0.571429, graph = john forbes nash jr. --> employment tenure company --> [u'Massachusetts Institute of Technology', u'Princeton University']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.259548, F1 = 0.000000, graph = john nash --> employment tenure company --> [u'Robert Taylor']
+Number of support sentences = 0
+Example support sentence:
+
+665who is amy grant's first husband?	[u'Vince Gill']	[u'Vince Gill', u'Gary Chapman']	0.666666666667	award.award_nominee.award_nominations..award.award_nomination.award_nominee	people.person.spouse_s..people.marriage.spouse	Amy Grant	Amy Grant
+Entity Score = 1.000000, F1 = 0.250000, graph = amy grant --> award nomination award nominee --> [u'Keith Thomas', u'Vince Gill', u'Owsley', u'Brown Bannister', u"Dillon O'Brian"]
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.666667, graph = amy grant --> marriage spouse --> [u'Vince Gill', u'Gary Chapman']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.500000, graph = amy grant --> award honor award winner --> [u'Vince Gill', u'Brown Bannister', u'Steve Bishir']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.250000, graph = amy grant --> award nomination award nominee --> [u'Keith Thomas', u'Vince Gill', u'Owsley', u'Brown Bannister', u"Dillon O'Brian"]
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = amy grant --> person parents --> [u'Burton Paine Grant', u'Gloria Grant']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = first husband --> performance actor --> [u'Andrei Shchetinin']
+Number of support sentences = 0
+Example support sentence:
+
+670who did the voice for lola bunny?	[u'Britt McKillip', u'Kath Soucie']	[u'Britt McKillip', u'Kristen Wiig']	0.5	film.film_character.portrayed_in_films..film.performance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Lola Bunny	Lola Bunny
+Entity Score = 1.000000, F1 = 1.000000, graph = lola bunny --> performance actor --> [u'Britt McKillip', u'Kath Soucie']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 1.000000, F1 = 0.500000, graph = lola bunny --> regular tv appearance actor --> [u'Britt McKillip', u'Kristen Wiig']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 1.000000, graph = lola bunny --> performance actor --> [u'Britt McKillip', u'Kath Soucie']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 1.000000, F1 = 0.000000, graph = big gay als big gay boat ride --> tv guest role actor --> [u'George Clooney']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.265803, F1 = 0.000000, graph = the voice --> tv producer term producer --> [u'John de Mol', u'Carson Daly', u'Jim Roush', u'Joni Day', u'Mark Burnett']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.265803, F1 = 0.000000, graph = the voice --> award nomination award nominee --> [u'John de Mol', u'Carson Daly', u'Jerilynn Straitiff', u'James Connelly', u'Jim Roush']
+Number of support sentences = 0
+Example support sentence:
+
+693who is princess leia in star wars?	[u'Carrie Fisher']	[u'Carrie Fisher', u'Amy Smart']	0.666666666667	film.film_character.portrayed_in_films..film.performance.actor	tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.actor	Leia Organa	Leia Organa
+Entity Score = 0.986592, F1 = 1.000000, graph = leia organa --> performance actor --> [u'Carrie Fisher']
+Number of support sentences = 0
+Example support sentence:
+Top5
+Entity Score = 0.986592, F1 = 0.666667, graph = leia organa --> regular tv appearance actor --> [u'Carrie Fisher', u'Amy Smart']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.986592, F1 = 1.000000, graph = leia organa --> performance actor --> [u'Carrie Fisher']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.782263, F1 = 0.000000, graph = star wars --> award nomination award nominee --> [u'20th Century Fox Home Entertainment']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.782263, F1 = 0.000000, graph = star wars --> award honor award winner --> [u'20th Century Fox']
+Number of support sentences = 0
+Example support sentence:
+Entity Score = 0.986592, F1 = 0.000000, graph = leia organa --> fictional character character created by --> [u'George Lucas']
+Number of support sentences = 0
+Example support sentence:
+
