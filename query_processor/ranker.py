@@ -358,8 +358,6 @@ class Ranker(object):
             logger.info("Processing query " + str(query.id))
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
             facts = json["facts"]
-            if str(query.id) != "6":
-                continue
             for ie in facts:
                 subject = ie["subject"]
                 sid = ie["sid"]
@@ -375,8 +373,8 @@ class Ranker(object):
                                                   relations[rel])
                     fact_candiate.get_support_sentence()
                     relations[rel]["support"] = list(fact_candiate.support)
-            print(json)
-            break
+            json_path = "/home/hongyul/AMA/wiki/" + dataset + "/" + str(query.id)
+            codecsDumpJson(json_path, json)
 
     def extract_fact_candidates(self, dataset):
         queries = load_eval_queries(dataset)
