@@ -63,16 +63,14 @@ class WikiExtractor(object):
         object_name = modules.wiki_url[oid]
         print subject_name, object_name
         if subject_name is None or object_name is None:
-            print "Not here?"
             return []
 
         result = []
         for i in xrange(27):
             idx = i+1
             result_path = self.support_dir + str(idx) + '/' + subject_name
-            print result_path
+            result_path = result_path.encode("utf-8")
             if (os.path.isfile(result_path)):
-                print "valid path"
                 sentences = codecsReadFile(result_path).strip().split('\n')
                 for sent in sentences:
                     if ("[[" not in sent and "]]" not in sent):
@@ -92,6 +90,7 @@ class WikiExtractor(object):
                             entity = entity[:entity.find('#')]
                         if ('/' in entity):
                             entity = entity.replace('/', '|')
+                        entity = entity.replace(" ", "_")
                         if entity == object_name:
                             result.append(sent)
                             break
