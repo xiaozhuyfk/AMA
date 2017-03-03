@@ -375,7 +375,7 @@ class Ranker(object):
                                                   relations[rel])
                     fact_candiate.get_support_sentence()
                     relations[rel]["support"] = list(fact_candiate.support)
-            print json
+            print(json)
             break
 
     def extract_fact_candidates(self, dataset):
