@@ -373,7 +373,8 @@ class Ranker(object):
                                                   score,
                                                   rel,
                                                   relations[rel])
-                    print(str(fact_candiate))
+                    if ("Lady Bird Johnson" in relations[rel]["objects"]):
+                        print(str(fact_candiate))
             break
 
     def extract_fact_candidates(self, dataset):
