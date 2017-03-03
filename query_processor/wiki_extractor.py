@@ -61,6 +61,7 @@ class WikiExtractor(object):
 
         subject_name = modules.wiki_url[sid]
         object_name = modules.wiki_url[oid]
+        print subject_name, object_name
         if subject_name is None or object_name is None:
             return []
 
