@@ -373,7 +373,7 @@ class Ranker(object):
                                                   relations[rel])
                     fact_candiate.get_support_sentence()
                     relations[rel]["support"] = list(fact_candiate.support)
-            json_path = "/home/hongyul/AMA/wiki/" + dataset + "/" + str(query.id)
+            json_path = "/home/hongyul/AMA/support_sentence/" + dataset + "/" + str(query.id)
             codecsDumpJson(json_path, json)
 
     def extract_fact_candidates(self, dataset):
