@@ -92,7 +92,7 @@ class WikiExtractor(object):
                             entity = entity.replace('/', '|')
                         entity = entity.replace(" ", "_")
                         if entity == object_name:
-                            result.append(sent)
+                            result.append(sent.encode("utf-8"))
                             break
         return result
 
