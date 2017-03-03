@@ -358,10 +358,23 @@ class Ranker(object):
             logger.info("Processing query " + str(query.id))
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
             facts = json["facts"]
+            if str(query.id) != "6":
+                continue
             for ie in facts:
                 subject = ie["subject"]
-                sid = ie["sid"].replace(".", "-")
-                modules.wiki_extractor.extract_wiki_page(dataset, query, subject, sid)
+                sid = ie["sid"]
+                score = ie["score"]
+                relations = ie["relations"]
+                for rel in relations:
+                    fact_candiate = FactCandidate(self.config_options,
+                                                  query,
+                                                  subject,
+                                                  sid,
+                                                  score,
+                                                  rel,
+                                                  relations[rel])
+                    print(str(fact_candiate))
+            break
 
     def extract_fact_candidates(self, dataset):
         queries = load_eval_queries(dataset)
