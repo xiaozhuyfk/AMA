@@ -1,1400 +1,1400 @@
 Universe = vanilla
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 0
+arguments = 0
 output = /home/hongyul/condor/condor0.job.out
 log = /tmp/hongyul0.job.log
 error = /home/hongyul/condor/condor0.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 1
+arguments = 1
 output = /home/hongyul/condor/condor1.job.out
 log = /tmp/hongyul1.job.log
 error = /home/hongyul/condor/condor1.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 2
+arguments = 2
 output = /home/hongyul/condor/condor2.job.out
 log = /tmp/hongyul2.job.log
 error = /home/hongyul/condor/condor2.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 3
+arguments = 3
 output = /home/hongyul/condor/condor3.job.out
 log = /tmp/hongyul3.job.log
 error = /home/hongyul/condor/condor3.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 4
+arguments = 4
 output = /home/hongyul/condor/condor4.job.out
 log = /tmp/hongyul4.job.log
 error = /home/hongyul/condor/condor4.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 5
+arguments = 5
 output = /home/hongyul/condor/condor5.job.out
 log = /tmp/hongyul5.job.log
 error = /home/hongyul/condor/condor5.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 6
+arguments = 6
 output = /home/hongyul/condor/condor6.job.out
 log = /tmp/hongyul6.job.log
 error = /home/hongyul/condor/condor6.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 7
+arguments = 7
 output = /home/hongyul/condor/condor7.job.out
 log = /tmp/hongyul7.job.log
 error = /home/hongyul/condor/condor7.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 8
+arguments = 8
 output = /home/hongyul/condor/condor8.job.out
 log = /tmp/hongyul8.job.log
 error = /home/hongyul/condor/condor8.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 9
+arguments = 9
 output = /home/hongyul/condor/condor9.job.out
 log = /tmp/hongyul9.job.log
 error = /home/hongyul/condor/condor9.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 10
+arguments = 10
 output = /home/hongyul/condor/condor10.job.out
 log = /tmp/hongyul10.job.log
 error = /home/hongyul/condor/condor10.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 11
+arguments = 11
 output = /home/hongyul/condor/condor11.job.out
 log = /tmp/hongyul11.job.log
 error = /home/hongyul/condor/condor11.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 12
+arguments = 12
 output = /home/hongyul/condor/condor12.job.out
 log = /tmp/hongyul12.job.log
 error = /home/hongyul/condor/condor12.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 13
+arguments = 13
 output = /home/hongyul/condor/condor13.job.out
 log = /tmp/hongyul13.job.log
 error = /home/hongyul/condor/condor13.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 14
+arguments = 14
 output = /home/hongyul/condor/condor14.job.out
 log = /tmp/hongyul14.job.log
 error = /home/hongyul/condor/condor14.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 15
+arguments = 15
 output = /home/hongyul/condor/condor15.job.out
 log = /tmp/hongyul15.job.log
 error = /home/hongyul/condor/condor15.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 16
+arguments = 16
 output = /home/hongyul/condor/condor16.job.out
 log = /tmp/hongyul16.job.log
 error = /home/hongyul/condor/condor16.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 17
+arguments = 17
 output = /home/hongyul/condor/condor17.job.out
 log = /tmp/hongyul17.job.log
 error = /home/hongyul/condor/condor17.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 18
+arguments = 18
 output = /home/hongyul/condor/condor18.job.out
 log = /tmp/hongyul18.job.log
 error = /home/hongyul/condor/condor18.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 19
+arguments = 19
 output = /home/hongyul/condor/condor19.job.out
 log = /tmp/hongyul19.job.log
 error = /home/hongyul/condor/condor19.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 20
+arguments = 20
 output = /home/hongyul/condor/condor20.job.out
 log = /tmp/hongyul20.job.log
 error = /home/hongyul/condor/condor20.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 21
+arguments = 21
 output = /home/hongyul/condor/condor21.job.out
 log = /tmp/hongyul21.job.log
 error = /home/hongyul/condor/condor21.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 22
+arguments = 22
 output = /home/hongyul/condor/condor22.job.out
 log = /tmp/hongyul22.job.log
 error = /home/hongyul/condor/condor22.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 23
+arguments = 23
 output = /home/hongyul/condor/condor23.job.out
 log = /tmp/hongyul23.job.log
 error = /home/hongyul/condor/condor23.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 24
+arguments = 24
 output = /home/hongyul/condor/condor24.job.out
 log = /tmp/hongyul24.job.log
 error = /home/hongyul/condor/condor24.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 25
+arguments = 25
 output = /home/hongyul/condor/condor25.job.out
 log = /tmp/hongyul25.job.log
 error = /home/hongyul/condor/condor25.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 26
+arguments = 26
 output = /home/hongyul/condor/condor26.job.out
 log = /tmp/hongyul26.job.log
 error = /home/hongyul/condor/condor26.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 27
+arguments = 27
 output = /home/hongyul/condor/condor27.job.out
 log = /tmp/hongyul27.job.log
 error = /home/hongyul/condor/condor27.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 28
+arguments = 28
 output = /home/hongyul/condor/condor28.job.out
 log = /tmp/hongyul28.job.log
 error = /home/hongyul/condor/condor28.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 29
+arguments = 29
 output = /home/hongyul/condor/condor29.job.out
 log = /tmp/hongyul29.job.log
 error = /home/hongyul/condor/condor29.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 30
+arguments = 30
 output = /home/hongyul/condor/condor30.job.out
 log = /tmp/hongyul30.job.log
 error = /home/hongyul/condor/condor30.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 31
+arguments = 31
 output = /home/hongyul/condor/condor31.job.out
 log = /tmp/hongyul31.job.log
 error = /home/hongyul/condor/condor31.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 32
+arguments = 32
 output = /home/hongyul/condor/condor32.job.out
 log = /tmp/hongyul32.job.log
 error = /home/hongyul/condor/condor32.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 33
+arguments = 33
 output = /home/hongyul/condor/condor33.job.out
 log = /tmp/hongyul33.job.log
 error = /home/hongyul/condor/condor33.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 34
+arguments = 34
 output = /home/hongyul/condor/condor34.job.out
 log = /tmp/hongyul34.job.log
 error = /home/hongyul/condor/condor34.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 35
+arguments = 35
 output = /home/hongyul/condor/condor35.job.out
 log = /tmp/hongyul35.job.log
 error = /home/hongyul/condor/condor35.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 36
+arguments = 36
 output = /home/hongyul/condor/condor36.job.out
 log = /tmp/hongyul36.job.log
 error = /home/hongyul/condor/condor36.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 37
+arguments = 37
 output = /home/hongyul/condor/condor37.job.out
 log = /tmp/hongyul37.job.log
 error = /home/hongyul/condor/condor37.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 38
+arguments = 38
 output = /home/hongyul/condor/condor38.job.out
 log = /tmp/hongyul38.job.log
 error = /home/hongyul/condor/condor38.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 39
+arguments = 39
 output = /home/hongyul/condor/condor39.job.out
 log = /tmp/hongyul39.job.log
 error = /home/hongyul/condor/condor39.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 40
+arguments = 40
 output = /home/hongyul/condor/condor40.job.out
 log = /tmp/hongyul40.job.log
 error = /home/hongyul/condor/condor40.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 41
+arguments = 41
 output = /home/hongyul/condor/condor41.job.out
 log = /tmp/hongyul41.job.log
 error = /home/hongyul/condor/condor41.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 42
+arguments = 42
 output = /home/hongyul/condor/condor42.job.out
 log = /tmp/hongyul42.job.log
 error = /home/hongyul/condor/condor42.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 43
+arguments = 43
 output = /home/hongyul/condor/condor43.job.out
 log = /tmp/hongyul43.job.log
 error = /home/hongyul/condor/condor43.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 44
+arguments = 44
 output = /home/hongyul/condor/condor44.job.out
 log = /tmp/hongyul44.job.log
 error = /home/hongyul/condor/condor44.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 45
+arguments = 45
 output = /home/hongyul/condor/condor45.job.out
 log = /tmp/hongyul45.job.log
 error = /home/hongyul/condor/condor45.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 46
+arguments = 46
 output = /home/hongyul/condor/condor46.job.out
 log = /tmp/hongyul46.job.log
 error = /home/hongyul/condor/condor46.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 47
+arguments = 47
 output = /home/hongyul/condor/condor47.job.out
 log = /tmp/hongyul47.job.log
 error = /home/hongyul/condor/condor47.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 48
+arguments = 48
 output = /home/hongyul/condor/condor48.job.out
 log = /tmp/hongyul48.job.log
 error = /home/hongyul/condor/condor48.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 49
+arguments = 49
 output = /home/hongyul/condor/condor49.job.out
 log = /tmp/hongyul49.job.log
 error = /home/hongyul/condor/condor49.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 50
+arguments = 50
 output = /home/hongyul/condor/condor50.job.out
 log = /tmp/hongyul50.job.log
 error = /home/hongyul/condor/condor50.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 51
+arguments = 51
 output = /home/hongyul/condor/condor51.job.out
 log = /tmp/hongyul51.job.log
 error = /home/hongyul/condor/condor51.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 52
+arguments = 52
 output = /home/hongyul/condor/condor52.job.out
 log = /tmp/hongyul52.job.log
 error = /home/hongyul/condor/condor52.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 53
+arguments = 53
 output = /home/hongyul/condor/condor53.job.out
 log = /tmp/hongyul53.job.log
 error = /home/hongyul/condor/condor53.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 54
+arguments = 54
 output = /home/hongyul/condor/condor54.job.out
 log = /tmp/hongyul54.job.log
 error = /home/hongyul/condor/condor54.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 55
+arguments = 55
 output = /home/hongyul/condor/condor55.job.out
 log = /tmp/hongyul55.job.log
 error = /home/hongyul/condor/condor55.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 56
+arguments = 56
 output = /home/hongyul/condor/condor56.job.out
 log = /tmp/hongyul56.job.log
 error = /home/hongyul/condor/condor56.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 57
+arguments = 57
 output = /home/hongyul/condor/condor57.job.out
 log = /tmp/hongyul57.job.log
 error = /home/hongyul/condor/condor57.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 58
+arguments = 58
 output = /home/hongyul/condor/condor58.job.out
 log = /tmp/hongyul58.job.log
 error = /home/hongyul/condor/condor58.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 59
+arguments = 59
 output = /home/hongyul/condor/condor59.job.out
 log = /tmp/hongyul59.job.log
 error = /home/hongyul/condor/condor59.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 60
+arguments = 60
 output = /home/hongyul/condor/condor60.job.out
 log = /tmp/hongyul60.job.log
 error = /home/hongyul/condor/condor60.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 61
+arguments = 61
 output = /home/hongyul/condor/condor61.job.out
 log = /tmp/hongyul61.job.log
 error = /home/hongyul/condor/condor61.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 62
+arguments = 62
 output = /home/hongyul/condor/condor62.job.out
 log = /tmp/hongyul62.job.log
 error = /home/hongyul/condor/condor62.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 63
+arguments = 63
 output = /home/hongyul/condor/condor63.job.out
 log = /tmp/hongyul63.job.log
 error = /home/hongyul/condor/condor63.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 64
+arguments = 64
 output = /home/hongyul/condor/condor64.job.out
 log = /tmp/hongyul64.job.log
 error = /home/hongyul/condor/condor64.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 65
+arguments = 65
 output = /home/hongyul/condor/condor65.job.out
 log = /tmp/hongyul65.job.log
 error = /home/hongyul/condor/condor65.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 66
+arguments = 66
 output = /home/hongyul/condor/condor66.job.out
 log = /tmp/hongyul66.job.log
 error = /home/hongyul/condor/condor66.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 67
+arguments = 67
 output = /home/hongyul/condor/condor67.job.out
 log = /tmp/hongyul67.job.log
 error = /home/hongyul/condor/condor67.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 68
+arguments = 68
 output = /home/hongyul/condor/condor68.job.out
 log = /tmp/hongyul68.job.log
 error = /home/hongyul/condor/condor68.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 69
+arguments = 69
 output = /home/hongyul/condor/condor69.job.out
 log = /tmp/hongyul69.job.log
 error = /home/hongyul/condor/condor69.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 70
+arguments = 70
 output = /home/hongyul/condor/condor70.job.out
 log = /tmp/hongyul70.job.log
 error = /home/hongyul/condor/condor70.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 71
+arguments = 71
 output = /home/hongyul/condor/condor71.job.out
 log = /tmp/hongyul71.job.log
 error = /home/hongyul/condor/condor71.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 72
+arguments = 72
 output = /home/hongyul/condor/condor72.job.out
 log = /tmp/hongyul72.job.log
 error = /home/hongyul/condor/condor72.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 73
+arguments = 73
 output = /home/hongyul/condor/condor73.job.out
 log = /tmp/hongyul73.job.log
 error = /home/hongyul/condor/condor73.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 74
+arguments = 74
 output = /home/hongyul/condor/condor74.job.out
 log = /tmp/hongyul74.job.log
 error = /home/hongyul/condor/condor74.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 75
+arguments = 75
 output = /home/hongyul/condor/condor75.job.out
 log = /tmp/hongyul75.job.log
 error = /home/hongyul/condor/condor75.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 76
+arguments = 76
 output = /home/hongyul/condor/condor76.job.out
 log = /tmp/hongyul76.job.log
 error = /home/hongyul/condor/condor76.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 77
+arguments = 77
 output = /home/hongyul/condor/condor77.job.out
 log = /tmp/hongyul77.job.log
 error = /home/hongyul/condor/condor77.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 78
+arguments = 78
 output = /home/hongyul/condor/condor78.job.out
 log = /tmp/hongyul78.job.log
 error = /home/hongyul/condor/condor78.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 79
+arguments = 79
 output = /home/hongyul/condor/condor79.job.out
 log = /tmp/hongyul79.job.log
 error = /home/hongyul/condor/condor79.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 80
+arguments = 80
 output = /home/hongyul/condor/condor80.job.out
 log = /tmp/hongyul80.job.log
 error = /home/hongyul/condor/condor80.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 81
+arguments = 81
 output = /home/hongyul/condor/condor81.job.out
 log = /tmp/hongyul81.job.log
 error = /home/hongyul/condor/condor81.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 82
+arguments = 82
 output = /home/hongyul/condor/condor82.job.out
 log = /tmp/hongyul82.job.log
 error = /home/hongyul/condor/condor82.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 83
+arguments = 83
 output = /home/hongyul/condor/condor83.job.out
 log = /tmp/hongyul83.job.log
 error = /home/hongyul/condor/condor83.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 84
+arguments = 84
 output = /home/hongyul/condor/condor84.job.out
 log = /tmp/hongyul84.job.log
 error = /home/hongyul/condor/condor84.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 85
+arguments = 85
 output = /home/hongyul/condor/condor85.job.out
 log = /tmp/hongyul85.job.log
 error = /home/hongyul/condor/condor85.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 86
+arguments = 86
 output = /home/hongyul/condor/condor86.job.out
 log = /tmp/hongyul86.job.log
 error = /home/hongyul/condor/condor86.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 87
+arguments = 87
 output = /home/hongyul/condor/condor87.job.out
 log = /tmp/hongyul87.job.log
 error = /home/hongyul/condor/condor87.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 88
+arguments = 88
 output = /home/hongyul/condor/condor88.job.out
 log = /tmp/hongyul88.job.log
 error = /home/hongyul/condor/condor88.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 89
+arguments = 89
 output = /home/hongyul/condor/condor89.job.out
 log = /tmp/hongyul89.job.log
 error = /home/hongyul/condor/condor89.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 90
+arguments = 90
 output = /home/hongyul/condor/condor90.job.out
 log = /tmp/hongyul90.job.log
 error = /home/hongyul/condor/condor90.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 91
+arguments = 91
 output = /home/hongyul/condor/condor91.job.out
 log = /tmp/hongyul91.job.log
 error = /home/hongyul/condor/condor91.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 92
+arguments = 92
 output = /home/hongyul/condor/condor92.job.out
 log = /tmp/hongyul92.job.log
 error = /home/hongyul/condor/condor92.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 93
+arguments = 93
 output = /home/hongyul/condor/condor93.job.out
 log = /tmp/hongyul93.job.log
 error = /home/hongyul/condor/condor93.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 94
+arguments = 94
 output = /home/hongyul/condor/condor94.job.out
 log = /tmp/hongyul94.job.log
 error = /home/hongyul/condor/condor94.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 95
+arguments = 95
 output = /home/hongyul/condor/condor95.job.out
 log = /tmp/hongyul95.job.log
 error = /home/hongyul/condor/condor95.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 96
+arguments = 96
 output = /home/hongyul/condor/condor96.job.out
 log = /tmp/hongyul96.job.log
 error = /home/hongyul/condor/condor96.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 97
+arguments = 97
 output = /home/hongyul/condor/condor97.job.out
 log = /tmp/hongyul97.job.log
 error = /home/hongyul/condor/condor97.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 98
+arguments = 98
 output = /home/hongyul/condor/condor98.job.out
 log = /tmp/hongyul98.job.log
 error = /home/hongyul/condor/condor98.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 99
+arguments = 99
 output = /home/hongyul/condor/condor99.job.out
 log = /tmp/hongyul99.job.log
 error = /home/hongyul/condor/condor99.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 100
+arguments = 100
 output = /home/hongyul/condor/condor100.job.out
 log = /tmp/hongyul100.job.log
 error = /home/hongyul/condor/condor100.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 101
+arguments = 101
 output = /home/hongyul/condor/condor101.job.out
 log = /tmp/hongyul101.job.log
 error = /home/hongyul/condor/condor101.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 102
+arguments = 102
 output = /home/hongyul/condor/condor102.job.out
 log = /tmp/hongyul102.job.log
 error = /home/hongyul/condor/condor102.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 103
+arguments = 103
 output = /home/hongyul/condor/condor103.job.out
 log = /tmp/hongyul103.job.log
 error = /home/hongyul/condor/condor103.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 104
+arguments = 104
 output = /home/hongyul/condor/condor104.job.out
 log = /tmp/hongyul104.job.log
 error = /home/hongyul/condor/condor104.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 105
+arguments = 105
 output = /home/hongyul/condor/condor105.job.out
 log = /tmp/hongyul105.job.log
 error = /home/hongyul/condor/condor105.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 106
+arguments = 106
 output = /home/hongyul/condor/condor106.job.out
 log = /tmp/hongyul106.job.log
 error = /home/hongyul/condor/condor106.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 107
+arguments = 107
 output = /home/hongyul/condor/condor107.job.out
 log = /tmp/hongyul107.job.log
 error = /home/hongyul/condor/condor107.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 108
+arguments = 108
 output = /home/hongyul/condor/condor108.job.out
 log = /tmp/hongyul108.job.log
 error = /home/hongyul/condor/condor108.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 109
+arguments = 109
 output = /home/hongyul/condor/condor109.job.out
 log = /tmp/hongyul109.job.log
 error = /home/hongyul/condor/condor109.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 110
+arguments = 110
 output = /home/hongyul/condor/condor110.job.out
 log = /tmp/hongyul110.job.log
 error = /home/hongyul/condor/condor110.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 111
+arguments = 111
 output = /home/hongyul/condor/condor111.job.out
 log = /tmp/hongyul111.job.log
 error = /home/hongyul/condor/condor111.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 112
+arguments = 112
 output = /home/hongyul/condor/condor112.job.out
 log = /tmp/hongyul112.job.log
 error = /home/hongyul/condor/condor112.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 113
+arguments = 113
 output = /home/hongyul/condor/condor113.job.out
 log = /tmp/hongyul113.job.log
 error = /home/hongyul/condor/condor113.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 114
+arguments = 114
 output = /home/hongyul/condor/condor114.job.out
 log = /tmp/hongyul114.job.log
 error = /home/hongyul/condor/condor114.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 115
+arguments = 115
 output = /home/hongyul/condor/condor115.job.out
 log = /tmp/hongyul115.job.log
 error = /home/hongyul/condor/condor115.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 116
+arguments = 116
 output = /home/hongyul/condor/condor116.job.out
 log = /tmp/hongyul116.job.log
 error = /home/hongyul/condor/condor116.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 117
+arguments = 117
 output = /home/hongyul/condor/condor117.job.out
 log = /tmp/hongyul117.job.log
 error = /home/hongyul/condor/condor117.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 118
+arguments = 118
 output = /home/hongyul/condor/condor118.job.out
 log = /tmp/hongyul118.job.log
 error = /home/hongyul/condor/condor118.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 119
+arguments = 119
 output = /home/hongyul/condor/condor119.job.out
 log = /tmp/hongyul119.job.log
 error = /home/hongyul/condor/condor119.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 120
+arguments = 120
 output = /home/hongyul/condor/condor120.job.out
 log = /tmp/hongyul120.job.log
 error = /home/hongyul/condor/condor120.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 121
+arguments = 121
 output = /home/hongyul/condor/condor121.job.out
 log = /tmp/hongyul121.job.log
 error = /home/hongyul/condor/condor121.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 122
+arguments = 122
 output = /home/hongyul/condor/condor122.job.out
 log = /tmp/hongyul122.job.log
 error = /home/hongyul/condor/condor122.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 123
+arguments = 123
 output = /home/hongyul/condor/condor123.job.out
 log = /tmp/hongyul123.job.log
 error = /home/hongyul/condor/condor123.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 124
+arguments = 124
 output = /home/hongyul/condor/condor124.job.out
 log = /tmp/hongyul124.job.log
 error = /home/hongyul/condor/condor124.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 125
+arguments = 125
 output = /home/hongyul/condor/condor125.job.out
 log = /tmp/hongyul125.job.log
 error = /home/hongyul/condor/condor125.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 126
+arguments = 126
 output = /home/hongyul/condor/condor126.job.out
 log = /tmp/hongyul126.job.log
 error = /home/hongyul/condor/condor126.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 127
+arguments = 127
 output = /home/hongyul/condor/condor127.job.out
 log = /tmp/hongyul127.job.log
 error = /home/hongyul/condor/condor127.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 128
+arguments = 128
 output = /home/hongyul/condor/condor128.job.out
 log = /tmp/hongyul128.job.log
 error = /home/hongyul/condor/condor128.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 129
+arguments = 129
 output = /home/hongyul/condor/condor129.job.out
 log = /tmp/hongyul129.job.log
 error = /home/hongyul/condor/condor129.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 130
+arguments = 130
 output = /home/hongyul/condor/condor130.job.out
 log = /tmp/hongyul130.job.log
 error = /home/hongyul/condor/condor130.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 131
+arguments = 131
 output = /home/hongyul/condor/condor131.job.out
 log = /tmp/hongyul131.job.log
 error = /home/hongyul/condor/condor131.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 132
+arguments = 132
 output = /home/hongyul/condor/condor132.job.out
 log = /tmp/hongyul132.job.log
 error = /home/hongyul/condor/condor132.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 133
+arguments = 133
 output = /home/hongyul/condor/condor133.job.out
 log = /tmp/hongyul133.job.log
 error = /home/hongyul/condor/condor133.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 134
+arguments = 134
 output = /home/hongyul/condor/condor134.job.out
 log = /tmp/hongyul134.job.log
 error = /home/hongyul/condor/condor134.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 135
+arguments = 135
 output = /home/hongyul/condor/condor135.job.out
 log = /tmp/hongyul135.job.log
 error = /home/hongyul/condor/condor135.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 136
+arguments = 136
 output = /home/hongyul/condor/condor136.job.out
 log = /tmp/hongyul136.job.log
 error = /home/hongyul/condor/condor136.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 137
+arguments = 137
 output = /home/hongyul/condor/condor137.job.out
 log = /tmp/hongyul137.job.log
 error = /home/hongyul/condor/condor137.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 138
+arguments = 138
 output = /home/hongyul/condor/condor138.job.out
 log = /tmp/hongyul138.job.log
 error = /home/hongyul/condor/condor138.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 139
+arguments = 139
 output = /home/hongyul/condor/condor139.job.out
 log = /tmp/hongyul139.job.log
 error = /home/hongyul/condor/condor139.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 140
+arguments = 140
 output = /home/hongyul/condor/condor140.job.out
 log = /tmp/hongyul140.job.log
 error = /home/hongyul/condor/condor140.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 141
+arguments = 141
 output = /home/hongyul/condor/condor141.job.out
 log = /tmp/hongyul141.job.log
 error = /home/hongyul/condor/condor141.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 142
+arguments = 142
 output = /home/hongyul/condor/condor142.job.out
 log = /tmp/hongyul142.job.log
 error = /home/hongyul/condor/condor142.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 143
+arguments = 143
 output = /home/hongyul/condor/condor143.job.out
 log = /tmp/hongyul143.job.log
 error = /home/hongyul/condor/condor143.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 144
+arguments = 144
 output = /home/hongyul/condor/condor144.job.out
 log = /tmp/hongyul144.job.log
 error = /home/hongyul/condor/condor144.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 145
+arguments = 145
 output = /home/hongyul/condor/condor145.job.out
 log = /tmp/hongyul145.job.log
 error = /home/hongyul/condor/condor145.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 146
+arguments = 146
 output = /home/hongyul/condor/condor146.job.out
 log = /tmp/hongyul146.job.log
 error = /home/hongyul/condor/condor146.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 147
+arguments = 147
 output = /home/hongyul/condor/condor147.job.out
 log = /tmp/hongyul147.job.log
 error = /home/hongyul/condor/condor147.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 148
+arguments = 148
 output = /home/hongyul/condor/condor148.job.out
 log = /tmp/hongyul148.job.log
 error = /home/hongyul/condor/condor148.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 149
+arguments = 149
 output = /home/hongyul/condor/condor149.job.out
 log = /tmp/hongyul149.job.log
 error = /home/hongyul/condor/condor149.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 150
+arguments = 150
 output = /home/hongyul/condor/condor150.job.out
 log = /tmp/hongyul150.job.log
 error = /home/hongyul/condor/condor150.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 151
+arguments = 151
 output = /home/hongyul/condor/condor151.job.out
 log = /tmp/hongyul151.job.log
 error = /home/hongyul/condor/condor151.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 152
+arguments = 152
 output = /home/hongyul/condor/condor152.job.out
 log = /tmp/hongyul152.job.log
 error = /home/hongyul/condor/condor152.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 153
+arguments = 153
 output = /home/hongyul/condor/condor153.job.out
 log = /tmp/hongyul153.job.log
 error = /home/hongyul/condor/condor153.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 154
+arguments = 154
 output = /home/hongyul/condor/condor154.job.out
 log = /tmp/hongyul154.job.log
 error = /home/hongyul/condor/condor154.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 155
+arguments = 155
 output = /home/hongyul/condor/condor155.job.out
 log = /tmp/hongyul155.job.log
 error = /home/hongyul/condor/condor155.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 156
+arguments = 156
 output = /home/hongyul/condor/condor156.job.out
 log = /tmp/hongyul156.job.log
 error = /home/hongyul/condor/condor156.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 157
+arguments = 157
 output = /home/hongyul/condor/condor157.job.out
 log = /tmp/hongyul157.job.log
 error = /home/hongyul/condor/condor157.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 158
+arguments = 158
 output = /home/hongyul/condor/condor158.job.out
 log = /tmp/hongyul158.job.log
 error = /home/hongyul/condor/condor158.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 159
+arguments = 159
 output = /home/hongyul/condor/condor159.job.out
 log = /tmp/hongyul159.job.log
 error = /home/hongyul/condor/condor159.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 160
+arguments = 160
 output = /home/hongyul/condor/condor160.job.out
 log = /tmp/hongyul160.job.log
 error = /home/hongyul/condor/condor160.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 161
+arguments = 161
 output = /home/hongyul/condor/condor161.job.out
 log = /tmp/hongyul161.job.log
 error = /home/hongyul/condor/condor161.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 162
+arguments = 162
 output = /home/hongyul/condor/condor162.job.out
 log = /tmp/hongyul162.job.log
 error = /home/hongyul/condor/condor162.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 163
+arguments = 163
 output = /home/hongyul/condor/condor163.job.out
 log = /tmp/hongyul163.job.log
 error = /home/hongyul/condor/condor163.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 164
+arguments = 164
 output = /home/hongyul/condor/condor164.job.out
 log = /tmp/hongyul164.job.log
 error = /home/hongyul/condor/condor164.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 165
+arguments = 165
 output = /home/hongyul/condor/condor165.job.out
 log = /tmp/hongyul165.job.log
 error = /home/hongyul/condor/condor165.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 166
+arguments = 166
 output = /home/hongyul/condor/condor166.job.out
 log = /tmp/hongyul166.job.log
 error = /home/hongyul/condor/condor166.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 167
+arguments = 167
 output = /home/hongyul/condor/condor167.job.out
 log = /tmp/hongyul167.job.log
 error = /home/hongyul/condor/condor167.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 168
+arguments = 168
 output = /home/hongyul/condor/condor168.job.out
 log = /tmp/hongyul168.job.log
 error = /home/hongyul/condor/condor168.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 169
+arguments = 169
 output = /home/hongyul/condor/condor169.job.out
 log = /tmp/hongyul169.job.log
 error = /home/hongyul/condor/condor169.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 170
+arguments = 170
 output = /home/hongyul/condor/condor170.job.out
 log = /tmp/hongyul170.job.log
 error = /home/hongyul/condor/condor170.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 171
+arguments = 171
 output = /home/hongyul/condor/condor171.job.out
 log = /tmp/hongyul171.job.log
 error = /home/hongyul/condor/condor171.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 172
+arguments = 172
 output = /home/hongyul/condor/condor172.job.out
 log = /tmp/hongyul172.job.log
 error = /home/hongyul/condor/condor172.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 173
+arguments = 173
 output = /home/hongyul/condor/condor173.job.out
 log = /tmp/hongyul173.job.log
 error = /home/hongyul/condor/condor173.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 174
+arguments = 174
 output = /home/hongyul/condor/condor174.job.out
 log = /tmp/hongyul174.job.log
 error = /home/hongyul/condor/condor174.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 175
+arguments = 175
 output = /home/hongyul/condor/condor175.job.out
 log = /tmp/hongyul175.job.log
 error = /home/hongyul/condor/condor175.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 176
+arguments = 176
 output = /home/hongyul/condor/condor176.job.out
 log = /tmp/hongyul176.job.log
 error = /home/hongyul/condor/condor176.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 177
+arguments = 177
 output = /home/hongyul/condor/condor177.job.out
 log = /tmp/hongyul177.job.log
 error = /home/hongyul/condor/condor177.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 178
+arguments = 178
 output = /home/hongyul/condor/condor178.job.out
 log = /tmp/hongyul178.job.log
 error = /home/hongyul/condor/condor178.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 179
+arguments = 179
 output = /home/hongyul/condor/condor179.job.out
 log = /tmp/hongyul179.job.log
 error = /home/hongyul/condor/condor179.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 180
+arguments = 180
 output = /home/hongyul/condor/condor180.job.out
 log = /tmp/hongyul180.job.log
 error = /home/hongyul/condor/condor180.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 181
+arguments = 181
 output = /home/hongyul/condor/condor181.job.out
 log = /tmp/hongyul181.job.log
 error = /home/hongyul/condor/condor181.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 182
+arguments = 182
 output = /home/hongyul/condor/condor182.job.out
 log = /tmp/hongyul182.job.log
 error = /home/hongyul/condor/condor182.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 183
+arguments = 183
 output = /home/hongyul/condor/condor183.job.out
 log = /tmp/hongyul183.job.log
 error = /home/hongyul/condor/condor183.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 184
+arguments = 184
 output = /home/hongyul/condor/condor184.job.out
 log = /tmp/hongyul184.job.log
 error = /home/hongyul/condor/condor184.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 185
+arguments = 185
 output = /home/hongyul/condor/condor185.job.out
 log = /tmp/hongyul185.job.log
 error = /home/hongyul/condor/condor185.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 186
+arguments = 186
 output = /home/hongyul/condor/condor186.job.out
 log = /tmp/hongyul186.job.log
 error = /home/hongyul/condor/condor186.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 187
+arguments = 187
 output = /home/hongyul/condor/condor187.job.out
 log = /tmp/hongyul187.job.log
 error = /home/hongyul/condor/condor187.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 188
+arguments = 188
 output = /home/hongyul/condor/condor188.job.out
 log = /tmp/hongyul188.job.log
 error = /home/hongyul/condor/condor188.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 189
+arguments = 189
 output = /home/hongyul/condor/condor189.job.out
 log = /tmp/hongyul189.job.log
 error = /home/hongyul/condor/condor189.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 190
+arguments = 190
 output = /home/hongyul/condor/condor190.job.out
 log = /tmp/hongyul190.job.log
 error = /home/hongyul/condor/condor190.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 191
+arguments = 191
 output = /home/hongyul/condor/condor191.job.out
 log = /tmp/hongyul191.job.log
 error = /home/hongyul/condor/condor191.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 192
+arguments = 192
 output = /home/hongyul/condor/condor192.job.out
 log = /tmp/hongyul192.job.log
 error = /home/hongyul/condor/condor192.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 193
+arguments = 193
 output = /home/hongyul/condor/condor193.job.out
 log = /tmp/hongyul193.job.log
 error = /home/hongyul/condor/condor193.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 194
+arguments = 194
 output = /home/hongyul/condor/condor194.job.out
 log = /tmp/hongyul194.job.log
 error = /home/hongyul/condor/condor194.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 195
+arguments = 195
 output = /home/hongyul/condor/condor195.job.out
 log = /tmp/hongyul195.job.log
 error = /home/hongyul/condor/condor195.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 196
+arguments = 196
 output = /home/hongyul/condor/condor196.job.out
 log = /tmp/hongyul196.job.log
 error = /home/hongyul/condor/condor196.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 197
+arguments = 197
 output = /home/hongyul/condor/condor197.job.out
 log = /tmp/hongyul197.job.log
 error = /home/hongyul/condor/condor197.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 198
+arguments = 198
 output = /home/hongyul/condor/condor198.job.out
 log = /tmp/hongyul198.job.log
 error = /home/hongyul/condor/condor198.job.err
 queue
 
 executable = /home/hongyul/AMA/wiki.sh
-arguments = webquestionstrain 199
+arguments = 199
 output = /home/hongyul/condor/condor199.job.out
 log = /tmp/hongyul199.job.log
 error = /home/hongyul/condor/condor199.job.err
