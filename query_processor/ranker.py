@@ -179,7 +179,7 @@ class FactCandidate(object):
 
     def get_support_sentence(self):
         self.support = set([])
-        for o in self.oid:
+        for o in self.oid[:5]:
             self.support |= set(modules.support_sentence_extractor.get_support_sentence_with_pair(self.sid, o))
 
     def __str__(self):
