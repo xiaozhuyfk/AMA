@@ -377,9 +377,11 @@ class Ranker(object):
         json_path = "/home/hongyul/AMA/support_sentence/" + dataset + "/" + str(query.id)
         codecsDumpJson(json_path, json)
 
-    def extract_wiki_data(self, dataset):
+    def extract_wiki_data(self, dataset, idx):
         queries = load_eval_queries(dataset)
         for query in queries:
+            if (int(query.id) % 200 != idx):
+                continue
             logger.info("Processing query " + str(query.id))
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
             facts = json["facts"]

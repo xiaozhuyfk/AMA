@@ -29,7 +29,7 @@ def writeFile(filename, contents, mode="wt"):
 
 content = "Universe = vanilla\n\n"
 pattern = """executable = /home/hongyul/AMA/wiki.sh
-arguments = %d
+arguments = webquestionstrain %d
 output = /home/hongyul/condor/condor%d.job.out
 log = /tmp/hongyul%d.job.log
 error = /home/hongyul/condor/condor%d.job.err
@@ -37,8 +37,8 @@ queue
 
 """
 
-for i in xrange(27):
-    idx = i + 1
+for i in xrange(200):
+    idx = i
     test = pattern % (idx, idx, idx, idx)
     content += test
 

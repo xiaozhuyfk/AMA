@@ -20,11 +20,11 @@ def train(dataset):
 def test(dataset):
     modules.facts_ranker.test(dataset)
 
-def extract_wiki(dataset):
+def extract_wiki(dataset, idx):
     #print(modules.wiki_url["m.06815z"])
     #modules.support_sentence_extractor.extract_support_sentence(idx)
     #modules.facts_ranker.extract_wiki_data(dataset)
-    modules.facts_ranker.extract_wiki_data_with_index(dataset, 12)
+    modules.facts_ranker.extract_wiki_data_with_index(dataset, idx)
 
 def main():
     import argparse
@@ -53,6 +53,7 @@ def main():
 
     wiki_parser = subparsers.add_parser('wiki', help="extract wiki data")
     wiki_parser.add_argument('dataset', help='dataset')
+    wiki_parser.add_argument("idx", help="partition index")
     wiki_parser.set_defaults(which='wiki')
 
     args = parser.parse_args()
@@ -70,7 +71,7 @@ def main():
     elif args.which == 'model':
         train_model(args.name)
     elif args.which == 'wiki':
-        extract_wiki(args.dataset)
+        extract_wiki(args.dataset, int(args.idx))
 
 
 if __name__ == '__main__':
