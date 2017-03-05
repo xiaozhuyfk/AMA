@@ -402,6 +402,7 @@ class Ranker(object):
                     relations[rel]["support"] = list(fact_candiate.support)
             json_path = "/home/hongyul/AMA/support_sentence/" + dataset + "/" + str(query.id)
             codecsDumpJson(json_path, json)
+        logger.info("Done extracting wiki data for partition %d", idx)
 
     def extract_fact_candidates(self, dataset):
         queries = load_eval_queries(dataset)
