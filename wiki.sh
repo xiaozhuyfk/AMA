@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cd /home/hongyul/AMA; source ../.bashrc; python -m query_processor.rank_learner wiki $1
+cd /home/hongyul/AMA; source ../.bashrc; python -m query_processor.rank_learner wiki webquestionstrain $1
