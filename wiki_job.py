@@ -37,7 +37,7 @@ queue
 
 """
 
-for i in xrange(200):
+for i in xrange(100):
     idx = i
     test = pattern % (idx, idx, idx, idx)
     content += test

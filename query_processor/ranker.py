@@ -380,7 +380,7 @@ class Ranker(object):
     def extract_wiki_data(self, dataset, idx):
         queries = load_eval_queries(dataset)
         for query in queries:
-            if (int(query.id) % 200 != idx):
+            if (int(query.id) % 100 != idx):
                 continue
             logger.info("Processing query " + str(query.id))
             json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
