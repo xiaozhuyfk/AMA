@@ -359,6 +359,7 @@ class Ranker(object):
         json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
         facts = json["facts"]
         for ie in facts:
+            logger.info("Processing root entity: " + ie["subject"])
             subject = ie["subject"]
             sid = ie["sid"]
             score = ie["score"]
