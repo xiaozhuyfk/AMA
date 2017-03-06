@@ -758,11 +758,11 @@ class Ranker(object):
                     best_subject = "NONE"
                     stats = [str(query.id),
                              query.utterance,
-                             support_count,
+                             str(support_count),
                              "EMPTY",
-                             0,
+                             "0",
                              best_candidate.graph_str,
-                             len(best_candidate.support)]
+                             str(len(best_candidate.support))]
                 else:
                     best_relation = best.relation
                     best_subject = best.subject
