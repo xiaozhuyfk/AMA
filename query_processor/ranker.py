@@ -3,6 +3,7 @@ from __future__ import print_function
 import logging
 import globals
 import sys
+import os
 import modules
 from util import (
     codecsWriteFile,
