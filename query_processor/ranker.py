@@ -196,7 +196,7 @@ class FactCandidate(object):
         self.message += "Example support sentence:\n"
         if len(self.support) > 0:
             for sent in list(self.support)[:4]:
-                self.message += sent + "\n"
+                self.message += sent.encode("utf-8") + "\n"
         return self.message
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
