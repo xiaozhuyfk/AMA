@@ -193,10 +193,10 @@ class FactCandidate(object):
         graph_str = " --> ".join(graph_tokens)
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
         self.message += "Number of support sentences = %d\n" % (len(self.support))
-        self.message += "Example support sentence:\n"
-        if len(self.support) > 0:
-            for sent in list(self.support)[:4]:
-                self.message += sent.encode("utf-8") + "\n"
+        #self.message += "Example support sentence:\n"
+        #if len(self.support) > 0:
+        #    for sent in list(self.support)[:4]:
+        #        self.message += sent.encode("utf-8") + "\n"
         return self.message
 
     def vectorize_sentence(self, word_idx, sentence, sentence_size):
