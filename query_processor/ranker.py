@@ -768,11 +768,11 @@ class Ranker(object):
                     best_subject = best.subject
                     stats = [str(query.id),
                              query.utterance,
-                             support_count,
+                             str(support_count),
                              best.graph_str,
-                             len(best.support),
+                             str(len(best.support)),
                              best_candidate.graph_str,
-                             len(best_candidate.support)]
+                             str(len(best_candidate.support))]
                 codecsWriteFile(support_file, "\t".join(stats) + "\n", "a")
 
                 if best_candidate.relation == best_relation:
