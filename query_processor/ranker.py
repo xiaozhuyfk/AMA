@@ -192,7 +192,7 @@ class FactCandidate(object):
         graph_tokens = [" ".join(self.subject_tokens),
                         " ".join(self.relation_tokens),
                         str(self.objects[:5])]
-        graph_str = " --> ".join(graph_tokens)
+        graph_str = " --> ".join(graph_tokens).encode("utf-8")
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
         self.message += "Number of support sentences = %d\n" % (len(self.support))
         #self.message += "Example support sentence:\n"
