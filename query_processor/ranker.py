@@ -691,8 +691,8 @@ class Ranker(object):
                                                       score,
                                                       rel,
                                                       relations[rel])
-                        fact_candiate.extract_features()
-                        candidates.append(fact_candiate)
+                        fact_candidate.extract_features()
+                        candidates.append(fact_candidate)
                         support_count += len(fact_candidate.support)
                         total_support += len(fact_candidate.support)
 
