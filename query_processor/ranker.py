@@ -693,7 +693,7 @@ class Ranker(object):
                                                       relations[rel])
                         fact_candiate.extract_features()
                         candidates.append(fact_candiate)
-                        support_count += len(fact_candiate.support)
+                        support_count += len(fact_candidate.support)
                         total_support += len(fact_candidate.support)
 
                 # add model features for all candidates
