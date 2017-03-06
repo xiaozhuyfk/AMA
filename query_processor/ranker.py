@@ -129,6 +129,8 @@ class FactCandidate(object):
 
         self.f1 = computeF1(self.answers, self.objects)[2]
 
+        self.support = response["support"]
+
         """
         # support sentences
         sentences = modules.wiki_extractor.extract_wiki_page(
@@ -183,7 +185,7 @@ class FactCandidate(object):
             self.support |= set(modules.support_sentence_extractor.get_support_sentence_with_pair(self.sid, o))
 
     def __str__(self):
-        self.get_support_sentence()
+        #self.get_support_sentence()
 
         graph_tokens = [" ".join(self.subject_tokens),
                         " ".join(self.relation_tokens),
@@ -222,7 +224,7 @@ class FactCandidate(object):
         self.add_feature(float(self.score))
 
         # Add wiki popularity
-        #self.add_feature(len(self.support))
+        self.add_feature(len(self.support))
 
         # Add wiki summary popularity
         #self.add_feature(len(self.support_summary))
