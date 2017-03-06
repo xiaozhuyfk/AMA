@@ -818,8 +818,8 @@ class Ranker(object):
                     codecsWriteFile(same_file, content, "a")
                     relation_diff += 1
 
-            except Exception:
-                logger.info("Error processing query" + " " + str(query.id))
+            except Exception, e:
+                logger.info("Error processing query" + " " + str(query.id) + ": " + str(e))
 
         print("")
         print(cover)
