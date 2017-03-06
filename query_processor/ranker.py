@@ -818,8 +818,10 @@ class Ranker(object):
                     codecsWriteFile(same_file, content, "a")
                     relation_diff += 1
 
-            except Exception, e:
-                logger.info("Error processing query" + " " + str(query.id) + ": " + str(e))
+            except Exception as e:
+                exc_type, exc_obj, exc_tb = sys.exc_info()
+                fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
+                print(exc_type, fname, exc_tb.tb_lineno)
 
         print("")
         print(cover)
