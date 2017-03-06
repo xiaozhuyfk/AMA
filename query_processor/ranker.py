@@ -132,6 +132,10 @@ class FactCandidate(object):
         self.f1 = computeF1(self.answers, self.objects)[2]
 
         self.support = response["support"]
+        graph_tokens = [" ".join(self.subject_tokens),
+                        " ".join(self.relation_tokens),
+                        str(self.objects[:5])]
+        self.graph_str = " --> ".join(graph_tokens)
 
         """
         # support sentences
@@ -187,12 +191,10 @@ class FactCandidate(object):
             self.support |= set(modules.support_sentence_extractor.get_support_sentence_with_pair(self.sid, o))
 
     def __str__(self):
-        #self.get_support_sentence()
-
         graph_tokens = [" ".join(self.subject_tokens),
                         " ".join(self.relation_tokens),
                         str(self.objects[:5])]
-        graph_str = " --> ".join(graph_tokens).encode("utf-8")
+        graph_str = " --> ".join(graph_tokens)
         self.message = "Entity Score = %f, F1 = %f, graph = %s\n" % (self.score, self.f1, graph_str)
         self.message += "Number of support sentences = %d\n" % (len(self.support))
         #self.message += "Example support sentence:\n"
@@ -632,6 +634,7 @@ class Ranker(object):
         test_result = self.config_options.get('Test', 'test-result')
         codecsWriteFile(test_result, "")
 
+        support_file = "/home/hongyul/AMA/support_sentence_stats_" + dataset + ".txt"
         not_found_file = "/home/hongyul/AMA/test_result/result_not_found.txt"
         same_file = "/home/hongyul/AMA/test_result/result_diff.txt"
         cover_file = "/home/hongyul/AMA/test_result/result_10.txt"
@@ -640,6 +643,7 @@ class Ranker(object):
         zero_file = "/home/hongyul/AMA/test_result/result_0.txt"
         entity_diff_file = "/home/hongyul/AMA/test_result/result_entity_diff.txt"
         relation_diff_file = "/home/hongyul/AMA/test_result/result_relation_diff.txt"
+        codecsWriteFile(support_file, "")
         codecsWriteFile(not_found_file, "")
         codecsWriteFile(same_file, "")
         codecsWriteFile(cover_file, "")
@@ -656,12 +660,14 @@ class Ranker(object):
         not_found = 0
         entity_diff = 0
         relation_diff = 0
+        total_support = 0
         queries = load_eval_queries(dataset)
         for query in queries:
             try:
                 codecsWriteFile(self.svmTestingFeatureVectorsFile, "")
                 query.dataset = dataset
                 candidates = []
+                support_count = 0
 
                 json = modules.extractor.extract_fact_list_with_entity_linker(dataset, query)
                 facts = json["facts"]
@@ -687,6 +693,8 @@ class Ranker(object):
                                                       relations[rel])
                         fact_candiate.extract_features()
                         candidates.append(fact_candiate)
+                        support_count += len(fact_candiate.support)
+                        total_support += len(fact_candidate.support)
 
                 # add model features for all candidates
                 # lstm_predictions = lstm_model.predict(candidates, 28).flatten()
@@ -748,9 +756,24 @@ class Ranker(object):
                 if best is None:
                     best_relation = "EMPTY"
                     best_subject = "NONE"
+                    stats = [str(query.id),
+                             query.utterance,
+                             support_count,
+                             "EMPTY",
+                             0,
+                             best_candidate.graph_str,
+                             len(best_candidate.support)]
                 else:
                     best_relation = best.relation
                     best_subject = best.subject
+                    stats = [str(query.id),
+                             query.utterance,
+                             support_count,
+                             best.graph_str,
+                             len(best.support),
+                             best_candidate.graph_str,
+                             len(best_candidate.support)]
+                codecsWriteFile(support_file, "\t".join(stats) + "\n", "a")
 
                 if best_candidate.relation == best_relation:
                     cover += 1
@@ -793,6 +816,8 @@ class Ranker(object):
                                          best_candidate.relation,
                                          best_subject,
                                          best_candidate.subject]) + "\n"
+
+                """
                 if best is None:
                     content += "Empty\n"
                 else:
@@ -819,6 +844,7 @@ class Ranker(object):
                 elif best_candidate.relation != best_relation:
                     codecsWriteFile(same_file, content, "a")
                     relation_diff += 1
+                """
 
             except Exception as e:
                 exc_type, exc_obj, exc_tb = sys.exc_info()
@@ -833,6 +859,7 @@ class Ranker(object):
         logger.info("Best candidate not found: %d", not_found)
         logger.info("Entity diff count: %d", entity_diff)
         logger.info("Relation diff count: %d", relation_diff)
+        logger.info("Total support sentence count: %d", total_support)
 
 
 
