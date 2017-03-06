@@ -134,7 +134,7 @@ class FactCandidate(object):
         self.support = response["support"]
         graph_tokens = [" ".join(self.subject_tokens),
                         " ".join(self.relation_tokens),
-                        str(self.objects[:5])]
+                        str(self.objects[:5]).encode("utf-8")]
         self.graph_str = " --> ".join(graph_tokens)
 
         """
