@@ -684,7 +684,7 @@ class Ranker(object):
                     score = ie["score"]
                     relations = ie["relations"]
                     for rel in relations:
-                        fact_candiate = FactCandidate(self.config_options,
+                        fact_candidate = FactCandidate(self.config_options,
                                                       query,
                                                       subject,
                                                       sid,
