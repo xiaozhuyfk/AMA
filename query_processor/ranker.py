@@ -704,6 +704,15 @@ class Ranker(object):
                         support_count += len(fact_candidate.support)
                         total_support += len(fact_candidate.support)
 
+                support_stats_file = "/home/hongyul/AMA/support_sentence_stat/" + dataset + "/" + str(query.id)
+                codecsWriteFile(support_stats_file, "")
+                for candidate in candidates:
+                    stats = [query.utterance,
+                        str(support_count),
+                        candidate.graph_str,
+                        str(len(candidate.support))]
+                    codecsWriteFile(support_stats_file, "\t".join(stats), 'a')
+
                 # add model features for all candidates
                 # lstm_predictions = lstm_model.predict(candidates, 28).flatten()
                 # trigram_predictions = trigram_model.predict(candidates, 203).flatten()
