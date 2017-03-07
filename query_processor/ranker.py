@@ -132,6 +132,12 @@ class FactCandidate(object):
         self.f1 = computeF1(self.answers, self.objects)[2]
 
         self.support = response["support"]
+        if (len(self.support) == 0):
+            self.support = set([])
+            for o in self.oid[:5]:
+                self.support |= set(modules.support_sentence_extractor.get_support_sentence_with_pair(self.sid, o))
+            self.support = list(self.support)
+
         graph_tokens = [" ".join(self.subject_tokens),
                         " ".join(self.relation_tokens),
                         str(self.objects[:5]).encode("utf-8")]
