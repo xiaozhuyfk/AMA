@@ -1,0 +1,584 @@
+what was the currency used in france before the euro?	60334	japanese yen --> exchange rate amount --> [u'21.1']	0
+what was the currency used in france before the euro?	60334	japanese yen --> exchange rate target of exchange --> [u'Danish krone']	1
+what was the currency used in france before the euro?	60334	japanese yen --> topic topical webpage --> [u'http://www.mint.go.jp/', u'http://www.boj.or.jp/']	0
+what was the currency used in france before the euro?	60334	japanese yen --> currency countries used --> [u'Empire of Japan', u'Japan']	18
+what was the currency used in france before the euro?	60334	japanese yen --> exchange rate date of rate --> [u'2008-03-31']	0
+what was the currency used in france before the euro?	60334	japanese yen --> topic alias --> [u'\xa5', u'Yen \xa5', u'\u5186', u'\u5713']	0
+what was the currency used in france before the euro?	60334	japanese yen --> webpage category --> [u'Topic Webpage', u'Official Website']	0
+what was the currency used in france before the euro?	60334	japanese yen --> object name --> [u'Japanese yen']	0
+what was the currency used in france before the euro?	60334	japanese yen --> topic image --> [u'Circulated coins in all 6 denominations']	0
+what was the currency used in france before the euro?	60334	japanese yen --> currency prefix symbol --> [u'\xa5']	0
+what was the currency used in france before the euro?	60334	japanese yen --> topic official website --> [u'http://www.npb.go.jp/']	0
+what was the currency used in france before the euro?	60334	japanese yen --> currency currency code --> [u'JPY']	0
+what was the currency used in france before the euro?	60334	japanese yen --> webpage uri --> [u'http://www.mint.go.jp', u'http://www.npb.go.jp', u'http://www.boj.or.jp']	0
+what was the currency used in france before the euro?	60334	euro --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what was the currency used in france before the euro?	60334	euro --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwB0GkUTrEdeESQACs6hcjQ']	0
+what was the currency used in france before the euro?	60334	euro --> currency countries used --> [u'Belgium', u'Finland', u'Germany', u'Italy', u'Luxembourg']	32
+what was the currency used in france before the euro?	60334	euro --> exchange rate amount --> [u'7.46']	0
+what was the currency used in france before the euro?	60334	euro --> topic alias --> [u'\u20ac']	0
+what was the currency used in france before the euro?	60334	euro --> exchange rate date of rate --> [u'2008-03-31']	0
+what was the currency used in france before the euro?	60334	euro --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag']	0
+what was the currency used in france before the euro?	60334	euro --> object name --> [u'Euro']	0
+what was the currency used in france before the euro?	60334	euro --> topic image --> [u'Euro coins']	0
+what was the currency used in france before the euro?	60334	euro --> exchange rate source of exchange --> [u'Danish krone']	9
+what was the currency used in france before the euro?	60334	euro --> currency prefix symbol --> [u'\u20ac']	0
+what was the currency used in france before the euro?	60334	euro --> topic official website --> [u'http://www.ecb.int/', u'http://ec.europa.eu/economy_finance/euro/index_en.htm']	0
+what was the currency used in france before the euro?	60334	euro --> currency countries formerly used --> [u'Serbia and Montenegro']	0
+what was the currency used in france before the euro?	60334	euro --> currency currency code --> [u'EUR']	0
+what was the currency used in france before the euro?	60334	euro --> webpage uri --> [u'http://www.ecb.europa.eu', u'http://www.ecb.eu', u'http://www.ecb.int']	0
+what was the currency used in france before the euro?	60334	wakame --> nutrition fact ius --> [u'360']	0
+what was the currency used in france before the euro?	60334	wakame --> ingredient compatible with dietary restrictions --> [u'Gluten-free diet', u'Veganism', u'Vegetarian food']	0
+what was the currency used in france before the euro?	60334	wakame --> organism classification scientific name --> [u'Undaria pinnatifida']	0
+what was the currency used in france before the euro?	60334	wakame --> topic alias --> [u'Seaweed, wakame, raw']	0
+what was the currency used in france before the euro?	60334	wakame --> food energy --> [u'188']	0
+what was the currency used in france before the euro?	60334	wakame --> vocabulary equivalent topic narrower concept --> [u'Seaweed, wakame, raw']	0
+what was the currency used in france before the euro?	60334	wakame --> food extra broader --> [u'Seaweed']	0
+what was the currency used in france before the euro?	60334	wakame --> object name --> [u'Wakame']	0
+what was the currency used in france before the euro?	60334	wakame --> topic image --> [u'Wakame served with fish.', u'Boiled wakame']	0
+what was the currency used in france before the euro?	60334	wakame --> nutrition fact quantity --> [u'7e-07', u'2e-06', u'5.3e-06', u'1.8e-05', u'6e-05']	0
+what was the currency used in france before the euro?	60334	wakame --> recipe ingredient recipe name --> [u'wakame']	0
+what was the currency used in france before the euro?	60334	wakame --> nutrition fact nutrient --> [u'Choline', u'Saturated fat', u'Carbohydrate', u'Copper', u'Iron']	0
+what was the currency used in france before the euro?	60334	wakame --> food usda equivalent --> [u'11669']	0
+what was the currency used in france before the euro?	60334	french revolution of 1848 --> event event type --> [u'Historical event']	0
+what was the currency used in france before the euro?	60334	french revolution of 1848 --> event locations --> [u'France']	2
+what was the currency used in france before the euro?	60334	french revolution of 1848 --> person gender --> [u'Male']	0
+what was the currency used in france before the euro?	60334	french revolution of 1848 --> object name --> [u'French Revolution of 1848']	0
+what was the currency used in france before the euro?	60334	french revolution of 1848 --> topic image --> [u'Horace Vernet-Barricade rue Soufflot', u'Louis-Philippe de Bourbon']	0
+what was the currency used in france before the euro?	60334	french revolution of 1848 --> event end date --> [u'1848-12-02']	0
+what was the currency used in france before the euro?	60334	french revolution of 1848 --> event start date --> [u'1848-02-23']	0
+what was the currency used in france before the euro?	60334	missing in action --> webpage resource --> [u'M.I.A. leaks new track via Twitter video; stream it here', u"Sade debuts new single 'Soldier of Love': Are you ready to rejoin her army?"]	0
+what was the currency used in france before the euro?	60334	missing in action --> cause of death people --> [u'Werner Scholl']	0
+what was the currency used in france before the euro?	60334	missing in action --> topic alias --> [u'MIA']	0
+what was the currency used in france before the euro?	60334	missing in action --> topic image --> [u'POW MIA flag', u'Thiepval names', u'UnknownBritishSoldiers']	0
+what was the currency used in france before the euro?	60334	missing in action --> object name --> [u'Missing in action']	0
+what was the currency used in france before the euro?	60334	missing in action --> cause of death parent cause of death --> [u'Military']	0
+what was the currency used in france before the euro?	60334	missing in action --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what was the currency used in france before the euro?	60334	missing in action --> film subject films --> [u'Brothers', u'Brothers', u'Rambo: First Blood Part II', u'Missing in Action', u'Braddock: Missing in Action III']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+what was the currency used in france before the euro?	60334	bulgaria --> government position held office position or title --> [u'Tsar of Bulgaria', u'President of Bulgaria', u'Prime Minister of Bulgaria']	0
+what was the currency used in france before the euro?	60334	bulgaria --> bibs location loc type --> [u'Country']	0
+what was the currency used in france before the euro?	60334	bulgaria --> speech or presentation speech topic --> [u'Jewish population by country']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage rate --> [u'0', u'0.002361', u'0.019541', u'0.118962', u'0.717462']	0
+what was the currency used in france before the euro?	60334	bulgaria --> location partially contains --> [u'Tumba Peak', u'Danube 21 Euroregion', u'Black Sea Euroregion', u'Danube', u'Dobruja']	92
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	bulgaria --> taxonomy entry prefix --> [u'DR']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> location people born here --> [u'Hristo Stamboliyski', u'Strashimira Filipova', u'Lubomir Gutsev', u'Tsanko Tsvetanov', u'Radoslav Parvanov']	0
+what was the currency used in france before the euro?	60334	bulgaria --> olympic medal honor medalist --> [u'Valentin Christov', u'Lyubcho Dyakov', u'Ivanka Khristova', u'Kamen Goranov', u'Lubomir Geraskov']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what was the currency used in france before the euro?	60334	bulgaria --> recurring money value currency --> [u'Euro']	3
+what was the currency used in france before the euro?	60334	bulgaria --> dated kilowatt hour number --> [u'2292.654', u'2486.066', u'2683.11', u'2842.231', u'3035.636']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country fips  --> [u'BU']	0
+what was the currency used in france before the euro?	60334	bulgaria --> location containedby --> [u'Europe', u'Eastern Europe', u'Eurasia', u'Southeast Europe']	91
+what was the currency used in france before the euro?	60334	bulgaria --> tv subject tv episodes --> [u'Ceitci Demirkova - Missionary']	0
+what was the currency used in france before the euro?	60334	bulgaria --> olympic athlete affiliation sport --> [u'Boxing', u'Ice Hockey', u'Rowing', u'Fencing', u'Tennis']	15
+what was the currency used in france before the euro?	60334	bulgaria --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+what was the currency used in france before the euro?	60334	bulgaria --> organization membership organization --> [u'World Bank', u'League of Nations', u'European Union', u'North Atlantic Treaty Organization (NATO)', u'Council of Europe']	19
+what was the currency used in france before the euro?	60334	bulgaria --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+what was the currency used in france before the euro?	60334	bulgaria --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2004 Summer Olympics', u'2006 Winter Olympics', u'1988 Summer Olympics']	19
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0
+what was the currency used in france before the euro?	60334	bulgaria --> national anthem of a country official anthem since --> [u'1964']	0
+what was the currency used in france before the euro?	60334	bulgaria --> administrative area adjectival form --> [u'Bulgarian']	0
+what was the currency used in france before the euro?	60334	bulgaria --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVj9EZwpEbGdrcN5Y29ycA']	0
+what was the currency used in france before the euro?	60334	bulgaria --> government position held office holder --> [u'Simeon Saxe-Coburg-Gotha', u'Rosen Plevneliev', u'Georgi Parvanov', u'Petar Stoyanov', u'Zhelyu Zhelev']	17
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> olympic medal honor event --> [u"Shooting at the 1980 Summer Olympics - Men's 50 metre pistol", u"Weightlifting at the 1980 Summer Olympics - Men's Heavyweight 100-110 kg", u"Athletics at the 1972 Summer Olympics - Women's Long Jump", u'Ice hockey at the 1976 Winter Olympics', u"Weightlifting at the 1980 Summer Olympics - Men's Lightweight 60-67.5 kg"]	0
+what was the currency used in france before the euro?	60334	bulgaria --> olympic participating country olympics participated in --> [u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics', u'1896 Summer Olympics', u'2008 Summer Olympics']	8
+what was the currency used in france before the euro?	60334	bulgaria --> bibs location is clear --> [u'1']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> organization scope organizations with this scope --> [u'TIM', u"George's Day Movement", u'Bulgarian Agrarian National Union', u'Attack', u'Citizens for European Development of Bulgaria']	9
+what was the currency used in france before the euro?	60334	bulgaria --> country first level divisions --> [u'Veliko Tarnovo Province', u'Blagoevgrad Province', u'Targovishte Province', u'Pernik Province', u'Pazardzhik Province']	312
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value amount --> [u'2730', u'3140', u'3410', u'3660', u'3930']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country languages spoken --> [u'Bulgarian Language', u'Torlakian dialect']	145
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country calling code --> [u'359']	0
+what was the currency used in france before the euro?	60334	bulgaria --> adjoining relationship adjoins --> [u'Romania', u'Serbia', u'Turkey', u'Greece', u'Republic of Macedonia']	1831
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage date --> [u'2000-01', u'2000-02', u'2000-03', u'2000-04', u'2000-05']	0
+what was the currency used in france before the euro?	60334	bulgaria --> geocode longitude --> [u'25.1628572817']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	18
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage rate --> [u'1.477439', u'1.872042', u'1.983267', u'2.00303', u'2.261356']	0
+what was the currency used in france before the euro?	60334	bulgaria --> olympic participating country ioc code --> [u'BUL']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0
+what was the currency used in france before the euro?	60334	bulgaria --> registry or country country code --> [u'bg']	1
+what was the currency used in france before the euro?	60334	bulgaria --> dated kgoe number --> [u'2224.263', u'2228.687', u'2262.787', u'2283.081', u'2304.541']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country currency used --> [u'Bulgarian lev']	4
+what was the currency used in france before the euro?	60334	bulgaria --> dated float number --> [u'1.09', u'1.11', u'1.21', u'1.23', u'1.24']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country iso  shortname --> [u'BULGARIA']	0
+what was the currency used in france before the euro?	60334	bulgaria --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage date --> [u'1997', u'1998', u'1999', u'2000', u'2001']	0
+what was the currency used in france before the euro?	60334	bulgaria --> breed origin breeds originating here --> [u'Karakachan dog']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+what was the currency used in france before the euro?	60334	bulgaria --> newspaper circulation area newspapers --> [u'24 Chasa', u'Zaman']	1
+what was the currency used in france before the euro?	60334	bulgaria --> adjusted money value adjusted value --> [u'11414698748', u'11464296023', u'11605673635', u'11969608572', u'12026065057']	0
+what was the currency used in france before the euro?	60334	bulgaria --> project participation project --> [u'Improvement of Maritime Links between TRACEA and TENs Corridors']	0
+what was the currency used in france before the euro?	60334	bulgaria --> adjusted money value adjustment currency --> [u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> person metaweb user s --> [u'galeksandrov']	0
+what was the currency used in france before the euro?	60334	bulgaria --> administrative area administrative parent --> [u'Earth']	0
+what was the currency used in france before the euro?	60334	bulgaria --> webpage uri --> [u'http://statoids.com/ubg.html']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> flag use flag --> [u'Flag of Bulgaria']	2
+what was the currency used in france before the euro?	60334	bulgaria --> sports team location teams --> [u'Bulgaria national football team', u'PBC Lukoil Academic', u"Bulgaria women's national beach handball team", u"Bulgaria men's national volleyball team"]	25
+what was the currency used in france before the euro?	60334	bulgaria --> administrative area capital --> [u'Sofia']	823
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage rate --> [u'13.7', u'14.6', u'16.2', u'16.3', u'17.2']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+what was the currency used in france before the euro?	60334	bulgaria --> location adjectival form --> [u'Bulgarian']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated metric ton number --> [u'2.833901', u'3.26992', u'3.835892', u'4.259781', u'5.262988']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage date --> [u'1981', u'1982', u'1983', u'1984', u'1985']	0
+what was the currency used in france before the euro?	60334	bulgaria --> recurring money value currency --> [u'Euro', u'Euro', u'Euro', u'Euro', u'Euro']	3
+what was the currency used in france before the euro?	60334	bulgaria --> countries continent --> [u'Europe']	68
+what was the currency used in france before the euro?	60334	bulgaria --> administrative area subdividing type --> [u'Bulgarian oblast']	0
+what was the currency used in france before the euro?	60334	bulgaria --> government position held to --> [u'2002-01-22', u'2005-08-17', u'1997-01-22', u'2009-07-27', u'2012-01-22']	0
+what was the currency used in france before the euro?	60334	bulgaria --> government position held appointed by --> [u'Rosen Plevneliev']	3
+what was the currency used in france before the euro?	60334	bulgaria --> webpage category --> [u'Topic Equivalent']	0
+what was the currency used in france before the euro?	60334	bulgaria --> government position held basic title --> [u'President', u'Tsar', u'Prime minister', u'Acting Prime Minister']	24
+what was the currency used in france before the euro?	60334	bulgaria --> linguistic hint adjectival form --> [u'Bulgarian']	0
+what was the currency used in france before the euro?	60334	bulgaria --> military combatant group conflict --> [u'World War II', u'Battle of Ko\u0161are', u'War on Terrorism', u'Fl\u0103m\xe2nda Offensive', u'Mediterranean and Middle East theatre of World War II']	26
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage rate --> [u'-9.117377', u'-9.030055', u'-8.445355', u'-7.272388', u'-5.5']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country capital --> [u'Sofia']	823
+what was the currency used in france before the euro?	60334	bulgaria --> recurring money value frequency --> [u'Month', u'Month', u'Month', u'Month', u'Month']	0
+what was the currency used in france before the euro?	60334	bulgaria --> adjusted money value measurement date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage rate --> [u'5.2', u'5.3', u'5.4', u'5.6', u'5.7']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country internet tld --> [u'bg']	1
+what was the currency used in france before the euro?	60334	bulgaria --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage date --> [u'1990', u'1993', u'1994', u'1995', u'1996']	0
+what was the currency used in france before the euro?	60334	bulgaria --> beer country region beers from here --> [u'Zagorka Original Lager']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value valid date --> [u'2008']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	bulgaria --> administrative area short name --> [u'bg']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated location date founded --> [u'0681']	0
+what was the currency used in france before the euro?	60334	bulgaria --> religion percentage religion --> [u'Islam', u'Orthodox Christianity', u'Nontheism']	4
+what was the currency used in france before the euro?	60334	bulgaria --> country form of government --> [u'Parliamentary system', u'Parliamentary republic']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage source --> [u'Broadband penetration rate, Broadband penetration in Europe, Eurostat']	0
+what was the currency used in france before the euro?	60334	bulgaria --> adjusted money value adjustment date --> [u'2000']	0
+what was the currency used in france before the euro?	60334	bulgaria --> book subject works --> [u'Classic Recipes From Bulgaria, Romania, Croatia & Slovenia', u'Dobry', u'The rise and fall of the Bulgarian connection', u'Januarius MacGahan', u'Buying a Home in Bulgaria']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	bulgaria --> organization membership to --> [u'1946-04-18']	0
+what was the currency used in france before the euro?	60334	bulgaria --> speech or presentation speaker s --> [u'Gregor Belkovsky']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage rate --> [u'4.5', u'5.7', u'7.6', u'9.5', u'11.2']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> business location parent company --> [u'Liberal Party']	1
+what was the currency used in france before the euro?	60334	bulgaria --> location contains --> [u'Kosovo', u'Thracian Tomb of Sveshtari', u'Zhizhevo', u'Govedartsi', u'Chirpan']	5
+what was the currency used in france before the euro?	60334	bulgaria --> topic alias --> [u'Republic of Bulgaria']	0
+what was the currency used in france before the euro?	60334	bulgaria --> flag use from date --> [u'1991']	0
+what was the currency used in france before the euro?	60334	bulgaria --> fictional setting characters that have lived here --> [u'Dragomir Gorgovitch']	0
+what was the currency used in france before the euro?	60334	bulgaria --> taxonomy entry high --> [u'98']	0
+what was the currency used in france before the euro?	60334	bulgaria --> organization membership from --> [u'2004-03-29', u'2007-01-01', u'1920-12-16', u'1955-12-14']	0
+what was the currency used in france before the euro?	60334	bulgaria --> location area --> [u'110994']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	bulgaria --> recurring money value frequency --> [u'Month']	0
+what was the currency used in france before the euro?	60334	bulgaria --> recurring money value amount --> [u'31.19', u'34.26', u'38.35', u'40.42', u'43.65']	0
+what was the currency used in france before the euro?	60334	bulgaria --> speech or presentation event --> [u'First Zionist Congress - First Day - Afternoon Session']	0
+what was the currency used in france before the euro?	60334	bulgaria --> military combatant belongs to combatant group --> [u'North Atlantic Treaty Organization (NATO)']	15
+what was the currency used in france before the euro?	60334	bulgaria --> governmental jurisdiction agencies --> [u'Bulgarian Ministry of Education and Science', u'Bulgarian Ministry of Economy and Energy', u'Bulgarian Ministry of Defence', u'Bulgarian Ministry of Agriculture and Forestry', u'Bulgarian Ministry of Culture']	1
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country administrative divisions --> [u'Veliko Tarnovo Province', u'Blagoevgrad Province', u'Targovishte Province', u'Pernik Province', u'Sofia']	1111
+what was the currency used in france before the euro?	60334	bulgaria --> dated float number --> [u'69.248', u'69.492', u'70.196', u'70.309', u'70.351']	0
+what was the currency used in france before the euro?	60334	bulgaria --> governmental jurisdiction government bodies --> [u'National Assembly']	2
+what was the currency used in france before the euro?	60334	bulgaria --> administrative area pertinent type --> [u'Bulgarian oblast', u'Bulgarian region', u'Bulgarian planning region', u'Bulgarian settlement', u'Bulgarian municipality']	0
+what was the currency used in france before the euro?	60334	bulgaria --> location time zones --> [u'Eastern European Time', u'UTC+02:00']	7
+what was the currency used in france before the euro?	60334	bulgaria --> administrative area administrative area type --> [u'Sovereign state']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+what was the currency used in france before the euro?	60334	bulgaria --> film location featured in films --> [u"God's House"]	0
+what was the currency used in france before the euro?	60334	bulgaria --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what was the currency used in france before the euro?	60334	bulgaria --> webpage resource --> [u'Statoids of Bulgaria']	0
+what was the currency used in france before the euro?	60334	bulgaria --> topic exceptions --> [u'The type Bulgarian Region does not specify where instances may appear.']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> topic official website --> [u'http://www.government.bg/']	0
+what was the currency used in france before the euro?	60334	bulgaria --> government position held governmental body --> [u'National Assembly']	2
+what was the currency used in france before the euro?	60334	bulgaria --> sport country multi event tournaments participated in --> [u'2012 World Mountain Running Championships']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> military combatant group combatants --> [u'Belgium', u'Brazil', u'Empire of Japan', u'Croatia', u'Kingdom of Italy']	564
+what was the currency used in france before the euro?	60334	bulgaria --> dated integer number --> [u'7476000', u'7534289', u'7585131', u'7623395', u'7659764']	0
+what was the currency used in france before the euro?	60334	bulgaria --> recurring money value date --> [u'1999-01', u'1999-07', u'2000-01', u'2000-07', u'2001-01']	0
+what was the currency used in france before the euro?	60334	bulgaria --> geocode latitude --> [u'42.3755059683']	0
+what was the currency used in france before the euro?	60334	bulgaria --> location events --> [u'Serbo-Bulgarian War', u'1977 Vrancea earthquake', u'Battle of the Willows', u'Battle of Cape Kaliakra', u'Day of Bulgarian Education and Culture and Slavonic Literature']	3
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> country official language --> [u'Bulgarian Language']	143
+what was the currency used in france before the euro?	60334	bulgaria --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage rate --> [u'-1.91', u'-1.85', u'-1.8', u'-1.17', u'-1.07']	0
+what was the currency used in france before the euro?	60334	bulgaria --> taxonomy entry low --> [u'51']	0
+what was the currency used in france before the euro?	60334	bulgaria --> administrative area administrative children --> [u'Veliko Tarnovo Province', u'Blagoevgrad Province', u'Targovishte Province', u'Pernik Province', u'Sofia']	1111
+what was the currency used in france before the euro?	60334	bulgaria --> government position held from --> [u'2002-01-22', u'2005-08-17', u'1997-01-22', u'2009-07-27', u'2012-01-22']	0
+what was the currency used in france before the euro?	60334	bulgaria --> olympic athlete affiliation athlete --> [u'Venelina Veneva-Mateeva', u'Elina Vaseva', u'Rumyana Neykova', u'Venelin Venkov', u'Ivan Atanasov']	1
+what was the currency used in france before the euro?	60334	bulgaria --> dated percentage date --> [u'2007-01', u'2007-07', u'2008-01', u'2008-07', u'2009-01']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value currency --> [u'United States dollar']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value amount --> [u'24186794549', u'27915535962', u'30367913305', u'32757585518', u'35233520977']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	bulgaria --> recurring money value source --> [u'Eurostat, Minimum Wage in Europe']	0
+what was the currency used in france before the euro?	60334	bulgaria --> object name --> [u'Bulgaria']	0
+what was the currency used in france before the euro?	60334	bulgaria --> topic image --> [u'Flag of Bulgaria', u'Coat of arms (Bulgaria)', u'Location Bulgaria EU Europe']	0
+what was the currency used in france before the euro?	60334	bulgaria --> national anthem of a country anthem --> [u'Mila Rodino']	2
+what was the currency used in france before the euro?	60334	bulgaria --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value amount --> [u'8890314315', u'9704877673', u'10053468883', u'10371900500', u'10831999517']	0
+what was the currency used in france before the euro?	60334	bulgaria --> governmental jurisdiction government positions --> [u'President of Bulgaria', u'Prime Minister of Bulgaria']	0
+what was the currency used in france before the euro?	60334	bulgaria --> dated money value amount --> [u'13200']	0
+what was the currency used in france before the euro?	60334	currency used --> property unique --> [u'0']	0
+what was the currency used in france before the euro?	60334	currency used --> property expected type --> [u'finance.currency']	0
+what was the currency used in france before the euro?	60334	currency used --> property schema --> [u'freebase.apps.hosts.com.appspot.acre.topics.country']	0
+what was the currency used in france before the euro?	60334	currency used --> object name --> [u'Currency used']	0
+what was the currency used in france before the euro?	60334	currency used --> w org-rdf-syntax-nsdomain --> [u'freebase.apps.hosts.com.appspot.acre.topics.country']	0
+what was the currency used in france before the euro?	60334	currency used --> w org-rdf-syntax-nsrange --> [u'finance.currency']	0
+what was the currency used in france before the euro?	60334	currency used --> property hints disambiguator --> [u'0']	0
+what was the currency used in france before the euro?	60334	currency used --> property delegated --> [u'Currency Used']	0
+what was the currency used in france before the euro?	60334	currency used --> property unique --> [u'0']	0
+what was the currency used in france before the euro?	60334	currency used --> property hints display orientation --> [u'horizontal']	0
+what was the currency used in france before the euro?	60334	currency used --> object id --> [u'/freebase/apps/hosts/z/appspot/acre/topics/country/currency_used']	0
+what was the currency used in france before the euro?	60334	currency used --> property expected type --> [u'Currency']	0
+what was the currency used in france before the euro?	60334	currency used --> property schema --> [u'Country']	0
+what was the currency used in france before the euro?	60334	currency used --> object name --> [u'Currency used']	0
+what was the currency used in france before the euro?	60334	currency used --> w org-rdf-syntax-nsdomain --> [u'Country']	0
+what was the currency used in france before the euro?	60334	currency used --> property hints display none --> [u'0']	0
+what was the currency used in france before the euro?	60334	currency used --> w org-rdf-syntax-nsrange --> [u'Currency']	0
+what was the currency used in france before the euro?	60334	currency used --> property master property --> [u'Countries Used']	0
+what was the currency used in france before the euro?	60334	currency used --> property hints display orientation --> [u'horizontal']	0
+what was the currency used in france before the euro?	60334	currency used --> object id --> [u'/location/country/currency_used']	0
+what was the currency used in france before the euro?	60334	currency used --> property expected type --> [u'Currency']	0
+what was the currency used in france before the euro?	60334	currency used --> property schema --> [u'Country']	0
+what was the currency used in france before the euro?	60334	currency used --> object name --> [u'Currency Used']	0
+what was the currency used in france before the euro?	60334	currency used --> w org-rdf-syntax-nsdomain --> [u'Country']	0
+what was the currency used in france before the euro?	60334	currency used --> w org-rdf-syntax-nsrange --> [u'Currency']	0
+what was the currency used in france before the euro?	60334	currency used --> property schema --> [u'location.country']	0
+what was the currency used in france before the euro?	60334	currency used --> w org-rdf-syntax-nsdomain --> [u'location.country']	0
+what was the currency used in france before the euro?	60334	currency used --> object name --> [u'Currency Used']	0
+what was the currency used in france before the euro?	60334	currency used --> w org-rdf-syntax-nsrange --> [u'finance.currency']	0
+what was the currency used in france before the euro?	60334	currency used --> property expected type --> [u'finance.currency']	0
+what was the currency used in france before the euro?	60334	mitt romney presidential campaign 2008 --> campaign candidate --> [u'Mitt Romney']	12
+what was the currency used in france before the euro?	60334	mitt romney presidential campaign 2008 --> election campaign party --> [u'Republican Party']	2
+what was the currency used in france before the euro?	60334	mitt romney presidential campaign 2008 --> election campaign election --> [u'Republican Party presidential primaries, 2008']	0
+what was the currency used in france before the euro?	60334	mitt romney presidential campaign 2008 --> election campaign candidate --> [u'Mitt Romney']	12
+what was the currency used in france before the euro?	60334	mitt romney presidential campaign 2008 --> object name --> [u'Mitt Romney presidential campaign, 2008']	0
+what was the currency used in france before the euro?	60334	mitt romney presidential campaign 2008 --> campaign party affiliation --> [u'Republican Party']	2
+what was the currency used in france before the euro?	60334	mitt romney presidential campaign 2008 --> topic official website --> [u'http://www.mittromney.com']	0
+what was the currency used in france before the euro?	60334	mitt romney presidential campaign 2008 --> book subject works --> [u'Tricks and Treats of the 2012 Presidential Debates']	0
+what was the currency used in france before the euro?	60334	europe --> namesake named after --> [u'Europa']	5
+what was the currency used in france before the euro?	60334	europe --> organization scope organizations with this scope --> [u'Noisy Little Monkey', u'Aksion Plus', u"European Metalworkers' Federation", u'Attensity Europe GmbH', u'European Union']	0
+what was the currency used in france before the euro?	60334	europe --> location events --> [u'Scientific revolution', u'European Film Awards 1995', u'World War II', u'Dig Out Your Soul Tour', u'World Domination Tour']	229
+what was the currency used in france before the euro?	60334	europe --> location contains --> [u'Lakmos', u'Warkworth Castle', u'Hru\u0161ki vrh', u'Danylo Halytsky Lviv National Medical University', u'Tokarnia']	0
+what was the currency used in france before the euro?	60334	europe --> topic alias --> [u'The Old Continent']	0
+what was the currency used in france before the euro?	60334	europe --> cvg publisher games published --> [u'Cooking Mama', u"Victorious Boxers: Ippo's Road to Glory", u'NHL 2K3', u'Dragon Ball Z: Budokai', u'Mega Man X3']	1
+what was the currency used in france before the euro?	60334	europe --> adjoining relationship adjoins --> [u'Asia', u'Africa', u'Atlantic Ocean', u'Mediterranean Sea']	2949
+what was the currency used in france before the euro?	60334	europe --> taxonomy entry high --> [u'97', u'287.8', u'1075', u'2082', u'6949.8']	0
+what was the currency used in france before the euro?	60334	europe --> location partially contains --> [u'Soviet Union', u'Russia', u'France', u'Kazakhstan', u'Georgia']	1025
+what was the currency used in france before the euro?	60334	europe --> location area --> [u'10180000']	0
+what was the currency used in france before the euro?	60334	europe --> vocabulary equivalent topic equivalent concept --> [u'Europe']	0
+what was the currency used in france before the euro?	60334	europe --> mythology mythical creatures --> [u'Reptilians']	0
+what was the currency used in france before the euro?	60334	europe --> continents planet --> [u'Earth']	8
+what was the currency used in france before the euro?	60334	europe --> taxonomy entry prefix --> [u'G', u'QE', u'JS', u'JV', u'D']	0
+what was the currency used in france before the euro?	60334	europe --> location people born here --> [u'Maryline Blackburn', u'Simona Fusco', u'Jordanus de Nemore', u'Saheb Sarbib']	0
+what was the currency used in france before the euro?	60334	europe --> body of water extra fish --> [u'Common roach']	0
+what was the currency used in france before the euro?	60334	europe --> webpage category --> [u'Topic Webpage', u'Tag']	0
+what was the currency used in france before the euro?	60334	europe --> fictional setting contains --> [u'Pottsylvania', u'Ruritania', u'Borduria', u'Molvan\xeea', u'Calbia']	0
+what was the currency used in france before the euro?	60334	europe --> vacation choice vacationer --> [u'Kristen Stewart', u'Ryan Seacrest']	0
+what was the currency used in france before the euro?	60334	europe --> location contains major portion of --> [u'Netherlands', u'Spain', u'France', u'Portugal', u'Kingdom of the Netherlands']	967
+what was the currency used in france before the euro?	60334	europe --> location containedby --> [u'Northern Hemisphere']	17
+what was the currency used in france before the euro?	60334	europe --> location time zones --> [u'UTC+01:00', u'UTC+04:00', u'UTC\xb100:00', u'UTC+03:00', u'UTC+02:00']	1
+what was the currency used in france before the euro?	60334	europe --> continents countries within --> [u'Belgium', u'Bulgaria', u'Croatia', u'Finland', u'Germany']	681
+what was the currency used in france before the euro?	60334	europe --> geocode longitude --> [u'9']	0
+what was the currency used in france before the euro?	60334	europe --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what was the currency used in france before the euro?	60334	europe --> webpage resource --> [u'Thurston Moore: From Sonic Youth to Book Publisher; \u201cI Hate iPods\u201d', u"Megan Fox's crush, Rain: Are you digging the 'Korean Justin Timberlake'?", u"'Glee': Share your favorite show choir memories. We know you have them.", u'Ridley Scott to the Economy: Blame the Press!', u'Today\u2019s Political Birthdays Run the Gamut']	0
+what was the currency used in france before the euro?	60334	europe --> continents states provinces within --> [u'Wo\u0142y\u0144 Voivodeship - II RP']	0
+what was the currency used in france before the euro?	60334	europe --> cyclone affected area cyclones --> [u'Hurricane Isaac', u'Hurricane Debby', u'Hurricane Alex', u'Tropical Storm Laura', u'Hurricane Gert']	0
+what was the currency used in france before the euro?	60334	europe --> fictional setting universe --> [u'Mortal Engines']	0
+what was the currency used in france before the euro?	60334	europe --> vocabulary equivalent topic narrower concept --> [u'Minorities--Europe--Congresses']	0
+what was the currency used in france before the euro?	60334	europe --> newspaper circulation area newspapers --> [u'Stars and Stripes', u'North Cyprus Free Press', u'International Herald Tribune', u'Financial Times', u'Draugas']	1
+what was the currency used in france before the euro?	60334	europe --> dated integer number --> [u'320000000', u'423000000', u'485000000', u'530000000', u'579000000']	0
+what was the currency used in france before the euro?	60334	europe --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what was the currency used in france before the euro?	60334	europe --> geocode latitude --> [u'53']	0
+what was the currency used in france before the euro?	60334	europe --> name source namesakes --> [u'Europium']	2
+what was the currency used in france before the euro?	60334	europe --> webpage uri --> [u'http://www.europeana.eu/portal/']	0
+what was the currency used in france before the euro?	60334	europe --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what was the currency used in france before the euro?	60334	europe --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjddJwpEbGdrcN5Y29ycA']	0
+what was the currency used in france before the euro?	60334	europe --> taxonomy entry low --> [u'1', u'260', u'900', u'1791', u'3000']	0
+what was the currency used in france before the euro?	60334	europe --> computer game region versions released in this region --> [u'Battlefield: Bad Company 2', u'Virtua Tennis 4', u'El Shaddai: Ascension of the Metatron (PS3 EU)', u'LEGO Pirates of the Caribbean: The Video Game', u'007 Racing']	0
+what was the currency used in france before the euro?	60334	europe --> object name --> [u'Europe']	0
+what was the currency used in france before the euro?	60334	europe --> topic image --> [u'LocationEurope', u'Map of Europe', u'Europesatelliteorthographic101.jpg']	0
+what was the currency used in france before the euro?	60334	europe --> dated integer year --> [u'1893', u'1920', u'1930', u'1940', u'1950']	0
+what was the currency used in france before the euro?	60334	europe --> book subject works --> [u'Eloise in Moscow', u'NARROW MARGIN', u'Europe Since 1870', u'University records and life in the middle ages', u'Murder Guide to London']	0
+what was the currency used in france before the euro?	60334	gayssot act --> object name --> [u'Gayssot Act']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> bibs location loc type --> [u'State']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held appointed by --> [u'Stephen Harper']	2
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> location events --> [u'Operation Megaphone']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held office position or title --> [u'Canadian Senator']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> topic alias --> [u'Nfld', u'Province De Terre-Neuve', u'Province De Terre-Neuve-Et-Labrador', u'Province Of Newfoundland', u'Province Of Newfoundland And Labrador']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> adjoining relationship adjoins --> [u'Saint Pierre and Miquelon']	2
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> location partially contains --> [u'Appalachian Mountains']	3
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> location area --> [u'405212']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held legislative sessions --> [u'38th Canadian Parliament', u'35th Canadian Parliament', u'34th Canadian Parliament', u'37th Canadian Parliament', u'39th Canadian Parliament']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> administrative division capital relationship capital --> [u"St. John's"]	41
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held office holder --> [u'Fabian Manning', u'Bill Rompkey', u'Ethel Cochrane', u'George Furey', u'Joan Cook']	9
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> administrative division first level division of --> [u'Canada']	544
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> location people born here --> [u'Robin McGrath', u'Rae Perlin', u'Matt Maher', u'Charlene Johnson', u'Ken Babstock']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> armorial grant coat of arms --> [u"Coat of arms of St. John's, Newfoundland and Labrador"]	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held basic title --> [u'Senator']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> location containedby --> [u'Canada', u'Atlantic Canada']	567
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> topic official website --> [u'http://www.gov.nl.ca']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> administrative area administrative area type --> [u'Canadian province']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> geocode longitude --> [u'-59.685']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held from --> [u'2002-03-26', u'2009-01-02', u'1998-03-06', u'1999-08-11', u'1986-11-17']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> location contains --> [u'Barachois Brook, Newfoundland and Labrador', u'Little Harbour East', u'Bacon Cove, Newfoundland and Labrador', u'Pikes Arm, Newfoundland and Labrador', u'Carbonear-Harbour Grace']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> cyclone affected area cyclones --> [u'Hurricane Hortense', u'Nova Scotia Hurricane of 1873', u'Hurricane Able', u'Tropical Storm Chantal', u'Hurricane Kate']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> governmental jurisdiction government bodies --> [u'Newfoundland and Labrador House of Assembly', u'General Assembly of Newfoundland and Labrador']	27
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held governmental body --> [u'Senate of Canada']	4
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> bibs location country --> [u'Canada']	544
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held appointed by --> [u'Brian Mulroney', u'Stephen Harper', u'Jean Chr\xe9tien']	7
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held governmental body --> [u'Senate of Canada']	4
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> geocode latitude --> [u'52.6244']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> administrative area administrative parent --> [u'Canada']	544
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvuSTiJwpEbGdrcN5Y29ycA']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held from --> [u'2013-01-25']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> government position held office holder --> [u'David Wells']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> object name --> [u'Newfoundland and Labrador']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> topic image --> [u'Newfoundland and Labrador-map', u'Colonialbuilding']	0
+what was the currency used in france before the euro?	60334	newfoundland and labrador --> administrative division country --> [u'Canada']	544
+what was the currency used in france before the euro?	60334	estates of the realm --> object name --> [u'Estates of the realm']	0
+what was the currency used in france before the euro?	60334	estates of the realm --> topic image --> [u'Estates of the realm', u'Cleric-Knight-Workman']	0
+what was the currency used in france before the euro?	60334	currency --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what was the currency used in france before the euro?	60334	currency --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjMQpwpEbGdrcN5Y29ycA']	0
+what was the currency used in france before the euro?	60334	currency --> ikariam resource category resources --> [u'Gold']	0
+what was the currency used in france before the euro?	60334	currency --> webpage category --> [u'Tag']	0
+what was the currency used in france before the euro?	60334	currency --> object name --> [u'Currency']	0
+what was the currency used in france before the euro?	60334	currency --> topic image --> [u'Euromoenterogsedler']	0
+what was the currency used in france before the euro?	60334	currency --> equivalent topic equivalent type --> [u'Currency']	0
+what was the currency used in france before the euro?	60334	currency --> book subject works --> [u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']	0
+what was the currency used in france before the euro?	60334	france --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+what was the currency used in france before the euro?	60334	france --> government position held office position or title --> [u'President of France', u'Minister of Defence', u'Prime Minister of the French Republic', u'Secretary of State for Human Rights of France', u'Sherpa']	78
+what was the currency used in france before the euro?	60334	france --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	64
+what was the currency used in france before the euro?	60334	france --> bibs location loc type --> [u'Country']	0
+what was the currency used in france before the euro?	60334	france --> countries planet --> [u'Earth']	3
+what was the currency used in france before the euro?	60334	france --> netflix genre titles --> [u'Yves St. Laurent: His Life and Times', u'Iran: The Hundred Year War', u"L'Amour Fou", u'The Umbrellas of Cherbourg', u'Les Diaboliques']	3
+what was the currency used in france before the euro?	60334	france --> treaty signature treaty --> [u'Treaty of Seville', u'Treaty of Amiens']	3
+what was the currency used in france before the euro?	60334	france --> dated percentage rate --> [u'0.051358', u'0.136293', u'0.271338', u'0.574087', u'0.874352']	0
+what was the currency used in france before the euro?	60334	france --> location partially contains --> [u'Mont Blanc de Courmayeur', u'Normandy', u'Pyrenees', u'Alps', u"Aiguille d'Argenti\xe8re"]	1101
+what was the currency used in france before the euro?	60334	france --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	france --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	france --> taxonomy entry prefix --> [u'JN', u'DC']	0
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> competitor competition relationship rank --> [u'1', u'7']	0
+what was the currency used in france before the euro?	60334	france --> location people born here --> [u'Robert Aymar', u'Sandrine Veysset', u'Jean Perrot', u'Olivier Rabourdin', u'Fulbert of Chartres']	0
+what was the currency used in france before the euro?	60334	france --> olympic medal honor medalist --> [u'Miguel Martinez', u'Suzanne Lenglen', u'Henri Cochet', u'Michel Rousseau', u'Philippe Candeloro']	1
+what was the currency used in france before the euro?	60334	france --> country currency formerly used --> [u'French franc', u'Assignat']	11
+what was the currency used in france before the euro?	60334	france --> military command military conflict --> [u'World War II', u'Second Battle of the Aisne', u'Battle of France', u'Siege of Badajoz', u'Italian War of 1521\u201326']	377
+what was the currency used in france before the euro?	60334	france --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what was the currency used in france before the euro?	60334	france --> recurring money value currency --> [u'Euro']	12
+what was the currency used in france before the euro?	60334	france --> government position held district represented --> [u"Vaucluse's 3rd constituency", u'Seine-Saint-Denis']	32
+what was the currency used in france before the euro?	60334	france --> country fips  --> [u'FR']	0
+what was the currency used in france before the euro?	60334	france --> vacation choice vacationer --> [u'Barack Obama', u'Celine Dion', u'Teri Hatcher', u'Chris Brown', u'Cindy Crawford']	2
+what was the currency used in france before the euro?	60334	france --> ambassadorial tenure ambassador --> [u'Jean Nicot']	1
+what was the currency used in france before the euro?	60334	france --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	france --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	france --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0
+what was the currency used in france before the euro?	60334	france --> location partially containedby --> [u'Europe', u'North America', u'Pacific Ocean', u'Indian Ocean', u'Western Europe']	699
+what was the currency used in france before the euro?	60334	france --> athletics championships competition athlete relationship event --> [u"2007 World Championships in Athletics \u2013 Men's 400 metres"]	0
+what was the currency used in france before the euro?	60334	france --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Cycling', u'Cross-country skiing', u'Canoe Slalom']	405
+what was the currency used in france before the euro?	60334	france --> customer num --> [u'34']	0
+what was the currency used in france before the euro?	60334	france --> region caves --> [u'Lascaux', u'Cave of Niaux', u'Chauvet Cave', u'Cosquer Cave', u'Font-de-Gaume']	16
+what was the currency used in france before the euro?	60334	france --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+what was the currency used in france before the euro?	60334	france --> organization membership organization --> [u'World Bank', u'European Space Agency', u'G-20 major economies', u'Secretariat of the Pacific Community', u'Organisation for Economic Co-operation and Development']	22
+what was the currency used in france before the euro?	60334	france --> imports and exports exported to --> [u'United States of America', u'Angola', u'Sudan', u'Algeria', u'Madagascar']	2147
+what was the currency used in france before the euro?	60334	france --> fictional setting fictional characters born here --> [u'Fleur Delacour', u'Henri']	0
+what was the currency used in france before the euro?	60334	france --> imports and exports date --> [u'2006', u'2008']	0
+what was the currency used in france before the euro?	60334	france --> kingdom rulers --> [u'Louis XVII of France', u'Philip V of France', u'John I of France', u'Philip IV of France', u'Charles V of France']	6
+what was the currency used in france before the euro?	60334	france --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+what was the currency used in france before the euro?	60334	france --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0
+what was the currency used in france before the euro?	60334	france --> national anthem of a country official anthem since --> [u'1795']	0
+what was the currency used in france before the euro?	60334	france --> military command military commander --> [u'Nicolas Oudinot', u'Armand Philippon', u'Robert Nivelle', u'Cardinal Richelieu', u'Charles de Gaulle']	51
+what was the currency used in france before the euro?	60334	france --> united nations body membership body --> [u'United Nations Security Council']	21
+what was the currency used in france before the euro?	60334	france --> administrative area adjectival form --> [u'French']	0
+what was the currency used in france before the euro?	60334	france --> administrative area administrative area type --> [u'Sovereign state']	0
+what was the currency used in france before the euro?	60334	france --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	france --> bibs location is clear --> [u'0']	0
+what was the currency used in france before the euro?	60334	france --> casualties upper estimate --> [u'13000']	0
+what was the currency used in france before the euro?	60334	france --> imports and exports amount --> [u'2165000000', u'9700000000']	0
+what was the currency used in france before the euro?	60334	france --> olympic medal honor event --> [u"Cycling at the 1956 Summer Olympics \u2013 Men's sprint", u"Cycling at the 1996 Summer Olympics \u2013 Men's cross-country", u"Canoeing at the 1996 Summer Olympics \u2013 Women's slalom K-1", u"Canoeing at the 2000 Summer Olympics \u2013 Women's slalom K-1", u"Diving at the 1952 Summer Olympics \u2013 Women's 3 metre springboard"]	0
+what was the currency used in france before the euro?	60334	france --> olympic participating country olympics participated in --> [u'2012 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'2002 Winter Olympics']	56
+what was the currency used in france before the euro?	60334	france --> government position held office holder --> [u'Fran\xe7ois Mitterrand', u'Armand Falli\xe8res', u"Val\xe9ry Giscard d'Estaing", u'Marion Mar\xe9chal-Le Pen', u'Charles de Gaulle']	35
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> ambassadorial tenure from date --> [u'1559']	0
+what was the currency used in france before the euro?	60334	france --> organization scope organizations with this scope --> [u'Revolutionary Internationalist Action Groups', u'New Anticapitalist Party', u'Unitarian Left', u'Unified Socialist Party', u'Pole of Communist Revival in France']	2
+what was the currency used in france before the euro?	60334	france --> competitor competition relationship competitors --> [u'Bouabdellah Tahri', u'Nikola Karabati\u0107', u'Marion Bartoli', u'Xavier Barachet', u'Daniel Narcisse']	2
+what was the currency used in france before the euro?	60334	france --> country first level divisions --> [u'\xcele-de-France', u'Lorraine', u'Brittany', u'Burgundy', u'Languedoc-Roussillon']	317
+what was the currency used in france before the euro?	60334	france --> imports and exports date --> [u'2004', u'2008']	0
+what was the currency used in france before the euro?	60334	france --> country languages spoken --> [u'West Flemish', u'French Language', u'Alsatian language', u'R\xe9union Creole French Language', u'Yeniche Language']	330
+what was the currency used in france before the euro?	60334	france --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what was the currency used in france before the euro?	60334	france --> competitor country relationship competitor --> [u'France national football team', u'Audrey Fontaine', u'L\xe9a Palermo', u'Lauren Meheust', u'Joris Grosjean']	18
+what was the currency used in france before the euro?	60334	france --> country calling code --> [u'33']	0
+what was the currency used in france before the euro?	60334	france --> adjoining relationship adjoins --> [u'Belgium', u'Germany', u'Italy', u'Luxembourg', u'Spain']	7589
+what was the currency used in france before the euro?	60334	france --> naval engagement participation outcome --> [u'Survived', u'Taken', u'Destroyed']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage date --> [u'1983-03', u'1983-09', u'1983-11', u'1984-06', u'1984-10']	0
+what was the currency used in france before the euro?	60334	france --> athletics championships competition athlete relationship athlete s --> [u'Leslie Djhone']	0
+what was the currency used in france before the euro?	60334	france --> geocode longitude --> [u'2']	0
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics']	56
+what was the currency used in france before the euro?	60334	france --> ambassadorial tenure to countries --> [u'Kingdom of Portugal']	4
+what was the currency used in france before the euro?	60334	france --> countries cities within --> [u'Paris']	3475
+what was the currency used in france before the euro?	60334	france --> united nations body membership from --> [u'1946-01-17']	0
+what was the currency used in france before the euro?	60334	france --> organization founder organizations founded --> [u'UNESCO', u'United Nations', u'Unitaid']	70
+what was the currency used in france before the euro?	60334	france --> thoroughbred racehorse origin horses from this location --> [u'Match II', u'Relko', u'Ocean of Wisdom', u'Omnium II', u'Exotic Dancer']	0
+what was the currency used in france before the euro?	60334	france --> nuclear power nuclear tests --> [u'Agathe', u'Canopus']	1
+what was the currency used in france before the euro?	60334	france --> dated percentage rate --> [u'2.248842', u'2.303201', u'2.331012', u'2.346469', u'2.416808']	0
+what was the currency used in france before the euro?	60334	france --> imports and exports imported from --> [u'Scotland', u'United States of America', u'Angola', u'Algeria', u'Madagascar']	2341
+what was the currency used in france before the euro?	60334	france --> olympic participating country ioc code --> [u'FRA']	0
+what was the currency used in france before the euro?	60334	france --> treaty signature date --> [u'1802-03-25']	0
+what was the currency used in france before the euro?	60334	france --> athletics championships competition athlete relationship rank --> [u'5']	0
+what was the currency used in france before the euro?	60334	france --> dated kgoe number --> [u'1698.665', u'1744.665', u'1860.525', u'1982.963', u'2084.69']	0
+what was the currency used in france before the euro?	60334	france --> country currency used --> [u'Euro', u'CFP franc']	13
+what was the currency used in france before the euro?	60334	france --> dated float number --> [u'1.73', u'1.74', u'1.75', u'1.77', u'1.78']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> country iso  shortname --> [u'FRANCE']	0
+what was the currency used in france before the euro?	60334	france --> naval engagement participation naval engagement --> [u'Battle of Trafalgar']	10
+what was the currency used in france before the euro?	60334	france --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage date --> [u'1995', u'1996', u'1997', u'1998', u'1999']	0
+what was the currency used in france before the euro?	60334	france --> breed origin breeds originating here --> [u'Braque Dupuy', u'Bloodhound', u'Affenpinscher', u'Basset Fauve de Bretagne', u'Grand Basset Griffon Vend\xe9en']	4
+what was the currency used in france before the euro?	60334	france --> athletics championships competition athlete relationship championships --> [u'2007 World Championships in Athletics']	0
+what was the currency used in france before the euro?	60334	france --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+what was the currency used in france before the euro?	60334	france --> newspaper circulation area newspapers --> [u'La France', u"L'Intransigeant", u'Le Monde', u'La Lune', u'Lib\xe9ration']	11
+what was the currency used in france before the euro?	60334	france --> adjusted money value adjusted value --> [u'345568380593', u'362172705791', u'387061419949', u'411059711659', u'437477202734']	0
+what was the currency used in france before the euro?	60334	france --> adjusted money value adjustment currency --> [u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> ambassadorial tenure to date --> [u'1561']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage rate --> [u'-3.147051', u'-1.124349', u'-0.667365', u'-0.080668', u'0.899504']	0
+what was the currency used in france before the euro?	60334	france --> webpage uri --> [u'http://www.francetourism.com/', u'http://www.elysee.fr', u'http://www.france.fr', u'http://statoids.com/ufr.html', u'http://www.premier-ministre.gouv.fr/']	0
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> flag use flag --> [u'Flag of France']	3
+what was the currency used in france before the euro?	60334	france --> country second level divisions --> [u'Paris', u'Hauts-de-Seine', u'Pas-de-Calais', u'Loz\xe8re', u'Calvados']	4423
+what was the currency used in france before the euro?	60334	france --> sports team location teams --> [u'France national football team', u'France national handball team', u'France national cricket team', u'Chorale Roanne Basket', u"France women's national volleyball team"]	19
+what was the currency used in france before the euro?	60334	france --> force strength force size --> [u'3160', u'14000', u'16544']	0
+what was the currency used in france before the euro?	60334	france --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	france --> force strength military conflict --> [u'Second Battle of the Aisne', u'War in Afghanistan (2001\u2013present)', u'Quasi-War', u'Battle of Bail\xe9n', u'Battle of Dien Bien Phu']	48
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	france --> recurring money value date --> [u'1999-01', u'1999-07', u'2000-01', u'2000-07', u'2001-01']	0
+what was the currency used in france before the euro?	60334	france --> casualties combatant --> [u'United Kingdom', u'Australia', u'Canada', u'Dominion of New Zealand', u'Union of South Africa']	2950
+what was the currency used in france before the euro?	60334	france --> nuclear power nuclear test series --> [u'Jewel series']	0
+what was the currency used in france before the euro?	60334	france --> competitor competition relationship medal --> [u'Silver medal', u'Bronze medal']	0
+what was the currency used in france before the euro?	60334	france --> location adjectival form --> [u'French']	0
+what was the currency used in france before the euro?	60334	france --> administrative area subdividing place --> [u'Overseas France', u'Metropolitan France']	29
+what was the currency used in france before the euro?	60334	france --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+what was the currency used in france before the euro?	60334	france --> dated metric ton number --> [u'5.815432', u'5.847076', u'5.8565', u'5.950923', u'6.001544']	0
+what was the currency used in france before the euro?	60334	france --> casualties lower estimate --> [u'2', u'1000', u'3000', u'10000', u'20000']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+what was the currency used in france before the euro?	60334	france --> fictional setting works set here --> [u'Les Mis\xe9rables']	0
+what was the currency used in france before the euro?	60334	france --> counties parishes and boroughs coninent --> [u'Antarctica']	16
+what was the currency used in france before the euro?	60334	france --> countries continent --> [u'Eurasia']	6
+what was the currency used in france before the euro?	60334	france --> casualties military conflict --> [u'Second Battle of the Aisne', u'Gulf War', u'Battle of Passchendaele', u'Battle of Talavera', u'Battle of Bussaco']	5
+what was the currency used in france before the euro?	60334	france --> administrative area subdividing type --> [u'French region']	0
+what was the currency used in france before the euro?	60334	france --> government position held to --> [u'1909', u'1920', u'1988', u'1879', u'1904']	0
+what was the currency used in france before the euro?	60334	france --> dated kilowatt hour number --> [u'1462.206', u'1549.908', u'1653.755', u'1750.718', u'1896.464']	0
+what was the currency used in france before the euro?	60334	france --> government position held basic title --> [u'President', u'Member of Congress', u'Member of Parliament', u'Senator', u'Prime minister']	4
+what was the currency used in france before the euro?	60334	france --> recurring money value currency --> [u'Euro', u'Euro', u'Euro', u'Euro', u'Euro']	12
+what was the currency used in france before the euro?	60334	france --> military combatant group conflict --> [u'Second French Indochina Campaign', u'Settling Accounts', u'Battle of Tientsin', u'Franco-Thai War', u'World War II']	340
+what was the currency used in france before the euro?	60334	france --> administrative area administrative parent --> [u'Earth']	3
+what was the currency used in france before the euro?	60334	france --> country capital --> [u'Paris']	3475
+what was the currency used in france before the euro?	60334	france --> recurring money value frequency --> [u'Month', u'Month', u'Month', u'Month', u'Month']	0
+what was the currency used in france before the euro?	60334	france --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	france --> naval engagement participation casualties --> [u'12', u'15', u'17', u'20', u'22']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage rate --> [u'6.9', u'7', u'7.1', u'7.2', u'7.3']	0
+what was the currency used in france before the euro?	60334	france --> country internet tld --> [u'.yt', u'eu', u'fr', u'wf', u're']	3
+what was the currency used in france before the euro?	60334	france --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	france --> naval engagement participation wounded --> [u'20', u'22', u'24', u'30', u'39']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+what was the currency used in france before the euro?	60334	france --> beer country region beers from here --> [u'Kronenbourg Premier Cru', u'Kronenbourg Brune', u'Kronenbourg 1664', u"Kronenbourg Trois Si\xe8cles d'Amour de la bi\xe8re", u'Kronenbourg Blanc']	0
+what was the currency used in france before the euro?	60334	france --> parent institution judaica owning units --> [u'National Library of France']	0
+what was the currency used in france before the euro?	60334	france --> cryptid observation location cryptid s occurring here --> [u'Dahu']	1
+what was the currency used in france before the euro?	60334	france --> dated money value valid date --> [u'2008', u'2012']	0
+what was the currency used in france before the euro?	60334	france --> name source namesakes --> [u'Francium']	2
+what was the currency used in france before the euro?	60334	france --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	france --> dated money value amount --> [u'32700', u'35520']	0
+what was the currency used in france before the euro?	60334	france --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead']	0
+what was the currency used in france before the euro?	60334	france --> topic topical webpage --> [u'http://www.francetourism.com/', u'http://enciklopedija.lzmk.hr/clanak.aspx?id=11623', u'http://nogomet.lzmk.hr/clanak.aspx?id=814', u'http://www.elysee.fr/', u'http://www.premier-ministre.gouv.fr/']	0
+what was the currency used in france before the euro?	60334	france --> imports and exports currency --> [u'United States dollar', u'UK \xa3']	8
+what was the currency used in france before the euro?	60334	france --> location primarily containedby --> [u'Europe', u'Western Europe']	556
+what was the currency used in france before the euro?	60334	france --> administrative area short name --> [u'fr']	0
+what was the currency used in france before the euro?	60334	france --> governmental jurisdiction government bodies --> [u'National Assembly', u'Senate', u'French Parliament']	8
+what was the currency used in france before the euro?	60334	france --> dated location date founded --> [u'1792']	0
+what was the currency used in france before the euro?	60334	france --> religion percentage religion --> [u'Catholicism']	13
+what was the currency used in france before the euro?	60334	france --> country form of government --> [u'Unitary state', u'Constitutional republic', u'Semi-presidential system']	2
+what was the currency used in france before the euro?	60334	france --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Men's 3000 metres steeplechase", u"2010 European Men's Handball Championship", u"1986 European Athletics Championships \u2013 Men's 800 metres", u"2009 World Championships in Athletics \u2013 Men's pole vault", u"2013 Wimbledon Championships \u2013 Women's Singles"]	0
+what was the currency used in france before the euro?	60334	france --> competitor country relationship sports --> [u'Badminton']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage source --> [u'Broadband penetration rate, Broadband penetration in Europe, Eurostat']	0
+what was the currency used in france before the euro?	60334	france --> adjusted money value adjustment date --> [u'2000']	0
+what was the currency used in france before the euro?	60334	france --> book subject works --> [u'A Moveable Feast', u'The feminist movement in France', u'Modern French interiors', u'The Alice B. Toklas Cookbook', u'Mon cher papa']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage date --> [u'2002-07', u'2002-10', u'2003-01', u'2003-07', u'2003-10']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage rate --> [u'1.2', u'1.9', u'2.8', u'4', u'4.8']	0
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> government position held appointed by --> [u'Nicolas Sarkozy', u'Georges Pompidou', u'Jean-Marc Ayrault']	55
+what was the currency used in france before the euro?	60334	france --> fairy tale origin fairy tale from here --> [u'Beauty and the Beast', u'The Enchanted Watch']	1
+what was the currency used in france before the euro?	60334	france --> location contains --> [u'Boulogne-Billancourt', u'Mines ParisTech', u'University of Strasbourg', u'Paris', u'Ribeauvill\xe9']	3519
+what was the currency used in france before the euro?	60334	france --> topic alias --> [u'French Republic', u'R\xe9publique fran\xe7aise', u"l'Hexagone"]	0
+what was the currency used in france before the euro?	60334	france --> flag use from date --> [u'1794-02-15']	0
+what was the currency used in france before the euro?	60334	france --> taxonomy entry high --> [u'3007']	0
+what was the currency used in france before the euro?	60334	france --> organization membership from --> [u'1946', u'1999', u'1957-03-25', u'1945-10-24']	0
+what was the currency used in france before the euro?	60334	france --> united nations body membership permanent --> [u'1']	0
+what was the currency used in france before the euro?	60334	france --> location area --> [u'674843']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	france --> recurring money value frequency --> [u'Month']	0
+what was the currency used in france before the euro?	60334	france --> imports and exports currency --> [u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> recurring money value amount --> [u'1035.97', u'1049.49', u'1083.29', u'1127.23', u'1154.27']	0
+what was the currency used in france before the euro?	60334	france --> processed with review queue question id --> [u'/rabj/store/questions/question_9ba77d80b4d94b2c', u'/rabj/store/questions/question_b72d4c54503302bf']	0
+what was the currency used in france before the euro?	60334	france --> force strength date --> [u'1954']	0
+what was the currency used in france before the euro?	60334	france --> military combatant belongs to combatant group --> [u'Triple Entente', u'Allies of World War II']	53
+what was the currency used in france before the euro?	60334	france --> governmental jurisdiction agencies --> [u"Commissariat \xe0 l'\xe9nergie atomique et aux \xe9nergies alternatives", u'Institut de radioprotection et de s\xfbret\xe9 nucl\xe9aire', u"Commission nationale consultative des droits de l'homme", u"Institut de l'information scientifique et technique", u'French National Centre for Scientific Research']	5
+what was the currency used in france before the euro?	60334	france --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	france --> country administrative divisions --> [u'Paris', u'Hauts-de-Seine', u'Saint-Tropez', u'\xcele-de-France', u'Lorraine']	3644
+what was the currency used in france before the euro?	60334	france --> competitor competition relationship tournament --> [u'2009 World Championships in Athletics', u'1986 European Athletics Championships']	0
+what was the currency used in france before the euro?	60334	france --> location events --> [u'Battle of Loos', u'Operation Crossbow', u'Third Battle of the Aisne', u'Battle of Thiepval Ridge', u'Battle of Cambrai']	7
+what was the currency used in france before the euro?	60334	france --> dated float number --> [u'69.868', u'70.117', u'70.315', u'70.515', u'70.663']	0
+what was the currency used in france before the euro?	60334	france --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what was the currency used in france before the euro?	60334	france --> administrative area pertinent type --> [u'French department', u'French overseas region', u'French overseas department', u'French region', u'French arrondisement']	0
+what was the currency used in france before the euro?	60334	france --> location time zones --> [u'UTC+01:00', u'Central European Time']	3
+what was the currency used in france before the euro?	60334	france --> webpage description --> [u'France', u'Tourist information', u'Government web site', u'President of the French Republic']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+what was the currency used in france before the euro?	60334	france --> film location featured in films --> [u'Madoff: Made Off with America', u"Vide Pour L'Amour", u'Jump Britain', u'Saint-Ex']	0
+what was the currency used in france before the euro?	60334	france --> dated money value amount --> [u'9540', u'10470', u'11270', u'11720', u'12250']	0
+what was the currency used in france before the euro?	60334	france --> webpage resource --> [u"'Brothers & Sisters' recap: Chemo distractions with Sarah's French fling", u"Judge denies Roman Polanski's request to dismiss sex charges", u"Quentin Tarantino introduces new 'Basterds' clip", u'Audrey Tautou: Her Coco Chanel biopic looks good, but has she bid adieu to America?', u'Bruno is back (again): Is he in or auf?']	0
+what was the currency used in france before the euro?	60334	france --> topic exceptions --> [u'French Canton subdivides itself.', u'French Commune subdivides itself.']	0
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> topic official website --> [u'http://www.france.fr/']	0
+what was the currency used in france before the euro?	60334	france --> government position held governmental body --> [u'National Assembly', u'Senate', u'French Ministry of Foreign Affairs', u'G7 summits', u'Chamber of Deputies']	7
+what was the currency used in france before the euro?	60334	france --> linguistic hint adjectival form --> [u'French']	0
+what was the currency used in france before the euro?	60334	france --> sport country multi event tournaments participated in --> [u'2012 World Mountain Running Championships']	0
+what was the currency used in france before the euro?	60334	france --> competitor competition relationship team --> [u'France national handball team']	0
+what was the currency used in france before the euro?	60334	france --> military combatant group combatants --> [u'Belgium', u'Brazil', u'Bulgaria', u'Kingdom of Italy', u'Germany']	4818
+what was the currency used in france before the euro?	60334	france --> dated integer number --> [u'5500000', u'7000000', u'7200000', u'16000000', u'16600000']	0
+what was the currency used in france before the euro?	60334	france --> imports and exports amount --> [u'14500000000']	0
+what was the currency used in france before the euro?	60334	france --> webpage category --> [u'Topic Webpage', u'Tag', u'Topic Equivalent']	0
+what was the currency used in france before the euro?	60334	france --> geocode latitude --> [u'46']	0
+what was the currency used in france before the euro?	60334	france --> naval engagement participation ship --> [u'French ship Scipion', u'French ship Berwick', u'French ship Indomptable', u'French ship Pluton', u'French ship Fougueux']	0
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> governmental jurisdiction government --> [u'Government of France']	0
+what was the currency used in france before the euro?	60334	france --> country official language --> [u'French Language']	328
+what was the currency used in france before the euro?	60334	france --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage rate --> [u'0.32', u'0.41', u'0.43', u'0.45', u'0.47']	0
+what was the currency used in france before the euro?	60334	france --> taxonomy entry low --> [u'2301']	0
+what was the currency used in france before the euro?	60334	france --> administrative area administrative children --> [u'\xcele-de-France', u'Lorraine', u'Brittany', u'Burgundy', u'Languedoc-Roussillon']	317
+what was the currency used in france before the euro?	60334	france --> government position held from --> [u'1902', u'1909', u'1986', u'1990', u'1991']	0
+what was the currency used in france before the euro?	60334	france --> olympic athlete affiliation athlete --> [u'Suzanne Lenglen', u'Yannick Bertrand', u'Thibaut Fauconnet', u'Paul-Henri Delerue', u'Madeleine Moreau']	0
+what was the currency used in france before the euro?	60334	france --> olympic athlete affiliation athlete --> [u'Laure Pequegnot']	0
+what was the currency used in france before the euro?	60334	france --> dated money value currency --> [u'United States dollar']	7
+what was the currency used in france before the euro?	60334	france --> dated money value amount --> [u'526260515352', u'580536214147', u'628159449950', u'656847412318', u'690575914785']	0
+what was the currency used in france before the euro?	60334	france --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what was the currency used in france before the euro?	60334	france --> recurring money value source --> [u'Eurostat, Minimum Wage in Europe']	0
+what was the currency used in france before the euro?	60334	france --> object name --> [u'France']	0
+what was the currency used in france before the euro?	60334	france --> topic image --> [u'Map-of-France.jpg', u'Location of France', u'Location of Euro gold and silver commemorative coins (France)', u'french_flag']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0
+what was the currency used in france before the euro?	60334	france --> national anthem of a country anthem --> [u'La Marseillaise']	5
+what was the currency used in france before the euro?	60334	france --> dated integer year --> [u'1821', u'1851', u'1876', u'1881', u'1901']	0
+what was the currency used in france before the euro?	60334	france --> dated money value amount --> [u'62651474947', u'68346741504', u'76313782252', u'85551113767', u'94906593388']	0
+what was the currency used in france before the euro?	60334	france --> governmental jurisdiction government positions --> [u'French Minister of Transportation']	0
+what was the currency used in france before the euro?	60334	france --> dated percentage rate --> [u'55.5', u'56.9', u'57.3', u'58', u'58.8']	0

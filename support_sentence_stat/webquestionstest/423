@@ -1,0 +1,11 @@
+where were greek temples built?	0	ancient greek temple --> building function buildings --> [u'Temple of Artemis', u'Spartia temple', u'Temple of Isthmia', u'Temple of Aphaea', u'Temple of Olympian Zeus, Athens']	0
+where were greek temples built?	0	ancient greek temple --> object name --> [u'Ancient Greek temple']	0
+where were greek temples built?	0	ancient greek temple --> topic image --> [u'Athens Acropolis', u'Athens Parthenon', u'Athens Parthenon-remains']	0
+where were greek temples built?	0	temple --> ontology instance mapping ontology --> [u'OpenCyc']	0
+where were greek temples built?	0	temple --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQwW0ZwpEbGdrcN5Y29ycA']	0
+where were greek temples built?	0	temple --> type of place of worship places of worship --> [u'Lumbini', u'Kong Meng San Phor Kark See Monastery', u'BodhiHeart', u'Rumtek Monastery', u'Yakushi-ji']	0
+where were greek temples built?	0	temple --> type of place of worship religion --> [u'Maratreanism']	0
+where were greek temples built?	0	temple --> building function buildings --> [u'Kinkaku-ji', u'Parthenon', u'Hekatompedon temple', u'Temple of Maharraqa', u'Wat Manolom']	0
+where were greek temples built?	0	temple --> object name --> [u'Temple']	0
+where were greek temples built?	0	temple --> topic image --> [u'Kinkaku-ji temple', u'Maison carree side', u'Athens Parthenon', u'Borobudur Northwest View']	0
+where were greek temples built?	0	temple --> linguistic hint subject form --> [u'Temples']	0

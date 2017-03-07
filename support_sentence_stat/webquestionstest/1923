@@ -1,0 +1,76 @@
+what countries require travel visas for us citizens?	0	visa --> processed with review queue question id --> [u'/rabj/store/questions/question_c7b0656983d96e95']	0
+what countries require travel visas for us citizens?	0	visa --> webpage resource --> [u"Amy Winehouse won't play Coachella"]	0
+what countries require travel visas for us citizens?	0	visa --> topic image --> [u'Entry visa valid in Schengen treaty countries. Issued by France']	0
+what countries require travel visas for us citizens?	0	visa --> object name --> [u'Visa']	0
+what countries require travel visas for us citizens?	0	visa --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what countries require travel visas for us citizens?	0	united states nationality law --> webpage resource --> [u'Morning Roundup: \u201cFinal Destination\u201d to Best \u201cHalloween II\u201d at Box Office?; Jacko\u2019s Drug-Ridden Home; Neeson Become U.S. Citizen', u'History channel announces new original programming', u'Mike Myers visits the CIA. Naturally.']	0
+what countries require travel visas for us citizens?	0	united states nationality law --> topic image --> [u'Usnaturalization']	0
+what countries require travel visas for us citizens?	0	united states nationality law --> topic alias --> [u'United States citizenship', u'U.S. citizen']	0
+what countries require travel visas for us citizens?	0	united states nationality law --> object name --> [u'United States nationality law']	0
+what countries require travel visas for us citizens?	0	united states nationality law --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what countries require travel visas for us citizens?	0	forus --> object name --> [u'Forus']	0
+what countries require travel visas for us citizens?	0	stavanger airport forus --> location containedby --> [u'Norway']	0
+what countries require travel visas for us citizens?	0	stavanger airport forus --> object name --> [u'Stavanger Airport, Forus']	0
+what countries require travel visas for us citizens?	0	stavanger airport forus --> airport serves --> [u'Stavanger', u'Sola']	0
+what countries require travel visas for us citizens?	0	stavanger airport forus --> geocode longitude --> [u'5.7075']	0
+what countries require travel visas for us citizens?	0	stavanger airport forus --> geocode latitude --> [u'58.8922222222']	0
+what countries require travel visas for us citizens?	0	stavanger airport forus --> airport coder hint no code --> [u'1']	0
+what countries require travel visas for us citizens?	0	country --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what countries require travel visas for us citizens?	0	country --> webpage resource --> [u'Kate Gosselin spanks kid (maybe): Did we need to see the pictures?', u'Kate Gosselin spanks kid (maybe): Did we need to see the pictures?', u"Bravo plans 'The Real Housewives of D.C.'", u'Nickelback clean up at the Juno Awards: Anyone surprised?']	0
+what countries require travel visas for us citizens?	0	country --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA']	0
+what countries require travel visas for us citizens?	0	country --> ontology class mapping uri --> [u'http://www.geonames.org/ontology#Country', u'http://s.opencalais.com/1/type/em/e/Country']	0
+what countries require travel visas for us citizens?	0	country --> type of fictional setting settings --> [u'Gondor', u'United Federation', u'Ranke', u'Ruritania', u'Kingdom of Zeal']	0
+what countries require travel visas for us citizens?	0	country --> object name --> [u'Country']	0
+what countries require travel visas for us citizens?	0	country --> topic image --> [u'Staatkundige kaart van de Wereld', u'Europe topography map']	0
+what countries require travel visas for us citizens?	0	country --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what countries require travel visas for us citizens?	0	country --> ontology class mapping ontology --> [u'GeoNames', u'OpenCalais']	0
+what countries require travel visas for us citizens?	0	country --> quotation subject quotations about this subject --> [u'The greatness of a nation can be judged by the way its animals are treated.', u"It may be true that you can't fool all the people all the time, but you can fool enough of them to rule a large country.", u"The common good of a collective -- a race, a class, a state -- was the claim and justification of every tyranny ever established over men. Every major horror of history was committed in the name of an altruistic motive. Has any act of selfishness ever equaled the carnage perpetrated by disciples of altruism? Does the fault lie in men's hypocrisy or in the nature of the principle? The most dreadful butchers were the most sincere. The believed in the perfect society reached through the guillotine and the firing squad. Nobody questioned their right to murder since they were murdering for an altruistic purpose. It was accepted that man must be sacrificed for other men. Actors change, but the course of the tragedy remains the same. A humanitarian who starts with the declarations of love for mankind and ends with a sea of blood. It goes on and will go on so long as men believe that an action is good if it is unselfish. That permits the altruist to act and forces his victims to bear it. The leaders of collectivist movements ask nothing of themselves. But observe the results.", u"Shall we then judge a country by the majority, or by the minority? By the minority, surely. 'Tis pedantry to estimate nations by the census, or by square miles of land, or other than by their importance to the mind of the time.", u'My country owes me nothing. It gave me, as it gives every boy and girl, a chance. It gave me schooling, independence of action, opportunity for service and honor. In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbounded hope.']	0
+what countries require travel visas for us citizens?	0	country --> equivalent topic equivalent type --> [u'Country']	0
+what countries require travel visas for us citizens?	0	travel --> genre content --> [u"leashesandlovers's Podcast", u'Band In Boston', u'GothamCast: A New York City Experience', u'-- TIPS FOR TRAVELLERS: The Travel Destination Podcast --', u'The Adventures of a Teenage Disney Geek']	0
+what countries require travel visas for us citizens?	0	travel --> ad network vertical ad networks --> [u'20-20 Travel Network', u'Travel Ad Network', u'Destination Travel Network']	0
+what countries require travel visas for us citizens?	0	travel --> taxonomy entry high --> [u'570']	0
+what countries require travel visas for us citizens?	0	travel --> organization sector organizations in this sector --> [u'CouchSurfing']	0
+what countries require travel visas for us citizens?	0	travel --> taxonomy entry prefix --> [u'G']	0
+what countries require travel visas for us citizens?	0	travel --> gift card category gift cards --> [u'Disneyland Resort Gift Card', u'Travelocity Gift Card', u'Four Seasons Gift Card']	0
+what countries require travel visas for us citizens?	0	travel --> club interest clubs --> [u'Vermont 251 Club']	0
+what countries require travel visas for us citizens?	0	travel --> periodical subject periodicals --> [u'TRVL', u'Literary Savannah (Magazine)', u'The New York Times Magazine']	0
+what countries require travel visas for us citizens?	0	travel --> risk factor diseases --> [u'Hepatitis E', u'Tuberculosis', u'Hepatitis A', u'Upper respiratory tract infection']	0
+what countries require travel visas for us citizens?	0	travel --> webpage category --> [u'Tag', u'Curated Topic']	0
+what countries require travel visas for us citizens?	0	travel --> topic subject of --> [u'Wego.com', u'Harlem Renaissance Way Down South']	0
+what countries require travel visas for us citizens?	0	travel --> literary genre books in this genre --> [u'Sand for Snow', u"Narrative of an exploring voyage up the rivers Kwo'ra and Bi'nue (Commonly known as the Niger and Tsadda) in 1854", u'Murder Guide to London', u'The naked eye', u'Where Rolls The Oregon']	0
+what countries require travel visas for us citizens?	0	travel --> ride theme rides --> [u'Around the World in 80 Days']	0
+what countries require travel visas for us citizens?	0	travel --> film genre films in this genre --> [u'Come Aboard: Queen Mary 2 to Rio', u'A Musical Journey: England: A Musical Tour of Blenheim Palace, Leeds Castle and Castle Howard', u'Robbie Coltrane: Incredible Britain', u'Europe to the Max: Molto Italiano!', u'The Great Canadian Train Ride']	0
+what countries require travel visas for us citizens?	0	travel --> tv genre programs --> [u"The Hairy Bikers' Cookbook", u"Michael Palin's Hemingway Adventure", u'The Great Outdoors', u'Bikinis & Boardwalks', u"Giada's Weekend Getaways"]	0
+what countries require travel visas for us citizens?	0	travel --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0
+what countries require travel visas for us citizens?	0	travel --> person metaweb user s --> [u'rogerki', u'butfly']	0
+what countries require travel visas for us citizens?	0	travel --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what countries require travel visas for us citizens?	0	travel --> taxonomy entry low --> [u'149']	0
+what countries require travel visas for us citizens?	0	travel --> internet video genre series --> [u'Accent Goggles', u'InTransit']	0
+what countries require travel visas for us citizens?	0	travel --> magazine genre magazines in this genre --> [u'TRVL', u'Global Traveler']	0
+what countries require travel visas for us citizens?	0	travel --> object name --> [u'Travel']	0
+what countries require travel visas for us citizens?	0	travel --> topic image --> [u"El viaxeru d'Urculo", u'Grt nova bus', u'Statue dedicated to the traveller.  Oviedo, Spain.']	0
+what countries require travel visas for us citizens?	0	travel --> book subject works --> [u'Moon Charleston and Savannah', u'Moon Spotlight Savannah and the Georgia Coast', u'Postcards from Mr. Pish', u'Ofnadwy Nos', u'Revenge of the Whale']	0
+what countries require travel visas for us citizens?	0	citizenship --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what countries require travel visas for us citizens?	0	citizenship --> webpage resource --> [u'Happy citizenship, Craig Ferguson!']	0
+what countries require travel visas for us citizens?	0	citizenship --> taxonomy entry low --> [u'1756']	0
+what countries require travel visas for us citizens?	0	citizenship --> knowledge worker trait class proposal agent --> [u'VIA Institute on Character']	0
+what countries require travel visas for us citizens?	0	citizenship --> knowledge worker trait classification --> [u'Values in Action Inventory of Strengths']	0
+what countries require travel visas for us citizens?	0	citizenship --> knowledge worker trait category --> [u'Justice']	0
+what countries require travel visas for us citizens?	0	citizenship --> topic image --> [u"The philosopher Karl Marx's 1874 British citizenship document. (Public Record Office)"]	0
+what countries require travel visas for us citizens?	0	citizenship --> object name --> [u'Citizenship']	0
+what countries require travel visas for us citizens?	0	citizenship --> taxonomy entry high --> [u'1761']	0
+what countries require travel visas for us citizens?	0	citizenship --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what countries require travel visas for us citizens?	0	citizenship --> vocabulary equivalent topic equivalent concept --> [u'Citizenship']	0
+what countries require travel visas for us citizens?	0	citizenship --> quotation subject quotations about this subject --> [u'""The job facing American voters\u2026 in the days and years to come, is to determine which hearts, minds, and souls command those qualities best suited to unify a country rather than further divide it, to heal the wounds of a nation as opposed to aggravate its injuries, and to secure for the next generation a legacy of choices based on informed awareness rather than one of reactions based on unknowing fear.""', u'\u201cWith intent to neither idolize nor demonize the man [Barack Obama], it seems fair and evident enough to say that the current president of America is not a leader whose way is that of violent public outbursts. It appears to be more that of a warrior-philosopher who practices the art of political persuasion by authoring acclaimed books, delivering well-crafted speeches, assembling unified coalitions, passing historic legislation, signing well-aimed executive orders, and cultivating a poised but accessible demeanor.\u201d', u'Our citizenship in the United States is our national character. Our citizenship in any particular state is only our local distinction. By the latter we are known at home, by the former to the world. Our great title is AMERICANS -- our inferior one varies with the place.', u'""Nation-building is never a \'done deal\' confined to history already established.""', u"Every good citizen makes his country's honor his own, and cherishes it not only as precious but as sacred. He is willing to risk his life in its defense and its conscious that he gains protection while he gives it."]	0
+what countries require travel visas for us citizens?	0	citizenship --> taxonomy entry prefix --> [u'JK']	0
+what countries require travel visas for us citizens?	0	citizenship --> book subject works --> [u'Citizenship and the environment', u'Long Walk to Freedom', u'Fight Global Warming Now', u'Why Societies Need Dissent', u'Beyond Slavery']	0
+what countries require travel visas for us citizens?	0	travel --> top level domain status --> [u'Active']	0
+what countries require travel visas for us citizens?	0	travel --> topic social media presence --> [u'http://twitter.com/dottravel']	0
+what countries require travel visas for us citizens?	0	travel --> top level domain sponsor --> [u'The Travel Partnership Corporation']	0
+what countries require travel visas for us citizens?	0	travel --> webpage category --> [u'Official Website']	0
+what countries require travel visas for us citizens?	0	travel --> object name --> [u'travel']	0
+what countries require travel visas for us citizens?	0	travel --> top level domain introduced --> [u'2005']	0
+what countries require travel visas for us citizens?	0	travel --> top level domain domain type --> [u'Sponsored top-level domain']	0
+what countries require travel visas for us citizens?	0	travel --> top level domain registry --> [u'Tralliance Corporation']	0
+what countries require travel visas for us citizens?	0	travel --> topic official website --> [u'http://www.travel.travel/']	0
+what countries require travel visas for us citizens?	0	travel --> webpage uri --> [u'http://www.travel.travel/']	0

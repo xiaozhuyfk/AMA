@@ -1,0 +1,51 @@
+what channel saints game?	322	channel football club --> object name --> [u'Channel Football Club']	0
+what channel saints game?	322	channel football club --> sports team sport --> [u'Australian rules football']	0
+what channel saints game?	322	saint --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what channel saints game?	322	saint --> webpage resource --> [u"'Bones' recap: The gift of shirtless Booth", u'\u201cNurse Jackie\u201d: TV Recap']	0
+what channel saints game?	322	saint --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQCWO5wpEbGdrcN5Y29ycA']	0
+what channel saints game?	322	saint --> quotation subject quotations about this subject --> [u'It is easier to make a saint out of a libertine than out of a prig.', u'Born a saint, die a sinner -- born a sinner, die a saint.', u'Saints are simply men and women who have fulfilled their natural obligation which is to approach God.', u'What makes saintliness in my view, as distinguished from ordinary goodness, is a certain quality of magnanimity and greatness of soul that brings life within the circle of the heroic.', u'Our manners have been corrupted by communication with the saints.']	0
+what channel saints game?	322	saint --> object name --> [u'Saint']	0
+what channel saints game?	322	saint --> topic image --> [u'Saints of the Roman Catholic church.', u'Simon ushakov last supper 1685']	0
+what channel saints game?	322	saint --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what channel saints game?	322	saint --> linguistic hint subject form --> [u'Saints']	0
+what channel saints game?	322	saint --> book subject works --> [u"Esperanza's Box of Saints: A Novel"]	0
+what channel saints game?	322	game --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what channel saints game?	322	game --> webpage resource --> [u"'Housewives' wedding mystery: Who's getting hitched?", u'Scarygirl: New web game is not scary, just rad', u'Nintendo DS may cause exhaustion, illness', u"Would you pay to watch 'Hannah Montana' online?", u"'Shadow of the Colossus' is being made into a movie: Yay! But who should direct?"]	0
+what channel saints game?	322	game --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvkS9GZwpEbGdrcN5Y29ycA']	0
+what channel saints game?	322	game --> taxonomy entry low --> [u'1199']	0
+what channel saints game?	322	game --> equivalent topic equivalent domain --> [u'Games']	0
+what channel saints game?	322	game --> taxonomy entry high --> [u'1570']	0
+what channel saints game?	322	game --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what channel saints game?	322	game --> equivalent topic equivalent type --> [u'Game']	0
+what channel saints game?	322	game --> object name --> [u'Game']	0
+what channel saints game?	322	game --> topic image --> [u'Tug-of-war']	0
+what channel saints game?	322	game --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what channel saints game?	322	game --> vocabulary equivalent topic equivalent concept --> [u'Games', u'Games']	0
+what channel saints game?	322	game --> linguistic hint subject form --> [u'Games']	0
+what channel saints game?	322	game --> taxonomy entry prefix --> [u'GV']	0
+what channel saints game?	322	game --> book subject works --> [u'Beer-Can Chicken', u'Bigger Deal: A Year Inside the Poker Boom', u'The Dangerous Book for Boys', u'Conjuring', u'Busting Vegas']	0
+what channel saints game?	322	channel --> object name --> [u'Channel']	0
+what channel saints game?	322	channel --> topic image --> [u'Communications men']	0
+what channel saints game?	322	english channel --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what channel saints game?	322	english channel --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVijtZwpEbGdrcN5Y29ycA']	0
+what channel saints game?	322	english channel --> place of interment interred here --> [u'George Sanders']	0
+what channel saints game?	322	english channel --> organization scope organizations with this scope --> [u'Arc Manche']	1
+what channel saints game?	322	english channel --> location events --> [u'Second Anglo-Dutch War', u'Operation Sea Lion', u'Operation Donnerkeil', u'Battle of Britain Day', u'Spain in the American Revolutionary War']	5
+what channel saints game?	322	english channel --> location contains --> [u'Guernsey', u'Wight', u'Isle of Wight', u'Channel Islands', u'Jersey']	99
+what channel saints game?	322	english channel --> topic alias --> [u'La Manche', u'English Channel, Dover', u'Mor Breizh']	0
+what channel saints game?	322	english channel --> adjoining relationship adjoins --> [u'England', u'France', u'Brittany', u'British Isles', u'Upper Normandy']	140
+what channel saints game?	322	english channel --> object name --> [u'English Channel']	0
+what channel saints game?	322	english channel --> topic image --> [u'EnglishChannel']	0
+what channel saints game?	322	english channel --> location partially contains --> [u'United Kingdom, with Dependencies and Territories']	0
+what channel saints game?	322	english channel --> location on top of something buried underground object --> [u'Channel Tunnel']	24
+what channel saints game?	322	english channel --> location area --> [u'75000']	0
+what channel saints game?	322	english channel --> body of water islands --> [u'Chausey', u'Jersey', u'Isle of Wight', u'Ushant', u'Sark']	53
+what channel saints game?	322	english channel --> geocode longitude --> [u'-0.5311']	0
+what channel saints game?	322	english channel --> geocode latitude --> [u'50.1836']	0
+what channel saints game?	322	channel --> geographical feature category subcategory of --> [u'Hydrographic']	0
+what channel saints game?	322	channel --> vocabulary equivalent topic narrower concept --> [u'Qingzhou Channel (China)']	0
+what channel saints game?	322	channel --> object name --> [u'Channel']	0
+what channel saints game?	322	channel --> topic image --> [u'Vivari Channel', u'Lake George Channel']	0
+what channel saints game?	322	channel --> vocabulary equivalent topic equivalent concept --> [u'River channels']	0
+what channel saints game?	322	channel --> geographical feature category features --> [u'Kill Van Kull', u'Dove Channel']	0
+what channel saints game?	322	channel --> geographical feature category subcategories --> [u'Marine channel', u'Navigation channel', u'Lake channel']	0

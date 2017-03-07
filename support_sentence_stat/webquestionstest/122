@@ -1,0 +1,20 @@
+where did mary bell live?	3	mary bell --> person date of birth --> [u'1957-05-26']	0
+where did mary bell live?	3	mary bell --> person place of birth --> [u'Newcastle upon Tyne']	3
+where did mary bell live?	3	mary bell --> person gender --> [u'Female']	0
+where did mary bell live?	3	mary bell --> object name --> [u'Mary Bell']	0
+where did mary bell live?	3	mary bell --> person nationality --> [u'England']	0
+where did mary bell live?	3	mary bell --> book subject works --> [u'Cries Unheard: Why Children Kill - The Story of Mary Bell']	0
+where did mary bell live?	3	live  --> release format --> [u'Gramophone record']	0
+where did mary bell live?	3	live  --> release album --> [u'Live ?']	0
+where did mary bell live?	3	live  --> creative work credit --> [u'Ludwig von 88']	0
+where did mary bell live?	3	live  --> release release date --> [u'1985-03']	0
+where did mary bell live?	3	live  --> release region --> [u'France']	0
+where did mary bell live?	3	live  --> object name --> [u'Live ?']	0
+where did mary bell live?	3	live  --> album releases --> [u'Live ?']	0
+where did mary bell live?	3	live  --> album primary release --> [u'Live ?']	0
+where did mary bell live?	3	live  --> album artist --> [u'Ludwig Von 88']	0
+where did mary bell live?	3	live  --> object name --> [u'Live ?']	0
+where did mary bell live?	3	live  --> album release type --> [u'Single']	0
+where did mary bell live?	3	bell live --> object name --> [u'Bell Live']	0
+where did mary bell live?	3	bell live --> object name --> [u'Bell Live']	0
+where did mary bell live?	3	bell live --> object name --> [u'Bell Live']	0

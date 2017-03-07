@@ -1,0 +1,257 @@
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> airline airport presence airline --> [u'Vueling']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> airport serves --> [u'Barcelona', u'El Prat de Llobregat']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> transportation travel destination --> [u'Barcelona']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> airport hub for --> [u'Spanair', u'Air Nostrum', u'Clickair', u'Vueling', u'Girjet']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> geocode longitude --> [u'2.0672']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> topic alias --> [u'Barcelona Airport']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> webpage category --> [u'Official Website']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> geocode elevation --> [u'3.8']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> object name --> [u'Barcelona\u2013El Prat Airport']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> topic image --> [u'Interior view of the airport', u'Aeroport de Barcelona 1', u'Nueva T1 de Barcelona']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> airport focus city for --> [u'Air Europa', u'Jet4you', u'Iberia']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> transportation mode of transportation --> [u'Air travel']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> location containedby --> [u'Spain']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> topic official website --> [u'http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Barcelona/es/Inicio.html']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> geocode latitude --> [u'41.2969']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> airport operator --> [u'Aena']	0
+which barcelona airport is closest to the port?	7389	barcelona–el prat airport --> webpage uri --> [u'http://www.aena.es/csee/Satellite?pagename=subHome&amp;Language=EN_GB&amp;c=Page&amp;SiteName=BCN&amp;cid=1045569607459', u'http://www.aena-aeropuertos.es/barcelona/en', u'http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Barcelona/en/']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated float number --> [u'0.0603']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> topic alias --> [u'Port Hueneme, California', u'Ventura County / Port Hueneme city']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated float date --> [u'2008']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> location area --> [u'11.9139453075']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated float number --> [u'-0.2018']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> location people born here --> [u'Ronn Burner', u'Maria Bamford', u'Josh Towers', u'Robert Kurrle', u'Fred Ludekens']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> geocode latitude --> [u'34.1478']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer year --> [u'2008']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> citytown postal codes --> [u'93041', u'93044']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> object name --> [u'Port Hueneme']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated float date --> [u'2008']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> location containedby --> [u'California', u'United States of America', u'Ventura County']	8
+which barcelona airport is closest to the port?	7389	port hueneme --> location time zones --> [u'Pacific Time Zone']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> topic official website --> [u'http://www.ci.port-hueneme.ca.us']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer number --> [u'122']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> hud county place place --> [u'Port Hueneme']	107
+which barcelona airport is closest to the port?	7389	port hueneme --> location contains --> [u'Berylwood']	1
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer number --> [u'7256']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer source --> [u'United States Census Bureau, Population']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer year --> [u'2008']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer year --> [u'2008']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> geocode longitude --> [u'-119.1942']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer number --> [u'20236', u'20482', u'20610', u'20711', u'20773']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer year --> [u'2008']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> hud county place county --> [u'Ventura County']	4
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer number --> [u'4009']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer year --> [u'2008']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer number --> [u'289']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> topic image --> [u'The Naval Reserve Center of Port Hueneme facility']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer number --> [u'8044']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+which barcelona airport is closest to the port?	7389	port hueneme --> geocode datum --> [u'NAD83']	0
+which barcelona airport is closest to the port?	7389	indigenous --> object name --> [u'Indigenous']	0
+which barcelona airport is closest to the port?	7389	closest to --> object name --> [u'Closest To']	0
+which barcelona airport is closest to the port?	7389	closest to --> object name --> [u'Closest To']	0
+which barcelona airport is closest to the port?	7389	bird --> cryptid alternative possible cryptid source --> [u'Kongamato']	0
+which barcelona airport is closest to the port?	7389	bird --> fgdc keyword keyword thesaurus --> [u'The Partners in Flight Handbook on Species Assessment']	0
+which barcelona airport is closest to the port?	7389	bird --> character species characters of this species --> [u'Tornait', u'Kyorochan', u'Bird in Tree', u'Red Bird', u'Woodstock']	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification scientific name --> [u'Aves']	0
+which barcelona airport is closest to the port?	7389	bird --> exhibition subject exhibitions created about this subject --> [u'On Feathered Wings: Birds in Flight', u'BIRDS:  The Science of Illustration']	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification placement taxonomic authority --> [u'ITIS']	0
+which barcelona airport is closest to the port?	7389	bird --> topic alias --> [u'Aves']	0
+which barcelona airport is closest to the port?	7389	bird --> internet forum topic internet forum s --> [u'Ohio Birding Forum']	0
+which barcelona airport is closest to the port?	7389	bird --> taxonomy entry high --> [u'699', u'872']	0
+which barcelona airport is closest to the port?	7389	bird --> taxonomy entry prefix --> [u'QE', u'QL']	0
+which barcelona airport is closest to the port?	7389	bird --> periodical subject periodicals --> [u'Ibis']	0
+which barcelona airport is closest to the port?	7389	bird --> animal disease triangle animal disease --> [u'Avian influenza', u'Avian chlamydiosis', u'Avian infectious laryngotracheitis', u'Avian infectious bronchitis']	0
+which barcelona airport is closest to the port?	7389	bird --> bird taxa bird taxon --> [u'1']	0
+which barcelona airport is closest to the port?	7389	bird --> webpage category --> [u'Topic Webpage', u'Tag']	0
+which barcelona airport is closest to the port?	7389	bird --> focal taxa conservation program s --> [u'Atlantic Coast Joint Venture', u'Virginia Bird Conservation Initiative', u'Appalachian Mountains Joint Venture', u'Project Safe Flight', u'North American Breeding Bird Survey']	0
+which barcelona airport is closest to the port?	7389	bird --> webpage description --> [u'Vintage Bird Stories (Free Audio Recordings)']	0
+which barcelona airport is closest to the port?	7389	bird --> linguistic hint subject form --> [u'Birds']	0
+which barcelona airport is closest to the port?	7389	bird --> ontology instance mapping ontology --> [u'OpenCyc']	0
+which barcelona airport is closest to the port?	7389	bird --> webpage resource --> [u"Hilary Swank's terrifying parrot impersonation", u"Clip du jour: Moscow sky channels 'Independence Day'", u"'30 Rock' best lines: Climb into the darkness", u"'Modern Family': The ten best zingers from last night's episode, 'Fizbo'", u"The 'Earth' trailer makes you feel [pick adjective(s)]"]	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification organisms of this type --> [u'Bluebell', u'Marybelle', u'Dick', u'Johnny Ty', u'Washington Post']	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification placement taxonomic authority --> [u'ITIS']	0
+which barcelona airport is closest to the port?	7389	bird --> focal taxa survey protocol s --> [u'Point count survey (Laurent 2005)', u'North American Breeding Bird Survey protocol']	0
+which barcelona airport is closest to the port?	7389	bird --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification placement higher classification --> [u'Vertebrate']	0
+which barcelona airport is closest to the port?	7389	bird --> context name official name --> [u'Bird']	0
+which barcelona airport is closest to the port?	7389	bird --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+which barcelona airport is closest to the port?	7389	bird --> valuenotation has no value --> [u'Official website']	0
+which barcelona airport is closest to the port?	7389	bird --> webpage uri --> [u'http://www.holidaysongsandstories.com/morespecialdays/birdday.html']	0
+which barcelona airport is closest to the port?	7389	bird --> bird taxa hummingbird --> [u'0']	0
+which barcelona airport is closest to the port?	7389	bird --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi8SJwpEbGdrcN5Y29ycA']	0
+which barcelona airport is closest to the port?	7389	bird --> taxonomy entry low --> [u'671', u'871']	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification higher classification --> [u'Avialae']	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification placement lower classification --> [u'Anseriformes', u'Piciformes']	0
+which barcelona airport is closest to the port?	7389	bird --> object name --> [u'Bird']	0
+which barcelona airport is closest to the port?	7389	bird --> topic image --> [u'Dendroica-petechia-001', u'SArchaeopteryxBerlin2', u'Cardinal', u'Juvenile Superb Fairy-wren']	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification rank --> [u'Class']	1
+which barcelona airport is closest to the port?	7389	bird --> focal taxa conservation projects --> [u'Population genetics of selected Appalachian species', u'Hermit Thrush, Catharus guttatus, and Veery, C. fuscescens, habitat associations in a dynamic Southern Appalachian Spruce-fir Forest', u'Breeding habitats and biology of the Golden-winged Warbler in the Appalachian highlands of upper East Tennessee', u'Status Assessment of Golden-winged Warblers and Bewick\u2019s Wrens in Virginia', u'Inventory of Bird Communities within High Elevation Sites of Virginia']	0
+which barcelona airport is closest to the port?	7389	bird --> film subject films --> [u'Birdemic: Shock and Terror', u'The Birds']	0
+which barcelona airport is closest to the port?	7389	bird --> animal disease triangle animal disease cause --> [u'Influenzavirus A', u'Chlamydophila psittaci', u'Gallid herpesvirus 1', u'Avian infectious bronchitis virus']	0
+which barcelona airport is closest to the port?	7389	bird --> organism classification lower classifications --> [u'Apodiformes', u'Trogoniformes', u'Cuculiformes', u'Falconiformes', u'Ratite']	0
+which barcelona airport is closest to the port?	7389	bird --> database topic database s for this topic --> [u'eBird Puerto Rico', u'California eBird', u'Breeding Bird Atlas Explorer', u'Section Survey', u'Cal/Ecotox']	0
+which barcelona airport is closest to the port?	7389	bird --> book subject works --> [u'Sudden Death: Northern Hemisphere', u'South Carolina Comprehensive Wildlife Conservation Strategy 2005 - 2010', u'Birds of Conservation Concern 2008', u'Soaring with the wind', u'AOU Checklist of North American Birds']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> computer videogame gameplay modes --> [u'Multiplayer video game']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> ranking list --> [u'IGN Top 100 Games of All Time']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> topic alias --> [u'Half-Life: Counter-Strike']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> computer videogame release date --> [u'2003-11-18']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> computer videogame designers --> [u'Jess Cliffe']	1
+which barcelona airport is closest to the port?	7389	counter-strike --> webpage category --> [u'Curated Topic']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> computer videogame versions --> [u'Counter-Strike', u'Counter-Strike']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> computer videogame cvg genre --> [u'Action game', u'Shooter game', u'First-person Shooter', u'Tactical shooter']	2
+which barcelona airport is closest to the port?	7389	counter-strike --> object name --> [u'Counter-Strike']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> computer videogame developer --> [u'Valve Corporation']	10
+which barcelona airport is closest to the port?	7389	counter-strike --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> ranking rank --> [u'71']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> computer videogame uses game engine --> [u'GoldSrc']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> computer videogame publisher --> [u'Microsoft Studios', u'Vivendi']	0
+which barcelona airport is closest to the port?	7389	counter-strike --> ranking year --> [u'2005']	0
+which barcelona airport is closest to the port?	7389	barcelona --> transportation transport operator --> [u'Barcelona Nord']	0
+which barcelona airport is closest to the port?	7389	barcelona --> bibs location loc type --> [u'City']	0
+which barcelona airport is closest to the port?	7389	barcelona --> travel destination monthly climate average max temp c --> [u'13', u'14', u'16', u'17', u'20']	0
+which barcelona airport is closest to the port?	7389	barcelona --> location events --> [u'Battle of Les Formigues', u'X Games Barcelona', u'1992 Summer Olympics', u'Siege of Barcelona', u"Athletics at the 1992 Summer Olympics - Women's Discus Throw"]	722
+which barcelona airport is closest to the port?	7389	barcelona --> location contains --> [u'Casa Negri', u'Barcelona Business School', u'University of Barcelona', u'City Hall', u'The Four Columns']	13
+which barcelona airport is closest to the port?	7389	barcelona --> topic alias --> [u'Barcelone', u'Barna', u'Barcelona, Spain']	0
+which barcelona airport is closest to the port?	7389	barcelona --> location area --> [u'101.9']	0
+which barcelona airport is closest to the port?	7389	barcelona --> place mention page number --> [u'66']	0
+which barcelona airport is closest to the port?	7389	barcelona --> location people born here --> [u'Carles Gusi', u'Anna Gras', u'Laia Gonz\xe0lez', u'Jose Mediavilla', u'Lydia Bosch']	0
+which barcelona airport is closest to the port?	7389	barcelona --> government position held to --> [u'1744-01-19']	0
+which barcelona airport is closest to the port?	7389	barcelona --> travel destination local transportation --> [u'Barcelona Metro']	32
+which barcelona airport is closest to the port?	7389	barcelona --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag']	0
+which barcelona airport is closest to the port?	7389	barcelona --> government position held basic title --> [u'Governor']	0
+which barcelona airport is closest to the port?	7389	barcelona --> transportation transport terminus --> [u'Barcelona\u2013El Prat Airport', u'Muelle de Barcelona', u'Barcelona Estaci\xf3 de Fran\xe7a', u'Barcelona Sants railway station', u"Carrer d'Al\xed Bei, 80"]	1
+which barcelona airport is closest to the port?	7389	barcelona --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLC5wpEbGdrcN5Y29ycA']	0
+which barcelona airport is closest to the port?	7389	barcelona --> place mention description --> [u"Passing mention in Sophie's logbook"]	0
+which barcelona airport is closest to the port?	7389	barcelona --> travel destination tourist attractions --> [u"Pla\xe7a d'Espanya, Barcelona", u'Sagrada Fam\xedlia', u'Park G\xfcell', u'Casa Mil\xe0', u'Tibidabo']	3
+which barcelona airport is closest to the port?	7389	barcelona --> location time zones --> [u'Central European Time']	1
+which barcelona airport is closest to the port?	7389	barcelona --> topic official website --> [u'http://www.barcelona.cat/', u'http://www.bcn.cat/en/ihome.htm']	0
+which barcelona airport is closest to the port?	7389	barcelona --> webpage description --> [u'Visitor Information']	0
+which barcelona airport is closest to the port?	7389	barcelona --> geocode longitude --> [u'2.169941']	0
+which barcelona airport is closest to the port?	7389	barcelona --> film location featured in films --> [u'Perfume: The Story of a Murderer', u'The Machinist', u'The Passenger', u'25 Carat', u'Little Ashes']	0
+which barcelona airport is closest to the port?	7389	barcelona --> ontology instance mapping ontology --> [u'OpenCyc']	0
+which barcelona airport is closest to the port?	7389	barcelona --> webpage resource --> [u"Michael Jackson's death inspires live shows", u'Lindsay Lohan Appointed Emanuel Ungaro\u2019s New Artistic Advisor: \u201cSo What, She Crashed Her Car?\u201d', u'Visitor Information', u"Manu Chao's 'Kill'-er remixes", u"Guillermo del Toro to produce Spanish thriller 'Julia's Eyes'"]	0
+which barcelona airport is closest to the port?	7389	barcelona --> location containedby --> [u'Spain', u'Catalonia', u'Province of Barcelona']	1466
+which barcelona airport is closest to the port?	7389	barcelona --> dated integer source --> [u'The National Institute of Statistics, Spain']	0
+which barcelona airport is closest to the port?	7389	barcelona --> travel destination monthly climate average rainfall mm --> [u'27', u'37', u'38', u'44', u'47']	0
+which barcelona airport is closest to the port?	7389	barcelona --> newspaper circulation area newspapers --> [u'La Raz\xf3n', u'Qu\xe9!', u'ADN', u'El Peri\xf3dico de Catalunya', u'Avui']	0
+which barcelona airport is closest to the port?	7389	barcelona --> top architectural city structure count --> [u'3']	0
+which barcelona airport is closest to the port?	7389	barcelona --> bibs location country --> [u'Spain']	1182
+which barcelona airport is closest to the port?	7389	barcelona --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+which barcelona airport is closest to the port?	7389	barcelona --> government position held from --> [u'1737-11-17']	0
+which barcelona airport is closest to the port?	7389	barcelona --> geocode latitude --> [u'41.385669']	0
+which barcelona airport is closest to the port?	7389	barcelona --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel', u'Ferry']	0
+which barcelona airport is closest to the port?	7389	barcelona --> person metaweb user s --> [u'robertg69']	0
+which barcelona airport is closest to the port?	7389	barcelona --> administrative area administrative parent --> [u'Province of Barcelona']	6
+which barcelona airport is closest to the port?	7389	barcelona --> webpage uri --> [u'http://wikitravel.org/en/Barcelona', u'http://www.bcn.cat/']	0
+which barcelona airport is closest to the port?	7389	barcelona --> place mention chapter --> [u'2']	0
+which barcelona airport is closest to the port?	7389	barcelona --> administrative area administrative area type --> [u'City/Town/Village']	0
+which barcelona airport is closest to the port?	7389	barcelona --> place mention book --> [u'Master and Commander']	0
+which barcelona airport is closest to the port?	7389	barcelona --> topic topical webpage --> [u'http://wikitravel.org/en/Barcelona']	0
+which barcelona airport is closest to the port?	7389	barcelona --> administrative division capital relationship administrative division --> [u'Catalonia', u'Province of Barcelona', u'Barcelon\xe8s']	526
+which barcelona airport is closest to the port?	7389	barcelona --> government position held office holder --> [u'Jorge Pr\xf3spero de Verboon']	0
+which barcelona airport is closest to the port?	7389	barcelona --> sports team location teams --> [u'FC Barcelona', u'FC Barcelona B\xe0squet']	47
+which barcelona airport is closest to the port?	7389	barcelona --> location nearby airports --> [u'Barcelona\u2013El Prat Airport']	0
+which barcelona airport is closest to the port?	7389	barcelona --> travel destination monthly climate average min temp c --> [u'4', u'5', u'6', u'7', u'8']	0
+which barcelona airport is closest to the port?	7389	barcelona --> object name --> [u'Barcelona']	0
+which barcelona airport is closest to the port?	7389	barcelona --> topic image --> [u'Barcelona', u'BCN01 edit1', u'Barcelona intro']	0
+which barcelona airport is closest to the port?	7389	barcelona --> olympic host city olympics hosted --> [u'1992 Summer Olympics']	721
+which barcelona airport is closest to the port?	7389	barcelona --> bibs location is clear --> [u'1']	0
+which barcelona airport is closest to the port?	7389	barcelona --> dated integer number --> [u'37000', u'54000', u'111410', u'130000', u'140000']	0
+which barcelona airport is closest to the port?	7389	barcelona --> dated integer year --> [u'1996', u'1998', u'1999', u'2000', u'2001']	0
+which barcelona airport is closest to the port?	7389	barcelona --> administrative division country --> [u'Spain']	1182
+which barcelona airport is closest to the port?	7389	barcelona --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0
+which barcelona airport is closest to the port?	7389	barcelona --> citytown postal codes --> [u'08021', u'08005']	0
+which barcelona airport is closest to the port?	7389	airport --> ontology instance mapping ontology --> [u'OpenCyc']	0
+which barcelona airport is closest to the port?	7389	airport --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4ruQS1AL_QQdeZXf-MIWWdng']	0
+which barcelona airport is closest to the port?	7389	airport --> object name --> [u'Airport']	0
+which barcelona airport is closest to the port?	7389	airport --> topic image --> [u'An aerial view of Incheon International Airport, a large airport', u'DSCF1934d submitted', u'SFO at night']	0
+which barcelona airport is closest to the port?	7389	airport --> film subject films --> [u'F.P.1']	0
+which barcelona airport is closest to the port?	7389	airport --> vocabulary equivalent topic equivalent concept --> [u'Airports']	0
+which barcelona airport is closest to the port?	7389	airport --> linguistic hint subject form --> [u'Airports']	0
+which barcelona airport is closest to the port?	7389	airport --> equivalent topic equivalent type --> [u'Airport']	0
+which barcelona airport is closest to the port?	7389	airport --> book subject works --> [u"F.P.1 Doesn't Respond", u'Airports: A Century of Architecture']	0
+which barcelona airport is closest to the port?	7389	port --> webpage resource --> [u'\u201cThe Cove\u201d Star Ric O\u2019Barry on Dolphins, the Media, and Angry Japanese Fisherman']	0
+which barcelona airport is closest to the port?	7389	port --> equivalent topic equivalent domain --> [u'Ports of Call']	0
+which barcelona airport is closest to the port?	7389	port --> topic alias --> [u'Bandar']	0
+which barcelona airport is closest to the port?	7389	port --> object name --> [u'Port']	0
+which barcelona airport is closest to the port?	7389	port --> topic image --> [u'Lorrain']	0
+which barcelona airport is closest to the port?	7389	port --> webpage in index --> [u'WSJ Speakeasy Index']	0
+which barcelona airport is closest to the port?	7389	port --> topic subject of --> [u'Coastal Breakwater Harbor', u'River Natural Harbor', u'Canal (Lake) Harbor', u'River Tide Gate Harbor', u'Coastal Natural Harbor']	0
+which barcelona airport is closest to the port?	7389	port --> equivalent topic equivalent type --> [u'Port of Call']	0
+which barcelona airport is closest to the port?	7389	airport --> topic official website --> [u'http://www.apple.com/wifi']	0
+which barcelona airport is closest to the port?	7389	airport --> topic image --> [u'Apple graphite airport base station front', u'Chipsets']	0
+which barcelona airport is closest to the port?	7389	airport --> object name --> [u'AirPort']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position player --> [u'Deco', u'Alexis S\xe1nchez', u'Jos\xe9 Manuel Pinto', u'Txiki Begiristain', u'Thiago Alc\xe2ntara']	10
+which barcelona airport is closest to the port?	7389	fc barcelona --> team training ground relationship from --> [u'2009-01-19']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position to --> [u'1978', u'1979', u'1982', u'1984', u'1988']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> topic social media presence --> [u'http://plus.google.com/116151548242653888082']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> mailing address citytown --> [u'Barcelona']	47
+which barcelona airport is closest to the port?	7389	fc barcelona --> leadership from --> [u'2010']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> topic alias --> [u'Barcelona', u'Blaugrana', u'Bar\xe7a', u'FCB', u'Futbol Club Barcelona']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position position --> [u'Defender', u'Midfielder', u'Forward', u'Goalkeeper']	98
+which barcelona airport is closest to the port?	7389	fc barcelona --> football team management tenure manager --> [u'Gerardo Martino', u'John Barrow', u'Ljubi\u0161a Bro\u0107i\u0107', u'Johan Cruijff', u'Richard Kohn']	22
+which barcelona airport is closest to the port?	7389	fc barcelona --> employment tenure to --> [u'1995']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> organization date founded --> [u'1899-11-29']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team founded --> [u'1899-11-29']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football player transfer purchasing team --> [u'Arsenal F.C.']	58
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team coach tenure position --> [u'Goalkeeping coach', u'Fitness Coach']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position position --> [u'Defender', u'Midfielder', u'Forward', u'Goalkeeper']	98
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports league participation league --> [u'La Liga']	211
+which barcelona airport is closest to the port?	7389	fc barcelona --> football team management tenure from --> [u'1924', u'1983-03', u'1984-06', u'1996-05', u'1997-06']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position to --> [u'1978', u'1979', u'1984', u'1988', u'1989']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> leadership role --> [u'President']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster to --> [u'1978', u'1979', u'1984', u'1988', u'1989']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position total goals --> [u'0', u'1', u'2', u'3', u'4']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position player --> [u'Deco', u'Alexis S\xe1nchez', u'Jos\xe9 Manuel Pinto', u'Txiki Begiristain', u'Thiago Alc\xe2ntara']	10
+which barcelona airport is closest to the port?	7389	fc barcelona --> organization founders --> [u'Joan Gamper']	10
+which barcelona airport is closest to the port?	7389	fc barcelona --> object name --> [u'FC Barcelona']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> webpage category --> [u'Topic Webpage', u'Official Website']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> mailing address postal code --> [u'08028']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> team training ground relationship facility --> [u'Ciutat Esportiva Joan Gamper']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster from --> [u'1973', u'1978', u'1980', u'1982', u'1986']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> leadership title --> [u'Club President']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster position --> [u'Defender', u'Midfielder', u'Forward', u'Goalkeeper']	98
+which barcelona airport is closest to the port?	7389	fc barcelona --> football league participation league --> [u'La Liga']	211
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster player --> [u'Deco', u'Alexis S\xe1nchez', u'Jos\xe9 Manuel Pinto', u'Txiki Begiristain', u'Thiago Alc\xe2ntara']	10
+which barcelona airport is closest to the port?	7389	fc barcelona --> topic official website --> [u'http://www.fcbarcelona.com']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> webpage description --> [u'FC Barcelona']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team championships --> [u'2009 UEFA Champions League Final', u'1959\u201360 La Liga', u'2011 UEFA Champions League Final', u'2006 UEFA Champions League Final', u'1929 La Liga']	47
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position number --> [u'1', u'2', u'3', u'4', u'5']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> webpage resource --> [u'FC Barcelona']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team sport --> [u'Football']	33
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster number --> [u'2', u'1', u'10', u'11', u'12']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position appearances --> [u'0', u'1', u'2', u'3', u'4']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position from --> [u'1973', u'1978', u'1979', u'1980', u'1982']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position number --> [u'1', u'2', u'3', u'4', u'5']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team coach tenure coach --> [u'Paco Seiru\u0140lo', u'Jos\xe9 Ram\xf3n de la Fuente', u'Francesc Cos', u'Eduardo Pons', u'Aureli Altimiraz']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football team management tenure to --> [u'1924', u'1983-03', u'1984-06', u'1996-05', u'1997-06']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> context name official name --> [u'Futbol Club Barcelona']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team colors --> [u'Blue', u'Scarlet']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position from --> [u'1973', u'1978', u'1980', u'1982', u'1986']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster number --> [u'2', u'1', u'10', u'11', u'12']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position total goals --> [u'0', u'1', u'2', u'3', u'4']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> leadership person --> [u'Sandro Rosell']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports award season --> [u'2012\u201313 La Liga']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> webpage uri --> [u'http://www.fcbarcelona.com']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> employment tenure person --> [u'Rom\xe1rio']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team arena stadium --> [u'Camp Nou']	88
+which barcelona airport is closest to the port?	7389	fc barcelona --> context name nickname --> [u'Barcelona', u'Blaugrana', u'Bar\xe7a']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster player --> [u'Deco', u'Rivaldo', u'Alexis S\xe1nchez', u'Jos\xe9 Manuel Pinto', u'Txiki Begiristain']	20
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team location --> [u'Barcelona']	47
+which barcelona airport is closest to the port?	7389	fc barcelona --> mailing address street address --> [u'Av. Ar\xedstides Maillol']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster position --> [u'Defender', u'Midfielder', u'Forward', u'Goalkeeper']	98
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster from --> [u'1973', u'1978', u'1980', u'1982', u'1986']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> mailing address country --> [u'Spain']	38
+which barcelona airport is closest to the port?	7389	fc barcelona --> topic image --> [u'Bar\xe7a.jpg']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> employment tenure from --> [u'1993']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football player transfer player --> [u'Cesc F\xe0bregas']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> football roster position appearances --> [u'0', u'1', u'2', u'3', u'4']	0
+which barcelona airport is closest to the port?	7389	fc barcelona --> mailing address state province region --> [u'Catalonia']	99
+which barcelona airport is closest to the port?	7389	fc barcelona --> sports team roster to --> [u'1978', u'1979', u'1984', u'1988', u'1989']	0
+which barcelona airport is closest to the port?	7389	porting --> object name --> [u'Porting']	0

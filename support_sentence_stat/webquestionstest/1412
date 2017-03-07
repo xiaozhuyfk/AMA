@@ -1,0 +1,27 @@
+who developed the tcp ip reference model?	10	internet protocol suite --> ontology instance mapping ontology --> [u'OpenCyc']	0
+who developed the tcp ip reference model?	10	internet protocol suite --> object name --> [u'Internet protocol suite']	0
+who developed the tcp ip reference model?	10	internet protocol suite --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvWLk_JwpEbGdrcN5Y29ycA']	0
+who developed the tcp ip reference model?	10	internet protocol suite --> topic alias --> [u'TCP/IP', u'DoD model', u'TCP/IP model']	0
+who developed the tcp ip reference model?	10	internet protocol suite --> internet protocol software used by --> [u'Hikarunix', u'OpenSSH', u'Twisted', u'socat', u'BitComet']	0
+who developed the tcp ip reference model?	10	reference model --> object name --> [u'Reference model']	0
+who developed the tcp ip reference model?	10	transmission control protocol --> ontology instance mapping ontology --> [u'OpenCyc']	0
+who developed the tcp ip reference model?	10	transmission control protocol --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rv6bbn5wpEbGdrcN5Y29ycA']	0
+who developed the tcp ip reference model?	10	transmission control protocol --> topic alias --> [u'TCP']	0
+who developed the tcp ip reference model?	10	transmission control protocol --> invention inventor --> [u'Robert  E. Kahn', u'Vint Cerf']	5
+who developed the tcp ip reference model?	10	transmission control protocol --> object name --> [u'Transmission Control Protocol']	0
+who developed the tcp ip reference model?	10	transmission control protocol --> topic image --> [u'Tcp state diagram']	0
+who developed the tcp ip reference model?	10	transmission control protocol --> internet protocol software used by --> [u'Berkeley Open Infrastructure for Network Computing']	0
+who developed the tcp ip reference model?	10	transmission control protocol --> original idea innovator --> [u'Robert  E. Kahn', u'Vint Cerf']	5
+who developed the tcp ip reference model?	10	model --> webpage resource --> [u"'Models of the Runway': Should Megan have spoken?", u'Trend Watch: Celebrity weds barefoot', u"'America's Next Top Model': Petite Ninja Warriors", u"'America's Next Top Model' recap: The sea was angry that day", u'\u201cProject Runway\u201d Season 6, Episode 4 TV Recap']	0
+who developed the tcp ip reference model?	10	model --> profession people with this profession --> [u'Yukari Kuzuya', u'Rozanne Diasz', u'Cindy Fabre', u'Weniecka Ewing', u'Carina Beduschi']	0
+who developed the tcp ip reference model?	10	model --> profession specialization of --> [u'Performer']	0
+who developed the tcp ip reference model?	10	model --> job title professions --> [u'Fashion']	0
+who developed the tcp ip reference model?	10	model --> webpage category --> [u'Tag']	0
+who developed the tcp ip reference model?	10	model --> profession specializations --> [u'Fashion Model', u'Nude Glamour Model', u'Pin-up girl', u'uk glamour model', u'Art Model']	0
+who developed the tcp ip reference model?	10	model --> object name --> [u'Model']	0
+who developed the tcp ip reference model?	10	model --> topic image --> [u'GiseleBundchen', u'sonyachubenko.jpg', u'Ana Beatriz Barros by David Shankbone', u'ModelsCatwalk', u'101.JPG']	0
+who developed the tcp ip reference model?	10	model --> tv subject tv programs --> [u"Canada's Next Top Model"]	0
+who developed the tcp ip reference model?	10	model --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+who developed the tcp ip reference model?	10	model --> vocabulary equivalent topic equivalent concept --> [u'Models (Persons)']	0
+who developed the tcp ip reference model?	10	model --> book subject works --> [u'Crystal']	0
+who developed the tcp ip reference model?	10	model --> character occupation characters with this occupation --> [u'Misa Amane', u'Junpei Oribe', u'Olivia Schneider', u'Jennifer Munson Donovan', u'Michael Kelso']	0

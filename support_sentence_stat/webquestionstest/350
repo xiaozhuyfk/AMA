@@ -1,0 +1,15 @@
+where do they speak afrikaans?	161	they speak --> object name --> [u'They Speak']	0
+where do they speak afrikaans?	161	they speak --> object name --> [u'They Speak']	0
+where do they speak afrikaans?	161	afrikaans language --> ontology instance mapping ontology --> [u'OpenCyc']	0
+where do they speak afrikaans?	161	afrikaans language --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjS_pwpEbGdrcN5Y29ycA']	0
+where do they speak afrikaans?	161	afrikaans language --> languoid languoid class --> [u'Language']	0
+where do they speak afrikaans?	161	afrikaans language --> human language language family --> [u'West Germanic languages', u'Germanic languages', u'Indo-European languages']	9
+where do they speak afrikaans?	161	afrikaans language --> human language main country --> [u'South Africa', u'Namibia']	133
+where do they speak afrikaans?	161	afrikaans language --> languoid document --> [u'Afrikaans Glossed Text', u'Afrikaans Detailed Description', u'Afrikaans', u'Afrikaans Colors', u'Afrikaans Vocabulary']	0
+where do they speak afrikaans?	161	afrikaans language --> topic alias --> [u'Afrikaans', u'Afrikaans language']	0
+where do they speak afrikaans?	161	afrikaans language --> languoid parent --> [u'Low Franconian Group']	0
+where do they speak afrikaans?	161	afrikaans language --> context name short name --> [u'Afrikaans']	0
+where do they speak afrikaans?	161	afrikaans language --> human language region --> [u'Africa']	2
+where do they speak afrikaans?	161	afrikaans language --> object name --> [u'Afrikaans Language']	0
+where do they speak afrikaans?	161	afrikaans language --> languoid local name --> [u'Afrikaans', u'Afrikaans', u'Afrikaans', u'Afrikaans', u'Afrikaans']	0
+where do they speak afrikaans?	161	afrikaans language --> human language countries spoken in --> [u'Botswana', u'Namibia', u'Malawi', u'Zambia', u'Transkei']	17

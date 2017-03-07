@@ -1,0 +1,112 @@
+who is in the american league in baseball?	1428	american league --> baseball league teams --> [u'Chicago White Sox', u'Cleveland Indians', u'Kansas City Royals', u'Minnesota Twins', u'Oakland Athletics']	256
+who is in the american league in baseball?	1428	american league --> ontology instance mapping ontology --> [u'OpenCyc']	0
+who is in the american league in baseball?	1428	american league --> webpage resource --> [u"Ratings: 'NCIS' siblings win for CBS"]	0
+who is in the american league in baseball?	1428	american league --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjvfpwpEbGdrcN5Y29ycA']	0
+who is in the american league in baseball?	1428	american league --> sports league participation team --> [u'Chicago White Sox', u'Cleveland Indians', u'Kansas City Royals', u'Minnesota Twins', u'Kansas City Athletics']	224
+who is in the american league in baseball?	1428	american league --> baseball league divisions --> [u'American League Central', u'American League West', u'American League East']	93
+who is in the american league in baseball?	1428	american league --> employment tenure person --> [u'Rico Zuccaro', u'John Quinn', u'Bill McKinley', u'Grover Froese', u'Cal Drummond']	1
+who is in the american league in baseball?	1428	american league --> organization relationship parent --> [u'Major League Baseball']	303
+who is in the american league in baseball?	1428	american league --> organization founders --> [u'Ban Johnson']	27
+who is in the american league in baseball?	1428	american league --> organization relationship child --> [u'American League Central', u'American League West', u'American League East']	93
+who is in the american league in baseball?	1428	american league --> sports league championship --> [u'American League Championship Series']	7
+who is in the american league in baseball?	1428	american league --> object name --> [u'American League']	0
+who is in the american league in baseball?	1428	american league --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+who is in the american league in baseball?	1428	american league --> baseball league sports league --> [u'Major League Baseball']	303
+who is in the american league in baseball?	1428	american league --> sports league sport --> [u'Baseball']	5
+who is in the american league in baseball?	1428	american league --> daylife hero image id --> [u'0gLe9k51dL5wD']	0
+who is in the american league in baseball?	1428	isin --> object name --> [u'Isin']	0
+who is in the american league in baseball?	1428	isin --> geocode latitude --> [u'31.9333333333']	0
+who is in the american league in baseball?	1428	isin --> geocode longitude --> [u'45.2833333333']	0
+who is in the american league in baseball?	1428	isin --> location containedby --> [u'Iraq']	0
+who is in the american league in baseball?	1428	cinema of the united states --> topic subject of --> [u'S.J. Main']	0
+who is in the american league in baseball?	1428	cinema of the united states --> object name --> [u'Cinema of the United States']	0
+who is in the american league in baseball?	1428	cinema of the united states --> topic image --> [u'Golden Age of Hollywood']	0
+who is in the american league in baseball?	1428	cinema of the united states --> book subject works --> [u"The Parade's Gone By . . .", u'The Genius of the System: Hollywood Filmmaking in the Studio Era', u"When the Shooting Stops...the Cutting Begins: A Film Editor's Story", u'Between Flops: A Biography of Preston Sturges', u"Easy Riders, Raging Bulls: How the Sex-Drugs-And Rock 'N Roll Generation Saved Hollywood"]	0
+who is in the american league in baseball?	1428	cinema of the united states --> film subject films --> [u'Souls for Sale', u'Reel Injun', u'The Audrey Hepburn Story', u'Shrink', u'The Carpetbaggers']	0
+who is in the american league in baseball?	1428	international securities identification number --> object name --> [u'International Securities Identification Number']	0
+who is in the american league in baseball?	1428	international securities identification number --> topic alias --> [u'ISIN']	0
+who is in the american league in baseball?	1428	german federal election march 1933 --> object name --> [u'German federal election, March 1933']	0
+who is in the american league in baseball?	1428	german federal election march 1933 --> topic image --> [u'In 33 of 35 constituencies, the Nazi Party was strongest.', u'Adolf Hitler cph 3a48970']	0
+who is in the american league in baseball?	1428	german federal election march 1933 --> topic alias --> [u'German election, 1933', u'German election, March 1933']	0
+who is in the american league in baseball?	1428	german federal election march 1933 --> event start date --> [u'1933-03-05']	0
+who is in the american league in baseball?	1428	the american --> book genre --> [u'Novel']	0
+who is in the american league in baseball?	1428	the american --> written work subjects --> [u'France']	0
+who is in the american league in baseball?	1428	the american --> written work author --> [u'Henry James']	6
+who is in the american league in baseball?	1428	the american --> written work date of first publication --> [u'1877-05-05']	0
+who is in the american league in baseball?	1428	the american --> object name --> [u'The American']	0
+who is in the american league in baseball?	1428	the american --> written work original language --> [u'English Language']	0
+who is in the american league in baseball?	1428	the american --> book editions --> [u'The American', u'The American', u'The American', u'The American', u'The American']	0
+who is in the american league in baseball?	1428	the american --> adapted work adaptations --> [u'The American']	0
+who is in the american league in baseball?	1428	lewis cass --> person date of birth --> [u'1782-10-09']	0
+who is in the american league in baseball?	1428	lewis cass --> person profession --> [u'Lawyer', u'Politician']	0
+who is in the american league in baseball?	1428	lewis cass --> government position held basic title --> [u'Governor', u'Senator', u'Secretary of State', u'Ambassador', u'President pro tempore']	2
+who is in the american league in baseball?	1428	lewis cass --> person gender --> [u'Male']	0
+who is in the american league in baseball?	1428	lewis cass --> author works written --> [u'An examination of the question, now in discussion, between the American and British governments, concerning the rights of search', u'A discourse, delivered at the first meeting of the Historical Society of Michigan, Sept. 18, 1829']	0
+who is in the american league in baseball?	1428	lewis cass --> person nationality --> [u'United States of America']	4
+who is in the american league in baseball?	1428	lewis cass --> deceased person date of death --> [u'1866-06-17']	0
+who is in the american league in baseball?	1428	lewis cass --> deceased person place of death --> [u'Detroit']	0
+who is in the american league in baseball?	1428	lewis cass --> government position held governmental body --> [u'United States Department of State', u'United States Senate', u'Cabinet of the United States']	7
+who is in the american league in baseball?	1428	lewis cass --> government position held jurisdiction of office --> [u'United States of America', u'Michigan Territory']	19
+who is in the american league in baseball?	1428	lewis cass --> government position held office position or title --> [u'President pro tempore of the United States Senate', u'United States Senator', u'United States Secretary of State', u'Governor of Michigan', u'United States Ambassador to France']	7
+who is in the american league in baseball?	1428	lewis cass --> political party tenure party --> [u'Democratic Party']	14
+who is in the american league in baseball?	1428	lewis cass --> government position held appointed by --> [u'James Buchanan', u'Andrew Jackson']	11
+who is in the american league in baseball?	1428	lewis cass --> government position held legislative sessions --> [u'29th United States Congress', u'30th United States Congress', u'32nd United States Congress', u'31st United States Congress', u'33rd United States Congress']	0
+who is in the american league in baseball?	1428	lewis cass --> politician election campaigns --> [u'Lewis Cass Presidential Campaign, 1848']	0
+who is in the american league in baseball?	1428	lewis cass --> government position held from --> [u'1845-03-04', u'1849-03-04', u'1857-03-06', u'1854-12-04', u'1813-10-29']	0
+who is in the american league in baseball?	1428	lewis cass --> person place of birth --> [u'Exeter']	1
+who is in the american league in baseball?	1428	lewis cass --> education institution --> [u'Phillips Exeter Academy']	0
+who is in the american league in baseball?	1428	lewis cass --> person quotations --> [u'People may doubt what you say, but they will believe what you do.']	0
+who is in the american league in baseball?	1428	lewis cass --> name source namesakes --> [u'Detroit', u'Cass County', u'Cass County', u'Casstown', u'Fort Cass']	3
+who is in the american league in baseball?	1428	lewis cass --> person parents --> [u'Jonathan Cass']	1
+who is in the american league in baseball?	1428	lewis cass --> government position held to --> [u'1860-12-14', u'1831-08-01', u'1857-03-04', u'1848-05-29', u'1854-12-05']	0
+who is in the american league in baseball?	1428	lewis cass --> place lived location --> [u'Exeter']	1
+who is in the american league in baseball?	1428	lewis cass --> object name --> [u'Lewis Cass']	0
+who is in the american league in baseball?	1428	lewis cass --> topic image --> [u'Lewis Cass', u'Lewis Cass', u'Lewis Cass']	0
+who is in the american league in baseball?	1428	lewis cass --> government position held district represented --> [u'Michigan']	22
+who is in the american league in baseball?	1428	inthe --> object name --> [u'Inthe']	0
+who is in the american league in baseball?	1428	baseball --> topic subjects --> [u'Slide']	0
+who is in the american league in baseball?	1428	baseball --> equivalent topic equivalent domain --> [u'Baseball']	0
+who is in the american league in baseball?	1428	baseball --> topic alias --> [u'baseball']	0
+who is in the american league in baseball?	1428	baseball --> computer game subject games --> [u'Ultimate Baseball Online', u'Tommy Lasorda Baseball', u'The Bigs', u"Cal Ripken's Real Baseball", u'Mario Super Sluggers']	0
+who is in the american league in baseball?	1428	baseball --> tv subject tv programs --> [u'Baseball', u'Team Astro', u'Baseball: The Tenth Inning']	0
+who is in the american league in baseball?	1428	baseball --> sport leagues --> [u'Korea Baseball Association', u'Federaci\xf3n de B\xe9isbol Aficionado de Puerto Rico', u'Central Illinois Collegiate League', u'Japanese Baseball League', u'Eastern League']	1
+who is in the american league in baseball?	1428	baseball --> vocabulary equivalent topic equivalent concept --> [u'Baseball', u'Baseballs', u'Baseball']	0
+who is in the american league in baseball?	1428	baseball --> pro sports played career end --> [u'1905', u'1910', u'1919', u'1953', u'1957']	0
+who is in the american league in baseball?	1428	baseball --> organization sector organizations in this sector --> [u'International Baseball Federation']	1
+who is in the american league in baseball?	1428	baseball --> periodical subject periodicals --> [u'Baseball America', u'Elysian Fields Quarterly', u'Baseball Digest', u'Baseball Magazine', u'Baseball Hobby News']	1
+who is in the american league in baseball?	1428	baseball --> sport related equipment --> [u'Baseball bat', u'Batting helmet']	1
+who is in the american league in baseball?	1428	baseball --> pro sports played athlete --> [u'Ryan Houston', u'Brett Tamburrino', u'Luke Gorsett', u'Giorvis Duvergel', u'Jed Hoyer']	0
+who is in the american league in baseball?	1428	baseball --> profession specialization of --> [u'Sports']	3
+who is in the american league in baseball?	1428	baseball --> olympic sport olympic games contested --> [u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics', u'1992 Summer Olympics']	3
+who is in the american league in baseball?	1428	baseball --> netflix genre titles --> [u'ESPN Inside Access: Derek Jeter', u'For Love of the Game', u'The Benchwarmers', u"Oakland A's Vintage World Series Film", u'Jordan Rides the Bus']	0
+who is in the american league in baseball?	1428	baseball --> webpage description --> [u'New York Times']	0
+who is in the american league in baseball?	1428	baseball --> webpage category --> [u'Topic Webpage', u'Curated Topic']	0
+who is in the american league in baseball?	1428	baseball --> sport played by clubs --> [u'New York Yankees']	0
+who is in the american league in baseball?	1428	baseball --> sport positions --> [u'Shortstop', u'Third baseman', u'Catcher', u'Relief pitcher', u'Left fielder']	0
+who is in the american league in baseball?	1428	baseball --> topic subject of --> [u'Z\xfcrich Barracudas']	0
+who is in the american league in baseball?	1428	baseball --> cvg genre games --> [u'MLB Bobblehead Battle', u'Super Baseball Simulator 1.000', u'Pete Rose Baseball', u'MVP 07: NCAA Baseball', u'Bo Jackson Baseball']	0
+who is in the american league in baseball?	1428	baseball --> tv subject tv episodes --> [u'Four Days In October', u'Inning 2: Something Like a War', u'Inning 4: A National Heirloom', u'Inning 7: The Capital of Baseball', u'Inning 8: A Whole New Ballgame']	0
+who is in the american league in baseball?	1428	baseball --> topic comments --> [u'ZSI on Baseball']	0
+who is in the american league in baseball?	1428	baseball --> ontology instance mapping ontology --> [u'OpenCyc']	0
+who is in the american league in baseball?	1428	baseball --> webpage resource --> [u'The best big-screen ballplayers', u"'Eastbound & Down' is coming back: Get your F-bombs ready!", u"The best fall show you don't know you're going to love: Ken Burns' 'National Parks: America's Best Idea'", u'Harry Kalas, baseball and football announcer, dies at 73', u"Charles Barkley brings laughter to 'Jay Leno Show'"]	0
+who is in the american league in baseball?	1428	baseball --> sport officials --> [u'Mike DiMuro', u'Charlie Berry', u'Art Frantz', u'Jerry Crawford', u'Herm Doscher']	0
+who is in the american league in baseball?	1428	baseball --> olympic athlete affiliation athlete --> [u'Trevor Cahill', u'R. J. Swindle', u'Terry Tiffee', u'John Gall', u'Stubby Clapp']	0
+who is in the american league in baseball?	1428	baseball --> olympic sport kind --> [u'Summer']	0
+who is in the american league in baseball?	1428	baseball --> art subject artwork on the subject --> [u'Night Baseball']	0
+who is in the american league in baseball?	1428	baseball --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
+who is in the american league in baseball?	1428	baseball --> sport team coaches --> [u'Art Reichle', u'Tom Austin']	0
+who is in the american league in baseball?	1428	baseball --> sport teams --> [u'Arkansas Razorbacks baseball', u'Potros de Tijuana', u'Navegantes del Magallanes', u'Stratford Nationals', u'Edinburg Roadrunners']	0
+who is in the american league in baseball?	1428	baseball --> webpage uri --> [u'http://topics.nytimes.com/top/news/sports/baseball/index.html']	0
+who is in the american league in baseball?	1428	baseball --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkDP5wpEbGdrcN5Y29ycA']	0
+who is in the american league in baseball?	1428	baseball --> topic topical webpage --> [u'http://topics.nytimes.com/top/news/sports/baseball/index.html']	0
+who is in the american league in baseball?	1428	baseball --> book subject musical compositions about this topic --> [u'Take Me Out to the Ball Game']	1
+who is in the american league in baseball?	1428	baseball --> olympic sport events --> [u"Men's baseball"]	0
+who is in the american league in baseball?	1428	baseball --> profession job titles --> [u'Baseball player']	0
+who is in the american league in baseball?	1428	baseball --> olympic athlete affiliation country --> [u'Japan', u'United States of America', u'Canada', u'South Africa']	6
+who is in the american league in baseball?	1428	baseball --> object name --> [u'Baseball']	0
+who is in the american league in baseball?	1428	baseball --> topic image --> [u'A view of the playing field at Busch Stadium II St. Louis, Missouri']	0
+who is in the american league in baseball?	1428	baseball --> pro sports played career start --> [u'1903', u'1909', u'1939', u'1943', u'1945']	0
+who is in the american league in baseball?	1428	baseball --> olympic athlete affiliation olympics --> [u'2000 Summer Olympics', u'2004 Summer Olympics', u'2008 Summer Olympics']	1
+who is in the american league in baseball?	1428	baseball --> film subject films --> [u'The Comrades of Summer', u'For Love of the Game', u'The Benchwarmers', u'Dorf on the Diamond', u'Tiger Town']	0
+who is in the american league in baseball?	1428	baseball --> quotation subject quotations about this subject --> [u'Ninety percent of this game is half mental.', u'A baseball fan is a spectator sitting 500 feet from home plate Who can see better than an umpire standing five feet away.', u"If people don't want to come out to the ball park, nobody's going to stop them.", u"If the fans don't come out to the ball park, you can't stop them .", u"You can't think and hit the ball at the same time."]	0
+who is in the american league in baseball?	1428	baseball --> book subject works --> [u'Babe Ruth and the ice cream mess', u'Dog Days', u"Baseball's reliquary", u'Yankee Stadium', u'Snow in August']	0

@@ -1,0 +1,176 @@
+who does japan import from?	16393	japan --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+who does japan import from?	16393	japan --> government position held office position or title --> [u'Prime Minister of Japan', u'Emperor of Japan', u'Minister of Finance']	117
+who does japan import from?	16393	japan --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'2000 Summer Olympics', u'2004 Summer Olympics', u'2006 Winter Olympics']	158
+who does japan import from?	16393	japan --> bibs location loc type --> [u'Country']	0
+who does japan import from?	16393	japan --> dated percentage rate --> [u'0.020082', u'0.040041', u'0.09586', u'0.398434', u'0.794159']	0
+who does japan import from?	16393	japan --> geographic scope charities --> [u"Starlight Children's Foundation"]	0
+who does japan import from?	16393	japan --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+who does japan import from?	16393	japan --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> taxonomy entry prefix --> [u'DS']	0
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar']	12
+who does japan import from?	16393	japan --> competitor competition relationship rank --> [u'1', u'2']	0
+who does japan import from?	16393	japan --> location people born here --> [u'Akiyo Nishiura', u'Yasuhiro Imagawa', u'Yoshio Machida', u'Yuu Asakura', u'Eitaro Haga']	0
+who does japan import from?	16393	japan --> olympic medal honor medalist --> [u'Daichi Suzuki', u'Nobutaka Taguchi', u'Naoto Tajima', u'Hiroko Nambu', u'Satoko Tanaka']	1
+who does japan import from?	16393	japan --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who does japan import from?	16393	japan --> military command military conflict --> [u'World War II', u'Battle of Nanking']	487
+who does japan import from?	16393	japan --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+who does japan import from?	16393	japan --> dated kilowatt hour number --> [u'1110.263', u'1246.011', u'1317.931', u'1506.012', u'1676.446']	0
+who does japan import from?	16393	japan --> country fips  --> [u'JA']	0
+who does japan import from?	16393	japan --> location containedby --> [u'East Asia', u'Asia', u'Eurasia']	408
+who does japan import from?	16393	japan --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Cross-country skiing', u'Canoe Slalom', u'Rowing']	93
+who does japan import from?	16393	japan --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	1
+who does japan import from?	16393	japan --> organization membership organization --> [u'World Bank', u'G-20 major economies', u'Organisation for Economic Co-operation and Development', u'Asian Development Bank', u'African Development Bank']	10
+who does japan import from?	16393	japan --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> fictional setting fictional characters born here --> [u'Kimiko Nakamura', u'Ryu', u'Sailor Mercury', u'Sakura Kasugano', u'Kotetsu T. Kaburagi']	0
+who does japan import from?	16393	japan --> imports and exports date --> [u'2005', u'2006', u'2008', u'2009']	0
+who does japan import from?	16393	japan --> kingdom rulers --> [u'Emperor Uda', u'Emperor Reigen', u'Emperor Go-Suzaku', u'Emperor Seiwa', u'Emperor Kammu']	11
+who does japan import from?	16393	japan --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+who does japan import from?	16393	japan --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+who does japan import from?	16393	japan --> national anthem of a country official anthem since --> [u'1999']	0
+who does japan import from?	16393	japan --> military command military commander --> [u'Hideki T\u014dj\u014d', u'Iwane Matsui']	3
+who does japan import from?	16393	japan --> administrative area adjectival form --> [u'Japanese']	0
+who does japan import from?	16393	japan --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkCopwpEbGdrcN5Y29ycA']	0
+who does japan import from?	16393	japan --> bibs location is clear --> [u'0']	0
+who does japan import from?	16393	japan --> competitor competition relationship competitors --> [u'Yukifumi Murakami', u'Yoshimi Ozaki', u'Hiroyuki Tomita', u'Wakako Tsuchida', u'Masazumi Soejima']	1
+who does japan import from?	16393	japan --> olympic medal honor event --> [u"Gymnastics at the 1960 Summer Olympics \u2013 Men's vault", u"Swimming at the 1988 Summer Olympics \u2013 Men's 100 metre backstroke", u"Swimming at the 2012 Summer Olympics \u2013 Women's 100 metre breaststroke", u"Wrestling at the 2004 Summer Olympics - Men's Freestyle Featherweight", u"Gymnastics at the 1968 Summer Olympics \u2013 Men's artistic individual all-around"]	0
+who does japan import from?	16393	japan --> olympic participating country olympics participated in --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics', u'2008 Summer Olympics']	33
+who does japan import from?	16393	japan --> government position held office holder --> [u'Hayato Ikeda', u'Yasuhiro Nakasone', u'Kakuei Tanaka', u'Shintaro Ishihara', u'Ichir\u014d Hatoyama']	3
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	12
+who does japan import from?	16393	japan --> organization scope organizations with this scope --> [u'Happiness Realization Party', u'Japanese Communist Party', u'Liberal Party', u'Privy Council', u'Kokumin D\u014dmei']	2
+who does japan import from?	16393	japan --> imports and exports amount --> [u'8864200000', u'21800000000']	0
+who does japan import from?	16393	japan --> dated money value amount --> [u'8540', u'9640', u'10520', u'11210', u'12080']	0
+who does japan import from?	16393	japan --> imports and exports date --> [u'2006', u'2008', u'2009']	0
+who does japan import from?	16393	japan --> country languages spoken --> [u'English Language', u'Korean Language', u'Japanese Language', u'Ainu Language', u'Esperanto Language']	209
+who does japan import from?	16393	japan --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+who does japan import from?	16393	japan --> country calling code --> [u'81']	0
+who does japan import from?	16393	japan --> adjoining relationship adjoins --> [u'China']	2282
+who does japan import from?	16393	japan --> geocode longitude --> [u'135.833685568']	0
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar']	12
+who does japan import from?	16393	japan --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	154
+who does japan import from?	16393	japan --> tag tagged topics --> [u'Seven Samurai']	1
+who does japan import from?	16393	japan --> thoroughbred racehorse origin horses from this location --> [u'Deep Sky', u'Tokino Minoru', u'Admire Moon', u'Haiseiko', u'Agnes Tachyon']	1
+who does japan import from?	16393	japan --> dated percentage rate --> [u'0.908631', u'0.912121', u'0.924253', u'0.928505', u'0.928538']	0
+who does japan import from?	16393	japan --> imports and exports imported from --> [u'United States of America', u'Canada', u'Sudan', u'Tanzania', u'New Zealand']	2318
+who does japan import from?	16393	japan --> olympic participating country ioc code --> [u'JPN']	0
+who does japan import from?	16393	japan --> asset ownership owned asset --> [u'African Development Fund']	0
+who does japan import from?	16393	japan --> dated kgoe number --> [u'873.91', u'962.907', u'1003.752', u'1136.485', u'1260.475']	0
+who does japan import from?	16393	japan --> country currency used --> [u'Japanese yen']	18
+who does japan import from?	16393	japan --> dated float number --> [u'1.26', u'1.29', u'1.32', u'1.33', u'1.34']	0
+who does japan import from?	16393	japan --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	12
+who does japan import from?	16393	japan --> country iso  shortname --> [u'JAPAN']	0
+who does japan import from?	16393	japan --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+who does japan import from?	16393	japan --> cyclone affected area cyclones --> [u'Typhoon Babe', u'Tropical Storm Halong', u'Typhoon Zeb', u'Typhoon Tip', u'Typhoon Tingting']	0
+who does japan import from?	16393	japan --> mythical creature location mythical creature s --> [u'Ushi-oni', u'Te-no-me', u'Hitodama', u'Kappa', u'Tsuchigumo']	1
+who does japan import from?	16393	japan --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+who does japan import from?	16393	japan --> asset ownership percentage ownership --> [u'5.4']	0
+who does japan import from?	16393	japan --> adjusted money value adjusted value --> [u'669755140470', u'750417344657', u'817271823246', u'886524514843', u'990041395531']	0
+who does japan import from?	16393	japan --> adjusted money value adjustment currency --> [u'United States dollar']	12
+who does japan import from?	16393	japan --> newspaper circulation area newspapers --> [u'Stars and Stripes', u'Le Monde', u'Shimbun Akahata', u'Mainichi Shimbun', u'Courrier International']	2
+who does japan import from?	16393	japan --> administrative area administrative parent --> [u'Earth']	6
+who does japan import from?	16393	japan --> webpage uri --> [u'http://statoids.com/ujp.html']	0
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	12
+who does japan import from?	16393	japan --> flag use flag --> [u'Flag of Japan']	1
+who does japan import from?	16393	japan --> sports team location teams --> [u'Japan national football team', u'Burning', u"Japan women's national volleyball team", u"Japan women's national handball team", u'Japan national handball team']	4
+who does japan import from?	16393	japan --> breed origin breeds originating here --> [u'Yokohama', u'Akita', u'Shamo', u'Tomaru', u'Sakhalin Husky']	2
+who does japan import from?	16393	japan --> spirit producing region distilleries --> [u'Suntory']	6
+who does japan import from?	16393	japan --> location nearby airports --> [u'Naval Air Facility Atsugi']	12
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar']	12
+who does japan import from?	16393	japan --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> exhibition subject exhibitions created about this subject --> [u'Japan Car: Designs for the Crowded Globe', u'Heavy Light: Recent Photography and Video from Japan']	0
+who does japan import from?	16393	japan --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> competitor competition relationship medal --> [u'Silver medal', u'Bronze medal']	1
+who does japan import from?	16393	japan --> location adjectival form --> [u'Japanese']	0
+who does japan import from?	16393	japan --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+who does japan import from?	16393	japan --> dated metric ton number --> [u'2.516538', u'2.981979', u'3.059736', u'3.359321', u'3.673035']	0
+who does japan import from?	16393	japan --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+who does japan import from?	16393	japan --> base equivalent location base --> [u'japan']	0
+who does japan import from?	16393	japan --> countries continent --> [u'Asia']	307
+who does japan import from?	16393	japan --> administrative area subdividing type --> [u'Japanese prefecture']	0
+who does japan import from?	16393	japan --> government position held to --> [u'1972', u'1972-07-07', u'2000-04-05', u'1996-01-11', u'2007-09-26']	0
+who does japan import from?	16393	japan --> webpage category --> [u'Tag', u'Topic Equivalent']	0
+who does japan import from?	16393	japan --> government position held basic title --> [u'Prime minister', u'Finance minister', u'Emperor']	2
+who does japan import from?	16393	japan --> fictional setting works set here --> [u'Zaregoto Series']	0
+who does japan import from?	16393	japan --> military combatant group conflict --> [u'Battle of Pingxingguan', u'Battle of Makin', u'Marshalls\u2013Gilberts raids', u'Battle of Gemas', u'Battle of Guilin\u2013Liuzhou']	0
+who does japan import from?	16393	japan --> dated percentage rate --> [u'-5.526976', u'-2.003148', u'-1.22524', u'-1.041636', u'-1.023789']	0
+who does japan import from?	16393	japan --> country capital --> [u'Tokyo']	2071
+who does japan import from?	16393	japan --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> country internet tld --> [u'jp']	1
+who does japan import from?	16393	japan --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who does japan import from?	16393	japan --> fictional setting universe --> [u'Teenage Mutant Ninja Turtles', u"JoJo's Bizarre Adventure"]	1
+who does japan import from?	16393	japan --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+who does japan import from?	16393	japan --> vocabulary equivalent topic narrower concept --> [u'Science--Japan--History']	0
+who does japan import from?	16393	japan --> beer country region beers from here --> [u'OB Korea OB Lager', u'Orion Draft Beer', u'Asahi Super Dry', u'Otaru Beer Pilsener', u'Kirin Ichiban']	0
+who does japan import from?	16393	japan --> massage origin massage from here --> [u'Shiatsu']	1
+who does japan import from?	16393	japan --> cryptid observation location cryptid s occurring here --> [u'Hibagon']	0
+who does japan import from?	16393	japan --> dated money value valid date --> [u'2008']	0
+who does japan import from?	16393	japan --> name source namesakes --> [u'727 Nipponia']	0
+who does japan import from?	16393	japan --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> dated money value amount --> [u'35300']	0
+who does japan import from?	16393	japan --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who does japan import from?	16393	japan --> imports and exports currency --> [u'United States dollar', u'Canadian dollar']	12
+who does japan import from?	16393	japan --> computer game region versions released in this region --> [u"Assassin's Creed: Brotherhood (360 JP)", u'Waku Waku Sonic Patrol Car', u'SegaSonic Cosmo Fighter', u'3D Dot Game Heroes', u'Power Smash 4']	0
+who does japan import from?	16393	japan --> administrative area short name --> [u'jp']	0
+who does japan import from?	16393	japan --> country form of government --> [u'Constitutional monarchy', u'Parliamentary system', u'Unitary state']	2
+who does japan import from?	16393	japan --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Women's Marathon", u"2009 World Championships in Athletics \u2013 Men's javelin throw", u"2006 World Artistic Gymnastics Championships \u2013 Men's individual all-round", u"2011 Boston Marathon, Women's Wheelchair", u"2011 Boston Marathon, Men's Wheelchair"]	0
+who does japan import from?	16393	japan --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+who does japan import from?	16393	japan --> adjusted money value adjustment date --> [u'2000']	0
+who does japan import from?	16393	japan --> book subject works --> [u'The awakened self', u'Zen Poems of China and Japan', u'Dangerous Emotions', u'Shocking crimes of postwar Japan', u'Dog Man']	0
+who does japan import from?	16393	japan --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	12
+who does japan import from?	16393	japan --> government position held appointed by --> [u'Naoto Kan']	6
+who does japan import from?	16393	japan --> location contains --> [u'Shin-Kiyosu Station', u'Yagihara Station', u'Mihama', u'Ochanomizu University', u'Kahoku']	3
+who does japan import from?	16393	japan --> topic alias --> [u'Nippon', u'Nihon', u'\u65e5\u672c', u'Nihon-koku', u'Nippon-koku']	0
+who does japan import from?	16393	japan --> flag use from date --> [u'1999-08-13']	0
+who does japan import from?	16393	japan --> fictional setting characters that have lived here --> [u'Hayato Gokudera', u'Near']	0
+who does japan import from?	16393	japan --> taxonomy entry high --> [u'897']	0
+who does japan import from?	16393	japan --> cryptid area of occurrence cryptid s found here --> [u'Kaijin']	0
+who does japan import from?	16393	japan --> organization membership from --> [u'1999', u'1956-12-18']	0
+who does japan import from?	16393	japan --> location area --> [u'377944']	0
+who does japan import from?	16393	japan --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+who does japan import from?	16393	japan --> imports and exports currency --> [u'United States dollar', u'Canadian dollar']	12
+who does japan import from?	16393	japan --> processed with review queue question id --> [u'/rabj/store/questions/question_046aa479e1033dd8']	0
+who does japan import from?	16393	japan --> netflix genre titles --> [u'Alakazam the Great', u'Electric Dragon 80.000 V', u'The Princess Blade', u'Black Angel 2', u'Undead Pool']	1
+who does japan import from?	16393	japan --> governmental jurisdiction agencies --> [u'Japanese Ministry of Land, Infrastructure and Transport', u'Japanese Ministry of Posts and Telecommunications', u'Japanese Ministry of Internal Affairs and Communications', u'Agency for Cultural Affairs', u'Japanese Ministry of Economy, Trade and Industry']	4
+who does japan import from?	16393	japan --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+who does japan import from?	16393	japan --> country administrative divisions --> [u'Kumamoto Prefecture', u'Tokyo', u'Okinawa Prefecture', u'Kanagawa Prefecture', u'Saga Prefecture']	2627
+who does japan import from?	16393	japan --> competitor competition relationship tournament --> [u'2009 World Championships in Athletics', u'2011 Boston Marathon', u'2006 World Artistic Gymnastics Championships']	0
+who does japan import from?	16393	japan --> dated float number --> [u'67.666', u'68.31', u'68.595', u'69.658', u'70.132']	0
+who does japan import from?	16393	japan --> governmental jurisdiction government bodies --> [u'House of Peers', u'National Diet', u'House of Representatives', u'House of Councillors']	23
+who does japan import from?	16393	japan --> administrative area pertinent type --> [u'Japanese branch administration', u'Japanese prefecture', u'Japanese area', u'Japanese county', u'Japanese designated city']	0
+who does japan import from?	16393	japan --> location time zones --> [u'Japan Standard Time', u'UTC+09:00']	7
+who does japan import from?	16393	japan --> administrative area administrative area type --> [u'Sovereign state']	0
+who does japan import from?	16393	japan --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+who does japan import from?	16393	japan --> film location featured in films --> [u'Demonlover', u'Shall We Dance?', u'Cursed', u'Beneath the Surface']	0
+who does japan import from?	16393	japan --> ontology instance mapping ontology --> [u'OpenCyc']	0
+who does japan import from?	16393	japan --> webpage resource --> [u"'The Cove' worked! Dolphin slaughter stops in Taiji", u"'Bones' recap: Seeley in a suit is worth it, Brennan", u"Trailer Blazer: Welcome to 'The Machine Girl'", u"All Points West '09: Coldplay save the day", u'Happy Birthday, Kiefer Sutherland!']	0
+who does japan import from?	16393	japan --> topic exceptions --> [u'Japanese designated city is not suited to be the administrative division type for Japanese Designated City.', u'Japanese special ward is not suited to be the administrative division type for Japanese Special Ward.']	0
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	12
+who does japan import from?	16393	japan --> government position held governmental body --> [u'House of Representatives', u'House of Councillors']	9
+who does japan import from?	16393	japan --> linguistic hint adjectival form --> [u'Japanese']	0
+who does japan import from?	16393	japan --> dated integer number --> [u'92500572', u'94943000', u'95832000', u'96812000', u'97826000']	0
+who does japan import from?	16393	japan --> imports and exports amount --> [u'1500000000', u'9324000000', u'50400000000']	0
+who does japan import from?	16393	japan --> imports and exports exported to --> [u'United States of America', u'Canada', u'Sudan', u'Dubai', u'Kiribati']	2030
+who does japan import from?	16393	japan --> tv location tv episodes filmed here --> [u'Mutant Planet: Japan']	0
+who does japan import from?	16393	japan --> geocode latitude --> [u'35.4111749285']	0
+who does japan import from?	16393	japan --> location events --> [u'Battle of Sendanno', u'2012 Japan Earthquakes', u'Boshin War', u'Battle of Kanagawa', u'Siege of Odawara']	10
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	12
+who does japan import from?	16393	japan --> country official language --> [u'Japanese Language']	155
+who does japan import from?	16393	japan --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+who does japan import from?	16393	japan --> dated percentage rate --> [u'-0.11', u'-0.08', u'-0.05', u'-0.01', u'0.01']	0
+who does japan import from?	16393	japan --> taxonomy entry low --> [u'801']	0
+who does japan import from?	16393	japan --> administrative area administrative children --> [u'Kumamoto Prefecture', u'Tokyo', u'Okinawa Prefecture', u'Kanagawa Prefecture', u'Saga Prefecture']	2627
+who does japan import from?	16393	japan --> government position held from --> [u'1968', u'1993', u'1972-07-07', u'2000-04-05', u'1996-01-11']	0
+who does japan import from?	16393	japan --> olympic athlete affiliation athlete --> [u'Hiroyasu Shimizu']	0
+who does japan import from?	16393	japan --> dated money value currency --> [u'United States dollar']	12
+who does japan import from?	16393	japan --> dated money value amount --> [u'996850891828', u'1.13408e+12', u'1.24646e+12', u'1.33659e+12', u'1.44972e+12']	0
+who does japan import from?	16393	japan --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+who does japan import from?	16393	japan --> object name --> [u'Japan']	0
+who does japan import from?	16393	japan --> topic image --> [u'LocationMapJapan', u'Samurai', u'Japan.jpg']	0
+who does japan import from?	16393	japan --> national anthem of a country anthem --> [u'Kimigayo']	3
+who does japan import from?	16393	japan --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who does japan import from?	16393	japan --> dated money value amount --> [u'44307342950', u'44307342950.4', u'53508617739', u'53508617739.4', u'60723018683.7']	0
+who does japan import from?	16393	japan --> olympic athlete affiliation athlete --> [u'Nobutaka Taguchi', u'Yuka Fujimori', u'Satoshi Ishii', u'Miyuki Maeda', u'Ikuei Yamamoto']	1
+who does japan import from?	16393	import --> object name --> [u'Import']	0
+who does japan import from?	16393	import --> organization sector organizations in this sector --> [u'SMEBS']	0

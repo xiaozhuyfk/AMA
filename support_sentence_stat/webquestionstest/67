@@ -1,0 +1,133 @@
+what to do san jose ca?	9728	san jose --> government position held office position or title --> [u'Mayor of San Jose']	0
+what to do san jose ca?	9728	san jose --> dated integer year --> [u'2008']	0
+what to do san jose ca?	9728	san jose --> topic social media presence --> [u'http://plus.google.com/117461788297063378912']	0
+what to do san jose ca?	9728	san jose --> dated integer year --> [u'2008']	0
+what to do san jose ca?	9728	san jose --> bibs location loc type --> [u'Borough']	0
+what to do san jose ca?	9728	san jose --> bibs location state --> [u'California']	241
+what to do san jose ca?	9728	san jose --> location events --> [u'OOPSLA 1996', u'SC1997', u'GPU Technology Conference 2012', u'2010 Tour of California', u"1997 NCAA Men's Division I Basketball Tournament"]	0
+what to do san jose ca?	9728	san jose --> dated float number --> [u'0.0668']	0
+what to do san jose ca?	9728	san jose --> topic alias --> [u'San Jos\xe9', u'San Jose, California', u'Santa Clara County / San Jose city']	0
+what to do san jose ca?	9728	san jose --> dated float date --> [u'2008']	0
+what to do san jose ca?	9728	san jose --> dated integer number --> [u'156941']	0
+what to do san jose ca?	9728	san jose --> sports team location teams --> [u'San Jose Earthquakes', u'San Jose Sharks', u'San Jose Stealth']	35
+what to do san jose ca?	9728	san jose --> location area --> [u'466.109']	0
+what to do san jose ca?	9728	san jose --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do san jose ca?	9728	san jose --> dog city relationship date --> [u'2008']	0
+what to do san jose ca?	9728	san jose --> dated float number --> [u'-0.0833']	0
+what to do san jose ca?	9728	san jose --> object name --> [u'San Jose']	0
+what to do san jose ca?	9728	san jose --> location people born here --> [u'Michael Gough', u'Mark Hammer', u'Brandi Chastain', u'William A. Spinks', u'Thomas A. Bailey']	0
+what to do san jose ca?	9728	san jose --> geocode latitude --> [u'37.304051']	0
+what to do san jose ca?	9728	san jose --> travel destination monthly climate average min temp c --> [u'4.44', u'6.66', u'7.22', u'8.33', u'10']	0
+what to do san jose ca?	9728	san jose --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do san jose ca?	9728	san jose --> dated integer year --> [u'2008']	0
+what to do san jose ca?	9728	san jose --> government position held to --> [u'1975']	0
+what to do san jose ca?	9728	san jose --> travel destination monthly climate average max temp c --> [u'13.88', u'14.44', u'16.66', u'17.77', u'18.33']	0
+what to do san jose ca?	9728	san jose --> webpage description --> [u'Visitor Information', u'San Jose, CA']	0
+what to do san jose ca?	9728	san jose --> webpage category --> [u'Topic Webpage']	0
+what to do san jose ca?	9728	san jose --> government position held basic title --> [u'Mayor']	2
+what to do san jose ca?	9728	san jose --> transportation transport terminus --> [u'San Jose International Airport', u'Diridon Station', u'70 S. Almaden Ave.']	18
+what to do san jose ca?	9728	san jose --> dated float date --> [u'2008']	0
+what to do san jose ca?	9728	san jose --> travel destination tourist attractions --> [u"Children's Discovery Museum of San Jose", u'San Jose Museum of Quilts & Textiles', u'San Jose Museum of Art', u'Rosicrucian Egyptian Museum', u'The Tech Museum of Innovation']	10
+what to do san jose ca?	9728	san jose --> earthquake nearest location earthquake --> [u'San Jose, California, USA earthquake']	0
+what to do san jose ca?	9728	san jose --> location time zones --> [u'Pacific Time Zone']	0
+what to do san jose ca?	9728	san jose --> topic official website --> [u'http://www.sanjoseca.gov/']	0
+what to do san jose ca?	9728	san jose --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0
+what to do san jose ca?	9728	san jose --> dated integer number --> [u'2533']	0
+what to do san jose ca?	9728	san jose --> hud county place place --> [u'San Jose']	2879
+what to do san jose ca?	9728	san jose --> webpage resource --> [u'Kanye West/Lady Gaga full tour dates announced; poor timing?', u"Demi Moore uses Twitter to help prevent fan's suicide", u'Visitor Information', u'San Jose, CA']	0
+what to do san jose ca?	9728	san jose --> location contains --> [u'San Jos\xe9 State University', u'Willow Glen', u'Gunderson High School', u'Hayes Mansion', u'First Unitarian Universalist Church']	35
+what to do san jose ca?	9728	san jose --> dated integer number --> [u'276415']	0
+what to do san jose ca?	9728	san jose --> neighborhood neighborhood of --> [u'San Jose']	2879
+what to do san jose ca?	9728	san jose --> place with neighborhoods neighborhoods --> [u'Willow Glen', u'Berryessa', u'San Jose', u'Alum Rock', u'East Foothills']	2879
+what to do san jose ca?	9728	san jose --> adjoining relationship adjoins --> [u'Los Gatos', u'Santa Clara', u'Monte Sereno', u'Cupertino', u'Sunnyvale']	79
+what to do san jose ca?	9728	san jose --> dated integer source --> [u'United States Census Bureau, Population']	0
+what to do san jose ca?	9728	san jose --> dated integer year --> [u'2008']	0
+what to do san jose ca?	9728	san jose --> location containedby --> [u'California', u'United States of America', u'Silicon Valley', u'Area codes 408 and 669', u'Area code 408']	369
+what to do san jose ca?	9728	san jose --> dated integer year --> [u'2008']	0
+what to do san jose ca?	9728	san jose --> travel destination monthly climate average rainfall mm --> [u'3', u'8', u'23', u'33', u'51']	0
+what to do san jose ca?	9728	san jose --> bibs location city --> [u'Silicon Valley']	38
+what to do san jose ca?	9728	san jose --> newspaper circulation area newspapers --> [u'San Jose Mercury News', u'Metro Silicon Valley', u'Alamaden Resident']	5
+what to do san jose ca?	9728	san jose --> geocode longitude --> [u'-121.872734']	0
+what to do san jose ca?	9728	san jose --> top architectural city structure count --> [u'1']	0
+what to do san jose ca?	9728	san jose --> bibs location country --> [u'United States of America']	140
+what to do san jose ca?	9728	san jose --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what to do san jose ca?	9728	san jose --> hud county place county --> [u'Santa Clara County']	36
+what to do san jose ca?	9728	san jose --> bibs location is clear --> [u'0']	0
+what to do san jose ca?	9728	san jose --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do san jose ca?	9728	san jose --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	0
+what to do san jose ca?	9728	san jose --> administrative division capital relationship administrative division --> [u'Santa Clara County']	36
+what to do san jose ca?	9728	san jose --> webpage uri --> [u'http://wikitravel.org/en/San_Jose_(California)', u'Http://www.sanjoseca.gov']	0
+what to do san jose ca?	9728	san jose --> dog city relationship dog breed --> [u'German Shepherd Dog', u'Maltese', u'Yorkshire Terrier', u'Boxer', u'Shih Tzu']	0
+what to do san jose ca?	9728	san jose --> topic topical webpage --> [u'http://wikitravel.org/en/San_Jose_(California)']	0
+what to do san jose ca?	9728	san jose --> government position held from --> [u'1971', u'2007-01-09']	0
+what to do san jose ca?	9728	san jose --> government position held office holder --> [u'Norman Mineta', u'Chuck Reed']	7
+what to do san jose ca?	9728	san jose --> dated integer number --> [u'6259']	0
+what to do san jose ca?	9728	san jose --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do san jose ca?	9728	san jose --> travel destination local transportation --> [u'Santa Clara Valley Transportation Authority']	7
+what to do san jose ca?	9728	san jose --> geocode datum --> [u'NAD83']	0
+what to do san jose ca?	9728	san jose --> dated location date founded --> [u'1777-11-29']	0
+what to do san jose ca?	9728	san jose --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do san jose ca?	9728	san jose --> topic image --> [u'SJPan', u'SanJoseDowntownIMG016elf_wb.jpg', u'Sanjosecityhall', u'San Jose California aerial view south']	0
+what to do san jose ca?	9728	san jose --> dated integer number --> [u'302885']	0
+what to do san jose ca?	9728	san jose --> transportation transport operator --> [u'Caltrain', u'Altamont Commuter Express', u'Amtrak', u'Greyhound Lines']	18
+what to do san jose ca?	9728	san jose --> dated integer number --> [u'3500', u'4579', u'9089', u'12567', u'18060']	0
+what to do san jose ca?	9728	san jose --> dated integer year --> [u'1910', u'1920', u'1930', u'1940', u'1950']	0
+what to do san jose ca?	9728	san jose --> governmental jurisdiction government positions --> [u'Mayor of San Jose']	0
+what to do san jose ca?	9728	san jose --> citytown postal codes --> [u'95134', u'95127', u'95125', u'95110', u'95124']	0
+what to do san jose ca?	9728	san jose --> location nearby airports --> [u'San Jose International Airport', u'Reid-Hillview Airport']	15
+what to do san jose ca?	9728	time management --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what to do san jose ca?	9728	time management --> webpage resource --> [u'Reporter\u2019s Notebook: Sundance Film Festival (Part I)', u"Must List: What'll it be? We like 'Greek'"]	0
+what to do san jose ca?	9728	time management --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwdH8-rlMEdaAAAABAxv-7A']	0
+what to do san jose ca?	9728	time management --> object name --> [u'Time management']	0
+what to do san jose ca?	9728	time management --> topic image --> [u'Adi Holzer Werksverzeichnis 269', u'MerrillCoveyMatrix']	0
+what to do san jose ca?	9728	time management --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what to do san jose ca?	9728	an chang-ho --> person date of birth --> [u'1878-11-09']	0
+what to do san jose ca?	9728	an chang-ho --> person parents --> [u'Hwang', u'Ahn Kyon-jin']	0
+what to do san jose ca?	9728	an chang-ho --> deceased person place of death --> [u'Busan']	0
+what to do san jose ca?	9728	an chang-ho --> valuenotation has value --> [u'Siblings']	0
+what to do san jose ca?	9728	an chang-ho --> person place of birth --> [u'Kangso-guyok']	0
+what to do san jose ca?	9728	an chang-ho --> person profession --> [u'Educator', u'Writer', u'Politician', u'Diplomat', u'Activist']	0
+what to do san jose ca?	9728	an chang-ho --> marriage type of union --> [u'Marriage']	0
+what to do san jose ca?	9728	an chang-ho --> topic alias --> [u'Tosan', u'Dosan', u"Ahn Ch'i-sam", u'Ahn Chang-ho', u"An Ch'angho"]	0
+what to do san jose ca?	9728	an chang-ho --> person children --> [u'Philip Ahn', u'Susan Ahn Cuddy', u'Ralph Ahn', u'Philson Ahn', u'Soorah Ahn']	0
+what to do san jose ca?	9728	an chang-ho --> deceased person cause of death --> [u'Illness']	0
+what to do san jose ca?	9728	an chang-ho --> object name --> [u'An Chang-ho']	0
+what to do san jose ca?	9728	an chang-ho --> topic image --> [u'ACHD']	0
+what to do san jose ca?	9728	an chang-ho --> person nationality --> [u'North Korea']	0
+what to do san jose ca?	9728	an chang-ho --> person ethnicity --> [u'Korean people']	0
+what to do san jose ca?	9728	an chang-ho --> person gender --> [u'Male']	0
+what to do san jose ca?	9728	an chang-ho --> deceased person date of death --> [u'1938-03-10']	0
+what to do san jose ca?	9728	an chang-ho --> marriage spouse --> [u'Helen Lee']	0
+what to do san jose ca?	9728	dosan line --> object name --> [u'Dosan Line']	0
+what to do san jose ca?	9728	dosan line --> topic image --> [u'Map railroad japan dosan rough', u'JR Shikoku2000DC in Saida']	0
+what to do san jose ca?	9728	saitō dōsan --> person date of birth --> [u'1494']	0
+what to do san jose ca?	9728	saitō dōsan --> person profession --> [u'Daimyo']	0
+what to do san jose ca?	9728	saitō dōsan --> person gender --> [u'Male']	0
+what to do san jose ca?	9728	saitō dōsan --> object name --> [u'Sait\u014d D\u014dsan']	0
+what to do san jose ca?	9728	saitō dōsan --> topic image --> [u'Sait\u014d D\u014dsan']	0
+what to do san jose ca?	9728	saitō dōsan --> person children --> [u'Sait\u014d Yoshitatsu', u'Oda Nobunaga', u'N\u014dhime']	0
+what to do san jose ca?	9728	saitō dōsan --> deceased person date of death --> [u'1556']	0
+what to do san jose ca?	9728	saitō dōsan --> family member family --> [u'Sait\u014d clan']	0
+what to do san jose ca?	9728	san josé --> location people born here --> [u'Manuel Aguilar Chac\xf3n', u'Isabel Montero de la C\xe1mara', u'John Nelson', u'Luis Mar\xedn', u'Mauricio Wright']	0
+what to do san jose ca?	9728	san josé --> location containedby --> [u'Costa Rica', u'San Jos\xe9 Province', u'San Jos\xe9']	0
+what to do san jose ca?	9728	san josé --> location events --> [u'1996 San Juan de Dios radiotherapy accident', u'Miss Latin America 1986', u'Miss Costa Rica 2012', u'Miss Costa Rica 2009']	0
+what to do san jose ca?	9728	san josé --> location contains --> [u'Universidad de Ciencias Medicas', u'United World College of Costa Rica', u'Estadio Nacional de Costa Rica', u'Costa Rica Marriott San Jose Hotel', u'Residence Inn San Jose Escazu']	0
+what to do san jose ca?	9728	san josé --> topic alias --> [u'San Jose, Costa Rica', u'San Jos\xe9, Costa Rica']	0
+what to do san jose ca?	9728	san josé --> webpage category --> [u'Official Website']	0
+what to do san jose ca?	9728	san josé --> newspaper circulation area newspapers --> [u'La Naci\xf3n']	0
+what to do san jose ca?	9728	san josé --> travel destination tourist attractions --> [u'Arenal Volcano', u'Museo Nacional de Costa Rica', u'Celeste River', u'National Theatre of Costa Rica']	0
+what to do san jose ca?	9728	san josé --> earthquake nearest location distance to epicenter --> [u'48']	0
+what to do san jose ca?	9728	san josé --> object name --> [u'San Jos\xe9']	0
+what to do san jose ca?	9728	san josé --> topic image --> [u'Moraz\xe1n Park, in San Jos\xe9 Downtown', u'Skyline of San Jos\xe9', u'Moraz\xe1n Park at San Jos\xe9.']	0
+what to do san jose ca?	9728	san josé --> location nearby airports --> [u'Tob\xedas Bola\xf1os International Airport', u'Juan Santamar\xeda International Airport']	0
+what to do san jose ca?	9728	san josé --> administrative division capital relationship administrative division --> [u'San Jos\xe9 Province', u'San Jos\xe9']	0
+what to do san jose ca?	9728	san josé --> location area --> [u'44.62']	0
+what to do san jose ca?	9728	san josé --> earthquake nearest location earthquake --> [u'February 19, 2012 Costa Rica Earthquake']	0
+what to do san jose ca?	9728	san josé --> location time zones --> [u'Central Time Zone']	0
+what to do san jose ca?	9728	san josé --> earthquake nearest location direction to epicenter --> [u'SSE']	0
+what to do san jose ca?	9728	san josé --> geocode latitude --> [u'9.92472222222']	0
+what to do san jose ca?	9728	san josé --> geocode longitude --> [u'-84.0780555556']	0
+what to do san jose ca?	9728	san josé --> topic official website --> [u'http://www.msj.go.cr/']	0
+what to do san jose ca?	9728	san josé --> webpage uri --> [u'http://www.msj.go.cr']	0
+what to do san jose ca?	9728	dosan park --> object name --> [u'Dosan Park']	0
+what to do san jose ca?	9728	dosan park --> topic image --> [u'Korea-Seoul-Dosan Park-03']	0

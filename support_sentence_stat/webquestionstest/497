@@ -1,0 +1,61 @@
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> bridge total length --> [u'6946']	0
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> location contains --> [u'Sandy Point Shoal Light']	0
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> bridge bridge type --> [u'Arch bridge', u'Suspension bridge', u'Cantilever bridge']	0
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> bridge locale --> [u'Anne Arundel County', u"Queen Anne's County"]	1
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> bridge body of water spanned --> [u'Chesapeake Bay']	6
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> bridge clearance below --> [u'56.7']	0
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> object name --> [u'Chesapeake Bay Bridge']	0
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> topic image --> [u'Chesapeake Bay Bridge', u'Chesapeake Bay Bridge viewed from Sandy Point State Park']	0
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> geocode longitude --> [u'-76.3722222222']	0
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> structure opened --> [u'1952-07-30']	0
+where is chesapeake bay bridge?	221	chesapeake bay bridge --> geocode latitude --> [u'38.9916666667']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> ontology instance mapping ontology --> [u'OpenCyc']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi1H5wpEbGdrcN5Y29ycA']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> place mention book --> [u'The Fortune of War']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> geocode latitude --> [u'37.2481']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> location events --> [u'War of 1812', u'Battle of Cape Henry', u'1950 USS Missouri grounding incident', u'Battle of the Chesapeake']	18
+where is chesapeake bay bridge?	221	chesapeake bay --> location contains --> [u'Watts Island Light', u'Pungoteague Creek Light', u'Point No Point Light', u'Hooper Island Light', u'Hooper Strait Light']	6
+where is chesapeake bay bridge?	221	chesapeake bay --> location partially containedby --> [u'Virginia', u'Maryland']	136
+where is chesapeake bay bridge?	221	chesapeake bay --> object name --> [u'Chesapeake Bay']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> topic image --> [u'The Chesapeake Bay - Landsat photo']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> ufo sighting location ufo sighting s --> [u'Nash-Fortenberry UFO sighting']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> book subject works --> [u'Song Yet Sung']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> location area --> [u'11601']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> location containedby --> [u'North America', u'United States of America']	44
+where is chesapeake bay bridge?	221	chesapeake bay --> body of water islands --> [u'Tilghman Island', u'Coaches Neck Island', u'Little Troy Island', u'Hog Neck Island', u'Bloodsworth Island']	4
+where is chesapeake bay bridge?	221	chesapeake bay --> geocode longitude --> [u'-76.1194']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> geographical feature category --> [u'Bay']	0
+where is chesapeake bay bridge?	221	chesapeake bay --> body of water bridges --> [u'Chesapeake Bay Bridge', u'Chesapeake Bay Bridge-Tunnel']	6
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> namesake named after --> [u'James Rolph']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> bridge width --> [u'20']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> bridge total length --> [u'7180']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> ownership owner --> [u'California Department of Transportation']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> geocode longitude --> [u'-122.346667']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> topic alias --> [u'Bay Bridge', u'James ""Sunny Jim"" Rolph Bridge', u'San Francisco \u2013 Oakland Bay Bridge', u'The Emperor Norton Bridge', u'Transbay Bridge']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> bridge locale --> [u'San Francisco', u'Oakland']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> bridge body of water spanned --> [u'San Francisco Bay']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> structure engineer --> [u'Ralph Modjeski']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> location area --> [u'0.12141']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> mailing address postal code --> [u'94710']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> natural or cultural site listing date listed --> [u'2001-08-13']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> money value amount --> [u'77000000']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> structure construction started --> [u'1933-07-09']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> nris listing significant year --> [u'1936']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> bridge clearance below --> [u'58']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> project focus projects --> [u'Initial design and construction of San Francisco-Oakland Bay Bridge']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> location containedby --> [u'California', u'San Francisco']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> structure opened --> [u'1936-11-12']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> location partially containedby --> [u'Yerba Buena Island']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> structure architect --> [u'John J Donovan', u'Arthur Brown, Jr.', u'Timothy L. Pflueger']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> natural or cultural site listing designation --> [u'National Register of Historic Places']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> bridge longest span --> [u'700']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> nbibridge facility under bridge --> [u'San Francisco Bay']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> nbibridge facility carried on bridge --> [u'Interstate 80']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> bridge bridge type --> [u'Truss bridge', u'Self-anchored suspension bridge', u'Suspension bridge', u'Cantilever bridge']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> geocode latitude --> [u'37.818056']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> mailing address citytown --> [u'San Francisco']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> object name --> [u'San Francisco-Oakland Bay Bridge']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> topic image --> [u'Bay Bridge at night', u'Sfbaybridge at night', u'SF and Bay Bridge']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> film location featured in films --> [u'The Graduate', u'The Dead Pool', u'The Towering Inferno', u'Basic Instinct', u'Bedazzled']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> money value currency --> [u'United States dollar']	0
+where is chesapeake bay bridge?	221	san francisco-oakland bay bridge --> nris listing significance level --> [u'National']	0

@@ -1,0 +1,38 @@
+what countries have territories in oceania?	153	domestic partnership --> marriage to --> [u'1898', u'1902', u'1912', u'1915', u'1924']	0
+what countries have territories in oceania?	153	domestic partnership --> object name --> [u'Domestic partnership']	0
+what countries have territories in oceania?	153	domestic partnership --> marriage from --> [u'1883', u'1895', u'1897', u'1911', u'1913']	0
+what countries have territories in oceania?	153	domestic partnership --> marriage spouse --> [u'Charles Martin', u'Monika Molnar', u'Peter Hooten', u'June Magee', u'Libby Titus']	0
+what countries have territories in oceania?	153	domestic partnership --> marriage location of ceremony --> [u'United Kingdom', u'Wisconsin', u'Hawaii', u'Madison County', u'Cabo San Lucas']	0
+what countries have territories in oceania?	153	domestic partnership --> linguistic hint subject form --> [u'Domestic partnerships']	0
+what countries have territories in oceania?	153	oceania --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what countries have territories in oceania?	153	oceania --> webpage resource --> [u'Contemporary Aboriginal Artwork Makes its Debut at the Metropolitan Museum of Art']	0
+what countries have territories in oceania?	153	oceania --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvqb6ApwpEbGdrcN5Y29ycA']	0
+what countries have territories in oceania?	153	oceania --> taxonomy entry low --> [u'1', u'3995', u'8001', u'9290']	0
+what countries have territories in oceania?	153	oceania --> location containedby --> [u'Pacific Ocean', u'DVD Region 4']	37
+what countries have territories in oceania?	153	oceania --> location events --> [u'Landings at Cape Torokina', u'Battle of Piva Forks', u'Battle of Koromokina Lagoon', u'Battle of the Coconut Grove', u'Koiari Raid']	0
+what countries have territories in oceania?	153	oceania --> location contains --> [u'University of Auckland', u'University of Otago', u'Australia', u'Melbourne', u'Greater Auckland']	116
+what countries have territories in oceania?	153	oceania --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what countries have territories in oceania?	153	oceania --> topic image --> [u'LocationOceania', u'Regions of Oceania.', u'Orthographic projection centred over Wallis and Futuna Islands']	0
+what countries have territories in oceania?	153	oceania --> object name --> [u'Oceania']	0
+what countries have territories in oceania?	153	oceania --> taxonomy entry high --> [u'950', u'6651', u'8490', u'9470']	0
+what countries have territories in oceania?	153	oceania --> location people born here --> [u'Lisiate Tafa']	0
+what countries have territories in oceania?	153	oceania --> webpage in index --> [u'WSJ Speakeasy Index']	0
+what countries have territories in oceania?	153	oceania --> location adjectival form --> [u'Oceanic', u'Oceanian']	0
+what countries have territories in oceania?	153	oceania --> dated integer number --> [u'35670000', u'38894851']	0
+what countries have territories in oceania?	153	oceania --> location area --> [u'8525989']	0
+what countries have territories in oceania?	153	oceania --> taxonomy entry prefix --> [u'JS', u'JV', u'DU', u'JQ']	0
+what countries have territories in oceania?	153	oceania --> book subject works --> [u'Down Under', u'Captain Cook: A Legacy Under Fire', u'Typee', u'Grass roots.', u'One for the Road']	0
+what countries have territories in oceania?	153	country --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what countries have territories in oceania?	153	country --> webpage resource --> [u'Kate Gosselin spanks kid (maybe): Did we need to see the pictures?', u'Kate Gosselin spanks kid (maybe): Did we need to see the pictures?', u"Bravo plans 'The Real Housewives of D.C.'", u'Nickelback clean up at the Juno Awards: Anyone surprised?']	0
+what countries have territories in oceania?	153	country --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA']	0
+what countries have territories in oceania?	153	country --> ontology class mapping uri --> [u'http://www.geonames.org/ontology#Country', u'http://s.opencalais.com/1/type/em/e/Country']	0
+what countries have territories in oceania?	153	country --> type of fictional setting settings --> [u'Gondor', u'United Federation', u'Ranke', u'Ruritania', u'Kingdom of Zeal']	0
+what countries have territories in oceania?	153	country --> object name --> [u'Country']	0
+what countries have territories in oceania?	153	country --> topic image --> [u'Staatkundige kaart van de Wereld', u'Europe topography map']	0
+what countries have territories in oceania?	153	country --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what countries have territories in oceania?	153	country --> ontology class mapping ontology --> [u'GeoNames', u'OpenCalais']	0
+what countries have territories in oceania?	153	country --> quotation subject quotations about this subject --> [u'The greatness of a nation can be judged by the way its animals are treated.', u"It may be true that you can't fool all the people all the time, but you can fool enough of them to rule a large country.", u"The common good of a collective -- a race, a class, a state -- was the claim and justification of every tyranny ever established over men. Every major horror of history was committed in the name of an altruistic motive. Has any act of selfishness ever equaled the carnage perpetrated by disciples of altruism? Does the fault lie in men's hypocrisy or in the nature of the principle? The most dreadful butchers were the most sincere. The believed in the perfect society reached through the guillotine and the firing squad. Nobody questioned their right to murder since they were murdering for an altruistic purpose. It was accepted that man must be sacrificed for other men. Actors change, but the course of the tragedy remains the same. A humanitarian who starts with the declarations of love for mankind and ends with a sea of blood. It goes on and will go on so long as men believe that an action is good if it is unselfish. That permits the altruist to act and forces his victims to bear it. The leaders of collectivist movements ask nothing of themselves. But observe the results.", u"Shall we then judge a country by the majority, or by the minority? By the minority, surely. 'Tis pedantry to estimate nations by the census, or by square miles of land, or other than by their importance to the mind of the time.", u'My country owes me nothing. It gave me, as it gives every boy and girl, a chance. It gave me schooling, independence of action, opportunity for service and honor. In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbounded hope.']	0
+what countries have territories in oceania?	153	country --> equivalent topic equivalent type --> [u'Country']	0
+what countries have territories in oceania?	153	territories --> object name --> [u'Territories']	0
+what countries have territories in oceania?	153	territories --> webpage description --> [u'Song Lyrics at MetroLyrics']	0
+what countries have territories in oceania?	153	territories --> webpage uri --> [u'http://www.metrolyrics.com/territories-lyrics-epidemic.html']	0

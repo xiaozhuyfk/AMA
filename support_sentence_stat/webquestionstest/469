@@ -1,0 +1,71 @@
+where is giza pyramids located?	205	giza necropolis --> tourist attraction near travel destination --> [u'Cairo']	5
+where is giza pyramids located?	205	giza necropolis --> location containedby --> [u'Egypt']	5
+where is giza pyramids located?	205	giza necropolis --> object name --> [u'Giza Necropolis']	0
+where is giza pyramids located?	205	giza necropolis --> topic image --> [u'The pyramids of Giza']	0
+where is giza pyramids located?	205	giza necropolis --> geocode longitude --> [u'31.1327777778']	0
+where is giza pyramids located?	205	giza necropolis --> geocode latitude --> [u'29.9761111111']	0
+where is giza pyramids located?	205	giza necropolis --> film location featured in films --> [u'Samsara']	0
+where is giza pyramids located?	205	great pyramid of giza --> place of interment interred here --> [u'Hetepheres I']	1
+where is giza pyramids located?	205	great pyramid of giza --> pyramid owner --> [u'Khufu']	16
+where is giza pyramids located?	205	great pyramid of giza --> pyramid site --> [u'Giza Plateau']	2
+where is giza pyramids located?	205	great pyramid of giza --> topic alias --> [u'Pyramid of Cheops', u"Khufu's Horizon", u'Pyramid of Khufu']	0
+where is giza pyramids located?	205	great pyramid of giza --> geocode longitude --> [u'31.1342']	0
+where is giza pyramids located?	205	great pyramid of giza --> building building function --> [u'Monument', u'Tomb']	1
+where is giza pyramids located?	205	great pyramid of giza --> building height when tallest building --> [u'146.6']	0
+where is giza pyramids located?	205	great pyramid of giza --> mailing address street address --> [u'Giza Necropolis, Nazlet El-Semman, Al Haram']	0
+where is giza pyramids located?	205	great pyramid of giza --> mailing address postal code --> [u'/m/03wnk9d']	0
+where is giza pyramids located?	205	great pyramid of giza --> pyramid inclination --> [u'51.844']	0
+where is giza pyramids located?	205	great pyramid of giza --> structure construction started --> [u'-2559']	0
+where is giza pyramids located?	205	great pyramid of giza --> pyramid height --> [u'146.6']	0
+where is giza pyramids located?	205	great pyramid of giza --> webpage category --> [u'Tag']	0
+where is giza pyramids located?	205	great pyramid of giza --> structure height meters --> [u'138.8']	0
+where is giza pyramids located?	205	great pyramid of giza --> project focus projects --> [u'Initial design and construction of Great Pyramid of Giza']	0
+where is giza pyramids located?	205	great pyramid of giza --> pyramid ancient name --> [u"Khufu's Horizon"]	0
+where is giza pyramids located?	205	great pyramid of giza --> location containedby --> [u'Egypt', u'Giza Plateau']	19
+where is giza pyramids located?	205	great pyramid of giza --> structure opened --> [u'-2539']	0
+where is giza pyramids located?	205	great pyramid of giza --> structure architect --> [u'Imhotep', u'Hemiunu', u'Khufu']	18
+where is giza pyramids located?	205	great pyramid of giza --> building suceeded by --> [u'Lincoln Cathedral']	2
+where is giza pyramids located?	205	great pyramid of giza --> ontology instance mapping ontology --> [u'OpenCyc']	0
+where is giza pyramids located?	205	great pyramid of giza --> building building complex --> [u'Giza Plateau']	2
+where is giza pyramids located?	205	great pyramid of giza --> time interval start --> [u'-2569']	0
+where is giza pyramids located?	205	great pyramid of giza --> tourist attraction near travel destination --> [u'Giza']	10
+where is giza pyramids located?	205	great pyramid of giza --> building preceded by --> [u'Red Pyramid']	2
+where is giza pyramids located?	205	great pyramid of giza --> structure architectural style --> [u'Pyramid', u'Ancient Egyptian architecture']	3
+where is giza pyramids located?	205	great pyramid of giza --> geocode latitude --> [u'29.9792']	0
+where is giza pyramids located?	205	great pyramid of giza --> mailing address citytown --> [u'Giza']	10
+where is giza pyramids located?	205	great pyramid of giza --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwPzYFpwpEbGdrcN5Y29ycA']	0
+where is giza pyramids located?	205	great pyramid of giza --> pyramid base width --> [u'230.3']	0
+where is giza pyramids located?	205	great pyramid of giza --> ancient wonder wonder creator --> [u'Ancient Egypt']	6
+where is giza pyramids located?	205	great pyramid of giza --> object name --> [u'Great Pyramid of Giza']	0
+where is giza pyramids located?	205	great pyramid of giza --> topic image --> [u'Kheops-Pyramid', u'Great Pyramid of Giza 2010']	0
+where is giza pyramids located?	205	great pyramid of giza --> time interval end --> [u'1300']	0
+where is giza pyramids located?	205	great pyramid of giza --> book subject works --> [u"The Abyss of Time: An architect's history of the Golden Section"]	0
+where is giza pyramids located?	205	giza --> travel destination tourist attractions --> [u'Great Pyramid of Giza', u'Great Sphinx of Giza', u'Giza Plateau', u'Solar Barque Museum', u'Pyramid of Khafre']	19
+where is giza pyramids located?	205	giza --> location contains --> [u'Cairo University', u'Giza Plateau', u'Helmi Zamora Stadium', u'Giza Zoo']	10
+where is giza pyramids located?	205	giza --> topic alias --> [u'Giza, Egypt']	0
+where is giza pyramids located?	205	giza --> geocode longitude --> [u'31.21']	0
+where is giza pyramids located?	205	giza --> location people born here --> [u'Mohamed Henedi', u'Hazem Salah Abu Ismail', u'Ahmed Ghanem Soltan', u'Ahmed Duiedar', u'Hana Mohamed']	0
+where is giza pyramids located?	205	giza --> travel destination local transportation --> [u'Cairo Metro', u'Cairo Transportation Authority']	2
+where is giza pyramids located?	205	giza --> webpage category --> [u'Topic Webpage']	0
+where is giza pyramids located?	205	giza --> transportation transport terminus --> [u'Cairo International Airport']	1
+where is giza pyramids located?	205	giza --> location containedby --> [u'Egypt', u'Giza Governorate']	67
+where is giza pyramids located?	205	giza --> administrative division capital relationship administrative division --> [u'Giza Governorate']	2
+where is giza pyramids located?	205	giza --> webpage description --> [u'Giza on Wikitravel']	0
+where is giza pyramids located?	205	giza --> film location featured in films --> [u'Transformers: Revenge of the Fallen']	0
+where is giza pyramids located?	205	giza --> webpage resource --> [u'Giza on Wikitravel']	0
+where is giza pyramids located?	205	giza --> newspaper circulation area newspapers --> [u'Al-Wafd', u'Al Mal']	0
+where is giza pyramids located?	205	giza --> top architectural city structure count --> [u'1']	0
+where is giza pyramids located?	205	giza --> dated integer number --> [u'2681863']	0
+where is giza pyramids located?	205	giza --> geocode latitude --> [u'30.01']	0
+where is giza pyramids located?	205	giza --> transportation mode of transportation --> [u'Air travel']	0
+where is giza pyramids located?	205	giza --> webpage uri --> [u'http://wikitravel.org/en/Cairo/Giza']	0
+where is giza pyramids located?	205	giza --> topic topical webpage --> [u'http://wikitravel.org/en/Cairo/Giza']	0
+where is giza pyramids located?	205	giza --> object name --> [u'Giza']	0
+where is giza pyramids located?	205	giza --> topic image --> [u'Eg-map', u'Location of Giza on the map of Egypt', u'Pyramids of Giza in 1960s']	0
+where is giza pyramids located?	205	giza --> transit stop terminus for lines --> [u'Cairo Metro Line 2']	0
+where is giza pyramids located?	205	pyramid --> ontology instance mapping ontology --> [u'OpenCyc']	0
+where is giza pyramids located?	205	pyramid --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjJX5wpEbGdrcN5Y29ycA']	0
+where is giza pyramids located?	205	pyramid --> architectural style examples --> [u'Pyramids of G\xfc\xedmar', u'Great Pyramid of Giza']	2
+where is giza pyramids located?	205	pyramid --> object name --> [u'Pyramid']	0
+where is giza pyramids located?	205	pyramid --> topic image --> [u'The ancient pyramids of Egypt', u'01 khafre north']	0
+where is giza pyramids located?	205	pyramid --> linguistic hint subject form --> [u'Pyramids']	0

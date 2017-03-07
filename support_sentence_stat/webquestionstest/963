@@ -1,0 +1,150 @@
+where are kohler sinks manufactured?	6	manufactured --> property hints disambiguator --> [u'0']	0
+where are kohler sinks manufactured?	6	manufactured --> property unique --> [u'1']	0
+where are kohler sinks manufactured?	6	manufactured --> object id --> [u'/base/puzzles/puzzle_form/manufactured']	0
+where are kohler sinks manufactured?	6	manufactured --> property expected type --> [u'Boolean']	0
+where are kohler sinks manufactured?	6	manufactured --> property schema --> [u'Puzzle Form']	0
+where are kohler sinks manufactured?	6	manufactured --> object name --> [u'Manufactured?']	0
+where are kohler sinks manufactured?	6	manufactured --> documented object tip --> [u'Does the puzzle take some tangible form other than print?']	0
+where are kohler sinks manufactured?	6	manufactured --> w org-rdf-syntax-nsdomain --> [u'Puzzle Form']	0
+where are kohler sinks manufactured?	6	manufactured --> property hints display none --> [u'0']	0
+where are kohler sinks manufactured?	6	manufactured --> w org-rdf-syntax-nsrange --> [u'Boolean']	0
+where are kohler sinks manufactured?	6	manufactured --> property unique --> [u'1']	0
+where are kohler sinks manufactured?	6	manufactured --> property expected type --> [u'type.boolean']	0
+where are kohler sinks manufactured?	6	manufactured --> property schema --> [u'base.puzzles.puzzle_form']	0
+where are kohler sinks manufactured?	6	manufactured --> object name --> [u'Manufactured?']	0
+where are kohler sinks manufactured?	6	manufactured --> w org-rdf-syntax-nsdomain --> [u'base.puzzles.puzzle_form']	0
+where are kohler sinks manufactured?	6	manufactured --> w org-rdf-syntax-nsrange --> [u'type.boolean']	0
+where are kohler sinks manufactured?	6	horst köhler --> leadership title --> [u'Managing Director']	0
+where are kohler sinks manufactured?	6	horst köhler --> person date of birth --> [u'1943-02-22']	0
+where are kohler sinks manufactured?	6	horst köhler --> employment tenure to --> [u'1980']	0
+where are kohler sinks manufactured?	6	horst köhler --> person profession --> [u'Politician', u'Economist']	0
+where are kohler sinks manufactured?	6	horst köhler --> leadership organization --> [u'International Monetary Fund']	0
+where are kohler sinks manufactured?	6	horst köhler --> government position held basic title --> [u'President']	0
+where are kohler sinks manufactured?	6	horst köhler --> person gender --> [u'Male']	0
+where are kohler sinks manufactured?	6	horst köhler --> place lived start date --> [u'1944', u'1945', u'1953', u'1957', u'1963']	0
+where are kohler sinks manufactured?	6	horst köhler --> employment tenure from --> [u'1976']	0
+where are kohler sinks manufactured?	6	horst köhler --> person nationality --> [u'Germany']	0
+where are kohler sinks manufactured?	6	horst köhler --> place lived end date --> [u'1944', u'1945', u'1953', u'1957', u'1963']	0
+where are kohler sinks manufactured?	6	horst köhler --> chivalric order membership from --> [u'2007']	0
+where are kohler sinks manufactured?	6	horst köhler --> employment tenure company --> [u'Federal Ministry of Economics and Technology (Germany)']	0
+where are kohler sinks manufactured?	6	horst köhler --> government position held office position or title --> [u'President of Germany']	0
+where are kohler sinks manufactured?	6	horst köhler --> personal film appearance type of appearance --> [u'Him/Herself']	0
+where are kohler sinks manufactured?	6	horst köhler --> government position held jurisdiction of office --> [u'Germany']	0
+where are kohler sinks manufactured?	6	horst köhler --> leadership from --> [u'2000-02']	0
+where are kohler sinks manufactured?	6	horst köhler --> political party tenure party --> [u'Christian Democratic Union', u"European People's Party"]	0
+where are kohler sinks manufactured?	6	horst köhler --> person religion --> [u'Lutheranism', u'Protestantism']	0
+where are kohler sinks manufactured?	6	horst köhler --> leadership to --> [u'2004-05']	0
+where are kohler sinks manufactured?	6	horst köhler --> marriage spouse --> [u'Eva K\xf6hler']	0
+where are kohler sinks manufactured?	6	horst köhler --> marriage from --> [u'1969']	0
+where are kohler sinks manufactured?	6	horst köhler --> government position held from --> [u'2004-07-01']	0
+where are kohler sinks manufactured?	6	horst köhler --> person place of birth --> [u'Skierbiesz\xf3w']	0
+where are kohler sinks manufactured?	6	horst köhler --> education institution --> [u'Eberhard Karls University of T\xfcbingen']	0
+where are kohler sinks manufactured?	6	horst köhler --> person children --> [u'Ulrike K\xf6hler', u'Jochen K\xf6hler']	0
+where are kohler sinks manufactured?	6	horst köhler --> topic alias --> [u'Horst Kohler']	0
+where are kohler sinks manufactured?	6	horst köhler --> political party tenure from --> [u'1981']	0
+where are kohler sinks manufactured?	6	horst köhler --> person parents --> [u'Elisabeth K\xf6hler', u'Eduard K\xf6hler']	0
+where are kohler sinks manufactured?	6	horst köhler --> government position held to --> [u'2010-05-31']	0
+where are kohler sinks manufactured?	6	horst köhler --> place lived location --> [u'Ludwigsburg', u'T\xfcbingen', u'Ellwangen', u'Markkleeberg', u'Skierbiesz\xf3w']	0
+where are kohler sinks manufactured?	6	horst köhler --> marriage type of union --> [u'Marriage']	0
+where are kohler sinks manufactured?	6	horst köhler --> object name --> [u'Horst K\xf6hler']	0
+where are kohler sinks manufactured?	6	horst köhler --> topic image --> [u'Horst K\xf6hler']	0
+where are kohler sinks manufactured?	6	horst köhler --> chivalric order membership order --> [u'Order of St. Olav']	0
+where are kohler sinks manufactured?	6	horst köhler --> personal film appearance film --> [u'Guided Tour']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> person date of birth --> [u'1887-01-21']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> person place of birth --> [u'Tallinn']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> topic alias --> [u'Wolfgang Kohler', u'Wolfgang Ko\u0308hler']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> person profession --> [u'Psychologist']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> education institution --> [u'Humboldt University of Berlin', u'Eberhard Karls University of T\xfcbingen', u'University of Bonn']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> person gender --> [u'Male']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> processed with review queue question id --> [u'/rabj/store/questions/question_2ffdae7f4013ae48', u'/rabj/store/questions/question_7668b77b59d7fee3']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> object name --> [u'Wolfgang K\xf6hler']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> author works written --> [u'Die physischen Gestalten in Ruhe und im stationa\u0308ren Zustand', u'Gestalt Psychology', u'Dynamics in Psychology', u'Gestalt Psychology', u'The task of Gestalt psychology']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> person nationality --> [u'Germany', u'United States of America']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> topic image --> [u'Maluma type shape']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> deceased person date of death --> [u'1967-06-11']	0
+where are kohler sinks manufactured?	6	wolfgang köhler --> influence node influenced --> [u'Maurice Merleau-Ponty', u'Lev Vygotsky']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> person date of birth --> [u'1946-04-17']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> nobel honor subject area --> [u'Monoclonal Antibody']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> award honor award winner --> [u'Niels Kaj Jerne', u'C\xe9sar Milstein']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> award honor award --> [u'Albert Lasker Award for Basic Medical Research', u'Nobel Prize in Physiology or Medicine']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> person place of birth --> [u'Munich']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> person profession --> [u'Scientist']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> education institution --> [u'Albert Ludwigs University of Freiburg']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> person gender --> [u'Male']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> deceased person date of death --> [u'1995-03-01']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> object name --> [u'Georges J. F. K\xf6hler']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> award honor honored for --> [u'Monoclonal Antibody']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> nobel honor nobel prize winner --> [u'Niels Kaj Jerne', u'C\xe9sar Milstein']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> person nationality --> [u'Germany']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> award honor notes description --> [u'""for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies""', u'For his brilliant achievement in fusing plasma and myeloma cells to form the first hybridoma.']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> deceased person place of death --> [u'Freiburg im Breisgau']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> topic alias --> [u'Georges J. F. Kohler']	0
+where are kohler sinks manufactured?	6	georges j. f. köhler --> award honor year --> [u'1984']	0
+where are kohler sinks manufactured?	6	kohler company --> leadership from --> [u'1972']	0
+where are kohler sinks manufactured?	6	kohler company --> company brand relationship brand --> [u'Kohler']	0
+where are kohler sinks manufactured?	6	kohler company --> organization date founded --> [u'1873']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times wednesday closing time --> [u'T17:00']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox contact category --> [u'Customer service']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times monday closing time --> [u'T17:00']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times tuesday open time --> [u'T08:00']	0
+where are kohler sinks manufactured?	6	kohler company --> mailing address citytown --> [u'Kohler']	5
+where are kohler sinks manufactured?	6	kohler company --> object name --> [u'Kohler Company']	0
+where are kohler sinks manufactured?	6	kohler company --> webpage category --> [u'Official Website']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times thursday open time --> [u'T08:00']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times wednesday open time --> [u'T08:00']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox service location --> [u'United States of America', u'Canada']	0
+where are kohler sinks manufactured?	6	kohler company --> business operation industry --> [u'Manufacturing', u'Hospitality']	0
+where are kohler sinks manufactured?	6	kohler company --> topic official website --> [u'http://www.kohler.com/']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times thursday closing time --> [u'T17:00']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times time zone --> [u'Central Time Zone']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox description --> [u'Customer Care Center', u'For general inquiries or information']	0
+where are kohler sinks manufactured?	6	kohler company --> leadership title --> [u'Chairman and Chief Executive Officer']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times friday closing time --> [u'T17:00']	0
+where are kohler sinks manufactured?	6	kohler company --> mailing address state province region --> [u'Wisconsin']	1
+where are kohler sinks manufactured?	6	kohler company --> leadership role --> [u'Chief Executive Officer']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox number --> [u'(800) 456-4537', u'(920) 457-4441']	0
+where are kohler sinks manufactured?	6	kohler company --> leadership person --> [u'Herbert Kohler, Jr.']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox service language --> [u'English Language']	0
+where are kohler sinks manufactured?	6	kohler company --> webpage uri --> [u'http://www.kohler.com', u'http://www.kohler.com/']	0
+where are kohler sinks manufactured?	6	kohler company --> organization extra contact webpage --> [u'http://www.ca.kohler.com/general/contact.jsp', u'http://www.kohler.com/corporate/contact/contact-us.html']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times monday open time --> [u'T08:00']	0
+where are kohler sinks manufactured?	6	kohler company --> mailing address country --> [u'United States of America']	0
+where are kohler sinks manufactured?	6	kohler company --> topic image --> [u'KohlerCompanyHeadquartersApril2008', u'Company headquarters in Kohler, Wisconsin']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox toll free --> [u'0', u'1']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox country code --> [u'1']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times tuesday closing time --> [u'T17:00']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox caller category --> [u'Consumer Service']	0
+where are kohler sinks manufactured?	6	kohler company --> phone sandbox hearing impaired --> [u'0']	0
+where are kohler sinks manufactured?	6	kohler company --> phone open times friday open time --> [u'T08:00']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> person date of birth --> [u'1965-10-06']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position appearances --> [u'102']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> person profession --> [u'Coach']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> sports team roster to --> [u'1987', u'1989', u'1991', u'1995', u'2002']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> topic alias --> [u'Jurgen Kohler']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> person gender --> [u'Male']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position team --> [u'Borussia Dortmund', u'FC Bayern Munich', u'VfR Aalen', u'1. FC K\xf6ln', u'SV Waldhof Mannheim']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> person weight kg --> [u'87']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> person nationality --> [u'Germany', u'West Germany']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position from --> [u'1983', u'1987', u'1989', u'1991', u'1995']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> pro sports played sport --> [u'Football']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> object name --> [u'J\xfcrgen Kohler']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football player position s --> [u'Defender']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football player stats team --> [u'Borussia Dortmund', u'FC Bayern Munich', u'VfR Aalen', u'1. FC K\xf6ln', u'SV Waldhof Mannheim']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> person height meters --> [u'1.86']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position appearances --> [u'102']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football player stats to --> [u'1987', u'1989', u'1991', u'1995', u'2002']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football player stats total goals --> [u'8']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position team --> [u'Borussia Dortmund', u'FC Bayern Munich', u'VfR Aalen', u'1. FC K\xf6ln', u'SV Waldhof Mannheim']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> person place of birth --> [u'Lambsheim']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football player stats appearances --> [u'102']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position to --> [u'1987', u'1989', u'1991', u'1995', u'2002']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position total goals --> [u'8']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> sports team roster team --> [u'Borussia Dortmund', u'FC Bayern Munich', u'VfR Aalen', u'1. FC K\xf6ln', u'SV Waldhof Mannheim']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> sports team roster from --> [u'1983', u'1987', u'1989', u'1991', u'1995']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> sports team roster to --> [u'1987', u'1989', u'1991', u'1995', u'2002']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position total goals --> [u'8']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position to --> [u'1987', u'1989', u'1991', u'1995', u'2002']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football roster position from --> [u'1983', u'1987', u'1989', u'1991', u'1995']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> sports team roster from --> [u'1983', u'1987', u'1989', u'1991', u'1995']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> football player stats from --> [u'1983', u'1987', u'1989', u'1991', u'1995']	0
+where are kohler sinks manufactured?	6	jürgen kohler --> sports team roster team --> [u'Borussia Dortmund', u'FC Bayern Munich', u'VfR Aalen', u'1. FC K\xf6ln', u'SV Waldhof Mannheim']	0

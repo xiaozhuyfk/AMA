@@ -1,0 +1,605 @@
+what part of the country is ohio considered?	37257	countries of the united kingdom --> object name --> [u'Countries of the United Kingdom']	0
+what part of the country is ohio considered?	37257	countries of the united kingdom --> topic image --> [u'United Kingdom labelled map7']	0
+what part of the country is ohio considered?	37257	country is --> object name --> [u'Country Is']	0
+what part of the country is ohio considered?	37257	turkey --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+what part of the country is ohio considered?	37257	turkey --> government position held office position or title --> [u'President of Turkey', u'Turkish Industry and Commerce Ministry', u'Prime Minister of Turkey']	24
+what part of the country is ohio considered?	37257	turkey --> bibs location loc type --> [u'Country']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage rate --> [u'0', u'0.008458', u'0.049869', u'0.081691', u'0.192725']	0
+what part of the country is ohio considered?	37257	turkey --> location partially contains --> [u'Caucasus Mountains', u'Mount Aqraa', u'Khabur River']	14
+what part of the country is ohio considered?	37257	turkey --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	turkey --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> taxonomy entry prefix --> [u'DR']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> competitor competition relationship rank --> [u'1', u'2', u'3']	0
+what part of the country is ohio considered?	37257	turkey --> location people born here --> [u'Enis Aslany\xfcrek', u'Udi Hrant Kenkulian', u'Kemal Akbaba', u'Fatin R\xfc\u015ft\xfc Zorlu', u'Hayati Akbas']	1
+what part of the country is ohio considered?	37257	turkey --> olympic medal honor medalist --> [u'R\u0131za Kayaalp', u'Hamza Yerlikaya', u'Dursan Ali Egribas', u'Aydin Polatci', u'Mehmet Akif Pirim']	0
+what part of the country is ohio considered?	37257	turkey --> country currency formerly used --> [u'Turkish lira', u'Revaluation of the Turkish Lira']	7
+what part of the country is ohio considered?	37257	turkey --> military command military conflict --> [u'Cuban missile crisis']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what part of the country is ohio considered?	37257	turkey --> administrative area adjectival form --> [u'Turkish']	0
+what part of the country is ohio considered?	37257	turkey --> country fips  --> [u'TU']	0
+what part of the country is ohio considered?	37257	turkey --> topic official website --> [u'http://www.turkiye.gov.tr']	0
+what part of the country is ohio considered?	37257	turkey --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> location partially containedby --> [u'Europe', u'Asia', u'Anatolia', u'Southeast Europe', u'Western Asia']	540
+what part of the country is ohio considered?	37257	turkey --> olympic athlete affiliation sport --> [u'Boxing', u'Figure skating', u'Track and field athletics', u'Basketball', u'Badminton']	4
+what part of the country is ohio considered?	37257	turkey --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	1
+what part of the country is ohio considered?	37257	turkey --> organization membership organization --> [u'World Bank', u'League of Nations', u'G-20 major economies', u'Organisation for Economic Co-operation and Development', u'UNESCO']	19
+what part of the country is ohio considered?	37257	turkey --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+what part of the country is ohio considered?	37257	turkey --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2004 Summer Olympics', u'2006 Winter Olympics', u'2008 Summer Olympics']	14
+what part of the country is ohio considered?	37257	turkey --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0
+what part of the country is ohio considered?	37257	turkey --> national anthem of a country official anthem since --> [u'1921-03-12']	0
+what part of the country is ohio considered?	37257	turkey --> military command military commander --> [u'Cemal G\xfcrsel']	0
+what part of the country is ohio considered?	37257	turkey --> dated kilowatt hour number --> [u'90.055', u'94.413', u'109.032', u'117.239', u'128.384']	0
+what part of the country is ohio considered?	37257	turkey --> recurring money value currency --> [u'Euro']	2
+what part of the country is ohio considered?	37257	turkey --> government position held office holder --> [u'Nihat Erg\xfcn', u'Muammer G\xfcler', u'Abdullah G\xfcl', u'Cevdet Sunay', u'Cemal G\xfcrsel']	2
+what part of the country is ohio considered?	37257	turkey --> competitor competition relationship competitors --> [u'Karin Melis Mey', u'Ahmet Arslan', u'Sevilay Eytemis', u'Cesminaz Yilmaz', u'Yasemin Can']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> dated percentage date --> [u'2005-01', u'2005-02', u'2005-03', u'2005-04', u'2005-05']	0
+what part of the country is ohio considered?	37257	turkey --> olympic participating country olympics participated in --> [u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics', u'1952 Summer Olympics', u'1948 Winter Olympics']	2
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> military combatant armed forces --> [u'General Staff of the Republic of Turkey']	1
+what part of the country is ohio considered?	37257	turkey --> organization scope organizations with this scope --> [u'Turkish Volleyball Federation', u'Bir Kitap Al', u'Avea', u'Liberal Republican Party', u'Communist Party of Turkey']	4
+what part of the country is ohio considered?	37257	turkey --> country first level divisions --> [u'Southeastern Anatolia Region', u'Marmara Region', u'Ankara Province', u'Black Sea Region', u'Mediterranean Region, Turkey']	376
+what part of the country is ohio considered?	37257	turkey --> country languages spoken --> [u'Arabic Language', u'Ladino Language', u'Turkish Language', u'Kurdish language', u'Zazaki language']	196
+what part of the country is ohio considered?	37257	turkey --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what part of the country is ohio considered?	37257	turkey --> country calling code --> [u'90']	0
+what part of the country is ohio considered?	37257	turkey --> adjoining relationship adjoins --> [u'Bulgaria', u'Iran', u'Iraq', u'Georgia', u'Greece']	2328
+what part of the country is ohio considered?	37257	turkey --> olympic medal honor event --> [u"Taekwondo at the 2008 Summer Olympics \u2013 Men's 68 kg", u"Wrestling at the 1964 summer Olympics - Men's Greco-Roman Lightweight", u"Wrestling at the 1964 summer Olympics - Men's Freestyle Welterweight", u"Athletics at the 2004 Summer Olympics \u2013 Men's hammer throw", u"Weightlifting at the 1996 Summer Olympics - Men's Featherweight 59-64 kg"]	0
+what part of the country is ohio considered?	37257	turkey --> geocode longitude --> [u'34.0723020635']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	14
+what part of the country is ohio considered?	37257	turkey --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> organization founder organizations founded --> [u'UNESCO', u'United Nations', u'Vak\u0131fBank']	42
+what part of the country is ohio considered?	37257	turkey --> dated percentage rate --> [u'2.298392', u'2.311697', u'2.315999', u'2.414181', u'2.501342']	0
+what part of the country is ohio considered?	37257	turkey --> olympic participating country ioc code --> [u'TUR']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0
+what part of the country is ohio considered?	37257	turkey --> dated kgoe number --> [u'375.499', u'379.604', u'400.01', u'409.869', u'421.837']	0
+what part of the country is ohio considered?	37257	turkey --> country currency used --> [u'Turkish lira']	7
+what part of the country is ohio considered?	37257	turkey --> dated float number --> [u'2.063', u'2.088', u'2.111', u'2.129', u'2.145']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> country iso  shortname --> [u'TURKEY']	0
+what part of the country is ohio considered?	37257	turkey --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage date --> [u'2000', u'2001', u'2002', u'2003', u'2004']	0
+what part of the country is ohio considered?	37257	turkey --> breed origin breeds originating here --> [u'Sultan', u'Kangal dog', u'Turkish Angora', u'Akbash Dog', u'Anatolian Shepherd Dog']	0
+what part of the country is ohio considered?	37257	turkey --> dated integer source --> [u'Turkish Statistical Institute', u'World Bank, World Development Indicators, Population']	0
+what part of the country is ohio considered?	37257	turkey --> newspaper circulation area newspapers --> [u'Stars and Stripes', u"Today's Zaman", u'Bug\xfcn', u'Zaman', u'H\xfcrriyet Daily News']	1
+what part of the country is ohio considered?	37257	turkey --> adjusted money value adjusted value --> [u'44566050533', u'45081264990', u'47592935468', u'51907856546', u'54741536059']	0
+what part of the country is ohio considered?	37257	turkey --> project participation project --> [u'Improvement of Maritime Links between TRACEA and TENs Corridors']	0
+what part of the country is ohio considered?	37257	turkey --> adjusted money value adjustment currency --> [u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> administrative area administrative parent --> [u'Earth']	0
+what part of the country is ohio considered?	37257	turkey --> webpage uri --> [u'http://statoids.com/utr.html']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> flag use flag --> [u'Flag of Turkey']	3
+what part of the country is ohio considered?	37257	turkey --> country second level divisions --> [u'Hatay Province', u'G\xfcm\xfc\u015fhane Province', u'Bayburt Province', u'Adana Province', u'Karaman Province']	130
+what part of the country is ohio considered?	37257	turkey --> sports team location teams --> [u"Fenerbah\xe7e Men's Basketball Team", u'P\u0131nar Kar\u015f\u0131yaka', u"Turkey women's national rugby union team", u'Anadolu Efes S.K.', u'Turkey national cricket team']	3
+what part of the country is ohio considered?	37257	turkey --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> recurring money value date --> [u'1999-01', u'1999-07', u'2000-01', u'2000-07', u'2001-01']	0
+what part of the country is ohio considered?	37257	turkey --> location events --> [u'1934 Thrace pogroms', u'Battle of Svindax', u'Battle of Dumlup\u0131nar', u'Battle of Satala', u'Battle of the Oinousses Islands']	0
+what part of the country is ohio considered?	37257	turkey --> competitor competition relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	1
+what part of the country is ohio considered?	37257	turkey --> location adjectival form --> [u'Turk', u'Turkish']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+what part of the country is ohio considered?	37257	turkey --> dated metric ton number --> [u'0.597308', u'0.600921', u'0.72997', u'0.746344', u'0.846562']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+what part of the country is ohio considered?	37257	turkey --> linguistic hint adjectival form --> [u'Turkish']	0
+what part of the country is ohio considered?	37257	turkey --> countries continent --> [u'Eurasia']	11
+what part of the country is ohio considered?	37257	turkey --> administrative area subdividing type --> [u'Turkish region']	0
+what part of the country is ohio considered?	37257	turkey --> government position held to --> [u'2000-05-16', u'1973-03-28', u'1950-05-22', u'1996-03-06', u'1993-05-16']	0
+what part of the country is ohio considered?	37257	turkey --> webpage category --> [u'Topic Equivalent']	0
+what part of the country is ohio considered?	37257	turkey --> government position held basic title --> [u'President', u'Prime minister', u'Minister', u'Ministry of the Interior']	8
+what part of the country is ohio considered?	37257	turkey --> recurring money value currency --> [u'Euro', u'Euro', u'Euro', u'Euro', u'Euro']	2
+what part of the country is ohio considered?	37257	turkey --> military combatant group conflict --> [u'August 2011 Turkey-Iraq cross-border raids', u'Iraqi Kurdish Civil War', u'Battle of Ko\u0161are', u'Operation Hammer', u'Dersim Rebellion']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage rate --> [u'-5.697477', u'-4.825875', u'-4.668147', u'-3.365345', u'-2.44735']	0
+what part of the country is ohio considered?	37257	turkey --> country capital --> [u'Ankara']	479
+what part of the country is ohio considered?	37257	turkey --> recurring money value frequency --> [u'Month', u'Month', u'Month', u'Month', u'Month']	0
+what part of the country is ohio considered?	37257	turkey --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage rate --> [u'7.8', u'7.9', u'8', u'8.1', u'8.2']	0
+what part of the country is ohio considered?	37257	turkey --> country internet tld --> [u'tr']	2
+what part of the country is ohio considered?	37257	turkey --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage date --> [u'1990', u'1993', u'1994', u'1995', u'1996']	0
+what part of the country is ohio considered?	37257	turkey --> beer country region beers from here --> [u'Turk Tuborg Troy']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value valid date --> [u'2008']	0
+what part of the country is ohio considered?	37257	turkey --> valuenotation has no value --> [u'Date dissolved']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value valid date --> [u'2004']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value amount --> [u'12900']	0
+what part of the country is ohio considered?	37257	turkey --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	turkey --> location primarily containedby --> [u'Asia', u'Western Asia']	141
+what part of the country is ohio considered?	37257	turkey --> administrative area short name --> [u'tr']	0
+what part of the country is ohio considered?	37257	turkey --> dated location date founded --> [u'1923-10-29']	0
+what part of the country is ohio considered?	37257	turkey --> country form of government --> [u'Unitary state', u'Parliamentary republic']	1
+what part of the country is ohio considered?	37257	turkey --> competitor competition relationship competition --> [u'Junior Women race at 2011 European Mountain Running Championships', u"2009 World Championships in Athletics \u2013 Women's long jump", u'Junior Women individual race at 2012 World Mountain Running Championships', u'Senior Men race at 2011 European Mountain Running Championships', u'Senior Men race at 2012 European Mountain Running Championships']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	turkey --> adjusted money value adjustment date --> [u'2000']	0
+what part of the country is ohio considered?	37257	turkey --> book subject works --> [u'Ataturk', u'Crescent & Star: Turkey Between Two Worlds', u'Turkey', u'Crescent and cross', u"Des femmes sur les routes de l'Orient"]	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> organization membership to --> [u'1946-04-18']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> location contains --> [u'Tille H\xf6y\xfck', u'Honaz', u'Temple of Artemis', u'Halana', u'Tirebolu']	6
+what part of the country is ohio considered?	37257	turkey --> topic alias --> [u'T\xfcrkiye', u'Republic of Turkey', u'Turkiye']	0
+what part of the country is ohio considered?	37257	turkey --> flag use from date --> [u'1936-05-29']	0
+what part of the country is ohio considered?	37257	turkey --> court jurisdiction area courts --> [u'Constitutional Court of Turkey']	2
+what part of the country is ohio considered?	37257	turkey --> taxonomy entry high --> [u'741']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value amount --> [u'20000000']	0
+what part of the country is ohio considered?	37257	turkey --> organization membership from --> [u'1946', u'1999', u'1932-07-18', u'1945-10-24']	0
+what part of the country is ohio considered?	37257	turkey --> location area --> [u'783562']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	turkey --> recurring money value frequency --> [u'Month']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'Turkish lira']	7
+what part of the country is ohio considered?	37257	turkey --> recurring money value amount --> [u'157.36', u'158.99', u'174.87', u'176.06', u'189.12']	0
+what part of the country is ohio considered?	37257	turkey --> governmental jurisdiction agencies --> [u'Turkish Ministry of Transportation', u'Turkish Statistical Institute', u'Turkish Ministry of Finance', u'Turkish General Command of Mapping', u'National Intelligence Organization']	2
+what part of the country is ohio considered?	37257	turkey --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	turkey --> country administrative divisions --> [u'Hatay Province', u'G\xfcm\xfc\u015fhane Province', u'Bayburt Province', u'Adana Province', u'Karaman Province']	130
+what part of the country is ohio considered?	37257	turkey --> competitor competition relationship tournament --> [u'2009 World Championships in Athletics', u'2011 European Mountain Running Championships', u'2012 European Mountain Running Championships']	1
+what part of the country is ohio considered?	37257	turkey --> dated float number --> [u'48.271', u'48.352', u'48.424', u'48.49', u'48.562']	0
+what part of the country is ohio considered?	37257	turkey --> governmental jurisdiction government bodies --> [u'Grand National Assembly of Turkey']	22
+what part of the country is ohio considered?	37257	turkey --> administrative area pertinent type --> [u'Turkish district', u'Turkish province', u'Turkish region']	0
+what part of the country is ohio considered?	37257	turkey --> location time zones --> [u'Eastern European Time', u'UTC+02:00']	33
+what part of the country is ohio considered?	37257	turkey --> administrative area administrative area type --> [u'Sovereign state']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+what part of the country is ohio considered?	37257	turkey --> film location featured in films --> [u'Samsara']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value amount --> [u'2130', u'2370', u'2540', u'2710', u'2930']	0
+what part of the country is ohio considered?	37257	turkey --> webpage resource --> [u'Statoids of Turkey']	0
+what part of the country is ohio considered?	37257	turkey --> topic exceptions --> [u'Turkish region is not suited to be the administrative division type for Turkish Region.']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> sport country multi event tournaments participated in --> [u'2012 World Mountain Running Championships']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> dated integer number --> [u'28160579', u'28894367', u'29633591', u'30373939', u'31109820']	0
+what part of the country is ohio considered?	37257	turkey --> imports and exports exported to --> [u'Algeria', u'Albania']	302
+what part of the country is ohio considered?	37257	turkey --> geocode latitude --> [u'39.1987665476']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> country official language --> [u'Turkish Language']	179
+what part of the country is ohio considered?	37257	turkey --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what part of the country is ohio considered?	37257	turkey --> dated percentage rate --> [u'1.21', u'1.25', u'1.29', u'1.32', u'1.34']	0
+what part of the country is ohio considered?	37257	turkey --> taxonomy entry low --> [u'401']	0
+what part of the country is ohio considered?	37257	turkey --> administrative area administrative children --> [u'Southeastern Anatolia Region', u'Marmara Region', u'Black Sea Region', u'Mediterranean Region, Turkey', u'Aegean Region']	186
+what part of the country is ohio considered?	37257	turkey --> government position held from --> [u'2007-08-28', u'1950-05-22', u'1938-11-11', u'1989-11-09', u'2009-05-01']	0
+what part of the country is ohio considered?	37257	turkey --> olympic athlete affiliation athlete --> [u'R\u0131za Kayaalp', u'\u0130lham Tanui \xd6zbilen', u'Nimet Karaku\u015f', u'Karin Melis Mey', u'Fatih Avan']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value currency --> [u'United States dollar']	3
+what part of the country is ohio considered?	37257	turkey --> dated money value amount --> [u'93757803283', u'107119977290', u'117429943321', u'128052230832', u'141509986473']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	turkey --> recurring money value source --> [u'Eurostat, Minimum Wage in Europe']	0
+what part of the country is ohio considered?	37257	turkey --> object name --> [u'Turkey']	0
+what part of the country is ohio considered?	37257	turkey --> topic image --> [u'Location of Turkey']	0
+what part of the country is ohio considered?	37257	turkey --> national anthem of a country anthem --> [u'\u0130stikl\xe2l Mar\u015f\u0131']	0
+what part of the country is ohio considered?	37257	turkey --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	turkey --> dated money value amount --> [u'8017479301', u'8919043238', u'10351885925', u'11172953082', u'11945722171']	0
+what part of the country is ohio considered?	37257	turkey --> governmental jurisdiction government positions --> [u'President of Turkey', u'Prime Minister of Turkey']	24
+what part of the country is ohio considered?	37257	turkey --> dated percentage rate --> [u'39.9', u'40', u'42.4', u'43.1', u'46.1']	0
+what part of the country is ohio considered?	37257	georgia --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+what part of the country is ohio considered?	37257	georgia --> government position held office position or title --> [u'President of Georgia', u'Prime Minister of Georgia']	24
+what part of the country is ohio considered?	37257	georgia --> bibs location loc type --> [u'Country']	0
+what part of the country is ohio considered?	37257	georgia --> disputed location claimant disputed territories --> [u'Mount Khalatsa', u'Tsiteli Khati']	0
+what part of the country is ohio considered?	37257	georgia --> dated percentage rate --> [u'0', u'0.012675', u'0.043331', u'0.066214', u'0.111456']	0
+what part of the country is ohio considered?	37257	georgia --> location partially contains --> [u'Mount Dzhimara', u'Greater Caucasus', u'Caucasus Mountains', u'Blue Ridge Mountains', u'Dombay-Ulgen']	47
+what part of the country is ohio considered?	37257	georgia --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	georgia --> dated kilowatt hour date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+what part of the country is ohio considered?	37257	georgia --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> location people born here --> [u'Henry Kuprashvili', u'David Tevzadze', u'Giorgi Karkarashvili', u'Emzar Kvitsiani', u'George IV of Georgia']	0
+what part of the country is ohio considered?	37257	georgia --> olympic medal honor medalist --> [u'Eldar Kurtanidze', u'Dato Marsagishvili', u'Renato Gomes', u'Davit Modzmanashvili', u'Giorgi Gogshelidze']	1
+what part of the country is ohio considered?	37257	georgia --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what part of the country is ohio considered?	37257	georgia --> administrative area adjectival form --> [u'Georgian']	0
+what part of the country is ohio considered?	37257	georgia --> country fips  --> [u'GG']	0
+what part of the country is ohio considered?	37257	georgia --> dated kgoe date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value amount --> [u'5000']	0
+what part of the country is ohio considered?	37257	georgia --> location partially containedby --> [u'Europe']	29
+what part of the country is ohio considered?	37257	georgia --> olympic athlete affiliation sport --> [u'Boxing', u'Rowing', u'Figure skating', u'Tennis', u'Alpine skiing']	3
+what part of the country is ohio considered?	37257	georgia --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+what part of the country is ohio considered?	37257	georgia --> organization membership organization --> [u'World Bank', u'Asian Development Bank', u'Council of Europe', u'GUAM Organization for Democracy and Economic Development', u'United Nations']	18
+what part of the country is ohio considered?	37257	georgia --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	georgia --> fictional setting fictional characters born here --> [u'Amanda Rollins', u'Kim Rollins']	0
+what part of the country is ohio considered?	37257	georgia --> kingdom rulers --> [u'Rusudan of Georgia', u'George IV of Georgia', u'George III of Georgia', u'Yury Bogolyubsky', u'Bakar of Georgia']	4
+what part of the country is ohio considered?	37257	georgia --> administrative area administrative parent --> [u'Earth']	0
+what part of the country is ohio considered?	37257	georgia --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+what part of the country is ohio considered?	37257	georgia --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2006 Winter Olympics', u'2008 Summer Olympics']	24
+what part of the country is ohio considered?	37257	georgia --> national anthem of a country official anthem since --> [u'2004', u'1918', u'1990-11-14']	0
+what part of the country is ohio considered?	37257	georgia --> dated kilowatt hour number --> [u'1119.776', u'1278.136', u'1435.384', u'1449.252', u'1452.821']	0
+what part of the country is ohio considered?	37257	georgia --> government position held office holder --> [u'Mikheil Saakashvili', u'Vano Merabishvili', u'Bidzina Ivanishvili', u'Nika Gilauri']	30
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> olympic medal honor event --> [u"Judo at the 2004 Summer Olympics - Men's Middleweight (90 kg)", u"Judo at the 2012 Summer Olympics \u2013 Men's 66 kg", u"Wrestling at the 1996 Summer Olympics - Men's Freestyle Light Heavyweight", u"Wrestling at the 2008 Summer Olympics - Men's freestyle Middleweight", u"Judo at the 1996 Summer Olympics - Men's Half Middleweight (78kg)"]	0
+what part of the country is ohio considered?	37257	georgia --> olympic participating country olympics participated in --> [u'2010 Winter Olympics']	4
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> organization scope organizations with this scope --> [u'United National Movement', u'Conservative Party of Georgia', u'Green Party', u'Democratic Movement \u2013 United Georgia', u'Industry Will Save Georgia']	5
+what part of the country is ohio considered?	37257	georgia --> country languages spoken --> [u'Russian Language', u'Georgian Language', u'Abkhaz Language']	46
+what part of the country is ohio considered?	37257	georgia --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what part of the country is ohio considered?	37257	georgia --> country calling code --> [u'995']	0
+what part of the country is ohio considered?	37257	georgia --> adjoining relationship adjoins --> [u'Russia', u'Turkey', u'Armenia', u'Black Sea', u'Azerbaijan']	1133
+what part of the country is ohio considered?	37257	georgia --> geocode longitude --> [u'43.2781482407']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics', u'2008 Summer Olympics']	30
+what part of the country is ohio considered?	37257	georgia --> dated percentage rate --> [u'0.615582', u'0.740186', u'0.924375', u'1.000533', u'1.068414']	0
+what part of the country is ohio considered?	37257	georgia --> olympic participating country ioc code --> [u'GEO']	0
+what part of the country is ohio considered?	37257	georgia --> dated kgoe number --> [u'584.118', u'586.075', u'625.181', u'625.77', u'644.216']	0
+what part of the country is ohio considered?	37257	georgia --> country currency used --> [u'Georgian lari']	1
+what part of the country is ohio considered?	37257	georgia --> dated float number --> [u'1.555', u'1.563', u'1.568', u'1.571', u'1.572']	0
+what part of the country is ohio considered?	37257	georgia --> dated percentage date --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> country iso  shortname --> [u'GEORGIA']	0
+what part of the country is ohio considered?	37257	georgia --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+what part of the country is ohio considered?	37257	georgia --> breed origin breeds originating here --> [u'Caucasian Shepherd Dog']	1
+what part of the country is ohio considered?	37257	georgia --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+what part of the country is ohio considered?	37257	georgia --> newspaper circulation area newspapers --> [u'Proletariatis Brdzola', u'Georgian Business Week']	0
+what part of the country is ohio considered?	37257	georgia --> adjusted money value adjusted value --> [u'2244886381', u'2303253365', u'2505453416', u'2561217795', u'2830633310']	0
+what part of the country is ohio considered?	37257	georgia --> project participation project --> [u'Improvement of Maritime Links between TRACEA and TENs Corridors']	0
+what part of the country is ohio considered?	37257	georgia --> adjusted money value adjustment currency --> [u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> flag use flag --> [u'Flag of Georgia']	5
+what part of the country is ohio considered?	37257	georgia --> sports team location teams --> [u'BC Dinamo Tbilisi', u'Georgia national football team']	11
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> place of interment interred here --> [u'Mikhail Loris-Melikov']	0
+what part of the country is ohio considered?	37257	georgia --> location events --> [u'Russian Civil War', u'Georgian Civil War', u'Ottoman\u2013Persian War', u'2007 Georgian demonstrations', u'Lazic War']	13
+what part of the country is ohio considered?	37257	georgia --> location adjectival form --> [u'Georgian']	0
+what part of the country is ohio considered?	37257	georgia --> religion percentage percentage --> [u'9.9', u'81.9']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+what part of the country is ohio considered?	37257	georgia --> dated metric ton number --> [u'0.486455', u'0.77767', u'0.859401', u'0.871663', u'0.880982']	0
+what part of the country is ohio considered?	37257	georgia --> dated percentage date --> [u'1966', u'1967', u'1968', u'1969', u'1970']	0
+what part of the country is ohio considered?	37257	georgia --> administrative area subdividing type --> [u'Georgian region']	0
+what part of the country is ohio considered?	37257	georgia --> government position held to --> [u'2012-10-25', u'2007-11-25', u'2012-07-04']	0
+what part of the country is ohio considered?	37257	georgia --> government position held basic title --> [u'President', u'Prime minister']	1
+what part of the country is ohio considered?	37257	georgia --> linguistic hint adjectival form --> [u'Georgian']	0
+what part of the country is ohio considered?	37257	georgia --> countries continent --> [u'Europe']	29
+what part of the country is ohio considered?	37257	georgia --> dated percentage rate --> [u'-44.9', u'-29.300001', u'-21.1', u'-14.788226', u'-10.399995']	0
+what part of the country is ohio considered?	37257	georgia --> country capital --> [u'Tbilisi']	525
+what part of the country is ohio considered?	37257	georgia --> adjusted money value measurement date --> [u'1965', u'1966', u'1967', u'1968', u'1969']	0
+what part of the country is ohio considered?	37257	georgia --> country internet tld --> [u'ge']	2
+what part of the country is ohio considered?	37257	georgia --> governmental jurisdiction government bodies --> [u'Parliament of Georgia']	11
+what part of the country is ohio considered?	37257	georgia --> location containedby --> [u'Eastern Europe', u'Eurasia', u'North Caucasus']	39
+what part of the country is ohio considered?	37257	georgia --> dated percentage date --> [u'1990', u'1995', u'1996', u'1997', u'1998']	0
+what part of the country is ohio considered?	37257	georgia --> national anthem of a country official anthem until --> [u'1922', u'2004-04-23']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value valid date --> [u'2008']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value valid date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+what part of the country is ohio considered?	37257	georgia --> dated metric ton date --> [u'1992', u'1993', u'1994', u'1995', u'1996']	0
+what part of the country is ohio considered?	37257	georgia --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	georgia --> administrative area short name --> [u'ge']	0
+what part of the country is ohio considered?	37257	georgia --> military unit place of origin military units --> [u'43rd Georgia Volunteer Infantry', u'1st Battalion, Georgia Cavalry', u'61st Georgia Volunteer Infantry', u'9th Georgia Volunteer Infantry', u'1st Battalion of Georgia Infantry (Union)']	0
+what part of the country is ohio considered?	37257	georgia --> dated location date founded --> [u'1008']	0
+what part of the country is ohio considered?	37257	georgia --> religion percentage religion --> [u'Islam', u'Orthodox Christianity']	6
+what part of the country is ohio considered?	37257	georgia --> country form of government --> [u'Republic', u'Unitary state', u'Semi-presidential system']	0
+what part of the country is ohio considered?	37257	georgia --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	georgia --> adjusted money value adjustment date --> [u'2000']	0
+what part of the country is ohio considered?	37257	georgia --> book subject works --> [u'The River of Winged Dreams', u'All Night in Savannah the Wind Wrote Poetry', u'Literary Savannah (Magazine)', u"C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston", u'Going Home']	0
+what part of the country is ohio considered?	37257	georgia --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	georgia --> organization membership to --> [u'2008-08-18']	0
+what part of the country is ohio considered?	37257	georgia --> government position held appointed by --> [u'Mikheil Saakashvili']	29
+what part of the country is ohio considered?	37257	georgia --> location contains --> [u'Pitsunda', u'Krtsanis Tsiranavor Surb Astvatsatsin', u'The University of Georgia', u'Mestia', u'Kvareli']	10
+what part of the country is ohio considered?	37257	georgia --> topic alias --> [u'Republic of Georgia']	0
+what part of the country is ohio considered?	37257	georgia --> flag use from date --> [u'2004-01-25']	0
+what part of the country is ohio considered?	37257	georgia --> organization membership from --> [u'1992-07-31', u'1993-12-03']	0
+what part of the country is ohio considered?	37257	georgia --> location area --> [u'69700']	0
+what part of the country is ohio considered?	37257	georgia --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	georgia --> governmental jurisdiction agencies --> [u'National Statistics Office', u'Georgian Ministry of Education and Science']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	georgia --> country administrative divisions --> [u'Kvemo Kartli', u'Abkhazia', u'Tbilisi', u'Mtskheta-Mtianeti', u'Imereti']	742
+what part of the country is ohio considered?	37257	georgia --> dated float number --> [u'63.428', u'63.828', u'64.23', u'64.634', u'65.036']	0
+what part of the country is ohio considered?	37257	georgia --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	georgia --> administrative area pertinent type --> [u'Georgian city', u'Georgian district', u'Georgian region']	0
+what part of the country is ohio considered?	37257	georgia --> location time zones --> [u'UTC+04:00']	1
+what part of the country is ohio considered?	37257	georgia --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value amount --> [u'1300', u'1370', u'1410', u'1620', u'1980']	0
+what part of the country is ohio considered?	37257	georgia --> topic exceptions --> [u'Georgian region is subdivided by types at different levels.', u'Georgian city subdivides types at different levels.']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> dated integer number --> [u'3645600', u'3703600', u'3760300', u'3816100', u'3870300']	0
+what part of the country is ohio considered?	37257	georgia --> geocode latitude --> [u'42.1901698148']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> country official language --> [u'Georgian Language']	39
+what part of the country is ohio considered?	37257	georgia --> dated percentage rate --> [u'-2.8', u'-2.66', u'-2.52', u'-1.85', u'-1.01']	0
+what part of the country is ohio considered?	37257	georgia --> government position held from --> [u'2012-10-25', u'2008-01-20', u'2009-02-06', u'2012-07-04', u'2004-01-25']	0
+what part of the country is ohio considered?	37257	georgia --> olympic athlete affiliation athlete --> [u'Nodar Kumaritashvili', u'Luba Golovina', u'Vladimer Gegeshidze', u'Dato Marsagishvili', u'Davit Modzmanashvili']	6
+what part of the country is ohio considered?	37257	georgia --> dated money value currency --> [u'United States dollar']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value amount --> [u'6339269253', u'6475071917', u'6940172198', u'7491973287', u'8951794726']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	georgia --> object name --> [u'Georgia']	0
+what part of the country is ohio considered?	37257	georgia --> topic image --> [u'Location of Georgia (country)', u'Gruzijos prezidento priesaikos ceremonija, 2004 sausis', u'Ort-Gerogien']	0
+what part of the country is ohio considered?	37257	georgia --> national anthem of a country anthem --> [u'Tavisupleba', u'Dideba']	0
+what part of the country is ohio considered?	37257	georgia --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	georgia --> dated money value amount --> [u'2513870709', u'2693731880', u'2701180604', u'2800024342', u'3057453461']	0
+what part of the country is ohio considered?	37257	georgia --> governmental jurisdiction government positions --> [u'President of Georgia']	19
+what part of the country is ohio considered?	37257	philippines --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+what part of the country is ohio considered?	37257	philippines --> government position held office position or title --> [u'Governor-General of the Philippines', u'President of the Philippines', u'Assistant Secretary', u'High Commissioner to the Philippines', u'Vice President of the Philippines']	21
+what part of the country is ohio considered?	37257	philippines --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics']	0
+what part of the country is ohio considered?	37257	philippines --> bibs location loc type --> [u'Country']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage rate --> [u'0', u'0.005844', u'0.028586', u'0.055946', u'0.136913']	0
+what part of the country is ohio considered?	37257	philippines --> location partially contains --> [u'Asian College of Science and Technology, main campus']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	philippines --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+what part of the country is ohio considered?	37257	philippines --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	philippines --> taxonomy entry prefix --> [u'DS']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> location people born here --> [u'Gionna Cabrera', u'Jose Calugas', u'Rafael V. Mariano', u'Clodualdo del Mundo Jr.', u'DJ Durano']	0
+what part of the country is ohio considered?	37257	philippines --> olympic medal honor medalist --> [u'Anthony Villanueva', u'Te\xf3filo Yldefonso', u'Mansueto Velasco', u'Leopoldo Serantes', u'Miguel White']	1
+what part of the country is ohio considered?	37257	philippines --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	philippines --> military command military conflict --> [u'Korean War', u'Battle of Pulang Lupa']	3
+what part of the country is ohio considered?	37257	philippines --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what part of the country is ohio considered?	37257	philippines --> dated kilowatt hour number --> [u'238.125', u'263.093', u'312.508', u'312.872', u'317.562']	0
+what part of the country is ohio considered?	37257	philippines --> country fips  --> [u'RP']	0
+what part of the country is ohio considered?	37257	philippines --> location containedby --> [u'Maritime Southeast Asia', u'Southeast Asia', u'Asia', u'Municipalities of the Philippines', u'Eurasia']	806
+what part of the country is ohio considered?	37257	philippines --> tv subject tv episodes --> [u'Lindell Shumake \u2013 prison ministry']	0
+what part of the country is ohio considered?	37257	philippines --> olympic athlete affiliation sport --> [u'Boxing', u'Track and field athletics', u'Swimming', u'Shooting sport', u'BMX racing']	11
+what part of the country is ohio considered?	37257	philippines --> olympic medal honor medal --> [u'Silver medal', u'Bronze medal']	0
+what part of the country is ohio considered?	37257	philippines --> organization membership organization --> [u'World Bank', u'UNESCO', u'Asian Development Bank', u'Association of Southeast Asian Nations', u'Asia-Pacific Economic Cooperation']	14
+what part of the country is ohio considered?	37257	philippines --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	philippines --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+what part of the country is ohio considered?	37257	philippines --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what part of the country is ohio considered?	37257	philippines --> national anthem of a country official anthem since --> [u'1898']	0
+what part of the country is ohio considered?	37257	philippines --> military command military commander --> [u'Fidel V. Ramos', u'Elpidio Quirino', u'Maximo Abad']	12
+what part of the country is ohio considered?	37257	philippines --> administrative area adjectival form --> [u'of the Philippines']	0
+what part of the country is ohio considered?	37257	philippines --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVipLpwpEbGdrcN5Y29ycA']	0
+what part of the country is ohio considered?	37257	philippines --> bibs location is clear --> [u'1']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> olympic medal honor event --> [u'Boxing at the 1996 Summer Olympics \u2013 Light flyweight', u"Swimming at the 1928 Summer Olympics \u2013 Men's 200 metre breaststroke", u"Swimming at the 1932 Summer Olympics \u2013 Men's 200 metre breaststroke", u'Boxing  at the 1988 Summer Olympics - Light Flyweight', u'Boxing at the 1964 Summer Olympics \u2013 Featherweight']	0
+what part of the country is ohio considered?	37257	philippines --> olympic participating country olympics participated in --> [u'2010 Winter Olympics', u'1936 Summer Olympics', u'1952 Summer Olympics']	3
+what part of the country is ohio considered?	37257	philippines --> government position held office holder --> [u'Sergio Osme\xf1a', u'Jos\xe9 P. Laurel', u'Francis Burton Harrison', u'William Howard Taft', u'Gloria Macapagal-Arroyo']	42
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> organization scope organizations with this scope --> [u'Ang Kapatiran', u'Pwersa ng Masang Pilipino', u'Abono', u'Bando Osme\xf1a \u2013 Pundok Kauswagan', u'Social Weather Stations']	1
+what part of the country is ohio considered?	37257	philippines --> topic subjects --> [u'Fire-resistance rating']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value amount --> [u'1330', u'1360', u'1400', u'1460', u'1470']	0
+what part of the country is ohio considered?	37257	philippines --> country languages spoken --> [u'English Language', u'Filipino language', u'Tagalog language', u'Hiligaynon language', u'Kapampangan language']	298
+what part of the country is ohio considered?	37257	philippines --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what part of the country is ohio considered?	37257	philippines --> country calling code --> [u'63']	0
+what part of the country is ohio considered?	37257	philippines --> geocode longitude --> [u'122.861327877']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> olympic medal honor olympics --> [u'1964 Summer Olympics', u'1996 Summer Olympics', u'1988 Summer Olympics', u'1936 Summer Olympics', u'1928 Summer Olympics']	6
+what part of the country is ohio considered?	37257	philippines --> organization founder organizations founded --> [u'Association of Southeast Asian Nations']	8
+what part of the country is ohio considered?	37257	philippines --> dated percentage rate --> [u'1.075217', u'1.221594', u'1.256893', u'1.303656', u'1.315164']	0
+what part of the country is ohio considered?	37257	philippines --> olympic participating country ioc code --> [u'PHI']	0
+what part of the country is ohio considered?	37257	philippines --> dated kgoe number --> [u'416.797', u'423.568', u'426.98', u'430.245', u'433.786']	0
+what part of the country is ohio considered?	37257	philippines --> country currency used --> [u'Philippine peso']	6
+what part of the country is ohio considered?	37257	philippines --> dated float number --> [u'3.099', u'3.142', u'3.194', u'3.255', u'3.325']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> country iso  shortname --> [u'PHILIPPINES']	0
+what part of the country is ohio considered?	37257	philippines --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+what part of the country is ohio considered?	37257	philippines --> cyclone affected area cyclones --> [u'Typhoon Ivan', u'Tropical Storm Halong', u'Typhoon Zeb', u'Typhoon Roy', u'Typhoon Lupit']	3
+what part of the country is ohio considered?	37257	philippines --> mythical creature location mythical creature s --> [u'Krasue', u'Kapre', u'Agta', u'Wakwak', u'Ekek']	1
+what part of the country is ohio considered?	37257	philippines --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+what part of the country is ohio considered?	37257	philippines --> newspaper circulation area newspapers --> [u'The Manila Times', u'The Philippine Star', u'Manila Bulletin']	4
+what part of the country is ohio considered?	37257	philippines --> adjusted money value adjusted value --> [u'17990832237', u'19001301599', u'19908256877', u'21313876851', u'22048562380']	0
+what part of the country is ohio considered?	37257	philippines --> adjusted money value adjustment currency --> [u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> administrative area administrative parent --> [u'Earth']	0
+what part of the country is ohio considered?	37257	philippines --> webpage uri --> [u'http://statoids.com/uph.html']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> flag use flag --> [u'Flag of the Philippines']	3
+what part of the country is ohio considered?	37257	philippines --> sports team location teams --> [u'Philippines national football team', u"Philippines men's national volleyball team"]	1
+what part of the country is ohio considered?	37257	philippines --> force strength force size --> [u'8200']	0
+what part of the country is ohio considered?	37257	philippines --> force strength military conflict --> [u'San Ildefonso Massacre']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> place of interment interred here --> [u'Leroy Johnson', u'Dale Eldon Christensen', u'George W. G. Boyce, Jr.', u'Ulysses G. Buzzard', u'Daniel Campbell']	0
+what part of the country is ohio considered?	37257	philippines --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+what part of the country is ohio considered?	37257	philippines --> location adjectival form --> [u'Filipino']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+what part of the country is ohio considered?	37257	philippines --> dated metric ton number --> [u'0.324542', u'0.328479', u'0.376452', u'0.403755', u'0.435627']	0
+what part of the country is ohio considered?	37257	philippines --> casualties lower estimate --> [u'144', u'1000']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+what part of the country is ohio considered?	37257	philippines --> countries continent --> [u'Asia']	116
+what part of the country is ohio considered?	37257	philippines --> casualties military conflict --> [u'San Ildefonso Massacre', u'Vietnam War']	17
+what part of the country is ohio considered?	37257	philippines --> administrative area subdividing type --> [u'Region of the Philippines']	0
+what part of the country is ohio considered?	37257	philippines --> government position held to --> [u'1901-04-01', u'1932', u'1936', u'1939', u'1961']	0
+what part of the country is ohio considered?	37257	philippines --> armorial grant coat of arms --> [u'Coat of arms of the Philippines']	1
+what part of the country is ohio considered?	37257	philippines --> webpage category --> [u'Tag', u'Topic Equivalent']	0
+what part of the country is ohio considered?	37257	philippines --> government position held basic title --> [u'President', u'Vice President', u'Senator', u'Governor-General']	8
+what part of the country is ohio considered?	37257	philippines --> linguistic hint adjectival form --> [u'Philippine']	0
+what part of the country is ohio considered?	37257	philippines --> military combatant group conflict --> [u'Philippine Revolts Against Spain', u'Negros Revolution', u'Invasion of Balete', u'San Ildefonso Massacre', u'Battle of Mindanao']	3
+what part of the country is ohio considered?	37257	philippines --> dated percentage rate --> [u'-7.323683', u'-7.306609', u'-0.578335', u'-0.576722', u'0.337603']	0
+what part of the country is ohio considered?	37257	philippines --> country capital --> [u'Manila']	903
+what part of the country is ohio considered?	37257	philippines --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	philippines --> country internet tld --> [u'tv', u'edu', u'ph']	1
+what part of the country is ohio considered?	37257	philippines --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage date --> [u'1990', u'1994', u'1995', u'1996', u'1997']	0
+what part of the country is ohio considered?	37257	philippines --> beer country region beers from here --> [u'San Miguel (Philippines) Red Horse Extra Strong', u'San Mig Strong Ice', u'San Miguel Pale Pilsen', u'San Miguel (Philippines) Cervesa Negra', u'San Miguel Premium Lager']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value valid date --> [u'2008']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value amount --> [u'3400']	0
+what part of the country is ohio considered?	37257	philippines --> casualties type of casualties --> [u'Military - Dead', u'Civilian - Dead']	0
+what part of the country is ohio considered?	37257	philippines --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	philippines --> administrative area short name --> [u'ph']	0
+what part of the country is ohio considered?	37257	philippines --> dated location date founded --> [u'1521-03-16']	0
+what part of the country is ohio considered?	37257	philippines --> governmental jurisdiction government --> [u'Government of the Philippines']	0
+what part of the country is ohio considered?	37257	philippines --> country form of government --> [u'Presidential system', u'Republic', u'Unitary state', u'Constitutional republic']	2
+what part of the country is ohio considered?	37257	philippines --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	philippines --> adjusted money value adjustment date --> [u'2000']	0
+what part of the country is ohio considered?	37257	philippines --> book subject works --> [u'The Philippine Islands and Their People', u'Assassinations & Conspiracies: From Rajah Humabon to Imelda Marcos', u'Philippine rats', u'Why does the Philippines import rice?', u'Guide to Philippines']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> government position held appointed by --> [u'Franklin D. Roosevelt', u'Theodore Roosevelt', u'Woodrow Wilson', u'Herbert Hoover', u'William McKinley']	16
+what part of the country is ohio considered?	37257	philippines --> location contains --> [u'Cebu International Convention Center', u'Bacolod City Domestic Airport', u'Dangcagan', u'Divine Word University of Tacloban', u'STI College - Para\xf1aque']	1
+what part of the country is ohio considered?	37257	philippines --> topic alias --> [u'The Philippines', u'Pearl of the Orient Seas', u'Philippiness', u'Republic of the Philippines', u'Republika ng Pilipinas']	0
+what part of the country is ohio considered?	37257	philippines --> flag use from date --> [u'1898-06-12']	0
+what part of the country is ohio considered?	37257	philippines --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	philippines --> taxonomy entry high --> [u'689']	0
+what part of the country is ohio considered?	37257	philippines --> cryptid area of occurrence cryptid s found here --> [u'Amomongo']	0
+what part of the country is ohio considered?	37257	philippines --> organization membership from --> [u'1946', u'1967-08-08', u'1945-10-24']	0
+what part of the country is ohio considered?	37257	philippines --> location area --> [u'299404']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	philippines --> processed with review queue question id --> [u'/rabj/store/questions/question_0ee3018d562501b9', u'/rabj/store/questions/question_ef7b141479dff013', u'/rabj/store/questions/question_f9f1140f230ee082']	0
+what part of the country is ohio considered?	37257	philippines --> netflix genre titles --> [u'Sundo', u'Ang Darling Kong Aswang', u'Then and Now', u'A Case of Honor', u'Anghel Sa Lupa']	0
+what part of the country is ohio considered?	37257	philippines --> governmental jurisdiction agencies --> [u'Philippines Department of Science and Technology', u'Philippines Department of Budget and Management', u'Philippines Department of National Defense', u'Philippines Department of Health', u'Philippines Department of Social Welfare and Development']	11
+what part of the country is ohio considered?	37257	philippines --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	philippines --> country administrative divisions --> [u'Occidental Mindoro', u'Manila', u'Quezon City', u'Davao del Norte', u'Metropolitan Manila']	1479
+what part of the country is ohio considered?	37257	philippines --> dated float number --> [u'57.81', u'58.119', u'58.425', u'58.729', u'59.03']	0
+what part of the country is ohio considered?	37257	philippines --> governmental jurisdiction government bodies --> [u'Interim Batasang Pambansa', u'Congress of the Philippines', u'House of Representatives of the Philippines', u'Senate of the Philippines', u'Batasang Pambansa']	56
+what part of the country is ohio considered?	37257	philippines --> administrative area pertinent type --> [u'Barangay of the Philippines', u'Zone of the Philippines', u'Region of the Philippines', u'Autonomous region of the Philippines', u'Sitio of the Philippines']	0
+what part of the country is ohio considered?	37257	philippines --> location time zones --> [u'UTC+8']	2
+what part of the country is ohio considered?	37257	philippines --> administrative area administrative area type --> [u'Sovereign state']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+what part of the country is ohio considered?	37257	philippines --> film location featured in films --> [u'Samsara']	0
+what part of the country is ohio considered?	37257	philippines --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what part of the country is ohio considered?	37257	philippines --> webpage resource --> [u"Snap judgment: Britney Spears' 'Piece of Me' video", u"'Thriller' inmates dance to Queen", u'Tim Tebow Super Bowl Ad Prompts CBS to Open Doors to More Advocacy Spots', u'Imelda Marcos\u2019 Shoe Collection Merits Own Song, Off-Broadway Musical', u'Statoids of Philippines']	0
+what part of the country is ohio considered?	37257	philippines --> topic exceptions --> [u'City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District.', u'Barangay of The Philippines subdivides itself.', u'Component City of The Philippines subdivides itself.', u'District of The Philippines subdivides itself.', u'Independent City of The Philippines subdivides itself.']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> topic official website --> [u'http://www.gov.ph/']	0
+what part of the country is ohio considered?	37257	philippines --> government position held governmental body --> [u'Senate of the Philippines']	31
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> military combatant group combatants --> [u'Poland', u'Thailand', u'United Kingdom', u'United States of America', u'Australia']	1521
+what part of the country is ohio considered?	37257	philippines --> dated integer number --> [u'26010295', u'26893021', u'27800656', u'28727140', u'29664173']	0
+what part of the country is ohio considered?	37257	philippines --> geocode latitude --> [u'11.8727888889']	0
+what part of the country is ohio considered?	37257	philippines --> location events --> [u'Philippine Revolts Against Spain', u'Battle of Leyte Gulf', u'Negros Revolution', u'Japanese occupation of the Philippines', u'Philippines Campaign']	24
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> country official language --> [u'English Language', u'Filipino language']	194
+what part of the country is ohio considered?	37257	philippines --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what part of the country is ohio considered?	37257	philippines --> dated percentage rate --> [u'1.68', u'1.69', u'1.7', u'1.75', u'1.82']	0
+what part of the country is ohio considered?	37257	philippines --> taxonomy entry low --> [u'651']	0
+what part of the country is ohio considered?	37257	philippines --> government position held from --> [u'1932', u'1937', u'1939', u'1957', u'1987']	0
+what part of the country is ohio considered?	37257	philippines --> olympic athlete affiliation athlete --> [u'Rachel Cabral', u'Jasmine Al-Khaldi', u'Paul Brian Rosario', u'Tomohiko Hoshina', u'Mark Barriga']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value currency --> [u'United States dollar']	6
+what part of the country is ohio considered?	37257	philippines --> dated money value amount --> [u'62664699138', u'70793865600', u'73549204853', u'76664686446', u'76772911065']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what part of the country is ohio considered?	37257	philippines --> object name --> [u'Philippines']	0
+what part of the country is ohio considered?	37257	philippines --> topic image --> [u'Map of Philippines']	0
+what part of the country is ohio considered?	37257	philippines --> national anthem of a country anthem --> [u'Lupang Hinirang']	6
+what part of the country is ohio considered?	37257	philippines --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what part of the country is ohio considered?	37257	philippines --> dated money value amount --> [u'4399815070', u'4875248020', u'5271360643', u'5784398850', u'6371486693']	0
+what part of the country is ohio considered?	37257	philippines --> governmental jurisdiction government positions --> [u'President of the Philippines']	0
+what part of the country is ohio considered?	37257	ohio --> government position held office position or title --> [u'Member of Congress', u'Ohio State Senator', u'Ohio Attorney General', u'Governor of Ohio', u'Secretary of State of Ohio']	47
+what part of the country is ohio considered?	37257	ohio --> bibs location loc type --> [u'State']	0
+what part of the country is ohio considered?	37257	ohio --> government position held office position or title --> [u'United States Senator', u'United States Assistant Attorney General']	1
+what part of the country is ohio considered?	37257	ohio --> location partially contains --> [u'Ohio River', u'Appalachian Mountains', u'Wabash River']	136
+what part of the country is ohio considered?	37257	ohio --> taxonomy entry prefix --> [u'F']	0
+what part of the country is ohio considered?	37257	ohio --> location people born here --> [u'Walter C. Teagle', u'Eric Fingerhut', u'Annette DeFoe', u'O. M. Wozencraft', u'Victor John Morgan']	0
+what part of the country is ohio considered?	37257	ohio --> government position held district represented --> [u"Ohio's 19th congressional district", u"Ohio's 6th congressional district", u"Ohio's 17th congressional district", u"Ohio's 30th State Senate district"]	1
+what part of the country is ohio considered?	37257	ohio --> location containedby --> [u'United States of America', u'Northwest Territory', u'Contiguous United States', u'United States, with Territories', u'Midwestern United States']	2980
+what part of the country is ohio considered?	37257	ohio --> location symbol relationship symbol --> [u'Walleye', u'Tomato juice', u'Racer', u'Cardinal', u'Aesculus glabra']	5
+what part of the country is ohio considered?	37257	ohio --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
+what part of the country is ohio considered?	37257	ohio --> dated percentage source --> [u'Bureau of Labor Statistics, Unemployment in US States']	0
+what part of the country is ohio considered?	37257	ohio --> government position held jurisdiction of office --> [u'United States of America']	2844
+what part of the country is ohio considered?	37257	ohio --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVigDJwpEbGdrcN5Y29ycA']	0
+what part of the country is ohio considered?	37257	ohio --> bibs location is clear --> [u'0']	0
+what part of the country is ohio considered?	37257	ohio --> dated percentage date --> [u'1990-01', u'1990-02', u'1990-03', u'1990-04', u'1990-05']	0
+what part of the country is ohio considered?	37257	ohio --> government position held office holder --> [u'Ansel T. Walling', u'Eric Fingerhut', u'Karen Gillmor', u'Janet C. Howard', u'Bill Mussey']	0
+what part of the country is ohio considered?	37257	ohio --> organization scope organizations with this scope --> [u"B'nai B'rith District Grand Lodge 2", u'Ohio Ornithological Society']	0
+what part of the country is ohio considered?	37257	ohio --> adjoining relationship adjoins --> [u'Kentucky', u'Pennsylvania', u'West Virginia', u'Indiana', u'Michigan']	1638
+what part of the country is ohio considered?	37257	ohio --> dated money value currency --> [u'United States dollar']	1
+what part of the country is ohio considered?	37257	ohio --> government position held basic title --> [u'Assistant Attorney General', u'Senator']	0
+what part of the country is ohio considered?	37257	ohio --> administrative division capital relationship capital --> [u'Columbus', u'Zanesville', u'Chillicothe']	370
+what part of the country is ohio considered?	37257	ohio --> context name nickname --> [u'The Heart of It All', u'Birthplace of Aviation', u'The Buckeye State', u'The Mother of Presidents']	0
+what part of the country is ohio considered?	37257	ohio --> religion percentage religion --> [u'Baptists', u'Presbyterianism', u'Catholicism', u'Islam', u'Methodism']	7
+what part of the country is ohio considered?	37257	ohio --> location symbol relationship kind of symbol --> [u'State bird', u'State tree', u'State reptile', u'State flower', u'State Fish']	0
+what part of the country is ohio considered?	37257	ohio --> topic official website --> [u'http://www.ohio.gov/']	0
+what part of the country is ohio considered?	37257	ohio --> government position held from --> [u'1937', u'1995-01-03', u'2007-01-03', u'2011-01-03', u'1815-03-04']	0
+what part of the country is ohio considered?	37257	ohio --> cyclone affected area cyclones --> [u'Hurricane Katrina', u'Hurricane Ethel', u'Hurricane Hugo', u'Hurricane Isabel', u'Hurricane Frances']	0
+what part of the country is ohio considered?	37257	ohio --> administrative division capital relationship to --> [u'1810', u'1812', u'1816']	0
+what part of the country is ohio considered?	37257	ohio --> dated integer source --> [u'United States Census Bureau, Population']	0
+what part of the country is ohio considered?	37257	ohio --> newspaper circulation area newspapers --> [u'The Catholic Telegraph']	0
+what part of the country is ohio considered?	37257	ohio --> bibs location country --> [u'United States of America']	2844
+what part of the country is ohio considered?	37257	ohio --> administrative area administrative parent --> [u'United States of America']	2844
+what part of the country is ohio considered?	37257	ohio --> webpage uri --> [u'http://www.ohio.gov']	0
+what part of the country is ohio considered?	37257	ohio --> flag use flag --> [u'Flag of Ohio']	0
+what part of the country is ohio considered?	37257	ohio --> administrative area capital --> [u'Columbus']	326
+what part of the country is ohio considered?	37257	ohio --> administrative division capital relationship from --> [u'1810', u'1812', u'1803', u'1816']	0
+what part of the country is ohio considered?	37257	ohio --> book subject works --> [u'Shadowbrook', u'Traveling light', u'Day Trips from Columbus', u'Little black dress', u'Eden, Ohio']	0
+what part of the country is ohio considered?	37257	ohio --> place of interment interred here --> [u'Manning Force', u'Henry Heller', u'Douglas E. Dickey', u'Lou Diamond', u'Joseph J. Cicchetti']	0
+what part of the country is ohio considered?	37257	ohio --> states and provences country --> [u'United States of America']	2844
+what part of the country is ohio considered?	37257	ohio --> location events --> [u"Lord Dunmore's War", u'Harmar Campaign', u"St. Clair's Defeat", u'United States Senate elections, 2006', u'Crawford expedition']	3
+what part of the country is ohio considered?	37257	ohio --> religion percentage percentage --> [u'1', u'2', u'4', u'5', u'6']	0
+what part of the country is ohio considered?	37257	ohio --> government position held legislative sessions --> [u'112th United States Congress', u'113th United States Congress', u'108th United States Congress', u'107th United States Congress', u'106th United States Congress']	0
+what part of the country is ohio considered?	37257	ohio --> context name abbreviation --> [u'OH']	0
+what part of the country is ohio considered?	37257	ohio --> government position held to --> [u'1983', u'1985', u'2006-12-31', u'2008-12-31', u'2007-01-08']	0
+what part of the country is ohio considered?	37257	ohio --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0
+what part of the country is ohio considered?	37257	ohio --> government position held basic title --> [u'Governor', u'Attorney general', u'State Senator', u'Secretary of state', u'Secretary of State']	6
+what part of the country is ohio considered?	37257	ohio --> us state capital --> [u'Columbus']	326
+what part of the country is ohio considered?	37257	ohio --> dated percentage rate --> [u'3.8', u'3.9', u'4', u'4.1', u'4.2']	0
+what part of the country is ohio considered?	37257	ohio --> governmental jurisdiction government bodies --> [u'Ohio Senate', u'Ohio House of Representatives', u'Ohio General Assembly']	32
+what part of the country is ohio considered?	37257	ohio --> government position held governmental body --> [u'United States Senate']	61
+what part of the country is ohio considered?	37257	ohio --> dated money value valid date --> [u'2007']	0
+what part of the country is ohio considered?	37257	ohio --> location symbol relationship date adopted --> [u'1933', u'1965', u'1995', u'1904']	0
+what part of the country is ohio considered?	37257	ohio --> military unit place of origin military units --> [u'167th Ohio Infantry', u'2nd Ohio Infantry', u'39th Ohio Infantry', u'1st Battalion Ohio Sharpshooters', u'175th Ohio Infantry']	0
+what part of the country is ohio considered?	37257	ohio --> dated location date founded --> [u'1803-03-01']	0
+what part of the country is ohio considered?	37257	ohio --> governmental jurisdiction government --> [u'Government of Ohio']	0
+what part of the country is ohio considered?	37257	ohio --> administrative division country --> [u'United States of America']	2844
+what part of the country is ohio considered?	37257	ohio --> political district elections --> [u'United States Senate election in Ohio, 2010']	0
+what part of the country is ohio considered?	37257	ohio --> location contains --> [u'Area code 216', u'Racine', u'Westfield Center', u'Holmesville', u'Beechwood Trails']	7
+what part of the country is ohio considered?	37257	ohio --> topic alias --> [u'OH', u'Buckeye State']	0
+what part of the country is ohio considered?	37257	ohio --> flag use from date --> [u'1902-07-10']	0
+what part of the country is ohio considered?	37257	ohio --> taxonomy entry high --> [u'500']	0
+what part of the country is ohio considered?	37257	ohio --> location area --> [u'116096']	0
+what part of the country is ohio considered?	37257	ohio --> government position held office holder --> [u'Henry B. Payne', u'Atlee Pomerene', u'William Henry Harrison', u'Benjamin Tappan', u'William Allen']	26
+what part of the country is ohio considered?	37257	ohio --> recurring money value frequency --> [u'Hour']	0
+what part of the country is ohio considered?	37257	ohio --> recurring money value amount --> [u'7.7', u'7.85']	0
+what part of the country is ohio considered?	37257	ohio --> governmental jurisdiction agencies --> [u'Ohio Department of Rehabilitation and Correction', u'Ohio Department of Commerce', u'Ohio Division of Liquor Control']	0
+what part of the country is ohio considered?	37257	ohio --> government position held to --> [u'1938', u'1954-12-02', u'1995-01-03', u'2007-01-03', u'2011-01-03']	0
+what part of the country is ohio considered?	37257	ohio --> location time zones --> [u'Eastern Time Zone', u'UTC-5']	19
+what part of the country is ohio considered?	37257	ohio --> recurring money value currency --> [u'United States dollar']	1
+what part of the country is ohio considered?	37257	ohio --> film location featured in films --> [u'Signal 30']	0
+what part of the country is ohio considered?	37257	ohio --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what part of the country is ohio considered?	37257	ohio --> webpage resource --> [u"'Desperate Housewives' bad seed Shawn Pyfrom stops by EW", u'Police chief sentenced in Sarah Jessica Parker-Matthew Broderick surrogacy case', u'Jury convicts Ohio police chief in Sarah Jessica Parker-Matthew Broderick surrogacy case', u'Police chief convicted in Sarah Jessica Parker surrogate case gets house arrest', u'Sarah Jessica Parker and Matthew Broderick welcome twin girls']	0
+what part of the country is ohio considered?	37257	ohio --> government position held governmental body --> [u'United States House of Representatives', u'Ohio Senate', u'Government of Ohio']	94
+what part of the country is ohio considered?	37257	ohio --> dated integer number --> [u'45365', u'230760', u'581434', u'937903', u'1519467']	0
+what part of the country is ohio considered?	37257	ohio --> recurring money value date --> [u'2013-01-01', u'2012-01-01']	0
+what part of the country is ohio considered?	37257	ohio --> ufo sighting location ufo sighting s --> [u'Portage County UFO chase']	0
+what part of the country is ohio considered?	37257	ohio --> administrative division first level division of --> [u'United States of America']	2844
+what part of the country is ohio considered?	37257	ohio --> dated integer year --> [u'1910', u'1920', u'1930', u'1940', u'1950']	0
+what part of the country is ohio considered?	37257	ohio --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what part of the country is ohio considered?	37257	ohio --> taxonomy entry low --> [u'486']	0
+what part of the country is ohio considered?	37257	ohio --> administrative area administrative children --> [u'Highland County', u'Holmes County', u'Lawrence County', u'Huron County']	74
+what part of the country is ohio considered?	37257	ohio --> government position held from --> [u'1979', u'1983', u'1999-01-11', u'2007-01-08', u'2011-01-03']	0
+what part of the country is ohio considered?	37257	ohio --> object name --> [u'Ohio']	0
+what part of the country is ohio considered?	37257	ohio --> topic image --> [u'Ohio.png', u'Kanto ""Kara Ohio"" de Ann E. Beatty, el Espero internacia; \u0109. 1920', u'Ohio.png']	0
+what part of the country is ohio considered?	37257	ohio --> religion percentage date --> [u'2002']	0
+what part of the country is ohio considered?	37257	ohio --> dated money value amount --> [u'466309000000']	0
+what part of the country is ohio considered?	37257	ohio --> governmental jurisdiction government positions --> [u'Ohio State Senator']	0
+what part of the country is ohio considered?	37257	country --> topic comments --> [u'ZSI on Country']	0
+what part of the country is ohio considered?	37257	country --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what part of the country is ohio considered?	37257	country --> webpage resource --> [u"Keith Urban, Sugarland will headline California's Stagecoach festival", u'Favorite moments from the ACMs', u'Kanye West: Master of humility or marketing genius?', u"'Saturday Night Live': Joseph Gordon-Levitt climbs the walls with energy", u"Oprah's chef Art Smith signs on with TLC"]	0
+what part of the country is ohio considered?	37257	country --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvu5MmpwpEbGdrcN5Y29ycA']	0
+what part of the country is ohio considered?	37257	country --> genre content --> [u'181-kickincountry', u'Big R Radio - Star Country', u'BluegrassRadio.org', u"1Club.FM: Tears N' Beers", u'1.FM Country']	0
+what part of the country is ohio considered?	37257	country --> radio subject programs with this subject --> [u'Grand Ole Opry']	1
+what part of the country is ohio considered?	37257	country --> field of study academics in this field --> [u'Tony Russell']	0
+what part of the country is ohio considered?	37257	country --> periodical subject periodicals --> [u'Country Weekly']	0
+what part of the country is ohio considered?	37257	country --> topic alias --> [u'Country & Western', u'Country and Western', u'Country music']	0
+what part of the country is ohio considered?	37257	country --> radio format stations --> [u'KZBQ', u'WFGS', u'WCHO-FM', u'WKYA', u'KTGA']	2
+what part of the country is ohio considered?	37257	country --> genre subgenre --> [u'Alternative country', u'Bluegrass', u'Country rock', u'Trash rock', u'Red Dirt']	81
+what part of the country is ohio considered?	37257	country --> film subject films --> [u'The Life and Hard Times of Guy Terrifico']	0
+what part of the country is ohio considered?	37257	country --> genre albums --> [u'Greatest Hits', u'Greatest Hits', u'16 Biggest Hits', u'I Thought It Was You', u"Just a Little Lovin'"]	0
+what part of the country is ohio considered?	37257	country --> object name --> [u'Country']	0
+what part of the country is ohio considered?	37257	country --> topic image --> [u'Rymanauditorium1']	0
+what part of the country is ohio considered?	37257	country --> genre parent genre --> [u'Celtic music', u'Blues', u'Old-time music', u'Spiritual']	32
+what part of the country is ohio considered?	37257	country --> genre artists --> [u'Celinda Pink', u'Rena Gaile', u'Don Cox', u'Carolina Rain', u'The Ranch']	1
+what part of the country is ohio considered?	37257	country --> award discipline awards in this discipline --> [u'Academy of Country Music Album of the Year', u'Academy of Country Music Top Vocal Duo', u'Academy of Country Music Entertainer of the Year', u'Academy of Country Music Top New Female Vocalist', u'Academy of Country Music Top New Male Vocalist']	0
+what part of the country is ohio considered?	37257	country --> content broadcast --> [u'CHAT-FM']	0
+what part of the country is ohio considered?	37257	country --> book subject works --> [u'Three chords and the truth', u'Pure Country: The Leon Kagarise Archives 1961-1971', u'Country', u'Honky Tonk Kat', u'Pop quiz']	0
+what part of the country is ohio considered?	37257	country --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what part of the country is ohio considered?	37257	arvo pärt --> person date of birth --> [u'1935-09-11']	0
+what part of the country is ohio considered?	37257	arvo pärt --> person profession --> [u'Composer', u'Film Score Composer']	0
+what part of the country is ohio considered?	37257	arvo pärt --> topic alias --> [u'Arvo Part', u'A. Part', u'A. P\xe4rt', u'Aruvo Peruto', u'Arvo Paert']	0
+what part of the country is ohio considered?	37257	arvo pärt --> person gender --> [u'Male']	0
+what part of the country is ohio considered?	37257	arvo pärt --> award nomination nominated for --> [u'In Principio', u'P\xe4rt, Arvo: Symphony No. 4']	0
+what part of the country is ohio considered?	37257	arvo pärt --> person nationality --> [u'Germany', u'Austria', u'Estonia']	0
+what part of the country is ohio considered?	37257	arvo pärt --> artist label --> [u'ECM Records']	0
+what part of the country is ohio considered?	37257	arvo pärt --> award nomination award --> [u'Grammy Award for Best Classical Contemporary Composition']	0
+what part of the country is ohio considered?	37257	arvo pärt --> webpage category --> [u'Lyrics']	0
+what part of the country is ohio considered?	37257	arvo pärt --> artist genre --> [u'Contemporary classical music', u'Minimal music']	0
+what part of the country is ohio considered?	37257	arvo pärt --> track contribution role --> [u'Piano']	0
+what part of the country is ohio considered?	37257	arvo pärt --> topic official website --> [u'http://www.arvopart.ee/en/Arvo-Part/biography']	0
+what part of the country is ohio considered?	37257	arvo pärt --> music contributor film --> [u'Lessons of Darkness', u'Arvo P\xe4rt 24 Preludes for a Fugue', u'War Photographer', u'Times and Winds', u'Wit']	0
+what part of the country is ohio considered?	37257	arvo pärt --> webpage resource --> [u'Arvo Part Lyrics']	0
+what part of the country is ohio considered?	37257	arvo pärt --> artist origin --> [u'Paide']	0
+what part of the country is ohio considered?	37257	arvo pärt --> person place of birth --> [u'Paide']	0
+what part of the country is ohio considered?	37257	arvo pärt --> education institution --> [u'Estonian Academy of Music and Theatre']	0
+what part of the country is ohio considered?	37257	arvo pärt --> group membership group --> [u'Arv\xf6 P\xe4rt & Jeroen van Veen']	0
+what part of the country is ohio considered?	37257	arvo pärt --> person children --> [u'Michael P\xe4rt']	0
+what part of the country is ohio considered?	37257	arvo pärt --> award nomination notes description --> [u'Track from P\xe4rt: Symphony No. 4', u'Track from: P', u'T\xf5nu Kaljuste']	0
+what part of the country is ohio considered?	37257	arvo pärt --> topic topical webpage --> [u'http://www.directlyrics.com/arvo-part-artist.html']	0
+what part of the country is ohio considered?	37257	arvo pärt --> artist track --> [u'Variations for the healing of Arinushka', u'Credo"" for Piano solo, Mixed Choir and Orchestra', u'Symphony no. 3: attacca', u'Symphony no. 3: alla breve', u'Tabula Rasa: Silentium']	0
+what part of the country is ohio considered?	37257	arvo pärt --> composer compositions --> [u'Te Deum', u'Peace Upon You, Jerusalem', u'Stabat Mater', u'P\xe4rt, Arvo: Symphony No. 4', u'Fratres']	0
+what part of the country is ohio considered?	37257	arvo pärt --> artist album --> [u'Tabula Rasa / Fratres / Symphony No. 3', u"Ikos (King's College Choir, Cambridge feat. organ: David Goode)", u'Stabat Mater (Studio de musique ancienne de Montr\xe9al, conductor: Christopher Jackson, strings: Quatuor Franz Joseph, counter-tenor: Daniel Taylor)', u'Fratres (Hungarian State Opera Orchestra feat. conductor Tam\xe1s Benedek)', u'Britten: The Young Person\'s Guide to the Orchestra / Symphony for Cello and Orchestra / Four Sea Interludes from ""Peter Grimes"" / P\xe4rt: Cantus in Memory of Benjamin Britten']	0
+what part of the country is ohio considered?	37257	arvo pärt --> object name --> [u'Arvo P\xe4rt']	0
+what part of the country is ohio considered?	37257	arvo pärt --> topic image --> [u'Arvo Part', u'Tallinn, la ville o\xf9 Arvo P\xe4rt a fait ses \xe9tudes.']	0
+what part of the country is ohio considered?	37257	arvo pärt --> award nomination year --> [u'2009', u'2010']	0
+what part of the country is ohio considered?	37257	country --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what part of the country is ohio considered?	37257	country --> webpage resource --> [u'Kate Gosselin spanks kid (maybe): Did we need to see the pictures?', u'Kate Gosselin spanks kid (maybe): Did we need to see the pictures?', u"Bravo plans 'The Real Housewives of D.C.'", u'Nickelback clean up at the Juno Awards: Anyone surprised?']	0
+what part of the country is ohio considered?	37257	country --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA']	0
+what part of the country is ohio considered?	37257	country --> ontology class mapping uri --> [u'http://www.geonames.org/ontology#Country', u'http://s.opencalais.com/1/type/em/e/Country']	0
+what part of the country is ohio considered?	37257	country --> type of fictional setting settings --> [u'Gondor', u'United Federation', u'Ranke', u'Ruritania', u'Kingdom of Zeal']	0
+what part of the country is ohio considered?	37257	country --> object name --> [u'Country']	0
+what part of the country is ohio considered?	37257	country --> topic image --> [u'Staatkundige kaart van de Wereld', u'Europe topography map']	0
+what part of the country is ohio considered?	37257	country --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what part of the country is ohio considered?	37257	country --> ontology class mapping ontology --> [u'GeoNames', u'OpenCalais']	0
+what part of the country is ohio considered?	37257	country --> quotation subject quotations about this subject --> [u'The greatness of a nation can be judged by the way its animals are treated.', u"It may be true that you can't fool all the people all the time, but you can fool enough of them to rule a large country.", u"The common good of a collective -- a race, a class, a state -- was the claim and justification of every tyranny ever established over men. Every major horror of history was committed in the name of an altruistic motive. Has any act of selfishness ever equaled the carnage perpetrated by disciples of altruism? Does the fault lie in men's hypocrisy or in the nature of the principle? The most dreadful butchers were the most sincere. The believed in the perfect society reached through the guillotine and the firing squad. Nobody questioned their right to murder since they were murdering for an altruistic purpose. It was accepted that man must be sacrificed for other men. Actors change, but the course of the tragedy remains the same. A humanitarian who starts with the declarations of love for mankind and ends with a sea of blood. It goes on and will go on so long as men believe that an action is good if it is unselfish. That permits the altruist to act and forces his victims to bear it. The leaders of collectivist movements ask nothing of themselves. But observe the results.", u"Shall we then judge a country by the majority, or by the minority? By the minority, surely. 'Tis pedantry to estimate nations by the census, or by square miles of land, or other than by their importance to the mind of the time.", u'My country owes me nothing. It gave me, as it gives every boy and girl, a chance. It gave me schooling, independence of action, opportunity for service and honor. In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbounded hope.']	0
+what part of the country is ohio considered?	37257	country --> equivalent topic equivalent type --> [u'Country']	0
+what part of the country is ohio considered?	37257	association of evangelical lutheran churches --> object name --> [u'Association of Evangelical Lutheran Churches']	0

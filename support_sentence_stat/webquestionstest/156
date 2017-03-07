@@ -1,0 +1,235 @@
+which island is kailua on?	848	island is --> object name --> [u'Island, IS']	0
+which island is kailua on?	848	island is --> object name --> [u'Island, IS']	0
+which island is kailua on?	848	island --> ontology instance mapping ontology --> [u'OpenCyc']	0
+which island is kailua on?	848	island --> webpage resource --> [u"'America's Got Talent' recap: We have our Top 20!", u"'Lost': Who are the other 'others'?"]	0
+which island is kailua on?	848	island --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA']	0
+which island is kailua on?	848	island --> taxonomy entry low --> [u'471', u'669']	0
+which island is kailua on?	848	island --> product choice consumer --> [u'Brad Pitt']	0
+which island is kailua on?	848	island --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+which island is kailua on?	848	island --> code category contains categories --> [u'Atoll']	1
+which island is kailua on?	848	island --> geographical feature category subcategories --> [u'Islet', u'Artificial island', u'Cay', u'Tied island', u'Mangrove island']	1
+which island is kailua on?	848	island --> linguistic hint subject form --> [u'Islands']	0
+which island is kailua on?	848	island --> taxonomy entry high --> [u'478', u'671']	0
+which island is kailua on?	848	island --> geographical feature category subcategory of --> [u'Hypsographic']	0
+which island is kailua on?	848	island --> type of fictional setting settings --> [u'N\xfamenor', u'West Side Island', u'Atlantis', u'Prison Island', u'Dragonstone']	0
+which island is kailua on?	848	island --> topic image --> [u'Pokonji Dol from the ferry Hvar - Kor\u010dula', u'Ailsa Craig from Waverley', u'Sazan']	0
+which island is kailua on?	848	island --> object name --> [u'Island']	0
+which island is kailua on?	848	island --> location people born here --> [u'Peter le Page Renouf']	0
+which island is kailua on?	848	island --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+which island is kailua on?	848	island --> topic subject of --> [u'Maseskar Island']	0
+which island is kailua on?	848	island --> geographical feature category features --> [u'\xcele Platte', u'Ireland', u'Co\xebtivy Island', u'Murray Island', u'Ambrym']	0
+which island is kailua on?	848	island --> taxonomy entry prefix --> [u'GB', u'DT']	0
+which island is kailua on?	848	island --> equivalent topic equivalent type --> [u'Island']	0
+which island is kailua on?	848	island --> book subject works --> [u'Island Dreams: Mediterranean']	0
+which island is kailua on?	848	kailua --> dated float number --> [u'0.0598']	0
+which island is kailua on?	848	kailua --> topic alias --> [u'Kailua, Hawaii']	0
+which island is kailua on?	848	kailua --> dated float date --> [u'2008']	0
+which island is kailua on?	848	kailua --> geocode longitude --> [u'-157.7394']	0
+which island is kailua on?	848	kailua --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which island is kailua on?	848	kailua --> dated float number --> [u'-0.0142']	0
+which island is kailua on?	848	kailua --> location people born here --> [u'Derek Ho', u'Chris Naeole', u'Scott Feldman', u'David Wesley Cooper', u"Kila Ka'aihue"]	0
+which island is kailua on?	848	kailua --> geocode latitude --> [u'21.4022']	0
+which island is kailua on?	848	kailua --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which island is kailua on?	848	kailua --> dated integer year --> [u'2008']	0
+which island is kailua on?	848	kailua --> object name --> [u'Kailua']	0
+which island is kailua on?	848	kailua --> dated float date --> [u'2008']	0
+which island is kailua on?	848	kailua --> location containedby --> [u'United States of America', u'Hawaii County', u'Honolulu County', u'Hawaii', u'Oahu']	16
+which island is kailua on?	848	kailua --> location time zones --> [u'Hawaii\u2013Aleutian Time Zone']	0
+which island is kailua on?	848	kailua --> dated integer number --> [u'696']	0
+which island is kailua on?	848	kailua --> hud county place place --> [u'Kailua']	90
+which island is kailua on?	848	kailua --> dated integer number --> [u'3573']	0
+which island is kailua on?	848	kailua --> dated integer year --> [u'2008']	0
+which island is kailua on?	848	kailua --> dated integer year --> [u'2008']	0
+which island is kailua on?	848	kailua --> dated integer year --> [u'2008']	0
+which island is kailua on?	848	kailua --> hud county place county --> [u'Honolulu County']	0
+which island is kailua on?	848	kailua --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which island is kailua on?	848	kailua --> dated integer number --> [u'3931']	0
+which island is kailua on?	848	kailua --> dated integer year --> [u'2008']	0
+which island is kailua on?	848	kailua --> dated integer number --> [u'139']	0
+which island is kailua on?	848	kailua --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which island is kailua on?	848	kailua --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+which island is kailua on?	848	kailua --> topic image --> [u'View across Kailua Beach to the offshore islet known as Moku nui, one of N\u0101 Mokulua off Lanikai', u'View of Kailua from the Kaiwa Ridge Trail (Keolu Hills)', u'Kailua Areial']	0
+which island is kailua on?	848	kailua --> dated integer number --> [u'4639']	0
+which island is kailua on?	848	kailua --> geocode datum --> [u'NAD83']	0
+which island is kailua on?	848	iceland --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+which island is kailua on?	848	iceland --> government position held office position or title --> [u'Prime Minister of Iceland', u'Minister of Social Affairs', u'Member of the Althing', u'Minister of Welfare', u'President of Iceland']	12
+which island is kailua on?	848	iceland --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2006 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1992 Summer Olympics']	7
+which island is kailua on?	848	iceland --> bibs location loc type --> [u'Country']	0
+which island is kailua on?	848	iceland --> dated percentage rate --> [u'0', u'0.504271', u'1.532227', u'2.65428', u'6.766409']	0
+which island is kailua on?	848	iceland --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+which island is kailua on?	848	iceland --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which island is kailua on?	848	iceland --> taxonomy entry prefix --> [u'JN', u'DL']	0
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar']	1
+which island is kailua on?	848	iceland --> location people born here --> [u'Einar J\xf3nsson', u'Sk\xfali J\xf3n Fri\xf0geirsson', u'Ey\xfe\xf3r Gu\xf0j\xf3nsson', u'Petur Tryggvi', u'Gu\xf0ni \xd3lafur Gu\xf0nason']	0
+which island is kailua on?	848	iceland --> olympic medal honor medalist --> [u'Patrekur J\xf3hannesson', u'Vala Flosad\xf3ttir', u'R\xf3bert Gunnarsson', u'Hrei\xf0ar Gu\xf0mundsson', u'Arn\xf3r Atlason']	0
+which island is kailua on?	848	iceland --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+which island is kailua on?	848	iceland --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+which island is kailua on?	848	iceland --> government position held district represented --> [u'Reykjav\xedkurkj\xf6rd\xe6mi Nor\xf0ur', u'Reykjav\xedkurkj\xf6rd\xe6mi Su\xf0ur', u'Su\xf0urkj\xf6rd\xe6mi', u'Reykjav\xedkurkj\xf6rd\xe6mi']	1
+which island is kailua on?	848	iceland --> country fips  --> [u'IC']	0
+which island is kailua on?	848	iceland --> location containedby --> [u'Europe', u'Eurasia', u'Nordic countries']	100
+which island is kailua on?	848	iceland --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which island is kailua on?	848	iceland --> location partially containedby --> [u'Arctic']	10
+which island is kailua on?	848	iceland --> olympic athlete affiliation sport --> [u'Team handball', u'Alpine skiing', u'Track and field athletics', u'Badminton', u'Swimming']	1
+which island is kailua on?	848	iceland --> olympic medal honor medal --> [u'Silver medal', u'Bronze medal']	0
+which island is kailua on?	848	iceland --> organization membership organization --> [u'World Bank', u'Organisation for Economic Co-operation and Development', u'Council of Europe', u'United Nations', u'United Nations Relief and Rehabilitation Administration']	7
+which island is kailua on?	848	iceland --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which island is kailua on?	848	iceland --> context name official name --> [u'The Republic of Iceland']	0
+which island is kailua on?	848	iceland --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+which island is kailua on?	848	iceland --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+which island is kailua on?	848	iceland --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0
+which island is kailua on?	848	iceland --> administrative area adjectival form --> [u'of']	0
+which island is kailua on?	848	iceland --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViKbpwpEbGdrcN5Y29ycA']	0
+which island is kailua on?	848	iceland --> dated kilowatt hour number --> [u'2614.282', u'2871.043', u'2895.086', u'2914.557', u'2918.224']	0
+which island is kailua on?	848	iceland --> dated percentage date --> [u'2003-01', u'2003-02', u'2003-03', u'2003-04', u'2003-05']	0
+which island is kailua on?	848	iceland --> olympic participating country olympics participated in --> [u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	3
+which island is kailua on?	848	iceland --> government position held office holder --> [u'Sigr\xed\xf0ur Ingibj\xf6rg Ingad\xf3ttir', u'Sigmundur Dav\xed\xf0 Gunnlaugsson', u'Dav\xed\xf0 Oddsson', u'\xc1sta Ragnhei\xf0ur J\xf3hannesd\xf3ttir', u'J\xf3hanna Sigur\xf0ard\xf3ttir']	0
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
+which island is kailua on?	848	iceland --> organization scope organizations with this scope --> [u'Left-Green Movement', u'Landvarnarflokkurinn', u'Rainbow', u'Icelandic Federation of Labour', u'Independence Party']	8
+which island is kailua on?	848	iceland --> dated money value amount --> [u'11770', u'13180', u'13960', u'14010', u'14830']	0
+which island is kailua on?	848	iceland --> country languages spoken --> [u'Icelandic Language']	70
+which island is kailua on?	848	iceland --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+which island is kailua on?	848	iceland --> country calling code --> [u'354']	0
+which island is kailua on?	848	iceland --> olympic medal honor event --> [u"Handball at the 2008 Summer Olympics \u2013 Men's tournament", u"Athletics at the 2000 Summer Olympics \u2013 Women's pole vault", u"Athletics at the 1956 Summer Olympics \u2013 Men's triple jump", u"Handball at the 1992 Summer Olympics \u2013 Men's tournament", u"Judo at the 1984 Summer Olympics - Men's Half Heavyweight (95kg)"]	0
+which island is kailua on?	848	iceland --> geocode longitude --> [u'-18.9769985787']	0
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar']	1
+which island is kailua on?	848	iceland --> olympic medal honor olympics --> [u'2000 Summer Olympics', u'1984 Summer Olympics', u'1956 Summer Olympics', u'2008 Summer Olympics', u'1992 Summer Olympics']	8
+which island is kailua on?	848	iceland --> dated percentage rate --> [u'-6.807133', u'-5.474906', u'-4.023846', u'-3.373894', u'-2.151162']	0
+which island is kailua on?	848	iceland --> dated percentage rate --> [u'0.046424', u'0.082054']	0
+which island is kailua on?	848	iceland --> olympic participating country ioc code --> [u'ISL']	0
+which island is kailua on?	848	iceland --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0
+which island is kailua on?	848	iceland --> dated kgoe number --> [u'2916.706', u'3028.298', u'3082.712', u'3279.602', u'3306.816']	0
+which island is kailua on?	848	iceland --> country currency used --> [u'Icelandic kr\xf3na']	0
+which island is kailua on?	848	iceland --> dated float number --> [u'1.93', u'1.95', u'1.99', u'2.04', u'2.05']	0
+which island is kailua on?	848	iceland --> dated percentage date --> [u'2008', u'2009']	0
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
+which island is kailua on?	848	iceland --> country iso  shortname --> [u'ICELAND']	0
+which island is kailua on?	848	iceland --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+which island is kailua on?	848	iceland --> dated percentage date --> [u'2005', u'2006', u'2007', u'2008', u'2009']	0
+which island is kailua on?	848	iceland --> breed origin breeds originating here --> [u'Icelandic Sheepdog']	1
+which island is kailua on?	848	iceland --> nobel honor nobel prize winner --> [u'Halld\xf3r Laxness']	0
+which island is kailua on?	848	iceland --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+which island is kailua on?	848	iceland --> newspaper circulation area newspapers --> [u'Helsingin Sanomat', u'The Militant', u'Fr\xe9ttabla\xf0i\xf0']	0
+which island is kailua on?	848	iceland --> adjusted money value adjusted value --> [u'1773570292', u'1775073104', u'1921019832', u'2118565656', u'2328654152']	0
+which island is kailua on?	848	iceland --> adjusted money value adjustment currency --> [u'United States dollar']	1
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
+which island is kailua on?	848	iceland --> webpage uri --> [u'http://statoids.com/uis.html']	0
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
+which island is kailua on?	848	iceland --> flag use flag --> [u'Flag of Iceland']	3
+which island is kailua on?	848	iceland --> sports team location teams --> [u'Iceland national handball team', u'Iceland national football team']	7
+which island is kailua on?	848	iceland --> employment tenure from --> [u'1952', u'1968', u'1980', u'1996', u'1944-06-17']	0
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar']	1
+which island is kailua on?	848	iceland --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which island is kailua on?	848	iceland --> employment tenure title --> [u'President']	0
+which island is kailua on?	848	iceland --> exhibition subject exhibitions created about this subject --> [u'Pure Iceland']	0
+which island is kailua on?	848	iceland --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which island is kailua on?	848	iceland --> employment tenure to --> [u'1952', u'1968', u'1980', u'1996']	0
+which island is kailua on?	848	iceland --> location adjectival form --> [u'Icelander']	0
+which island is kailua on?	848	iceland --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+which island is kailua on?	848	iceland --> dated metric ton number --> [u'6.103849', u'6.220786', u'6.53006', u'6.574856', u'6.744467']	0
+which island is kailua on?	848	iceland --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+which island is kailua on?	848	iceland --> administrative area subdividing type --> [u'Region of Iceland']	0
+which island is kailua on?	848	iceland --> government position held to --> [u'1994-06-24', u'2003', u'2004-09-15', u'2005', u'2007']	0
+which island is kailua on?	848	iceland --> webpage category --> [u'Tag', u'Topic Equivalent']	0
+which island is kailua on?	848	iceland --> government position held basic title --> [u'President', u'Member of Parliament', u'Prime minister', u'Finance minister', u'Minister']	0
+which island is kailua on?	848	iceland --> linguistic hint adjectival form --> [u'Icelandic']	0
+which island is kailua on?	848	iceland --> countries continent --> [u'Europe']	67
+which island is kailua on?	848	iceland --> administrative area administrative parent --> [u'Earth']	0
+which island is kailua on?	848	iceland --> country capital --> [u'Reykjavik']	0
+which island is kailua on?	848	iceland --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which island is kailua on?	848	iceland --> dated percentage rate --> [u'2.3', u'2.4', u'2.5', u'2.6', u'2.7']	0
+which island is kailua on?	848	iceland --> country internet tld --> [u'is']	1
+which island is kailua on?	848	iceland --> employment tenure person --> [u'Kristj\xe1n Eldj\xe1rn', u'Vigd\xeds Finnbogad\xf3ttir', u'Sveinn Bj\xf6rnsson', u'\xd3lafur Ragnar Gr\xedmsson', u'\xc1sgeir \xc1sgeirsson']	0
+which island is kailua on?	848	iceland --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+which island is kailua on?	848	iceland --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+which island is kailua on?	848	iceland --> dated money value valid date --> [u'2008']	0
+which island is kailua on?	848	iceland --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which island is kailua on?	848	iceland --> dated money value amount --> [u'42600']	0
+which island is kailua on?	848	iceland --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+which island is kailua on?	848	iceland --> administrative area short name --> [u'is']	0
+which island is kailua on?	848	iceland --> dated location date founded --> [u'1904-02-01']	0
+which island is kailua on?	848	iceland --> country form of government --> [u'Constitutional republic', u'Parliamentary republic']	0
+which island is kailua on?	848	iceland --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+which island is kailua on?	848	iceland --> adjusted money value adjustment date --> [u'2000']	0
+which island is kailua on?	848	iceland --> book subject works --> [u'Running Blind', u'Last Rituals', u'Avalon', u'Voices: A Thriller', u'Iceland']	0
+which island is kailua on?	848	iceland --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which island is kailua on?	848	iceland --> travel destination tourist attractions --> [u'Gullfoss', u'Askja']	1
+which island is kailua on?	848	iceland --> location contains --> [u'Eyjafj\xf6r\xf0ur', u'Reykh\xf3lahreppur', u'Rang\xe1r\xfeing eystra', u'Longwave radio mast Hellissandur', u'Hof, Iceland']	1
+which island is kailua on?	848	iceland --> topic alias --> [u'\xcdsland', u'Republic of Iceland']	0
+which island is kailua on?	848	iceland --> flag use from date --> [u'1944-06-17']	0
+which island is kailua on?	848	iceland --> taxonomy entry high --> [u'398', u'7389']	0
+which island is kailua on?	848	iceland --> cryptid area of occurrence cryptid s found here --> [u'Kraken']	0
+which island is kailua on?	848	iceland --> organization membership from --> [u'1946-11-19', u'1943-11-09']	0
+which island is kailua on?	848	iceland --> location area --> [u'103001']	0
+which island is kailua on?	848	iceland --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+which island is kailua on?	848	iceland --> governmental jurisdiction agencies --> [u'Statistics Iceland', u'Iceland Ministry of Education, Science and Culture']	0
+which island is kailua on?	848	iceland --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+which island is kailua on?	848	iceland --> country administrative divisions --> [u'Eastern Region, Iceland', u'Vesturland', u'Capital Region', u'Southern Peninsula, Iceland', u'Westfjords']	36
+which island is kailua on?	848	iceland --> dated float number --> [u'73.427', u'73.495', u'73.542', u'73.573', u'73.596']	0
+which island is kailua on?	848	iceland --> governmental jurisdiction government bodies --> [u'Althing']	46
+which island is kailua on?	848	iceland --> administrative area pertinent type --> [u'County of Iceland', u'Region of Iceland', u'Municipality of Iceland']	0
+which island is kailua on?	848	iceland --> location time zones --> [u'Greenwich Mean Time', u'UTC\xb100:00']	18
+which island is kailua on?	848	iceland --> administrative area administrative area type --> [u'Sovereign state']	0
+which island is kailua on?	848	iceland --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+which island is kailua on?	848	iceland --> film location featured in films --> [u'Prometheus', u'Noi the Albino', u'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', u'Noah']	0
+which island is kailua on?	848	iceland --> ontology instance mapping ontology --> [u'OpenCyc']	0
+which island is kailua on?	848	iceland --> webpage resource --> [u'Highlights from CMJ 2006', u'Statoids of Iceland', u'Icelandic Light: Reflections on Landscapes and Locations (Essay)', u'Mark Wahlberg signs on to remake of Icelandic thriller', u'Concert Review: Bj\xf6rk at Radio City']	0
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
+which island is kailua on?	848	iceland --> topic official website --> [u'http://www.visiticeland.com/']	0
+which island is kailua on?	848	iceland --> government position held governmental body --> [u'Althing']	46
+which island is kailua on?	848	iceland --> dated integer number --> [u'60000', u'85089', u'175574', u'179029', u'182378']	0
+which island is kailua on?	848	iceland --> geocode latitude --> [u'64.8342780901']	0
+which island is kailua on?	848	iceland --> location events --> [u'Battle of \xd6rlygssta\xf0ir', u'2008 Icelandic lorry driver protests', u'Action of 9 May 1941', u'Invasion of Iceland']	8
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
+which island is kailua on?	848	iceland --> country official language --> [u'Icelandic Language']	70
+which island is kailua on?	848	iceland --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+which island is kailua on?	848	iceland --> dated percentage rate --> [u'-0.14', u'0.3', u'0.34', u'0.52', u'0.54']	0
+which island is kailua on?	848	iceland --> taxonomy entry low --> [u'301', u'7380']	0
+which island is kailua on?	848	iceland --> administrative area administrative children --> [u'Northwestern Region, Iceland', u'Northeastern Region, Iceland', u'Eastern Region, Iceland', u'Southern Region, Iceland', u'Vesturland']	15
+which island is kailua on?	848	iceland --> government position held from --> [u'1978', u'1987', u'1991', u'1995', u'2003']	0
+which island is kailua on?	848	iceland --> olympic athlete affiliation athlete --> [u'Patrekur J\xf3hannesson', u'Jakob J\xf3hann Sveinsson', u'Ragna Ing\xf3lfsd\xf3ttir', u'Anton Sveinn Mckee', u'Eva Hannesdottir']	0
+which island is kailua on?	848	iceland --> dated money value currency --> [u'United States dollar']	1
+which island is kailua on?	848	iceland --> dated money value amount --> [u'2686312909', u'3042310982', u'3277510545', u'3308109109', u'3552902142']	0
+which island is kailua on?	848	iceland --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+which island is kailua on?	848	iceland --> object name --> [u'Iceland']	0
+which island is kailua on?	848	iceland --> topic image --> [u"Carte physique de l'Islande.", u'Location Iceland Europe']	0
+which island is kailua on?	848	iceland --> national anthem of a country anthem --> [u'Lofs\xf6ngur']	0
+which island is kailua on?	848	iceland --> dated integer year --> [u'1910', u'1960', u'1961', u'1962', u'1963']	0
+which island is kailua on?	848	iceland --> dated money value amount --> [u'248434096.97', u'248434097', u'253885656', u'253885656.33', u'284916516']	0
+which island is kailua on?	848	iceland --> governmental jurisdiction government positions --> [u'Member of the Althing']	0
+which island is kailua on?	848	iceland --> dated percentage rate --> [u'26', u'27.9', u'28.5', u'70.3', u'87.9']	0
+which island is kailua on?	848	island records --> employment tenure person --> [u'Hooman Majd', u'Jimmy Cliff', u'Ian Samwell']	2
+which island is kailua on?	848	island records --> webpage resource --> [u'Janet Jackson leaves Island Records', u"Manu Chao's 'Kill'-er remixes"]	0
+which island is kailua on?	848	island records --> film film distributor relationship film --> [u'A Dangerous Woman', u'Mona Lisa', u'The Trip to Bountiful', u'Straight to Hell', u'Square Dance']	2
+which island is kailua on?	848	island records --> employment tenure title --> [u'Executive Vice President', u'Recording Artists']	0
+which island is kailua on?	848	island records --> organization relationship parent --> [u'Universal Music Group', u'The Island Def Jam Music Group']	45
+which island is kailua on?	848	island records --> record label releases --> [u'Battle Born', u'Day & Age', u'Unapologetic', u'The Unforgettable Fire', u'A Woman a Man Walked By']	0
+which island is kailua on?	848	island records --> mailing address street address --> [u'825 8th Avenue, 27th Floor']	0
+which island is kailua on?	848	island records --> mailing address citytown --> [u'New York City']	6
+which island is kailua on?	848	island records --> webpage category --> [u'Official Website']	0
+which island is kailua on?	848	island records --> mailing address postal code --> [u'10019']	0
+which island is kailua on?	848	island records --> record label artist --> [u'Leatherwolf', u'My Bloody Valentine', u'Mott the Hoople', u'Harry Belafonte', u'Ginger Baker']	4
+which island is kailua on?	848	island records --> object name --> [u'Island Records']	0
+which island is kailua on?	848	island records --> organization founders --> [u'Chris Blackwell']	70
+which island is kailua on?	848	island records --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+which island is kailua on?	848	island records --> topic official website --> [u'http://www.islandrecords.com/']	0
+which island is kailua on?	848	island records --> acquisition acquiring company --> [u'Universal Music Group']	42
+which island is kailua on?	848	island records --> mailing address state province region --> [u'New York']	0
+which island is kailua on?	848	island records --> webpage uri --> [u'http://www.islandrecords.com/']	0
+which island is kailua on?	848	kailua --> location people born here --> [u'B.J. Penn', u'Leleiohoku I', u'Maui Chapman', u'Dakota Chapman', u'Kristen Newlin']	0
+which island is kailua on?	848	kailua --> geocode latitude --> [u'19.6405556']	0
+which island is kailua on?	848	kailua --> earthquake nearest location direction to epicenter --> [u'WSW']	0
+which island is kailua on?	848	kailua --> citytown postal codes --> [u'96740', u'96745']	0
+which island is kailua on?	848	kailua --> location contains --> [u'Kamakahonu', u'Mokuaikaua Church', u'Holualoa Bay', u'Hale Halawai O Holualoa', u'Holualoa 4 Archeological District']	0
+which island is kailua on?	848	kailua --> topic alias --> [u'Kailua, Hawaii', u'Kailua-Kona', u"Kailua-Kona, Hawai'i", u'Kailua-Kona, Hawaii']	0
+which island is kailua on?	848	kailua --> newspaper circulation area newspapers --> [u'West Hawaii Today']	0
+which island is kailua on?	848	kailua --> earthquake nearest location distance to epicenter --> [u'60']	0
+which island is kailua on?	848	kailua --> object name --> [u'Kailua']	0
+which island is kailua on?	848	kailua --> topic image --> [u'Kailua-Kona Bay, Jan. 2007', u'Location of Kailua-Kona, Hawai\u02bbi', u'Ocean view from Alii Drive, 2 1/2 miles from center of Kailua-Kona']	0
+which island is kailua on?	848	kailua --> dated integer number --> [u'9870']	0
+which island is kailua on?	848	kailua --> location area --> [u'103.081526791']	0
+which island is kailua on?	848	kailua --> earthquake nearest location earthquake --> [u'March 02, 2012 Hawaii Earthquake', u'Kona, Hawaii, USA earthquake']	0
+which island is kailua on?	848	kailua --> location time zones --> [u'Hawaii\u2013Aleutian Time Zone']	0
+which island is kailua on?	848	kailua --> location containedby --> [u'United States of America', u'Hawaii County', u'Hawaii']	9
+which island is kailua on?	848	kailua --> geocode longitude --> [u'-155.9955556']	0
+which island is kailua on?	848	kailua --> geocode datum --> [u'NAD83']	0
+which island is kailua on?	848	kailua --> location nearby airports --> [u'Kona International Airport']	2

@@ -1,0 +1,21 @@
+what did drita find out?	0	drita --> topic official website --> [u'http://www.artistet.org/drita']	0
+what did drita find out?	0	drita --> object name --> [u'Drita']	0
+what did drita find out?	0	drita --> webpage uri --> [u'http://www.artistet.org/drita']	0
+what did drita find out?	0	light --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what did drita find out?	0	light --> webpage resource --> [u'Mariah takes over the Empire State Building']	0
+what did drita find out?	0	light --> change output --> [u'Carbohydrate']	0
+what did drita find out?	0	light --> symset category --> [u'Noun']	0
+what did drita find out?	0	light --> art subject artwork on the subject --> [u'Chop Suey']	0
+what did drita find out?	0	light --> change input --> [u'Carbon dioxide']	0
+what did drita find out?	0	light --> change process --> [u'Photosynthesis']	0
+what did drita find out?	0	light --> object name --> [u'Light']	0
+what did drita find out?	0	light --> topic image --> [u'Speed of light from Earth to Moon', u'Light shining2', u'PrismAndLight']	0
+what did drita find out?	0	light --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what did drita find out?	0	light --> word word --> [u'light']	0
+what did drita find out?	0	light --> vocabulary equivalent topic equivalent concept --> [u'Light']	0
+what did drita find out?	0	light --> quotation subject quotations about this subject --> [u'I keep the subject of my inquiry constantly before me, and wait till the first dawning opens gradually, by little and little, into a full and clear light.', u"In the beginning there was nothing. God said, 'Let there be light!' And there was light. There was still nothing, but you could see it a whole lot better.", u'Come into the light of things. Let nature be your teacher.', u'As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.', u'The light shines in the darkness and the darkness comprehended it not.']	0
+what did drita find out?	0	light --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rv6bf0ZwpEbGdrcN5Y29ycA']	0
+what did drita find out?	0	fk drita --> object name --> [u'FK Drita']	0
+what did drita find out?	0	fk drita --> topic image --> [u'Logo']	0
+what did drita find out?	0	fk drita --> sports league participation league --> [u'First Macedonian Football League']	0
+what did drita find out?	0	fk drita --> sports team founded --> [u'1994']	0

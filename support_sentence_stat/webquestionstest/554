@@ -1,0 +1,60 @@
+what places make up new england?	484	england --> object name --> [u'England?']	0
+what places make up new england?	484	england --> bibs topic is really --> [u'England']	0
+what places make up new england?	484	new england --> namesake named after --> [u'England']	31
+what places make up new england?	484	new england --> organization scope organizations with this scope --> [u'New England Historic Genealogical Society']	0
+what places make up new england?	484	new england --> location events --> [u"King Philip's War", u'Textile workers strike', u'Northern theater of the American Revolutionary War after Saratoga', u"Father Rale's War", u'Pequot War']	25
+what places make up new england?	484	new england --> location contains --> [u'Maine', u'New Hampshire', u'Connecticut River', u'Connecticut', u'Rhode Island']	185
+what places make up new england?	484	new england --> adjoining relationship adjoins --> [u'Atlantic Canada', u'Mid-Atlantic states']	78
+what places make up new england?	484	new england --> taxonomy entry high --> [u'15']	0
+what places make up new england?	484	new england --> location partially contains --> [u'Appalachian National Scenic Trail', u'Appalachian Mountains']	15
+what places make up new england?	484	new england --> geocode longitude --> [u'-70.306425']	0
+what places make up new england?	484	new england --> taxonomy entry prefix --> [u'F']	0
+what places make up new england?	484	new england --> location people born here --> [u'Bryan Deehring', u'Edward Winterhalder', u'Frances Jones', u'Alice Marie Davis', u'Orison Swett Marden']	0
+what places make up new england?	484	new england --> location containedby --> [u'United States of America', u'Eastern United States', u'Northeast United States']	137
+what places make up new england?	484	new england --> location time zones --> [u'Eastern Time Zone']	0
+what places make up new england?	484	new england --> ride theme rides --> [u'American Waterfront']	0
+what places make up new england?	484	new england --> webpage resource --> [u"'Sopranos': Salute, Vito Spatafore!", u'Paul Newman: What he meant to me', u'Weekend To-Do List (Jennifer. Hudson. Edition)', u'Steven Wright on Letterman, Rembrandt and Being Short', u'HeadScratcher No. 36: Able Backup']	0
+what places make up new england?	484	new england --> cyclone affected area cyclones --> [u'1927 Nova Scotia hurricane', u'Hurricane Ginny', u'Great Colonial Hurricane of 1635', u'1934 Central America hurricane', u'Hurricane Esther']	0
+what places make up new england?	484	new england --> art subject artwork on the subject --> [u'The Midnight Ride of Paul Revere']	0
+what places make up new england?	484	new england --> newspaper circulation area newspapers --> [u'The Boston Post']	0
+what places make up new england?	484	new england --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what places make up new england?	484	new england --> geocode latitude --> [u'44.2055555556']	0
+what places make up new england?	484	new england --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what places make up new england?	484	new england --> taxonomy entry low --> [u'1']	0
+what places make up new england?	484	new england --> object name --> [u'New England']	0
+what places make up new england?	484	new england --> topic image --> [u'1707\u5e74\u7684\u65b0\u82f1\u683c\u5170\u5730\u56fe']	0
+what places make up new england?	484	new england --> book subject works --> [u'The Law of Dreams', u'Boston Cooking-School Cook Book', u'The journal of Madame Knight', u'The Best of Beston', u'Maggie Cassidy']	0
+what places make up new england?	484	cosmetics --> industry parent industry --> [u'Personal care']	1
+what places make up new england?	484	cosmetics --> risk factor diseases --> [u'Contact dermatitis']	0
+what places make up new england?	484	cosmetics --> topic alias --> [u'\u041a\u043e\u0437\u043c\u0435\u0442\u0438\u043a\u0430']	0
+what places make up new england?	484	cosmetics --> industry companies --> [u'Lush', u'Lise Watier', u'Lumene', u'AHAVA', u'The Body Shop']	0
+what places make up new england?	484	cosmetics --> object name --> [u'Cosmetics']	0
+what places make up new england?	484	cosmetics --> topic image --> [u'Cosmetics', u'An 1889 Henri de Toulouse-Lautrec painting of a woman applying cosmetics to her face', u'Men travel kit']	0
+what places make up new england?	484	cosmetics --> type of thing includes --> [u'Perfume']	3
+what places make up new england?	484	cosmetics --> vocabulary equivalent topic equivalent concept --> [u'Makeup', u'Cosmetics']	0
+what places make up new england?	484	cosmetics --> quotation subject quotations about this subject --> [u'God hath given you one face, and you make yourselves another.', u"Isn't that the problem? That women have been swindled for centuries into substituting adornment for love, fashion (as it were) for passion? All the cosmetics names seemed obscenely obvious to me in their promises of sexual bliss. They were all firming or uplifting or invigorating. They made you tingle. Or glow. Or feel young. They were prepared with hormones or placentas or royal jelly. All the juice and joy missing in the lives of these women were to be supplied by the contents of jars and bottles. No wonder they would spend twenty dollars for an ounce of face makeup or thirty for a half-ounce of hormone cream. What price bliss? What price sexual ecstasy?"]	0
+what places make up new england?	484	cosmetics --> book subject works --> [u'Mystery and Lure of Perfume', u'The Perfect Scent: A Year Inside the Perfume Industry in Paris and New York', u'Beautiful again', u'Essence and Alchemy', u'In Praise of Cosmetics']	0
+what places make up new england?	484	openstreetmap --> webpage resource --> [u'openstreetmap', u'OpenStreetMap wiki']	0
+what places make up new england?	484	openstreetmap --> website owner --> [u'OpenStreetMap Foundation']	0
+what places make up new england?	484	openstreetmap --> topic social media presence --> [u'http://plus.google.com/111953119785824514010']	0
+what places make up new england?	484	openstreetmap --> software license --> [u'GNU General Public License', u'Creative Commons (by-sa)', u'Public domain', u'Share-alike']	0
+what places make up new england?	484	openstreetmap --> topic topical webpage --> [u'http://wiki.openstreetmap.org/wiki/Main_Page']	0
+what places make up new england?	484	openstreetmap --> software developer --> [u'Steve Coast']	4
+what places make up new england?	484	openstreetmap --> website category --> [u'Web Map Service']	1
+what places make up new england?	484	openstreetmap --> conservation project lead contact person s --> [u'Steve Coast']	4
+what places make up new england?	484	openstreetmap --> webpage category --> [u'Topic Webpage']	0
+what places make up new england?	484	openstreetmap --> software protocols used --> [u'Hypertext Transfer Protocol', u'Simple Mail Transfer Protocol']	0
+what places make up new england?	484	openstreetmap --> object name --> [u'OpenStreetMap']	0
+what places make up new england?	484	openstreetmap --> topic image --> [u'Une carte de Paris sur OpenStreetMap']	0
+what places make up new england?	484	openstreetmap --> website launched --> [u'2004']	0
+what places make up new england?	484	openstreetmap --> website status --> [u'Active']	0
+what places make up new england?	484	openstreetmap --> topic official website --> [u'http://www.openstreetmap.org/']	0
+what places make up new england?	484	openstreetmap --> webpage description --> [u'OpenStreetMap', u'OpenStreetMap wiki']	0
+what places make up new england?	484	openstreetmap --> website ownership owner --> [u'OpenStreetMap Community']	0
+what places make up new england?	484	openstreetmap --> conservation project contained by program --> [u'OpenStreetMap program']	0
+what places make up new england?	484	openstreetmap --> webpage uri --> [u'http://www.openstreetmap.org', u'http://wiki.openstreetmap.org/wiki/Main_Page']	0
+what places make up new england?	484	location --> topic subject of --> [u'Jantar Mantar Jaipur']	0
+what places make up new england?	484	location --> object name --> [u'Location']	0
+what places make up new england?	484	location --> equivalent topic equivalent domain --> [u'Location']	0
+what places make up new england?	484	location --> equivalent topic equivalent type --> [u'Location']	0
+what places make up new england?	484	location --> book subject works --> [u'Oxford Atlas of the World']	0

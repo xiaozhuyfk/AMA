@@ -1,0 +1,104 @@
+who played alf on tv show?	110	alf on tv --> object name --> [u'ALF on TV']	0
+who played alf on tv show?	110	alf on tv --> task status --> [u'closed']	0
+who played alf on tv show?	110	alf on tv --> delete task delete guid --> [u'9202a8c04000641f800000000dfe2779']	0
+who played alf on tv show?	110	television program --> ontology instance mapping ontology --> [u'OpenCyc']	0
+who played alf on tv show?	110	television program --> webpage resource --> [u'Which TV shows should be reinvented?', u'Does sexy TV lead to teen pregnancy?', u'Susan Boyle revealed as big, lying boy-kisser: Share your feelings of betrayal here!', u"We don't need no stinkin' punch lines!", u'Tribute: John Spencer']	0
+who played alf on tv show?	110	television program --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvnewlpwpEbGdrcN5Y29ycA']	0
+who played alf on tv show?	110	television program --> award discipline awards in this discipline --> [u'CableACE Award for Comedy Series', u'SFX Award for Best TV Show']	0
+who played alf on tv show?	110	television program --> topic alias --> [u'TV series', u'Television programme', u'television show']	0
+who played alf on tv show?	110	television program --> object name --> [u'Television program']	0
+who played alf on tv show?	110	television program --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+who played alf on tv show?	110	television program --> vocabulary equivalent topic equivalent concept --> [u'Television Shows']	0
+who played alf on tv show?	110	television program --> linguistic hint subject form --> [u'Television programs']	0
+who played alf on tv show?	110	television program --> equivalent topic equivalent type --> [u'TV Program']	0
+who played alf on tv show?	110	television program --> book subject works --> [u"Can't Take My Eyes Off of You: 1 Man, 7 Days, 12 Televisions"]	0
+who played alf on tv show?	110	ontv --> tv affiliation duration from date --> [u'1979', u'1980']	0
+who played alf on tv show?	110	ontv --> tv affiliation duration station --> [u'WMYD', u'KNXV-TV', u'WSNS-TV']	3
+who played alf on tv show?	110	ontv --> object name --> [u'ONTV']	0
+who played alf on tv show?	110	ontv --> tv affiliation duration to date --> [u'1983', u'1985']	0
+who played alf on tv show?	110	alfon --> object name --> [u'Alfon']	0
+who played alf on tv show?	110	alfon --> object name --> [u'Alfon']	0
+who played alf on tv show?	110	ontv --> object name --> [u'ONTV']	0
+who played alf on tv show?	110	television --> software genre software in genre --> [u'DVBViewer', u'Google TV', u'Miro', u'Overcast Media', u'EyeTV']	0
+who played alf on tv show?	110	television --> speech or presentation speaker s --> [u'Newton N. Minow']	0
+who played alf on tv show?	110	television --> kwtopic has sentences --> [u'He also noted that the conduction of electrical current would vary depending on the amount of light hitting the selenium bars.', u'The final links between telegraphs and television occurred with M. Senlacq of Ardres, France in 1878, who proposed that the changes in electrical voltage produced by selenium when scanning a document, could magnetically control a pencil at the receiving end of the transmission.', u'Historically, no single person can be credited with the invention of television, as the perfection of the modern television system was the result of a number of isolated discoveries in the related fields of electricity, electromagnetism, and electrochemistry.', u'Although television is based on photoelectric technology, its initial developments are linked to pioneering attempts in the mid-19th century to send still images down a telegraph wire.', u'In 1873, Louis May, a British telegrapher, discovered what we consider today to be the basics of photo-conductivity, as he found that bars of selenium, when exposed to light, were a strong conductor of electricity.']	0
+who played alf on tv show?	110	television --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
+who played alf on tv show?	110	television --> film film distributor relationship film cut --> [u'Original broadcast']	0
+who played alf on tv show?	110	television --> award discipline awards in this discipline --> [u'Edgar Award for Best Television Episode Teleplay', u'Kristallen for Best Female Host', u'SFX Award for Best TV Show', u'SFX Award for Best TV Episode', u'PEN USA Literary Award for a Teleplay']	0
+who played alf on tv show?	110	television --> equivalent topic equivalent domain --> [u'TV']	0
+who played alf on tv show?	110	television --> topic alias --> [u'TV']	0
+who played alf on tv show?	110	television --> film film distributor relationship year --> [u'1966', u'1967', u'1981', u'1993', u'1998']	0
+who played alf on tv show?	110	television --> vocabulary equivalent topic equivalent concept --> [u'Televisions', u'Television']	0
+who played alf on tv show?	110	television --> genre content --> [u"Tim Goodman's TV Talk Machine", u"Comedy Central: What's New ( Video )", u'FOXCAST: The Simpsons', u'FOXCAST: So You Think You Can Dance', u'High School Musical 2']	0
+who played alf on tv show?	110	television --> organization sector organizations in this sector --> [u'Society of Television Lighting and Design', u'Cabvision', u'Directors Guild Trust', u'Vermont Community Access Media', u'National Academy of Television Arts and Sciences']	1
+who played alf on tv show?	110	television --> education end date --> [u'1977', u'1981', u'1991']	0
+who played alf on tv show?	110	television --> ranking list --> [u'101 Gadgets That Changed The World']	0
+who played alf on tv show?	110	television --> film film distributor relationship region --> [u'Belgium', u'Japan', u'United Kingdom', u'United States of America', u'China']	18
+who played alf on tv show?	110	television --> website category sites --> [u'The TV IV', u'Hannah Montana Official Website', u'Handy Manny', u'The New Adventures of Winnie the Pooh', u'Internet Movie Database']	0
+who played alf on tv show?	110	television --> accommodation feature accommodation with this feature --> [u'Historical Residence Hotel I Pini', u'Sheraton Keauhou']	0
+who played alf on tv show?	110	television --> netflix genre titles --> [u'Inspired Ambition', u'Law & Order: Special Victims Unit', u'I, Claudius', u'Nashville Star', u'Frasier']	0
+who played alf on tv show?	110	television --> film film distributor relationship distributor --> [u'BBC One', u'HBO', u'British Broadcasting Corporation', u'Disney Channel', u'CBS']	3
+who played alf on tv show?	110	television --> webpage category --> [u'Tag', u'Curated Topic']	0
+who played alf on tv show?	110	television --> kwtopic connections to --> [u'vladimir zworykin a developer of television']	0
+who played alf on tv show?	110	television --> education institution --> [u'Tel Aviv University', u'Northwestern University', u'University of Bristol', u'University of Mississippi', u'University of Miami']	0
+who played alf on tv show?	110	television --> topic subject of --> [u"C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston"]	0
+who played alf on tv show?	110	television --> topic comments --> [u'ZSI on Television']	0
+who played alf on tv show?	110	television --> ontology instance mapping ontology --> [u'OpenCyc']	0
+who played alf on tv show?	110	television --> webpage resource --> [u"Book publishers say Oprah was a stimulus 'like nobody else'", u'Your Must List suggestions (Polar Bear Edition)', u'\u201cGlee\u201d Season 1, Episode 7: TV Recap', u'\u201cGlee\u201d Season 1, Episode 12 \u201cMattress\u201d: TV Recap', u"Paula Goodspeed's suicide: Don't blame 'Idol,' even as we all scrutinize its audition process"]	0
+who played alf on tv show?	110	television --> kwtopic disciplines --> [u'electronics', u' optical broadcasting system']	0
+who played alf on tv show?	110	television --> speech or presentation presented work --> [u'Wasteland Speech']	0
+who played alf on tv show?	110	television --> invention inventor --> [u'Charles Francis Jenkins', u'Philo Farnsworth']	1
+who played alf on tv show?	110	television --> education student --> [u'Orly Vilnai', u'Sam Haskell', u'Patrick Farrell', u'Spike Lee', u'Jihad Saad']	0
+who played alf on tv show?	110	television --> industry companies --> [u'Mandt Bros. Productions', u'DreamWorks Classics', u'Starz Distribution', u'Viacom 18', u'Rough Draft Studios']	0
+who played alf on tv show?	110	television --> tv genre programs --> [u"Charlie Brooker's Screenwipe", u'Right to Reply', u'Call to Greatness']	0
+who played alf on tv show?	110	television --> kwtopic category --> [u'engineering and technology']	0
+who played alf on tv show?	110	television --> visual art medium artworks --> [u'Electronic Superhighway: Continental U.S., Alaska, Hawaii']	0
+who played alf on tv show?	110	television --> original idea innovator --> [u'Philo Farnsworth']	0
+who played alf on tv show?	110	television --> kwtopic kwtype --> [u'Artefact']	0
+who played alf on tv show?	110	television --> content broadcast --> [u'KUNS-TV', u'WBBZ-TV', u'WHAM-TV', u'KTXH', u'WGBH']	0
+who played alf on tv show?	110	television --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjWuJwpEbGdrcN5Y29ycA']	0
+who played alf on tv show?	110	television --> education major field of study --> [u'Communication', u'Drama', u'Film', u'Theatre', u'Filmmaking']	52
+who played alf on tv show?	110	television --> kwtopic connections from --> [u'television early development by alan archibald campbell-swinton', u'television early development by vladimir zworykin', u'television early development by john logie baird', u'television development aided by paul gottlieb nipkow']	0
+who played alf on tv show?	110	television --> ranking rank --> [u'3']	0
+who played alf on tv show?	110	television --> film film distributor relationship film --> [u'The Chamberland Sisters', u'Eric & Ernie: Behind the Scenes', u'Shooting the Hollywood Stars', u'Inside Deep Throat', u'16 Wishes']	0
+who played alf on tv show?	110	television --> object name --> [u'Television']	0
+who played alf on tv show?	110	television --> topic image --> [u'Bbc broadcasting house front', u'Family watching television 1958', u'Braun HF 1, Germany, 1958']	0
+who played alf on tv show?	110	television --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Bachelor of Science', u'M.A.', u'Bachelor of Arts']	0
+who played alf on tv show?	110	television --> kwtopic assessment --> [u'The electronic transmission and reception of sound and visual images by electronic means.']	0
+who played alf on tv show?	110	television --> film subject films --> [u'Pleasantville', u'Hairspray', u'Videodrome', u'The Insider', u'UHF']	0
+who played alf on tv show?	110	television --> quotation subject quotations about this subject --> [u"So by all means let's have a television show quick and long, even if the commercial has to be delivered by a man in a white coat with a stethoscope hanging around his neck, selling ergot pills. After all the public is entitled to what it wants, isn't it? The Romans knew that and even they lasted four hundred years after they started to putrefy.", u"Television's perfect. You turn a few knobs, a few of those mechanical adjustments at which the higher apes are so proficient, and lean back and drain your mind of all thought. And there you are watching the bubbles in the primeval ooze. You don't have to concentrate. You don't have to react. You don't have to remember. You don't miss your brain because you don't need it. Your heart and liver and lungs continue to function normally. Apart from that, all is peace and quiet. You are in the man's nirvana. And if some poor nasty minded person comes along and says you look like a fly on a can of garbage, pay him no mind. He probably hasn't got the price of a television set.", u'Television was not invented to make human beings vacuous, but is an emanation of their vacuity.', u"I don't think I've ever seen a better argument for feminism on mainstream television.", u"There's a good deal in common between the mind's eye and the TV screen, and though the TV set has all too often been the boobtube, it could be, it can be, the box of dreams."]	0
+who played alf on tv show?	110	television --> book subject works --> [u'Beyond Representation', u'Round Up the Usual Suspects: The Making of Casablanca', u'Roll of Thunder, Hear My Cry', u'Seek', u'Radio and Television']	0
+who played alf on tv show?	110	alf --> award nomination award --> [u"People's Choice Award for Favorite New TV Comedy", u"Kids' Choice Award for Favorite TV Show"]	0
+who played alf on tv show?	110	alf --> award honor year --> [u'1986', u'1988']	0
+who played alf on tv show?	110	alf --> tv network duration network --> [u'NBC']	5
+who played alf on tv show?	110	alf --> tv program air date of first episode --> [u'1986-09-22']	0
+who played alf on tv show?	110	alf --> netflix title netflix genres --> [u'Television', u'TV Comedies', u'TV Sitcoms']	0
+who played alf on tv show?	110	alf --> broadcast distributor --> [u'Warner Bros. Television Distribution', u'Debmar-Mercury']	0
+who played alf on tv show?	110	alf --> tv program genre --> [u'Comedy', u'Science Fiction', u'Sitcom', u'Puppet']	0
+who played alf on tv show?	110	alf --> award honor ceremony --> [u"13th People's Choice Awards", u"1988 Kids' Choice Awards"]	0
+who played alf on tv show?	110	alf --> processed with review queue question id --> [u'/rabj/store/questions/question_de58777ffef77a40']	0
+who played alf on tv show?	110	alf --> webpage category --> [u'Curated Topic']	0
+who played alf on tv show?	110	alf --> tv program episodes --> [u'Turkey in the Straw (2)', u'Changes', u'My Back Pages', u'Baby, You Can Drive My Car', u"I've Got a New Attitude"]	0
+who played alf on tv show?	110	alf --> tv program number of seasons --> [u'4']	0
+who played alf on tv show?	110	alf --> regular tv appearance actor --> [u'Liz Sheridan', u'Andrea Elson', u'Max Wright', u'Benji Gregory', u'John LaMotta']	9
+who played alf on tv show?	110	alf --> tv program program creator --> [u'Paul Fusco']	7
+who played alf on tv show?	110	alf --> tv program seasons --> [u'ALF - Season 3', u'ALF - Season 1', u'ALF - Season 2', u'ALF - Season 4', u'ALF - Season 0']	0
+who played alf on tv show?	110	alf --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0
+who played alf on tv show?	110	alf --> tv program episode running time --> [u'24', u'25', u'30']	0
+who played alf on tv show?	110	alf --> tv program country of origin --> [u'United States of America']	2
+who played alf on tv show?	110	alf --> tv program air date of final episode --> [u'1990-03-24']	0
+who played alf on tv show?	110	alf --> tv producer term producer --> [u'Lorimar-Telepictures', u'Bernie Brillstein', u'Paul Fusco']	8
+who played alf on tv show?	110	alf --> award honor award --> [u"People's Choice Award for Favorite New TV Comedy", u"Kids' Choice Award for Favorite TV Show"]	0
+who played alf on tv show?	110	alf --> tv program languages --> [u'English Language']	0
+who played alf on tv show?	110	alf --> regular tv appearance character --> [u'ALF']	0
+who played alf on tv show?	110	alf --> award nomination year --> [u'1986', u'1988', u'1989']	0
+who played alf on tv show?	110	alf --> object name --> [u'ALF']	0
+who played alf on tv show?	110	alf --> tv program number of episodes --> [u'102']	0
+who played alf on tv show?	110	alf --> tv program currently in production --> [u'0']	0
+who played alf on tv show?	110	animal liberation front --> topic alias --> [u'Animal Liberation Front Supporters Group']	0
+who played alf on tv show?	110	animal liberation front --> organization founders --> [u'Ronnie Lee']	1
+who played alf on tv show?	110	animal liberation front --> object name --> [u'Animal Liberation Front']	0
+who played alf on tv show?	110	animal liberation front --> topic image --> [u'ALFbeagles', u'Animal rights', u'The initials of the Animal Liberation Front with an anarchist circle-A incorporated into the design']	0
+who played alf on tv show?	110	animal liberation front --> topic official website --> [u'http://www.animalliberationfront.com']	0
+who played alf on tv show?	110	animal liberation front --> organization area of activism --> [u'Animal rights']	0
+who played alf on tv show?	110	animal liberation front --> webpage uri --> [u'http://www.animalliberationfront.com/']	0

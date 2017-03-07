@@ -1,0 +1,54 @@
+what county is utica ny in?	2663	utica --> sports team location teams --> [u'Utica Devils']	1
+what county is utica ny in?	2663	utica --> bibs location loc type --> [u'City']	0
+what county is utica ny in?	2663	utica --> bibs location state --> [u'New York']	0
+what county is utica ny in?	2663	utica --> dated float number --> [u'0.0616']	0
+what county is utica ny in?	2663	utica --> topic alias --> [u'Oneida County / Utica city', u'Utica [N.Y.', u'Utica, New York']	0
+what county is utica ny in?	2663	utica --> dated float date --> [u'2008']	0
+what county is utica ny in?	2663	utica --> location area --> [u'42.9938026316']	0
+what county is utica ny in?	2663	utica --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what county is utica ny in?	2663	utica --> dated float number --> [u'0']	0
+what county is utica ny in?	2663	utica --> location people born here --> [u'Kellian Whaley', u'Michael Zarnock', u'Tiffany Pollard', u'Lavinia Goodell', u'Craig Wuest']	1
+what county is utica ny in?	2663	utica --> geocode latitude --> [u'43.1008']	0
+what county is utica ny in?	2663	utica --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what county is utica ny in?	2663	utica --> dated integer year --> [u'2008']	0
+what county is utica ny in?	2663	utica --> citytown postal codes --> [u'13501', u'13502', u'13599', u'13505', u'13504']	0
+what county is utica ny in?	2663	utica --> object name --> [u'Utica']	0
+what county is utica ny in?	2663	utica --> dated float date --> [u'2008']	0
+what county is utica ny in?	2663	utica --> location containedby --> [u'New York', u'Oneida County']	27
+what county is utica ny in?	2663	utica --> location time zones --> [u'Eastern Time Zone']	0
+what county is utica ny in?	2663	utica --> administrative division capital relationship administrative division --> [u'Oneida County']	27
+what county is utica ny in?	2663	utica --> dated integer number --> [u'2279']	0
+what county is utica ny in?	2663	utica --> hud county place place --> [u'Utica']	845
+what county is utica ny in?	2663	utica --> bibs topic subsumes --> [u'Utica']	845
+what county is utica ny in?	2663	utica --> location contains --> [u'Grace Church', u'Uptown Theatre', u'Roscoe Conkling House', u'New Century Club', u'Utica Memorial Auditorium']	12
+what county is utica ny in?	2663	utica --> dated integer number --> [u'25093']	0
+what county is utica ny in?	2663	utica --> dated integer source --> [u'United States Census Bureau, Population']	0
+what county is utica ny in?	2663	utica --> dated integer year --> [u'2008']	0
+what county is utica ny in?	2663	utica --> dated integer year --> [u'2008']	0
+what county is utica ny in?	2663	utica --> newspaper circulation area newspapers --> [u'Observer-Dispatch', u'Syracuse New Times']	1
+what county is utica ny in?	2663	utica --> geocode longitude --> [u'-75.2331']	0
+what county is utica ny in?	2663	utica --> bibs location country --> [u'United States of America']	28
+what county is utica ny in?	2663	utica --> dated integer year --> [u'2008']	0
+what county is utica ny in?	2663	utica --> hud county place county --> [u'Oneida County']	27
+what county is utica ny in?	2663	utica --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what county is utica ny in?	2663	utica --> dated integer number --> [u'5110']	0
+what county is utica ny in?	2663	utica --> dated integer year --> [u'2008']	0
+what county is utica ny in?	2663	utica --> bibs location is clear --> [u'1']	0
+what county is utica ny in?	2663	utica --> dated integer number --> [u'229']	0
+what county is utica ny in?	2663	utica --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what county is utica ny in?	2663	utica --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what county is utica ny in?	2663	utica --> topic image --> [u'Utica 97 002', u'Downtown Utica']	0
+what county is utica ny in?	2663	utica --> bibs topic is really --> [u'Utica']	845
+what county is utica ny in?	2663	utica --> dated integer number --> [u'26114']	0
+what county is utica ny in?	2663	utica --> dated integer number --> [u'2972', u'8323', u'12782', u'17565', u'22529']	0
+what county is utica ny in?	2663	utica --> dated integer year --> [u'1910', u'1920', u'1930', u'1940', u'1950']	0
+what county is utica ny in?	2663	utica --> geocode datum --> [u'NAD83']	0
+what county is utica ny in?	2663	utica --> location nearby airports --> [u'Oneida County Airport', u'Frankfort-Highland Airport']	4
+what county is utica ny in?	2663	powiat --> object name --> [u'Powiat']	0
+what county is utica ny in?	2663	powiat --> topic image --> [u'Map of Polish counties', u'POLSKA mapa powiaty2']	0
+what county is utica ny in?	2663	county --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what county is utica ny in?	2663	county --> webpage resource --> [u"Nirvana's Krist Novoselic running for office", u"Farrah Fawcett's son Redmond O'Neal heads to rehab"]	0
+what county is utica ny in?	2663	county --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjkmJwpEbGdrcN5Y29ycA']	0
+what county is utica ny in?	2663	county --> object name --> [u'County']	0
+what county is utica ny in?	2663	county --> topic image --> [u'Censusdivisions', u'Iran counties', u'China County-level']	0
+what county is utica ny in?	2663	county --> webpage in index --> [u'Entertainment Weekly annotation index']	0

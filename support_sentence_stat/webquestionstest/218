@@ -1,0 +1,81 @@
+what athlete am i olympics?	52	amazon machine image --> object name --> [u'Amazon Machine Image']	0
+what athlete am i olympics?	52	olympic games --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what athlete am i olympics?	52	olympic games --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkA9pwpEbGdrcN5Y29ycA']	0
+what athlete am i olympics?	52	olympic games --> topic social media presence --> [u'http://plus.google.com/109192583663551892471']	0
+what athlete am i olympics?	52	olympic games --> sports championship league --> [u'U.S. Biathlon Association']	0
+what athlete am i olympics?	52	olympic games --> topic alias --> [u'Olympics', u'The Modern Olympic Games']	0
+what athlete am i olympics?	52	olympic games --> equivalent topic equivalent type --> [u'Olympic games']	0
+what athlete am i olympics?	52	olympic games --> recurring event current frequency --> [u'Once every two years']	0
+what athlete am i olympics?	52	olympic games --> object name --> [u'Olympic Games']	0
+what athlete am i olympics?	52	olympic games --> valuenotation has no value --> [u'Date of final occurrence']	0
+what athlete am i olympics?	52	olympic games --> topic official website --> [u'http://www.olympic.org/']	0
+what athlete am i olympics?	52	olympic games --> name source namesakes --> [u'1022 Olympiada']	0
+what athlete am i olympics?	52	olympic games --> book subject works --> [u'The Complete Book of the Olympics', u'The Amateurs: The Story of Four Young Men and Their Quest for an Olympic Gold Medal', u'The complete book of the Winter Olympics', u'Berlin Games', u'The Olympic Odyssey']	0
+what athlete am i olympics?	52	athlete --> webpage resource --> [u'Sean Avery Cleans Up']	0
+what athlete am i olympics?	52	athlete --> profession corresponding type --> [u'Athlete']	0
+what athlete am i olympics?	52	athlete --> profession people with this profession --> [u'Bernard Hopkins', u'Eric Pang', u'David Cal', u'Bridgitte Hartley', u'Evaldas Petrauskas']	0
+what athlete am i olympics?	52	athlete --> risk factor diseases --> [u'Dehydration', u'Heat Stroke', u'Hyperthermia', u'Anorexia nervosa', u'Rotator cuff tear']	0
+what athlete am i olympics?	52	athlete --> character rank characters of this rank --> [u'Grippa, Tysian']	0
+what athlete am i olympics?	52	athlete --> topic alias --> [u'Sportsman', u'Sportsperson', u'Sportswoman']	0
+what athlete am i olympics?	52	athlete --> job title professions --> [u'Sports']	0
+what athlete am i olympics?	52	athlete --> index item identifier --> [u'tiger_woods']	0
+what athlete am i olympics?	52	athlete --> index item topic --> [u'Tiger Woods']	0
+what athlete am i olympics?	52	athlete --> object name --> [u'Athlete']	0
+what athlete am i olympics?	52	athlete --> topic image --> [u'Handball players in Sweden.', u'Jim Thorpe olympic']	0
+what athlete am i olympics?	52	athlete --> profession specializations --> [u'Professional Boxer', u'Forward', u'Jockey', u'Golfer', u'Basketball player']	0
+what athlete am i olympics?	52	athlete --> webpage in index --> [u'WSJ Speakeasy Index']	0
+what athlete am i olympics?	52	athlete --> vocabulary equivalent topic equivalent concept --> [u'Athletes']	0
+what athlete am i olympics?	52	athlete --> linguistic hint subject form --> [u'Athletes']	0
+what athlete am i olympics?	52	athlete --> equivalent topic equivalent type --> [u'Athlete']	0
+what athlete am i olympics?	52	athlete --> book subject works --> [u'Dispatches From the Sporting Life', u'Born To Run', u"Andy Roddick Beat Me with a Frying Pan: Taking the Field with Pro Athletes and Olympic Legends to Answer Sports Fans' Burning Questions"]	0
+what athlete am i olympics?	52	athlete --> character occupation characters with this occupation --> [u'Jane Valieri', u'Spencer Hastings', u'Bette Kane', u'Mike Montgomery', u'Takeshi Yamamoto']	0
+what athlete am i olympics?	52	track and field athletics --> media genre parent genre --> [u'Sports game']	0
+what athlete am i olympics?	52	track and field athletics --> equivalent topic equivalent domain --> [u'Athletics']	0
+what athlete am i olympics?	52	track and field athletics --> topic alias --> [u'Track and field']	0
+what athlete am i olympics?	52	track and field athletics --> computer game subject games --> [u'Track & Field']	0
+what athlete am i olympics?	52	track and field athletics --> taxonomy entry high --> [u'1098']	0
+what athlete am i olympics?	52	track and field athletics --> first achievement achievement --> [u'Four-minute mile']	1
+what athlete am i olympics?	52	track and field athletics --> vocabulary equivalent topic equivalent concept --> [u'Track & Field']	0
+what athlete am i olympics?	52	track and field athletics --> organization sector organizations in this sector --> [u'LCAA Sports', u'Scottishathletics', u'Aberystwyth Athletic Club', u'Athletics Australia', u'Athletics Federation of Serbia']	0
+what athlete am i olympics?	52	track and field athletics --> taxonomy entry prefix --> [u'GV']	0
+what athlete am i olympics?	52	track and field athletics --> olympic sport kind --> [u'Summer']	0
+what athlete am i olympics?	52	track and field athletics --> pro sports played athlete --> [u'Domenico Gorla', u'Ernesto Nocco', u'Erica Bartolina', u'Nicole Teter', u'Ra\xfal Spank']	0
+what athlete am i olympics?	52	track and field athletics --> olympic sport olympic games contested --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'1900 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	14
+what athlete am i olympics?	52	track and field athletics --> first achievement first --> [u'Roger Bannister']	0
+what athlete am i olympics?	52	track and field athletics --> cvg genre games --> [u'Olympic Summer Games', u'The Activision Decathlon', u'Athens 2004', u'Asterix at the Olympic Games', u'Track & Field']	0
+what athlete am i olympics?	52	track and field athletics --> webpage resource --> [u'Antonio Rossi: Olympic Stud of the Day', u'Olympic Stud of the Day: Bryan Clay', u"The 'Celebrity Apprentice' season 3 cast could be more ridiculous, but I'm not complaining"]	0
+what athlete am i olympics?	52	track and field athletics --> olympic athlete affiliation athlete --> [u'Erica Bartolina', u'Nicole Teter', u'Asmir Kola\u0161inac', u'Supanara Sukhasvasti na Ayudhya', u'Piotr Wiaderek']	0
+what athlete am i olympics?	52	track and field athletics --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what athlete am i olympics?	52	track and field athletics --> sport team coaches --> [u'Jim Hunt']	0
+what athlete am i olympics?	52	track and field athletics --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what athlete am i olympics?	52	track and field athletics --> taxonomy entry low --> [u'1060.5']	0
+what athlete am i olympics?	52	track and field athletics --> olympic sport events --> [u"Men's Shot put", u"Women's Athletics, 5000m", u"Women's Javelin throw", u"Women's Hammer throw", u"Men's Athletics, 200m Hurdles"]	0
+what athlete am i olympics?	52	track and field athletics --> olympic athlete affiliation country --> [u'Belgium', u'Brazil', u'Bulgaria', u'Nepal', u'Croatia']	6
+what athlete am i olympics?	52	track and field athletics --> object name --> [u'Track and field athletics']	0
+what athlete am i olympics?	52	track and field athletics --> topic image --> [u'Naisten 400 m aidat']	0
+what athlete am i olympics?	52	track and field athletics --> pro sports played career start --> [u'2006']	0
+what athlete am i olympics?	52	track and field athletics --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'1900 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	14
+what athlete am i olympics?	52	track and field athletics --> film subject films --> [u'Chariots of Fire']	0
+what athlete am i olympics?	52	track and field athletics --> olympic event games --> [u'1992 Summer Paralympics']	0
+what athlete am i olympics?	52	track and field athletics --> book subject works --> [u'Terry', u'Run For Your Life', u'Best runs', u'Marathon training', u'Better runs']	0
+what athlete am i olympics?	52	athlete --> artist active start --> [u'2002-03']	0
+what athlete am i olympics?	52	athlete --> artist content --> [u'Atlantic Sound Factory', u'radioIO Indie Rock', u'WOXY']	0
+what athlete am i olympics?	52	athlete --> artist label --> [u'Parlophone', u'Astralwerks', u'Fiction Records']	1
+what athlete am i olympics?	52	athlete --> profession people with this profession --> [u'Marlena Wesh']	0
+what athlete am i olympics?	52	athlete --> tv guest personal appearance episode --> [u'Series 5, Episode 35', u'Anthony Michael Hall & Athlete', u'Season 1, Episode 9']	0
+what athlete am i olympics?	52	athlete --> artist origin --> [u'Deptford']	0
+what athlete am i olympics?	52	athlete --> producer tracks produced --> [u'Vehicles & Animals', u'You Got the Style', u'El Salvador', u'One Million', u'New Project']	0
+what athlete am i olympics?	52	athlete --> myspace user username --> [u'athlete']	0
+what athlete am i olympics?	52	athlete --> topic alias --> [u'Athelete']	0
+what athlete am i olympics?	52	athlete --> webpage category --> [u'Official Website', u'Curated Topic']	0
+what athlete am i olympics?	52	athlete --> group membership member --> [u'Joel Pott', u'Tim Wanstall', u'Steve Roberts', u'Carey Willets']	6
+what athlete am i olympics?	52	athlete --> artist album --> [u'Singles 01-10', u'Tourist', u'Black Swan', u'Tokyo', u'Half Light']	9
+what athlete am i olympics?	52	athlete --> object name --> [u'Athlete']	0
+what athlete am i olympics?	52	athlete --> topic image --> [u'Athlete performing in 2008', u'Athlete at the Academy, 2007']	0
+what athlete am i olympics?	52	athlete --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0
+what athlete am i olympics?	52	athlete --> webpage uri --> [u'http://www.athlete.mu/']	0
+what athlete am i olympics?	52	athlete --> artist home page --> [u'Official home page']	0
+what athlete am i olympics?	52	athlete --> artist genre --> [u'Indie rock', u'Alternative rock', u'Pop rock', u'Pop music', u'Britpop']	1
+what athlete am i olympics?	52	athlete --> artist track --> [u'Airport Disco', u'The Outsiders (radio edit)', u'One of Those Days', u'Vehicles & Animals (live at ULU)', u'Vehicles & Animals']	0
+what athlete am i olympics?	52	athlete --> topic official website --> [u'http://www.athlete.mu/']	0
+what athlete am i olympics?	52	athlete --> webpage uri --> [u'http://www.athlete.mu/']	0

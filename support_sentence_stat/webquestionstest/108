@@ -1,0 +1,10 @@
+who were wright brothers?	33	wright brothers --> ontology instance mapping ontology --> [u'OpenCyc']	0
+who were wright brothers?	33	wright brothers --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQFvjZwpEbGdrcN5Y29ycA']	0
+who were wright brothers?	33	wright brothers --> organization founders --> [u'Wilbur Wright', u'Orville Wright']	0
+who were wright brothers?	33	wright brothers --> aircraft manufacturer aircraft models made --> [u'1902 Wright Glider', u'Wright Flyer', u'Wright Model C', u'Wright Model B', u'1900 Wright Glider']	29
+who were wright brothers?	33	wright brothers --> topic alias --> [u'Orville Wright']	0
+who were wright brothers?	33	wright brothers --> topic image --> [u'Orville Wright']	0
+who were wright brothers?	33	wright brothers --> innovator original ideas --> [u'Aircraft']	1
+who were wright brothers?	33	wright brothers --> object name --> [u'Wright brothers']	0
+who were wright brothers?	33	wright brothers --> inventor inventions --> [u'Aircraft', u'Airplane']	3
+who were wright brothers?	33	wright brothers --> company name change new name --> [u'The Wright Cycle Company']	0

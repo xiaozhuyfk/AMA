@@ -1,0 +1,147 @@
+what genre of art is the mona lisa?	295	mona lisa --> ce que je veux painting --> [u'Test pilot']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork art form --> [u'Painting']	1
+what genre of art is the mona lisa?	295	mona lisa --> topic alias --> [u'La Gioconda', u'La Joconde']	0
+what genre of art is the mona lisa?	295	mona lisa --> bigtriangle distance --> [u'0']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork media --> [u'Oil paint']	0
+what genre of art is the mona lisa?	295	mona lisa --> webpage description --> [u'Louvre Museum, Mona Lisa']	0
+what genre of art is the mona lisa?	295	mona lisa --> webpage category --> [u'Topic Webpage']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork location relationship location --> [u'The Louvre']	29
+what genre of art is the mona lisa?	295	mona lisa --> dimensions width meters --> [u'0.53']	0
+what genre of art is the mona lisa?	295	mona lisa --> topic official website --> [u'http://www.louvre.fr/oeuvre-notices/portrait-de-lisa-gherardini-epouse-de-francesco-del-giocondo']	0
+what genre of art is the mona lisa?	295	mona lisa --> dimensions height meters --> [u'0.77']	0
+what genre of art is the mona lisa?	295	mona lisa --> ontology instance mapping ontology --> [u'OpenCyc', u'DBpedia']	0
+what genre of art is the mona lisa?	295	mona lisa --> webpage resource --> [u"'Wally Cleaver' and other celebrity artists: Who's actually good?", u"Will there be a 'Da Vinci Code' boycott?", u'Photographer Juergen Teller: \u201cIt\u2019s Time for You to Take Your Clothes Off', u'Louvre Museum, Mona Lisa']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork date completed --> [u'1517']	0
+what genre of art is the mona lisa?	295	mona lisa --> parodied subject parodies --> [u'L.H.O.O.Q.']	0
+what genre of art is the mona lisa?	295	mona lisa --> art subject artwork on the subject --> [u'Gallery of the Louvre']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork art genre --> [u'Portrait']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork owner relationship owner --> [u'The Louvre']	29
+what genre of art is the mona lisa?	295	mona lisa --> artwork art subject --> [u'Lisa del Giocondo']	8
+what genre of art is the mona lisa?	295	mona lisa --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork period or movement --> [u'Italian Renaissance', u'Renaissance']	3
+what genre of art is the mona lisa?	295	mona lisa --> webpage uri --> [u'http://www.louvre.fr/llv/activite/detail_parcours.jsp?CURRENT_LLV_PARCOURS%3C%3Ecnt_id=10134198673226925&CURRENT_LLV_CHEMINEMENT%3C%3Ecnt_id=10134198673226886&CONTENT%3C%3Ecnt_id=10134198673226886&bmLocale=en', u'http://www.louvre.fr/llv/oeuvres/detail_notice.jsp?CONTENT%3C%3Ecnt_id=10134198673226503&CURRENT_LLV_NOTICE%3C%3Ecnt_id=10134198673226503&FOLDER%3C%3Efolder_id=9852723696500816&fromDept=false&baseIndex=38&bmUID=1187422458554']	0
+what genre of art is the mona lisa?	295	mona lisa --> ontology instance mapping uri --> [u'http://dbpedia.org/page/Mona_Lisa', u'http://sw.opencyc.org/2008/06/10/concept/Mx4rv573qZwpEbGdrcN5Y29ycA']	0
+what genre of art is the mona lisa?	295	mona lisa --> topic topical webpage --> [u'http://www.louvre.fr/llv/activite/detail_parcours.jsp?CURRENT_LLV_PARCOURS%3C%3Ecnt_id=10134198673226925&CURRENT_LLV_CHEMINEMENT%3C%3Ecnt_id=10134198673226886&CONTENT%3C%3Ecnt_id=10134198673226886&bmLocale=en']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork artist --> [u'Leonardo da Vinci']	94
+what genre of art is the mona lisa?	295	mona lisa --> bigtriangle angle --> [u'0']	0
+what genre of art is the mona lisa?	295	mona lisa --> object name --> [u'Mona Lisa']	0
+what genre of art is the mona lisa?	295	mona lisa --> topic image --> [u'Mona Lisa']	0
+what genre of art is the mona lisa?	295	mona lisa --> dated money value amount --> [u'100000000']	0
+what genre of art is the mona lisa?	295	mona lisa --> dated money value valid date --> [u'1962']	0
+what genre of art is the mona lisa?	295	mona lisa --> dated money value currency --> [u'United States dollar']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork support --> [u'Poplar']	1
+what genre of art is the mona lisa?	295	mona lisa --> exhibit exhibitions displayed in --> [u'Mona Lisa by Leonardo da Vinci']	0
+what genre of art is the mona lisa?	295	mona lisa --> artwork date begun --> [u'1503']	0
+what genre of art is the mona lisa?	295	mona lisa --> book subject works --> [u'Mona Lisa: Inside the Painting', u'Becoming Mona Lisa: The Making of a Global Icon']	0
+what genre of art is the mona lisa?	295	genreof --> object name --> [u'GenreOf']	0
+what genre of art is the mona lisa?	295	genreof --> semantic predicate semantic relationship --> [u'Genre']	0
+what genre of art is the mona lisa?	295	artis --> mailing address postal code --> [u'1018 CZ']	0
+what genre of art is the mona lisa?	295	artis --> employment tenure person --> [u'Amalia Mesa-Bains']	0
+what genre of art is the mona lisa?	295	artis --> animal captivity from --> [u'2010']	0
+what genre of art is the mona lisa?	295	artis --> zoo opened --> [u'1838-05-01']	0
+what genre of art is the mona lisa?	295	artis --> tourist attraction near travel destination --> [u'Amsterdam']	7
+what genre of art is the mona lisa?	295	artis --> mailing address citytown --> [u'Amsterdam']	7
+what genre of art is the mona lisa?	295	artis --> mailing address state province region --> [u'North Holland']	0
+what genre of art is the mona lisa?	295	artis --> zoo num species --> [u'900']	0
+what genre of art is the mona lisa?	295	artis --> geocode longitude --> [u'4.916']	0
+what genre of art is the mona lisa?	295	artis --> topic alias --> [u'Artis, Amsterdam', u'Natura Artis Magistra']	0
+what genre of art is the mona lisa?	295	artis --> mailing address country --> [u'Netherlands']	1
+what genre of art is the mona lisa?	295	artis --> object name --> [u'Artis']	0
+what genre of art is the mona lisa?	295	artis --> topic image --> [u'The entrance to Artis in July 2004', u'Plantage Kerklaan Artis']	0
+what genre of art is the mona lisa?	295	artis --> location containedby --> [u'Amsterdam']	7
+what genre of art is the mona lisa?	295	artis --> structure opened --> [u'1838-05-01']	0
+what genre of art is the mona lisa?	295	artis --> topic official website --> [u'http://www.artis.nl/en']	0
+what genre of art is the mona lisa?	295	artis --> geocode latitude --> [u'52.3662']	0
+what genre of art is the mona lisa?	295	artis --> zoo memberships --> [u'World Association of Zoos and Aquariums', u'European Association of Zoos and Aquaria', u'Dutch Zoo Federation']	0
+what genre of art is the mona lisa?	295	artis --> mailing address street address --> [u'Plantage Kerklaan 38-40']	0
+what genre of art is the mona lisa?	295	artis --> webpage uri --> [u'http://www.artis.nl/en']	0
+what genre of art is the mona lisa?	295	artist --> action tool --> [u'Impalement arts']	0
+what genre of art is the mona lisa?	295	artist --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what genre of art is the mona lisa?	295	artist --> webpage resource --> [u'Is Tupac Shakur the most overrated artist ever?', u"'American Idol': What's your favorite Adam Lambert YouTube clip?", u"'The L Word': The season's best so far?", u"Punky Brewster's back!", u'Artist to watch: Lykke Li']	0
+what genre of art is the mona lisa?	295	artist --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwMcZI5wpEbGdrcN5Y29ycA']	0
+what genre of art is the mona lisa?	295	artist --> profession people with this profession --> [u'Ruth Vollmer', u'Aernout Mik', u'Carolyn Carradine', u'Michael Asher', u'My Chau']	0
+what genre of art is the mona lisa?	295	artist --> project participation project --> [u'Wrapping up the Reichstag', u'Construction of S\xe3o Bento Train Station']	0
+what genre of art is the mona lisa?	295	artist --> profession specializations --> [u'Copyist', u'Designer', u'Musician', u'Graphic Artist', u'Choreographer']	8
+what genre of art is the mona lisa?	295	artist --> film crew gig film --> [u'Up in the Air', u'The Simpsons Movie', u'Gnomeo & Juliet', u'300', u'Dread']	0
+what genre of art is the mona lisa?	295	artist --> job title professions --> [u'Arts']	0
+what genre of art is the mona lisa?	295	artist --> equivalent topic equivalent type --> [u'Visual Artist']	0
+what genre of art is the mona lisa?	295	artist --> object name --> [u'Artist']	0
+what genre of art is the mona lisa?	295	artist --> topic image --> [u'Johann Heinrich Wilhelm Tischbein 007']	0
+what genre of art is the mona lisa?	295	artist --> film crew gig crewmember --> [u'David Brooke', u'Colleen Winning', u'Eddie Yang', u'Carlos Zaragoza', u'Nicole Balzarini']	0
+what genre of art is the mona lisa?	295	artist --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what genre of art is the mona lisa?	295	artist --> action process --> [u'Throwing knife']	0
+what genre of art is the mona lisa?	295	artist --> project participation participant --> [u'Christo', u'Jorge Cola\xe7o']	0
+what genre of art is the mona lisa?	295	artist --> project participation from date --> [u'1995']	0
+what genre of art is the mona lisa?	295	artist --> linguistic hint subject form --> [u'Artists']	0
+what genre of art is the mona lisa?	295	artist --> project participation to date --> [u'1916', u'1995']	0
+what genre of art is the mona lisa?	295	artist --> book subject works --> [u'Breakthrough Artist Amiri Farris Launches Multimedia Black History Month Platform', u"The Horse's Mouth", u'Songs of My People Art Exhibition Opens at Penn Center', u'The Midas Consequence']	0
+what genre of art is the mona lisa?	295	artist --> character occupation characters with this occupation --> [u'David Alfaro Siqueiros', u'Stuart Chandler', u'Colossus', u'Ella Montgomery', u'Toulouse-Lautrec']	0
+what genre of art is the mona lisa?	295	art --> jewish studies field collections --> [u"Collection of Photographs of the Martin Buber Institute's Library"]	0
+what genre of art is the mona lisa?	295	art --> website category sites --> [u'Creative Thinkers International', u'deviantART', u'LAS Magazine', u'Online Newspapers, French Edition', u'100th Anniversary of the Harlem Renaissance']	0
+what genre of art is the mona lisa?	295	art --> exhibition subject exhibitions created about this subject --> [u'Blood on Paper: The Art of the Book', u'State of the Art: New York', u'All for Art! Our Great Private Collectors Share Their Works', u'Weighing and Wanting: Selections from the Collection', u'The Best of Manchester']	0
+what genre of art is the mona lisa?	295	art --> award discipline awards in this discipline --> [u'Ditmar Award for Best Artwork', u'Ditmar Award for Best Fan Artist']	0
+what genre of art is the mona lisa?	295	art --> collection category sub categories --> [u'Painting', u'Modern art']	8
+what genre of art is the mona lisa?	295	art --> craft supplies categories craft supplies store --> [u'doodlebug']	0
+what genre of art is the mona lisa?	295	art --> vocabulary equivalent topic equivalent concept --> [u'Art']	0
+what genre of art is the mona lisa?	295	art --> patronage sector patrons --> [u"Paloma O'Shea", u'Salah Bachir', u'Gaius Maecenas', u'John Julius Angerstein', u'Luman Reed']	0
+what genre of art is the mona lisa?	295	art --> product theme product lines --> [u'TAG Registries']	0
+what genre of art is the mona lisa?	295	art --> taxonomy entry prefix --> [u'NX']	0
+what genre of art is the mona lisa?	295	art --> meeting focus focus of --> [u'AG Zionismusforschung Workshop /4']	0
+what genre of art is the mona lisa?	295	art --> education end date --> [u'1968', u'1990', u'1992', u'1994', u'1997']	0
+what genre of art is the mona lisa?	295	art --> field of study journals in this discipline --> [u'Art Journal', u'The Burlington Magazine', u'Long River Review', u'Archives of Asian Art', u'Failbetter']	0
+what genre of art is the mona lisa?	295	art --> webpage category --> [u'Tag', u'Curated Topic']	0
+what genre of art is the mona lisa?	295	art --> product theme products --> [u'Andy Warhol Registry', u'Banksy Registry', u'Ringo Registry', u'Jean-Michel Basquiat Registry', u'Keith Haring Registry']	0
+what genre of art is the mona lisa?	295	art --> organization sector organizations in this sector --> [u'Criss-Cross', u'Traffic Zone Center for Visual Art', u'Island6', u'Construction in Process', u'Tenth Street galleries']	0
+what genre of art is the mona lisa?	295	art --> education institution --> [u'San Francisco State University', u'University of Iowa', u'William Paterson University', u'Nihon University', u'Central Michigan University']	0
+what genre of art is the mona lisa?	295	art --> field of study academic departments --> [u'Wheaton Department of Art & Art History']	0
+what genre of art is the mona lisa?	295	art --> topic subject of --> [u'Julian Schnabel artwork']	0
+what genre of art is the mona lisa?	295	art --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what genre of art is the mona lisa?	295	art --> webpage resource --> [u'Guilty Pleasures, Round One: Nickelback (1) vs. Phish (16)']	0
+what genre of art is the mona lisa?	295	art --> education start date --> [u'1898', u'1937', u'1965', u'2002']	0
+what genre of art is the mona lisa?	295	art --> collection collector --> [u'Cheech Marin', u'Michael Ovitz']	0
+what genre of art is the mona lisa?	295	art --> collection items --> [u'Untitled (dervish)', u'The Great Conspirator', u'Tontauben']	0
+what genre of art is the mona lisa?	295	art --> vocabulary equivalent topic narrower concept --> [u'Gay men in art', u'Spoons in art']	0
+what genre of art is the mona lisa?	295	art --> education student --> [u'Quinne Fokes', u'Freddie Mercury', u'Akira Ishida', u'Mimi Gardner Gates', u'Paul Gebbia']	0
+what genre of art is the mona lisa?	295	art --> webpage in index --> [u'Entertainment Weekly annotation index', u'Blissful Celebrities', u'Blissful Master Index']	0
+what genre of art is the mona lisa?	295	art --> collective focus collectives --> [u'Pre-Raphaelite Brotherhood', u"Section d'Or", u'Herbert and Dorothy Vogel']	1
+what genre of art is the mona lisa?	295	art --> collection category items in this category --> [u'Untitled (dervish)']	0
+what genre of art is the mona lisa?	295	art --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what genre of art is the mona lisa?	295	art --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvViFA5wpEbGdrcN5Y29ycA']	0
+what genre of art is the mona lisa?	295	art --> education major field of study --> [u'Communication', u'English studies', u'Creative writing', u'Literature', u'Mathematics']	47
+what genre of art is the mona lisa?	295	art --> type of museum museums --> [u'Coronado Museum of History and Art', u'City and Territory Museum', u'Amon Carter Museum', u'Foundling Museum', u'Frick Collection']	0
+what genre of art is the mona lisa?	295	art --> periodical subject periodicals --> [u'Literary Savannah (Magazine)', u'20x20 magazine', u'African American Review', u'Cassone', u'Boulevard']	0
+what genre of art is the mona lisa?	295	art --> magazine genre magazines in this genre --> [u'LOVE', u'Mino Argento', u'Muse', u'La Revue Blanche']	0
+what genre of art is the mona lisa?	295	art --> object name --> [u'Art']	0
+what genre of art is the mona lisa?	295	art --> topic image --> [u'Pompeii-couple', u'Cassatt the bath', u'Teke bottle']	0
+what genre of art is the mona lisa?	295	art --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Bachelor of Fine Arts', u'Doctorate', u'Bachelor of Science']	0
+what genre of art is the mona lisa?	295	art --> film subject films --> [u"A la recherche de l'innocence", u'Four Eyed Monsters']	0
+what genre of art is the mona lisa?	295	art --> quotation subject quotations about this subject --> [u'There are two kinds of truth; the truth that lights the way and the truth that warms the heart. The first of these is science, and the second is art. Without art science would be as useless as a pair of high forceps in the hands of a plumber. Without science art would become a crude mess of folklore and emotional quackery.', u'""While it is unlikely that poetry or art shall eliminate the reality of war in the twenty-first century, it is thrilling to know there remain individuals, and even entire communities, still willing to invest in art and poetry\u2019s own uniquely explosive contributions to the great, and small, dramas of human history.""', u'\u201cThese kids will make you cry, laugh\u2026 They make you feel all kinds of emotions through their writings and they share a lot with me, as an instructor, that they might not normally share with other people because they are young artists and they need a platform for pulling that stuff out.\u201d', u'""The literary artist lends verbal depth to the visual. The visual artist provides visible articulation for the literary.""', u'Science is what we understand well enough to explain to a computer. Art is everything else we do.']	0
+what genre of art is the mona lisa?	295	art --> book subject works --> [u'The Young Poet and the Painter', u'The Brown Decades', u'On the strange place of religion in contemporary art', u'Ink, paper, metal, wood', u'The Art of War']	0
+what genre of art is the mona lisa?	295	art --> education specialization --> [u'Theatre', u'Costume design']	3
+what genre of art is the mona lisa?	295	music genre --> webpage resource --> [u'Save our kids \u2014 stop the Pops!', u"'Idol': More music from Jermaine Purifory, and last night's other Golden Ticket holders", u"'Rock of Ages': Does a hair metal musical belong on Broadway?", u"Stupidest line I've read this week"]	0
+what genre of art is the mona lisa?	295	music genre --> topic alias --> [u'Musical genre']	0
+what genre of art is the mona lisa?	295	music genre --> object name --> [u'Music genre']	0
+what genre of art is the mona lisa?	295	music genre --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what genre of art is the mona lisa?	295	music genre --> topic subject of --> [u'Music of India']	0
+what genre of art is the mona lisa?	295	music genre --> linguistic hint subject form --> [u'Music genres']	0
+what genre of art is the mona lisa?	295	music genre --> equivalent topic equivalent type --> [u'Musical genre']	0
+what genre of art is the mona lisa?	295	genre --> genre albums --> [u'Dancing with Daggers']	0
+what genre of art is the mona lisa?	295	genre --> webpage resource --> [u"Will Virginia Tech make us 'Hostel' toward movie gore?", u'The fun of January movies: Lowered expectations, less hype', u"Snap judgment: 'Beauty and the Geek' season 4 premiere", u"'Saw': I can't stand to see it. Is that okay?", u"Sci Fi becomes 'Syfy'...sigh"]	0
+what genre of art is the mona lisa?	295	genre --> object name --> [u'Genre']	0
+what genre of art is the mona lisa?	295	genre --> topic image --> [u'James Matthew Barrie00']	0
+what genre of art is the mona lisa?	295	genre --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what genre of art is the mona lisa?	295	genre --> genre artists --> [u'May7ven', u'Max Bemis and the Painful Splits']	0
+what genre of art is the mona lisa?	295	genus --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what genre of art is the mona lisa?	295	genus --> organism classification rank major rank --> [u'1']	0
+what genre of art is the mona lisa?	295	genus --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwRQWB5wpEbGdrcN5Y29ycA']	0
+what genre of art is the mona lisa?	295	genus --> taxonomic history current name --> [u'Spizaetus']	0
+what genre of art is the mona lisa?	295	genus --> taxonomic history source --> [u"Forty-eighth Supplement to the American Ornithologists' Union Check-list of North American Birds"]	0
+what genre of art is the mona lisa?	295	genus --> taxonomic history previous scientific name --> [u'Spizastur']	0
+what genre of art is the mona lisa?	295	genus --> bbc natural history category path fragment --> [u'genus']	0
+what genre of art is the mona lisa?	295	genus --> object name --> [u'Genus']	0
+what genre of art is the mona lisa?	295	genus --> topic image --> [u'Scientific_classification.png']	0
+what genre of art is the mona lisa?	295	genus --> taxonomic history previous name --> [u'Spizastur']	0
+what genre of art is the mona lisa?	295	genus --> organism classification rank organism classifications --> [u'Eurylepis', u'Xantusia', u'Onnia', u'Weaver ant', u'Mason bee']	0
+what genre of art is the mona lisa?	295	genus --> organism classification rank scientific name --> [u'Genus']	0
+what genre of art is the mona lisa?	295	genus --> organism classification rank higher rank --> [u'Family', u'Tribe', u'Subtribe', u'Subfamily']	31
+what genre of art is the mona lisa?	295	genus --> organism classification rank lower rank --> [u'Species', u'Hybrid', u'Subgenus', u'Superspecies']	10

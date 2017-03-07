@@ -1,0 +1,11 @@
+where is glastonbury england?	15	england --> object name --> [u'England?']	0
+where is glastonbury england?	15	england --> bibs topic is really --> [u'England']	0
+where is glastonbury england?	15	glastonbury --> location people born here --> [u'Thomas Bramwell Welch', u'Michael Aldridge', u'Will Saul', u'Jethro Skinner', u'Nell Leyshon']	0
+where is glastonbury england?	15	glastonbury --> travel destination tourist attractions --> [u'The Tribunal, Glastonbury']	1
+where is glastonbury england?	15	glastonbury --> location containedby --> [u'United Kingdom', u'Mendip']	14
+where is glastonbury england?	15	glastonbury --> topic alias --> [u'Glastonbury, Mendip', u'Glastonbury, United Kingdom']	0
+where is glastonbury england?	15	glastonbury --> webpage category --> [u'Tag']	0
+where is glastonbury england?	15	glastonbury --> object name --> [u'Glastonbury']	0
+where is glastonbury england?	15	glastonbury --> topic image --> [u'Aston, Flintshire (United Kingdom)', u'Holy Thorn, Summer 1984. Died in 1991.', u'Glastonbury from the Tor']	0
+where is glastonbury england?	15	glastonbury --> geocode longitude --> [u'-0.759773254395']	0
+where is glastonbury england?	15	glastonbury --> geocode latitude --> [u'52.0301058699']	0

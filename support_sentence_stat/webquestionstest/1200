@@ -1,0 +1,126 @@
+which country does greenland belong to?	655	belong to --> object name --> [u'BeLonG To']	0
+which country does greenland belong to?	655	belong to --> topic alias --> [u'BelongTo']	0
+which country does greenland belong to?	655	greenland --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+which country does greenland belong to?	655	greenland --> government position held office position or title --> [u'Prime Minister of Greenland']	2
+which country does greenland belong to?	655	greenland --> dated percentage rate --> [u'0', u'0.053763', u'0.064865', u'1.788909', u'7.917857']	0
+which country does greenland belong to?	655	greenland --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+which country does greenland belong to?	655	greenland --> dated float date --> [u'1978', u'1992', u'1997', u'1998', u'1999']	0
+which country does greenland belong to?	655	greenland --> taxonomy entry prefix --> [u'G', u'JN']	0
+which country does greenland belong to?	655	greenland --> location people born here --> [u'Niels Gotfredsen', u'Anders Hove', u'Minik Wallace', u'Angaangaq Lyberth', u'Niklas Kreutzmann']	0
+which country does greenland belong to?	655	greenland --> country fips  --> [u'GL']	0
+which country does greenland belong to?	655	greenland --> location containedby --> [u'North America', u'Kingdom of Denmark', u'Americas', u'Scandinavia', u'Nordic countries']	129
+which country does greenland belong to?	655	greenland --> dated money value amount --> [u'20000']	0
+which country does greenland belong to?	655	greenland --> location partially containedby --> [u'Arctic']	62
+which country does greenland belong to?	655	greenland --> dated float date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+which country does greenland belong to?	655	greenland --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+which country does greenland belong to?	655	greenland --> national anthem of a country official anthem since --> [u'1916']	0
+which country does greenland belong to?	655	greenland --> administrative area adjectival form --> [u'of']	0
+which country does greenland belong to?	655	greenland --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwBgyPZwpEbGdrcN5Y29ycA']	0
+which country does greenland belong to?	655	greenland --> government position held office holder --> [u'Kuupik Kleist', u'Aleqa Hammond']	4
+which country does greenland belong to?	655	greenland --> organization scope organizations with this scope --> [u'Inuit Ataqatigiit', u'Solidarity', u"Women's Party", u'Democrats', u'Association of Candidates']	1
+which country does greenland belong to?	655	greenland --> administrative area subdivides place --> [u'Kingdom of Denmark']	0
+which country does greenland belong to?	655	greenland --> country languages spoken --> [u'Danish Language']	6
+which country does greenland belong to?	655	greenland --> country calling code --> [u'299']	0
+which country does greenland belong to?	655	greenland --> geocode longitude --> [u'-50.3323279412']	0
+which country does greenland belong to?	655	greenland --> dated money value currency --> [u'United States dollar']	0
+which country does greenland belong to?	655	greenland --> country currency used --> [u'Danish krone']	4
+which country does greenland belong to?	655	greenland --> dated float number --> [u'2.23', u'2.247', u'2.26', u'2.3', u'2.308']	0
+which country does greenland belong to?	655	greenland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+which country does greenland belong to?	655	greenland --> country iso  shortname --> [u'GREENLAND']	0
+which country does greenland belong to?	655	greenland --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+which country does greenland belong to?	655	greenland --> breed origin breeds originating here --> [u'Greenland Dog']	1
+which country does greenland belong to?	655	greenland --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+which country does greenland belong to?	655	greenland --> newspaper circulation area newspapers --> [u'Sermitsiaq', u'Atuagagdliutit/Gr\xf8nlandsposten']	0
+which country does greenland belong to?	655	greenland --> adjusted money value adjusted value --> [u'428840230', u'484850428', u'514800963', u'549838360', u'581213529']	0
+which country does greenland belong to?	655	greenland --> adjusted money value adjustment currency --> [u'United States dollar']	0
+which country does greenland belong to?	655	greenland --> dated percentage rate --> [u'-11.719533', u'-5.411986', u'-5.179616', u'-5.1117', u'-5.027933']	0
+which country does greenland belong to?	655	greenland --> webpage uri --> [u'http://statoids.com/ugl.html']	0
+which country does greenland belong to?	655	greenland --> flag use flag --> [u'Flag of Greenland']	0
+which country does greenland belong to?	655	greenland --> sports team location teams --> [u'Greenland national handball team']	0
+which country does greenland belong to?	655	greenland --> location events --> [u'History of Greenland during World War II']	0
+which country does greenland belong to?	655	greenland --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+which country does greenland belong to?	655	greenland --> dated metric ton number --> [u'4.338041', u'4.426962', u'6.100243', u'6.882677', u'6.968004']	0
+which country does greenland belong to?	655	greenland --> dated percentage date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+which country does greenland belong to?	655	greenland --> administrative area subdividing type --> [u'Commune of Greenland']	0
+which country does greenland belong to?	655	greenland --> government position held to --> [u'2013-03-26']	0
+which country does greenland belong to?	655	greenland --> webpage category --> [u'Tag', u'Topic Equivalent']	0
+which country does greenland belong to?	655	greenland --> government position held basic title --> [u'Prime minister']	0
+which country does greenland belong to?	655	greenland --> linguistic hint adjectival form --> [u'Greenlandic']	0
+which country does greenland belong to?	655	greenland --> administrative area administrative parent --> [u'Kingdom of Denmark']	0
+which country does greenland belong to?	655	greenland --> country capital --> [u'Nuuk']	50
+which country does greenland belong to?	655	greenland --> adjusted money value measurement date --> [u'1970', u'1971', u'1972', u'1973', u'1974']	0
+which country does greenland belong to?	655	greenland --> country internet tld --> [u'gl']	1
+which country does greenland belong to?	655	greenland --> governmental jurisdiction government bodies --> [u'Parliament of Greenland']	6
+which country does greenland belong to?	655	greenland --> fictional setting universe --> [u'Mortal Engines']	0
+which country does greenland belong to?	655	greenland --> dated percentage date --> [u'1990', u'1994', u'1995', u'1996', u'1997']	0
+which country does greenland belong to?	655	greenland --> dated money value valid date --> [u'2001']	0
+which country does greenland belong to?	655	greenland --> dated money value valid date --> [u'1970', u'1971', u'1972', u'1973', u'1974']	0
+which country does greenland belong to?	655	greenland --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which country does greenland belong to?	655	greenland --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+which country does greenland belong to?	655	greenland --> administrative area short name --> [u'gl']	0
+which country does greenland belong to?	655	greenland --> dated location date founded --> [u'1979']	0
+which country does greenland belong to?	655	greenland --> country form of government --> [u'Constitutional monarchy', u'Parliamentary system']	0
+which country does greenland belong to?	655	greenland --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+which country does greenland belong to?	655	greenland --> administrative division country --> [u'Denmark']	143
+which country does greenland belong to?	655	greenland --> adjusted money value adjustment date --> [u'2000']	0
+which country does greenland belong to?	655	greenland --> book subject works --> [u'Treasure', u'First Light', u'The Ice-Shirt', u'The corvette', u'Trawler']	0
+which country does greenland belong to?	655	greenland --> location contains --> [u'Napasorsuaq', u'Qaarsut Airport', u'Narsarsuaq Airport', u'Nuuk Airport', u'Sisimiut Airport']	6
+which country does greenland belong to?	655	greenland --> flag use from date --> [u'1985-06-21']	0
+which country does greenland belong to?	655	greenland --> taxonomy entry high --> [u'1114', u'3384', u'7379']	0
+which country does greenland belong to?	655	greenland --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which country does greenland belong to?	655	greenland --> location area --> [u'2166086']	0
+which country does greenland belong to?	655	greenland --> dated float number --> [u'63.415', u'65.285', u'65.337', u'65.341', u'65.439']	0
+which country does greenland belong to?	655	greenland --> administrative area pertinent type --> [u'Commune of Greenland', u'Municipality of Greenland']	0
+which country does greenland belong to?	655	greenland --> location time zones --> [u'UTC\u221203:00']	0
+which country does greenland belong to?	655	greenland --> administrative area administrative area type --> [u'Constituent country of Denmark']	0
+which country does greenland belong to?	655	greenland --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+which country does greenland belong to?	655	greenland --> film location featured in films --> [u'The Last Airbender', u'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', u'Beyond the Pole']	0
+which country does greenland belong to?	655	greenland --> ontology instance mapping ontology --> [u'OpenCyc']	0
+which country does greenland belong to?	655	greenland --> webpage resource --> [u'Statoids of Greenland']	0
+which country does greenland belong to?	655	greenland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
+which country does greenland belong to?	655	greenland --> dated integer number --> [u'32500', u'33700', u'35000', u'36400', u'37600']	0
+which country does greenland belong to?	655	greenland --> geocode latitude --> [u'67.1038926471']	0
+which country does greenland belong to?	655	greenland --> country official language --> [u'Greenlandic language']	17
+which country does greenland belong to?	655	greenland --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+which country does greenland belong to?	655	greenland --> dated percentage rate --> [u'-0.61', u'-0.41', u'-0.4', u'-0.39', u'-0.36']	0
+which country does greenland belong to?	655	greenland --> taxonomy entry low --> [u'1110', u'3380', u'7370']	0
+which country does greenland belong to?	655	greenland --> administrative area administrative children --> [u'Qeqqata', u'Qaasuitsup', u'Sermersooq', u'Kujalleq']	105
+which country does greenland belong to?	655	greenland --> government position held from --> [u'2009-06-12', u'2013-03-26']	0
+which country does greenland belong to?	655	greenland --> dated money value currency --> [u'United States dollar']	0
+which country does greenland belong to?	655	greenland --> object name --> [u'Greenland']	0
+which country does greenland belong to?	655	greenland --> topic image --> [u'Ostov Nun\xe2 pri pobre\u017e\xed Gr\xf3nska', u'Location of Greenland']	0
+which country does greenland belong to?	655	greenland --> national anthem of a country anthem --> [u'Nunarput utoqqarsuanngoravit']	1
+which country does greenland belong to?	655	greenland --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+which country does greenland belong to?	655	greenland --> dated money value amount --> [u'69520029', u'88570999', u'106101302', u'140153754', u'169918944']	0
+which country does greenland belong to?	655	country --> topic comments --> [u'ZSI on Country']	0
+which country does greenland belong to?	655	country --> ontology instance mapping ontology --> [u'OpenCyc']	0
+which country does greenland belong to?	655	country --> webpage resource --> [u"Keith Urban, Sugarland will headline California's Stagecoach festival", u'Favorite moments from the ACMs', u'Kanye West: Master of humility or marketing genius?', u"'Saturday Night Live': Joseph Gordon-Levitt climbs the walls with energy", u"Oprah's chef Art Smith signs on with TLC"]	0
+which country does greenland belong to?	655	country --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvu5MmpwpEbGdrcN5Y29ycA']	0
+which country does greenland belong to?	655	country --> genre content --> [u'181-kickincountry', u'Big R Radio - Star Country', u'BluegrassRadio.org', u"1Club.FM: Tears N' Beers", u'1.FM Country']	0
+which country does greenland belong to?	655	country --> radio subject programs with this subject --> [u'Grand Ole Opry']	1
+which country does greenland belong to?	655	country --> field of study academics in this field --> [u'Tony Russell']	0
+which country does greenland belong to?	655	country --> periodical subject periodicals --> [u'Country Weekly']	0
+which country does greenland belong to?	655	country --> topic alias --> [u'Country & Western', u'Country and Western', u'Country music']	0
+which country does greenland belong to?	655	country --> radio format stations --> [u'KZBQ', u'WFGS', u'WCHO-FM', u'WKYA', u'KTGA']	2
+which country does greenland belong to?	655	country --> genre subgenre --> [u'Alternative country', u'Bluegrass', u'Country rock', u'Trash rock', u'Red Dirt']	81
+which country does greenland belong to?	655	country --> film subject films --> [u'The Life and Hard Times of Guy Terrifico']	0
+which country does greenland belong to?	655	country --> genre albums --> [u'Greatest Hits', u'Greatest Hits', u'16 Biggest Hits', u'I Thought It Was You', u"Just a Little Lovin'"]	0
+which country does greenland belong to?	655	country --> object name --> [u'Country']	0
+which country does greenland belong to?	655	country --> topic image --> [u'Rymanauditorium1']	0
+which country does greenland belong to?	655	country --> genre parent genre --> [u'Celtic music', u'Blues', u'Old-time music', u'Spiritual']	32
+which country does greenland belong to?	655	country --> genre artists --> [u'Celinda Pink', u'Rena Gaile', u'Don Cox', u'Carolina Rain', u'The Ranch']	1
+which country does greenland belong to?	655	country --> award discipline awards in this discipline --> [u'Academy of Country Music Album of the Year', u'Academy of Country Music Top Vocal Duo', u'Academy of Country Music Entertainer of the Year', u'Academy of Country Music Top New Female Vocalist', u'Academy of Country Music Top New Male Vocalist']	0
+which country does greenland belong to?	655	country --> content broadcast --> [u'CHAT-FM']	0
+which country does greenland belong to?	655	country --> book subject works --> [u'Three chords and the truth', u'Pure Country: The Leon Kagarise Archives 1961-1971', u'Country', u'Honky Tonk Kat', u'Pop quiz']	0
+which country does greenland belong to?	655	country --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+which country does greenland belong to?	655	country --> ontology instance mapping ontology --> [u'OpenCyc']	0
+which country does greenland belong to?	655	country --> webpage resource --> [u'Kate Gosselin spanks kid (maybe): Did we need to see the pictures?', u'Kate Gosselin spanks kid (maybe): Did we need to see the pictures?', u"Bravo plans 'The Real Housewives of D.C.'", u'Nickelback clean up at the Juno Awards: Anyone surprised?']	0
+which country does greenland belong to?	655	country --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA']	0
+which country does greenland belong to?	655	country --> ontology class mapping uri --> [u'http://www.geonames.org/ontology#Country', u'http://s.opencalais.com/1/type/em/e/Country']	0
+which country does greenland belong to?	655	country --> type of fictional setting settings --> [u'Gondor', u'United Federation', u'Ranke', u'Ruritania', u'Kingdom of Zeal']	0
+which country does greenland belong to?	655	country --> object name --> [u'Country']	0
+which country does greenland belong to?	655	country --> topic image --> [u'Staatkundige kaart van de Wereld', u'Europe topography map']	0
+which country does greenland belong to?	655	country --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+which country does greenland belong to?	655	country --> ontology class mapping ontology --> [u'GeoNames', u'OpenCalais']	0
+which country does greenland belong to?	655	country --> quotation subject quotations about this subject --> [u'The greatness of a nation can be judged by the way its animals are treated.', u"It may be true that you can't fool all the people all the time, but you can fool enough of them to rule a large country.", u"The common good of a collective -- a race, a class, a state -- was the claim and justification of every tyranny ever established over men. Every major horror of history was committed in the name of an altruistic motive. Has any act of selfishness ever equaled the carnage perpetrated by disciples of altruism? Does the fault lie in men's hypocrisy or in the nature of the principle? The most dreadful butchers were the most sincere. The believed in the perfect society reached through the guillotine and the firing squad. Nobody questioned their right to murder since they were murdering for an altruistic purpose. It was accepted that man must be sacrificed for other men. Actors change, but the course of the tragedy remains the same. A humanitarian who starts with the declarations of love for mankind and ends with a sea of blood. It goes on and will go on so long as men believe that an action is good if it is unselfish. That permits the altruist to act and forces his victims to bear it. The leaders of collectivist movements ask nothing of themselves. But observe the results.", u"Shall we then judge a country by the majority, or by the minority? By the minority, surely. 'Tis pedantry to estimate nations by the census, or by square miles of land, or other than by their importance to the mind of the time.", u'My country owes me nothing. It gave me, as it gives every boy and girl, a chance. It gave me schooling, independence of action, opportunity for service and honor. In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbounded hope.']	0
+which country does greenland belong to?	655	country --> equivalent topic equivalent type --> [u'Country']	0

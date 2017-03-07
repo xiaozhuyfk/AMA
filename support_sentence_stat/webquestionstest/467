@@ -1,0 +1,74 @@
+what to do downtown sacramento?	3605	downtown sacramento --> object name --> [u'Downtown Sacramento']	0
+what to do downtown sacramento?	3605	downtown sacramento --> location contains --> [u'Sacramento Convention Center Complex']	0
+what to do downtown sacramento?	3605	time management --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what to do downtown sacramento?	3605	time management --> webpage resource --> [u'Reporter\u2019s Notebook: Sundance Film Festival (Part I)', u"Must List: What'll it be? We like 'Greek'"]	0
+what to do downtown sacramento?	3605	time management --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwdH8-rlMEdaAAAABAxv-7A']	0
+what to do downtown sacramento?	3605	time management --> object name --> [u'Time management']	0
+what to do downtown sacramento?	3605	time management --> topic image --> [u'Adi Holzer Werksverzeichnis 269', u'MerrillCoveyMatrix']	0
+what to do downtown sacramento?	3605	time management --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what to do downtown sacramento?	3605	sacramento --> organization scope organizations with this scope --> [u'Jumbo CD Investments, Inc.', u'Sacramento Regional Builders Exchange']	0
+what to do downtown sacramento?	3605	sacramento --> government position held office position or title --> [u'Mayor of Sacramento']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer year --> [u'2008']	0
+what to do downtown sacramento?	3605	sacramento --> topic social media presence --> [u'http://plus.google.com/110139253970915145424']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer year --> [u'2008']	0
+what to do downtown sacramento?	3605	sacramento --> bibs location loc type --> [u'City']	0
+what to do downtown sacramento?	3605	sacramento --> bibs location state --> [u'California']	210
+what to do downtown sacramento?	3605	sacramento --> location events --> [u"1998 NCAA Men's Division I Basketball Tournament- West Regional Second Round", u"Maryland-Utah St 1998 NCAA Men's Division I Basketball Tournament Game", u'Interview with Roger Berry on EMERGENCE', u'2010 Tour of California', u"1998 NCAA Men's Division I Basketball Tournament- west Regional First Round"]	0
+what to do downtown sacramento?	3605	sacramento --> dated float number --> [u'0.0821']	0
+what to do downtown sacramento?	3605	sacramento --> topic alias --> [u'Sacramento, California', u'Sacramento County / Sacramento city']	0
+what to do downtown sacramento?	3605	sacramento --> dated float date --> [u'2008']	0
+what to do downtown sacramento?	3605	sacramento --> sports team location teams --> [u'Sacramento River Cats', u'Sacramento Kings', u"Sacramento State Hornets men's basketball", u'Sacramento Monarchs']	30
+what to do downtown sacramento?	3605	sacramento --> location area --> [u'259.273']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do downtown sacramento?	3605	sacramento --> dog city relationship date --> [u'2008']	0
+what to do downtown sacramento?	3605	sacramento --> dated float number --> [u'-0.2347']	0
+what to do downtown sacramento?	3605	sacramento --> location people born here --> [u'Harvey Itano', u'George T. Tamura', u'Brandon Tyler Dickson', u'Ruth Slenczynska', u'Lindsay Frimodt']	0
+what to do downtown sacramento?	3605	sacramento --> geocode latitude --> [u'38.5817']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer year --> [u'2008']	0
+what to do downtown sacramento?	3605	sacramento --> citytown postal codes --> [u'94209', u'94284', u'95864', u'95827', u'95887']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do downtown sacramento?	3605	sacramento --> webpage category --> [u'Official Website']	0
+what to do downtown sacramento?	3605	sacramento --> government position held basic title --> [u'Mayor']	1
+what to do downtown sacramento?	3605	sacramento --> dated float date --> [u'2008']	0
+what to do downtown sacramento?	3605	sacramento --> administrative division capital relationship from --> [u'1854']	0
+what to do downtown sacramento?	3605	sacramento --> travel destination tourist attractions --> [u'Raging Waters Sacramento', u'Sacramento Zoo', u'Crocker Art Museum', u"Sutter's Fort", u'California State Capitol Museum']	16
+what to do downtown sacramento?	3605	sacramento --> location time zones --> [u'Pacific Time Zone']	2
+what to do downtown sacramento?	3605	sacramento --> topic official website --> [u'http://www.cityofsacramento.org/']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer number --> [u'5730']	0
+what to do downtown sacramento?	3605	sacramento --> hud county place place --> [u'Sacramento']	2625
+what to do downtown sacramento?	3605	sacramento --> webpage resource --> [u'Why is Kanye spinning?']	0
+what to do downtown sacramento?	3605	sacramento --> location contains --> [u'Fuller Northern California, Sacramento', u'William J Geery Theater', u'California State University, Sacramento', u'Raging Waters Sacramento', u'Sleep Train Arena']	19
+what to do downtown sacramento?	3605	sacramento --> dated integer number --> [u'154893']	0
+what to do downtown sacramento?	3605	sacramento --> adjoining relationship adjoins --> [u'Yolo County']	11
+what to do downtown sacramento?	3605	sacramento --> dated integer source --> [u'United States Census Bureau, Population']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer year --> [u'2008']	0
+what to do downtown sacramento?	3605	sacramento --> location containedby --> [u'California', u'United States of America', u'Sacramento County', u'Northern California', u'Area code 916']	297
+what to do downtown sacramento?	3605	sacramento --> dated integer year --> [u'2008']	0
+what to do downtown sacramento?	3605	sacramento --> place with neighborhoods neighborhoods --> [u'Gardenland', u'Del Paso Heights', u'Curtis Park', u'Tahoe Park', u'Valley View Acres']	3
+what to do downtown sacramento?	3605	sacramento --> newspaper circulation area newspapers --> [u'The Sacramento Bee', u'San Francisco Chronicle', u'Sacramento News & Review', u'The Sacramento Union', u'Sacramento Gazette']	4
+what to do downtown sacramento?	3605	sacramento --> geocode longitude --> [u'-121.4933']	0
+what to do downtown sacramento?	3605	sacramento --> dog city relationship dog breed --> [u'Dachshund', u'German Shepherd Dog', u'Rottweiler', u'American Cocker Spaniel', u'Yorkshire Terrier']	0
+what to do downtown sacramento?	3605	sacramento --> bibs location country --> [u'United States of America']	104
+what to do downtown sacramento?	3605	sacramento --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what to do downtown sacramento?	3605	sacramento --> hud county place county --> [u'Sacramento County']	25
+what to do downtown sacramento?	3605	sacramento --> bibs location is clear --> [u'0']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do downtown sacramento?	3605	sacramento --> administrative division capital relationship administrative division --> [u'California', u'Sacramento County']	233
+what to do downtown sacramento?	3605	sacramento --> webpage uri --> [u'http://www.cityofsacramento.org/']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer number --> [u'89046']	0
+what to do downtown sacramento?	3605	sacramento --> government position held from --> [u'2008-12-02']	0
+what to do downtown sacramento?	3605	sacramento --> government position held office holder --> [u'Kevin Johnson']	8
+what to do downtown sacramento?	3605	sacramento --> dated integer number --> [u'7943']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what to do downtown sacramento?	3605	sacramento --> dated location date founded --> [u'1850-02-27']	0
+what to do downtown sacramento?	3605	sacramento --> object name --> [u'Sacramento']	0
+what to do downtown sacramento?	3605	sacramento --> topic image --> [u'Skyline of City of Sacramento', u'Sacramento Riverfront']	0
+what to do downtown sacramento?	3605	sacramento --> top architectural city structure count --> [u'10']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer number --> [u'179236']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer number --> [u'6820', u'10000', u'13785', u'16283', u'21420']	0
+what to do downtown sacramento?	3605	sacramento --> dated integer year --> [u'1910', u'1920', u'1930', u'1940', u'1950']	0
+what to do downtown sacramento?	3605	sacramento --> geocode datum --> [u'NAD83']	0
+what to do downtown sacramento?	3605	sacramento --> book subject works --> [u'The Tin Man']	0
+what to do downtown sacramento?	3605	sacramento --> location nearby airports --> [u'Sacramento Mather Airport', u'Sacramento International Airport', u'McClellan Airfield']	17
+what to do downtown sacramento?	3605	downtown --> object name --> [u'Downtown']	0

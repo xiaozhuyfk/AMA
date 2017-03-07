@@ -1,0 +1,166 @@
+what type of money to take to cuba?	6019	take to --> object name --> [u'take to']	0
+what type of money to take to cuba?	6019	typeof --> object name --> [u'Typeof']	0
+what type of money to take to cuba?	6019	to take --> object name --> [u'To Take']	0
+what type of money to take to cuba?	6019	to take --> object name --> [u'To Take']	0
+what type of money to take to cuba?	6019	to take --> object name --> [u'To Take']	0
+what type of money to take to cuba?	6019	cuba --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+what type of money to take to cuba?	6019	cuba --> government position held office position or title --> [u'Prime Minister of Cuba', u'President of Cuba', u'First Vice President of Cuba']	24
+what type of money to take to cuba?	6019	cuba --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2004 Summer Olympics', u'2008 Summer Olympics']	38
+what type of money to take to cuba?	6019	cuba --> bibs location loc type --> [u'Country']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage rate --> [u'0', u'9.2e-05', u'0.031949', u'0.06822', u'0.226699']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+what type of money to take to cuba?	6019	cuba --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of money to take to cuba?	6019	cuba --> taxonomy entry prefix --> [u'F']	0
+what type of money to take to cuba?	6019	cuba --> location people born here --> [u'Juan Garcia', u'Tere A. Zubizarreta', u'Carlos Bali\xf1o', u'Jorge Rodriguez-Gerada', u'Ariel Pestano']	0
+what type of money to take to cuba?	6019	cuba --> olympic medal honor medalist --> [u'Daniel N\xfa\xf1ez', u'Yoel Romero', u'Yordenis Ug\xe1s', u'Te\xf3filo Stevenson', u'Arnaldo Mesa']	2
+what type of money to take to cuba?	6019	cuba --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what type of money to take to cuba?	6019	cuba --> military command military conflict --> [u'Cuban missile crisis']	79
+what type of money to take to cuba?	6019	cuba --> dated kilowatt hour number --> [u'506.55', u'515.838', u'548.331', u'572.756', u'624.361']	0
+what type of money to take to cuba?	6019	cuba --> country fips  --> [u'CU']	0
+what type of money to take to cuba?	6019	cuba --> vacation choice vacationer --> [u'Gemma Atkinson']	0
+what type of money to take to cuba?	6019	cuba --> ambassadorial tenure ambassador --> [u'Ricardo Wolf']	2
+what type of money to take to cuba?	6019	cuba --> location containedby --> [u'North America', u'Greater Antilles', u'Americas', u'Latin America', u'Hurricane belt']	102
+what type of money to take to cuba?	6019	cuba --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of money to take to cuba?	6019	cuba --> olympic athlete affiliation sport --> [u'Boxing', u'Rowing', u'Fencing', u'Track and field athletics', u'Beach volleyball']	19
+what type of money to take to cuba?	6019	cuba --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	2
+what type of money to take to cuba?	6019	cuba --> organization membership organization --> [u'League of Nations', u'African, Caribbean & Pacific Group of States', u'United Nations', u'United Nations Relief and Rehabilitation Administration', u'Non-Aligned Movement']	17
+what type of money to take to cuba?	6019	cuba --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of money to take to cuba?	6019	cuba --> context name official name --> [u'Republic of Cuba']	0
+what type of money to take to cuba?	6019	cuba --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+what type of money to take to cuba?	6019	cuba --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what type of money to take to cuba?	6019	cuba --> national anthem of a country official anthem since --> [u'1902']	0
+what type of money to take to cuba?	6019	cuba --> military command military commander --> [u'Che Guevara', u'Ra\xfal Castro', u'Fidel Castro']	335
+what type of money to take to cuba?	6019	cuba --> administrative area adjectival form --> [u'Cuban']	0
+what type of money to take to cuba?	6019	cuba --> bibs location is clear --> [u'1']	0
+what type of money to take to cuba?	6019	cuba --> competitor competition relationship competitors --> [u'Yargelis Savigne', u'Guillermo Mart\xednez', u'Yarelis Barrios', u'Alexis Copello', u'Leonel Su\xe1rez']	10
+what type of money to take to cuba?	6019	cuba --> olympic medal honor event --> [u"Wrestling at the 2004 Summer Olympics - Men's Freestyle Featherweight", u"Judo  at the 1976 Summer Olympics - Men's Lightweight (63kg)", u"Judo at the 2000 Summer Olympics \u2013 Women's +78 kg", u'Boxing at the 2008 Summer Olympics \u2013 Lightweight', u"Judo at the 2008 Summer Olympics \u2013 Men's Heavyweight (+100 kg)"]	0
+what type of money to take to cuba?	6019	cuba --> olympic participating country olympics participated in --> [u'1900 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	12
+what type of money to take to cuba?	6019	cuba --> government position held office holder --> [u'William Howard Taft', u'Ra\xfal Castro', u'Fidel Castro', u'Jos\xe9 Miguel G\xf3mez', u'Fulgencio Batista']	339
+what type of money to take to cuba?	6019	cuba --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+what type of money to take to cuba?	6019	cuba --> organization scope organizations with this scope --> [u'Communist Party of Cuba', u'Partido Aut\xe9ntico', u'Partido Ortodoxo', u'Christian Democratic Party of Cuba', u"Cuban Workers' Solidarity"]	10
+what type of money to take to cuba?	6019	cuba --> country first level divisions --> [u'Havana', u'Pinar del R\xedo Province', u'Granma Province', u'Guant\xe1namo Province', u'Camag\xfcey Province']	947
+what type of money to take to cuba?	6019	cuba --> country languages spoken --> [u'Spanish Language']	47
+what type of money to take to cuba?	6019	cuba --> country calling code --> [u'53']	0
+what type of money to take to cuba?	6019	cuba --> adjoining relationship adjoins --> [u'Hispaniola']	167
+what type of money to take to cuba?	6019	cuba --> geocode longitude --> [u'-82.383333']	0
+what type of money to take to cuba?	6019	cuba --> dated money value currency --> [u'United States dollar']	4
+what type of money to take to cuba?	6019	cuba --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'1900 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	25
+what type of money to take to cuba?	6019	cuba --> organization founder organizations founded --> [u'United Nations']	12
+what type of money to take to cuba?	6019	cuba --> dated percentage rate --> [u'1.812495', u'3.201174', u'3.213751', u'3.295717', u'3.344648']	0
+what type of money to take to cuba?	6019	cuba --> daylife hero image id --> [u'04kP9n4aRY6Rl']	0
+what type of money to take to cuba?	6019	cuba --> olympic participating country ioc code --> [u'CUB']	0
+what type of money to take to cuba?	6019	cuba --> geocode elevation --> [u'2005']	0
+what type of money to take to cuba?	6019	cuba --> dated kgoe number --> [u'913.745', u'936', u'982.912', u'990.49', u'1021.559']	0
+what type of money to take to cuba?	6019	cuba --> country currency used --> [u'Cuban peso', u'Cuban convertible peso']	3
+what type of money to take to cuba?	6019	cuba --> dated float number --> [u'1.457', u'1.467', u'1.481', u'1.499', u'1.52']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1993']	0
+what type of money to take to cuba?	6019	cuba --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+what type of money to take to cuba?	6019	cuba --> country iso  shortname --> [u'CUBA']	0
+what type of money to take to cuba?	6019	cuba --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+what type of money to take to cuba?	6019	cuba --> cyclone affected area cyclones --> [u'Hurricane Easy', u'Hurricane Agnes', u'Hurricane Dennis', u'Hurricane Olga', u'Hurricane Alma']	10
+what type of money to take to cuba?	6019	cuba --> breed origin breeds originating here --> [u'Cubalaya', u'Havanese', u'Dogo Cubano']	3
+what type of money to take to cuba?	6019	cuba --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+what type of money to take to cuba?	6019	cuba --> newspaper circulation area newspapers --> [u'Granma']	5
+what type of money to take to cuba?	6019	cuba --> adjusted money value adjusted value --> [u'15469941742', u'16797859657', u'17608639607', u'18213406342', u'18392715785']	0
+what type of money to take to cuba?	6019	cuba --> adjusted money value adjustment currency --> [u'United States dollar']	4
+what type of money to take to cuba?	6019	cuba --> administrative area administrative parent --> [u'Earth']	0
+what type of money to take to cuba?	6019	cuba --> webpage uri --> [u'http://statoids.com/ucu.html']	0
+what type of money to take to cuba?	6019	cuba --> flag use flag --> [u'Flag of Cuba']	2
+what type of money to take to cuba?	6019	cuba --> sports team location teams --> [u"Cuba men's U21 national volleyball team", u'Cuba national football team', u"Cuba women's national volleyball team", u'Cuba national handball team', u"Cuba men's national volleyball team"]	8
+what type of money to take to cuba?	6019	cuba --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+what type of money to take to cuba?	6019	cuba --> exhibition subject exhibitions created about this subject --> [u'\xa1Cuba! Art and History from 1868 to Today']	0
+what type of money to take to cuba?	6019	cuba --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+what type of money to take to cuba?	6019	cuba --> competitor competition relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	2
+what type of money to take to cuba?	6019	cuba --> location adjectival form --> [u'Cuban']	0
+what type of money to take to cuba?	6019	cuba --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+what type of money to take to cuba?	6019	cuba --> dated metric ton number --> [u'1.672902', u'1.713662', u'1.837836', u'1.839539', u'1.874748']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+what type of money to take to cuba?	6019	cuba --> military combatant group conflict --> [u'Machurucuto Incident', u"Ten Years' War", u'Cuban War of Independence', u'Spanish\u2013American War', u'Battle of Quifangondo']	19
+what type of money to take to cuba?	6019	cuba --> administrative area subdividing type --> [u'Cuban province']	0
+what type of money to take to cuba?	6019	cuba --> government position held to --> [u'1944', u'1959', u'2006', u'1913-05-20', u'1976-12-02']	0
+what type of money to take to cuba?	6019	cuba --> webpage category --> [u'Tag', u'Topic Equivalent']	0
+what type of money to take to cuba?	6019	cuba --> government position held basic title --> [u'President', u'Governor', u'Premier', u'Acting President', u'Acting Prime Minister']	4
+what type of money to take to cuba?	6019	cuba --> linguistic hint adjectival form --> [u'Cuban']	0
+what type of money to take to cuba?	6019	cuba --> countries continent --> [u'North America']	26
+what type of money to take to cuba?	6019	cuba --> dated percentage rate --> [u'-14.87818', u'-11.580603', u'-10.692697', u'-4.849443', u'-2.948565']	0
+what type of money to take to cuba?	6019	cuba --> country capital --> [u'Havana']	924
+what type of money to take to cuba?	6019	cuba --> adjusted money value measurement date --> [u'1970', u'1971', u'1972', u'1973', u'1974']	0
+what type of money to take to cuba?	6019	cuba --> country internet tld --> [u'cu']	1
+what type of money to take to cuba?	6019	cuba --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage date --> [u'1990', u'1995', u'1996', u'1997', u'1998']	0
+what type of money to take to cuba?	6019	cuba --> beer country region beers from here --> [u'Tinima Superior', u'Cerveceria Bucanero Mayabe']	0
+what type of money to take to cuba?	6019	cuba --> dated money value valid date --> [u'2008']	0
+what type of money to take to cuba?	6019	cuba --> dated money value valid date --> [u'1970', u'1971', u'1972', u'1973', u'1974']	0
+what type of money to take to cuba?	6019	cuba --> dated money value amount --> [u'12700']	0
+what type of money to take to cuba?	6019	cuba --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what type of money to take to cuba?	6019	cuba --> administrative area short name --> [u'cu']	0
+what type of money to take to cuba?	6019	cuba --> dated location date founded --> [u'1868-10-10']	0
+what type of money to take to cuba?	6019	cuba --> country form of government --> [u'Republic', u'Unitary state', u'Socialist state', u'Semi-presidential system']	0
+what type of money to take to cuba?	6019	cuba --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Men's javelin throw", u"2009 World Championships in Athletics \u2013 Women's discus throw", u"2009 World Championships in Athletics \u2013 Women's triple jump", u"2009 World Championships in Athletics \u2013 Men's decathlon", u"2009 World Championships in Athletics \u2013 Men's triple jump"]	0
+what type of money to take to cuba?	6019	cuba --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+what type of money to take to cuba?	6019	cuba --> adjusted money value adjustment date --> [u'2000']	0
+what type of money to take to cuba?	6019	cuba --> book subject works --> [u'Cuban Kids', u'Beyond Slavery', u'Cuba in War Time', u'The rough rider', u'The Cuba project']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of money to take to cuba?	6019	cuba --> organization membership to --> [u'1946-04-18']	0
+what type of money to take to cuba?	6019	cuba --> travel destination tourist attractions --> [u'Cayo Coco', u'Old Havana']	11
+what type of money to take to cuba?	6019	cuba --> location contains --> [u'Antilla, Cuba', u'Guantanamo Bay Ns Airport', u'Sandino, Cuba', u'Santa Fe, Isle of Youth', u'Bejucal']	6
+what type of money to take to cuba?	6019	cuba --> topic alias --> [u'Republic of Cuba']	0
+what type of money to take to cuba?	6019	cuba --> flag use from date --> [u'1902-05-20']	0
+what type of money to take to cuba?	6019	cuba --> taxonomy entry high --> [u'1854.9']	0
+what type of money to take to cuba?	6019	cuba --> organization membership from --> [u'1920-01-10', u'1945-10-24', u'1943-11-09']	0
+what type of money to take to cuba?	6019	cuba --> location area --> [u'109884']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+what type of money to take to cuba?	6019	cuba --> governmental jurisdiction agencies --> [u'Cuban Ministry of Foreign Affairs']	0
+what type of money to take to cuba?	6019	cuba --> country administrative divisions --> [u'Havana', u'Pinar del R\xedo Province', u'Granma Province', u'Guant\xe1namo Province', u'Camag\xfcey Province']	947
+what type of money to take to cuba?	6019	cuba --> competitor competition relationship tournament --> [u'2009 World Championships in Athletics']	1
+what type of money to take to cuba?	6019	cuba --> dated float number --> [u'63.663', u'64.276', u'64.901', u'65.536', u'66.176']	0
+what type of money to take to cuba?	6019	cuba --> governmental jurisdiction government bodies --> [u'Council of State', u"National Assembly of People's Power"]	8
+what type of money to take to cuba?	6019	cuba --> administrative area pertinent type --> [u'Cuban municipality', u'Cuban province']	0
+what type of money to take to cuba?	6019	cuba --> location time zones --> [u'UTC-5']	0
+what type of money to take to cuba?	6019	cuba --> administrative area administrative area type --> [u'Sovereign state']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+what type of money to take to cuba?	6019	cuba --> webpage resource --> [u'Morning Roundup: Charlize Theron\u2019s Charity Shoes; the Coen Brothers\u2019 Open Call; The Red Hot Chili Peppers Lose a Guitarist (Again)', u'Just my luck: A federal investigation one week before my premiere', u'Lords of Havana: Cuba\u2019s Thriving Skate Culture', u"Stars visit Cuba as Benicio del Toro wins 'Che'-related award", u'Anthony Hopkins and Annette Bening sign up for Hemingway movie']	0
+what type of money to take to cuba?	6019	cuba --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+what type of money to take to cuba?	6019	cuba --> topic official website --> [u'http://www.cubagob.cu/']	0
+what type of money to take to cuba?	6019	cuba --> government position held governmental body --> [u'Council of Ministers', u'Council of State']	5
+what type of money to take to cuba?	6019	cuba --> sport country multi event tournaments participated in --> [u'1991 Pan American Games']	4
+what type of money to take to cuba?	6019	cuba --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+what type of money to take to cuba?	6019	cuba --> military combatant group combatants --> [u'Philippines', u'Soviet Union', u'United States of America', u'Katipunan']	718
+what type of money to take to cuba?	6019	cuba --> dated integer number --> [u'2150112', u'7133582', u'7281821', u'7441909', u'7609348']	0
+what type of money to take to cuba?	6019	cuba --> geocode latitude --> [u'23.133333']	0
+what type of money to take to cuba?	6019	cuba --> location events --> [u"Ten Years' War", u'Cuban War of Independence', u'Spanish\u2013American War', u'Cold War', u'Battle of Tayacoba']	39
+what type of money to take to cuba?	6019	cuba --> country official language --> [u'Spanish Language']	47
+what type of money to take to cuba?	6019	cuba --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what type of money to take to cuba?	6019	cuba --> dated percentage rate --> [u'-0.04', u'-0.02', u'0.03', u'0.1', u'0.17']	0
+what type of money to take to cuba?	6019	cuba --> taxonomy entry low --> [u'1751']	0
+what type of money to take to cuba?	6019	cuba --> administrative area administrative children --> [u'Havana', u'Pinar del R\xedo Province', u'Granma Province', u'Guant\xe1namo Province', u'Camag\xfcey Province']	947
+what type of money to take to cuba?	6019	cuba --> government position held from --> [u'1933', u'1952', u'1976', u'2006-07-31', u'1976-12-02']	0
+what type of money to take to cuba?	6019	cuba --> olympic athlete affiliation athlete --> [u'Nelkis Casabona', u'Yoanka Gonz\xe1lez', u'Aym\xe9e Mart\xednez', u'Roniel Iglesias', u'Erislandy Sav\xf3n']	0
+what type of money to take to cuba?	6019	cuba --> ambassadorial tenure to countries --> [u'Israel']	41
+what type of money to take to cuba?	6019	cuba --> dated money value currency --> [u'United States dollar']	4
+what type of money to take to cuba?	6019	cuba --> object name --> [u'Cuba']	0
+what type of money to take to cuba?	6019	cuba --> topic image --> [u'Flag of Cuba', u'Cuba Provinces base w nr']	0
+what type of money to take to cuba?	6019	cuba --> national anthem of a country anthem --> [u'La Bayamesa']	0
+what type of money to take to cuba?	6019	cuba --> dated integer year --> [u'1910', u'1960', u'1961', u'1962', u'1963']	0
+what type of money to take to cuba?	6019	cuba --> dated money value amount --> [u'5693005244', u'6914658389', u'8135150889', u'9987709686', u'11405957363']	0
+what type of money to take to cuba?	6019	cuba --> governmental jurisdiction government positions --> [u'President of Cuba', u'First Vice President of Cuba']	21
+what type of money to take to cuba?	6019	money --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what type of money to take to cuba?	6019	money --> webpage resource --> [u'Matt Lauer: Where in the world will he be this year? At home', u"Snap judgment: Blake Lewis' 'Break Anotha'", u"'Wolverine' vs. 'Star Trek': Which flick will bank more at the box office?", u"'Spider-Man' Broadway musical may have cash-flow issues", u"What's on your mousepad? New Paramount Store has me rethinking mine."]	0
+what type of money to take to cuba?	6019	money --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rnPC0bnf6EdaAAAABAxv-7A']	0
+what type of money to take to cuba?	6019	money --> taxonomy entry low --> [u'201']	0
+what type of money to take to cuba?	6019	money --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what type of money to take to cuba?	6019	money --> webpage category --> [u'Tag']	0
+what type of money to take to cuba?	6019	money --> computer game subject games --> [u'Evoke']	0
+what type of money to take to cuba?	6019	money --> object name --> [u'Money']	0
+what type of money to take to cuba?	6019	money --> taxonomy entry high --> [u'1496']	0
+what type of money to take to cuba?	6019	money --> symbolism symbol --> [u'Maneki-neko']	0
+what type of money to take to cuba?	6019	money --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what type of money to take to cuba?	6019	money --> film subject films --> [u'97% Owned']	0
+what type of money to take to cuba?	6019	money --> topic image --> [u'Banknotes', u'Euromoenterogsedler', u'Ch\u1ee9ng phi\u1ebfu v\xe0ng c\u1ee7a ch\xednh ph\u1ee7 Hoa K\u1ef3 (1922)']	0
+what type of money to take to cuba?	6019	money --> quotation subject quotations about this subject --> [u'Anyone can be great with money. With money, greatness is not a talent but an obligation. The trick is to be great without money.', u"I haven't got as much money as some folks, but I've got as much impudence as any of them, and that's the next thing to money.", u'We might make a public moan in the newspapers about the decay of conscience, but in private conversation, no matter what crimes a man may have committed or how cynically he may have debased his talent or his friends, variations on the answer Yes, but I did it for the money, satisfy all but the most tiresome objections.', u'There are few ways in which a man can be more innocently employed than in getting money.', u'I have imbibed such a love for money that I keep some sequins in a drawer to count, and cry over them once a week.']	0
+what type of money to take to cuba?	6019	money --> taxonomy entry prefix --> [u'HG']	0
+what type of money to take to cuba?	6019	money --> book subject works --> [u'The Millionaires: A Novel of the New South', u'Money: Whence It Came, Where It Went', u'The Passion-Driven Writer and the Digital-Age Literary Marketplace', u'Bunny money', u'Devil May Care']	0
+what type of money to take to cuba?	6019	types of business entity --> object name --> [u'Types of business entity']	0
+what type of money to take to cuba?	6019	types of business entity --> topic alias --> [u'Types of corporations']	0
+what type of money to take to cuba?	6019	types of business entity --> equivalent topic equivalent type --> [u'Organization legal structure']	0
+what type of money to take to cuba?	6019	type --> object name --> [u'TYPE']	0

@@ -1,0 +1,67 @@
+what is the australian dollar called?	233	the australian dollar --> object name --> [u'The Australian Dollar']	0
+what is the australian dollar called?	233	the australian dollar --> object name --> [u'The Australian Dollar']	0
+what is the australian dollar called?	233	australian dollar --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what is the australian dollar called?	233	australian dollar --> exchange rate target of exchange --> [u'Danish krone']	0
+what is the australian dollar called?	233	australian dollar --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvst5OZwpEbGdrcN5Y29ycA']	0
+what is the australian dollar called?	233	australian dollar --> exchange rate source of exchange --> [u'United States dollar']	31
+what is the australian dollar called?	233	australian dollar --> topic topical webpage --> [u'http://www.ramint.gov.au/', u'http://www.noteprinting.com/']	0
+what is the australian dollar called?	233	australian dollar --> exchange rate amount --> [u'0.23']	0
+what is the australian dollar called?	233	australian dollar --> currency countries used --> [u'Australia', u'Christmas Island', u'Nauru', u'Cocos (Keeling) Islands', u'Kiribati']	29
+what is the australian dollar called?	233	australian dollar --> exchange rate amount --> [u'0.4828', u'0.4841', u'0.486', u'0.4866', u'0.4881']	0
+what is the australian dollar called?	233	australian dollar --> exchange rate date of rate --> [u'2008-03-31']	0
+what is the australian dollar called?	233	australian dollar --> topic alias --> [u'AUD']	0
+what is the australian dollar called?	233	australian dollar --> exchange rate date of rate --> [u'1972-01-26', u'1972-08-04', u'1973-11-16', u'1975-03-14', u'1975-04-01']	0
+what is the australian dollar called?	233	australian dollar --> webpage category --> [u'Topic Webpage', u'Official Website']	0
+what is the australian dollar called?	233	australian dollar --> exchange rate amount --> [u'0.7855']	0
+what is the australian dollar called?	233	australian dollar --> object name --> [u'Australian dollar']	0
+what is the australian dollar called?	233	australian dollar --> exchange rate source of exchange --> [u'United States dollar', u'Danish krone']	31
+what is the australian dollar called?	233	australian dollar --> currency prefix symbol --> [u'$', u'A$', u'AU$']	0
+what is the australian dollar called?	233	australian dollar --> topic official website --> [u'http://www.rba.gov.au/']	0
+what is the australian dollar called?	233	australian dollar --> exchange rate date of rate --> [u'1990-01-02']	0
+what is the australian dollar called?	233	australian dollar --> currency currency code --> [u'AUD']	0
+what is the australian dollar called?	233	australian dollar --> webpage uri --> [u'http://www.noteprinting.com', u'http://www.ramint.gov.au/', u'http://www.rba.gov.au/', u'http://www.ramint.gov.au', u'http://www.rba.gov.au']	0
+what is the australian dollar called?	233	the australian --> mailing address citytown --> [u'Sydney']	1
+what is the australian dollar called?	233	the australian --> periodical frequency frequency --> [u'Daily']	0
+what is the australian dollar called?	233	the australian --> periodical publication date date --> [u'1964-07-15']	0
+what is the australian dollar called?	233	the australian --> newspaper owner --> [u'News Corporation', u'News Corp Australia']	5
+what is the australian dollar called?	233	the australian --> newspaper circulation areas --> [u'Australia', u'Melbourne', u'Brisbane', u'Sydney']	3
+what is the australian dollar called?	233	the australian --> periodical format period format --> [u'Broadsheet']	0
+what is the australian dollar called?	233	the australian --> webpage category --> [u'Official Website', u'Curated Topic']	0
+what is the australian dollar called?	233	the australian --> object name --> [u'The Australian']	0
+what is the australian dollar called?	233	the australian --> topic image --> [u"Masthead of The Australian'"]	0
+what is the australian dollar called?	233	the australian --> news report url --> [u'http://www.theaustralian.news.com.au/story/0,25197,25854819-2722,00.html', u'http://www.theaustralian.news.com.au/story/0,25197,23588666-5015662,00.html']	0
+what is the australian dollar called?	233	the australian --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0
+what is the australian dollar called?	233	the australian --> topic official website --> [u'http://www.theaustralian.news.com.au/']	0
+what is the australian dollar called?	233	the australian --> news report title --> [u'Michael Phelps boycott threat over suit war', u'Local MTV goes global as channel deepens digital desire']	0
+what is the australian dollar called?	233	the australian --> news report date --> [u'2008-04-24', u'2009-08-05']	0
+what is the australian dollar called?	233	the australian --> news report event --> [u'2009 World Aquatics Championships', u'MTV Australia Awards 2008']	0
+what is the australian dollar called?	233	the australian --> webpage uri --> [u'http://www.theaustralian.news.com.au/', u'http://www.theaustralian.com.au/']	0
+what is the australian dollar called?	233	dollar --> object name --> [u'Dollar']	0
+what is the australian dollar called?	233	dollar --> linguistic hint subject form --> [u'Dollars']	0
+what is the australian dollar called?	233	united states dollar --> exchange rate amount --> [u'0.4828', u'0.4841', u'0.486', u'0.4866', u'0.4881']	0
+what is the australian dollar called?	233	united states dollar --> webpage resource --> [u'Brazilian TV host accused of killing for ratings']	0
+what is the australian dollar called?	233	united states dollar --> currency prefix symbol --> [u'$']	0
+what is the australian dollar called?	233	united states dollar --> topic topical webpage --> [u'http://www.moneyfactory.gov/', u'http://www.federalreserve.gov/']	0
+what is the australian dollar called?	233	united states dollar --> exchange rate date of rate --> [u'2008', u'2008-03-31']	0
+what is the australian dollar called?	233	united states dollar --> currency countries used --> [u'United States of America', u'El Salvador', u'Zimbabwe', u'Federated States of Micronesia', u'Marshall Islands']	90
+what is the australian dollar called?	233	united states dollar --> exchange rate amount --> [u'1', u'4.72']	0
+what is the australian dollar called?	233	united states dollar --> exchange rate date of rate --> [u'1972-01-26', u'1972-08-04', u'1973-11-16', u'1975-03-14', u'1975-04-01']	0
+what is the australian dollar called?	233	united states dollar --> currency sub units --> [u'Cent']	3
+what is the australian dollar called?	233	united states dollar --> topic alias --> [u'$', u'Greenback', u'USD', u'American Dollar', u'Federal Reserve Note']	0
+what is the australian dollar called?	233	united states dollar --> exchange rate target of exchange --> [u'Australian dollar']	31
+what is the australian dollar called?	233	united states dollar --> webpage category --> [u'Topic Webpage', u'Official Website']	0
+what is the australian dollar called?	233	united states dollar --> object name --> [u'United States dollar']	0
+what is the australian dollar called?	233	united states dollar --> topic image --> [u'$1 to $100 notes', u'$1 to $100 notes']	0
+what is the australian dollar called?	233	united states dollar --> exchange rate source of exchange --> [u'Sealand  Dollar', u'Danish krone']	4
+what is the australian dollar called?	233	united states dollar --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what is the australian dollar called?	233	united states dollar --> topic official website --> [u'http://www.usmint.gov/']	0
+what is the australian dollar called?	233	united states dollar --> currency currency code --> [u'USD']	0
+what is the australian dollar called?	233	united states dollar --> webpage uri --> [u'http://www.moneyfactory.gov', u'http://www.usmint.gov', u'http://www.federalreserve.gov']	0
+what is the australian dollar called?	233	dollar --> location people born here --> [u'Harry Tytler', u'Alan Grafen']	0
+what is the australian dollar called?	233	dollar --> location events --> [u'Battle of Dollar']	1
+what is the australian dollar called?	233	dollar --> location containedby --> [u'United Kingdom', u'Clackmannanshire']	4
+what is the australian dollar called?	233	dollar --> topic alias --> [u'Dollar, Clackmannanshire']	0
+what is the australian dollar called?	233	dollar --> object name --> [u'Dollar']	0
+what is the australian dollar called?	233	dollar --> topic image --> [u"King's Seat"]	0
+what is the australian dollar called?	233	dollar --> geocode longitude --> [u'-3.66814']	0
+what is the australian dollar called?	233	dollar --> geocode latitude --> [u'56.16249']	0

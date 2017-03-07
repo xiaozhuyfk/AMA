@@ -1,0 +1,565 @@
+who are china's neighbors?	36184	china --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+who are china's neighbors?	36184	china --> government position held office position or title --> [u'Chairman of the Communist Party of China', u'Chairman of the Central Military Commission', u"Vice Premier of the People's Republic of China", u"Premier of the People's Republic of China", u"Chairman of the Central Military Commission of the People's Republic of China"]	8
+who are china's neighbors?	36184	china --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	29
+who are china's neighbors?	36184	china --> bibs location loc type --> [u'Country']	0
+who are china's neighbors?	36184	china --> netflix genre titles --> [u'The Go Master', u'Kung Fu Hustle', u'Jiang Hu', u'Master of Zen', u'On the Beat']	2
+who are china's neighbors?	36184	china --> disputed location claimant disputed territories --> [u'Kula Kangri']	1
+who are china's neighbors?	36184	china --> dated percentage rate --> [u'0', u'0.00017', u'0.001178', u'0.004992', u'0.013174']	0
+who are china's neighbors?	36184	china --> force strength combatant --> [u'Soviet Union', u'North Korea', u'North Vietnam', u'Viet Cong', u'Khmer Rouge']	457
+who are china's neighbors?	36184	china --> location partially contains --> [u'Pumori', u'Himalayas', u'Cho Oyu', u'Gasherbrum IV', u'Gyachung Kang']	135
+who are china's neighbors?	36184	china --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> taxonomy entry prefix --> [u'DS']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> competitor competition relationship rank --> [u'1']	0
+who are china's neighbors?	36184	china --> location people born here --> [u'Wang Jiancheng', u'Chin Sophonpanich', u'Wang Yiguang', u'Zhu Yu', u'Yin Zhaohui']	0
+who are china's neighbors?	36184	china --> olympic medal honor medalist --> [u'Xie Huilin', u'Hou Yuzhuo', u'Li Kongzheng', u'Xiong Ni', u'Zhang Hui']	0
+who are china's neighbors?	36184	china --> country currency formerly used --> [u'Huizi', u'Gold yuan']	0
+who are china's neighbors?	36184	china --> military command military conflict --> [u'Korean War', u'Battle of Nanking']	19
+who are china's neighbors?	36184	china --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+who are china's neighbors?	36184	china --> dated kilowatt hour number --> [u'151.202', u'162.456', u'172.28', u'173.792', u'196.377']	0
+who are china's neighbors?	36184	china --> country fips  --> [u'CH']	0
+who are china's neighbors?	36184	china --> force strength resource --> [u'Personnel']	0
+who are china's neighbors?	36184	china --> location contains major portion of --> [u'Gaotou Township', u'Gaobei Tulou Cluster', u'Jomolhari']	0
+who are china's neighbors?	36184	china --> location containedby --> [u'Asia', u'Eurasia']	399
+who are china's neighbors?	36184	china --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0
+who are china's neighbors?	36184	china --> olympic athlete affiliation sport --> [u'Boxing', u'Water polo', u'Cycling', u'Cross-country skiing', u'Canoe Slalom']	2
+who are china's neighbors?	36184	china --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+who are china's neighbors?	36184	china --> organization membership organization --> [u'World Bank', u'G-20 major economies', u'UNESCO', u'Caribbean Development Bank', u'Asian Development Bank']	19
+who are china's neighbors?	36184	china --> imports and exports exported to --> [u'Nepal', u'Angola', u'Yemen', u'Sierra Leone', u'Sudan']	666
+who are china's neighbors?	36184	china --> countries places within --> [u'Songhong Road Station']	0
+who are china's neighbors?	36184	china --> fictional setting fictional characters born here --> [u'Chun-Li', u'Huang Pao-Lin']	0
+who are china's neighbors?	36184	china --> imports and exports date --> [u'2005', u'2006']	0
+who are china's neighbors?	36184	china --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+who are china's neighbors?	36184	china --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+who are china's neighbors?	36184	china --> national anthem of a country official anthem since --> [u'1982-12-04']	0
+who are china's neighbors?	36184	china --> military command military commander --> [u'Mao Zedong', u'Tang Shengzhi', u'Peng Dehuai']	50
+who are china's neighbors?	36184	china --> united nations body membership body --> [u'United Nations Security Council']	11
+who are china's neighbors?	36184	china --> administrative area adjectival form --> [u'Chinese']	0
+who are china's neighbors?	36184	china --> administrative area administrative area type --> [u'Sovereign state']	0
+who are china's neighbors?	36184	china --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> country currency used --> [u'Renminbi']	6
+who are china's neighbors?	36184	china --> bibs location is clear --> [u'1']	0
+who are china's neighbors?	36184	china --> competitor competition relationship competitors --> [u'Bai Xue', u'Wang Hao', u'Liu Xiang', u'Yang Wei', u'Gong Lijiao']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> olympic medal honor event --> [u"Table tennis at the 2012 Summer Olympics \u2013 Men's singles", u"Swimming at the 2004 Summer Olympics \u2013 Women's 100 metre breaststroke", u"Shooting at the 2008 Summer Olympics \u2013 Men's 10 metre air rifle", u"Shooting at the 2008 Summer Olympics \u2013 Men's 10 metre air pistol", u"Table Tennis at the 2000 Summer Olympics Women's Singles"]	0
+who are china's neighbors?	36184	china --> olympic participating country olympics participated in --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1980 Winter Olympics']	129
+who are china's neighbors?	36184	china --> government position held office holder --> [u'Jiang Zemin', u'Zhu Rongji', u'Wen Jiabao', u'Xi Jinping', u'Mao Zedong']	71
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> organization scope organizations with this scope --> [u'Cultural Development Center for Rural Women', u'iProspect', u'Program for Appropriate Technology in Health', u'Chinese Volleyball Association', u'TeleTOP']	0
+who are china's neighbors?	36184	china --> imports and exports amount --> [u'23700000000']	0
+who are china's neighbors?	36184	china --> system title relationship to date --> [u'1911']	0
+who are china's neighbors?	36184	china --> imports and exports date --> [u'2005', u'2006', u'2008']	0
+who are china's neighbors?	36184	china --> country languages spoken --> [u'English Language', u'Chinese language', u'Korean Language', u'Yue Chinese', u'Portuguese Language']	185
+who are china's neighbors?	36184	china --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+who are china's neighbors?	36184	china --> competitor country relationship competitor --> [u'Gen Li', u'Huan Xia', u'Zhuofu Chen', u'Liang Wang', u'Kai Liu']	0
+who are china's neighbors?	36184	china --> country calling code --> [u'86']	0
+who are china's neighbors?	36184	china --> adjoining relationship adjoins --> [u'Nepal', u'Japan', u'India', u'Russia', u'Kazakhstan']	5069
+who are china's neighbors?	36184	china --> geocode longitude --> [u'110.467708512']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	29
+who are china's neighbors?	36184	china --> periodical subject periodicals --> [u'Far Eastern Economic Review', u'Modern China']	0
+who are china's neighbors?	36184	china --> united nations body membership from --> [u'1971']	0
+who are china's neighbors?	36184	china --> organization founder organizations founded --> [u'UNESCO', u'Shanghai Cooperation Organisation', u'BRICS']	19
+who are china's neighbors?	36184	china --> dated percentage rate --> [u'1.68412', u'1.727153', u'1.756195', u'1.777209', u'1.802983']	0
+who are china's neighbors?	36184	china --> imports and exports imported from --> [u'United States of America', u'Angola', u'Yemen', u'Sudan', u'Laos']	1395
+who are china's neighbors?	36184	china --> olympic participating country ioc code --> [u'CHN']	0
+who are china's neighbors?	36184	china --> dated kgoe number --> [u'465.706', u'477.939', u'484.504', u'486.865', u'528.204']	0
+who are china's neighbors?	36184	china --> topic official website --> [u'http://english.gov.cn/']	0
+who are china's neighbors?	36184	china --> dated float number --> [u'1.598', u'1.614', u'1.629', u'1.643', u'1.656']	0
+who are china's neighbors?	36184	china --> dated percentage date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> country iso  shortname --> [u'CHINA']	0
+who are china's neighbors?	36184	china --> casino theme casinos in this theme --> [u'The Quad Resort and Casino']	0
+who are china's neighbors?	36184	china --> cyclone affected area cyclones --> [u'Typhoon Babe', u'Typhoon Herb', u'Typhoon Matsa', u'Typhoon Kent', u'Typhoon Sepat']	0
+who are china's neighbors?	36184	china --> nuclear power nuclear tests --> [u'596']	1
+who are china's neighbors?	36184	china --> mythical creature location mythical creature s --> [u'Tiangou', u'Chinese dragon', u'Chinese guardian lions']	5
+who are china's neighbors?	36184	china --> nobel honor nobel prize winner --> [u'Pearl S. Buck']	2
+who are china's neighbors?	36184	china --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+who are china's neighbors?	36184	china --> hoax location hoax es --> [u'Archaeoraptor']	1
+who are china's neighbors?	36184	china --> newspaper circulation area newspapers --> [u'Global Times', u'Financial Times', u'China Youth Daily', u'Southern Weekly', u"People's Daily"]	5
+who are china's neighbors?	36184	china --> adjusted money value adjusted value --> [u'48151766858', u'51282752582', u'53131628623', u'61546062211', u'70348527260']	0
+who are china's neighbors?	36184	china --> adjusted money value adjustment currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> administrative area administrative parent --> [u'Earth']	3
+who are china's neighbors?	36184	china --> webpage uri --> [u'http://www.travelchinaguide.com/', u'http://statoids.com/ucn.html', u'http://tripintochina.com']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> flag use flag --> [u'Flag of China']	0
+who are china's neighbors?	36184	china --> sports team location teams --> [u"China women's national football team", u'China PR national football team', u'China national cricket team', u'Jiangsu Dragons', u"China women's national volleyball team"]	4
+who are china's neighbors?	36184	china --> force strength force size --> [u'40000', u'520000']	0
+who are china's neighbors?	36184	china --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> force strength military conflict --> [u'Vietnam War', u"Incorporation of Tibet into the People's Republic of China"]	10
+who are china's neighbors?	36184	china --> breed origin breeds originating here --> [u'Formosan Mountain Dog', u'Silkie', u'Cochin', u'Pekin Bantam', u'Croad Langshan']	1
+who are china's neighbors?	36184	china --> film subject films --> [u"Mao's Last Dancer"]	0
+who are china's neighbors?	36184	china --> location nearby airports --> [u'Zhijiang Airport', u'Wenshan Puzhehei Airport', u'Ganzhou Huangjin Airport']	1
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+who are china's neighbors?	36184	china --> exhibition subject exhibitions created about this subject --> [u'China Design Now']	0
+who are china's neighbors?	36184	china --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+who are china's neighbors?	36184	china --> competitor competition relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+who are china's neighbors?	36184	china --> location adjectival form --> [u'Chinese']	0
+who are china's neighbors?	36184	china --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+who are china's neighbors?	36184	china --> dated metric ton number --> [u'0.574162', u'0.605452', u'0.625646', u'0.640002', u'0.661428']	0
+who are china's neighbors?	36184	china --> casualties lower estimate --> [u'1446', u'4200']	0
+who are china's neighbors?	36184	china --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+who are china's neighbors?	36184	china --> base equivalent location base --> [u'china']	0
+who are china's neighbors?	36184	china --> countries continent --> [u'Asia']	375
+who are china's neighbors?	36184	china --> casualties military conflict --> [u'Vietnam War']	8
+who are china's neighbors?	36184	china --> administrative area subdividing type --> [u'Chinese municipality', u'Chinese autonomous region', u'Chinese province', u'Chinese province traditional eighteen', u'Chinese special administrative region']	0
+who are china's neighbors?	36184	china --> government position held to --> [u'1998', u'2008', u'2008-03', u'2003-03-15', u'2013-03-14']	0
+who are china's neighbors?	36184	china --> webpage category --> [u'Topic Webpage', u'Topic Equivalent']	0
+who are china's neighbors?	36184	china --> government position held basic title --> [u'President', u'Vice President', u'Chairman', u'Premier', u'Deputy prime minister']	2
+who are china's neighbors?	36184	china --> linguistic hint adjectival form --> [u'Chinese']	0
+who are china's neighbors?	36184	china --> military combatant group conflict --> [u'Battle of Guanzhong', u"Battle of Nan'ao Island", u'Chola incident', u'Allied intervention in the Russian Civil War', u'Battle of Guilin\u2013Liuzhou']	0
+who are china's neighbors?	36184	china --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> country capital --> [u'Beijing']	1007
+who are china's neighbors?	36184	china --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> country internet tld --> [u'cn', u'hk', u'mo']	2
+who are china's neighbors?	36184	china --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> dated percentage date --> [u'1990', u'1993', u'1994', u'1995', u'1996']	0
+who are china's neighbors?	36184	china --> vocabulary equivalent topic narrower concept --> [u'Book design--Awards--China']	0
+who are china's neighbors?	36184	china --> beer country region beers from here --> [u'Harbin Beer', u'Tsingtao Beer', u'Guangzhou Zhu Jiang Brewery Co.Ltd. Zhu Jiang Beer']	0
+who are china's neighbors?	36184	china --> dated percentage rate --> [u'-27.101882', u'-6.105339', u'-5.7', u'-4.1', u'-1.6']	0
+who are china's neighbors?	36184	china --> dated money value valid date --> [u'2008']	0
+who are china's neighbors?	36184	china --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> dated money value amount --> [u'6100']	0
+who are china's neighbors?	36184	china --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead']	0
+who are china's neighbors?	36184	china --> topic topical webpage --> [u'http://www.travelchinaguide.com/', u'http://tripintochina.com/', u'http://www.chinahighlights.com/tour/']	0
+who are china's neighbors?	36184	china --> imports and exports currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> administrative area short name --> [u'cn']	0
+who are china's neighbors?	36184	china --> governmental jurisdiction government bodies --> [u"National People's Congress", u"State Council of the People's Republic of China"]	14
+who are china's neighbors?	36184	china --> system title relationship title --> [u'Emperor of China']	18
+who are china's neighbors?	36184	china --> dated location date founded --> [u'1949-10-01']	0
+who are china's neighbors?	36184	china --> governmental jurisdiction government --> [u'Government of China']	3
+who are china's neighbors?	36184	china --> country form of government --> [u'Communist state', u'Socialist state', u'Single-party state']	1
+who are china's neighbors?	36184	china --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Women's Marathon", u"2009 World Championships in Athletics \u2013 Men's 20 kilometres walk", u"2006 World Artistic Gymnastics Championships \u2013 Men's individual all-round", u"2009 World Championships in Athletics \u2013 Women's 20 kilometres walk", u"2009 World Championships in Athletics \u2013 Women's shot put"]	0
+who are china's neighbors?	36184	china --> competitor country relationship sports --> [u'Badminton']	0
+who are china's neighbors?	36184	china --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> adjusted money value adjustment date --> [u'2000']	0
+who are china's neighbors?	36184	china --> book subject works --> [u'Zen Poems of China and Japan', u'Tai-Pan: A Novel of Hong Kong', u'Beautiful warrior', u'More Light', u'The Tso Chuan']	0
+who are china's neighbors?	36184	china --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> government position held appointed by --> [u"National People's Congress"]	6
+who are china's neighbors?	36184	china --> travel destination tourist attractions --> [u'Mausoleum of the First Qin Emperor']	0
+who are china's neighbors?	36184	china --> location contains --> [u'Jiefang Bridge', u'Garz\xea County', u'Xinbin Manchu Autonomous County', u'Yinjiang Tujia and Miao Autonomous County', u'Chongyi County']	0
+who are china's neighbors?	36184	china --> topic alias --> [u"People's Republic of China", u'\u4e2d\u56fd']	0
+who are china's neighbors?	36184	china --> flag use from date --> [u'1949-09-27']	0
+who are china's neighbors?	36184	china --> taxonomy entry high --> [u'799.9']	0
+who are china's neighbors?	36184	china --> cryptid area of occurrence cryptid s found here --> [u'Yeren']	1
+who are china's neighbors?	36184	china --> organization membership from --> [u'1946', u'1999', u'1945-10-24']	0
+who are china's neighbors?	36184	china --> united nations body membership permanent --> [u'1']	0
+who are china's neighbors?	36184	china --> location area --> [u'9706961']	0
+who are china's neighbors?	36184	china --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> imports and exports currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> force strength date --> [u'1968']	0
+who are china's neighbors?	36184	china --> military combatant belongs to combatant group --> [u'Triple Entente']	0
+who are china's neighbors?	36184	china --> governmental jurisdiction agencies --> [u'Chinese Ministry of Culture', u'Chinese Ministry of Finance', u'Chinese Ministry of Transportation and Communications', u'Chinese Ministry of Foreign Trade and Economic Cooperation', u'Chinese Ministry of Health']	1
+who are china's neighbors?	36184	china --> cotermination location --> [u'Taiwan']	1200
+who are china's neighbors?	36184	china --> country administrative divisions --> [u'Hong Kong', u'Hunan', u'Shanghai', u'Shandong', u'Jilin']	1872
+who are china's neighbors?	36184	china --> competitor competition relationship tournament --> [u'2007 World Championships in Athletics', u'2009 World Championships in Athletics', u'2006 World Artistic Gymnastics Championships']	2
+who are china's neighbors?	36184	china --> dated float number --> [u'43.458', u'43.772', u'44.704', u'46.324', u'48.574']	0
+who are china's neighbors?	36184	china --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> administrative area pertinent type --> [u'Chinese county level city', u'Chinese city shi', u'Chinese shixiaxian', u'Chinese municipality', u'Chinese autonomous region']	0
+who are china's neighbors?	36184	china --> location time zones --> [u'UTC+8', u'Time in China']	3
+who are china's neighbors?	36184	china --> webpage description --> [u'Reliable China Travel Guide', u'Travel Guide to China']	0
+who are china's neighbors?	36184	china --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+who are china's neighbors?	36184	china --> film location featured in films --> [u'Samsara']	0
+who are china's neighbors?	36184	china --> dated money value amount --> [u'250', u'280', u'320', u'370', u'440']	0
+who are china's neighbors?	36184	china --> webpage resource --> [u'Shanghai Symphony Conductor Long Yu On Carnegie Hall Show, Whiskey Drinking', u'60th Berlin International Film Festival Opens with Wang Quan\u2019an\u2019s \u201cTuan Yuan\u201d (\u201dApart Together\u201d)', u"'Survivor: Heroes Vs. Villains': Amanda insists 'I'm gonna be a bulldog this time. No apologies, bitches.'", u"'Bones': Baked on a Plane", u"Break out the bubbly! Axl delivers on 'Chinese Democracy' (maybe)"]	0
+who are china's neighbors?	36184	china --> topic exceptions --> [u'The type Chinese City District does not specify where instances may appear.', u'The type Chinese County Level City does not specify where instances may appear.', u'Chinese autonomous region traditional eighteen is subdivided by types at different levels.', u'Chinese city shi subdivides types at different levels.', u'The type Chinese Town does not specify where instances may appear.']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> government position held governmental body --> [u'State Administration of Foreign Exchange', u"State Council of the People's Republic of China"]	9
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> military combatant group combatants --> [u'Soviet Union', u'North Korea', u'North Vietnam', u'Viet Cong', u'Pathet Lao']	453
+who are china's neighbors?	36184	china --> dated integer number --> [u'660330000', u'665770000', u'667070000', u'682335000', u'698355000']	0
+who are china's neighbors?	36184	china --> imports and exports amount --> [u'1400000000']	0
+who are china's neighbors?	36184	china --> geocode latitude --> [u'32.9042932784']	0
+who are china's neighbors?	36184	china --> location events --> [u'Battle of Guanzhong', u'2009 Chinese lead poisoning scandal', u'Battle of Yalu River', u'Pacific War', u'Sichuan invasion']	2
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> tv location tv shows filmed here --> [u'The Bride with White Hair']	0
+who are china's neighbors?	36184	china --> country official language --> [u'Standard Mandarin']	8
+who are china's neighbors?	36184	china --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+who are china's neighbors?	36184	china --> dated percentage rate --> [u'-1.02', u'0.47', u'0.48', u'0.51', u'0.52']	0
+who are china's neighbors?	36184	china --> taxonomy entry low --> [u'701']	0
+who are china's neighbors?	36184	china --> administrative area administrative children --> [u'Hong Kong', u'Hunan', u'Shanghai', u'Shandong', u'Ili Kazakh Autonomous Prefecture']	1786
+who are china's neighbors?	36184	china --> government position held from --> [u'1995', u'1998', u'2003', u'2003-03', u'2002-11-15']	0
+who are china's neighbors?	36184	china --> olympic athlete affiliation athlete --> [u'Hou Yuzhuo', u'Yang Jun', u'Li Kongzheng', u'Xiong Ni', u'Zhang Hui']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> dated money value amount --> [u'245336975496', u'282252731579', u'327513493645', u'378792345524', u'453158411461']	0
+who are china's neighbors?	36184	china --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> object name --> [u'China']	0
+who are china's neighbors?	36184	china --> topic image --> [u'ROC PRC comparison eng', u"800px-Flag_of_the_People's_Republic_of_China_svg.png"]	0
+who are china's neighbors?	36184	china --> national anthem of a country anthem --> [u'March of the Volunteers']	2
+who are china's neighbors?	36184	china --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> dated money value amount --> [u'46464003927', u'50100934916', u'50280424169', u'58613239133', u'61377930682']	0
+who are china's neighbors?	36184	china --> governmental jurisdiction government positions --> [u"Vice Premier of the People's Republic of China", u"Premier of the People's Republic of China", u"President of the People's Republic of China", u"Vice President of the People's Republic of China"]	17
+who are china's neighbors?	36184	chinas --> object name --> [u'Chinas']	0
+who are china's neighbors?	36184	china --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+who are china's neighbors?	36184	china --> government position held office position or title --> [u'Chairman of the Communist Party of China', u'Chairman of the Central Military Commission', u"Vice Premier of the People's Republic of China", u"Premier of the People's Republic of China", u"Chairman of the Central Military Commission of the People's Republic of China"]	8
+who are china's neighbors?	36184	china --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	29
+who are china's neighbors?	36184	china --> bibs location loc type --> [u'Country']	0
+who are china's neighbors?	36184	china --> netflix genre titles --> [u'The Go Master', u'Kung Fu Hustle', u'Jiang Hu', u'Master of Zen', u'On the Beat']	2
+who are china's neighbors?	36184	china --> disputed location claimant disputed territories --> [u'Kula Kangri']	1
+who are china's neighbors?	36184	china --> dated percentage rate --> [u'0', u'0.00017', u'0.001178', u'0.004992', u'0.013174']	0
+who are china's neighbors?	36184	china --> force strength combatant --> [u'Soviet Union', u'North Korea', u'North Vietnam', u'Viet Cong', u'Khmer Rouge']	457
+who are china's neighbors?	36184	china --> location partially contains --> [u'Pumori', u'Himalayas', u'Cho Oyu', u'Gasherbrum IV', u'Gyachung Kang']	135
+who are china's neighbors?	36184	china --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> taxonomy entry prefix --> [u'DS']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> competitor competition relationship rank --> [u'1']	0
+who are china's neighbors?	36184	china --> location people born here --> [u'Wang Jiancheng', u'Chin Sophonpanich', u'Wang Yiguang', u'Zhu Yu', u'Yin Zhaohui']	0
+who are china's neighbors?	36184	china --> olympic medal honor medalist --> [u'Xie Huilin', u'Hou Yuzhuo', u'Li Kongzheng', u'Xiong Ni', u'Zhang Hui']	0
+who are china's neighbors?	36184	china --> country currency formerly used --> [u'Huizi', u'Gold yuan']	0
+who are china's neighbors?	36184	china --> military command military conflict --> [u'Korean War', u'Battle of Nanking']	19
+who are china's neighbors?	36184	china --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+who are china's neighbors?	36184	china --> dated kilowatt hour number --> [u'151.202', u'162.456', u'172.28', u'173.792', u'196.377']	0
+who are china's neighbors?	36184	china --> country fips  --> [u'CH']	0
+who are china's neighbors?	36184	china --> force strength resource --> [u'Personnel']	0
+who are china's neighbors?	36184	china --> location contains major portion of --> [u'Gaotou Township', u'Gaobei Tulou Cluster', u'Jomolhari']	0
+who are china's neighbors?	36184	china --> location containedby --> [u'Asia', u'Eurasia']	399
+who are china's neighbors?	36184	china --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0
+who are china's neighbors?	36184	china --> olympic athlete affiliation sport --> [u'Boxing', u'Water polo', u'Cycling', u'Cross-country skiing', u'Canoe Slalom']	2
+who are china's neighbors?	36184	china --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+who are china's neighbors?	36184	china --> organization membership organization --> [u'World Bank', u'G-20 major economies', u'UNESCO', u'Caribbean Development Bank', u'Asian Development Bank']	19
+who are china's neighbors?	36184	china --> imports and exports exported to --> [u'Nepal', u'Angola', u'Yemen', u'Sierra Leone', u'Sudan']	666
+who are china's neighbors?	36184	china --> countries places within --> [u'Songhong Road Station']	0
+who are china's neighbors?	36184	china --> fictional setting fictional characters born here --> [u'Chun-Li', u'Huang Pao-Lin']	0
+who are china's neighbors?	36184	china --> imports and exports date --> [u'2005', u'2006']	0
+who are china's neighbors?	36184	china --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+who are china's neighbors?	36184	china --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+who are china's neighbors?	36184	china --> national anthem of a country official anthem since --> [u'1982-12-04']	0
+who are china's neighbors?	36184	china --> military command military commander --> [u'Mao Zedong', u'Tang Shengzhi', u'Peng Dehuai']	50
+who are china's neighbors?	36184	china --> united nations body membership body --> [u'United Nations Security Council']	11
+who are china's neighbors?	36184	china --> administrative area adjectival form --> [u'Chinese']	0
+who are china's neighbors?	36184	china --> administrative area administrative area type --> [u'Sovereign state']	0
+who are china's neighbors?	36184	china --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> country currency used --> [u'Renminbi']	6
+who are china's neighbors?	36184	china --> bibs location is clear --> [u'1']	0
+who are china's neighbors?	36184	china --> competitor competition relationship competitors --> [u'Bai Xue', u'Wang Hao', u'Liu Xiang', u'Yang Wei', u'Gong Lijiao']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> olympic medal honor event --> [u"Table tennis at the 2012 Summer Olympics \u2013 Men's singles", u"Swimming at the 2004 Summer Olympics \u2013 Women's 100 metre breaststroke", u"Shooting at the 2008 Summer Olympics \u2013 Men's 10 metre air rifle", u"Shooting at the 2008 Summer Olympics \u2013 Men's 10 metre air pistol", u"Table Tennis at the 2000 Summer Olympics Women's Singles"]	0
+who are china's neighbors?	36184	china --> olympic participating country olympics participated in --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1980 Winter Olympics']	129
+who are china's neighbors?	36184	china --> government position held office holder --> [u'Jiang Zemin', u'Zhu Rongji', u'Wen Jiabao', u'Xi Jinping', u'Mao Zedong']	71
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> organization scope organizations with this scope --> [u'Cultural Development Center for Rural Women', u'iProspect', u'Program for Appropriate Technology in Health', u'Chinese Volleyball Association', u'TeleTOP']	0
+who are china's neighbors?	36184	china --> imports and exports amount --> [u'23700000000']	0
+who are china's neighbors?	36184	china --> system title relationship to date --> [u'1911']	0
+who are china's neighbors?	36184	china --> imports and exports date --> [u'2005', u'2006', u'2008']	0
+who are china's neighbors?	36184	china --> country languages spoken --> [u'English Language', u'Chinese language', u'Korean Language', u'Yue Chinese', u'Portuguese Language']	185
+who are china's neighbors?	36184	china --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+who are china's neighbors?	36184	china --> competitor country relationship competitor --> [u'Gen Li', u'Huan Xia', u'Zhuofu Chen', u'Liang Wang', u'Kai Liu']	0
+who are china's neighbors?	36184	china --> country calling code --> [u'86']	0
+who are china's neighbors?	36184	china --> adjoining relationship adjoins --> [u'Nepal', u'Japan', u'India', u'Russia', u'Kazakhstan']	5069
+who are china's neighbors?	36184	china --> geocode longitude --> [u'110.467708512']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	29
+who are china's neighbors?	36184	china --> periodical subject periodicals --> [u'Far Eastern Economic Review', u'Modern China']	0
+who are china's neighbors?	36184	china --> united nations body membership from --> [u'1971']	0
+who are china's neighbors?	36184	china --> organization founder organizations founded --> [u'UNESCO', u'Shanghai Cooperation Organisation', u'BRICS']	19
+who are china's neighbors?	36184	china --> dated percentage rate --> [u'1.68412', u'1.727153', u'1.756195', u'1.777209', u'1.802983']	0
+who are china's neighbors?	36184	china --> imports and exports imported from --> [u'United States of America', u'Angola', u'Yemen', u'Sudan', u'Laos']	1395
+who are china's neighbors?	36184	china --> olympic participating country ioc code --> [u'CHN']	0
+who are china's neighbors?	36184	china --> dated kgoe number --> [u'465.706', u'477.939', u'484.504', u'486.865', u'528.204']	0
+who are china's neighbors?	36184	china --> topic official website --> [u'http://english.gov.cn/']	0
+who are china's neighbors?	36184	china --> dated float number --> [u'1.598', u'1.614', u'1.629', u'1.643', u'1.656']	0
+who are china's neighbors?	36184	china --> dated percentage date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> country iso  shortname --> [u'CHINA']	0
+who are china's neighbors?	36184	china --> casino theme casinos in this theme --> [u'The Quad Resort and Casino']	0
+who are china's neighbors?	36184	china --> cyclone affected area cyclones --> [u'Typhoon Babe', u'Typhoon Herb', u'Typhoon Matsa', u'Typhoon Kent', u'Typhoon Sepat']	0
+who are china's neighbors?	36184	china --> nuclear power nuclear tests --> [u'596']	1
+who are china's neighbors?	36184	china --> mythical creature location mythical creature s --> [u'Tiangou', u'Chinese dragon', u'Chinese guardian lions']	5
+who are china's neighbors?	36184	china --> nobel honor nobel prize winner --> [u'Pearl S. Buck']	2
+who are china's neighbors?	36184	china --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+who are china's neighbors?	36184	china --> hoax location hoax es --> [u'Archaeoraptor']	1
+who are china's neighbors?	36184	china --> newspaper circulation area newspapers --> [u'Global Times', u'Financial Times', u'China Youth Daily', u'Southern Weekly', u"People's Daily"]	5
+who are china's neighbors?	36184	china --> adjusted money value adjusted value --> [u'48151766858', u'51282752582', u'53131628623', u'61546062211', u'70348527260']	0
+who are china's neighbors?	36184	china --> adjusted money value adjustment currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> administrative area administrative parent --> [u'Earth']	3
+who are china's neighbors?	36184	china --> webpage uri --> [u'http://www.travelchinaguide.com/', u'http://statoids.com/ucn.html', u'http://tripintochina.com']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> flag use flag --> [u'Flag of China']	0
+who are china's neighbors?	36184	china --> sports team location teams --> [u"China women's national football team", u'China PR national football team', u'China national cricket team', u'Jiangsu Dragons', u"China women's national volleyball team"]	4
+who are china's neighbors?	36184	china --> force strength force size --> [u'40000', u'520000']	0
+who are china's neighbors?	36184	china --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> force strength military conflict --> [u'Vietnam War', u"Incorporation of Tibet into the People's Republic of China"]	10
+who are china's neighbors?	36184	china --> breed origin breeds originating here --> [u'Formosan Mountain Dog', u'Silkie', u'Cochin', u'Pekin Bantam', u'Croad Langshan']	1
+who are china's neighbors?	36184	china --> film subject films --> [u"Mao's Last Dancer"]	0
+who are china's neighbors?	36184	china --> location nearby airports --> [u'Zhijiang Airport', u'Wenshan Puzhehei Airport', u'Ganzhou Huangjin Airport']	1
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+who are china's neighbors?	36184	china --> exhibition subject exhibitions created about this subject --> [u'China Design Now']	0
+who are china's neighbors?	36184	china --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+who are china's neighbors?	36184	china --> competitor competition relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+who are china's neighbors?	36184	china --> location adjectival form --> [u'Chinese']	0
+who are china's neighbors?	36184	china --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+who are china's neighbors?	36184	china --> dated metric ton number --> [u'0.574162', u'0.605452', u'0.625646', u'0.640002', u'0.661428']	0
+who are china's neighbors?	36184	china --> casualties lower estimate --> [u'1446', u'4200']	0
+who are china's neighbors?	36184	china --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+who are china's neighbors?	36184	china --> base equivalent location base --> [u'china']	0
+who are china's neighbors?	36184	china --> countries continent --> [u'Asia']	375
+who are china's neighbors?	36184	china --> casualties military conflict --> [u'Vietnam War']	8
+who are china's neighbors?	36184	china --> administrative area subdividing type --> [u'Chinese municipality', u'Chinese autonomous region', u'Chinese province', u'Chinese province traditional eighteen', u'Chinese special administrative region']	0
+who are china's neighbors?	36184	china --> government position held to --> [u'1998', u'2008', u'2008-03', u'2003-03-15', u'2013-03-14']	0
+who are china's neighbors?	36184	china --> webpage category --> [u'Topic Webpage', u'Topic Equivalent']	0
+who are china's neighbors?	36184	china --> government position held basic title --> [u'President', u'Vice President', u'Chairman', u'Premier', u'Deputy prime minister']	2
+who are china's neighbors?	36184	china --> linguistic hint adjectival form --> [u'Chinese']	0
+who are china's neighbors?	36184	china --> military combatant group conflict --> [u'Battle of Guanzhong', u"Battle of Nan'ao Island", u'Chola incident', u'Allied intervention in the Russian Civil War', u'Battle of Guilin\u2013Liuzhou']	0
+who are china's neighbors?	36184	china --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> country capital --> [u'Beijing']	1007
+who are china's neighbors?	36184	china --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> country internet tld --> [u'cn', u'hk', u'mo']	2
+who are china's neighbors?	36184	china --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> dated percentage date --> [u'1990', u'1993', u'1994', u'1995', u'1996']	0
+who are china's neighbors?	36184	china --> vocabulary equivalent topic narrower concept --> [u'Book design--Awards--China']	0
+who are china's neighbors?	36184	china --> beer country region beers from here --> [u'Harbin Beer', u'Tsingtao Beer', u'Guangzhou Zhu Jiang Brewery Co.Ltd. Zhu Jiang Beer']	0
+who are china's neighbors?	36184	china --> dated percentage rate --> [u'-27.101882', u'-6.105339', u'-5.7', u'-4.1', u'-1.6']	0
+who are china's neighbors?	36184	china --> dated money value valid date --> [u'2008']	0
+who are china's neighbors?	36184	china --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> dated money value amount --> [u'6100']	0
+who are china's neighbors?	36184	china --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead']	0
+who are china's neighbors?	36184	china --> topic topical webpage --> [u'http://www.travelchinaguide.com/', u'http://tripintochina.com/', u'http://www.chinahighlights.com/tour/']	0
+who are china's neighbors?	36184	china --> imports and exports currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> administrative area short name --> [u'cn']	0
+who are china's neighbors?	36184	china --> governmental jurisdiction government bodies --> [u"National People's Congress", u"State Council of the People's Republic of China"]	14
+who are china's neighbors?	36184	china --> system title relationship title --> [u'Emperor of China']	18
+who are china's neighbors?	36184	china --> dated location date founded --> [u'1949-10-01']	0
+who are china's neighbors?	36184	china --> governmental jurisdiction government --> [u'Government of China']	3
+who are china's neighbors?	36184	china --> country form of government --> [u'Communist state', u'Socialist state', u'Single-party state']	1
+who are china's neighbors?	36184	china --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Women's Marathon", u"2009 World Championships in Athletics \u2013 Men's 20 kilometres walk", u"2006 World Artistic Gymnastics Championships \u2013 Men's individual all-round", u"2009 World Championships in Athletics \u2013 Women's 20 kilometres walk", u"2009 World Championships in Athletics \u2013 Women's shot put"]	0
+who are china's neighbors?	36184	china --> competitor country relationship sports --> [u'Badminton']	0
+who are china's neighbors?	36184	china --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> adjusted money value adjustment date --> [u'2000']	0
+who are china's neighbors?	36184	china --> book subject works --> [u'Zen Poems of China and Japan', u'Tai-Pan: A Novel of Hong Kong', u'Beautiful warrior', u'More Light', u'The Tso Chuan']	0
+who are china's neighbors?	36184	china --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> government position held appointed by --> [u"National People's Congress"]	6
+who are china's neighbors?	36184	china --> travel destination tourist attractions --> [u'Mausoleum of the First Qin Emperor']	0
+who are china's neighbors?	36184	china --> location contains --> [u'Jiefang Bridge', u'Garz\xea County', u'Xinbin Manchu Autonomous County', u'Yinjiang Tujia and Miao Autonomous County', u'Chongyi County']	0
+who are china's neighbors?	36184	china --> topic alias --> [u"People's Republic of China", u'\u4e2d\u56fd']	0
+who are china's neighbors?	36184	china --> flag use from date --> [u'1949-09-27']	0
+who are china's neighbors?	36184	china --> taxonomy entry high --> [u'799.9']	0
+who are china's neighbors?	36184	china --> cryptid area of occurrence cryptid s found here --> [u'Yeren']	1
+who are china's neighbors?	36184	china --> organization membership from --> [u'1946', u'1999', u'1945-10-24']	0
+who are china's neighbors?	36184	china --> united nations body membership permanent --> [u'1']	0
+who are china's neighbors?	36184	china --> location area --> [u'9706961']	0
+who are china's neighbors?	36184	china --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> imports and exports currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> force strength date --> [u'1968']	0
+who are china's neighbors?	36184	china --> military combatant belongs to combatant group --> [u'Triple Entente']	0
+who are china's neighbors?	36184	china --> governmental jurisdiction agencies --> [u'Chinese Ministry of Culture', u'Chinese Ministry of Finance', u'Chinese Ministry of Transportation and Communications', u'Chinese Ministry of Foreign Trade and Economic Cooperation', u'Chinese Ministry of Health']	1
+who are china's neighbors?	36184	china --> cotermination location --> [u'Taiwan']	1200
+who are china's neighbors?	36184	china --> country administrative divisions --> [u'Hong Kong', u'Hunan', u'Shanghai', u'Shandong', u'Jilin']	1872
+who are china's neighbors?	36184	china --> competitor competition relationship tournament --> [u'2007 World Championships in Athletics', u'2009 World Championships in Athletics', u'2006 World Artistic Gymnastics Championships']	2
+who are china's neighbors?	36184	china --> dated float number --> [u'43.458', u'43.772', u'44.704', u'46.324', u'48.574']	0
+who are china's neighbors?	36184	china --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> administrative area pertinent type --> [u'Chinese county level city', u'Chinese city shi', u'Chinese shixiaxian', u'Chinese municipality', u'Chinese autonomous region']	0
+who are china's neighbors?	36184	china --> location time zones --> [u'UTC+8', u'Time in China']	3
+who are china's neighbors?	36184	china --> webpage description --> [u'Reliable China Travel Guide', u'Travel Guide to China']	0
+who are china's neighbors?	36184	china --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+who are china's neighbors?	36184	china --> film location featured in films --> [u'Samsara']	0
+who are china's neighbors?	36184	china --> dated money value amount --> [u'250', u'280', u'320', u'370', u'440']	0
+who are china's neighbors?	36184	china --> webpage resource --> [u'Shanghai Symphony Conductor Long Yu On Carnegie Hall Show, Whiskey Drinking', u'60th Berlin International Film Festival Opens with Wang Quan\u2019an\u2019s \u201cTuan Yuan\u201d (\u201dApart Together\u201d)', u"'Survivor: Heroes Vs. Villains': Amanda insists 'I'm gonna be a bulldog this time. No apologies, bitches.'", u"'Bones': Baked on a Plane", u"Break out the bubbly! Axl delivers on 'Chinese Democracy' (maybe)"]	0
+who are china's neighbors?	36184	china --> topic exceptions --> [u'The type Chinese City District does not specify where instances may appear.', u'The type Chinese County Level City does not specify where instances may appear.', u'Chinese autonomous region traditional eighteen is subdivided by types at different levels.', u'Chinese city shi subdivides types at different levels.', u'The type Chinese Town does not specify where instances may appear.']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> government position held governmental body --> [u'State Administration of Foreign Exchange', u"State Council of the People's Republic of China"]	9
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> military combatant group combatants --> [u'Soviet Union', u'North Korea', u'North Vietnam', u'Viet Cong', u'Pathet Lao']	453
+who are china's neighbors?	36184	china --> dated integer number --> [u'660330000', u'665770000', u'667070000', u'682335000', u'698355000']	0
+who are china's neighbors?	36184	china --> imports and exports amount --> [u'1400000000']	0
+who are china's neighbors?	36184	china --> geocode latitude --> [u'32.9042932784']	0
+who are china's neighbors?	36184	china --> location events --> [u'Battle of Guanzhong', u'2009 Chinese lead poisoning scandal', u'Battle of Yalu River', u'Pacific War', u'Sichuan invasion']	2
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
+who are china's neighbors?	36184	china --> tv location tv shows filmed here --> [u'The Bride with White Hair']	0
+who are china's neighbors?	36184	china --> country official language --> [u'Standard Mandarin']	8
+who are china's neighbors?	36184	china --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+who are china's neighbors?	36184	china --> dated percentage rate --> [u'-1.02', u'0.47', u'0.48', u'0.51', u'0.52']	0
+who are china's neighbors?	36184	china --> taxonomy entry low --> [u'701']	0
+who are china's neighbors?	36184	china --> administrative area administrative children --> [u'Hong Kong', u'Hunan', u'Shanghai', u'Shandong', u'Ili Kazakh Autonomous Prefecture']	1786
+who are china's neighbors?	36184	china --> government position held from --> [u'1995', u'1998', u'2003', u'2003-03', u'2002-11-15']	0
+who are china's neighbors?	36184	china --> olympic athlete affiliation athlete --> [u'Hou Yuzhuo', u'Yang Jun', u'Li Kongzheng', u'Xiong Ni', u'Zhang Hui']	0
+who are china's neighbors?	36184	china --> dated money value currency --> [u'United States dollar']	4
+who are china's neighbors?	36184	china --> dated money value amount --> [u'245336975496', u'282252731579', u'327513493645', u'378792345524', u'453158411461']	0
+who are china's neighbors?	36184	china --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	china --> object name --> [u'China']	0
+who are china's neighbors?	36184	china --> topic image --> [u'ROC PRC comparison eng', u"800px-Flag_of_the_People's_Republic_of_China_svg.png"]	0
+who are china's neighbors?	36184	china --> national anthem of a country anthem --> [u'March of the Volunteers']	2
+who are china's neighbors?	36184	china --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	china --> dated money value amount --> [u'46464003927', u'50100934916', u'50280424169', u'58613239133', u'61377930682']	0
+who are china's neighbors?	36184	china --> governmental jurisdiction government positions --> [u"Vice Premier of the People's Republic of China", u"Premier of the People's Republic of China", u"President of the People's Republic of China", u"Vice President of the People's Republic of China"]	17
+who are china's neighbors?	36184	neighbourhood --> object name --> [u'Neighbourhood']	0
+who are china's neighbors?	36184	neighbourhood --> topic image --> [u'Altodesantana', u'COPACABANA 2009', u'Chelsea1217']	0
+who are china's neighbors?	36184	neighbourhood --> linguistic hint subject form --> [u'Neighbourhoods']	0
+who are china's neighbors?	36184	neighbourhood --> equivalent topic equivalent type --> [u'Neighborhood']	0
+who are china's neighbors?	36184	neighbors --> film written by --> [u'Larry Gelbart']	0
+who are china's neighbors?	36184	neighbors --> film initial release date --> [u'1981-12-18']	0
+who are china's neighbors?	36184	neighbors --> film genre --> [u'Comedy']	0
+who are china's neighbors?	36184	neighbors --> performance character --> [u"Chic's Wife", u'Police Officer #2', u'Earl Keese', u'Perry Greavy', u'Additional Fireman #1']	0
+who are china's neighbors?	36184	neighbors --> film directed by --> [u'John G. Avildsen']	1
+who are china's neighbors?	36184	neighbors --> film production companies --> [u'Columbia Pictures']	1
+who are china's neighbors?	36184	neighbors --> performance character note --> [u'DOC']	0
+who are china's neighbors?	36184	neighbors --> performance actor --> [u'Dru-Ann Chuckran', u'Lauren-Marie Taylor', u'Tino Insana', u'Dan Aykroyd', u'Tim Kazurinsky']	7
+who are china's neighbors?	36184	neighbors --> film regional release date film release distribution medium --> [u'Theatrical']	0
+who are china's neighbors?	36184	neighbors --> film cut runtime --> [u'94']	0
+who are china's neighbors?	36184	neighbors --> adaptation adapted from --> [u'Neighbors: A Novel']	0
+who are china's neighbors?	36184	neighbors --> film language --> [u'English Language']	0
+who are china's neighbors?	36184	neighbors --> film story by --> [u'Thomas Berger']	2
+who are china's neighbors?	36184	neighbors --> film regional release date release date --> [u'1981-12-18']	0
+who are china's neighbors?	36184	neighbors --> film executive produced by --> [u'Irving Paul Lazar', u'Bernie Brillstein']	1
+who are china's neighbors?	36184	neighbors --> film regional release date film release region --> [u'United States of America']	0
+who are china's neighbors?	36184	neighbors --> film produced by --> [u'Richard D. Zanuck', u'David Brown']	0
+who are china's neighbors?	36184	neighbors --> object name --> [u'Neighbors']	0
+who are china's neighbors?	36184	neighbors --> topic image --> [u'0082801_big.jpg']	0
+who are china's neighbors?	36184	neighbors --> film film distributor relationship distributor --> [u'Columbia Pictures']	1
+who are china's neighbors?	36184	neighbors --> film country --> [u'United States of America']	0
+who are china's neighbors?	36184	neighbors --> film music --> [u'Bill Conti']	0
+who are china's neighbors?	36184	vietnam --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+who are china's neighbors?	36184	vietnam --> government position held office position or title --> [u'President of Vietnam', u'Prime Minister of Vietnam']	7
+who are china's neighbors?	36184	vietnam --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2008 Summer Olympics']	4
+who are china's neighbors?	36184	vietnam --> bibs location loc type --> [u'Country']	0
+who are china's neighbors?	36184	vietnam --> dated percentage rate --> [u'0', u'0.000138', u'0.004079', u'0.01335', u'0.131105']	0
+who are china's neighbors?	36184	vietnam --> location partially contains --> [u'Dong Ap Bia', u'Phu Si Lung']	0
+who are china's neighbors?	36184	vietnam --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	vietnam --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	vietnam --> taxonomy entry prefix --> [u'DS']	0
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> location people born here --> [u'Hoa Nguyen', u'Yoshiko Sakurai', u'Mary Jean Reimer', u'Lock Lee', u'Thanh Lam']	0
+who are china's neighbors?	36184	vietnam --> olympic medal honor medalist --> [u'Quan Luu', u'Nguyen Thi Anh Vien', u'Ahn Taun Hoang', u'Tran Hieu Ngan']	1
+who are china's neighbors?	36184	vietnam --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	vietnam --> military command military conflict --> [u'Cambodian\u2013Vietnamese War']	0
+who are china's neighbors?	36184	vietnam --> dated money value valid date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0
+who are china's neighbors?	36184	vietnam --> dated kilowatt hour number --> [u'34.422', u'38.339', u'39.434', u'40', u'41.03']	0
+who are china's neighbors?	36184	vietnam --> country fips  --> [u'VM']	0
+who are china's neighbors?	36184	vietnam --> location containedby --> [u'Asia', u'Indochina', u'Eurasia']	73
+who are china's neighbors?	36184	vietnam --> tv subject tv episodes --> [u'Pastors Andrew Pham and Lindell Shumake']	0
+who are china's neighbors?	36184	vietnam --> olympic athlete affiliation sport --> [u'Rowing', u'Fencing', u'Track and field athletics', u'Badminton', u'Swimming']	1
+who are china's neighbors?	36184	vietnam --> olympic medal honor medal --> [u'Silver medal']	0
+who are china's neighbors?	36184	vietnam --> organization membership organization --> [u'World Bank', u'Asian Development Bank', u'Association of Southeast Asian Nations', u'Asia-Pacific Economic Cooperation', u'United Nations']	16
+who are china's neighbors?	36184	vietnam --> imports and exports exported to --> [u'Laos']	1015
+who are china's neighbors?	36184	vietnam --> fictional setting fictional characters born here --> [u'Karma', u'Lily Tucker-Pritchett']	1
+who are china's neighbors?	36184	vietnam --> context name official name --> [u'Socialist Republic of Vietnam']	0
+who are china's neighbors?	36184	vietnam --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+who are china's neighbors?	36184	vietnam --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+who are china's neighbors?	36184	vietnam --> national anthem of a country official anthem since --> [u'1976']	0
+who are china's neighbors?	36184	vietnam --> military command military commander --> [u'Le Duc Anh']	0
+who are china's neighbors?	36184	vietnam --> united nations body membership body --> [u'United Nations Security Council']	2
+who are china's neighbors?	36184	vietnam --> administrative area adjectival form --> [u'Vietnamese']	0
+who are china's neighbors?	36184	vietnam --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	vietnam --> country currency used --> [u'Vietnamese dong']	0
+who are china's neighbors?	36184	vietnam --> government position held office holder --> [u'To Huu', u'Nguyen Tan Dung', u'Truong Tan Sang']	0
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> olympic medal honor event --> [u"Swimming at the 2012 Summer Olympics \u2013 Women's 400 metre individual medley", u"Weightlifting at the 2008 Summer Olympics - Men's Bantamweight -56 kg", u"Cycling at the 1952 Summer Olympics - Men's individual road race", u"Taekwondo at the 2000 Summer Olympics \u2013 Women's 57 kg"]	0
+who are china's neighbors?	36184	vietnam --> olympic participating country olympics participated in --> [u'2008 Summer Olympics', u'1952 Summer Olympics']	1
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> organization scope organizations with this scope --> [u'Program for Appropriate Technology in Health', u'Viet Nam Quoc Dan Dang', u'Communist Party of Vietnam', u'Indochinese Communist Party', u'Vietnamese Constitutional Monarchist League']	14
+who are china's neighbors?	36184	vietnam --> country languages spoken --> [u'Chinese language', u'Esperanto Language']	5
+who are china's neighbors?	36184	vietnam --> dated money value valid date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0
+who are china's neighbors?	36184	vietnam --> country calling code --> [u'84']	0
+who are china's neighbors?	36184	vietnam --> adjoining relationship adjoins --> [u'China', u'Cambodia', u'Phongsaly Province', u'Luang Prabang Province', u'Laos']	2112
+who are china's neighbors?	36184	vietnam --> geocode longitude --> [u'106.576013518']	0
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	4
+who are china's neighbors?	36184	vietnam --> dated percentage rate --> [u'2.789292', u'3.58347', u'3.805856', u'4.773587', u'5.100918']	0
+who are china's neighbors?	36184	vietnam --> united nations body membership from --> [u'2008-01-01']	0
+who are china's neighbors?	36184	vietnam --> dated percentage rate --> [u'1.939679', u'2.01438', u'2.112052', u'2.128641', u'2.173563']	0
+who are china's neighbors?	36184	vietnam --> imports and exports imported from --> [u'Laos']	1015
+who are china's neighbors?	36184	vietnam --> olympic participating country ioc code --> [u'VIE']	0
+who are china's neighbors?	36184	vietnam --> dated kgoe number --> [u'350.431', u'354.363', u'355.18', u'358.3', u'362.824']	0
+who are china's neighbors?	36184	vietnam --> topic official website --> [u'http://www.vietnam.gov.vn']	0
+who are china's neighbors?	36184	vietnam --> dated float number --> [u'1.822', u'1.845', u'1.864', u'1.878', u'1.889']	0
+who are china's neighbors?	36184	vietnam --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> country iso  shortname --> [u'VIET NAM']	0
+who are china's neighbors?	36184	vietnam --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+who are china's neighbors?	36184	vietnam --> cyclone affected area cyclones --> [u'Typhoon Hagupit', u'Typhoon Wayne', u'Typhoon Parma', u'Typhoon Chanchu', u'Typhoon Bess']	5
+who are china's neighbors?	36184	vietnam --> breed origin breeds originating here --> [u'Ga Noi']	0
+who are china's neighbors?	36184	vietnam --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+who are china's neighbors?	36184	vietnam --> adjusted money value adjusted value --> [u'11453473962', u'11889376650', u'12221006031', u'12658942071', u'13308980224']	0
+who are china's neighbors?	36184	vietnam --> adjusted money value adjustment currency --> [u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> webpage uri --> [u'http://statoids.com/uvn.html']	0
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> flag use flag --> [u'Flag of Vietnam']	1
+who are china's neighbors?	36184	vietnam --> sports team location teams --> [u'Vietnam national football team']	6
+who are china's neighbors?	36184	vietnam --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	vietnam --> film subject films --> [u'Regret to Inform']	0
+who are china's neighbors?	36184	vietnam --> location nearby airports --> [u'Da Nang Air Base']	2
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+who are china's neighbors?	36184	vietnam --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
+who are china's neighbors?	36184	vietnam --> location adjectival form --> [u'Vietnamese']	0
+who are china's neighbors?	36184	vietnam --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+who are china's neighbors?	36184	vietnam --> dated metric ton number --> [u'0.270323', u'0.283244', u'0.299784', u'0.303741', u'0.304208']	0
+who are china's neighbors?	36184	vietnam --> dated percentage date --> [u'1985', u'1986', u'1987', u'1988', u'1989']	0
+who are china's neighbors?	36184	vietnam --> military combatant group conflict --> [u'Battle of Gia Cuc', u'Capture of Hung Hoa', u'S\u01a1n T\xe2y Campaign', u'Capture of My Tho', u'Battle of Kompong Speu']	0
+who are china's neighbors?	36184	vietnam --> administrative area subdividing type --> [u'Vietnamese province', u'Vietnamese centrally controlled municipality']	0
+who are china's neighbors?	36184	vietnam --> webpage category --> [u'Tag', u'Topic Equivalent']	0
+who are china's neighbors?	36184	vietnam --> government position held basic title --> [u'President', u'Prime minister', u'Deputy prime minister']	1
+who are china's neighbors?	36184	vietnam --> linguistic hint adjectival form --> [u'\ubca0\ud2b8\ub0a8']	0
+who are china's neighbors?	36184	vietnam --> countries continent --> [u'Asia']	71
+who are china's neighbors?	36184	vietnam --> administrative area administrative parent --> [u'Earth']	1
+who are china's neighbors?	36184	vietnam --> country capital --> [u'Hanoi']	342
+who are china's neighbors?	36184	vietnam --> adjusted money value measurement date --> [u'1984', u'1985', u'1986', u'1987', u'1988']	0
+who are china's neighbors?	36184	vietnam --> country internet tld --> [u'vn']	1
+who are china's neighbors?	36184	vietnam --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	vietnam --> dated percentage date --> [u'1990', u'1996', u'1997', u'1998', u'1999']	0
+who are china's neighbors?	36184	vietnam --> beer country region beers from here --> [u'Beer BGI', u'BGI Lager Beer']	0
+who are china's neighbors?	36184	vietnam --> cryptid observation location cryptid s occurring here --> [u'Kting voar']	0
+who are china's neighbors?	36184	vietnam --> dated money value valid date --> [u'2008']	0
+who are china's neighbors?	36184	vietnam --> dated money value valid date --> [u'1985', u'1986', u'1987', u'1988', u'1989']	0
+who are china's neighbors?	36184	vietnam --> dated money value amount --> [u'2900']	0
+who are china's neighbors?	36184	vietnam --> topic topical webpage --> [u'http://www.vietnamtourism.com']	0
+who are china's neighbors?	36184	vietnam --> administrative area short name --> [u'vn']	0
+who are china's neighbors?	36184	vietnam --> dated location date founded --> [u'-2878']	0
+who are china's neighbors?	36184	vietnam --> country form of government --> [u'Communist state', u'Socialist state', u'Single-party state']	4
+who are china's neighbors?	36184	vietnam --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	vietnam --> adjusted money value adjustment date --> [u'2000']	0
+who are china's neighbors?	36184	vietnam --> book subject works --> [u'Limit of Vision', u'The Time In Between: A Novel', u'Vietnam: Spirits of the Earth', u'Home to war', u'Vietnam']	0
+who are china's neighbors?	36184	vietnam --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	vietnam --> location contains --> [u'S\u01a1n T\xe2y', u'Suoi Tien Amusement Park', u'Ho Chi Minh City University of Information Technology', u'Bao Loc', u'Gia Lam Airbase']	0
+who are china's neighbors?	36184	vietnam --> topic alias --> [u'Annam', u'Republic of Vietnam', u'Socialist Republic of Vietnam']	0
+who are china's neighbors?	36184	vietnam --> flag use from date --> [u'1945-09-05']	0
+who are china's neighbors?	36184	vietnam --> dated metric ton date --> [u'1970', u'1971', u'1972', u'1973', u'1974']	0
+who are china's neighbors?	36184	vietnam --> taxonomy entry high --> [u'560.72']	0
+who are china's neighbors?	36184	vietnam --> organization membership from --> [u'1995-07-28', u'1977-09-20']	0
+who are china's neighbors?	36184	vietnam --> united nations body membership permanent --> [u'0']	0
+who are china's neighbors?	36184	vietnam --> location area --> [u'329560']	0
+who are china's neighbors?	36184	vietnam --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	vietnam --> governmental jurisdiction agencies --> [u'Ministry of Education and Training', u'Vietnamese Ministry of Public Security']	2
+who are china's neighbors?	36184	vietnam --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	vietnam --> country administrative divisions --> [u'Quang Binh Province', u'B\xecnh Thu\u1eadn Province', u'B\xecnh D\u01b0\u01a1ng Province', u'Binh Phuoc Province', u'Ha Giang Province']	0
+who are china's neighbors?	36184	vietnam --> dated float number --> [u'44.162', u'44.691', u'45.236', u'45.789', u'46.336']	0
+who are china's neighbors?	36184	vietnam --> governmental jurisdiction government bodies --> [u'National Assembly']	0
+who are china's neighbors?	36184	vietnam --> administrative area pertinent type --> [u'Vietnamese province', u'Vietnamese centrally controlled municipality', u'Vietnamese town under district', u'Vietnamese urban district', u'Vietnamese provincial city']	0
+who are china's neighbors?	36184	vietnam --> location time zones --> [u'UTC+07:00', u'ICT']	12
+who are china's neighbors?	36184	vietnam --> administrative area administrative area type --> [u'Sovereign state']	0
+who are china's neighbors?	36184	vietnam --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+who are china's neighbors?	36184	vietnam --> film location featured in films --> [u'Hearts and Minds', u'Vietnam, Long Time Coming']	2
+who are china's neighbors?	36184	vietnam --> dated money value amount --> [u'610', u'670', u'740', u'800', u'890']	0
+who are china's neighbors?	36184	vietnam --> webpage resource --> [u'Rick Springfield writing autobiography that we suddenly want to read...', u'\u201cThe Amazing Race\u201d Season 15, Episode 2: TV Recap', u'Would You Pose Nude?: Lim, Liu, Duong at \u201cFemale Gaze\u201d', u'Statoids of Vietnam']	0
+who are china's neighbors?	36184	vietnam --> topic exceptions --> [u'Binh Tan District should be contained in some Vietnamese centrally controlled municipality.', u'District 11, H\u1ed3 Ch\xed Minh City should be contained in some Vietnamese centrally controlled municipality.', u'Go Vap District should be contained in some Vietnamese centrally controlled municipality.', u'Binh Thanh District should be contained in some Vietnamese centrally controlled municipality.', u'Tan Binh District should be contained in some Vietnamese centrally controlled municipality.']	0
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> dated integer number --> [u'34743000', u'35427715', u'36123019', u'36836299', u'37573875']	0
+who are china's neighbors?	36184	vietnam --> geocode latitude --> [u'15.4548637037']	0
+who are china's neighbors?	36184	vietnam --> location events --> [u'August Revolution', u'War in Vietnam', u'Ten Great Campaigns', u'Battle of Dong Khe', u'Vietnam War']	202
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> country official language --> [u'Vietnamese Language']	50
+who are china's neighbors?	36184	vietnam --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+who are china's neighbors?	36184	vietnam --> dated percentage rate --> [u'1.04', u'1.05', u'1.06', u'1.08', u'1.11']	0
+who are china's neighbors?	36184	vietnam --> taxonomy entry low --> [u'556']	0
+who are china's neighbors?	36184	vietnam --> administrative area administrative children --> [u'Quang Binh Province', u'B\xecnh Thu\u1eadn Province', u'B\xecnh D\u01b0\u01a1ng Province', u'Binh Phuoc Province', u'Ha Giang Province']	0
+who are china's neighbors?	36184	vietnam --> government position held from --> [u'2006-06-27', u'2011-07-25']	0
+who are china's neighbors?	36184	vietnam --> dated money value currency --> [u'United States dollar']	2
+who are china's neighbors?	36184	vietnam --> dated money value amount --> [u'39784258248', u'40396339433', u'44749723425', u'50645868259', u'55705297392']	0
+who are china's neighbors?	36184	vietnam --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+who are china's neighbors?	36184	vietnam --> object name --> [u'Vietnam']	0
+who are china's neighbors?	36184	vietnam --> topic image --> [u'Kalastusmaja Binh Quoin kyl\xe4ss\xe4.', u'LocationVietnam']	0
+who are china's neighbors?	36184	vietnam --> national anthem of a country anthem --> [u'Ti\u1ebfn Qu\xe2n Ca']	0
+who are china's neighbors?	36184	vietnam --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+who are china's neighbors?	36184	vietnam --> dated money value amount --> [u'6293304847', u'6471740486', u'9613369554', u'9866990096', u'13180954014']	0
+who are china's neighbors?	36184	vietnam --> olympic athlete affiliation athlete --> [u'Nguyen Thi Anh Vien', u'Le Huynh Chau', u'Xuan Vinh Hoang', u'Thi Hoang Ngoc le', u'Nguyen Thi Thanh Phuc']	0

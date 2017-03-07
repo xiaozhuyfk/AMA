@@ -1,0 +1,362 @@
+what is the capital of italy today?	33653	capital of italy --> object name --> [u'capital of Italy']	0
+what is the capital of italy today?	33653	king of italy --> noble title tenure to date --> [u'1015', u'0963', u'0896', u'0926', u'0983-12-07']	0
+what is the capital of italy today?	33653	king of italy --> noble title tenure noble person --> [u'Louis the Blind', u'Rudolph II of Burgundy', u'Otto II, Holy Roman Emperor', u'Umberto II of Italy', u'Victor Emmanuel III of Italy']	29
+what is the capital of italy today?	33653	king of italy --> topic alias --> [u'List of barbarian kings of Italy']	0
+what is the capital of italy today?	33653	king of italy --> object name --> [u'King of Italy']	0
+what is the capital of italy today?	33653	king of italy --> topic image --> [u'Corona ferrea']	0
+what is the capital of italy today?	33653	king of italy --> noble title noble rank --> [u'King']	0
+what is the capital of italy today?	33653	king of italy --> noble title tenure from date --> [u'0950', u'1002', u'0922', u'0896', u'0973-05']	0
+what is the capital of italy today?	33653	capital of germany --> object name --> [u'Capital of Germany']	0
+what is the capital of italy today?	33653	capital of germany --> topic image --> [u'Berlin reichstag CP']	0
+what is the capital of italy today?	33653	the capital --> newspaper circulation areas --> [u'Anne Arundel County']	0
+what is the capital of italy today?	33653	the capital --> object name --> [u'The Capital']	0
+what is the capital of italy today?	33653	the capital --> topic image --> [u'Samuel Chase']	0
+what is the capital of italy today?	33653	the capital --> periodical frequency frequency --> [u'Daily']	0
+what is the capital of italy today?	33653	the capital --> newspaper owner --> [u'Landmark Media Enterprises']	0
+what is the capital of italy today?	33653	italy --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+what is the capital of italy today?	33653	italy --> government position held office position or title --> [u'Prime Minister of Italy', u'Duce', u'Minister for Equal Opportunity', u'Italian Minister of Infrastructure and Transport', u'President of Italy']	55
+what is the capital of italy today?	33653	italy --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	22
+what is the capital of italy today?	33653	italy --> bibs location loc type --> [u'Country']	0
+what is the capital of italy today?	33653	italy --> netflix genre titles --> [u'Estate Violenta', u'Oedipus Rex', u"Fellini: I'm a Born Liar", u'Cinema Paradiso', u'The House on the Edge of the Park']	3
+what is the capital of italy today?	33653	italy --> dated percentage rate --> [u'0.01758', u'0.035124', u'0.070174', u'0.12269', u'0.192717']	0
+what is the capital of italy today?	33653	italy --> location partially contains --> [u'Adriatic Euroregion', u'Mont Blanc de Courmayeur', u'III. Hornspitze', u'Coglians', u'Wei\xdfseespitze']	0
+what is the capital of italy today?	33653	italy --> current area record record holder --> [u'Andrew Howe']	2
+what is the capital of italy today?	33653	italy --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+what is the capital of italy today?	33653	italy --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> taxonomy entry prefix --> [u'DG', u'JN']	0
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> competitor competition relationship rank --> [u'1', u'2', u'3']	0
+what is the capital of italy today?	33653	italy --> location people born here --> [u'Bindo Maserati', u'Gaius Asinius Pollio', u'Regina Strinasacchi', u'Romolo Murri', u'Paolo Valeri']	0
+what is the capital of italy today?	33653	italy --> olympic medal honor medalist --> [u'Federico Cappellazzo', u'Matteo Pelliciari', u'Simone Cercato', u'Guglielmo Presenti', u'Filippo Magnini']	1
+what is the capital of italy today?	33653	italy --> country currency formerly used --> [u'Sammarinese lira', u'Italian lira']	7
+what is the capital of italy today?	33653	italy --> military command military conflict --> [u'World War II', u'Battle of Lissa']	335
+what is the capital of italy today?	33653	italy --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what is the capital of italy today?	33653	italy --> webpage description --> [u'Italian Wikipedia Article']	0
+what is the capital of italy today?	33653	italy --> government position held district represented --> [u'Province of Rieti']	71
+what is the capital of italy today?	33653	italy --> country fips  --> [u'IT']	0
+what is the capital of italy today?	33653	italy --> vacation choice vacationer --> [u'Clive Owen', u'Anne Hathaway', u'Colin Farrell', u'James Wilkie Broderick', u'Claire Danes']	0
+what is the capital of italy today?	33653	italy --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what is the capital of italy today?	33653	italy --> location containedby --> [u'Europe', u'Southern Europe', u'Eurasia']	373
+what is the capital of italy today?	33653	italy --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> competitor country relationship tournament --> [u'2009 Mediterranean Games', u'2005 World Aquatics Championships', u'2009 World Aquatics Championships', u'2007 World Aquatics Championships']	19
+what is the capital of italy today?	33653	italy --> location partially containedby --> [u'Mediterranean Sea']	61
+what is the capital of italy today?	33653	italy --> athletics championships competition athlete relationship event --> [u"2007 World Championships in Athletics \u2013 Women's high jump", u"2007 World Championships in Athletics \u2013 Men's long jump"]	0
+what is the capital of italy today?	33653	italy --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Water polo', u'Cycling', u'Cross-country skiing']	593
+what is the capital of italy today?	33653	italy --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+what is the capital of italy today?	33653	italy --> organization membership organization --> [u'World Bank', u'League of Nations', u'European Space Agency', u'G-20 major economies', u'Organisation for Economic Co-operation and Development']	18
+what is the capital of italy today?	33653	italy --> imports and exports exported to --> [u'United States of America', u'Algeria', u'Albania']	1183
+what is the capital of italy today?	33653	italy --> fictional setting fictional characters born here --> [u'Checco Orsi', u'Mukuro Rokudo', u'Daemon Spade', u'Basil', u'Ludovico Orsi']	0
+what is the capital of italy today?	33653	italy --> imports and exports date --> [u'2008']	0
+what is the capital of italy today?	33653	italy --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+what is the capital of italy today?	33653	italy --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what is the capital of italy today?	33653	italy --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0
+what is the capital of italy today?	33653	italy --> national anthem of a country official anthem since --> [u'1946-10-12']	0
+what is the capital of italy today?	33653	italy --> military command military commander --> [u'Carlo Pellion di Persano', u'Benito Mussolini']	99
+what is the capital of italy today?	33653	italy --> administrative area adjectival form --> [u'Italian']	0
+what is the capital of italy today?	33653	italy --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjMgZwpEbGdrcN5Y29ycA']	0
+what is the capital of italy today?	33653	italy --> current area record event --> [u"Men's Long jump"]	0
+what is the capital of italy today?	33653	italy --> bibs location is clear --> [u'0']	0
+what is the capital of italy today?	33653	italy --> competitor competition relationship competitors --> [u'Federica Pellegrini', u'Gabriele Abate', u'Antonella Confortola Wyatt']	1
+what is the capital of italy today?	33653	italy --> olympic medal honor event --> [u"Sailing at the 2000 Summer Olympics - Women's Sailboard", u"Athletics at the 2000 Summer Olympics - Men's hammer throw", u"Judo  at the 1976 Summer Olympics - Men's Lightweight (63kg)", u"Cross Country Skiing at the 1992 Winter Olympics -Women's 10km pursuit", u"Cycling at the 1956 Summer Olympics \u2013 Men's sprint"]	0
+what is the capital of italy today?	33653	italy --> olympic participating country olympics participated in --> [u'2012 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics']	27
+what is the capital of italy today?	33653	italy --> government position held office holder --> [u'Luigi Einaudi', u'Silvio Berlusconi', u'Umberto Bossi', u'Franco Frattini', u'Maria Rosaria Carfagna']	45
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> military combatant armed forces --> [u'Italian Army']	11
+what is the capital of italy today?	33653	italy --> organization scope organizations with this scope --> [u'Greens', u'Democrats of the Left', u'Democratic Party of the Left', u'Democratic Union for Consumers', u'Liberal Reformers']	5
+what is the capital of italy today?	33653	italy --> imports and exports amount --> [u'925000000']	0
+what is the capital of italy today?	33653	italy --> country first level divisions --> [u'Umbria', u'Calabria', u'Tuscany', u'Lombardy', u'Trentino-Alto Adige/South Tyrol']	3061
+what is the capital of italy today?	33653	italy --> dated money value amount --> [u'9240', u'10100', u'10740', u'11310', u'12100']	0
+what is the capital of italy today?	33653	italy --> imports and exports date --> [u'2004']	0
+what is the capital of italy today?	33653	italy --> country languages spoken --> [u'Italian Language', u'Austrian German', u'Esperanto Language', u'Albanian language', u'Occitan language']	274
+what is the capital of italy today?	33653	italy --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what is the capital of italy today?	33653	italy --> competitor country relationship competitor --> [u'Federica Pellegrini']	1
+what is the capital of italy today?	33653	italy --> country calling code --> [u'39']	0
+what is the capital of italy today?	33653	italy --> adjoining relationship adjoins --> [u'Switzerland', u'France', u'Austria', u'Slovenia']	4461
+what is the capital of italy today?	33653	italy --> dated percentage date --> [u'1983-03', u'1983-09', u'1983-11', u'1984-06', u'1984-10']	0
+what is the capital of italy today?	33653	italy --> athletics championships competition athlete relationship athlete s --> [u'Andrew Howe', u'Antonietta Di Martino']	3
+what is the capital of italy today?	33653	italy --> geocode longitude --> [u'11.4402833333']	0
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics']	16
+what is the capital of italy today?	33653	italy --> organization founder organizations founded --> [u'Council of Europe']	1
+what is the capital of italy today?	33653	italy --> thoroughbred racehorse origin horses from this location --> [u'Ribot', u'Nearco', u'Tenerani']	4
+what is the capital of italy today?	33653	italy --> dated percentage rate --> [u'1.56763', u'1.690582', u'1.7119', u'1.727246', u'1.783687']	0
+what is the capital of italy today?	33653	italy --> imports and exports imported from --> [u'Scotland', u'Algeria', u'Madagascar', u'Albania', u'Antigua and Barbuda']	480
+what is the capital of italy today?	33653	italy --> olympic participating country ioc code --> [u'ITA']	0
+what is the capital of italy today?	33653	italy --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0
+what is the capital of italy today?	33653	italy --> dated kgoe number --> [u'794.821', u'890.68', u'1007.045', u'1119.73', u'1221.732']	0
+what is the capital of italy today?	33653	italy --> country currency used --> [u'Euro']	9
+what is the capital of italy today?	33653	italy --> dated float number --> [u'1.18', u'1.21', u'1.22', u'1.23', u'1.25']	0
+what is the capital of italy today?	33653	italy --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> country iso  shortname --> [u'ITALY']	0
+what is the capital of italy today?	33653	italy --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+what is the capital of italy today?	33653	italy --> dated percentage date --> [u'1995', u'1996', u'1997', u'1998', u'1999']	0
+what is the capital of italy today?	33653	italy --> breed origin breeds originating here --> [u'Sicilian Buttercup', u'Neapolitan Mastiff', u'Bracco Italiano', u'St. Bernard', u'Bergamasco Shepherd']	3
+what is the capital of italy today?	33653	italy --> athletics championships competition athlete relationship championships --> [u'2007 World Championships in Athletics']	0
+what is the capital of italy today?	33653	italy --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
+what is the capital of italy today?	33653	italy --> newspaper circulation area newspapers --> [u"l'Unit\xe0", u'Corriere della Sera', u'Avanti!', u'Liberazione', u'La Stampa']	7
+what is the capital of italy today?	33653	italy --> adjusted money value adjusted value --> [u'292121165078', u'316096267463', u'335705775006', u'354537955791', u'364456872261']	0
+what is the capital of italy today?	33653	italy --> adjusted money value adjustment currency --> [u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> dated percentage rate --> [u'-5.494407', u'-2.090163', u'-1.156231', u'-0.852806', u'-0.046578']	0
+what is the capital of italy today?	33653	italy --> webpage uri --> [u'http://statoids.com/uit.html', u'http://it.wikipedia.org/wiki/Italia']	0
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> flag use flag --> [u'Flag of Italy']	3
+what is the capital of italy today?	33653	italy --> country second level divisions --> [u'Province of Trieste', u'Province of Monza and Brianza', u'Province of Rimini', u'Province of Biella', u'Province of Cosenza']	188
+what is the capital of italy today?	33653	italy --> book subject musical compositions about this topic --> [u'Aus Italien']	0
+what is the capital of italy today?	33653	italy --> sports team location teams --> [u'Italy national football team', u'Italy national cricket team', u'Dinamo Basket Sassari', u'Pallacanestro Cant\xf9', u"Italy men's national ice hockey team"]	14
+what is the capital of italy today?	33653	italy --> force strength force size --> [u'2795', u'54000']	0
+what is the capital of italy today?	33653	italy --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what is the capital of italy today?	33653	italy --> force strength military conflict --> [u'Operation Crusader', u'War in Afghanistan (2001\u2013present)']	0
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> exhibition subject exhibitions created about this subject --> [u'WoMen in Africa - No Color One Color']	0
+what is the capital of italy today?	33653	italy --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> competitor competition relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
+what is the capital of italy today?	33653	italy --> location adjectival form --> [u'Italian']	0
+what is the capital of italy today?	33653	italy --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+what is the capital of italy today?	33653	italy --> dated metric ton number --> [u'2.178445', u'2.464556', u'2.878496', u'3.2151', u'3.405053']	0
+what is the capital of italy today?	33653	italy --> casualties lower estimate --> [u'2300', u'6100', u'19800']	0
+what is the capital of italy today?	33653	italy --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+what is the capital of italy today?	33653	italy --> fictional setting works set here --> [u'The Cask of Amontillado', u'The Revolutionist']	0
+what is the capital of italy today?	33653	italy --> countries continent --> [u'Europe']	355
+what is the capital of italy today?	33653	italy --> casualties military conflict --> [u'Operation Crusader']	0
+what is the capital of italy today?	33653	italy --> administrative area subdividing type --> [u'Italian region']	0
+what is the capital of italy today?	33653	italy --> government position held to --> [u'1943', u'1992', u'1994', u'2004', u'2006']	0
+what is the capital of italy today?	33653	italy --> dated kilowatt hour number --> [u'975.026', u'1046.415', u'1143.605', u'1266.351', u'1353.314']	0
+what is the capital of italy today?	33653	italy --> government position held basic title --> [u'President', u'Senator', u'Prime minister', u'Minister', u'Dictator']	1
+what is the capital of italy today?	33653	italy --> linguistic hint adjectival form --> [u'Italian']	0
+what is the capital of italy today?	33653	italy --> military combatant group conflict --> [u'Battle of Mogadishu', u'Battle of Ko\u0161are', u'Operation Active Endeavour', u'Action of 14 February 1944', u'World War I']	96
+what is the capital of italy today?	33653	italy --> administrative area administrative parent --> [u'Earth']	3
+what is the capital of italy today?	33653	italy --> country capital --> [u'Rome']	2105
+what is the capital of italy today?	33653	italy --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> dated percentage rate --> [u'5.8', u'5.9', u'6', u'6.1', u'6.2']	0
+what is the capital of italy today?	33653	italy --> country internet tld --> [u'it']	3
+what is the capital of italy today?	33653	italy --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what is the capital of italy today?	33653	italy --> fictional setting universe --> [u"JoJo's Bizarre Adventure"]	0
+what is the capital of italy today?	33653	italy --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+what is the capital of italy today?	33653	italy --> beer country region beers from here --> [u'Menabrea Birra S.P.A.', u'Castello Di Udine Birra Moretti', u'Le Baladin Wayan', u'La Tabachera Amarcord', u'Le Baladin Isaac']	0
+what is the capital of italy today?	33653	italy --> athletics championships competition athlete relationship medal --> [u'Silver medal']	0
+what is the capital of italy today?	33653	italy --> dated money value valid date --> [u'2008']	0
+what is the capital of italy today?	33653	italy --> athletics country national federation --> [u'Federazione Italiana di Atletica Leggera']	0
+what is the capital of italy today?	33653	italy --> name source namesakes --> [u'63 Ausonia']	0
+what is the capital of italy today?	33653	italy --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> dated money value amount --> [u'31000']	0
+what is the capital of italy today?	33653	italy --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead', u'Military - MIA']	0
+what is the capital of italy today?	33653	italy --> topic topical webpage --> [u'http://it.wikipedia.org/wiki/Italia']	0
+what is the capital of italy today?	33653	italy --> imports and exports currency --> [u'UK \xa3']	1
+what is the capital of italy today?	33653	italy --> administrative area short name --> [u'it']	0
+what is the capital of italy today?	33653	italy --> governmental jurisdiction government bodies --> [u'Italian Parliament', u'Chamber of Deputies', u'Senate of the Republic']	17
+what is the capital of italy today?	33653	italy --> dated location date founded --> [u'1861-03-17']	0
+what is the capital of italy today?	33653	italy --> governmental jurisdiction government --> [u'Government of Italy']	0
+what is the capital of italy today?	33653	italy --> country form of government --> [u'Constitutional republic', u'Parliamentary republic', u'Unitary republic']	0
+what is the capital of italy today?	33653	italy --> competitor competition relationship competition --> [u"Swimming at the 2009 World Aquatics Championships \u2013 Women's 400 metre freestyle", u"Swimming at the 2009 Mediterranean Games - Women's 400 metre freestyle", u'Senior Men race at 2011 European Mountain Running Championships', u"Swimming at the 2005 World Aquatics Championships \u2013 Women's 200m freestyle", u"Swimming at the 2009 World Aquatics Championships \u2013 Women's 200 metre freestyle"]	0
+what is the capital of italy today?	33653	italy --> competitor country relationship sports --> [u'Swimming']	1
+what is the capital of italy today?	33653	italy --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+what is the capital of italy today?	33653	italy --> dated percentage source --> [u'Broadband penetration rate, Broadband penetration in Europe, Eurostat']	0
+what is the capital of italy today?	33653	italy --> adjusted money value adjustment date --> [u'2000']	0
+what is the capital of italy today?	33653	italy --> book subject works --> [u'The Charterhouse of Parma', u'The Nature of Blood', u'Seventeenth-century Italian prints', u'The Mafia', u'Time at War']	0
+what is the capital of italy today?	33653	italy --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> organization membership to --> [u'1937-12-11']	0
+what is the capital of italy today?	33653	italy --> dated percentage date --> [u'2002-07', u'2002-10', u'2003-01', u'2003-07', u'2003-10']	0
+what is the capital of italy today?	33653	italy --> dated percentage rate --> [u'1', u'1.3', u'1.7', u'2.8', u'3.8']	0
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> location contains --> [u"Sant'Ignazio Church, Rome", u'Province of Trieste', u'Maria SS. Assunta University of Rome', u'Muggia', u'Albiate']	20
+what is the capital of italy today?	33653	italy --> topic alias --> [u'Italian Republic', u'Italia']	0
+what is the capital of italy today?	33653	italy --> flag use from date --> [u'1948-01-01']	0
+what is the capital of italy today?	33653	italy --> taxonomy entry high --> [u'999', u'5690']	0
+what is the capital of italy today?	33653	italy --> organization membership from --> [u'1920-01-10', u'1999', u'1957-03-25', u'1955-12-14']	0
+what is the capital of italy today?	33653	italy --> location area --> [u'301230']	0
+what is the capital of italy today?	33653	italy --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+what is the capital of italy today?	33653	italy --> imports and exports currency --> [u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> current area record mark --> [u'8,47 m']	0
+what is the capital of italy today?	33653	italy --> military combatant belongs to combatant group --> [u'Triple Entente']	4
+what is the capital of italy today?	33653	italy --> governmental jurisdiction agencies --> [u'National Institute of Statistics', u'Italian Ministry of Public Education', u'Italian Ministry of Education, Universities and Research', u'Ministry of Cultural Heritage and Activities']	1
+what is the capital of italy today?	33653	italy --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what is the capital of italy today?	33653	italy --> country administrative divisions --> [u'Province of Trieste', u'Province of Monza and Brianza', u'Province of Rimini', u'Province of Biella', u'Province of Cosenza']	188
+what is the capital of italy today?	33653	italy --> competitor competition relationship tournament --> [u'2009 Mediterranean Games', u'2011 European Mountain Running Championships', u'2005 World Aquatics Championships', u'2009 World Aquatics Championships', u'2007 World Aquatics Championships']	19
+what is the capital of italy today?	33653	italy --> dated float number --> [u'69.124', u'69.15', u'69.248', u'69.76', u'70.172']	0
+what is the capital of italy today?	33653	italy --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> administrative area pertinent type --> [u'Italian province', u'Italian frazione', u'Italian region', u'Italian autonomous region', u'Italian commune']	0
+what is the capital of italy today?	33653	italy --> location time zones --> [u'UTC+01:00', u'Central European Time']	1
+what is the capital of italy today?	33653	italy --> administrative area administrative area type --> [u'Sovereign state']	0
+what is the capital of italy today?	33653	italy --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+what is the capital of italy today?	33653	italy --> film location featured in films --> [u'Half-Rate Honeymoon', u'Flame and the Flesh', u'Estate Violenta', u'Captain America: The First Avenger', u'The Great War']	0
+what is the capital of italy today?	33653	italy --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what is the capital of italy today?	33653	italy --> webpage resource --> [u'Guess Who No. 13: Coachella 2007 edition', u"Sandino Moreno joins 'Love in the Time of Cholera'", u"'Dirty Sexy Money': Wining and whining", u"Robert Pattinson. Shirtless. Filming 'New Moon.' Yes!", u'George Clooney buys woman new car']	0
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> topic official website --> [u'http://www.italia.it/en/home.html']	0
+what is the capital of italy today?	33653	italy --> government position held governmental body --> [u'Chamber of Deputies', u'Senate of the Republic', u'Letta Cabinet']	10
+what is the capital of italy today?	33653	italy --> sport country multi event tournaments participated in --> [u'2007 World Championships in Athletics', u'2012 World Mountain Running Championships']	0
+what is the capital of italy today?	33653	italy --> military combatant group combatants --> [u'Russia', u'United Kingdom', u'United States of America', u'Australia', u'France']	4301
+what is the capital of italy today?	33653	italy --> dated integer number --> [u'50199700', u'50536350', u'50879450', u'51252000', u'51675350']	0
+what is the capital of italy today?	33653	italy --> imports and exports amount --> [u'12100000000']	0
+what is the capital of italy today?	33653	italy --> webpage category --> [u'Topic Webpage', u'Tag', u'Topic Equivalent']	0
+what is the capital of italy today?	33653	italy --> geocode latitude --> [u'44.2632']	0
+what is the capital of italy today?	33653	italy --> location events --> [u'Spring 1945 offensive in Italy', u'Battle of the Mincio River', u'Battle of Carpi', u'Battle of the Cremera', u'Battle of Lake Vadimo']	2
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> country official language --> [u'Italian Language']	265
+what is the capital of italy today?	33653	italy --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what is the capital of italy today?	33653	italy --> dated percentage rate --> [u'0', u'0.01', u'0.02', u'0.03', u'0.04']	0
+what is the capital of italy today?	33653	italy --> taxonomy entry low --> [u'11', u'5201']	0
+what is the capital of italy today?	33653	italy --> administrative area administrative children --> [u'Umbria', u'Calabria', u'Tuscany', u'Lombardy', u'Trentino-Alto Adige/South Tyrol']	3061
+what is the capital of italy today?	33653	italy --> government position held from --> [u'1924', u'1948', u'1987', u'1992', u'1993']	0
+what is the capital of italy today?	33653	italy --> olympic athlete affiliation athlete --> [u'Rosario La Mastra', u'Elena Gigli', u'Guglielmo Presenti', u'Filippo Magnini', u'Gerhard Plankensteiner']	3
+what is the capital of italy today?	33653	italy --> olympic athlete affiliation athlete --> [u'Elio Ragni']	0
+what is the capital of italy today?	33653	italy --> dated money value currency --> [u'United States dollar']	3
+what is the capital of italy today?	33653	italy --> dated money value amount --> [u'521220363511', u'570549379915', u'607183870478', u'639458411657', u'684752164923']	0
+what is the capital of italy today?	33653	italy --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what is the capital of italy today?	33653	italy --> object name --> [u'Italy']	0
+what is the capital of italy today?	33653	italy --> topic image --> [u'italian-640.gif', u'Italy', u'Italia', u'Italia']	0
+what is the capital of italy today?	33653	italy --> national anthem of a country anthem --> [u'Il Canto degli Italiani']	2
+what is the capital of italy today?	33653	italy --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what is the capital of italy today?	33653	italy --> dated money value amount --> [u'40385288344', u'40385288344.2', u'44842760293', u'44842760293.2', u'50383891899']	0
+what is the capital of italy today?	33653	italy --> governmental jurisdiction government positions --> [u'Prime Minister of Italy', u'Italian Minister of Justice']	46
+what is the capital of italy today?	33653	italy --> dated percentage rate --> [u'103.3', u'103.4', u'103.9', u'105.1', u'105.7']	0
+what is the capital of italy today?	33653	capital --> topic official website --> [u'http://www.capitalfm.com']	0
+what is the capital of italy today?	33653	capital --> topic alias --> [u'The Capital FM Network']	0
+what is the capital of italy today?	33653	capital --> object name --> [u'Capital']	0
+what is the capital of italy today?	33653	capital --> webpage uri --> [u'http://www.capitalfm.com', u'http://www.thisisglobal.com/radio/capital']	0
+what is the capital of italy today?	33653	the today show --> topic social media presence --> [u'http://plus.google.com/101059133757139216178']	0
+what is the capital of italy today?	33653	the today show --> award nomination award --> [u'Daytime Emmy Award for Outstanding Original Song', u"People's Choice Award for Favorite Daytime TV Host", u'Primetime Emmy Award for Outstanding Achievement In Daytime Programming', u'Daytime Emmy Award for Outstanding Morning Program', u'Daytime Emmy Award for Outstanding New Approaches \u2013 Daytime Entertainment']	0
+what is the capital of italy today?	33653	the today show --> tv regular personal appearance appearance type --> [u'Him/Herself', u'Correspondent', u'Co-host', u'Newscaster']	0
+what is the capital of italy today?	33653	the today show --> topic alias --> [u'Today', u'NBC News Today']	0
+what is the capital of italy today?	33653	the today show --> award honor year --> [u'1968', u'1970', u'1971', u'1972', u'1975']	0
+what is the capital of italy today?	33653	the today show --> award honor award winner --> [u'Amy Robach', u'NBC', u'Hoda Kotb', u'Brian Cohen', u'Meredith Vieira']	93
+what is the capital of italy today?	33653	the today show --> tv network duration network --> [u'NBC']	80
+what is the capital of italy today?	33653	the today show --> tv program air date of first episode --> [u'1952-01-14']	0
+what is the capital of italy today?	33653	the today show --> tv program writer relationship writer --> [u'Jerry Juhl', u'Victoria Duncan', u'Richard Minner', u'Rana Farhart', u'Ray Geraty']	0
+what is the capital of italy today?	33653	the today show --> tv program genre --> [u'News', u'Talk show', u'Live action']	0
+what is the capital of italy today?	33653	the today show --> award honor ceremony --> [u'20th Primetime Emmy Awards', u'39th Daytime Emmy Awards', u'38th Daytime Emmy Awards', u'40th Daytime Emmy Awards', u'37th Daytime Emmy Awards']	0
+what is the capital of italy today?	33653	the today show --> webpage category --> [u'Topic Webpage', u'Curated Topic']	0
+what is the capital of italy today?	33653	the today show --> tv program filming locations --> [u'NBC Studios']	0
+what is the capital of italy today?	33653	the today show --> tv program episodes --> [u'February 12', u'December 30', u'December 26', u'April 4', u'August 29']	0
+what is the capital of italy today?	33653	the today show --> tv program writer relationship end date --> [u'1952']	0
+what is the capital of italy today?	33653	the today show --> tv program number of seasons --> [u'61']	0
+what is the capital of italy today?	33653	the today show --> topic official website --> [u'http://www.todayshow.com']	0
+what is the capital of italy today?	33653	the today show --> regular tv appearance actor --> [u'Anita Colby', u'Matt Lauer', u'Al Roker', u'Ann Curry', u'Natalie Morales']	36
+what is the capital of italy today?	33653	the today show --> rated tv program ew rating --> [u'69']	0
+what is the capital of italy today?	33653	the today show --> tv regular personal appearance from --> [u'1976', u'1989', u'1990', u'1991', u'1994']	0
+what is the capital of italy today?	33653	the today show --> webpage resource --> [u"On the Scene: Bruce Springsteen live on 'Today'", u"HeadScratcher No. 43: You're the next contestant!", u'Matt Lauer: Where in the world will he be this year? At home', u"David Letterman not expected to respond to Sarah Palin on tonight's show", u"New 'Jon & Kate Plus 8': Kate says 'I'm trying not to feel sorry for us and myself' and Jon calls Kate 'annoying'"]	0
+what is the capital of italy today?	33653	the today show --> tv program program creator --> [u'Sylvester Weaver']	0
+what is the capital of italy today?	33653	the today show --> award honor notes description --> [u'a Personal Award, Washington Editor']	0
+what is the capital of italy today?	33653	the today show --> tv program seasons --> [u'The Today Show - Season 52', u'The Today Show - Season 1', u'The Today Show - Season 3', u'The Today Show - Season 4', u'The Today Show - Season 5']	0
+what is the capital of italy today?	33653	the today show --> tv regular personal appearance to --> [u'1989', u'1991', u'2006', u'2008', u'2012']	0
+what is the capital of italy today?	33653	the today show --> award nomination award nominee --> [u'Phil Vassar', u'Amy Robach', u'Randy Wachtler', u'Julie Vassar', u'Polly Burokas']	4
+what is the capital of italy today?	33653	the today show --> tv producer term producer type --> [u'Producer', u'Executive Producer', u'Supervising Producer']	0
+what is the capital of italy today?	33653	the today show --> webpage in index --> [u'Entertainment Weekly annotation index', u'Blissful Celebrities', u'Blissful Master Index']	0
+what is the capital of italy today?	33653	the today show --> tv program episode running time --> [u'180', u'240']	0
+what is the capital of italy today?	33653	the today show --> tv program country of origin --> [u'United States of America']	3
+what is the capital of italy today?	33653	the today show --> award nomination notes description --> [u'Live For Today']	0
+what is the capital of italy today?	33653	the today show --> quotation source quotations --> [u'I have twatted.']	0
+what is the capital of italy today?	33653	the today show --> tv producer term producer --> [u'Brian Cohen', u'Meaghan Rady', u'Noah Oppenheim', u'Carol M. Sullivan', u'Javier Morgado']	0
+what is the capital of italy today?	33653	the today show --> webpage uri --> [u'http://www.todayshow.com', u'http://www.today.com']	0
+what is the capital of italy today?	33653	the today show --> award honor award --> [u'Peabody Award', u'Primetime Emmy Award for Outstanding Achievement In Daytime Programming', u'Daytime Emmy Award for Outstanding Morning Program', u'Daytime Emmy Award for Outstanding Achievement In Live & Direct To Tape Sound Mixing', u'Primetime Emmy Award for Outstanding Achievement in Daytime Programming - Individuals']	0
+what is the capital of italy today?	33653	the today show --> tv program languages --> [u'English Language']	0
+what is the capital of italy today?	33653	the today show --> tv program writer relationship start date --> [u'1952']	0
+what is the capital of italy today?	33653	the today show --> award nomination year --> [u'1956', u'1962', u'1968', u'1970', u'1971']	0
+what is the capital of italy today?	33653	the today show --> object name --> [u'The Today Show']	0
+what is the capital of italy today?	33653	the today show --> tv program theme song --> [u'Scherzo for Today']	0
+what is the capital of italy today?	33653	the today show --> tv regular personal appearance person --> [u'Katie Couric', u'Hoda Kotb', u'Deborah Norville', u'Meredith Vieira', u'Dustin Hoffman']	22
+what is the capital of italy today?	33653	the today show --> tv program number of episodes --> [u'15785']	0
+what is the capital of italy today?	33653	the today show --> tv program currently in production --> [u'1']	0
+what is the capital of italy today?	33653	capital --> object name --> [u'Capital']	0
+what is the capital of italy today?	33653	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what is the capital of italy today?	33653	atlanta --> government position held office position or title --> [u'Mayor of Atlanta']	0
+what is the capital of italy today?	33653	atlanta --> bibs location loc type --> [u'City']	0
+what is the capital of italy today?	33653	atlanta --> travel destination monthly climate average rainfall mm --> [u'84', u'93', u'103', u'105', u'110']	0
+what is the capital of italy today?	33653	atlanta --> dog city relationship date --> [u'2008']	0
+what is the capital of italy today?	33653	atlanta --> location people born here --> [u'Kelvin Sheppard', u'Georgia Douglas Johnson', u'Sam Cronin', u'Mike Sanders', u'Ernest Grant']	0
+what is the capital of italy today?	33653	atlanta --> travel destination local transportation --> [u'Metropolitan Atlanta Rapid Transit Authority']	7
+what is the capital of italy today?	33653	atlanta --> federal reserve bank letter --> [u'F']	0
+what is the capital of italy today?	33653	atlanta --> sports team roster from --> [u'2007']	0
+what is the capital of italy today?	33653	atlanta --> location containedby --> [u'United States of America', u'Georgia', u'Fulton County', u'Area code 404', u'Area code 678']	1217
+what is the capital of italy today?	33653	atlanta --> location of biosafety facility biosafety facility --> [u'United States Centers for Disease Control and Prevention', u'Georgia State University Facility']	9
+what is the capital of italy today?	33653	atlanta --> dated integer year --> [u'2008']	0
+what is the capital of italy today?	33653	atlanta --> fictional setting fictional characters born here --> [u'Nico Harris']	0
+what is the capital of italy today?	33653	atlanta --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what is the capital of italy today?	33653	atlanta --> hud county place county --> [u'Fulton County']	40
+what is the capital of italy today?	33653	atlanta --> topic official website --> [u'http://www.atlantaga.gov/']	0
+what is the capital of italy today?	33653	atlanta --> webpage description --> [u'Visitor Information']	0
+what is the capital of italy today?	33653	atlanta --> sports team roster player --> [u'Joe Horn']	0
+what is the capital of italy today?	33653	atlanta --> bibs location is clear --> [u'0']	0
+what is the capital of italy today?	33653	atlanta --> government position held office holder --> [u'Andrew Young', u'Kasim Reed', u'Shirley Franklin', u'Maynard Jackson', u'Roy LeCraw']	16
+what is the capital of italy today?	33653	atlanta --> support supporter --> [u'Deion Sanders']	0
+what is the capital of italy today?	33653	atlanta --> geocode datum --> [u'NAD83']	0
+what is the capital of italy today?	33653	atlanta --> organization scope organizations with this scope --> [u'Dillinger Media']	0
+what is the capital of italy today?	33653	atlanta --> sports team roster position --> [u'Wide receiver']	0
+what is the capital of italy today?	33653	atlanta --> dated float date --> [u'2008']	0
+what is the capital of italy today?	33653	atlanta --> geocode longitude --> [u'-84.3881']	0
+what is the capital of italy today?	33653	atlanta --> sports team roster from --> [u'2007']	0
+what is the capital of italy today?	33653	atlanta --> organization relationship as of date --> [u'2007', u'2008', u'2009']	0
+what is the capital of italy today?	33653	atlanta --> dated float number --> [u'0']	0
+what is the capital of italy today?	33653	atlanta --> travel destination monthly climate average min temp c --> [u'0', u'1', u'2', u'6', u'10']	0
+what is the capital of italy today?	33653	atlanta --> football historical roster position from --> [u'2007']	0
+what is the capital of italy today?	33653	atlanta --> football historical roster position from --> [u'2007']	0
+what is the capital of italy today?	33653	atlanta --> administrative division capital relationship administrative division --> [u'Georgia', u'Fulton County']	1027
+what is the capital of italy today?	33653	atlanta --> adjoining relationship adjoins --> [u'Duluth']	8
+what is the capital of italy today?	33653	atlanta --> dated integer year --> [u'2008']	0
+what is the capital of italy today?	33653	atlanta --> dated integer source --> [u'United States Census Bureau, Population']	0
+what is the capital of italy today?	33653	atlanta --> newspaper circulation area newspapers --> [u'The Signal', u'The Great Speckled Bird', u'The Atlanta Journal-Constitution', u'The Emory Wheel', u'Urdu Times']	2
+what is the capital of italy today?	33653	atlanta --> top architectural city structure count --> [u'27']	0
+what is the capital of italy today?	33653	atlanta --> bibs location country --> [u'United States of America']	285
+what is the capital of italy today?	33653	atlanta --> football historical roster position player --> [u'Joe Horn']	0
+what is the capital of italy today?	33653	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what is the capital of italy today?	33653	atlanta --> webpage uri --> [u'http://www.atlantaga.gov/', u'http://wikitravel.org/en/Atlanta']	0
+what is the capital of italy today?	33653	atlanta --> dog city relationship dog breed --> [u'Dachshund', u'German Shepherd Dog', u'Yorkshire Terrier', u'Boxer', u'Shih Tzu']	0
+what is the capital of italy today?	33653	atlanta --> sports team location teams --> [u'Atlanta Braves', u'Atlanta Falcons', u'Atlanta Hawks', u'Atlanta Thrashers', u'Georgia Tech Yellow Jackets football']	65
+what is the capital of italy today?	33653	atlanta --> football historical roster position position s --> [u'Wide receiver']	0
+what is the capital of italy today?	33653	atlanta --> location nearby airports --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'Atlanta Regional Airport', u'Cobb County Airport', u'Fulton County Airport', u'DeKalb-Peachtree Airport']	2
+what is the capital of italy today?	33653	atlanta --> place of interment interred here --> [u'Alfred Iverson, Jr.', u'Ralph Abernathy']	0
+what is the capital of italy today?	33653	atlanta --> transportation transport operator --> [u'Amtrak', u'Greyhound Lines']	8
+what is the capital of italy today?	33653	atlanta --> travel destination monthly climate average max temp c --> [u'10', u'12', u'17', u'18', u'23']	0
+what is the capital of italy today?	33653	atlanta --> location events --> [u'1996 Summer Olympics', u'2009  Easter Crash on Camp Creek Parkway', u"1984 NCAA Men's Division I Basketball Tournament", u"Ohio State-Kentucky 1987 NCAA Men's Division I Basketball Tournament Game", u"Georgetown-Ohio State 1987 NCAA Men's Division I Basketball Tournament Game"]	569
+what is the capital of italy today?	33653	atlanta --> football historical roster position player --> [u'Joe Horn']	0
+what is the capital of italy today?	33653	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what is the capital of italy today?	33653	atlanta --> base equivalent location base --> [u'Atlanta']	0
+what is the capital of italy today?	33653	atlanta --> federal reserve bank federal reserve region --> [u'Atlanta']	0
+what is the capital of italy today?	33653	atlanta --> government position held to --> [u'1942', u'1982', u'1990', u'2002', u'1887']	0
+what is the capital of italy today?	33653	atlanta --> webpage category --> [u'Topic Webpage', u'Official Website']	0
+what is the capital of italy today?	33653	atlanta --> government position held basic title --> [u'Mayor']	2
+what is the capital of italy today?	33653	atlanta --> dated integer number --> [u'15575']	0
+what is the capital of italy today?	33653	atlanta --> hud county place place --> [u'Atlanta']	6322
+what is the capital of italy today?	33653	atlanta --> location contains --> [u'Oglethorpe University', u'Georgia Institute of Technology College of Engineering', u'Morris Brown College', u'Emory University', u'Georgia Institute of Technology']	116
+what is the capital of italy today?	33653	atlanta --> dated integer number --> [u'168341']	0
+what is the capital of italy today?	33653	atlanta --> governmental jurisdiction government bodies --> [u'Atlanta City Council']	1
+what is the capital of italy today?	33653	atlanta --> sports team roster position --> [u'Wide receiver']	0
+what is the capital of italy today?	33653	atlanta --> bibs location state --> [u'Georgia']	993
+what is the capital of italy today?	33653	atlanta --> dated integer number --> [u'118507']	0
+what is the capital of italy today?	33653	atlanta --> topic topical webpage --> [u'http://wikitravel.org/en/Atlanta']	0
+what is the capital of italy today?	33653	atlanta --> dated float date --> [u'2008']	0
+what is the capital of italy today?	33653	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what is the capital of italy today?	33653	atlanta --> sports team roster player --> [u'Joe Horn']	0
+what is the capital of italy today?	33653	atlanta --> dated location date founded --> [u'1837']	0
+what is the capital of italy today?	33653	atlanta --> federal reserve bank number --> [u'6']	0
+what is the capital of italy today?	33653	atlanta --> dated integer number --> [u'207929']	0
+what is the capital of italy today?	33653	atlanta --> book subject works --> [u'A Man in Full']	1
+what is the capital of italy today?	33653	atlanta --> travel destination tourist attractions --> [u'Zoo Atlanta', u'Margaret Mitchell House & Museum', u'Georgia Dome', u'Atlanta History Center', u'Atlanta Symphony Orchestra']	116
+what is the capital of italy today?	33653	atlanta --> dated float number --> [u'0.0667']	0
+what is the capital of italy today?	33653	atlanta --> topic alias --> [u'Atlanta, GA', u'Hotlanta', u'Atlanta, Georgia', u'Fulton County / Atlanta city']	0
+what is the capital of italy today?	33653	atlanta --> location area --> [u'342.914425808']	0
+what is the capital of italy today?	33653	atlanta --> football historical roster position position s --> [u'Wide receiver']	0
+what is the capital of italy today?	33653	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
+what is the capital of italy today?	33653	atlanta --> dated integer year --> [u'2008']	0
+what is the capital of italy today?	33653	atlanta --> citytown postal codes --> [u'30366', u'30326', u'30328', u'30337', u'30355']	0
+what is the capital of italy today?	33653	atlanta --> governmental jurisdiction agencies --> [u'Atlanta Police Department']	0
+what is the capital of italy today?	33653	atlanta --> transportation transport terminus --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'232 Forsyth St.', u'Peachtree Station']	0
+what is the capital of italy today?	33653	atlanta --> location time zones --> [u'Eastern Time Zone']	5
+what is the capital of italy today?	33653	atlanta --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0
+what is the capital of italy today?	33653	atlanta --> film location featured in films --> [u'Zombieland', u'Boycott', u'Get Low', u'Hillbilly Highway', u'Halloween II']	1
+what is the capital of italy today?	33653	atlanta --> webpage resource --> [u'Katt Williams arrested for burglary', u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 4: TV Recap', u"'American Idol' auditions under way", u"'American Idol' in Chicago: Shania Twain impressed us much!", u'Snap Judgment: Jericho']	0
+what is the capital of italy today?	33653	atlanta --> place with neighborhoods neighborhoods --> [u'Sweet Auburn', u'Cascade Heights', u'Atlantic Station', u'East Lake, Atlanta', u'Little Five Points']	8
+what is the capital of italy today?	33653	atlanta --> dated integer number --> [u'393314', u'394175', u'395436', u'398481', u'400620']	0
+what is the capital of italy today?	33653	atlanta --> dated integer year --> [u'2008']	0
+what is the capital of italy today?	33653	atlanta --> geocode latitude --> [u'33.7489']	0
+what is the capital of italy today?	33653	atlanta --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	0
+what is the capital of italy today?	33653	atlanta --> government position held from --> [u'1941', u'1974', u'1982', u'1994', u'1885']	0
+what is the capital of italy today?	33653	atlanta --> dated integer year --> [u'2008']	0
+what is the capital of italy today?	33653	atlanta --> dated integer number --> [u'6602']	0
+what is the capital of italy today?	33653	atlanta --> object name --> [u'Atlanta']	0
+what is the capital of italy today?	33653	atlanta --> topic image --> [u'City skyline from Buckhead', u'Montage Atlanta']	0
+what is the capital of italy today?	33653	atlanta --> olympic host city olympics hosted --> [u'1996 Summer Olympics']	569
+what is the capital of italy today?	33653	atlanta --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+what is the capital of italy today?	33653	atlanta --> governmental jurisdiction government positions --> [u'Mayor of Atlanta']	0

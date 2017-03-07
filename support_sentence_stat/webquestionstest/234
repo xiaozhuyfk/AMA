@@ -1,0 +1,19 @@
+where is mount fuji located?	47	mount fuji --> ontology instance mapping ontology --> [u'OpenCyc']	0
+where is mount fuji located?	47	mount fuji --> mountain prominence --> [u'3776']	0
+where is mount fuji located?	47	mount fuji --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmHpwpEbGdrcN5Y29ycA']	0
+where is mount fuji located?	47	mount fuji --> art subject art series on the subject --> [u'Thirty-six Views of Mount Fuji', u'Thirty-six Views of Mount Fuji']	0
+where is mount fuji located?	47	mount fuji --> art subject artwork on the subject --> [u'The Great Wave off Kanagawa']	0
+where is mount fuji located?	47	mount fuji --> location events --> [u'Battle of Ishibashiyama', u'Battle of Fujikawa']	1
+where is mount fuji located?	47	mount fuji --> tourist attraction near travel destination --> [u'Tokyo']	7
+where is mount fuji located?	47	mount fuji --> geocode longitude --> [u'138.731']	0
+where is mount fuji located?	47	mount fuji --> topic alias --> [u'Mt. Fuji', u'Fuji-san', u'Fuji mountain']	0
+where is mount fuji located?	47	mount fuji --> park feature quantity park --> [u'Fuji-Hakone-Izu National Park']	2
+where is mount fuji located?	47	mount fuji --> fictional setting works set here --> [u'The Tale of the Bamboo Cutter']	0
+where is mount fuji located?	47	mount fuji --> mountain last eruption --> [u'1707-12-16']	0
+where is mount fuji located?	47	mount fuji --> object name --> [u'Mount Fuji']	0
+where is mount fuji located?	47	mount fuji --> topic image --> [u'FujiSunriseKawaguchiko2025WP']	0
+where is mount fuji located?	47	mount fuji --> mountain elevation --> [u'3776']	0
+where is mount fuji located?	47	mount fuji --> location containedby --> [u'Japan', u'Asia', u'Ch\u016bbu region', u'Honshu', u'Fuji-Hakone-Izu National Park']	36
+where is mount fuji located?	47	mount fuji --> mountain date of first ascent --> [u'0663']	0
+where is mount fuji located?	47	mount fuji --> mountain mountain type --> [u'Volcano', u'Stratovolcano']	1
+where is mount fuji located?	47	mount fuji --> geocode latitude --> [u'35.358']	0

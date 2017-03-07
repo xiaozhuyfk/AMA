@@ -1,0 +1,38 @@
+when did the wright brothers created their first plane?	91	wright brothers --> ontology instance mapping ontology --> [u'OpenCyc']	0
+when did the wright brothers created their first plane?	91	wright brothers --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQFvjZwpEbGdrcN5Y29ycA']	0
+when did the wright brothers created their first plane?	91	wright brothers --> organization founders --> [u'Wilbur Wright', u'Orville Wright']	0
+when did the wright brothers created their first plane?	91	wright brothers --> aircraft manufacturer aircraft models made --> [u'1902 Wright Glider', u'Wright Flyer', u'Wright Model C', u'Wright Model B', u'1900 Wright Glider']	29
+when did the wright brothers created their first plane?	91	wright brothers --> topic alias --> [u'Orville Wright']	0
+when did the wright brothers created their first plane?	91	wright brothers --> topic image --> [u'Orville Wright']	0
+when did the wright brothers created their first plane?	91	wright brothers --> innovator original ideas --> [u'Aircraft']	1
+when did the wright brothers created their first plane?	91	wright brothers --> object name --> [u'Wright brothers']	0
+when did the wright brothers created their first plane?	91	wright brothers --> inventor inventions --> [u'Aircraft', u'Airplane']	3
+when did the wright brothers created their first plane?	91	wright brothers --> company name change new name --> [u'The Wright Cycle Company']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident aircraft type --> [u'Boeing 767']	6
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident accident site --> [u'1 World Trade Center']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> disaster victims --> [u'Berry Berenson']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> aviation incident aircraft relationship flight origin --> [u'Logan International Airport']	3
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident date --> [u'2001-09-11']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident survivors --> [u'0']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> disaster type of disaster --> [u'Air disaster', u'Terrorist Attack']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident accident type --> [u'Aircraft hijacking', u'Controlled flight into terrain']	3
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> ontology instance mapping ontology --> [u'OpenCyc']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> event locations --> [u'1 World Trade Center']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> disaster areas affected --> [u'World Trade Center']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident crew --> [u'11']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> event included in event --> [u'September 11 attacks']	31
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> event end date --> [u'2001-09-11']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> event start date --> [u'2001-09-11']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident operator --> [u'American Airlines']	1
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rua0YdjSKEdaAAACQJ5pZBw']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> disaster structures destroyed --> [u'1 World Trade Center']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> aviation incident aircraft relationship aircraft model --> [u'Boeing 767']	6
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> object name --> [u'American Airlines Flight 11']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> topic image --> [u'AA 11 flight path from Boston to New York City']	0
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> aviation incident aircraft relationship flight destination --> [u'Los Angeles International Airport']	2
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> aviation incident aircraft relationship operator --> [u'American Airlines']	1
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident flight destination --> [u'Los Angeles International Airport']	2
+when did the wright brothers created their first plane?	91	american airlines flight 11 --> airliner accident flight origin --> [u'Logan International Airport']	3
+when did the wright brothers created their first plane?	91	plane --> object name --> [u'Plane']	0
+when did the wright brothers created their first plane?	91	plane --> object name --> [u'Plane']	0
+when did the wright brothers created their first plane?	91	plane --> topic image --> [u'Two intersecting planes in three-dimensional space', u'Two intersecting planes in three-dimensional space']	0

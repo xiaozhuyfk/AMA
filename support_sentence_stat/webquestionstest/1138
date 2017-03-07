@@ -1,0 +1,30 @@
+where is the nra headquarters located?	24	national rifle association --> organization board membership role --> [u'Board Member']	0
+where is the nra headquarters located?	24	national rifle association --> organization board membership title --> [u'Board of directors']	0
+where is the nra headquarters located?	24	national rifle association --> mailing address citytown --> [u'Fairfax']	1
+where is the nra headquarters located?	24	national rifle association --> leadership from --> [u'1984', u'1991']	0
+where is the nra headquarters located?	24	national rifle association --> topic alias --> [u'NRA']	0
+where is the nra headquarters located?	24	national rifle association --> organization date founded --> [u'1871-11-17']	0
+where is the nra headquarters located?	24	national rifle association --> organization membership to --> [u'2008-04-05']	0
+where is the nra headquarters located?	24	national rifle association --> daylife hero image id --> [u'01KU26p6U6aik']	0
+where is the nra headquarters located?	24	national rifle association --> organization founders --> [u'George Wood Wingate', u'William Conant Church']	3
+where is the nra headquarters located?	24	national rifle association --> webpage category --> [u'Topic Webpage', u'Official Website']	0
+where is the nra headquarters located?	24	national rifle association --> organization board membership to --> [u'2007']	0
+where is the nra headquarters located?	24	national rifle association --> organization board membership from --> [u'1983', u'2001']	0
+where is the nra headquarters located?	24	national rifle association --> leadership title --> [u'President', u'CEO and Executive Vice President']	0
+where is the nra headquarters located?	24	national rifle association --> organization membership member --> [u'Sarah Palin', u'Bob Barr', u'Charlton Heston']	11
+where is the nra headquarters located?	24	national rifle association --> webpage description --> [u'New York Times']	0
+where is the nra headquarters located?	24	national rifle association --> ontology instance mapping ontology --> [u'OpenCyc']	0
+where is the nra headquarters located?	24	national rifle association --> webpage resource --> [u'New York Times']	0
+where is the nra headquarters located?	24	national rifle association --> leadership to --> [u'2011']	0
+where is the nra headquarters located?	24	national rifle association --> organization sectors --> [u'Civil and political rights']	0
+where is the nra headquarters located?	24	national rifle association --> leadership role --> [u'President', u'Chief Executive Officer']	0
+where is the nra headquarters located?	24	national rifle association --> leadership person --> [u'David Keene', u'Wayne LaPierre']	8
+where is the nra headquarters located?	24	national rifle association --> topic official website --> [u'http://www.nra.org/']	0
+where is the nra headquarters located?	24	national rifle association --> webpage uri --> [u'http://www.nra.org/', u'http://topics.nytimes.com/top/reference/timestopics/organizations/n/national_rifle_association/index.html']	0
+where is the nra headquarters located?	24	national rifle association --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvWEpi5wpEbGdrcN5Y29ycA']	0
+where is the nra headquarters located?	24	national rifle association --> organization board membership member --> [u'Bob Barr', u'Larry Craig', u'Joe Allbaugh']	1
+where is the nra headquarters located?	24	national rifle association --> topic topical webpage --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/n/national_rifle_association/index.html']	0
+where is the nra headquarters located?	24	national rifle association --> object name --> [u'National Rifle Association']	0
+where is the nra headquarters located?	24	headquarters --> object name --> [u'Headquarters']	0
+where is the nra headquarters located?	24	headquarters --> topic image --> [u'RFS HQ', u'ContinentalCenterAtNightHoustonTX', u'United Nations headquarters 2006-06-21']	0
+where is the nra headquarters located?	24	headquarters --> type of fictional setting settings --> [u'Rankan Mageguild', u'Sanctuary Mageguild']	0

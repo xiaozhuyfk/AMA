@@ -1,0 +1,345 @@
+what type of government does the us follow?	93161	government --> equivalent topic equivalent domain --> [u'Government']	0
+what type of government does the us follow?	93161	government --> taxonomy entry high --> [u'619', u'9593']	0
+what type of government does the us follow?	93161	government --> vocabulary equivalent topic equivalent concept --> [u'Government']	0
+what type of government does the us follow?	93161	government --> organization sector organizations in this sector --> [u'TERMINALFOUR', u'Worksafe', u'Ministry of Information']	0
+what type of government does the us follow?	93161	government --> taxonomy entry prefix --> [u'JF', u'JK']	0
+what type of government does the us follow?	93161	government --> education end date --> [u'1958', u'1965', u'1970', u'1977', u'1978']	0
+what type of government does the us follow?	93161	government --> building function buildings --> [u'United States Capitol', u'Building 257', u'Six World Trade Center', u'Senedd', u'Building 101']	0
+what type of government does the us follow?	93161	government --> education institution --> [u'University of Queensland', u'Harvard College', u'Columbia University', u'Ateneo de Manila University', u'Dartmouth College']	0
+what type of government does the us follow?	93161	government --> ontology instance mapping ontology --> [u'OpenCyc']	0
+what type of government does the us follow?	93161	government --> webpage resource --> [u"Quote of the Day: 'Star Wars' social justice edition", u"'Air Hostess Wars' reaches flying altitude of 32,000 feet higher/better than 'Dance War'", u'Sacha Baron Cohen tells David Letterman how to find a terrorist', u'And on the 7th day, Jack Bauer rested', u"Michael Jackson: Genius? Yes. Government-sanctioned 'icon'? No."]	0
+what type of government does the us follow?	93161	government --> education start date --> [u'1954', u'1961', u'1969', u'1984']	0
+what type of government does the us follow?	93161	government --> education student --> [u'Dean Barnett', u'Victor Sumulong', u'Neal Katyal', u'Rob Allyn', u'Morton Halperin']	0
+what type of government does the us follow?	93161	government --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what type of government does the us follow?	93161	government --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what type of government does the us follow?	93161	government --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwCAhkHseQdeRivkpwzBa0Q']	0
+what type of government does the us follow?	93161	government --> taxonomy entry low --> [u'201', u'2403']	0
+what type of government does the us follow?	93161	government --> education major field of study --> [u'History', u'Theatre', u'Business', u'Fine art']	13
+what type of government does the us follow?	93161	government --> periodical subject periodicals --> [u'Federal Computer Week']	0
+what type of government does the us follow?	93161	government --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Doctorate', u'Master of Science', u'M.A.']	2
+what type of government does the us follow?	93161	government --> object name --> [u'Government']	0
+what type of government does the us follow?	93161	government --> topic image --> [u'Government-Vedder-Highsmith-detail-1g']	0
+what type of government does the us follow?	93161	government --> quotation subject quotations about this subject --> [u'The government is us; we are the government, you and I.', u'There is something to be said for government by a great aristocracy which has furnished leaders to the nation in peace and war for generations; even a democrat like myself must admit this. But there is absolutely nothing to be said for government by a plutocracy, for government by men very powerful in certain lines and gifted with the money touch, but with ideals which in their essence are merely those of so many glorified pawnbrokers.', u'Fear is the foundation of most government.', u'Governments need to have both shepherds and butchers.', u'Any cook should be able to run the country.']	0
+what type of government does the us follow?	93161	government --> equivalent topic equivalent type --> [u'Government']	0
+what type of government does the us follow?	93161	government --> book subject works --> [u'Canadas Trial Courts', u'Death Penalties', u'Veronica Guerin', u'Road work', u'The Mormon hierarchy']	0
+what type of government does the us follow?	93161	typeof --> object name --> [u'Typeof']	0
+what type of government does the us follow?	93161	united states of america --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
+what type of government does the us follow?	93161	united states of america --> government position held office position or title --> [u'United States Secretary of Defense', u'United States Secretary of Energy', u'United States Secretary of the Treasury', u'United States Secretary of Commerce', u'United States Representative']	22
+what type of government does the us follow?	93161	united states of america --> first achievement category --> [u'Female']	0
+what type of government does the us follow?	93161	united states of america --> bibs location loc type --> [u'Country']	0
+what type of government does the us follow?	93161	united states of america --> speech or presentation speech topic --> [u'Jewish population by country']	0
+what type of government does the us follow?	93161	united states of america --> countries planet --> [u'Earth']	20
+what type of government does the us follow?	93161	united states of america --> government position held office position or title --> [u'Vice President', u'President of the United States']	335
+what type of government does the us follow?	93161	united states of america --> casualties combatant --> [u'Australia', u'New Zealand']	2245
+what type of government does the us follow?	93161	united states of america --> dated percentage rate --> [u'0.796411', u'1.176189', u'1.736046', u'2.279402', u'4.869119']	0
+what type of government does the us follow?	93161	united states of america --> force strength combatant --> [u'Thailand', u'Australia', u'New Zealand', u'South Korea', u'South Vietnam']	2664
+what type of government does the us follow?	93161	united states of america --> location partially contains --> [u'Caribou Mountain', u'Boundary Peak', u'Niagara Falls', u'Great Lakes', u'Rocky Mountains']	178
+what type of government does the us follow?	93161	united states of america --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what type of government does the us follow?	93161	united states of america --> geographic scope charities --> [u"Starlight Children's Foundation", u'American Society for the Prevention of Cruelty to Animals']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
+what type of government does the us follow?	93161	united states of america --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of government does the us follow?	93161	united states of america --> military combatant military conflicts --> [u'United States Volunteers']	1
+what type of government does the us follow?	93161	united states of america --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of government does the us follow?	93161	united states of america --> taxonomy entry prefix --> [u'G', u'E', u'JS', u'JV', u'J']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> competitor competition relationship rank --> [u'1', u'2', u'3']	0
+what type of government does the us follow?	93161	united states of america --> location people born here --> [u'Pete Medd', u'Erica Bartolina', u'Raymond C. Kelly', u'Jason Stewart', u'Jed Hoyer']	0
+what type of government does the us follow?	93161	united states of america --> olympic medal honor medalist --> [u'John Collier', u'Terri Stickles', u'Walter Tomsen', u'Jimmy McLane', u'Donny Robinson']	0
+what type of government does the us follow?	93161	united states of america --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what type of government does the us follow?	93161	united states of america --> military command military conflict --> [u'Battle of Okinawa', u'Battle of Guam', u'World War II', u'Battle of Iwo Jima', u'Battle of Princeton']	812
+what type of government does the us follow?	93161	united states of america --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what type of government does the us follow?	93161	united states of america --> plaintiff lawsuits --> [u'United States v. Libby']	0
+what type of government does the us follow?	93161	united states of america --> dated kilowatt hour number --> [u'4049.787', u'4182.176', u'4433.606', u'4690.486', u'4970.446']	0
+what type of government does the us follow?	93161	united states of america --> imports exports by industry industry --> [u'Automotive industry', u'Industrial Organic Chemicals, NEC', u'Food', u'Pharmaceutical Preparation']	1
+what type of government does the us follow?	93161	united states of america --> country fips  --> [u'US']	0
+what type of government does the us follow?	93161	united states of america --> force strength resource --> [u'Personnel']	0
+what type of government does the us follow?	93161	united states of america --> ambassadorial tenure ambassador --> [u'Laurence W. Lane Jr.', u'Whitelaw Reid', u'John Cooper Wiley']	1
+what type of government does the us follow?	93161	united states of america --> location containedby --> [u'Americas', u'United States, with Territories', u'DVD Region 1']	48
+what type of government does the us follow?	93161	united states of america --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of government does the us follow?	93161	united states of america --> location partially containedby --> [u'North America', u'Pacific Ocean']	499
+what type of government does the us follow?	93161	united states of america --> countries counties within --> [u'St. Clair County']	4
+what type of government does the us follow?	93161	united states of america --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Water polo', u'Cycling', u'Cross-country skiing']	121
+what type of government does the us follow?	93161	united states of america --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	1
+what type of government does the us follow?	93161	united states of america --> organization membership organization --> [u'World Bank', u'G-20 major economies', u'Secretariat of the Pacific Community', u'Organisation for Economic Co-operation and Development', u'North Atlantic Treaty Organization (NATO)']	133
+what type of government does the us follow?	93161	united states of america --> imports and exports exported to --> [u'Belgium', u'Brazil', u'Germany', u'Japan', u'Netherlands']	3859
+what type of government does the us follow?	93161	united states of america --> countries places within --> [u'Oak Hill']	0
+what type of government does the us follow?	93161	united states of america --> fictional setting fictional characters born here --> [u'Maggie Simpson', u'Guile', u'Lisa Simpson', u'Bart Simpson', u'Baby Hope']	1
+what type of government does the us follow?	93161	united states of america --> imports and exports date --> [u'2005', u'2008', u'2009']	0
+what type of government does the us follow?	93161	united states of america --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
+what type of government does the us follow?	93161	united states of america --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics']	59
+what type of government does the us follow?	93161	united states of america --> dated percentage source --> [u'Bureau of Labor Statistics, Unemployment in US']	0
+what type of government does the us follow?	93161	united states of america --> national anthem of a country official anthem since --> [u'1931-03-03']	0
+what type of government does the us follow?	93161	united states of america --> military command military commander --> [u'William Henry Harrison', u'George Washington', u'David Petraeus', u'Gerald Ford', u'William Carroll']	58
+what type of government does the us follow?	93161	united states of america --> united nations body membership body --> [u'United Nations Security Council']	30
+what type of government does the us follow?	93161	united states of america --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what type of government does the us follow?	93161	united states of america --> administrative area adjectival form --> [u'U.S.']	0
+what type of government does the us follow?	93161	united states of america --> criminal conviction sentence type --> [u'Capital punishment']	4
+what type of government does the us follow?	93161	united states of america --> recurring money value currency --> [u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> ambassadorial tenure to countries --> [u'Iran', u'United Kingdom', u'Australia', u'Colombia', u'Portugal']	5657
+what type of government does the us follow?	93161	united states of america --> bibs location is clear --> [u'0']	0
+what type of government does the us follow?	93161	united states of america --> competitor competition relationship competitors --> [u'Olga Kaniskina', u'Lionel Larry', u'Allison Schmitt', u'Dana Vollmer', u'Trey Hardee']	0
+what type of government does the us follow?	93161	united states of america --> olympic medal honor event --> [u"Athletics at the 1904 Summer Olympics \u2013 Men's 400 metres", u"Swimming at the 1988 Summer Olympics \u2013 Men's 100 metre backstroke", u"Athletics at the 1928 Summer Olympics \u2013 Men's 110 metre hurdles", u"Swimming at the 2000 Summer Olympics \u2013 Women's 100 metre breaststroke", u"Archery at the 1996 Summer Olympics \u2013 Men's individual"]	0
+what type of government does the us follow?	93161	united states of america --> olympic participating country olympics participated in --> [u'2012 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	249
+what type of government does the us follow?	93161	united states of america --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
+what type of government does the us follow?	93161	united states of america --> documented priority species priority level --> [u'Endangered', u'Priority 3', u'ESA Candidate', u'Threatened', u'Priority 5']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> ambassadorial tenure from date --> [u'1985', u'1944-09-21', u'1951-06-20', u'1948-02-26', u'1947-04-10']	0
+what type of government does the us follow?	93161	united states of america --> quotation subject quotations about this subject --> [u'The things that will destroy America are prosperity-at-any-price, peace-at-any-price, safety-first instead of duty-first, the love of soft living, and the get-rich-quick theory of life.', u'I always consider the settlement of America with reverence and wonder, as the opening of a grand scene and design in providence, for the illumination of the ignorant and the emancipation of the slavish part of mankind all over the earth.', u'The youth of America is their oldest tradition. It has been going on now for three hundred years.', u'""The fact that an African American sits in the White House at the helm of government in the United States of America on this 150th anniversary of Abraham Lincoln\u2019s Emancipation Proclamation represents both phenomenal political symbolism and a victory of faith in democracy that should not be lost on any American. ""', u'""The job facing American voters\u2026 in the days and years to come, is to determine which hearts, minds, and souls command those qualities best suited to unify a country rather than further divide it, to heal the wounds of a nation as opposed to aggravate its injuries, and to secure for the next generation a legacy of choices based on informed awareness rather than one of reactions based on unknowing fear.""']	0
+what type of government does the us follow?	93161	united states of america --> database topic database s for this topic --> [u'Data.gov']	0
+what type of government does the us follow?	93161	united states of america --> processed with review queue internal question id --> [u'rabj/store/questions/question_7d8df75689dafe2e']	0
+what type of government does the us follow?	93161	united states of america --> organization scope organizations with this scope --> [u'American 3rd Party', u'Paper, Allied-Industrial, Chemical and Energy Workers International Union', u'Communist Party USA', u'Western Federation of Miners', u'Brotherhood of Locomotive Firemen and Enginemen']	1
+what type of government does the us follow?	93161	united states of america --> sharing relationship method --> [u'Giving', u'Lending', u'Renting']	1
+what type of government does the us follow?	93161	united states of america --> country first level divisions --> [u'California', u'Idaho', u'Illinois', u'Kentucky', u'Louisiana']	9431
+what type of government does the us follow?	93161	united states of america --> administrative area subdivides place --> [u'United States, with Territories']	0
+what type of government does the us follow?	93161	united states of america --> imports and exports date --> [u'2004', u'2006', u'2008', u'2009']	0
+what type of government does the us follow?	93161	united states of america --> competitor competition --> [u"2010 America's Cup", u"1876 America's Cup", u'1851 Americas Cup']	0
+what type of government does the us follow?	93161	united states of america --> country languages spoken --> [u'North\u2013Central American English', u'Spanish Language', u'American English', u'Western Abnaki language', u'Hawaiian language']	120
+what type of government does the us follow?	93161	united states of america --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
+what type of government does the us follow?	93161	united states of america --> olympic athlete affiliation athlete --> [u'Erica Bartolina', u'Nicole Teter', u'Donny Robinson', u'Bruce Harlan', u'Carrie Howe']	0
+what type of government does the us follow?	93161	united states of america --> competitor country relationship competitor --> [u'Bonnie St. John', u'Joshua Olson', u'Kenny Monday']	0
+what type of government does the us follow?	93161	united states of america --> country calling code --> [u'1']	0
+what type of government does the us follow?	93161	united states of america --> adjoining relationship adjoins --> [u'Pacific Ocean', u'Mexico', u'Canada', u'Atlantic Ocean', u'Gulf of Mexico']	6743
+what type of government does the us follow?	93161	united states of america --> competitor owner --> [u'Oracle Team USA', u'John Stiles Dickerson', u'John Cox Stevens']	0
+what type of government does the us follow?	93161	united states of america --> athletics championships competition athlete relationship event --> [u"2007 World Championships in Athletics \u2013 Men's 200 metres", u"2007 World Championships in Athletics \u2013 Men's 1500 metres", u"2007 World Championships in Athletics \u2013 Men's 5000 metres", u"2007 World Championships in Athletics \u2013 Men's 100 metres", u"2007 World Championships in Athletics \u2013 Men's long jump"]	0
+what type of government does the us follow?	93161	united states of america --> dated percentage date --> [u'1948-08', u'1951-01', u'1959-07', u'1960-08', u'1964-06']	0
+what type of government does the us follow?	93161	united states of america --> athletics championships competition athlete relationship athlete s --> [u'Jeremy Wariner', u'Dwight Phillips', u'Wallace Spearmon', u'Tyson Gay', u'LaShawn Merritt']	6
+what type of government does the us follow?	93161	united states of america --> geocode longitude --> [u'-98.7372244786']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1964 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics']	59
+what type of government does the us follow?	93161	united states of america --> government position held basic title --> [u'President']	34
+what type of government does the us follow?	93161	united states of america --> organization relationship as of date --> [u'2008']	0
+what type of government does the us follow?	93161	united states of america --> countries cities within --> [u'Belleville']	7
+what type of government does the us follow?	93161	united states of america --> united nations body membership from --> [u'1946-01-17']	0
+what type of government does the us follow?	93161	united states of america --> context name nickname --> [u'United States', u'USA']	0
+what type of government does the us follow?	93161	united states of america --> organization founder organizations founded --> [u'UNESCO', u'United Nations']	237
+what type of government does the us follow?	93161	united states of america --> abbreviated topic complete name --> [u'United States of America']	0
+what type of government does the us follow?	93161	united states of america --> thoroughbred racehorse origin horses from this location --> [u'Americain', u'Perfect Sting', u'Cara Rafaela', u'Brass Hat', u'Macbeth II']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage rate --> [u'3.020847', u'3.047814', u'3.055951', u'3.137833', u'3.346745']	0
+what type of government does the us follow?	93161	united states of america --> government position held office holder --> [u'Lynn Schenk', u'Peter G. Van Winkle', u'Henry B. Payne', u'Walter Huddleston', u'John W. Thomas']	0
+what type of government does the us follow?	93161	united states of america --> imports and exports imported from --> [u'Nepal', u'Germany', u'Japan', u'Italy', u'Scotland']	3547
+what type of government does the us follow?	93161	united states of america --> olympic participating country ioc code --> [u'USA']	0
+what type of government does the us follow?	93161	united states of america --> athletics championships competition athlete relationship rank --> [u'1', u'2', u'3', u'4', u'8']	0
+what type of government does the us follow?	93161	united states of america --> competitor sponsoring club --> [u'Golden Gate Yacht Club', u'New York Yacht Club']	1
+what type of government does the us follow?	93161	united states of america --> asset ownership owned asset --> [u'African Development Fund']	0
+what type of government does the us follow?	93161	united states of america --> dated kgoe number --> [u'5612.053', u'5641.735', u'5774.613', u'5986.795', u'6136.961']	0
+what type of government does the us follow?	93161	united states of america --> country currency used --> [u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> dated float number --> [u'1.738', u'1.76', u'1.774', u'1.79', u'1.799']	0
+what type of government does the us follow?	93161	united states of america --> government position held from --> [u'1893', u'1950', u'1885', u'1897-03-04', u'2001-01-20']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> country iso  shortname --> [u'UNITED STATES']	0
+what type of government does the us follow?	93161	united states of america --> naval engagement participation naval engagement --> [u'Battle of Midway', u'Java vs Constitution', u'Battle of Boston Harbor', u'Sinking of HMS Peacock']	0
+what type of government does the us follow?	93161	united states of america --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
+what type of government does the us follow?	93161	united states of america --> radio subject programs with this subject --> [u'Letter from America']	0
+what type of government does the us follow?	93161	united states of america --> cyclone affected area cyclones --> [u'Hurricane Dora', u'Tropical Storm Beryl', u'Hurricane Lester', u'Hurricane Irene\u2013Olivia', u'Hurricane Jerry']	2
+what type of government does the us follow?	93161	united states of america --> nuclear power nuclear tests --> [u'Boltzmann', u'Trinity', u'Reactor-grade plutonium', u'Sedan']	1
+what type of government does the us follow?	93161	united states of america --> first achievement achievement --> [u'Businessperson', u'Governor', u'Struck by car', u'Millionaire']	27
+what type of government does the us follow?	93161	united states of america --> breed origin breeds originating here --> [u'Minskin', u'Bluetick Coonhound', u'Renascence Bulldogge', u'American Staffordshire Terrier', u'Atlas Terrier']	1
+what type of government does the us follow?	93161	united states of america --> athletics championships competition athlete relationship championships --> [u'2007 World Championships in Athletics']	0
+what type of government does the us follow?	93161	united states of america --> dated integer source --> [u'United States Census Bureau, Population', u'World Bank, World Development Indicators, Population']	0
+what type of government does the us follow?	93161	united states of america --> newspaper circulation area newspapers --> [u'Stars and Stripes', u"Investor's Business Daily", u'The Washington Times', u'Willamette Week', u'Gazette of the United States']	2
+what type of government does the us follow?	93161	united states of america --> adjusted money value adjusted value --> [u'3.73785e+12', u'3.86709e+12', u'4.08062e+12', u'4.29095e+12', u'4.29937e+12']	0
+what type of government does the us follow?	93161	united states of america --> focal location conservation plan s --> [u'United States Shorebird Conservation Plan']	0
+what type of government does the us follow?	93161	united states of america --> adjusted money value adjustment currency --> [u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> government position held legislative sessions --> [u'1st United States Congress', u'43rd United States Congress', u'41st United States Congress', u'42nd United States Congress', u'35th United States Congress']	1
+what type of government does the us follow?	93161	united states of america --> asset ownership percentage ownership --> [u'6.5']	0
+what type of government does the us follow?	93161	united states of america --> ambassadorial tenure to date --> [u'1912', u'1989', u'1953-11-27', u'1948-03-15', u'1947-05-03']	0
+what type of government does the us follow?	93161	united states of america --> fgdc location keyword metadata location records --> [u'2001 National Land Cover Data metadata']	0
+what type of government does the us follow?	93161	united states of america --> administrative area administrative parent --> [u'United States, with Territories']	0
+what type of government does the us follow?	93161	united states of america --> location in fiction contains --> [u'Drekka stronghold', u'Kansas', u'Sandia']	1238
+what type of government does the us follow?	93161	united states of america --> topic official website --> [u'http://www.usa.gov/']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> flag use flag --> [u'Flag of the United States']	7
+what type of government does the us follow?	93161	united states of america --> country second level divisions --> [u'Custer County', u'Hamilton County', u'Sanborn County', u'St. Louis', u'Queens']	175
+what type of government does the us follow?	93161	united states of america --> book subject musical compositions about this topic --> [u'American Anthem']	0
+what type of government does the us follow?	93161	united states of america --> sports team location teams --> [u"United States men's national Australian rules football team", u"United States women's national soccer team", u'Team Garmin-Barracuda', u"United States men's national soccer team", u"United States National Men's Hockey Team"]	23
+what type of government does the us follow?	93161	united states of america --> force strength force size --> [u'101', u'29950', u'70000', u'120000', u'1200000']	0
+what type of government does the us follow?	93161	united states of america --> sharing relationship shares --> [u'Parking space', u'Object']	0
+what type of government does the us follow?	93161	united states of america --> force strength military conflict --> [u'Battle of Iwo Jima', u'Vietnam War', u'War in Afghanistan (2001\u2013present)', u'Quasi-War', u'Tet Offensive']	179
+what type of government does the us follow?	93161	united states of america --> documented priority species source --> [u'Birds of Conservation Concern 2008', u'Endangered and Threatened Wildlife and Plants; Review of Native  Species That Are Candidates for Listing as Endangered or Threatened;  Annual Notice of Findings on Resubmitted Petitions; Annual Description  of Progress on Listing Actions', u'Endangered and Threatened Wildlife and Plants; Review of Native Species  That Are Candidates for Listing as Endangered or Threatened; Annual  Notice of Findings on Resubmitted Petitions; Annual Description of  Progress on Listing Actions; Proposed Rule', u'Endangered and Threatened Wildlife and Plants: Threatened Status for the Florida Scrub Jay', u'Endangered and Threatened Wildlife and Plants; Determination of Threatened Status for the Northern Population of the Copperbelly Water Snake']	0
+what type of government does the us follow?	93161	united states of america --> film subject films --> [u'Capitalism: A Love Story', u'Easy Rider', u'Prozac Nation', u'America Home of the Brave']	0
+what type of government does the us follow?	93161	united states of america --> event feed format --> [u'.ics']	0
+what type of government does the us follow?	93161	united states of america --> dated location joining joined by --> [u'Republic of Hawaii']	2
+what type of government does the us follow?	93161	united states of america --> location primarily containedby --> [u'North America']	373
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> place of interment interred here --> [u'William Greer', u'Eric G. Hall', u'Orde Wingate', u'George Dayton', u'Ruby Moore Hardy']	0
+what type of government does the us follow?	93161	united states of america --> government position held appointed by --> [u'Harry S. Truman']	17
+what type of government does the us follow?	93161	united states of america --> abbreviated topic abbreviations --> [u'US', u'USA', u'U.S.A.', u'U.S.', u'US of A']	0
+what type of government does the us follow?	93161	united states of america --> exhibition subject exhibitions created about this subject --> [u'II Americka', u'Savannah, Immortal City Photography Exhibit']	0
+what type of government does the us follow?	93161	united states of america --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of government does the us follow?	93161	united states of america --> nuclear power nuclear test series --> [u'Operation Praetorian', u'Operation Sunbeam', u'Operation Crossroads', u'Operation Fusileer', u'Operation Ivy']	3
+what type of government does the us follow?	93161	united states of america --> area served farms --> [u'Veldhuizen Family Farm']	0
+what type of government does the us follow?	93161	united states of america --> rival rivals --> [u'Space Race', u'US vs. USSR']	12
+what type of government does the us follow?	93161	united states of america --> competitor competition relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	1
+what type of government does the us follow?	93161	united states of america --> location adjectival form --> [u'American']	0
+what type of government does the us follow?	93161	united states of america --> religion percentage percentage --> [u'0.1', u'0.3', u'0.5', u'0.6', u'1.4']	0
+what type of government does the us follow?	93161	united states of america --> dated location joining date --> [u'1898-07-07']	0
+what type of government does the us follow?	93161	united states of america --> government position held basic title --> [u'President', u'Vice President', u'Cabinet Secretary', u'Member of Congress', u'Attorney general']	38
+what type of government does the us follow?	93161	united states of america --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
+what type of government does the us follow?	93161	united states of america --> dated metric ton number --> [u'15.681256', u'15.999779', u'16.013937', u'16.482762', u'16.968119']	0
+what type of government does the us follow?	93161	united states of america --> casualties lower estimate --> [u'1', u'18', u'21', u'35', u'57']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
+what type of government does the us follow?	93161	united states of america --> context name abbreviation --> [u'USA']	0
+what type of government does the us follow?	93161	united states of america --> imports and exports amount --> [u'3610000000', u'10400000000', u'10800000000', u'12000000000', u'12100000000']	0
+what type of government does the us follow?	93161	united states of america --> countries continent --> [u'North America']	373
+what type of government does the us follow?	93161	united states of america --> casualties military conflict --> [u'World War II', u'Battle of Iwo Jima', u'Attack on Pearl Harbor', u'Vietnam War', u'World War I']	1229
+what type of government does the us follow?	93161	united states of america --> administrative area subdividing type --> [u'U.S. state', u'U.S. federal district']	0
+what type of government does the us follow?	93161	united states of america --> government position held to --> [u'1898', u'1910', u'1911', u'1915', u'1921']	0
+what type of government does the us follow?	93161	united states of america --> market area newspaper --> [u'USA Today']	11
+what type of government does the us follow?	93161	united states of america --> webpage category --> [u'Tag', u'Topic Equivalent']	0
+what type of government does the us follow?	93161	united states of america --> sharing relationship system --> [u'Acts Of Sharing', u'ParkatmyHouse', u'Givmo']	0
+what type of government does the us follow?	93161	united states of america --> linguistic hint adjectival form --> [u'American']	0
+what type of government does the us follow?	93161	united states of america --> military combatant group conflict --> [u"Battle of Sayler's Creek", u'First Battle of Petersburg', u"Battle of Peebles's Farm", u'Battle of Boydton Plank Road', u'Battle of Rhode Island']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage rate --> [u'-3.527472', u'-1.980248', u'-0.519326', u'-0.359088', u'-0.287282']	0
+what type of government does the us follow?	93161	united states of america --> country capital --> [u'Washington, D.C.']	720
+what type of government does the us follow?	93161	united states of america --> webpage uri --> [u'http://statoids.com/uus.html']	0
+what type of government does the us follow?	93161	united states of america --> adjusted money value measurement date --> [u'1970', u'1971', u'1972', u'1973', u'1974']	0
+what type of government does the us follow?	93161	united states of america --> quotation addressee quotations --> [u'""Where humanity sowed faith, hope, and unity, Joy\u2019s garden blossomed.""']	0
+what type of government does the us follow?	93161	united states of america --> documented priority species taxa --> [u"Kirtland's Warbler", u'Spotless Crake', u'Nene', u'Florida Scrub Jay', u'`Akek`ee']	0
+what type of government does the us follow?	93161	united states of america --> employment tenure person --> [u'Thomas Jefferson', u'John Adams']	36
+what type of government does the us follow?	93161	united states of america --> speech or presentation event --> [u'First Zionist Congress - First Day - Afternoon Session']	0
+what type of government does the us follow?	93161	united states of america --> competitor yacht --> [u'America', u'USA 17', u'Madeleine']	0
+what type of government does the us follow?	93161	united states of america --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what type of government does the us follow?	93161	united states of america --> fictional setting universe --> [u"JoJo's Bizarre Adventure"]	0
+what type of government does the us follow?	93161	united states of america --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
+what type of government does the us follow?	93161	united states of america --> imports exports by industry industry --> [u'Automotive industry', u'Petroleum industry', u'Furniture', u'Clothing', u'Pharmaceutical Preparation']	5
+what type of government does the us follow?	93161	united states of america --> vocabulary equivalent topic narrower concept --> [u'United States--Economic conditions--1961-1971']	0
+what type of government does the us follow?	93161	united states of america --> beer country region beers from here --> [u'Coors Keystone Ice', u'Blue Moon Brewing Company Harvest Moon Pumpkin Ale', u"Olde Heurich's Foggy Bottom Ale", u'Anderson Valley Winter Solstice Seasonal Ale', u'Bridgeport Brewery Black Strap Stout']	0
+what type of government does the us follow?	93161	united states of america --> religion percentage date --> [u'2001']	0
+what type of government does the us follow?	93161	united states of america --> employment tenure from --> [u'1797-03-04', u'1801-03-04', u'1789-04-30']	0
+what type of government does the us follow?	93161	united states of america --> athletics championships competition athlete relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	1
+what type of government does the us follow?	93161	united states of america --> dated money value valid date --> [u'1929', u'1930', u'1931', u'1932', u'1933']	0
+what type of government does the us follow?	93161	united states of america --> valuenotation has no value --> [u'Date dissolved']	0
+what type of government does the us follow?	93161	united states of america --> government position held to --> [u'1897', u'1952', u'1889', u'1909-03-04', u'1881-03-04']	0
+what type of government does the us follow?	93161	united states of america --> criminal conviction crime commited --> [u'Spying']	0
+what type of government does the us follow?	93161	united states of america --> governmental jurisdiction governing officials --> [u'Mark Takano']	0
+what type of government does the us follow?	93161	united states of america --> name source namesakes --> [u'916 America']	0
+what type of government does the us follow?	93161	united states of america --> dated money value valid date --> [u'1929', u'1930', u'1931', u'1932', u'1933']	0
+what type of government does the us follow?	93161	united states of america --> dated money value amount --> [u'449', u'470', u'522', u'576', u'616']	0
+what type of government does the us follow?	93161	united states of america --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead', u'Civilian - Dead', u'Military - MIA', u'Civilian - Wounded']	0
+what type of government does the us follow?	93161	united states of america --> type profile instance count --> [u'1']	0
+what type of government does the us follow?	93161	united states of america --> geographical scope conferences and conventions with this geographic scope --> [u'Republican National Convention']	2
+what type of government does the us follow?	93161	united states of america --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
+what type of government does the us follow?	93161	united states of america --> imports and exports currency --> [u'United States dollar', u'UK \xa3', u'Canadian dollar']	83
+what type of government does the us follow?	93161	united states of america --> computer game region versions released in this region --> [u'The Adventures of Rad Gravity', u'LEGO Pirates of the Caribbean: The Video Game', u'Virtua Tennis 4', u'Ape Escape 3', u'LEGO Pirates of the Caribbean: The Video Game']	0
+what type of government does the us follow?	93161	united states of america --> administrative area short name --> [u'us']	0
+what type of government does the us follow?	93161	united states of america --> inspiration inspiration for --> [u'""History dressed up in the glow of love\u2019s kiss turned grief into beauty.""']	0
+what type of government does the us follow?	93161	united states of america --> governmental jurisdiction government bodies --> [u'United States National Commission for the United Nations Educational, Scientific and Cultural Organization', u'United States federal courts', u'Supreme Court of the United States', u'United States House of Representatives', u'United States Senate']	678
+what type of government does the us follow?	93161	united states of america --> context name short name --> [u'United States']	0
+what type of government does the us follow?	93161	united states of america --> dated location date founded --> [u'1776-07-04']	0
+what type of government does the us follow?	93161	united states of america --> religion percentage religion --> [u'Judaism', u'Hinduism', u'Buddhism', u'Islam', u'Christianity']	99
+what type of government does the us follow?	93161	united states of america --> country form of government --> [u'Presidential system', u'Federal republic', u'Constitutional republic']	4
+what type of government does the us follow?	93161	united states of america --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Women's 400 metres hurdles", u"2007 World Championships in Athletics \u2013 Men's 200 metres", u"2007 World Championships in Athletics \u2013 Men's 4 \xd7 100 metres relay", u"2009 World Championships in Athletics \u2013 Men's 100 metres", u"2009 World Championships in Athletics \u2013 Women's 3000 metres steeplechase"]	0
+what type of government does the us follow?	93161	united states of america --> competitor country relationship sports --> [u'Alpine skiing', u'Shooting sport', u'Freestyle wrestling']	38
+what type of government does the us follow?	93161	united states of america --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
+what type of government does the us follow?	93161	united states of america --> adjusted money value adjustment date --> [u'2000']	0
+what type of government does the us follow?	93161	united states of america --> book subject works --> [u'Staging femininities', u'From Sea to Shining Sea', u'Americans at war', u'Arms and men', u'Fortress America: The American Military and the Consequences of Peace']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage rate --> [u'2.5', u'2.6', u'2.7', u'2.8', u'2.9']	0
+what type of government does the us follow?	93161	united states of america --> countries states provinces within --> [u'California', u'Idaho', u'Illinois', u'Kentucky', u'Louisiana']	9431
+what type of government does the us follow?	93161	united states of america --> speech or presentation speaker s --> [u'Adam Rosenberg']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> government position held appointed by --> [u'James Monroe', u'William Henry Harrison', u'James A. Garfield', u'Franklin D. Roosevelt', u'George Washington']	86
+what type of government does the us follow?	93161	united states of america --> travel destination tourist attractions --> [u'Augusta National Golf Club', u'Alcatraz Island']	5
+what type of government does the us follow?	93161	united states of america --> location contains --> [u'Glen Dale', u'Laurens', u'Laurens', u'Milford', u'Milford']	0
+what type of government does the us follow?	93161	united states of america --> topic alias --> [u'America', u'US', u'United States', u'USA', u'U.S.A.']	0
+what type of government does the us follow?	93161	united states of america --> flag use from date --> [u'1960-07-04']	0
+what type of government does the us follow?	93161	united states of america --> court jurisdiction area courts --> [u'Supreme Court of the United States']	74
+what type of government does the us follow?	93161	united states of america --> fictional setting characters that have lived here --> [u'Alek Petrov']	0
+what type of government does the us follow?	93161	united states of america --> naval engagement participation ship --> [u'USS Constitution', u'USS Chesapeake', u'USS Yorktown', u'USS Hornet']	0
+what type of government does the us follow?	93161	united states of america --> cryptid area of occurrence cryptid s found here --> [u'Chupacabra', u'Thunderbird', u'Bigfoot', u'Sewer alligator']	2
+what type of government does the us follow?	93161	united states of america --> organization membership from --> [u'1999', u'1945-10-24', u'1943-11-09']	0
+what type of government does the us follow?	93161	united states of america --> united nations body membership permanent --> [u'1']	0
+what type of government does the us follow?	93161	united states of america --> location area --> [u'9826675']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
+what type of government does the us follow?	93161	united states of america --> government position held office holder --> [u'William Henry Harrison', u'James A. Garfield', u'William Howard Taft', u'Thomas Jefferson', u'Theodore Roosevelt']	60
+what type of government does the us follow?	93161	united states of america --> recurring money value frequency --> [u'Hour']	0
+what type of government does the us follow?	93161	united states of america --> imports and exports currency --> [u'United States dollar', u'Canadian dollar']	83
+what type of government does the us follow?	93161	united states of america --> sharing relationship locations --> [u'Ireland', u'Netherlands', u'United Kingdom', u'Canada', u'New Zealand']	9029
+what type of government does the us follow?	93161	united states of america --> recurring money value amount --> [u'5.85', u'6.55', u'7.25']	0
+what type of government does the us follow?	93161	united states of america --> country internet tld --> [u'mil', u'edu', u'gov', u'us']	6
+what type of government does the us follow?	93161	united states of america --> government position held district represented --> [u'California', u'Idaho', u'Illinois', u'Kentucky', u'Louisiana']	9431
+what type of government does the us follow?	93161	united states of america --> force strength date --> [u'1968']	0
+what type of government does the us follow?	93161	united states of america --> military combatant belongs to combatant group --> [u'Allies of World War II']	54
+what type of government does the us follow?	93161	united states of america --> governmental jurisdiction agencies --> [u'National Biological Information Infrastructure', u'U.S. Chemical Safety and Hazard Investigation Board', u'Postal Regulatory Commission', u'Board of Immigration Appeals', u'Administration for Children and Families']	0
+what type of government does the us follow?	93161	united states of america --> aircraft ownership count aircraft model --> [u'Lockheed EC-130', u'Gulfstream III', u'Nieuport 21']	0
+what type of government does the us follow?	93161	united states of america --> country administrative divisions --> [u'Chicago', u'Boston', u'California', u'New York City', u'Idaho']	7510
+what type of government does the us follow?	93161	united states of america --> first achievement first --> [u'George Washington', u'Henry H. Bliss', u'Nellie Tayloe Ross', u'Madam C. J. Walker']	41
+what type of government does the us follow?	93161	united states of america --> competitor competition relationship tournament --> [u'2007 World Championships in Athletics', u'2009 World Championships in Athletics', u'1984 Winter Paralympics', u'2009 World Aquatics Championships', u'2008 IAAF World Indoor Championships']	0
+what type of government does the us follow?	93161	united states of america --> dated float number --> [u'69.771', u'69.917', u'69.951', u'70.12', u'70.166']	0
+what type of government does the us follow?	93161	united states of america --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
+what type of government does the us follow?	93161	united states of america --> administrative area pertinent type --> [u'U.S. state', u'U.S. county', u'U.S. independent city', u'U.S. federal district']	0
+what type of government does the us follow?	93161	united states of america --> location time zones --> [u'Central Time Zone', u'Eastern Time Zone', u'Mountain Time Zone', u'Pacific Time Zone', u'UTC\u221207:00']	9
+what type of government does the us follow?	93161	united states of america --> administrative area administrative area type --> [u'Sovereign state']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
+what type of government does the us follow?	93161	united states of america --> employment tenure to --> [u'1797-03-04', u'1801-03-04', u'1809-03-04']	0
+what type of government does the us follow?	93161	united states of america --> dated money value amount --> [u'12130', u'13510', u'14070', u'14950', u'16560']	0
+what type of government does the us follow?	93161	united states of america --> webpage resource --> [u"Toronto: The buzz film 'Collapse' showcases a gripping pundit of economic doom", u'Ted Kennedy, A Pop Culture Tribute', u'Real-Life \u201cPhilanthropist\u201d Speaks Up', u'Henry Louis Gates Premieres \u201cFaces of America,\u201d Finds Out He\u2019s Related to Regis Philbin', u"Why was 'American Dreamz' voted out of theaters?"]	0
+what type of government does the us follow?	93161	united states of america --> topic exceptions --> [u'US Federal District is not suited to be the administrative division type for U.S. Federal District.']	0
+what type of government does the us follow?	93161	united states of america --> film location featured in films --> [u'Josh Kirby, Time Warrior: Planet of the Dino Knights', u'Dogs', u'Maniac', u'Have Tig at Your Party', u'Shakespeare Behind Bars']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> taxonomy entry high --> [u'98', u'887', u'1534.24', u'1583', u'4383']	0
+what type of government does the us follow?	93161	united states of america --> government position held governmental body --> [u'United States Department of State', u'Federal Deposit Insurance Corporation', u'United States House of Representatives', u'United States Senate', u'Executive Office of the President of the United States']	650
+what type of government does the us follow?	93161	united states of america --> sport country multi event tournaments participated in --> [u'2007 World Championships in Athletics', u'2012 World Mountain Running Championships', u'1991 Pan American Games']	4
+what type of government does the us follow?	93161	united states of america --> naval engagement participation outcome --> [u'Survived', u'Destroyed']	0
+what type of government does the us follow?	93161	united states of america --> military combatant group combatants --> [u'Belgium', u'Brazil', u'Bulgaria', u'Germany', u'Italy']	2836
+what type of government does the us follow?	93161	united states of america --> dated integer number --> [u'3929214', u'5308483', u'7239881', u'9638453', u'12866020']	0
+what type of government does the us follow?	93161	united states of america --> imports and exports amount --> [u'1400000000', u'7200000000', u'8700000000', u'9200000000', u'9400000000']	0
+what type of government does the us follow?	93161	united states of america --> recurring money value date --> [u'2007-07-24', u'2008-07-24', u'2009-07-24']	0
+what type of government does the us follow?	93161	united states of america --> competitor skipper --> [u'Russell Coutts']	0
+what type of government does the us follow?	93161	united states of america --> fishery method --> [u'Fish farming']	0
+what type of government does the us follow?	93161	united states of america --> administrative division first level division of --> [u'United States, with Territories']	0
+what type of government does the us follow?	93161	united states of america --> geocode latitude --> [u'40.4230003233']	0
+what type of government does the us follow?	93161	united states of america --> location events --> [u'A New Hallelujah World Tour', u'Kellie Pickler 2009 Concert Tour', u'The Declaration Tour \u2013 2009', u'Believers Never Die Part Deux Tour', u'Sickology 101 Tour']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> focal location conservation project s --> [u'U.S. Nightjar Survey Network']	0
+what type of government does the us follow?	93161	united states of america --> tv location tv shows filmed here --> [u'Catfish: The TV Show', u'Zola Levitt Presents']	0
+what type of government does the us follow?	93161	united states of america --> governmental jurisdiction government --> [u'Federal government of the United States']	87
+what type of government does the us follow?	93161	united states of america --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
+what type of government does the us follow?	93161	united states of america --> dated percentage rate --> [u'0.72', u'0.84', u'0.86', u'0.87', u'0.88']	0
+what type of government does the us follow?	93161	united states of america --> taxonomy entry low --> [u'10', u'151', u'300', u'1200', u'3690']	0
+what type of government does the us follow?	93161	united states of america --> administrative area administrative children --> [u'California', u'Idaho', u'Illinois', u'Kentucky', u'Louisiana']	9431
+what type of government does the us follow?	93161	united states of america --> criminal conviction convicted person --> [u'John Andr\xe9']	0
+what type of government does the us follow?	93161	united states of america --> government position held from --> [u'1874', u'1903', u'1909', u'1911', u'1913']	0
+what type of government does the us follow?	93161	united states of america --> competitor country relationship tournament --> [u'2012 Summer Paralympics', u'1984 Winter Paralympics', u'1991 Pan American Games']	4
+what type of government does the us follow?	93161	united states of america --> olympic athlete affiliation athlete --> [u'Tim Hardaway']	0
+what type of government does the us follow?	93161	united states of america --> dated money value currency --> [u'United States dollar']	82
+what type of government does the us follow?	93161	united states of america --> dated money value amount --> [u'2.7564e+12', u'3.1002e+12', u'3.2595e+12', u'3.4942e+12', u'3.9052e+12']	0
+what type of government does the us follow?	93161	united states of america --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
+what type of government does the us follow?	93161	united states of america --> military combatant armed forces --> [u'United States Volunteers', u'United States Army', u'Rough Riders', u'1st Special Forces Operational Detachment-Delta']	178
+what type of government does the us follow?	93161	united states of america --> object name --> [u'United States of America']	0
+what type of government does the us follow?	93161	united states of america --> topic image --> [u'800px-Flag_of_the_United_States.svg.png', u'united-states.jpg']	0
+what type of government does the us follow?	93161	united states of america --> bibs topic subsumes --> [u'United States']	0
+what type of government does the us follow?	93161	united states of america --> processed with review queue question id --> [u'/rabj/store/questions/question_2425d81ec7f81e90', u'/rabj/store/questions/question_6d557a5dc52a8c64', u'/rabj/store/questions/question_91f2c7b336ee1f44', u'/rabj/store/questions/question_c2443460f7e79264', u'/rabj/store/questions/question_1b40e0cc534fd2f1']	0
+what type of government does the us follow?	93161	united states of america --> national anthem of a country anthem --> [u'The Star-Spangled Banner']	12
+what type of government does the us follow?	93161	united states of america --> dated integer year --> [u'1790', u'1910', u'1920', u'1930', u'1940']	0
+what type of government does the us follow?	93161	united states of america --> dated money value amount --> [u'56400000000', u'58700000000', u'66000000000', u'73300000000', u'76500000000']	0
+what type of government does the us follow?	93161	united states of america --> governmental jurisdiction government positions --> [u'United States Representative', u'United States Senator', u'United States Secretary of Housing and Urban Development', u'President of the United States', u'Vice President of the United States']	359
+what type of government does the us follow?	93161	théus --> location area --> [u'16.71']	0
+what type of government does the us follow?	93161	théus --> location containedby --> [u"Provence-Alpes-C\xf4te d'Azur", u'Hautes-Alpes']	0
+what type of government does the us follow?	93161	théus --> topic alias --> [u'Th\xe9us, France']	0
+what type of government does the us follow?	93161	théus --> object name --> [u'Th\xe9us']	0
+what type of government does the us follow?	93161	théus --> geocode longitude --> [u'6.18916666667']	0
+what type of government does the us follow?	93161	théus --> geocode latitude --> [u'44.4772222222']	0
+what type of government does the us follow?	93161	united states dollar --> exchange rate amount --> [u'0.4828', u'0.4841', u'0.486', u'0.4866', u'0.4881']	0
+what type of government does the us follow?	93161	united states dollar --> webpage resource --> [u'Brazilian TV host accused of killing for ratings']	0
+what type of government does the us follow?	93161	united states dollar --> currency prefix symbol --> [u'$']	0
+what type of government does the us follow?	93161	united states dollar --> topic topical webpage --> [u'http://www.moneyfactory.gov/', u'http://www.federalreserve.gov/']	0
+what type of government does the us follow?	93161	united states dollar --> exchange rate date of rate --> [u'2008', u'2008-03-31']	0
+what type of government does the us follow?	93161	united states dollar --> currency countries used --> [u'United States of America', u'El Salvador', u'Zimbabwe', u'Federated States of Micronesia', u'Marshall Islands']	90
+what type of government does the us follow?	93161	united states dollar --> exchange rate amount --> [u'1', u'4.72']	0
+what type of government does the us follow?	93161	united states dollar --> exchange rate date of rate --> [u'1972-01-26', u'1972-08-04', u'1973-11-16', u'1975-03-14', u'1975-04-01']	0
+what type of government does the us follow?	93161	united states dollar --> currency sub units --> [u'Cent']	3
+what type of government does the us follow?	93161	united states dollar --> topic alias --> [u'$', u'Greenback', u'USD', u'American Dollar', u'Federal Reserve Note']	0
+what type of government does the us follow?	93161	united states dollar --> exchange rate target of exchange --> [u'Australian dollar']	31
+what type of government does the us follow?	93161	united states dollar --> webpage category --> [u'Topic Webpage', u'Official Website']	0
+what type of government does the us follow?	93161	united states dollar --> object name --> [u'United States dollar']	0
+what type of government does the us follow?	93161	united states dollar --> topic image --> [u'$1 to $100 notes', u'$1 to $100 notes']	0
+what type of government does the us follow?	93161	united states dollar --> exchange rate source of exchange --> [u'Sealand  Dollar', u'Danish krone']	4
+what type of government does the us follow?	93161	united states dollar --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what type of government does the us follow?	93161	united states dollar --> topic official website --> [u'http://www.usmint.gov/']	0
+what type of government does the us follow?	93161	united states dollar --> currency currency code --> [u'USD']	0
+what type of government does the us follow?	93161	united states dollar --> webpage uri --> [u'http://www.moneyfactory.gov', u'http://www.usmint.gov', u'http://www.federalreserve.gov']	0
+what type of government does the us follow?	93161	types of business entity --> object name --> [u'Types of business entity']	0
+what type of government does the us follow?	93161	types of business entity --> topic alias --> [u'Types of corporations']	0
+what type of government does the us follow?	93161	types of business entity --> equivalent topic equivalent type --> [u'Organization legal structure']	0
+what type of government does the us follow?	93161	type --> object name --> [u'TYPE']	0
