@@ -711,7 +711,7 @@ class Ranker(object):
                         str(support_count),
                         candidate.graph_str,
                         str(len(candidate.support))]
-                    codecsWriteFile(support_stats_file, "\t".join(stats), 'a')
+                    codecsWriteFile(support_stats_file, "\t".join(stats) + "\n", 'a')
 
                 # add model features for all candidates
                 # lstm_predictions = lstm_model.predict(candidates, 28).flatten()
