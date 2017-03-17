@@ -58,51 +58,62 @@ def codecsWriteFile(filename, contents, mode="wt", encoding='utf-8'):
 
 ######################################################################
 
-def plot_support_sentence(path):
+def plot_support_sentence(idx):
+    path = "support_sentence_stat/webquestionstest/" + str(idx)
     lines = codecsReadFile(path).strip().split("\n")
-    query_id = [int(line.strip().split('\t')[0]) for line in lines]
-    queries = [line.strip().split('\t')[0] + " " + line.strip().split('\t')[1] for line in lines]
-    support_count = [int(line.strip().split('\t')[2]) for line in lines]
-    answer_graph = [line.strip().split('\t')[3] for line in lines]
-    answer_support_count = [int(line.strip().split('\t')[4]) for line in lines]
-    candidate_graph = [line.strip().split('\t')[5] for line in lines]
-    candidate_support_count = [int(line.strip().split('\t')[6]) for line in lines]
+    queries = [line.strip().split('\t')[0] for line in lines]
+    support_count = [int(line.strip().split('\t')[1]) for line in lines]
+    candidate_graph = [line.strip().split('\t')[2] for line in lines]
+    candidate_support_count = [int(line.strip().split('\t')[3]) for line in lines]
 
-    trace1 = Bar(
-        x = queries,
-        y= support_count,
-        name='total count'
-    )
     trace2 = Bar(
-        x = queries,
-        y = answer_support_count,
+        x = candidate_graph,
+        y = candidate_support_count,
         name='answer support sentence count'
     )
-    trace3 = Bar(
-        x = queries,
-        y = candidate_support_count,
-        name='candidate support sentence count'
-    )
 
-    data = [trace2, trace3, trace1]
+    data = [trace2]
 
     # Plot and embed in ipython notebook!
     layout = dict(
-        title = "Support Sentence Count for Test Query",
-        xaxis = dict(title = "query"),
-        yaxis = dict(title = "count"),
-        barmode = 'stack'
+        title = queries[0],
+        xaxis = dict(
+            tickangle = 45,
+            tickfont = dict(
+                size = 10
+            )
+        ),
+        yaxis = dict(
+            title = "count"
+        ),
+        barmode = 'group',
+        margin = dict(
+            b = 200
+        ),
     )
 
     fig = dict(
         data = data,
         layout = layout
     )
-    py.plot(fig, filename="support sentence count")
+    #py.plot(fig, filename="support sentence count")
+
+    py.image.save_as(fig, filename='support_sentence_stat/webquestionstest/' + str(idx) + ".png")
 
 
 def main():
-    plot_support_sentence("support_sentence_stats_webquestionstest.txt")
+    """
+    for i in xrange(2032):
+        try:
+            idx = i+1
+            print idx
+            plot_support_sentence(idx)
+        except:
+            pass
+    """
+    plot_support_sentence(100)
+    #plot_support_sentence("support_sentence_stats_webquestionstest.txt")
+
 
 
 if __name__ == '__main__':
