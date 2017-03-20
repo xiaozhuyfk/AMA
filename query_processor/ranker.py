@@ -132,6 +132,43 @@ class FactCandidate(object):
         self.f1 = computeF1(self.answers, self.objects)[2]
 
         self.support = response["support"]
+        self.top_sentence_with_question = []
+        self.top_sentence_with_question_trigram = []        
+        self.top_sentence_with_candidate = []
+        self.top_sentence_with_candidate_trigram = []        
+        question_set = set(self.query_tokens)
+        question_trigram_set = set(self.query_trigram)
+        candidate_set = set(self.subject_tokens + self.relation_tokens)
+        candidate_trigram_set = set(self.subject_trigram + self.relation_trigram)
+
+        max_question_overlap = 0
+        max_question_trigram_overlap = 0
+        max_candidate_overlap = 0
+        max_candidate_trigram_overlap = 0
+        for sentence in self.support:
+            sentence_tokens = [tokenize_term(t) for t in sentence.split()]
+            sentence_trigram_tokens = ngramize(sentence_tokens, 3)
+            if len(set(sentence_tokens) & question_set) > max_question_overlap:
+                max_question_overlap = len(set(sentence_tokens) & question_set)
+                self.top_sentence_with_question = sentence_tokens
+            if len(set(sentence_trigram_tokens) & question_trigram_set) > max_question_trigram_overlap:
+                max_question_trigram_overlap = len(set(sentence_trigram_tokens) & question_trigram_set)
+                self.top_sentence_with_question_trigram = sentence_trigram_tokens
+            if len(set(sentence_tokens) & candidate_set) > max_candidate_overlap:
+                max_candidate_overlap = len(set(sentence_tokens) & candidate_set)
+                self.top_sentence_with_candidate = sentence_tokens
+            if len(set(sentence_trigram_tokens) & candidate_trigram_set) > max_candidate_trigram_overlap:
+                max_candidate_trigram_overlap = len(set(sentence_trigram_tokens) & candidate_trigram_set)
+                self.top_sentence_with_candidate_trigram = candidate_trigram_tokens
+        self.top_sentence_with_question = (self.query_tokens + self.top_sentence_with_question)[:28]
+        self.top_sentence_with_candidate = (self.relation_tokens + self.top_sentence_with_candidate)[:28]
+        self.top_sentence_with_question_trigram = (self.query_trigram + self.top_sentence_with_question_trigram)[:203]
+        self.top_sentence_with_candidate_trigram = (self.relation_trigram + self.top_sentence_with_candidate_trigram)[:203]
+        self.max_question_overlap = max_question_overlap
+        self.max_question_trigram_overlap = max_question_trigram_overlap
+        self.max_candidate_overlap = max_candidate_overlap
+        self.max_candidate_trigram_overlap = max_candidate_trigram_overlap
+
         """
         if (len(self.support) == 0):
             self.support = set([])
@@ -237,6 +274,12 @@ class FactCandidate(object):
 
         # Add wiki popularity
         self.add_feature(len(self.support))
+
+        # term overlap with question
+        self.add_feature(self.max_question_overlap)
+
+        # term overlap with candidate
+        self.add_feature(self.max_candidate_overlap)
 
         # Add wiki summary popularity
         #self.add_feature(len(self.support_summary))
