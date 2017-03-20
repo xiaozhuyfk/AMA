@@ -124,6 +124,8 @@ class FactCandidate(object):
         self.sentence_trigram = self.query_trigram + self.subject_trigram + \
                                 self.relation_trigram
         self.sentence_trigram_size = len(self.sentence_trigram)
+        self.candidate_sentence = self.subject_tokens + self.relation_tokens
+        self.candidate_sentence_trigram = self.subject_trigram + self.relation_trigram
 
         self.vocab = set(self.sentence)
         self.vocab_trigram = set(self.sentence_trigram)
@@ -160,11 +162,11 @@ class FactCandidate(object):
             if len(set(sentence_trigram_tokens) & candidate_trigram_set) > max_candidate_trigram_overlap:
                 max_candidate_trigram_overlap = len(set(sentence_trigram_tokens) & candidate_trigram_set)
                 self.top_sentence_with_candidate_trigram = sentence_trigram_tokens
-                
-        self.top_sentence_with_question = (self.query_tokens + self.top_sentence_with_question)[:28]
-        self.top_sentence_with_candidate = (self.relation_tokens + self.top_sentence_with_candidate)[:28]
-        self.top_sentence_with_question_trigram = (self.query_trigram + self.top_sentence_with_question_trigram)[:203]
-        self.top_sentence_with_candidate_trigram = (self.relation_trigram + self.top_sentence_with_candidate_trigram)[:203]
+
+        self.top_sentence_with_question = self.top_sentence_with_question[:28]
+        self.top_sentence_with_candidate = self.top_sentence_with_candidate[:28]
+        self.top_sentence_with_question_trigram = self.top_sentence_with_question_trigram[:203]
+        self.top_sentence_with_candidate_trigram = self.top_sentence_with_candidate_trigram[:203]
         self.max_question_overlap = max_question_overlap
         self.max_question_trigram_overlap = max_question_trigram_overlap
         self.max_candidate_overlap = max_candidate_overlap
@@ -635,6 +637,30 @@ class Ranker(object):
                 'query_trigram',
                 'relation_trigram'
             ).flatten()
+            question_joint_predictions = jointpairwise.predict(
+                query_candidates,
+                28,
+                'query_tokens',
+                'top_sentence_with_question'
+            ).flatten()
+            question_joint_trigram_predictions = jointpairwise_trigram.predict(
+                query_candidates,
+                203,
+                'query_trigram',
+                'top_sentence_with_question_trigram'
+            ).flatten()
+            question_embedding_predictions = embedding.predict(
+                query_candidates,
+                28,
+                'query_tokens',
+                'top_sentence_with_question'
+            ).flatten()
+            question_embedding_trigram_predictions = embedding_trigram.predict(
+                query_candidates,
+                203,
+                'query_tokens',
+                'top_sentence_with_question_trigram'
+            ).flatten()
 
             for idx in xrange(len(query_candidates)):
                 candidate = query_candidates[idx]
@@ -644,6 +670,10 @@ class Ranker(object):
                 candidate.add_feature(embedding_trigram_predictions[idx])
                 candidate.add_feature(pairwise_predictions[idx])
                 candidate.add_feature(pairwise_trigram_predictions[idx])
+                candidate.add_feature(question_joint_predictions[idx])
+                candidate.add_feature(question_joint_trigram_predictions[idx])
+                candidate.add_feature(question_embedding_predictions[idx])
+                candidate.add_feature(question_embedding_trigram_predictions[idx])
 
             self.nomalize_features(query_candidates)
             for candidate in query_candidates:
@@ -786,6 +816,30 @@ class Ranker(object):
                     'query_trigram',
                     'relation_trigram'
                 ).flatten()
+                question_joint_predictions = jointpairwise.predict(
+                    query_candidates,
+                    28,
+                    'query_tokens',
+                    'top_sentence_with_question'
+                ).flatten()
+                question_joint_trigram_predictions = jointpairwise_trigram.predict(
+                    query_candidates,
+                    203,
+                    'query_trigram',
+                    'top_sentence_with_question_trigram'
+                ).flatten()
+                question_embedding_predictions = embedding.predict(
+                    query_candidates,
+                    28,
+                    'query_tokens',
+                    'top_sentence_with_question'
+                ).flatten()
+                question_embedding_trigram_predictions = embedding_trigram.predict(
+                    query_candidates,
+                    203,
+                    'query_tokens',
+                    'top_sentence_with_question_trigram'
+                ).flatten()
 
                 for idx in xrange(len(candidates)):
                     candidate = candidates[idx]
@@ -795,6 +849,10 @@ class Ranker(object):
                     candidate.add_feature(embedding_trigram_predictions[idx])
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
+                    candidate.add_feature(question_joint_predictions[idx])
+                    candidate.add_feature(question_joint_trigram_predictions[idx])
+                    candidate.add_feature(question_embedding_predictions[idx])
+                    candidate.add_feature(question_embedding_trigram_predictions[idx])
 
                 self.nomalize_features(candidates)
                 for candidate in candidates:
