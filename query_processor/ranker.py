@@ -637,6 +637,7 @@ class Ranker(object):
                 'query_trigram',
                 'relation_trigram'
             ).flatten()
+            """
             question_joint_predictions = jointpairwise.predict(
                 query_candidates,
                 28,
@@ -661,6 +662,7 @@ class Ranker(object):
                 'query_tokens',
                 'top_sentence_with_question_trigram'
             ).flatten()
+            """
 
             for idx in xrange(len(query_candidates)):
                 candidate = query_candidates[idx]
@@ -670,10 +672,10 @@ class Ranker(object):
                 candidate.add_feature(embedding_trigram_predictions[idx])
                 candidate.add_feature(pairwise_predictions[idx])
                 candidate.add_feature(pairwise_trigram_predictions[idx])
-                candidate.add_feature(question_joint_predictions[idx])
-                candidate.add_feature(question_joint_trigram_predictions[idx])
-                candidate.add_feature(question_embedding_predictions[idx])
-                candidate.add_feature(question_embedding_trigram_predictions[idx])
+                #candidate.add_feature(question_joint_predictions[idx])
+                #candidate.add_feature(question_joint_trigram_predictions[idx])
+                #candidate.add_feature(question_embedding_predictions[idx])
+                #candidate.add_feature(question_embedding_trigram_predictions[idx])
 
             self.nomalize_features(query_candidates)
             for candidate in query_candidates:
@@ -816,6 +818,7 @@ class Ranker(object):
                     'query_trigram',
                     'relation_trigram'
                 ).flatten()
+                """
                 question_joint_predictions = jointpairwise.predict(
                     candidates,
                     28,
@@ -840,6 +843,7 @@ class Ranker(object):
                     'query_tokens',
                     'top_sentence_with_question_trigram'
                 ).flatten()
+                """
 
                 for idx in xrange(len(candidates)):
                     candidate = candidates[idx]
@@ -849,10 +853,10 @@ class Ranker(object):
                     candidate.add_feature(embedding_trigram_predictions[idx])
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
-                    candidate.add_feature(question_joint_predictions[idx])
-                    candidate.add_feature(question_joint_trigram_predictions[idx])
-                    candidate.add_feature(question_embedding_predictions[idx])
-                    candidate.add_feature(question_embedding_trigram_predictions[idx])
+                    #candidate.add_feature(question_joint_predictions[idx])
+                    #candidate.add_feature(question_joint_trigram_predictions[idx])
+                    #candidate.add_feature(question_embedding_predictions[idx])
+                    #candidate.add_feature(question_embedding_trigram_predictions[idx])
 
                 self.nomalize_features(candidates)
                 for candidate in candidates:
