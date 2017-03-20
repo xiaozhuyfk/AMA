@@ -159,7 +159,8 @@ class FactCandidate(object):
                 self.top_sentence_with_candidate = sentence_tokens
             if len(set(sentence_trigram_tokens) & candidate_trigram_set) > max_candidate_trigram_overlap:
                 max_candidate_trigram_overlap = len(set(sentence_trigram_tokens) & candidate_trigram_set)
-                self.top_sentence_with_candidate_trigram = candidate_trigram_tokens
+                self.top_sentence_with_candidate_trigram = sentence_trigram_tokens
+                
         self.top_sentence_with_question = (self.query_tokens + self.top_sentence_with_question)[:28]
         self.top_sentence_with_candidate = (self.relation_tokens + self.top_sentence_with_candidate)[:28]
         self.top_sentence_with_question_trigram = (self.query_trigram + self.top_sentence_with_question_trigram)[:203]
