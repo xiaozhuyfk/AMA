@@ -817,25 +817,25 @@ class Ranker(object):
                     'relation_trigram'
                 ).flatten()
                 question_joint_predictions = jointpairwise.predict(
-                    query_candidates,
+                    candidates,
                     28,
                     'query_tokens',
                     'top_sentence_with_question'
                 ).flatten()
                 question_joint_trigram_predictions = jointpairwise_trigram.predict(
-                    query_candidates,
+                    candidates,
                     203,
                     'query_trigram',
                     'top_sentence_with_question_trigram'
                 ).flatten()
                 question_embedding_predictions = embedding.predict(
-                    query_candidates,
+                    candidates,
                     28,
                     'query_tokens',
                     'top_sentence_with_question'
                 ).flatten()
                 question_embedding_trigram_predictions = embedding_trigram.predict(
-                    query_candidates,
+                    candidates,
                     203,
                     'query_tokens',
                     'top_sentence_with_question_trigram'
