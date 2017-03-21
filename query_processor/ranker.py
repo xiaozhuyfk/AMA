@@ -233,6 +233,13 @@ class FactCandidate(object):
                 self.message += sent + "\n"
         """
 
+    def top_sentence_score(self, model):
+        sentence_tokens = [[tokenize_term(t) for t in sentence.split()] for sentence in self.support]
+        predictions = model.predict_with_sent(self.query_tokens, sentence_tokens, 28).flatten()
+        idx = np.argmax(predictions)
+        return predictions[idx]
+
+
     def get_support_sentence(self):
         self.support = set([])
         for o in self.oid[:5]:
@@ -279,10 +286,10 @@ class FactCandidate(object):
         self.add_feature(len(self.support))
 
         # term overlap with question
-        self.add_feature(self.max_question_overlap)
+        # self.add_feature(self.max_question_overlap)
 
         # term overlap with candidate
-        self.add_feature(self.max_candidate_overlap)
+        # self.add_feature(self.max_candidate_overlap)
 
         # Add wiki summary popularity
         #self.add_feature(len(self.support_summary))
@@ -672,6 +679,8 @@ class Ranker(object):
                 candidate.add_feature(embedding_trigram_predictions[idx])
                 candidate.add_feature(pairwise_predictions[idx])
                 candidate.add_feature(pairwise_trigram_predictions[idx])
+                candidate.add_feature(candidate.top_sentence_score(jointpairwise))
+                candidate.add_feature(candidate.top_sentence_score(embedding))
                 #candidate.add_feature(question_joint_predictions[idx])
                 #candidate.add_feature(question_joint_trigram_predictions[idx])
                 #candidate.add_feature(question_embedding_predictions[idx])
@@ -853,6 +862,8 @@ class Ranker(object):
                     candidate.add_feature(embedding_trigram_predictions[idx])
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
+                    candidate.add_feature(candidate.top_sentence_score(jointpairwise))
+                    candidate.add_feature(candidate.top_sentence_score(embedding))
                     #candidate.add_feature(question_joint_predictions[idx])
                     #candidate.add_feature(question_joint_trigram_predictions[idx])
                     #candidate.add_feature(question_embedding_predictions[idx])

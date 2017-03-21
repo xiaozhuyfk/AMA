@@ -65,6 +65,23 @@ class BaseModel(object):
 
 class JointPairwiseModel(BaseModel):
 
+    def predict_with_sent(self, 
+        query_tokens, 
+        sentence_tokens, 
+        sentence_size, 
+        vectorize = vectorize_sentence):
+
+        self.load_model()
+
+        Q = []
+        F = []
+        q = vectorize(self.word_idx, query_tokens, sentence_size)
+        for sentence in sentence_tokens:
+            Q.append(q)
+            f = vectorize(self.word_idx, s, sentence_size)
+            F.append(f)
+        return self.ranking_model.predict([np.array(Q), np.array(F)])
+
     def predict(self,
                 query_candidates,
                 sentence_size,
