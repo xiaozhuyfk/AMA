@@ -240,6 +240,13 @@ class FactCandidate(object):
         idx = np.argmax(predictions)
         return predictions[idx]
 
+    def support_sentence_score(model):
+        if len(self.support) == 0: return 0
+        sentence_tokens = [[tokenize_term(t) for t in sentence.split()][:28] for sentence in self.support]
+        predictions = model.predict_with_sent(self.query_tokens, sentence_tokens, 28).flatten()
+        return np.sum(predictions) / len(predictions)
+
+
 
     def get_support_sentence(self):
         self.support = set([])
@@ -287,10 +294,10 @@ class FactCandidate(object):
         self.add_feature(len(self.support))
 
         # term overlap with question
-        self.add_feature(self.max_question_overlap)
+        # self.add_feature(self.max_question_overlap)
 
         # term overlap with candidate
-        self.add_feature(self.max_candidate_overlap)
+        # self.add_feature(self.max_candidate_overlap)
 
         # Add wiki summary popularity
         #self.add_feature(len(self.support_summary))
@@ -680,8 +687,8 @@ class Ranker(object):
                 candidate.add_feature(embedding_trigram_predictions[idx])
                 candidate.add_feature(pairwise_predictions[idx])
                 candidate.add_feature(pairwise_trigram_predictions[idx])
-                candidate.add_feature(candidate.top_sentence_score(jointpairwise))
-                candidate.add_feature(candidate.top_sentence_score(embedding))
+                candidate.add_feature(candidate.support_sentence_score(jointpairwise))
+                candidate.add_feature(candidate.support_sentence_score(embedding))
                 #candidate.add_feature(question_joint_predictions[idx])
                 #candidate.add_feature(question_joint_trigram_predictions[idx])
                 #candidate.add_feature(question_embedding_predictions[idx])
@@ -863,8 +870,8 @@ class Ranker(object):
                     candidate.add_feature(embedding_trigram_predictions[idx])
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
-                    candidate.add_feature(candidate.top_sentence_score(jointpairwise))
-                    candidate.add_feature(candidate.top_sentence_score(embedding))
+                    candidate.add_feature(candidate.support_sentence_score(jointpairwise))
+                    candidate.add_feature(candidate.support_sentence_score(embedding))
                     #candidate.add_feature(question_joint_predictions[idx])
                     #candidate.add_feature(question_joint_trigram_predictions[idx])
                     #candidate.add_feature(question_embedding_predictions[idx])
