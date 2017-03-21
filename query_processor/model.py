@@ -78,7 +78,7 @@ class JointPairwiseModel(BaseModel):
         q = vectorize(self.word_idx, query_tokens, sentence_size)
         for sentence in sentence_tokens:
             Q.append(q)
-            f = vectorize(self.word_idx, s, sentence_size)
+            f = vectorize(self.word_idx, sentence, sentence_size)
             F.append(f)
         return self.ranking_model.predict([np.array(Q), np.array(F)])
 
