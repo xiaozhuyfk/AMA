@@ -287,10 +287,10 @@ class FactCandidate(object):
         self.add_feature(len(self.support))
 
         # term overlap with question
-        # self.add_feature(self.max_question_overlap)
+        self.add_feature(self.max_question_overlap)
 
         # term overlap with candidate
-        # self.add_feature(self.max_candidate_overlap)
+        self.add_feature(self.max_candidate_overlap)
 
         # Add wiki summary popularity
         #self.add_feature(len(self.support_summary))
