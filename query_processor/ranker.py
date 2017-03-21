@@ -235,7 +235,7 @@ class FactCandidate(object):
 
     def top_sentence_score(self, model):
         if len(self.support) == 0: return 0
-        sentence_tokens = [[tokenize_term(t) for t in sentence.split()] for sentence in self.support]
+        sentence_tokens = [[tokenize_term(t) for t in sentence.split()][:28] for sentence in self.support]
         predictions = model.predict_with_sent(self.query_tokens, sentence_tokens, 28).flatten()
         idx = np.argmax(predictions)
         return predictions[idx]
