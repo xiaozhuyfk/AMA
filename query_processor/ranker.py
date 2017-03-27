@@ -234,10 +234,12 @@ class FactCandidate(object):
         """
 
     def top_sentence_score(self, model):
+        self.top_sentence = "EMPTY"
         if len(self.support) == 0: return 0
         sentence_tokens = [[tokenize_term(t) for t in sentence.split()][:28] for sentence in self.support]
         predictions = model.predict_with_sent(self.query_tokens, sentence_tokens, 28).flatten()
         idx = np.argmax(predictions)
+        self.top_sentence = self.support[idx]
         return predictions[idx]
 
     def support_sentence_score(self, model):
@@ -294,7 +296,7 @@ class FactCandidate(object):
         self.add_feature(len(self.support))
 
         # term overlap with question
-        # self.add_feature(self.max_question_overlap)
+        self.add_feature(self.max_question_overlap)
 
         # term overlap with candidate
         # self.add_feature(self.max_candidate_overlap)
@@ -687,8 +689,8 @@ class Ranker(object):
                 candidate.add_feature(embedding_trigram_predictions[idx])
                 candidate.add_feature(pairwise_predictions[idx])
                 candidate.add_feature(pairwise_trigram_predictions[idx])
-                candidate.add_feature(candidate.support_sentence_score(jointpairwise))
-                candidate.add_feature(candidate.support_sentence_score(embedding))
+                #candidate.add_feature(candidate.support_sentence_score(jointpairwise))
+                candidate.add_feature(candidate.top_sentence_score(embedding))
                 #candidate.add_feature(question_joint_predictions[idx])
                 #candidate.add_feature(question_joint_trigram_predictions[idx])
                 #candidate.add_feature(question_embedding_predictions[idx])
@@ -797,15 +799,6 @@ class Ranker(object):
                         support_count += len(fact_candidate.support)
                         total_support += len(fact_candidate.support)
 
-                support_stats_file = "/home/hongyul/AMA/support_sentence_stat/" + dataset + "/" + str(query.id)
-                codecsWriteFile(support_stats_file, "")
-                for candidate in candidates:
-                    stats = [query.utterance,
-                        str(support_count),
-                        candidate.graph_str,
-                        str(len(candidate.support))]
-                    codecsWriteFile(support_stats_file, "\t".join(stats) + "\n", 'a')
-
                 # add model features for all candidates
                 # lstm_predictions = lstm_model.predict(candidates, 28).flatten()
                 # trigram_predictions = trigram_model.predict(candidates, 203).flatten()
@@ -870,12 +863,22 @@ class Ranker(object):
                     candidate.add_feature(embedding_trigram_predictions[idx])
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
-                    candidate.add_feature(candidate.support_sentence_score(jointpairwise))
-                    candidate.add_feature(candidate.support_sentence_score(embedding))
+                    #candidate.add_feature(candidate.support_sentence_score(jointpairwise))
+                    candidate.add_feature(candidate.top_sentence_score(embedding))
                     #candidate.add_feature(question_joint_predictions[idx])
                     #candidate.add_feature(question_joint_trigram_predictions[idx])
                     #candidate.add_feature(question_embedding_predictions[idx])
                     #candidate.add_feature(question_embedding_trigram_predictions[idx])
+
+                support_stats_file = "/home/hongyul/AMA/support_sentence_stat/" + dataset + "/" + str(query.id)
+                codecsWriteFile(support_stats_file, "")
+                for candidate in candidates:
+                    stats = [query.utterance,
+                        str(support_count),
+                        candidate.graph_str,
+                        str(len(candidate.support)),
+                        self.top_sentence]
+                    codecsWriteFile(support_stats_file, "\t".join(stats) + "\n", 'a')
 
                 self.nomalize_features(candidates)
                 for candidate in candidates:
