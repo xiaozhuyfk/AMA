@@ -33,7 +33,7 @@ tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 
 def tokenize_term(t):
-    return re.sub('[?!@#$%^&*,()_+=\'\d\./]', '', t).lower()
+    return re.sub('[?!@#$%^&*,()_+=\'\d\./;]', '', t).lower()
 
 
 class FeatureVector(object):
@@ -236,7 +236,7 @@ class FactCandidate(object):
     def top_sentence_score(self, model):
         self.top_sentence = "EMPTY"
         if len(self.support) == 0: return 0
-        sentence_tokens = [[tokenize_term(t) for t in sentence.split()][:28] for sentence in self.support]
+        sentence_tokens = [[tokenize_term(t) for t in re.split('[\[\]\s|\']', sentence) if t][:28] for sentence in self.support]
         predictions = model.predict_with_sent(self.query_tokens, sentence_tokens, 28).flatten()
         idx = np.argmax(predictions)
         self.top_sentence = self.support[idx]
