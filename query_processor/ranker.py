@@ -877,7 +877,7 @@ class Ranker(object):
                         str(support_count),
                         candidate.graph_str,
                         str(len(candidate.support)),
-                        self.top_sentence]
+                        candidate.top_sentence]
                     codecsWriteFile(support_stats_file, "\t".join(stats) + "\n", 'a')
 
                 self.nomalize_features(candidates)
