@@ -1,161 +1,161 @@
-what city and state is yale located in?	16551	locatedin --> object name --> [u'locatedIn']	0
-what city and state is yale located in?	16551	locatedin --> property hints disambiguator --> [u'0']	0
-what city and state is yale located in?	16551	locatedin --> property unique --> [u'1']	0
-what city and state is yale located in?	16551	locatedin --> property hints display none --> [u'0']	0
-what city and state is yale located in?	16551	located in --> property hints disambiguator --> [u'0']	0
-what city and state is yale located in?	16551	located in --> property delegated --> [u'Contained by']	0
-what city and state is yale located in?	16551	located in --> property unique --> [u'0']	0
-what city and state is yale located in?	16551	located in --> property hints display orientation --> [u'horizontal']	0
-what city and state is yale located in?	16551	located in --> object id --> [u'/amusement_parks/park/location']	0
-what city and state is yale located in?	16551	located in --> property expected type --> [u'Location']	0
-what city and state is yale located in?	16551	located in --> property schema --> [u'Amusement Park']	0
-what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'Amusement Park']	0
-what city and state is yale located in?	16551	located in --> property hints display none --> [u'0']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0
-what city and state is yale located in?	16551	located in --> property unique --> [u'0']	0
-what city and state is yale located in?	16551	located in --> property expected type --> [u'location.location']	0
-what city and state is yale located in?	16551	located in --> property schema --> [u'zoos.zoo']	0
-what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'zoos.zoo']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0
-what city and state is yale located in?	16551	located in --> property schema --> [u'base.dance.dance_company']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'base.dance.dance_company']	0
-what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0
-what city and state is yale located in?	16551	located in --> property expected type --> [u'location.location']	0
-what city and state is yale located in?	16551	located in --> property hints disambiguator --> [u'0']	0
-what city and state is yale located in?	16551	located in --> property delegated --> [u'Contained by']	0
-what city and state is yale located in?	16551	located in --> property unique --> [u'0']	0
-what city and state is yale located in?	16551	located in --> property hints display orientation --> [u'vertical']	0
-what city and state is yale located in?	16551	located in --> object id --> [u'/zoos/zoo/location']	0
-what city and state is yale located in?	16551	located in --> property expected type --> [u'Location']	0
-what city and state is yale located in?	16551	located in --> property schema --> [u'Zoo']	0
-what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'Zoo']	0
-what city and state is yale located in?	16551	located in --> property hints display none --> [u'0']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0
-what city and state is yale located in?	16551	located in --> property hints disambiguator --> [u'1']	0
-what city and state is yale located in?	16551	located in --> object id --> [u'/base/dance/dance_company/located_in']	0
-what city and state is yale located in?	16551	located in --> property expected type --> [u'Location']	0
-what city and state is yale located in?	16551	located in --> property schema --> [u'Dance Company']	0
-what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'Dance Company']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0
-what city and state is yale located in?	16551	located in --> property unique --> [u'0']	0
-what city and state is yale located in?	16551	located in --> property expected type --> [u'location.location']	0
-what city and state is yale located in?	16551	located in --> property schema --> [u'amusement_parks.park']	0
-what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'amusement_parks.park']	0
-what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0
-what city and state is yale located in?	16551	yale university --> dated money value amount --> [u'38300']	0
-what city and state is yale located in?	16551	yale university --> university fraternities and sororities --> [u'Alpha Delta Phi', u'Alpha Sigma Phi', u'St. Anthony Hall']	15
-what city and state is yale located in?	16551	yale university --> educational institution sports teams --> [u"Yale Bulldogs Men's Basketball", u'Yale Lady Bulldogs Softball']	1
-what city and state is yale located in?	16551	yale university --> leadership from --> [u'1993']	0
-what city and state is yale located in?	16551	yale university --> educational institution campuses --> [u'Yale University']	7819
-what city and state is yale located in?	16551	yale university --> academic post person --> [u'Harold Bloom']	7
-what city and state is yale located in?	16551	yale university --> employment tenure title --> [u'President', u'Associate Professor', u'Dean', u'Legal Intern', u'Graduate Teaching Center staff member']	3
-what city and state is yale located in?	16551	yale university --> mailing address citytown --> [u'New Haven']	196
-what city and state is yale located in?	16551	yale university --> location containedby --> [u'United States of America', u'Connecticut', u'New Haven']	293
-what city and state is yale located in?	16551	yale university --> ownership structure --> [u'Yale Center for British Art', u'Yale University Art Gallery']	8
-what city and state is yale located in?	16551	yale university --> honorary degree recipient --> [u'Marek Edelman']	0
-what city and state is yale located in?	16551	yale university --> dated integer number --> [u'11398']	0
-what city and state is yale located in?	16551	yale university --> educational institution nickname --> [u'Bulldogs', u'Elis', u'Yalies']	0
-what city and state is yale located in?	16551	yale university --> organization membership organization --> [u'Association of American Universities']	1
-what city and state is yale located in?	16551	yale university --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViC4ZwpEbGdrcN5Y29ycA']	0
-what city and state is yale located in?	16551	yale university --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what city and state is yale located in?	16551	yale university --> dated money value valid date --> [u'2010']	0
-what city and state is yale located in?	16551	yale university --> phone number number --> [u'(203) 432-4771']	0
-what city and state is yale located in?	16551	yale university --> gender enrollment sex --> [u'Female', u'Male']	0
-what city and state is yale located in?	16551	yale university --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Bachelor of Fine Arts', u'Bachelor of Music', u'Doctorate']	28
-what city and state is yale located in?	16551	yale university --> academic post from --> [u'1983']	0
-what city and state is yale located in?	16551	yale university --> dated integer number --> [u'3333']	0
-what city and state is yale located in?	16551	yale university --> education end date --> [u'1754', u'1868', u'1883', u'1895', u'1898']	0
-what city and state is yale located in?	16551	yale university --> education major field of study --> [u'Biology', u'Classics', u'Chemistry', u'Computer Science', u'Civil Engineering']	4
-what city and state is yale located in?	16551	yale university --> dated money value currency --> [u'United States dollar']	1
-what city and state is yale located in?	16551	yale university --> dated money value amount --> [u'19400000000', u'22900000000']	0
-what city and state is yale located in?	16551	yale university --> organization founder organizations founded --> [u'Association of American Universities']	1
-what city and state is yale located in?	16551	yale university --> mailing address postal code --> [u'06520']	0
-what city and state is yale located in?	16551	yale university --> leadership title --> [u'President']	0
-what city and state is yale located in?	16551	yale university --> topic official website --> [u'http://www.yale.edu/']	0
-what city and state is yale located in?	16551	yale university --> dated integer year --> [u'2009', u'2010']	0
-what city and state is yale located in?	16551	yale university --> education student --> [u'Kenny Hill', u'Amy Dru Stanley', u'Charles Comerford', u'William P. Alford', u'Percy C. Hintzen']	1
-what city and state is yale located in?	16551	yale university --> mailing address state province region --> [u'Connecticut']	80
-what city and state is yale located in?	16551	yale university --> dated integer number --> [u'5270', u'5310', u'5316']	0
-what city and state is yale located in?	16551	yale university --> newspaper circulation area newspapers --> [u'Yale Daily News']	17
-what city and state is yale located in?	16551	yale university --> school in fiction students graduates --> [u'Joshua Lyman', u'Mr. Wong']	0
-what city and state is yale located in?	16551	yale university --> phone number country code --> [u'1']	0
-what city and state is yale located in?	16551	yale university --> ranking year --> [u'2007', u'2010', u'2011', u'2012']	0
-what city and state is yale located in?	16551	yale university --> educational institution motto --> [u'Lux et veritas']	0
-what city and state is yale located in?	16551	yale university --> leadership role --> [u'President']	1
-what city and state is yale located in?	16551	yale university --> organization board membership member --> [u'Jeffrey Bewkes']	0
-what city and state is yale located in?	16551	yale university --> employment tenure from --> [u'1950', u'1956', u'1959', u'1961', u'1967']	0
-what city and state is yale located in?	16551	yale university --> organization scope organizations with this scope --> [u'Sigma Chapter of St. Anthony Hall']	0
-what city and state is yale located in?	16551	yale university --> employment tenure to --> [u'1958', u'1964', u'1966', u'1971', u'1972']	0
-what city and state is yale located in?	16551	yale university --> rival rivals --> [u'Harvard\u2013Yale football rivalry']	0
-what city and state is yale located in?	16551	yale university --> webpage category --> [u'Official Website', u'About']	0
-what city and state is yale located in?	16551	yale university --> educational institution colors --> [u'Yale Blue']	0
-what city and state is yale located in?	16551	yale university --> gender enrollment from --> [u'1969', u'1701']	0
-what city and state is yale located in?	16551	yale university --> ranking list --> [u"US News & World Report: World's Best Universities", u'Times Higher Education World University Rankings', u'Times Higher Education World Reputation Rankings', u'US News & World Report: National University Rankings', u'Academic Ranking of World Universities']	0
-what city and state is yale located in?	16551	yale university --> artwork owner relationship artwork --> [u"Women's Table"]	0
-what city and state is yale located in?	16551	yale university --> educational institution mascot --> [u'Handsome Dan']	1
-what city and state is yale located in?	16551	yale university --> educational institution extra libraries --> [u'Harvey Cushing/John Hay Whitney Medical Library', u'Sterling Memorial Library', u'Beinecke Library', u'Yale Divinity School Library', u'Lewis Walpole Library']	19
-what city and state is yale located in?	16551	yale university --> organization date founded --> [u'1701']	0
-what city and state is yale located in?	16551	yale university --> leadership person --> [u'Rick Levin']	1
-what city and state is yale located in?	16551	yale university --> university departments --> [u'Yale University Department of History', u'Yale University Department of English', u'Yale University Department of Economics', u'Yale University American Studies Program', u'Yale University Department of Art History']	0
-what city and state is yale located in?	16551	yale university --> artwork owner relationship date acquired --> [u'1993']	0
-what city and state is yale located in?	16551	yale university --> dated money value amount --> [u'35300', u'36500', u'38300', u'40500']	0
-what city and state is yale located in?	16551	yale university --> employment tenure person --> [u'Paul Hudak', u'Alan Perlis', u'Kingman Brewster, Jr.', u'Zaha Hadid', u'Hyo Kang']	5
-what city and state is yale located in?	16551	yale university --> acceptance rate rate --> [u'6.8', u'8']	0
-what city and state is yale located in?	16551	yale university --> dated integer number --> [u'6082', u'6318', u'6391']	0
-what city and state is yale located in?	16551	yale university --> dated money value valid date --> [u'2008', u'2009', u'2010', u'2011']	0
-what city and state is yale located in?	16551	yale university --> parent institution judaica owning units --> [u'Yale University Library', u'Yale University Archives']	1
-what city and state is yale located in?	16551	yale university --> educational institution subsidiary or constituent schools --> [u'Yale College', u'Yale Law School', u'Ezra Stiles College', u'Yale School of Drama', u'Berkeley College']	81
-what city and state is yale located in?	16551	yale university --> periodical publisher period from --> [u'1945']	0
-what city and state is yale located in?	16551	yale university --> name source namesakes --> [u'Yale Club of New York City']	0
-what city and state is yale located in?	16551	yale university --> education specialization --> [u'Edmund Spencer', u'S\xf8ren Kierkegaard', u'Cell biology', u'Renaissance literature']	1
-what city and state is yale located in?	16551	yale university --> topic topical webpage --> [u'http://www.yalebulldogs.com/landing/index']	0
-what city and state is yale located in?	16551	yale university --> mailing address street address --> [u'246 Church Street']	0
-what city and state is yale located in?	16551	yale university --> organization relationship child --> [u'Yale Center for British Art', u'Yale University Art Gallery', u'Jonathan Edwards College']	15
-what city and state is yale located in?	16551	yale university --> dated integer year --> [u'2010', u'2011']	0
-what city and state is yale located in?	16551	yale university --> academic post position or title --> [u'Sterling Professor']	48
-what city and state is yale located in?	16551	yale university --> tagged topic tags --> [u'Ivy League']	29
-what city and state is yale located in?	16551	yale university --> book subject works --> [u'The man on whom nothing was lost', u'How Harvard and Yale Beat the Market: What Individual Investors Can Learn From the Investment Strategies of the Most Successful University Endowments', u'Blue blood']	0
-what city and state is yale located in?	16551	yale university --> topic social media presence --> [u'http://plus.google.com/107733323076702064612']	0
-what city and state is yale located in?	16551	yale university --> topic alias --> [u'Yale', u'YU', u'Yale University, New Haven', u'Yale University, main campus']	0
-what city and state is yale located in?	16551	yale university --> organization membership from --> [u'1900']	0
-what city and state is yale located in?	16551	yale university --> webpage uri --> [u'http://www.yale.edu/', u'http://www.yalebulldogs.com/landing/index', u'http://www.yale.edu']	0
-what city and state is yale located in?	16551	yale university --> educational institution school type --> [u'Private university']	2
-what city and state is yale located in?	16551	yale university --> acceptance rate year --> [u'2010', u'2012']	0
-what city and state is yale located in?	16551	yale university --> education minor --> [u'Philosophy', u'German Language', u'Literature']	5
-what city and state is yale located in?	16551	yale university --> education start date --> [u'1881', u'1905', u'1956', u'1958', u'1962']	0
-what city and state is yale located in?	16551	yale university --> organization founders --> [u'Israel Chauncy', u'James Pierpont', u'Noadiah Russell', u'Abraham Pierson', u'Timothy Woodbridge']	1
-what city and state is yale located in?	16551	yale university --> dated money value currency --> [u'United States dollar']	1
-what city and state is yale located in?	16551	yale university --> educational institution newspaper --> [u'Yale Daily News', u'The Yale Herald']	17
-what city and state is yale located in?	16551	yale university --> educational institution campus educational institution --> [u'Yale University']	7819
-what city and state is yale located in?	16551	yale university --> honorary degree degree --> [u'Doctorate']	1
-what city and state is yale located in?	16551	yale university --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what city and state is yale located in?	16551	yale university --> webpage resource --> [u"Who are you and what have you done with my 'Gilmore Girls'?!", u"'30 Rock' recap: Green pees", u'Afternoon Roundup: Archie, Audrey, and Courtney Sued', u"'Gossip Girl': A few things it gets totally wrong", u'Yale Students Create Viral Michael Jackson Medley Video']	0
-what city and state is yale located in?	16551	yale university --> periodical publisher period periodical --> [u'The Yale Review', u'The Politic', u'Psychoanalytic Study of the Child']	2
-what city and state is yale located in?	16551	yale university --> dated money value currency --> [u'United States dollar']	1
-what city and state is yale located in?	16551	yale university --> ranking rank --> [u'3', u'4', u'9', u'10', u'11']	0
-what city and state is yale located in?	16551	yale university --> object name --> [u'Yale University']	0
-what city and state is yale located in?	16551	city --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what city and state is yale located in?	16551	city --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA']	0
-what city and state is yale located in?	16551	city --> ontology class mapping uri --> [u'http://s.opencalais.com/1/type/em/e/City']	0
-what city and state is yale located in?	16551	city --> type of fictional setting settings --> [u'Gotham City', u'Sharn', u'Freeport', u'Station Square', u'Central City']	0
-what city and state is yale located in?	16551	city --> object name --> [u'City']	0
-what city and state is yale located in?	16551	city --> topic image --> [u'Tokyo odaiba', u'Shibuya night', u'An aerial view of a human ecosystem. Pictured is the city of Chicago']	0
-what city and state is yale located in?	16551	city --> settlement type settlement type of --> [u'Tel Aviv']	0
-what city and state is yale located in?	16551	city --> ontology class mapping ontology --> [u'OpenCalais']	0
-what city and state is yale located in?	16551	city --> linguistic hint subject form --> [u'Cities']	0
-what city and state is yale located in?	16551	city --> equivalent topic equivalent type --> [u'City/Town/Village']	0
-what city and state is yale located in?	16551	city --> book subject works --> [u'Cities in Civilization', u'Invisible Cities', u'The Seduction of Place: The City in the Twenty-First Century']	0
-what city and state is yale located in?	16551	u.s. state --> object name --> [u'U.S. state']	0
-what city and state is yale located in?	16551	u.s. state --> topic image --> [u'Great Seal of the US']	0
-what city and state is yale located in?	16551	u.s. state --> linguistic hint subject form --> [u'U.S. states']	0
-what city and state is yale located in?	16551	u.s. state --> equivalent topic equivalent type --> [u'US State']	0
-what city and state is yale located in?	16551	states of india --> object name --> [u'States of India']	0
-what city and state is yale located in?	16551	states of india --> equivalent topic equivalent type --> [u'Indian state']	0
-what city and state is yale located in?	16551	states of india --> location containedby --> [u'India']	25
-what city and state is yale located in?	16551	yale romanization --> object name --> [u'Yale Romanization']	0
+what city and state is yale located in?	16551	locatedin --> object name --> [u'locatedIn']	0	EMPTY
+what city and state is yale located in?	16551	locatedin --> property hints disambiguator --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	locatedin --> property unique --> [u'1']	0	EMPTY
+what city and state is yale located in?	16551	locatedin --> property hints display none --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property hints disambiguator --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property delegated --> [u'Contained by']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property unique --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property hints display orientation --> [u'horizontal']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object id --> [u'/amusement_parks/park/location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property expected type --> [u'Location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property schema --> [u'Amusement Park']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'Amusement Park']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property hints display none --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property unique --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property expected type --> [u'location.location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property schema --> [u'zoos.zoo']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'zoos.zoo']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property schema --> [u'base.dance.dance_company']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'base.dance.dance_company']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property expected type --> [u'location.location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property hints disambiguator --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property delegated --> [u'Contained by']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property unique --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property hints display orientation --> [u'vertical']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object id --> [u'/zoos/zoo/location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property expected type --> [u'Location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property schema --> [u'Zoo']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'Zoo']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property hints display none --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property hints disambiguator --> [u'1']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object id --> [u'/base/dance/dance_company/located_in']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property expected type --> [u'Location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property schema --> [u'Dance Company']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'Dance Company']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property unique --> [u'0']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property expected type --> [u'location.location']	0	EMPTY
+what city and state is yale located in?	16551	located in --> property schema --> [u'amusement_parks.park']	0	EMPTY
+what city and state is yale located in?	16551	located in --> object name --> [u'Located In']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsdomain --> [u'amusement_parks.park']	0	EMPTY
+what city and state is yale located in?	16551	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> dated money value amount --> [u'38300']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> university fraternities and sororities --> [u'Alpha Delta Phi', u'Alpha Sigma Phi', u'St. Anthony Hall']	15	Coffin then entered [[Yale University]]'s [[Sheffield Scientific School]], where he was a member of [[St. Anthony Hall]], and was graduated from the [[Yale Law School|law department of Yale University]] in 1910.
+what city and state is yale located in?	16551	yale university --> educational institution sports teams --> [u"Yale Bulldogs Men's Basketball", u'Yale Lady Bulldogs Softball']	1	In addition to playing professional baseball, Foster also coached the [[Yale University]] [[Yale Bulldogs men's basketball|men's basketball team]] for the 1912–13 collegiate basketball season.
+what city and state is yale located in?	16551	yale university --> leadership from --> [u'1993']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> educational institution campuses --> [u'Yale University']	7819	at [[Yale University]] (United States)
+what city and state is yale located in?	16551	yale university --> academic post person --> [u'Harold Bloom']	7	*'''[[Harold Bloom]]''': Bloom is the [[Sterling Professor|Sterling Professor of the Humanities]] at [[Yale University]] and Berg Professor of English and American Literature at New York University.
+what city and state is yale located in?	16551	yale university --> employment tenure title --> [u'President', u'Associate Professor', u'Dean', u'Legal Intern', u'Graduate Teaching Center staff member']	3	Stepan gained his [[PhD]] from [[Columbia University]] in 1969 and subsequently taught at [[Yale University]], before being appointed [[Dean (education)|Dean]] of the School of International and Public Affairs at Columbia in 1983.
+what city and state is yale located in?	16551	yale university --> mailing address citytown --> [u'New Haven']	196	'''Harmanus Welch Hall''' is a freshman dormitory at [[Yale University]] in [[New Haven, Connecticut]], United States.
+what city and state is yale located in?	16551	yale university --> location containedby --> [u'United States of America', u'Connecticut', u'New Haven']	293	*[[Yale University]], [[New Haven]], [[Connecticut]], [[United States]]
+what city and state is yale located in?	16551	yale university --> ownership structure --> [u'Yale Center for British Art', u'Yale University Art Gallery']	8	*1969 – [[Yale Center for British Art]], [[Yale University]], 1080 Chapel Street, New Haven, Connecticut
+what city and state is yale located in?	16551	yale university --> honorary degree recipient --> [u'Marek Edelman']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> dated integer number --> [u'11398']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> educational institution nickname --> [u'Bulldogs', u'Elis', u'Yalies']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> organization membership organization --> [u'Association of American Universities']	1	Clark University, along with Stanford and Johns Hopkins, was one of the fourteen founding members of the [[Association of American Universities]], an organization of universities with the most prestigious profiles in research and graduate education, and was one of only three New England universities, along with [[Harvard University|Harvard]] and [[Yale University|Yale]], to be a founding member.
+what city and state is yale located in?	16551	yale university --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViC4ZwpEbGdrcN5Y29ycA']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> dated money value valid date --> [u'2010']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> phone number number --> [u'(203) 432-4771']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> gender enrollment sex --> [u'Female', u'Male']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Bachelor of Fine Arts', u'Bachelor of Music', u'Doctorate']	28	He graduated with distinction from [[Yale University]] at age 18, served in the [[U.S. Army]], earned his [[Master's degree]] from the [[University of Chicago]], and completed his [[Ph.D.]] at [[Harvard University]] where he began teaching at age 23.
+what city and state is yale located in?	16551	yale university --> academic post from --> [u'1983']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> dated integer number --> [u'3333']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> education end date --> [u'1754', u'1868', u'1883', u'1895', u'1898']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> education major field of study --> [u'Biology', u'Classics', u'Chemistry', u'Computer Science', u'Civil Engineering']	4	She studied [[Classics]] starting at the age of 17, when she entered [[Moscow University]], and moved to Germany when she was 20 to continue her studies at the [[Humboldt University of Berlin|Humboldt University]], ultimately receiving a PhD degree in [[Classics]] from [[Yale University]] in 2004.
+what city and state is yale located in?	16551	yale university --> dated money value currency --> [u'United States dollar']	1	On May 22, 2000, Simeone and his wife, by then living on the Upper East Side of New York City, officially established the Harry and Margaret Simeone Music Scholarship at [[Yale University]] by bestowing a gift of [[United States dollar|US$]]1 million.
+what city and state is yale located in?	16551	yale university --> dated money value amount --> [u'19400000000', u'22900000000']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> organization founder organizations founded --> [u'Association of American Universities']	1	Clark University, along with Stanford and Johns Hopkins, was one of the fourteen founding members of the [[Association of American Universities]], an organization of universities with the most prestigious profiles in research and graduate education, and was one of only three New England universities, along with [[Harvard University|Harvard]] and [[Yale University|Yale]], to be a founding member.
+what city and state is yale located in?	16551	yale university --> mailing address postal code --> [u'06520']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> leadership title --> [u'President']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> topic official website --> [u'http://www.yale.edu/']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> dated integer year --> [u'2009', u'2010']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> education student --> [u'Kenny Hill', u'Amy Dru Stanley', u'Charles Comerford', u'William P. Alford', u'Percy C. Hintzen']	1	| 8 || 194 ||[[Kenny Hill (defensive back)|Kenny Hill]]||[[Safety (football position)|S]]||[[Yale University|Yale]]
+what city and state is yale located in?	16551	yale university --> mailing address state province region --> [u'Connecticut']	80	*[[Yale University]], [[New Haven]], [[Connecticut]], [[United States]]
+what city and state is yale located in?	16551	yale university --> dated integer number --> [u'5270', u'5310', u'5316']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> newspaper circulation area newspapers --> [u'Yale Daily News']	17	In 1923 Matthiessen graduated from [[Yale University]], where he was managing editor of the [[Yale Daily News]], editor of the [[Yale Literary Magazine]] and a member of [[Skull and Bones]].
+what city and state is yale located in?	16551	yale university --> school in fiction students graduates --> [u'Joshua Lyman', u'Mr. Wong']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> phone number country code --> [u'1']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> ranking year --> [u'2007', u'2010', u'2011', u'2012']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> educational institution motto --> [u'Lux et veritas']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> leadership role --> [u'President']	1	A 1968 graduate of [[Yale University]], Herman was the Political Editor of the ''[[Yale Daily News]]'' and was in [[Davenport College]], along with [[President]] [[George W. Bush]].
+what city and state is yale located in?	16551	yale university --> organization board membership member --> [u'Jeffrey Bewkes']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> employment tenure from --> [u'1950', u'1956', u'1959', u'1961', u'1967']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> organization scope organizations with this scope --> [u'Sigma Chapter of St. Anthony Hall']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> employment tenure to --> [u'1958', u'1964', u'1966', u'1971', u'1972']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> rival rivals --> [u'Harvard\u2013Yale football rivalry']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> webpage category --> [u'Official Website', u'About']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> educational institution colors --> [u'Yale Blue']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> gender enrollment from --> [u'1969', u'1701']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> ranking list --> [u"US News & World Report: World's Best Universities", u'Times Higher Education World University Rankings', u'Times Higher Education World Reputation Rankings', u'US News & World Report: National University Rankings', u'Academic Ranking of World Universities']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> artwork owner relationship artwork --> [u"Women's Table"]	0	EMPTY
+what city and state is yale located in?	16551	yale university --> educational institution mascot --> [u'Handsome Dan']	1	* [[Yale University]] (Mascot name: [[Handsome Dan]])
+what city and state is yale located in?	16551	yale university --> educational institution extra libraries --> [u'Harvey Cushing/John Hay Whitney Medical Library', u'Sterling Memorial Library', u'Beinecke Library', u'Yale Divinity School Library', u'Lewis Walpole Library']	19	The [[Beinecke Rare Book & Manuscript Library]] at [[Yale University]] holds the majority of Edwards' surviving manuscripts, including over one thousand sermons, notebooks, correspondence, printed materials, and artifacts.
+what city and state is yale located in?	16551	yale university --> organization date founded --> [u'1701']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> leadership person --> [u'Rick Levin']	1	* [[Rick Levin]], then-President of [[Yale University]].
+what city and state is yale located in?	16551	yale university --> university departments --> [u'Yale University Department of History', u'Yale University Department of English', u'Yale University Department of Economics', u'Yale University American Studies Program', u'Yale University Department of Art History']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> artwork owner relationship date acquired --> [u'1993']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> dated money value amount --> [u'35300', u'36500', u'38300', u'40500']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> employment tenure person --> [u'Paul Hudak', u'Alan Perlis', u'Kingman Brewster, Jr.', u'Zaha Hadid', u'Hyo Kang']	5	They were the parents of [[Kingman Brewster, Jr.]], (June 17, 1919 – November 8, 1988) an educator, president of [[Yale University]], and [[United States|American]] diplomat.
+what city and state is yale located in?	16551	yale university --> acceptance rate rate --> [u'6.8', u'8']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> dated integer number --> [u'6082', u'6318', u'6391']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> dated money value valid date --> [u'2008', u'2009', u'2010', u'2011']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> parent institution judaica owning units --> [u'Yale University Library', u'Yale University Archives']	1	* [[Yale University Library]], [[Yale University]]
+what city and state is yale located in?	16551	yale university --> educational institution subsidiary or constituent schools --> [u'Yale College', u'Yale Law School', u'Ezra Stiles College', u'Yale School of Drama', u'Berkeley College']	81	These included [[Pratt Institute]] and [[Yale University]], including its [[Old Campus]] (particularly Phelps Hall and Durfee Hall), [[Branford College]], and the exterior of [[Yale Law School]], [[University of Toronto]]'s [[University College, University of Toronto|University College]], [[Brooklyn College]].
+what city and state is yale located in?	16551	yale university --> periodical publisher period from --> [u'1945']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> name source namesakes --> [u'Yale Club of New York City']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> education specialization --> [u'Edmund Spencer', u'S\xf8ren Kierkegaard', u'Cell biology', u'Renaissance literature']	1	Previously he has remained a Professor of [[Immunobiology]], [[Molecular biophysics]] and [[Biochemistry]], and [[Molecular biology|Molecular]], [[Cell biology|Cellular]] & [[Developmental biology]], and researcher working at [[Yale University]] for 17 years.
+what city and state is yale located in?	16551	yale university --> topic topical webpage --> [u'http://www.yalebulldogs.com/landing/index']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> mailing address street address --> [u'246 Church Street']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> organization relationship child --> [u'Yale Center for British Art', u'Yale University Art Gallery', u'Jonathan Edwards College']	15	She emigrated to the United States after marrying, and taught at [[Northeastern University]], [[Wellesley College|Wellesley]], [[Harvard University|Harvard]], and [[Yale University|Yale]], where she was a fellow of [[Jonathan Edwards College]] and director of the Women's Studies Program.
+what city and state is yale located in?	16551	yale university --> dated integer year --> [u'2010', u'2011']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> academic post position or title --> [u'Sterling Professor']	48	He is a [[Sterling Professor|Sterling Professor of History Emeritus]] at [[Yale University]], and founder and director emeritus of Yale’s [[Gilder Lehrman Center for the Study of Slavery, Resistance, and Abolition]].
+what city and state is yale located in?	16551	yale university --> tagged topic tags --> [u'Ivy League']	29	An account in ''[[Time (magazine)|Time]]'' in 1931 described the two schools as having "flourished", and that both schools were "twin giants of prep schools in size and in prestige", essentially feeder schools for [[Ivy League]] universities such as [[Harvard University|Harvard]] and [[Yale University|Yale]], according to [[Joseph Lieberman]].
+what city and state is yale located in?	16551	yale university --> book subject works --> [u'The man on whom nothing was lost', u'How Harvard and Yale Beat the Market: What Individual Investors Can Learn From the Investment Strategies of the Most Successful University Endowments', u'Blue blood']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> topic social media presence --> [u'http://plus.google.com/107733323076702064612']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> topic alias --> [u'Yale', u'YU', u'Yale University, New Haven', u'Yale University, main campus']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> organization membership from --> [u'1900']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> webpage uri --> [u'http://www.yale.edu/', u'http://www.yalebulldogs.com/landing/index', u'http://www.yale.edu']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> educational institution school type --> [u'Private university']	2	# [[Yale University]] - An American [[Private university|private]] [[Ivy League]] [[Doctoral university|research university]] in [[New Haven, Connecticut]].
+what city and state is yale located in?	16551	yale university --> acceptance rate year --> [u'2010', u'2012']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> education minor --> [u'Philosophy', u'German Language', u'Literature']	5	He received his PhD in [[Philosophy]] from [[Yale University]].
+what city and state is yale located in?	16551	yale university --> education start date --> [u'1881', u'1905', u'1956', u'1958', u'1962']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> organization founders --> [u'Israel Chauncy', u'James Pierpont', u'Noadiah Russell', u'Abraham Pierson', u'Timothy Woodbridge']	1	*''[[Abraham Pierson]], First President of Yale College'' (1874), [[Yale University]], New Haven, Connecticut.
+what city and state is yale located in?	16551	yale university --> dated money value currency --> [u'United States dollar']	1	On May 22, 2000, Simeone and his wife, by then living on the Upper East Side of New York City, officially established the Harry and Margaret Simeone Music Scholarship at [[Yale University]] by bestowing a gift of [[United States dollar|US$]]1 million.
+what city and state is yale located in?	16551	yale university --> educational institution newspaper --> [u'Yale Daily News', u'The Yale Herald']	17	In 1923 Matthiessen graduated from [[Yale University]], where he was managing editor of the [[Yale Daily News]], editor of the [[Yale Literary Magazine]] and a member of [[Skull and Bones]].
+what city and state is yale located in?	16551	yale university --> educational institution campus educational institution --> [u'Yale University']	7819	at [[Yale University]] (United States)
+what city and state is yale located in?	16551	yale university --> honorary degree degree --> [u'Doctorate']	1	in [[chemistry]] at [[Yale University]] in 1986 and his [[Doctorate|Ph.D.]]
+what city and state is yale located in?	16551	yale university --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> webpage resource --> [u"Who are you and what have you done with my 'Gilmore Girls'?!", u"'30 Rock' recap: Green pees", u'Afternoon Roundup: Archie, Audrey, and Courtney Sued', u"'Gossip Girl': A few things it gets totally wrong", u'Yale Students Create Viral Michael Jackson Medley Video']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> periodical publisher period periodical --> [u'The Yale Review', u'The Politic', u'Psychoanalytic Study of the Child']	2	Kagan has a BA in history (1980) from [[Yale University|Yale]], where in 1979 he had been Editor in Chief of the ''[[The Politic|Yale Political Monthly]]'', a periodical that he is credited with reviving.
+what city and state is yale located in?	16551	yale university --> dated money value currency --> [u'United States dollar']	1	On May 22, 2000, Simeone and his wife, by then living on the Upper East Side of New York City, officially established the Harry and Margaret Simeone Music Scholarship at [[Yale University]] by bestowing a gift of [[United States dollar|US$]]1 million.
+what city and state is yale located in?	16551	yale university --> ranking rank --> [u'3', u'4', u'9', u'10', u'11']	0	EMPTY
+what city and state is yale located in?	16551	yale university --> object name --> [u'Yale University']	0	EMPTY
+what city and state is yale located in?	16551	city --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what city and state is yale located in?	16551	city --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA']	0	EMPTY
+what city and state is yale located in?	16551	city --> ontology class mapping uri --> [u'http://s.opencalais.com/1/type/em/e/City']	0	EMPTY
+what city and state is yale located in?	16551	city --> type of fictional setting settings --> [u'Gotham City', u'Sharn', u'Freeport', u'Station Square', u'Central City']	0	EMPTY
+what city and state is yale located in?	16551	city --> object name --> [u'City']	0	EMPTY
+what city and state is yale located in?	16551	city --> topic image --> [u'Tokyo odaiba', u'Shibuya night', u'An aerial view of a human ecosystem. Pictured is the city of Chicago']	0	EMPTY
+what city and state is yale located in?	16551	city --> settlement type settlement type of --> [u'Tel Aviv']	0	EMPTY
+what city and state is yale located in?	16551	city --> ontology class mapping ontology --> [u'OpenCalais']	0	EMPTY
+what city and state is yale located in?	16551	city --> linguistic hint subject form --> [u'Cities']	0	EMPTY
+what city and state is yale located in?	16551	city --> equivalent topic equivalent type --> [u'City/Town/Village']	0	EMPTY
+what city and state is yale located in?	16551	city --> book subject works --> [u'Cities in Civilization', u'Invisible Cities', u'The Seduction of Place: The City in the Twenty-First Century']	0	EMPTY
+what city and state is yale located in?	16551	u.s. state --> object name --> [u'U.S. state']	0	EMPTY
+what city and state is yale located in?	16551	u.s. state --> topic image --> [u'Great Seal of the US']	0	EMPTY
+what city and state is yale located in?	16551	u.s. state --> linguistic hint subject form --> [u'U.S. states']	0	EMPTY
+what city and state is yale located in?	16551	u.s. state --> equivalent topic equivalent type --> [u'US State']	0	EMPTY
+what city and state is yale located in?	16551	states of india --> object name --> [u'States of India']	0	EMPTY
+what city and state is yale located in?	16551	states of india --> equivalent topic equivalent type --> [u'Indian state']	0	EMPTY
+what city and state is yale located in?	16551	states of india --> location containedby --> [u'India']	25	The [[India]]n [[States and union territories of India|state]] of [[West Bengal]] is divided into five administrative Divisions, namely:
+what city and state is yale located in?	16551	yale romanization --> object name --> [u'Yale Romanization']	0	EMPTY

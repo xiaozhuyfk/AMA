@@ -1,288 +1,288 @@
-what are the sports in spain?	11707	the sports --> artist active start --> [u'1976']	0
-what are the sports in spain?	11707	the sports --> artist track --> [u'Moon on a String', u'Hit Single', u'Big Sleep', u'Big Sleep', u'Who Listens to the Radio']	0
-what are the sports in spain?	11707	the sports --> artist label --> [u'Arista Records', u'Stiff Records', u'Sire Records', u'Festival Records', u'Mushroom Records']	0
-what are the sports in spain?	11707	the sports --> group membership end --> [u'1980', u'1981']	0
-what are the sports in spain?	11707	the sports --> artist genre --> [u'New Wave', u'Punk rock', u'Rock music']	0
-what are the sports in spain?	11707	the sports --> group membership start --> [u'1976', u'1978']	0
-what are the sports in spain?	11707	the sports --> group membership member --> [u'Martin Armiger', u'Stephen Cummings', u'Andrew Pendlebury', u'Jim Niven']	6
-what are the sports in spain?	11707	the sports --> artist album --> [u"Don't Throw Stones", u'Reckless', u'All Sports']	0
-what are the sports in spain?	11707	the sports --> object name --> [u'The Sports']	0
-what are the sports in spain?	11707	the sports --> topic alias --> [u'Sports, The']	0
-what are the sports in spain?	11707	the sports --> artist active end --> [u'1981']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> event event type --> [u'Civilian Attack']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> event locations --> [u'Madrid']	9
-what are the sports in spain?	11707	2004 madrid train bombings --> attack process tactic or attack form --> [u'Terrorist Attack', u'Train bombing']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> topic alias --> [u'3/11']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> webpage category --> [u'Tag']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> object name --> [u'2004 Madrid train bombings']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> topic image --> [u'Atocha Station makeshift shrine march 2004']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> event end date --> [u'2004-03-11']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> disaster type of disaster --> [u'Improvised bombing', u'Rail disaster']	0
-what are the sports in spain?	11707	2004 madrid train bombings --> event start date --> [u'2004-03-11']	0
-what are the sports in spain?	11707	tapas --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what are the sports in spain?	11707	tapas --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rX_H_0r-QEdeX9QACs6hfSg']	0
-what are the sports in spain?	11707	tapas --> topic alias --> [u'Tapas cuisine', u'Tapas food']	0
-what are the sports in spain?	11707	tapas --> object name --> [u'Tapas']	0
-what are the sports in spain?	11707	tapas --> topic image --> [u'Puntillitas \u2014 a battered and fried baby squid form of tapas', u'TapasenBarcelona']	0
-what are the sports in spain?	11707	tapas --> dish cuisine --> [u'Spanish Cuisine']	3
-what are the sports in spain?	11707	tapas --> cuisine restaurant --> [u'Thirsty Bear Brewing Company', u'Can Can', u'La Poubelle Restaurant & Bar', u'N', u'Segovia']	0
-what are the sports in spain?	11707	pop art --> webpage resource --> [u'Morning Roundup: John Mayer\u2019s Free Concert; Andy Warhol\u2019s Donation; \u201cAvatar\u201d Sequel Talks', u'Harper\u2019s Bazaar Offers Glimpse at Andy Warhol\u2019s Pre-Pop Years', u"What's your pick for the worst album cover of all-time?", u'Pop Artist Arrested For Gatorade Prank Involving Tiger Woods and Wife Elin Nordegren', u"'Mad Men': Would you peek?"]	0
-what are the sports in spain?	11707	pop art --> product theme products --> [u'Andy Warhol Registry', u'Banksy Registry', u'Ringo Registry', u'Jean-Michel Basquiat Registry', u'Keith Haring Registry']	0
-what are the sports in spain?	11707	pop art --> art period movement associated artworks --> [u'Whaam!', u'Drowning Girl', u'Live Ammo (Ha! Ha! Ha!)', u'Roast Turkey Shopping Bag', u'Sunrise']	0
-what are the sports in spain?	11707	pop art --> exhibition subject exhibitions created about this subject --> [u'Roy Lichtenstein']	0
-what are the sports in spain?	11707	pop art --> object name --> [u'Pop art']	0
-what are the sports in spain?	11707	pop art --> topic image --> [u'PabloPicasso Meninas']	0
-what are the sports in spain?	11707	pop art --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what are the sports in spain?	11707	pop art --> vocabulary equivalent topic equivalent concept --> [u'Pop art']	0
-what are the sports in spain?	11707	pop art --> art period movement associated artists --> [u'Tom Wesselmann', u'Robert Dowd', u'Larry Rivers', u'Andy Warhol', u'Richard Lindner']	10
-what are the sports in spain?	11707	pop art --> art period movement began approximately --> [u'1950']	0
-what are the sports in spain?	11707	pop art --> product theme product lines --> [u'TAG Registries']	0
-what are the sports in spain?	11707	spain --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
-what are the sports in spain?	11707	spain --> government position held office position or title --> [u'Prime Minister of Spain', u'King of Spain', u'President of the Spanish Republic']	17
-what are the sports in spain?	11707	spain --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	34
-what are the sports in spain?	11707	spain --> bibs location loc type --> [u'Country']	0
-what are the sports in spain?	11707	spain --> treaty signature treaty --> [u'Treaty of Seville']	2
-what are the sports in spain?	11707	spain --> dated percentage rate --> [u'0.012886', u'0.025713', u'0.076882', u'0.127735', u'0.280238']	0
-what are the sports in spain?	11707	spain --> location partially contains --> [u'Pyrenees', u'Pic del Port Vell', u'Bay of Biscay', u'Tagus', u'Pic du Bala\xeftous']	151
-what are the sports in spain?	11707	spain --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
-what are the sports in spain?	11707	spain --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what are the sports in spain?	11707	spain --> taxonomy entry prefix --> [u'JN']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar']	6
-what are the sports in spain?	11707	spain --> competitor competition relationship rank --> [u'1', u'3']	0
-what are the sports in spain?	11707	spain --> location people born here --> [u'Jos\xe9 Mar\xeda Usandizaga', u'Daniel Sotres', u'Juanma Rodr\xedguez', u'Jordi Villacampa', u'Roberto Due\xf1as']	0
-what are the sports in spain?	11707	spain --> olympic medal honor medalist --> [u'David Cal', u'Sa\xfal Craviotto', u'Antonio Pe\xf1alver', u'Miguel Prieto', u'Jos\xe9 Yuste']	1
-what are the sports in spain?	11707	spain --> country currency formerly used --> [u'Peseta']	0
-what are the sports in spain?	11707	spain --> military command military conflict --> [u'Battle of Lepanto', u'Conquest of Melilla', u'Battle of Talavera', u'Battle of Bail\xe9n', u'Battle of Medell\xedn']	3
-what are the sports in spain?	11707	spain --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what are the sports in spain?	11707	spain --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0
-what are the sports in spain?	11707	spain --> dated kilowatt hour number --> [u'494.796', u'550.436', u'613.247', u'663.937', u'745.384']	0
-what are the sports in spain?	11707	spain --> country fips  --> [u'SP']	0
-what are the sports in spain?	11707	spain --> vacation choice vacationer --> [u'Richard Zven Kruspe', u'Eva Longoria']	0
-what are the sports in spain?	11707	spain --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what are the sports in spain?	11707	spain --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what are the sports in spain?	11707	spain --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships', u'2000 Summer Paralympics', u'1996 Summer Paralympics']	0
-what are the sports in spain?	11707	spain --> location partially containedby --> [u'North Africa', u'Atlantic Ocean', u'Mediterranean Sea', u'Southern Europe', u'Iberian Peninsula']	374
-what are the sports in spain?	11707	spain --> athletics championships competition athlete relationship event --> [u"2007 World Championships in Athletics \u2013 Men's 1500 metres", u"2007 World Championships in Athletics \u2013 Men's 5000 metres"]	0
-what are the sports in spain?	11707	spain --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Water polo', u'Cycling', u'Cross-country skiing']	179
-what are the sports in spain?	11707	spain --> region caves --> [u'Cave of Altamira']	2
-what are the sports in spain?	11707	spain --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
-what are the sports in spain?	11707	spain --> organization membership organization --> [u'World Bank', u'League of Nations', u'European Space Agency', u'G-20 major economies', u'Organisation for Economic Co-operation and Development']	8
-what are the sports in spain?	11707	spain --> imports and exports exported to --> [u'Algeria', u'Andorra']	291
-what are the sports in spain?	11707	spain --> kingdom rulers --> [u'Juan Carlos I of Spain', u'Alfonso XIII of Spain']	35
-what are the sports in spain?	11707	spain --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
-what are the sports in spain?	11707	spain --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what are the sports in spain?	11707	spain --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0
-what are the sports in spain?	11707	spain --> national anthem of a country official anthem since --> [u'1770']	0
-what are the sports in spain?	11707	spain --> military command military commander --> [u'Theodor von Reding', u'Francisco Javier Casta\xf1os, 1st Duke of Bail\xe9n', u'Gregorio Garc\xeda de la Cuesta', u'John of Austria', u'Coupigny']	1
-what are the sports in spain?	11707	spain --> administrative area adjectival form --> [u'Spanish']	0
-what are the sports in spain?	11707	spain --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjowpwpEbGdrcN5Y29ycA']	0
-what are the sports in spain?	11707	spain --> bibs location is clear --> [u'0']	0
-what are the sports in spain?	11707	spain --> competitor competition relationship competitors --> [u'Rafael Nadal', u'Jes\xfas \xc1ngel Garc\xeda', u'Marta Dom\xednguez', u'Ricardo Fernandez']	5
-what are the sports in spain?	11707	spain --> system title relationship from date --> [u'1492']	0
-what are the sports in spain?	11707	spain --> olympic medal honor event --> [u"Athletics at the 1992 Summer Olympics \u2013 Men's pole vault", u"Sailing at the 1992 Summer Olympics - Women's Europe", u'Handball at the 1984 Summer Olympics', u"Gymnastics at the 2004 Summer Olympics - Men's Vault", u"Gymnastics at the 2004 Summer Olympics - Women's Floor"]	0
-what are the sports in spain?	11707	spain --> olympic participating country olympics participated in --> [u'1900 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	10
-what are the sports in spain?	11707	spain --> government position held office holder --> [u'Luis Carrero-Blanco, 1st Duke of Carrero-Blanco', u'Juan Carlos I of Spain', u'Leopoldo Calvo-Sotelo', u'Fernando Mor\xe1n', u'Niceto Alcal\xe1-Zamora']	25
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
-what are the sports in spain?	11707	spain --> organization scope organizations with this scope --> [u'Overwhelmed and Annoyed Citizens', u'Spanish Confederation of Autonomous Right-wing Groups', u'Iniciativa Internacionalista', u'Socialist Party of Majorca', u'Republican Social Movement']	0
-what are the sports in spain?	11707	spain --> imports and exports amount --> [u'1775000000']	0
-what are the sports in spain?	11707	spain --> country first level divisions --> [u'Chafarinas Islands', u'Extremadura', u'Basque Country', u'Perejil Island', u'Canary Islands']	625
-what are the sports in spain?	11707	spain --> dated money value amount --> [u'6770', u'7300', u'7790', u'8190', u'8620']	0
-what are the sports in spain?	11707	spain --> imports and exports date --> [u'2004']	0
-what are the sports in spain?	11707	spain --> country languages spoken --> [u'Basque Language', u'Catalan language', u'Galician Language', u'Occitan language']	147
-what are the sports in spain?	11707	spain --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what are the sports in spain?	11707	spain --> competitor country relationship competitor --> [u'Beatriz Corrales', u'Spain national football team', u'Ricardo Fernandez', u'Carolina Marin']	2
-what are the sports in spain?	11707	spain --> country calling code --> [u'34']	0
-what are the sports in spain?	11707	spain --> adjoining relationship adjoins --> [u'France', u'Morocco', u'Perejil Island', u'Gibraltar', u'Portugal']	3923
-what are the sports in spain?	11707	spain --> dated percentage date --> [u'1986-05', u'1986-06', u'1986-09', u'1986-11', u'1987-01']	0
-what are the sports in spain?	11707	spain --> athletics championships competition athlete relationship athlete s --> [u'Jes\xfas Espa\xf1a', u'Arturo Casado']	0
-what are the sports in spain?	11707	spain --> geocode longitude --> [u'-3.29494619839']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar']	6
-what are the sports in spain?	11707	spain --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics', u'1988 Summer Olympics']	42
-what are the sports in spain?	11707	spain --> dated percentage rate --> [u'1.015295', u'1.045642', u'1.058837', u'1.085471', u'1.096565']	0
-what are the sports in spain?	11707	spain --> imports and exports imported from --> [u'Scotland', u'Algeria', u'Antigua and Barbuda']	291
-what are the sports in spain?	11707	spain --> olympic participating country ioc code --> [u'ESP']	0
-what are the sports in spain?	11707	spain --> athletics championships competition athlete relationship rank --> [u'7']	0
-what are the sports in spain?	11707	spain --> situation composers living here --> [u'Isaac Alb\xe9niz']	0
-what are the sports in spain?	11707	spain --> dated kgoe number --> [u'530.838', u'558.025', u'605.525', u'623.445', u'683.771']	0
-what are the sports in spain?	11707	spain --> country currency used --> [u'Euro']	12
-what are the sports in spain?	11707	spain --> dated float number --> [u'1.15', u'1.16', u'1.18', u'1.19', u'1.2']	0
-what are the sports in spain?	11707	spain --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
-what are the sports in spain?	11707	spain --> country iso  shortname --> [u'SPAIN']	0
-what are the sports in spain?	11707	spain --> naval engagement participation naval engagement --> [u'Battle of Trafalgar']	10
-what are the sports in spain?	11707	spain --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
-what are the sports in spain?	11707	spain --> dated percentage date --> [u'1995', u'1996', u'1997', u'1998', u'1999']	0
-what are the sports in spain?	11707	spain --> breed origin breeds originating here --> [u'Catalan Sheepdog', u'Ibizan Hound', u'Estrela Mountain Dog', u'Papillon', u'Great Pyrenees']	4
-what are the sports in spain?	11707	spain --> athletics championships competition athlete relationship championships --> [u'2007 World Championships in Athletics']	0
-what are the sports in spain?	11707	spain --> dated integer source --> [u'The National Institute of Statistics, Spain', u'World Bank, World Development Indicators, Population']	0
-what are the sports in spain?	11707	spain --> newspaper circulation area newspapers --> [u'El Pa\xeds', u'El Mundo', u'ADN', u'ABC', u'Solidaridad Obrera']	5
-what are the sports in spain?	11707	spain --> adjusted money value adjusted value --> [u'113167785487', u'126565350905', u'139162954767', u'152517726154', u'160614145274']	0
-what are the sports in spain?	11707	spain --> adjusted money value adjustment currency --> [u'United States dollar']	6
-what are the sports in spain?	11707	spain --> dated percentage rate --> [u'-3.740753', u'-1.031492', u'-0.132469', u'-0.069477', u'0.041547']	0
-what are the sports in spain?	11707	spain --> webpage uri --> [u'http://statoids.com/ues.html']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
-what are the sports in spain?	11707	spain --> flag use flag --> [u'Flag of Spain']	2
-what are the sports in spain?	11707	spain --> country second level divisions --> [u'Province of Guadalajara', u'C\xe1diz', u'Province of Badajoz', u'Province of C\xf3rdoba', u'Province of Zamora']	18
-what are the sports in spain?	11707	spain --> sports team location teams --> [u'Spain national handball team', u'B\xe0squet Manresa', u'CB Murcia', u'Spain national football team', u"Spain men's national volleyball team"]	8
-what are the sports in spain?	11707	spain --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what are the sports in spain?	11707	spain --> force strength force size --> [u'23000', u'25000']	0
-what are the sports in spain?	11707	spain --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what are the sports in spain?	11707	spain --> force strength military conflict --> [u'Battle of Bail\xe9n', u'Battle of Montes Claros']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar']	6
-what are the sports in spain?	11707	spain --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what are the sports in spain?	11707	spain --> location events --> [u'Bombing of Alicante', u'1982 FIFA World Cup', u'Action of 18 March 1748', u'Battle of Ir\xfan', u'Battle of Maguilla']	46
-what are the sports in spain?	11707	spain --> competitor competition relationship medal --> [u'Gold medal', u'Bronze medal']	0
-what are the sports in spain?	11707	spain --> location adjectival form --> [u'Spanish', u'Spaniard']	0
-what are the sports in spain?	11707	spain --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
-what are the sports in spain?	11707	spain --> dated metric ton number --> [u'1.606593', u'1.746222', u'1.879509', u'1.935782', u'2.037725']	0
-what are the sports in spain?	11707	spain --> casualties lower estimate --> [u'4000', u'10000']	0
-what are the sports in spain?	11707	spain --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
-what are the sports in spain?	11707	spain --> recurring money value currency --> [u'Euro', u'Euro', u'Euro', u'Euro', u'Euro']	12
-what are the sports in spain?	11707	spain --> countries continent --> [u'Europe']	310
-what are the sports in spain?	11707	spain --> casualties military conflict --> [u'Siege of Badajoz', u'Battle of Medell\xedn', u'Battle of Montes Claros']	2
-what are the sports in spain?	11707	spain --> administrative area subdividing type --> [u'Spanish place of sovereignty', u'Spanish autonomous city', u'Spanish autonomous community']	0
-what are the sports in spain?	11707	spain --> government position held to --> [u'1982-12-01', u'1981-02-25', u'1936-04-07', u'2011-12-21', u'1985-07-04']	0
-what are the sports in spain?	11707	spain --> webpage category --> [u'Tag', u'About', u'Topic Equivalent']	0
-what are the sports in spain?	11707	spain --> government position held basic title --> [u'President', u'Prime minister', u'Foreign Minister', u'Monarch']	3
-what are the sports in spain?	11707	spain --> linguistic hint adjectival form --> [u'Spanish']	0
-what are the sports in spain?	11707	spain --> military combatant group conflict --> [u'Philippine Revolts Against Spain', u'Battle of Seminara', u'War of the Second Coalition', u"War of Jenkins' Ear", u'Battle of Chupas']	10
-what are the sports in spain?	11707	spain --> administrative area administrative parent --> [u'Earth']	0
-what are the sports in spain?	11707	spain --> country capital --> [u'Madrid']	1269
-what are the sports in spain?	11707	spain --> earthquake nearest location earthquake --> [u'2011 Lorca earthquake', u'Spain 1954 earthquake']	5
-what are the sports in spain?	11707	spain --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what are the sports in spain?	11707	spain --> naval engagement participation casualties --> [u'0', u'4', u'5', u'8', u'20']	0
-what are the sports in spain?	11707	spain --> dated percentage rate --> [u'7.9', u'8', u'8.1', u'8.2', u'8.3']	0
-what are the sports in spain?	11707	spain --> country internet tld --> [u'eu', u'es', u'cat']	1
-what are the sports in spain?	11707	spain --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what are the sports in spain?	11707	spain --> naval engagement participation wounded --> [u'7', u'12', u'14', u'22', u'29']	0
-what are the sports in spain?	11707	spain --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-what are the sports in spain?	11707	spain --> beer country region beers from here --> [u'Alhambra Reserva 1925', u'Alhambra Mezquita', u'Alhambra Premium Lager', u'Estrella Galicia', u'San Miguel Tradici\xf3n']	1
-what are the sports in spain?	11707	spain --> recurring money value frequency --> [u'Month', u'Month', u'Month', u'Month', u'Month']	0
-what are the sports in spain?	11707	spain --> dated money value valid date --> [u'2008']	0
-what are the sports in spain?	11707	spain --> valuenotation has no value --> [u'Date dissolved']	0
-what are the sports in spain?	11707	spain --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what are the sports in spain?	11707	spain --> dated money value amount --> [u'36500']	0
-what are the sports in spain?	11707	spain --> casualties type of casualties --> [u'Military - Dead', u'Civilian - Dead']	0
-what are the sports in spain?	11707	spain --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what are the sports in spain?	11707	spain --> imports and exports currency --> [u'UK \xa3']	0
-what are the sports in spain?	11707	spain --> location primarily containedby --> [u'Europe', u'Iberian Peninsula']	420
-what are the sports in spain?	11707	spain --> administrative area short name --> [u'es']	0
-what are the sports in spain?	11707	spain --> system title relationship title --> [u'Infante']	6
-what are the sports in spain?	11707	spain --> arrest arrested person --> [u'Antonio Banderas']	2
-what are the sports in spain?	11707	spain --> governmental jurisdiction government --> [u'Government of Spain']	5
-what are the sports in spain?	11707	spain --> country form of government --> [u'Constitutional monarchy', u'Parliamentary system', u'Unitary state']	2
-what are the sports in spain?	11707	spain --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Women's 3000 metres steeplechase", u"2010 Wimbledon Championships \u2013 Men's Singles", u"Goalball at the 2000 Summer Paralympics - Men's tournament", u"2009 World Championships in Athletics \u2013 Men's 50 kilometres walk", u"Goalball at the 1996 Summer Paralympics - Men's tournament"]	0
-what are the sports in spain?	11707	spain --> competitor country relationship sports --> [u'Badminton', u'Goalball']	0
-what are the sports in spain?	11707	spain --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
-what are the sports in spain?	11707	spain --> dated percentage source --> [u'Broadband penetration rate, Broadband penetration in Europe, Eurostat']	0
-what are the sports in spain?	11707	spain --> recurring money value currency --> [u'Euro']	12
-what are the sports in spain?	11707	spain --> adjusted money value adjustment date --> [u'2000']	0
-what are the sports in spain?	11707	spain --> book subject works --> [u'Representations of holiness in some spanish hagiographical works', u'Privilege, persecution, and prophecy', u'Rifleman Dodd', u'Catalan cuisine', u'Transition through transaction']	0
-what are the sports in spain?	11707	spain --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what are the sports in spain?	11707	spain --> organization membership to --> [u'1939-05']	0
-what are the sports in spain?	11707	spain --> dated percentage rate --> [u'2', u'2.4', u'3.1', u'4.3', u'4.6']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
-what are the sports in spain?	11707	spain --> travel destination tourist attractions --> [u'Museo Nacional Del Prado']	6
-what are the sports in spain?	11707	spain --> location contains --> [u'Villoria', u'Gav\xe0', u'Guissona', u'Gutierre-Mu\xf1oz', u'El Fond\xf3 de les Neus']	2
-what are the sports in spain?	11707	spain --> topic alias --> [u'Espa\xf1a', u'Kingdom of Spain']	0
-what are the sports in spain?	11707	spain --> flag use from date --> [u'1978-12-06']	0
-what are the sports in spain?	11707	spain --> taxonomy entry high --> [u'8399']	0
-what are the sports in spain?	11707	spain --> organization membership from --> [u'1920-01-10', u'2008', u'1986-01-01', u'1955-12-14']	0
-what are the sports in spain?	11707	spain --> location area --> [u'505992']	0
-what are the sports in spain?	11707	spain --> arrest offense --> [u'Political censorship']	0
-what are the sports in spain?	11707	spain --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
-what are the sports in spain?	11707	spain --> recurring money value frequency --> [u'Month']	0
-what are the sports in spain?	11707	spain --> recurring money value amount --> [u'485.71', u'495.6', u'505.69', u'515.9', u'526.4']	0
-what are the sports in spain?	11707	spain --> valuenotation has value --> [u'Date founded']	0
-what are the sports in spain?	11707	spain --> force strength date --> [u'1665']	0
-what are the sports in spain?	11707	spain --> netflix genre titles --> [u'Guantanamero', u'Love Can Seriously Damage Your Health', u'A Time for Defiance', u'The Stone Raft', u'Belle \xc9poque']	0
-what are the sports in spain?	11707	spain --> governmental jurisdiction agencies --> [u'Directorate General of Traffic', u'Instituto Nacional de Estad\xedstica']	0
-what are the sports in spain?	11707	spain --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what are the sports in spain?	11707	spain --> country administrative divisions --> [u'Province of Guadalajara', u'Barcelona', u'C\xe1diz', u'Province of Badajoz', u'Province of C\xf3rdoba']	1193
-what are the sports in spain?	11707	spain --> competitor competition relationship tournament --> [u'2010 Wimbledon Championships', u'2009 World Championships in Athletics', u'2000 Summer Paralympics', u'1996 Summer Paralympics']	0
-what are the sports in spain?	11707	spain --> dated float number --> [u'69.109', u'69.48', u'69.519', u'69.681', u'70.4']	0
-what are the sports in spain?	11707	spain --> governmental jurisdiction government bodies --> [u'Congress of Deputies', u'Cortes Generales', u'Senate of Spain', u'Cabinet of Spain']	17
-what are the sports in spain?	11707	spain --> administrative area pertinent type --> [u'Spanish comarca', u'Spanish place of sovereignty', u'Spanish autonomous city', u'Spanish autonomous community', u'Spanish municipality']	0
-what are the sports in spain?	11707	spain --> location time zones --> [u'UTC+01:00', u'Central European Time']	3
-what are the sports in spain?	11707	spain --> administrative area administrative area type --> [u'Sovereign state']	0
-what are the sports in spain?	11707	spain --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
-what are the sports in spain?	11707	spain --> film location featured in films --> [u'My Life In Ruins', u'Ast\xe9rix at the Olympic Games', u'BeachBoy', u'Luc\xeda y el sexo', u'Born to Ride']	1
-what are the sports in spain?	11707	spain --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what are the sports in spain?	11707	spain --> webpage resource --> [u'Leonard Cohen collapses on stage', u"'Design Star''s 'white room' challenge", u'Bulls escape set of Tom Cruise-Cameron Diaz movie, injure two', u"Battle of the 'Lost' promos! Spain or ABC? Radiohead or Willie? Vote!", u'Costa Blanca Information']	0
-what are the sports in spain?	11707	spain --> topic exceptions --> [u'City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District.']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
-what are the sports in spain?	11707	spain --> government position held governmental body --> [u'Ministry of Foreign Affairs and Cooperation']	3
-what are the sports in spain?	11707	spain --> naval engagement participation outcome --> [u'Survived', u'Taken', u'Destroyed']	0
-what are the sports in spain?	11707	spain --> dated integer number --> [u'15464340', u'15645072', u'16622175', u'17549608', u'18065635']	0
-what are the sports in spain?	11707	spain --> recurring money value date --> [u'1999-01', u'1999-07', u'2000-01', u'2000-07', u'2001-01']	0
-what are the sports in spain?	11707	spain --> geocode latitude --> [u'40.6985822539']	0
-what are the sports in spain?	11707	spain --> naval engagement participation ship --> [u'Mont\xe3nez', u'HMS Neptune', u'Rayo', u'San Francisco de Asis', u'San Leandro']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6
-what are the sports in spain?	11707	spain --> country official language --> [u'Spanish Language']	338
-what are the sports in spain?	11707	spain --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what are the sports in spain?	11707	spain --> dated percentage rate --> [u'0.15', u'0.2', u'0.22', u'0.23', u'0.25']	0
-what are the sports in spain?	11707	spain --> taxonomy entry low --> [u'8101']	0
-what are the sports in spain?	11707	spain --> administrative area administrative children --> [u'Extremadura', u'Basque Country', u'Balearic Islands', u'Canary Islands', u'Catalonia']	1688
-what are the sports in spain?	11707	spain --> government position held from --> [u'1982-12-01', u'1981-02-25', u'1973-06-09', u'1973-12-31', u'2011-12-21']	0
-what are the sports in spain?	11707	spain --> olympic athlete affiliation athlete --> [u'Francisco Ventoso', u'David Cal', u'Shen Yanfei', u'Joane Somarriba', u'Sa\xfal Craviotto']	1
-what are the sports in spain?	11707	spain --> dated percentage date --> [u'2002-07', u'2002-10', u'2003-01', u'2003-07', u'2003-10']	0
-what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar']	6
-what are the sports in spain?	11707	spain --> dated money value amount --> [u'253603707714', u'275539918879', u'295751635052', u'312147339692', u'329851864915']	0
-what are the sports in spain?	11707	spain --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what are the sports in spain?	11707	spain --> recurring money value source --> [u'Eurostat, Minimum Wage in Europe']	0
-what are the sports in spain?	11707	spain --> object name --> [u'Spain']	0
-what are the sports in spain?	11707	spain --> topic image --> [u'Location of Spain', u'spain-flag.gif']	0
-what are the sports in spain?	11707	spain --> national anthem of a country anthem --> [u'Marcha Real']	3
-what are the sports in spain?	11707	spain --> dated integer year --> [u'1897', u'1910', u'1920', u'1930', u'1940']	0
-what are the sports in spain?	11707	spain --> dated money value amount --> [u'12072126075', u'12072126075.4', u'13834300571.5', u'13834300572', u'16138545209']	0
-what are the sports in spain?	11707	spain --> governmental jurisdiction government positions --> [u'Prime Minister of Spain', u'President of the Congress of Deputies', u'President of the Spanish Senate']	18
-what are the sports in spain?	11707	spain --> dated percentage rate --> [u'36.3', u'39.7', u'40.2', u'43.2', u'46.3']	0
-what are the sports in spain?	11707	sports --> website category sites --> [u'buy.cycolo.gy', u'Yahoo! Sports', u'cycolo.gy', u'PlaySportsTV', u'Foxsports.com']	0
-what are the sports in spain?	11707	sports --> exhibition subject exhibitions created about this subject --> [u'Science of Sport']	0
-what are the sports in spain?	11707	sports --> award discipline awards in this discipline --> [u'Svenska Dagbladet Gold Medal']	0
-what are the sports in spain?	11707	sports --> equivalent topic equivalent domain --> [u'Sports']	0
-what are the sports in spain?	11707	sports --> topic alias --> [u'Sport']	0
-what are the sports in spain?	11707	sports --> tv subject tv programs --> [u'Baseball', u'Baseball: The Tenth Inning']	0
-what are the sports in spain?	11707	sports --> taxonomy entry high --> [u'1198.995']	0
-what are the sports in spain?	11707	sports --> organization sector organizations in this sector --> [u'Pes\xe4palloliitto', u'National Football League', u'ESPN', u'EuroThrowers', u'BaToCo Barriletes']	0
-what are the sports in spain?	11707	sports --> taxonomy entry prefix --> [u'GV']	0
-what are the sports in spain?	11707	sports --> periodical subject periodicals --> [u'The New York Times Magazine', u'The Ithacan', u'The Onion', u'Fanatik', u'Sports Nippon']	0
-what are the sports in spain?	11707	sports --> field of study journals in this discipline --> [u'http://olourde.canalblog.com/']	0
-what are the sports in spain?	11707	sports --> webpage category --> [u'Tag', u'Curated Topic']	0
-what are the sports in spain?	11707	sports --> organization type organizations of this type --> [u'The Griphouse', u'Vosta Volleybal']	0
-what are the sports in spain?	11707	sports --> education institution --> [u'Massey University', u'Bukit Jalil Sports School']	0
-what are the sports in spain?	11707	sports --> field of study academic departments --> [u'University of Texas Athletics', u'University of Michigan Athletics Department']	0
-what are the sports in spain?	11707	sports --> topic subject of --> [u'All-star', u'All-star game']	0
-what are the sports in spain?	11707	sports --> tv subject tv episodes --> [u'Inning 2: Something Like a War', u'Inning 4: A National Heirloom', u'Inning 7: The Capital of Baseball', u'Inning 8: A Whole New Ballgame', u'Inning 9: Home']	0
-what are the sports in spain?	11707	sports --> topic comments --> [u'ZSI on Sports']	0
-what are the sports in spain?	11707	sports --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what are the sports in spain?	11707	sports --> webpage resource --> [u'Weather Channel predicts rainbows, with a chance of awwwww', u"Ratings: Sports, led by Fox's baseball World Series, top the week", u"'Survivor: Heroes Vs. Villains': Amanda insists 'I'm gonna be a bulldog this time. No apologies, bitches.'", u'The thing that made me like you (even more): Ashton Kutcher edition', u'Indie Baseball: Old Brooklyn Meets New Brooklyn']	0
-what are the sports in spain?	11707	sports --> casino theme casinos in this theme --> [u'Las Vegas Club']	0
-what are the sports in spain?	11707	sports --> radio subject programs with this subject --> [u'Sid Rosenberg Show']	0
-what are the sports in spain?	11707	sports --> ad network vertical ad networks --> [u'Sportgenic', u'Sport Sydicator']	0
-what are the sports in spain?	11707	sports --> education student --> [u'Pandelela Rinong', u'Amaka Gessler']	0
-what are the sports in spain?	11707	sports --> industry companies --> [u'Forum Snowboards', u'LTB', u'Upper Deck Company', u'Yoursports', u'China Dongxiang']	0
-what are the sports in spain?	11707	sports --> profession specializations --> [u'Baseball']	3
-what are the sports in spain?	11707	sports --> breakfast cereal theme brands --> [u'Wheaties']	0
-what are the sports in spain?	11707	sports --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
-what are the sports in spain?	11707	sports --> content broadcast --> [u'ESPN', u'NTV Spor', u'MARCA TV']	0
-what are the sports in spain?	11707	sports --> type of thing includes --> [u'Golf', u'Motorsport']	2
-what are the sports in spain?	11707	sports --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what are the sports in spain?	11707	sports --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwPySLpwpEbGdrcN5Y29ycA']	0
-what are the sports in spain?	11707	sports --> taxonomy entry low --> [u'561']	0
-what are the sports in spain?	11707	sports --> education major field of study --> [u'Psychology']	2
-what are the sports in spain?	11707	sports --> hall of fame discipline halls of fame --> [u'IRB Hall of Fame', u'West Coast Stock Car Hall of Fame', u'International Swimming Hall of Fame', u'National Museum of Racing and Hall of Fame', u'Negro Leagues Baseball Museum']	0
-what are the sports in spain?	11707	sports --> profession job titles --> [u'Athlete']	0
-what are the sports in spain?	11707	sports --> fictional organization type organizations --> [u'Slytherin Quidditch Team', u'Gryffindor Quidditch Team']	0
-what are the sports in spain?	11707	sports --> object name --> [u'Sports']	0
-what are the sports in spain?	11707	sports --> topic image --> [u'Youth-soccer-indiana']	0
-what are the sports in spain?	11707	sports --> quotation subject quotations about this subject --> [u'Sport in the sense of a mass-spectacle, with death to add to the underlying excitement, comes into existence when a population has been drilled and regimented and depressed to such an extent that it needs at least a vicarious participation in difficult feats of strength or skill or heroism in order to sustain its waning life-sense.', u"I don't think I can be expected to take seriously any game which takes less than three days to reach its conclusion.", u'Unlike any other business in the United States, sports must preserve an illusion of perfect innocence. The mounting of this illusion defines the purpose and accounts for the immense wealth of American sports. It is the ceremony of innocence that the fans pay to see -- not the game or the match or the bout, but the ritual portrayal of a world in which time stops and all hope remains plausible, in which everybody present can recover the blameless expectations of a child, where the forces of light always triumph over the powers of darkness.', u'The man loves danger and sport. That is why he loves woman, the most dangerous of all sports.', u'Skiing: the art of catching cold and going broke while rapidly heading nowhere at great personal risk.']	0
-what are the sports in spain?	11707	sports --> equivalent topic equivalent type --> [u'Sport']	0
-what are the sports in spain?	11707	sports --> book subject works --> [u'Cricket Characters', u'The Life of Helen Stephens', u'Trout Fishing in America', u'A Terrible Splendor: Three Extraordinary Men, a World Poised for War, and the Greatest Tennis Match Ever Played', u'Blind Flight']	0
-what are the sports in spain?	11707	sports car --> webpage resource --> [u"Kanye West on the emotional price of celebrity: Exclusive 'Chicken Soup for the Soul' excerpt", u"'Modern Family' recap: Best lines from last night", u"Eddie Griffin's suspicious smash-up", u"Snap Judgment: 'Rock of Love 2' (Rock Harder)"]	0
-what are the sports in spain?	11707	sports car --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what are the sports in spain?	11707	sports car --> object name --> [u'Sports car']	0
-what are the sports in spain?	11707	sports car --> topic image --> [u'LotusSuper7', u'1963 Jaguar XK-E Roadster', u'F1000026']	0
-what are the sports in spain?	11707	sports car --> automotive class examples --> [u'BMW M1', u'Chevrolet Camaro', u'Matra Murena', u'XR-400', u'Covini C6W']	0
-what are the sports in spain?	11707	sports car --> product choice consumer --> [u'Clipse']	0
-what are the sports in spain?	11707	sports car --> linguistic hint subject form --> [u'Sports cars']	0
+what are the sports in spain?	11707	the sports --> artist active start --> [u'1976']	0	EMPTY
+what are the sports in spain?	11707	the sports --> artist track --> [u'Moon on a String', u'Hit Single', u'Big Sleep', u'Big Sleep', u'Who Listens to the Radio']	0	EMPTY
+what are the sports in spain?	11707	the sports --> artist label --> [u'Arista Records', u'Stiff Records', u'Sire Records', u'Festival Records', u'Mushroom Records']	0	EMPTY
+what are the sports in spain?	11707	the sports --> group membership end --> [u'1980', u'1981']	0	EMPTY
+what are the sports in spain?	11707	the sports --> artist genre --> [u'New Wave', u'Punk rock', u'Rock music']	0	EMPTY
+what are the sports in spain?	11707	the sports --> group membership start --> [u'1976', u'1978']	0	EMPTY
+what are the sports in spain?	11707	the sports --> group membership member --> [u'Martin Armiger', u'Stephen Cummings', u'Andrew Pendlebury', u'Jim Niven']	6	[[Jo Jo Zep & The Falcons]] leader [[Joe Camilleri]] produced seven of the eleven tracks with three tracks produced by [[Martin Armiger]] ([[The Sports]]) and one by [[Trevor Lucas]] (ex-[[Fairport Convention]], [[Fotheringay]]).
+what are the sports in spain?	11707	the sports --> artist album --> [u"Don't Throw Stones", u'Reckless', u'All Sports']	0	EMPTY
+what are the sports in spain?	11707	the sports --> object name --> [u'The Sports']	0	EMPTY
+what are the sports in spain?	11707	the sports --> topic alias --> [u'Sports, The']	0	EMPTY
+what are the sports in spain?	11707	the sports --> artist active end --> [u'1981']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> event event type --> [u'Civilian Attack']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> event locations --> [u'Madrid']	9	*[[2004]] &ndash; [[2004 Madrid train bombings|Madrid train bombings]]: Simultaneous explosions on rush hour trains in [[Madrid]], Spain, kill 191 people.
+what are the sports in spain?	11707	2004 madrid train bombings --> attack process tactic or attack form --> [u'Terrorist Attack', u'Train bombing']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> topic alias --> [u'3/11']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> webpage category --> [u'Tag']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> object name --> [u'2004 Madrid train bombings']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> topic image --> [u'Atocha Station makeshift shrine march 2004']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> event end date --> [u'2004-03-11']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> disaster type of disaster --> [u'Improvised bombing', u'Rail disaster']	0	EMPTY
+what are the sports in spain?	11707	2004 madrid train bombings --> event start date --> [u'2004-03-11']	0	EMPTY
+what are the sports in spain?	11707	tapas --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what are the sports in spain?	11707	tapas --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rX_H_0r-QEdeX9QACs6hfSg']	0	EMPTY
+what are the sports in spain?	11707	tapas --> topic alias --> [u'Tapas cuisine', u'Tapas food']	0	EMPTY
+what are the sports in spain?	11707	tapas --> object name --> [u'Tapas']	0	EMPTY
+what are the sports in spain?	11707	tapas --> topic image --> [u'Puntillitas \u2014 a battered and fried baby squid form of tapas', u'TapasenBarcelona']	0	EMPTY
+what are the sports in spain?	11707	tapas --> dish cuisine --> [u'Spanish Cuisine']	3	* [[Tapas]], a wide variety of [[appetizers]] in [[Spanish cuisine]]
+what are the sports in spain?	11707	tapas --> cuisine restaurant --> [u'Thirsty Bear Brewing Company', u'Can Can', u'La Poubelle Restaurant & Bar', u'N', u'Segovia']	0	EMPTY
+what are the sports in spain?	11707	pop art --> webpage resource --> [u'Morning Roundup: John Mayer\u2019s Free Concert; Andy Warhol\u2019s Donation; \u201cAvatar\u201d Sequel Talks', u'Harper\u2019s Bazaar Offers Glimpse at Andy Warhol\u2019s Pre-Pop Years', u"What's your pick for the worst album cover of all-time?", u'Pop Artist Arrested For Gatorade Prank Involving Tiger Woods and Wife Elin Nordegren', u"'Mad Men': Would you peek?"]	0	EMPTY
+what are the sports in spain?	11707	pop art --> product theme products --> [u'Andy Warhol Registry', u'Banksy Registry', u'Ringo Registry', u'Jean-Michel Basquiat Registry', u'Keith Haring Registry']	0	EMPTY
+what are the sports in spain?	11707	pop art --> art period movement associated artworks --> [u'Whaam!', u'Drowning Girl', u'Live Ammo (Ha! Ha! Ha!)', u'Roast Turkey Shopping Bag', u'Sunrise']	0	EMPTY
+what are the sports in spain?	11707	pop art --> exhibition subject exhibitions created about this subject --> [u'Roy Lichtenstein']	0	EMPTY
+what are the sports in spain?	11707	pop art --> object name --> [u'Pop art']	0	EMPTY
+what are the sports in spain?	11707	pop art --> topic image --> [u'PabloPicasso Meninas']	0	EMPTY
+what are the sports in spain?	11707	pop art --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what are the sports in spain?	11707	pop art --> vocabulary equivalent topic equivalent concept --> [u'Pop art']	0	EMPTY
+what are the sports in spain?	11707	pop art --> art period movement associated artists --> [u'Tom Wesselmann', u'Robert Dowd', u'Larry Rivers', u'Andy Warhol', u'Richard Lindner']	10	His work was exhibited in the famous 1962 "New Realists" show at the [[Sidney Janis]] Gallery with other young [[Pop art]] and [[Nouveau réalisme]] luminaries, including [[Andy Warhol]] and [[Roy Lichtenstein]].
+what are the sports in spain?	11707	pop art --> art period movement began approximately --> [u'1950']	0	EMPTY
+what are the sports in spain?	11707	pop art --> product theme product lines --> [u'TAG Registries']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0	EMPTY
+what are the sports in spain?	11707	spain --> government position held office position or title --> [u'Prime Minister of Spain', u'King of Spain', u'President of the Spanish Republic']	17	'''Lorenzo Arrazola y García''' ([[Checa, Guadalajara]], [[Spain]], 10 August 1797 &ndash; [[Madrid]], Spain, 23 February 1873) was a Spanish [[lawyer]], [[politician]] and [[politician|statesman]] who served as [[Prime Minister of Spain]] and as [[Minister of Foreign Affairs (Spain)|Minister of State]] in 1864.
+what are the sports in spain?	11707	spain --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	34	'''Sandra Cam''' (born June 30, 1972 in [[Ougrée]], [[Liège]], [[Belgium]]) is a Belgian retired female [[freestyle swimming|freestyle]] [[Swimming (sport)|swimmer]] who represented her country in two consecutive [[Summer Olympic Games|Summer Olympics]], in [[Barcelona]], [[Spain]] ([[1992 Summer Olympics|1992]]) and [[Atlanta]], [[United States]] ([[1996 Summer Olympics|1996]]).
+what are the sports in spain?	11707	spain --> bibs location loc type --> [u'Country']	0	EMPTY
+what are the sports in spain?	11707	spain --> treaty signature treaty --> [u'Treaty of Seville']	2	* [[November 9]] &ndash; [[Spain]], [[France]] and [[England]] sign the [[Treaty of Seville (1729)|Treaty of Seville]].
+what are the sports in spain?	11707	spain --> dated percentage rate --> [u'0.012886', u'0.025713', u'0.076882', u'0.127735', u'0.280238']	0	EMPTY
+what are the sports in spain?	11707	spain --> location partially contains --> [u'Pyrenees', u'Pic del Port Vell', u'Bay of Biscay', u'Tagus', u'Pic du Bala\xeftous']	151	Located in the [[Pyrenees]] between [[Spain]] and [[France]], it has two co-princes: the [[Diocese of Urgell|Bishop of Urgell]] (a [[prince-bishop]]) in Spain and the [[President of France]] (inherited ''ex officio'' from the French kings, who themselves inherited the title from the counts of Foix).
+what are the sports in spain?	11707	spain --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what are the sports in spain?	11707	spain --> taxonomy entry prefix --> [u'JN']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> competitor competition relationship rank --> [u'1', u'3']	0	EMPTY
+what are the sports in spain?	11707	spain --> location people born here --> [u'Jos\xe9 Mar\xeda Usandizaga', u'Daniel Sotres', u'Juanma Rodr\xedguez', u'Jordi Villacampa', u'Roberto Due\xf1as']	0	EMPTY
+what are the sports in spain?	11707	spain --> olympic medal honor medalist --> [u'David Cal', u'Sa\xfal Craviotto', u'Antonio Pe\xf1alver', u'Miguel Prieto', u'Jos\xe9 Yuste']	1	Vajda won a bronze in the event behind [[Spain]]'s [[David Cal]] and [[Germany]]'s [[Andreas Dittmer]], but beat out 1996 Olympic champion [[Martin Doktor]] with a time of 3:49.025.
+what are the sports in spain?	11707	spain --> country currency formerly used --> [u'Peseta']	0	EMPTY
+what are the sports in spain?	11707	spain --> military command military conflict --> [u'Battle of Lepanto', u'Conquest of Melilla', u'Battle of Talavera', u'Battle of Bail\xe9n', u'Battle of Medell\xedn']	3	In the same year he was sent to [[Spain]], where he took a prominent part in the [[Peninsular War]] (especially against [[Joaquín Blake y Joyes|Blake]] at the [[Battle of Espinosa]], and later at the battles of [[Battle of Talavera|Talavera]], [[Battle of Barrosa|Barrosa]] and [[Battle of Cádiz (1810)|Cádiz]]), until his appointment in 1812 to a corps command in the [[Napoleon's invasion of Russia|invasion of Russia]].
+what are the sports in spain?	11707	spain --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated kilowatt hour number --> [u'494.796', u'550.436', u'613.247', u'663.937', u'745.384']	0	EMPTY
+what are the sports in spain?	11707	spain --> country fips  --> [u'SP']	0	EMPTY
+what are the sports in spain?	11707	spain --> vacation choice vacationer --> [u'Richard Zven Kruspe', u'Eva Longoria']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what are the sports in spain?	11707	spain --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships', u'2000 Summer Paralympics', u'1996 Summer Paralympics']	0	EMPTY
+what are the sports in spain?	11707	spain --> location partially containedby --> [u'North Africa', u'Atlantic Ocean', u'Mediterranean Sea', u'Southern Europe', u'Iberian Peninsula']	374	It helped pioneer the concept of "cheap and cheerful" [[package tour]]s to [[Spain]] and other destinations in the [[Mediterranean Sea|"Med"]] in conjunction with [[Clarksons Travel Group|Clarksons Holidays]], thus taking part in the establishment of a whole new way of holidaymaking for the British public.
+what are the sports in spain?	11707	spain --> athletics championships competition athlete relationship event --> [u"2007 World Championships in Athletics \u2013 Men's 1500 metres", u"2007 World Championships in Athletics \u2013 Men's 5000 metres"]	0	EMPTY
+what are the sports in spain?	11707	spain --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Water polo', u'Cycling', u'Cross-country skiing']	179	'''Nou Mestalla''' () is a partially built 61,500-seat [[Association football|football]] [[stadium]] in [[Valencia, Spain|Valencia]], [[Spain]], intended as a replacement for [[Valencia CF]]'s current stadium, [[Estadio Mestalla]].
+what are the sports in spain?	11707	spain --> region caves --> [u'Cave of Altamira']	2	[[File:AltamiraBison.jpg|thumb|right|250px| [[Cave of Altamira]], near [[Santander, Cantabria|Santander]], [[Spain]].]]
+what are the sports in spain?	11707	spain --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0	EMPTY
+what are the sports in spain?	11707	spain --> organization membership organization --> [u'World Bank', u'League of Nations', u'European Space Agency', u'G-20 major economies', u'Organisation for Economic Co-operation and Development']	8	It works with the [[European Space Agency]] (ESA) and [[ESOC]] in [[Germany]], [[European Space Research and Technology Centre]] (ESTEC) in [[Noordwijk]], the [[Netherlands]], [[ESA Centre for Earth Observation]] (ESRIN) in [[Rome]], [[Italy]], and [[European Space Astronomy Centre]] (ESAC) in [[Madrid]], [[Spain]].
+what are the sports in spain?	11707	spain --> imports and exports exported to --> [u'Algeria', u'Andorra']	291	* [[Fox (Spain)|Fox]] ([[Spain]]) and ([[Andorra]]) – a cable television channel available through the [[Digital+]] cable service
+what are the sports in spain?	11707	spain --> kingdom rulers --> [u'Juan Carlos I of Spain', u'Alfonso XIII of Spain']	35	[[Heraclio Alfaro]] was a [[Spain|Spanish]] aviator who was [[knight]]ed at the age of 18 by [[Alfonso XIII of Spain|King Alfonso XIII]] of Spain for designing, building, and flying Spain's first airplane.
+what are the sports in spain?	11707	spain --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0	EMPTY
+what are the sports in spain?	11707	spain --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0	EMPTY
+what are the sports in spain?	11707	spain --> national anthem of a country official anthem since --> [u'1770']	0	EMPTY
+what are the sports in spain?	11707	spain --> military command military commander --> [u'Theodor von Reding', u'Francisco Javier Casta\xf1os, 1st Duke of Bail\xe9n', u'Gregorio Garc\xeda de la Cuesta', u'John of Austria', u'Coupigny']	1	'''Juan de Escobedo''' (1530 in Colindres, Cantabria &ndash; March 31, 1578 in Madrid), [[Spain|Spanish]] politician, secretary of [[John of Austria]] (''Don Juan de Austria''), and chiefly notable as having been the victim of one of the mysteries of the 16th century, began life in the household of [[Ruy Gómez de Silva]], prince of Eboli, the most trusted minister of the early years of the reign of [[Philip II of Spain|Philip II]].
+what are the sports in spain?	11707	spain --> administrative area adjectival form --> [u'Spanish']	0	EMPTY
+what are the sports in spain?	11707	spain --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjowpwpEbGdrcN5Y29ycA']	0	EMPTY
+what are the sports in spain?	11707	spain --> bibs location is clear --> [u'0']	0	EMPTY
+what are the sports in spain?	11707	spain --> competitor competition relationship competitors --> [u'Rafael Nadal', u'Jes\xfas \xc1ngel Garc\xeda', u'Marta Dom\xednguez', u'Ricardo Fernandez']	5	**[[Rafael Nadal]] of [[Spain]] [[2014 French Open – Men's Singles|wins]] his ninth title in the [[French Open]] after a double fault from [[Novak Djokovic]] of [[Serbia]], 3-6, 7-5, 6-2, 6-4.
+what are the sports in spain?	11707	spain --> system title relationship from date --> [u'1492']	0	EMPTY
+what are the sports in spain?	11707	spain --> olympic medal honor event --> [u"Athletics at the 1992 Summer Olympics \u2013 Men's pole vault", u"Sailing at the 1992 Summer Olympics - Women's Europe", u'Handball at the 1984 Summer Olympics', u"Gymnastics at the 2004 Summer Olympics - Men's Vault", u"Gymnastics at the 2004 Summer Olympics - Women's Floor"]	0	EMPTY
+what are the sports in spain?	11707	spain --> olympic participating country olympics participated in --> [u'1900 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	10	Martinez represented [[Spain]] at the [[2008 Summer Olympics]] in [[Beijing]], where he competed only in two rifle shooting events.
+what are the sports in spain?	11707	spain --> government position held office holder --> [u'Luis Carrero-Blanco, 1st Duke of Carrero-Blanco', u'Juan Carlos I of Spain', u'Leopoldo Calvo-Sotelo', u'Fernando Mor\xe1n', u'Niceto Alcal\xe1-Zamora']	25	Vice President]] [[Spiro Agnew|Spiro T. Agnew]], [[Juan Carlos I of Spain|Prince Juan Carlos]] of [[Spain]], and his wife, [[Queen Sofía of Spain|Princess Sofía]].
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> organization scope organizations with this scope --> [u'Overwhelmed and Annoyed Citizens', u'Spanish Confederation of Autonomous Right-wing Groups', u'Iniciativa Internacionalista', u'Socialist Party of Majorca', u'Republican Social Movement']	0	EMPTY
+what are the sports in spain?	11707	spain --> imports and exports amount --> [u'1775000000']	0	EMPTY
+what are the sports in spain?	11707	spain --> country first level divisions --> [u'Chafarinas Islands', u'Extremadura', u'Basque Country', u'Perejil Island', u'Canary Islands']	625	Born in [[Getxo]], [[Basque Country (autonomous community)|Basque Country]], [[Spain]], Castroviejo spent two seasons with the feeder team of the de facto Basque national squad Orbea, before he joined  in 2010.
+what are the sports in spain?	11707	spain --> dated money value amount --> [u'6770', u'7300', u'7790', u'8190', u'8620']	0	EMPTY
+what are the sports in spain?	11707	spain --> imports and exports date --> [u'2004']	0	EMPTY
+what are the sports in spain?	11707	spain --> country languages spoken --> [u'Basque Language', u'Catalan language', u'Galician Language', u'Occitan language']	147	'''Tomás de Zumalacárregui e Imaz''' (in [[Spanish language|Spanish]]) or '''Tomas Zumalakarregi Imatz''' (in [[Basque language|Basque]]) (29 December 178824 June 1835) was a [[Basque people|Basque]] [[Spain|Spanish]] [[Carlist]] general.
+what are the sports in spain?	11707	spain --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what are the sports in spain?	11707	spain --> competitor country relationship competitor --> [u'Beatriz Corrales', u'Spain national football team', u'Ricardo Fernandez', u'Carolina Marin']	2	He is known for having refereed one match in the [[1982 FIFA World Cup]] in [[Spain]] between [[Northern Ireland national football team|Northern Ireland]] and [[Spain national football team|Spain]] and the first leg of the [[1983 Copa América]] final between [[Uruguay national football team|Uruguay]] and [[Brazil national football team|Brazil]].
+what are the sports in spain?	11707	spain --> country calling code --> [u'34']	0	EMPTY
+what are the sports in spain?	11707	spain --> adjoining relationship adjoins --> [u'France', u'Morocco', u'Perejil Island', u'Gibraltar', u'Portugal']	3923	Twelve teams representing [[Austria]], [[Belgium]], [[Catalonia]], [[Czech Republic]], [[England]], [[Finland]], [[France]], [[Germany]], [[Netherlands]], [[Spain]], [[Sweden]] and a team called EU Crusaders attended the 2007 EU Cup.
+what are the sports in spain?	11707	spain --> dated percentage date --> [u'1986-05', u'1986-06', u'1986-09', u'1986-11', u'1987-01']	0	EMPTY
+what are the sports in spain?	11707	spain --> athletics championships competition athlete relationship athlete s --> [u'Jes\xfas Espa\xf1a', u'Arturo Casado']	0	EMPTY
+what are the sports in spain?	11707	spain --> geocode longitude --> [u'-3.29494619839']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics', u'1988 Summer Olympics']	42	'''Sandra Cam''' (born June 30, 1972 in [[Ougrée]], [[Liège]], [[Belgium]]) is a Belgian retired female [[freestyle swimming|freestyle]] [[Swimming (sport)|swimmer]] who represented her country in two consecutive [[Summer Olympic Games|Summer Olympics]], in [[Barcelona]], [[Spain]] ([[1992 Summer Olympics|1992]]) and [[Atlanta]], [[United States]] ([[1996 Summer Olympics|1996]]).
+what are the sports in spain?	11707	spain --> dated percentage rate --> [u'1.015295', u'1.045642', u'1.058837', u'1.085471', u'1.096565']	0	EMPTY
+what are the sports in spain?	11707	spain --> imports and exports imported from --> [u'Scotland', u'Algeria', u'Antigua and Barbuda']	291	'''Fabrice Henry''' (born February 13, 1968 in [[Argenteuil]], [[Val-d'Oise]]) is a [[France|French]] former [[football (soccer)|football]] [[Midfielder (football)|midfielder]] who played for various clubs in [[France]], [[Spain]] and [[Scotland]] throughout the 1980s and 1990s.
+what are the sports in spain?	11707	spain --> olympic participating country ioc code --> [u'ESP']	0	EMPTY
+what are the sports in spain?	11707	spain --> athletics championships competition athlete relationship rank --> [u'7']	0	EMPTY
+what are the sports in spain?	11707	spain --> situation composers living here --> [u'Isaac Alb\xe9niz']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated kgoe number --> [u'530.838', u'558.025', u'605.525', u'623.445', u'683.771']	0	EMPTY
+what are the sports in spain?	11707	spain --> country currency used --> [u'Euro']	12	In June 2009 he signed with [[La Liga]] side [[Atlético Madrid]] for [[Euro|€]]1.5 million, paid to former [[Uruguay national football team|Uruguayan international]] player [[Daniel Fonseca]], who owned his rights (and ceded 50% to the [[Spain|Spaniards]]).
+what are the sports in spain?	11707	spain --> dated float number --> [u'1.15', u'1.16', u'1.18', u'1.19', u'1.2']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> country iso  shortname --> [u'SPAIN']	0	EMPTY
+what are the sports in spain?	11707	spain --> naval engagement participation naval engagement --> [u'Battle of Trafalgar']	10	* [[Vice-Admiral]] [[Pierre-Charles Villeneuve|Villeneuve]]—commander of the French and [[Spain|Spanish]] fleets at the [[Battle of Trafalgar]]
+what are the sports in spain?	11707	spain --> adjusted money value source --> [u'World Bank, World Development Indicators']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage date --> [u'1995', u'1996', u'1997', u'1998', u'1999']	0	EMPTY
+what are the sports in spain?	11707	spain --> breed origin breeds originating here --> [u'Catalan Sheepdog', u'Ibizan Hound', u'Estrela Mountain Dog', u'Papillon', u'Great Pyrenees']	4	|[[Papillon (dog)|Papillon]]||[[Spain]], [[Belgium]], [[France]]||Group 09 Section 10 #077||Toy Group||Group 01 (Toys)||Group 02- Toys||Toy||Toy||Companion Dog||[[File:RileyPapillon.JPG|200px]]
+what are the sports in spain?	11707	spain --> athletics championships competition athlete relationship championships --> [u'2007 World Championships in Athletics']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated integer source --> [u'The National Institute of Statistics, Spain', u'World Bank, World Development Indicators, Population']	0	EMPTY
+what are the sports in spain?	11707	spain --> newspaper circulation area newspapers --> [u'El Pa\xeds', u'El Mundo', u'ADN', u'ABC', u'Solidaridad Obrera']	5	Among the agencies and national and international media organizations for which she reported are the magazines [[TIME]] (US) and Proceso ([[México]]); the news agencies Fides ([[Bolivia]]), [[Inter Press Service]] ([[Italy]]), and the German Press Agency [[Deutsche Presse-Agentur|DPA]]; and the newspapers [[ABC (newspaper)|ABC]] ([[Spain]]), Hoy ([[Ecuador]]), La República ([[Uruguay]]), El Diario ([[Bolivia]]), Presencia ([[Bolivia]]) and La Razón ([[Bolivia]])
+what are the sports in spain?	11707	spain --> adjusted money value adjusted value --> [u'113167785487', u'126565350905', u'139162954767', u'152517726154', u'160614145274']	0	EMPTY
+what are the sports in spain?	11707	spain --> adjusted money value adjustment currency --> [u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> dated percentage rate --> [u'-3.740753', u'-1.031492', u'-0.132469', u'-0.069477', u'0.041547']	0	EMPTY
+what are the sports in spain?	11707	spain --> webpage uri --> [u'http://statoids.com/ues.html']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> flag use flag --> [u'Flag of Spain']	2	| [[File:Flag of Spain.svg|border|100px]] || 1981&nbsp;– || [[Flag of Spain|Flag of]] '''[[Spain]]''' || The flag of Spain was officially adopted on July 19, 1927, though use of similar designs dates to the late 18th century.
+what are the sports in spain?	11707	spain --> country second level divisions --> [u'Province of Guadalajara', u'C\xe1diz', u'Province of Badajoz', u'Province of C\xf3rdoba', u'Province of Zamora']	18	This is a '''list of [[Bien de Interés Cultural]] landmarks''' in the [[Province of Zamora]], [[Spain]].
+what are the sports in spain?	11707	spain --> sports team location teams --> [u'Spain national handball team', u'B\xe0squet Manresa', u'CB Murcia', u'Spain national football team', u"Spain men's national volleyball team"]	8	In 2001 Terrell moved to the [[London Towers]], and in 2003 to [[Spain|Spanish]] lower-league team [[CB Girona|Casademont Girona]], where after two good season's Myers earned a move to the [[Asociación de Clubs de Baloncesto]] to play for [[CB Girona|Akasvayu Girona]] in one of [[Europe]]'s biggest leagues, after which he moved to [[CB Murcia]].
+what are the sports in spain?	11707	spain --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what are the sports in spain?	11707	spain --> force strength force size --> [u'23000', u'25000']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what are the sports in spain?	11707	spain --> force strength military conflict --> [u'Battle of Bail\xe9n', u'Battle of Montes Claros']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what are the sports in spain?	11707	spain --> location events --> [u'Bombing of Alicante', u'1982 FIFA World Cup', u'Action of 18 March 1748', u'Battle of Ir\xfan', u'Battle of Maguilla']	46	He is known for having refereed one match in the [[1982 FIFA World Cup]] in [[Spain]] between [[Argentina national football team|Argentina]] and [[El Salvador national football team|El Salvador]].
+what are the sports in spain?	11707	spain --> competitor competition relationship medal --> [u'Gold medal', u'Bronze medal']	0	EMPTY
+what are the sports in spain?	11707	spain --> location adjectival form --> [u'Spanish', u'Spaniard']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated metric ton number --> [u'1.606593', u'1.746222', u'1.879509', u'1.935782', u'2.037725']	0	EMPTY
+what are the sports in spain?	11707	spain --> casualties lower estimate --> [u'4000', u'10000']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0	EMPTY
+what are the sports in spain?	11707	spain --> recurring money value currency --> [u'Euro', u'Euro', u'Euro', u'Euro', u'Euro']	12	In June 2009 he signed with [[La Liga]] side [[Atlético Madrid]] for [[Euro|€]]1.5 million, paid to former [[Uruguay national football team|Uruguayan international]] player [[Daniel Fonseca]], who owned his rights (and ceded 50% to the [[Spain|Spaniards]]).
+what are the sports in spain?	11707	spain --> countries continent --> [u'Europe']	310	The earliest [[Europe]]ans found up to 200 sub-bands of [[Coahuiltecan]] Indians in the vicinity of the springs; however, they were soon displaced by the [[Lipan Apache people|Lipan Apache]]s. [[Spain|Spanish]] [[Missionary|missionaries]] built a system of [[aqueduct (water supply)|aqueduct]]s and ditches to carry water from the springs to the local missions, including [[Alamo Mission in San Antonio|The Alamo]].
+what are the sports in spain?	11707	spain --> casualties military conflict --> [u'Siege of Badajoz', u'Battle of Medell\xedn', u'Battle of Montes Claros']	2	* 16 March&ndash;6 April &ndash; [[Siege of Badajoz (1812)|Siege of Badajoz]] ([[Peninsular War]]): The [[Anglo-Portuguese Army]], under the [[Arthur Wellesley, 1st Duke of Wellington|Earl of Wellington]], besieges [[Badajoz]] in [[Spain]] and forces surrender of the [[France|French]] garrison.
+what are the sports in spain?	11707	spain --> administrative area subdividing type --> [u'Spanish place of sovereignty', u'Spanish autonomous city', u'Spanish autonomous community']	0	EMPTY
+what are the sports in spain?	11707	spain --> government position held to --> [u'1982-12-01', u'1981-02-25', u'1936-04-07', u'2011-12-21', u'1985-07-04']	0	EMPTY
+what are the sports in spain?	11707	spain --> webpage category --> [u'Tag', u'About', u'Topic Equivalent']	0	EMPTY
+what are the sports in spain?	11707	spain --> government position held basic title --> [u'President', u'Prime minister', u'Foreign Minister', u'Monarch']	3	*[[Juan Carlos I of Spain|Juan Carlos I]] (Doctor of Arts, 2001) - [[Monarch|King]] of [[Spain]]
+what are the sports in spain?	11707	spain --> linguistic hint adjectival form --> [u'Spanish']	0	EMPTY
+what are the sports in spain?	11707	spain --> military combatant group conflict --> [u'Philippine Revolts Against Spain', u'Battle of Seminara', u'War of the Second Coalition', u"War of Jenkins' Ear", u'Battle of Chupas']	10	* [[1739]]: [[Great Britain]] and [[Spain]] fight the [[War of Jenkins' Ear]] in the [[Caribbean]].
+what are the sports in spain?	11707	spain --> administrative area administrative parent --> [u'Earth']	0	EMPTY
+what are the sports in spain?	11707	spain --> country capital --> [u'Madrid']	1269	In [[Madrid]], [[Spain]], she received a distinction from [[Sony International]] for selling a million units of her first two works.
+what are the sports in spain?	11707	spain --> earthquake nearest location earthquake --> [u'2011 Lorca earthquake', u'Spain 1954 earthquake']	5	 A [[Moment magnitude scale|5.1-magnitude]] '''[[2011 Lorca earthquake|earthquake]]''', [[Spain]]'s deadliest in 55 years, occurs near the town of [[Lorca]].
+what are the sports in spain?	11707	spain --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what are the sports in spain?	11707	spain --> naval engagement participation casualties --> [u'0', u'4', u'5', u'8', u'20']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage rate --> [u'7.9', u'8', u'8.1', u'8.2', u'8.3']	0	EMPTY
+what are the sports in spain?	11707	spain --> country internet tld --> [u'eu', u'es', u'cat']	1	| id="ES" |  || [[Spain]] || 1974 || [[.es]] ||  || Code taken from name in [[Spanish language|Spanish]]: ''''
+what are the sports in spain?	11707	spain --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what are the sports in spain?	11707	spain --> naval engagement participation wounded --> [u'7', u'12', u'14', u'22', u'29']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+what are the sports in spain?	11707	spain --> beer country region beers from here --> [u'Alhambra Reserva 1925', u'Alhambra Mezquita', u'Alhambra Premium Lager', u'Estrella Galicia', u'San Miguel Tradici\xf3n']	1	Some known [[Spain|Spanish]] beers are [[Grupo Mahou-San Miguel|Mahou-San Miguel]] (known as Mahou before the acquisition by San Miguel company), [[Estrella Damm]], [[Cervezas Alhambra|Alhambra]], [[Estrella Galicia]], [[Estrella Levante]], [[Cruzcampo]], Reina, [[Cerveza Dorada|Dorada]] and [[La Zaragozana]] (Ambar).
+what are the sports in spain?	11707	spain --> recurring money value frequency --> [u'Month', u'Month', u'Month', u'Month', u'Month']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value valid date --> [u'2008']	0	EMPTY
+what are the sports in spain?	11707	spain --> valuenotation has no value --> [u'Date dissolved']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value amount --> [u'36500']	0	EMPTY
+what are the sports in spain?	11707	spain --> casualties type of casualties --> [u'Military - Dead', u'Civilian - Dead']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what are the sports in spain?	11707	spain --> imports and exports currency --> [u'UK \xa3']	0	EMPTY
+what are the sports in spain?	11707	spain --> location primarily containedby --> [u'Europe', u'Iberian Peninsula']	420	The earliest [[Europe]]ans found up to 200 sub-bands of [[Coahuiltecan]] Indians in the vicinity of the springs; however, they were soon displaced by the [[Lipan Apache people|Lipan Apache]]s. [[Spain|Spanish]] [[Missionary|missionaries]] built a system of [[aqueduct (water supply)|aqueduct]]s and ditches to carry water from the springs to the local missions, including [[Alamo Mission in San Antonio|The Alamo]].
+what are the sports in spain?	11707	spain --> administrative area short name --> [u'es']	0	EMPTY
+what are the sports in spain?	11707	spain --> system title relationship title --> [u'Infante']	6	* '''[[Infante]]''', title of the cadet members of the royal families of [[Portugal]] and [[Spain]]
+what are the sports in spain?	11707	spain --> arrest arrested person --> [u'Antonio Banderas']	2	Of [[Spain|Spanish]] origin: [[Rita Hayworth]], [[Martin Sheen]], [[Antonio Banderas]] and [[Penelope Cruz]]. 
+what are the sports in spain?	11707	spain --> governmental jurisdiction government --> [u'Government of Spain']	5	The '''''Boletín Oficial del Estado (BOE)''''' () is the [[official gazette]] of the [[Government of Spain|Government]] of [[Spain]] and is published every day except Sunday.
+what are the sports in spain?	11707	spain --> country form of government --> [u'Constitutional monarchy', u'Parliamentary system', u'Unitary state']	2	''' [[Constitutional monarchy|Constitutional monarchies]]''': [[Antigua and Barbuda]]<sup>c</sup> [[Australia]]<sup>c</sup> [[Andorra]] [[Bahamas]]<sup>c</sup> [[Bahrain]] [[Barbados]]<sup>c</sup> [[Belize]]<sup>c</sup> [[Belgium]] [[Bhutan]] [[Cambodia]] [[Canada]]<sup>c</sup> [[Denmark]] [[Grenada]]<sup>c</sup> [[Jamaica]]<sup>c</sup> [[Japan]]<sup>j</sup> [[Jordan]] [[Kuwait]] [[Liechtenstein]] [[Lesotho]] [[Luxembourg]] [[Malaysia]] [[Monaco]] [[Kingdom of the Netherlands|Netherlands]] [[Morocco]] [[Nepal]]<sup>n</sup> [[New Zealand]]<sup>c</sup> [[Norway]] [[Papua New Guinea]]<sup>c</sup> [[Qatar]]<sup>q</sup> [[Spain]] [[Saint Kitts and Nevis]]<sup>c</sup> [[Saint Lucia]]<sup>c</sup> [[Saint Vincent and the Grenadines]]<sup>c</sup> [[Solomon Islands]]<sup>c</sup> [[Sweden]] [[Thailand]] [[Tonga]] [[Tuvalu]]<sup>c</sup> [[United Arab Emirates]]<sup>u</sup> [[United Kingdom]]<sup>c</sup>
+what are the sports in spain?	11707	spain --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Women's 3000 metres steeplechase", u"2010 Wimbledon Championships \u2013 Men's Singles", u"Goalball at the 2000 Summer Paralympics - Men's tournament", u"2009 World Championships in Athletics \u2013 Men's 50 kilometres walk", u"Goalball at the 1996 Summer Paralympics - Men's tournament"]	0	EMPTY
+what are the sports in spain?	11707	spain --> competitor country relationship sports --> [u'Badminton', u'Goalball']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage source --> [u'Broadband penetration rate, Broadband penetration in Europe, Eurostat']	0	EMPTY
+what are the sports in spain?	11707	spain --> recurring money value currency --> [u'Euro']	12	In June 2009 he signed with [[La Liga]] side [[Atlético Madrid]] for [[Euro|€]]1.5 million, paid to former [[Uruguay national football team|Uruguayan international]] player [[Daniel Fonseca]], who owned his rights (and ceded 50% to the [[Spain|Spaniards]]).
+what are the sports in spain?	11707	spain --> adjusted money value adjustment date --> [u'2000']	0	EMPTY
+what are the sports in spain?	11707	spain --> book subject works --> [u'Representations of holiness in some spanish hagiographical works', u'Privilege, persecution, and prophecy', u'Rifleman Dodd', u'Catalan cuisine', u'Transition through transaction']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what are the sports in spain?	11707	spain --> organization membership to --> [u'1939-05']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage rate --> [u'2', u'2.4', u'3.1', u'4.3', u'4.6']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> travel destination tourist attractions --> [u'Museo Nacional Del Prado']	6	[[Lambert Sustris]] 1548, [[Museo del Prado]], [[Madrid]], [[Spain]]]]
+what are the sports in spain?	11707	spain --> location contains --> [u'Villoria', u'Gav\xe0', u'Guissona', u'Gutierre-Mu\xf1oz', u'El Fond\xf3 de les Neus']	2	Fages was born in [[Guissona]], [[Lleida (province)|Lérida/Lleida]] province, [[Catalonia]], [[Spain]].
+what are the sports in spain?	11707	spain --> topic alias --> [u'Espa\xf1a', u'Kingdom of Spain']	0	EMPTY
+what are the sports in spain?	11707	spain --> flag use from date --> [u'1978-12-06']	0	EMPTY
+what are the sports in spain?	11707	spain --> taxonomy entry high --> [u'8399']	0	EMPTY
+what are the sports in spain?	11707	spain --> organization membership from --> [u'1920-01-10', u'2008', u'1986-01-01', u'1955-12-14']	0	EMPTY
+what are the sports in spain?	11707	spain --> location area --> [u'505992']	0	EMPTY
+what are the sports in spain?	11707	spain --> arrest offense --> [u'Political censorship']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what are the sports in spain?	11707	spain --> recurring money value frequency --> [u'Month']	0	EMPTY
+what are the sports in spain?	11707	spain --> recurring money value amount --> [u'485.71', u'495.6', u'505.69', u'515.9', u'526.4']	0	EMPTY
+what are the sports in spain?	11707	spain --> valuenotation has value --> [u'Date founded']	0	EMPTY
+what are the sports in spain?	11707	spain --> force strength date --> [u'1665']	0	EMPTY
+what are the sports in spain?	11707	spain --> netflix genre titles --> [u'Guantanamero', u'Love Can Seriously Damage Your Health', u'A Time for Defiance', u'The Stone Raft', u'Belle \xc9poque']	0	EMPTY
+what are the sports in spain?	11707	spain --> governmental jurisdiction agencies --> [u'Directorate General of Traffic', u'Instituto Nacional de Estad\xedstica']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what are the sports in spain?	11707	spain --> country administrative divisions --> [u'Province of Guadalajara', u'Barcelona', u'C\xe1diz', u'Province of Badajoz', u'Province of C\xf3rdoba']	1193	'''Pepe Massot''' (born 14 November 1995) is a Spanish racing driver from [[Barcelona]], [[Spain]] currently competing in the [[2016 Porsche Supercup]] driving for Momo Megatron Team.
+what are the sports in spain?	11707	spain --> competitor competition relationship tournament --> [u'2010 Wimbledon Championships', u'2009 World Championships in Athletics', u'2000 Summer Paralympics', u'1996 Summer Paralympics']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated float number --> [u'69.109', u'69.48', u'69.519', u'69.681', u'70.4']	0	EMPTY
+what are the sports in spain?	11707	spain --> governmental jurisdiction government bodies --> [u'Congress of Deputies', u'Cortes Generales', u'Senate of Spain', u'Cabinet of Spain']	17	'''Julián Besteiro Fernández''' (21 September 1870 – 27 September 1940) was a [[Spain|Spanish]] [[Socialism|socialist]] politician, elected to the [[Cortes Generales]] and in 1931 as Speaker of the [[Constituent Cortes]] of the [[Second Spanish Republic|Spanish Republic]].
+what are the sports in spain?	11707	spain --> administrative area pertinent type --> [u'Spanish comarca', u'Spanish place of sovereignty', u'Spanish autonomous city', u'Spanish autonomous community', u'Spanish municipality']	0	EMPTY
+what are the sports in spain?	11707	spain --> location time zones --> [u'UTC+01:00', u'Central European Time']	3	The nominal span of the time zone is 7.5°E to 7.5°W (0° ± 7.5°), but the WET zone does not include the [[Netherlands]], [[Belgium]], [[Luxembourg]], [[France]], [[Gibraltar]] or [[Spain]] which use [[Central European Time]] (CET), although these are mostly ([[France]]) or completely (the rest) west of 7.5°E.
+what are the sports in spain?	11707	spain --> administrative area administrative area type --> [u'Sovereign state']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0	EMPTY
+what are the sports in spain?	11707	spain --> film location featured in films --> [u'My Life In Ruins', u'Ast\xe9rix at the Olympic Games', u'BeachBoy', u'Luc\xeda y el sexo', u'Born to Ride']	1	*''[[Sex and Lucia|Sex and Lucia (Lucía y el sexo)]]'', [[France]]/[[Spain]]
+what are the sports in spain?	11707	spain --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what are the sports in spain?	11707	spain --> webpage resource --> [u'Leonard Cohen collapses on stage', u"'Design Star''s 'white room' challenge", u'Bulls escape set of Tom Cruise-Cameron Diaz movie, injure two', u"Battle of the 'Lost' promos! Spain or ABC? Radiohead or Willie? Vote!", u'Costa Blanca Information']	0	EMPTY
+what are the sports in spain?	11707	spain --> topic exceptions --> [u'City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District.']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> government position held governmental body --> [u'Ministry of Foreign Affairs and Cooperation']	3	'''Carlos Abella y Ramallo''' (April 13, 1934 – August 12, 2014) was a [[Spain|Spanish]] [[diplomat]] whose career with the [[Ministry of Foreign Affairs and Cooperation (Spain)|Ministry of Foreign Affairs]] spanned forty years until his retirement in 2004.
+what are the sports in spain?	11707	spain --> naval engagement participation outcome --> [u'Survived', u'Taken', u'Destroyed']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated integer number --> [u'15464340', u'15645072', u'16622175', u'17549608', u'18065635']	0	EMPTY
+what are the sports in spain?	11707	spain --> recurring money value date --> [u'1999-01', u'1999-07', u'2000-01', u'2000-07', u'2001-01']	0	EMPTY
+what are the sports in spain?	11707	spain --> geocode latitude --> [u'40.6985822539']	0	EMPTY
+what are the sports in spain?	11707	spain --> naval engagement participation ship --> [u'Mont\xe3nez', u'HMS Neptune', u'Rayo', u'San Francisco de Asis', u'San Leandro']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> country official language --> [u'Spanish Language']	338	However, in most other parts of [[Spain]] and throughout [[Latin America|Hispanic America]] where the [[Spanish language]] is spoken (as opposed to the Valencian language), the term ''paellera'' ("maker of paella") is more commonly used for the specialised pan while ''paella'' is reserved for the rice dish prepared in it, although both terms are deemed correct for the pan, as stated by the [[Real Academia Española|Royal Spanish Academy]], the body responsible for regulating the Spanish language in Spain.
+what are the sports in spain?	11707	spain --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated percentage rate --> [u'0.15', u'0.2', u'0.22', u'0.23', u'0.25']	0	EMPTY
+what are the sports in spain?	11707	spain --> taxonomy entry low --> [u'8101']	0	EMPTY
+what are the sports in spain?	11707	spain --> administrative area administrative children --> [u'Extremadura', u'Basque Country', u'Balearic Islands', u'Canary Islands', u'Catalonia']	1688	Twelve teams representing [[Austria]], [[Belgium]], [[Catalonia]], [[Czech Republic]], [[England]], [[Finland]], [[France]], [[Germany]], [[Netherlands]], [[Spain]], [[Sweden]] and a team called EU Crusaders attended the 2007 EU Cup.
+what are the sports in spain?	11707	spain --> government position held from --> [u'1982-12-01', u'1981-02-25', u'1973-06-09', u'1973-12-31', u'2011-12-21']	0	EMPTY
+what are the sports in spain?	11707	spain --> olympic athlete affiliation athlete --> [u'Francisco Ventoso', u'David Cal', u'Shen Yanfei', u'Joane Somarriba', u'Sa\xfal Craviotto']	1	Vajda won a bronze in the event behind [[Spain]]'s [[David Cal]] and [[Germany]]'s [[Andreas Dittmer]], but beat out 1996 Olympic champion [[Martin Doktor]] with a time of 3:49.025.
+what are the sports in spain?	11707	spain --> dated percentage date --> [u'2002-07', u'2002-10', u'2003-01', u'2003-07', u'2003-10']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value currency --> [u'United States dollar']	6	Interpol believes that the group are responsible for [[United States dollar|US$]]130&nbsp;million in bold robberies in [[Dubai]], [[Switzerland]], [[Japan]], [[France]], [[Germany]], [[Luxembourg]], [[Spain]] and [[Monaco]].
+what are the sports in spain?	11707	spain --> dated money value amount --> [u'253603707714', u'275539918879', u'295751635052', u'312147339692', u'329851864915']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what are the sports in spain?	11707	spain --> recurring money value source --> [u'Eurostat, Minimum Wage in Europe']	0	EMPTY
+what are the sports in spain?	11707	spain --> object name --> [u'Spain']	0	EMPTY
+what are the sports in spain?	11707	spain --> topic image --> [u'Location of Spain', u'spain-flag.gif']	0	EMPTY
+what are the sports in spain?	11707	spain --> national anthem of a country anthem --> [u'Marcha Real']	3	At the [[Davis Cup]] [[tennis]] finals held in [[Australia]] in 2003, [[James Morrison (musician)|James Morrison]] performed ''El himno de Riego'' instead of [[Spain]]'s current national anthem, the [[Marcha Real]] ("Royal march").
+what are the sports in spain?	11707	spain --> dated integer year --> [u'1897', u'1910', u'1920', u'1930', u'1940']	0	EMPTY
+what are the sports in spain?	11707	spain --> dated money value amount --> [u'12072126075', u'12072126075.4', u'13834300571.5', u'13834300572', u'16138545209']	0	EMPTY
+what are the sports in spain?	11707	spain --> governmental jurisdiction government positions --> [u'Prime Minister of Spain', u'President of the Congress of Deputies', u'President of the Spanish Senate']	18	'''Lorenzo Arrazola y García''' ([[Checa, Guadalajara]], [[Spain]], 10 August 1797 &ndash; [[Madrid]], Spain, 23 February 1873) was a Spanish [[lawyer]], [[politician]] and [[politician|statesman]] who served as [[Prime Minister of Spain]] and as [[Minister of Foreign Affairs (Spain)|Minister of State]] in 1864.
+what are the sports in spain?	11707	spain --> dated percentage rate --> [u'36.3', u'39.7', u'40.2', u'43.2', u'46.3']	0	EMPTY
+what are the sports in spain?	11707	sports --> website category sites --> [u'buy.cycolo.gy', u'Yahoo! Sports', u'cycolo.gy', u'PlaySportsTV', u'Foxsports.com']	0	EMPTY
+what are the sports in spain?	11707	sports --> exhibition subject exhibitions created about this subject --> [u'Science of Sport']	0	EMPTY
+what are the sports in spain?	11707	sports --> award discipline awards in this discipline --> [u'Svenska Dagbladet Gold Medal']	0	EMPTY
+what are the sports in spain?	11707	sports --> equivalent topic equivalent domain --> [u'Sports']	0	EMPTY
+what are the sports in spain?	11707	sports --> topic alias --> [u'Sport']	0	EMPTY
+what are the sports in spain?	11707	sports --> tv subject tv programs --> [u'Baseball', u'Baseball: The Tenth Inning']	0	EMPTY
+what are the sports in spain?	11707	sports --> taxonomy entry high --> [u'1198.995']	0	EMPTY
+what are the sports in spain?	11707	sports --> organization sector organizations in this sector --> [u'Pes\xe4palloliitto', u'National Football League', u'ESPN', u'EuroThrowers', u'BaToCo Barriletes']	0	EMPTY
+what are the sports in spain?	11707	sports --> taxonomy entry prefix --> [u'GV']	0	EMPTY
+what are the sports in spain?	11707	sports --> periodical subject periodicals --> [u'The New York Times Magazine', u'The Ithacan', u'The Onion', u'Fanatik', u'Sports Nippon']	0	EMPTY
+what are the sports in spain?	11707	sports --> field of study journals in this discipline --> [u'http://olourde.canalblog.com/']	0	EMPTY
+what are the sports in spain?	11707	sports --> webpage category --> [u'Tag', u'Curated Topic']	0	EMPTY
+what are the sports in spain?	11707	sports --> organization type organizations of this type --> [u'The Griphouse', u'Vosta Volleybal']	0	EMPTY
+what are the sports in spain?	11707	sports --> education institution --> [u'Massey University', u'Bukit Jalil Sports School']	0	EMPTY
+what are the sports in spain?	11707	sports --> field of study academic departments --> [u'University of Texas Athletics', u'University of Michigan Athletics Department']	0	EMPTY
+what are the sports in spain?	11707	sports --> topic subject of --> [u'All-star', u'All-star game']	0	EMPTY
+what are the sports in spain?	11707	sports --> tv subject tv episodes --> [u'Inning 2: Something Like a War', u'Inning 4: A National Heirloom', u'Inning 7: The Capital of Baseball', u'Inning 8: A Whole New Ballgame', u'Inning 9: Home']	0	EMPTY
+what are the sports in spain?	11707	sports --> topic comments --> [u'ZSI on Sports']	0	EMPTY
+what are the sports in spain?	11707	sports --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what are the sports in spain?	11707	sports --> webpage resource --> [u'Weather Channel predicts rainbows, with a chance of awwwww', u"Ratings: Sports, led by Fox's baseball World Series, top the week", u"'Survivor: Heroes Vs. Villains': Amanda insists 'I'm gonna be a bulldog this time. No apologies, bitches.'", u'The thing that made me like you (even more): Ashton Kutcher edition', u'Indie Baseball: Old Brooklyn Meets New Brooklyn']	0	EMPTY
+what are the sports in spain?	11707	sports --> casino theme casinos in this theme --> [u'Las Vegas Club']	0	EMPTY
+what are the sports in spain?	11707	sports --> radio subject programs with this subject --> [u'Sid Rosenberg Show']	0	EMPTY
+what are the sports in spain?	11707	sports --> ad network vertical ad networks --> [u'Sportgenic', u'Sport Sydicator']	0	EMPTY
+what are the sports in spain?	11707	sports --> education student --> [u'Pandelela Rinong', u'Amaka Gessler']	0	EMPTY
+what are the sports in spain?	11707	sports --> industry companies --> [u'Forum Snowboards', u'LTB', u'Upper Deck Company', u'Yoursports', u'China Dongxiang']	0	EMPTY
+what are the sports in spain?	11707	sports --> profession specializations --> [u'Baseball']	3	[[American football]] - [[Association football]] - [[Athletics (sport)]] - [[Australian rules football]] - [[Badminton]] - [[Baseball]] - [[Basketball]] - [[Cricket]] - [[Decathlon]] - [[FIFA]] - [[Fencing]] - [[Football]] - [[Formula One]] - [[Gliding]] - [[Golf]] - [[Gymnastics]] - [[Hawk-Eye]] - [[Ice hockey]] - [[Judo]] - [[List of Test cricket triple centuries]] - [[Netball]] - [[Pentathlon]] - [[Physical exercise]] - [[Premier League]] - [[Real tennis]] - [[Rugby football]] - [[Rugby league]] - [[Rugby union]] - [[Skiing]] - [[Sport]] - [[Squash (sport)]] - [[Sumo]] - [[Table tennis]] - [[Taekwondo]] - [[Tennis]] - [[Triathlon]] - [[Volleyball]] - [[Water polo]] - [[Wrestling]]
+what are the sports in spain?	11707	sports --> breakfast cereal theme brands --> [u'Wheaties']	0	EMPTY
+what are the sports in spain?	11707	sports --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+what are the sports in spain?	11707	sports --> content broadcast --> [u'ESPN', u'NTV Spor', u'MARCA TV']	0	EMPTY
+what are the sports in spain?	11707	sports --> type of thing includes --> [u'Golf', u'Motorsport']	2	[[American football]] - [[Association football]] - [[Athletics (sport)]] - [[Australian rules football]] - [[Badminton]] - [[Baseball]] - [[Basketball]] - [[Cricket]] - [[Decathlon]] - [[FIFA]] - [[Fencing]] - [[Football]] - [[Formula One]] - [[Gliding]] - [[Golf]] - [[Gymnastics]] - [[Hawk-Eye]] - [[Ice hockey]] - [[Judo]] - [[List of Test cricket triple centuries]] - [[Netball]] - [[Pentathlon]] - [[Physical exercise]] - [[Premier League]] - [[Real tennis]] - [[Rugby football]] - [[Rugby league]] - [[Rugby union]] - [[Skiing]] - [[Sport]] - [[Squash (sport)]] - [[Sumo]] - [[Table tennis]] - [[Taekwondo]] - [[Tennis]] - [[Triathlon]] - [[Volleyball]] - [[Water polo]] - [[Wrestling]]
+what are the sports in spain?	11707	sports --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what are the sports in spain?	11707	sports --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwPySLpwpEbGdrcN5Y29ycA']	0	EMPTY
+what are the sports in spain?	11707	sports --> taxonomy entry low --> [u'561']	0	EMPTY
+what are the sports in spain?	11707	sports --> education major field of study --> [u'Psychology']	2	* Faculty of [[Psychology]] and [[Sport]]s
+what are the sports in spain?	11707	sports --> hall of fame discipline halls of fame --> [u'IRB Hall of Fame', u'West Coast Stock Car Hall of Fame', u'International Swimming Hall of Fame', u'National Museum of Racing and Hall of Fame', u'Negro Leagues Baseball Museum']	0	EMPTY
+what are the sports in spain?	11707	sports --> profession job titles --> [u'Athlete']	0	EMPTY
+what are the sports in spain?	11707	sports --> fictional organization type organizations --> [u'Slytherin Quidditch Team', u'Gryffindor Quidditch Team']	0	EMPTY
+what are the sports in spain?	11707	sports --> object name --> [u'Sports']	0	EMPTY
+what are the sports in spain?	11707	sports --> topic image --> [u'Youth-soccer-indiana']	0	EMPTY
+what are the sports in spain?	11707	sports --> quotation subject quotations about this subject --> [u'Sport in the sense of a mass-spectacle, with death to add to the underlying excitement, comes into existence when a population has been drilled and regimented and depressed to such an extent that it needs at least a vicarious participation in difficult feats of strength or skill or heroism in order to sustain its waning life-sense.', u"I don't think I can be expected to take seriously any game which takes less than three days to reach its conclusion.", u'Unlike any other business in the United States, sports must preserve an illusion of perfect innocence. The mounting of this illusion defines the purpose and accounts for the immense wealth of American sports. It is the ceremony of innocence that the fans pay to see -- not the game or the match or the bout, but the ritual portrayal of a world in which time stops and all hope remains plausible, in which everybody present can recover the blameless expectations of a child, where the forces of light always triumph over the powers of darkness.', u'The man loves danger and sport. That is why he loves woman, the most dangerous of all sports.', u'Skiing: the art of catching cold and going broke while rapidly heading nowhere at great personal risk.']	0	EMPTY
+what are the sports in spain?	11707	sports --> equivalent topic equivalent type --> [u'Sport']	0	EMPTY
+what are the sports in spain?	11707	sports --> book subject works --> [u'Cricket Characters', u'The Life of Helen Stephens', u'Trout Fishing in America', u'A Terrible Splendor: Three Extraordinary Men, a World Poised for War, and the Greatest Tennis Match Ever Played', u'Blind Flight']	0	EMPTY
+what are the sports in spain?	11707	sports car --> webpage resource --> [u"Kanye West on the emotional price of celebrity: Exclusive 'Chicken Soup for the Soul' excerpt", u"'Modern Family' recap: Best lines from last night", u"Eddie Griffin's suspicious smash-up", u"Snap Judgment: 'Rock of Love 2' (Rock Harder)"]	0	EMPTY
+what are the sports in spain?	11707	sports car --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what are the sports in spain?	11707	sports car --> object name --> [u'Sports car']	0	EMPTY
+what are the sports in spain?	11707	sports car --> topic image --> [u'LotusSuper7', u'1963 Jaguar XK-E Roadster', u'F1000026']	0	EMPTY
+what are the sports in spain?	11707	sports car --> automotive class examples --> [u'BMW M1', u'Chevrolet Camaro', u'Matra Murena', u'XR-400', u'Covini C6W']	0	EMPTY
+what are the sports in spain?	11707	sports car --> product choice consumer --> [u'Clipse']	0	EMPTY
+what are the sports in spain?	11707	sports car --> linguistic hint subject form --> [u'Sports cars']	0	EMPTY

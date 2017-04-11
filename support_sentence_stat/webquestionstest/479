@@ -1,100 +1,100 @@
-when will the world end mayans?	8	will the --> book edition publication date --> [u'2001-10-28']	0
-when will the world end mayans?	8	will the --> book edition isbn --> [u'9781587883309']	0
-when will the world end mayans?	8	will the --> object name --> [u'Will, The']	0
-when will the world end mayans?	8	will the --> book edition book --> [u'Will, The']	0
-when will the world end mayans?	8	will the --> cataloged instance isbn --> [u'9781587883309']	0
-when will the world end mayans?	8	will the --> object name --> [u'Will, The']	0
-when will the world end mayans?	8	will the --> written work author --> [u'Reed Arvin']	0
-when will the world end mayans?	8	will the --> book editions --> [u'Will, The', u'Will, The (Nova Audio Books)']	0
-when will the world end mayans?	8	will the nova audio books --> book edition book --> [u'Will, The']	0
-when will the world end mayans?	8	will the nova audio books --> book edition publication date --> [u'2000']	0
-when will the world end mayans?	8	will the nova audio books --> book edition publisher --> [u'Nova Audio Books']	0
-when will the world end mayans?	8	will the nova audio books --> cataloged instance isbn --> [u'9781567409321']	0
-when will the world end mayans?	8	will the nova audio books --> object name --> [u'Will, The (Nova Audio Books)']	0
-when will the world end mayans?	8	will the nova audio books --> book edition isbn --> [u'9781567409321']	0
-when will the world end mayans?	8	the world --> object name --> [u'The World']	0
-when will the world end mayans?	8	the world --> topic image --> [u'Mohammad nabil rais- The world Islands', u'Dubaiworld']	0
-when will the world end mayans?	8	the world --> geocode latitude --> [u'25.2167']	0
-when will the world end mayans?	8	the world --> geocode longitude --> [u'55.1667']	0
-when will the world end mayans?	8	world --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when will the world end mayans?	8	world --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvhnlz5wpEbGdrcN5Y29ycA']	0
-when will the world end mayans?	8	world --> current area record event --> [u"Men's Athletics, 100m", u"Men's Athletics, 400m", u"Men's Triple jump"]	0
-when will the world end mayans?	8	world --> current area record mark --> [u'43.18', u'9.69', u'18.29 m']	0
-when will the world end mayans?	8	world --> current area record country --> [u'Jamaica', u'United Kingdom', u'United States of America']	3
-when will the world end mayans?	8	world --> topic alias --> [u'Worldwide']	0
-when will the world end mayans?	8	world --> object id --> [u'/en/world']	0
-when will the world end mayans?	8	world --> object name --> [u'World']	0
-when will the world end mayans?	8	world --> topic image --> [u'The Earth seen from Apollo 17', u'The Garden of Earthly Delights by Bosch High Resolution']	0
-when will the world end mayans?	8	world --> current area record record holder --> [u'Michael Johnson', u'Jonathan Edwards', u'Usain Bolt']	0
-when will the world end mayans?	8	world --> location area --> [u'149000000']	0
-when will the world end mayans?	8	world --> organization scope organizations with this scope --> [u'League of Nations', u'Apache Software Foundation', u'Crown Partners', u'carman communications', u'Maximise']	0
-when will the world end mayans?	8	world --> athletics area championships --> [u'IAAF World Championships in Athletics']	0
-when will the world end mayans?	8	world --> current area record date --> [u'2008-08-16']	0
-when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> release format --> [u'Compact disc']	0
-when will the world end mayans?	8	world end --> release album --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> creative work credit --> [u'FLOW']	0
-when will the world end mayans?	8	world end --> release release date --> [u'2008-08-13']	0
-when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> release region --> [u'Japan']	0
-when will the world end mayans?	8	world end --> release catalog number --> [u'KSCL-1269']	0
-when will the world end mayans?	8	world end --> album releases --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> album primary release --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> album artist --> [u'Flow']	0
-when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> album release type --> [u'Single']	0
-when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> track contribution contributor --> [u'Miho Shimokawa', u'Ayumi Hashimoto', u'Seigen Tokuzawa', u'Kaoru Hagiwara']	0
-when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0
-when will the world end mayans?	8	world end --> track contribution role --> [u'Cello', u'Viola', u'Violin']	0
-when will the world end mayans?	8	maya civilization --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when will the world end mayans?	8	maya civilization --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when will the world end mayans?	8	maya civilization --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvd4GfpwpEbGdrcN5Y29ycA']	0
-when will the world end mayans?	8	maya civilization --> taxonomy entry low --> [u'1435']	0
-when will the world end mayans?	8	maya civilization --> topic image --> [u'Pyram\xedda ""El Castillo"" v Chitzen Itza', u'Bonampak painting+contrast', u'Mayamap']	0
-when will the world end mayans?	8	maya civilization --> object name --> [u'Maya civilization']	0
-when will the world end mayans?	8	maya civilization --> taxonomy entry high --> [u'1435.3']	0
-when will the world end mayans?	8	maya civilization --> taxonomy entry prefix --> [u'F']	0
-when will the world end mayans?	8	maya civilization --> book subject works --> [u'Mayeros', u'Sacred Mysteries Among The Mayas and The Quiches', u'2012', u'The Mayan prophecies', u'The End Of Time']	0
-when will the world end mayans?	8	world --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when will the world end mayans?	8	world --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvhnlz5wpEbGdrcN5Y29ycA']	0
-when will the world end mayans?	8	world --> current area record event --> [u"Men's Athletics, 100m", u"Men's Athletics, 400m", u"Men's Triple jump"]	0
-when will the world end mayans?	8	world --> current area record mark --> [u'43.18', u'9.69', u'18.29 m']	0
-when will the world end mayans?	8	world --> current area record country --> [u'Jamaica', u'United Kingdom', u'United States of America']	3
-when will the world end mayans?	8	world --> topic alias --> [u'Worldwide']	0
-when will the world end mayans?	8	world --> object id --> [u'/en/world']	0
-when will the world end mayans?	8	world --> object name --> [u'World']	0
-when will the world end mayans?	8	world --> topic image --> [u'The Earth seen from Apollo 17', u'The Garden of Earthly Delights by Bosch High Resolution']	0
-when will the world end mayans?	8	world --> current area record record holder --> [u'Michael Johnson', u'Jonathan Edwards', u'Usain Bolt']	0
-when will the world end mayans?	8	world --> location area --> [u'149000000']	0
-when will the world end mayans?	8	world --> organization scope organizations with this scope --> [u'League of Nations', u'Apache Software Foundation', u'Crown Partners', u'carman communications', u'Maximise']	0
-when will the world end mayans?	8	world --> athletics area championships --> [u'IAAF World Championships in Athletics']	0
-when will the world end mayans?	8	world --> current area record date --> [u'2008-08-16']	0
-when will the world end mayans?	8	end --> sports team roster to --> [u'1949', u'1953', u'1957']	0
-when will the world end mayans?	8	end --> football historical roster position team --> [u'Los Angeles Rams', u'Notre Dame Fighting Irish football', u'Alabama Crimson Tide Football', u'USC Trojans football']	0
-when will the world end mayans?	8	end --> football historical roster position from --> [u'1946', u'1951', u'1956']	0
-when will the world end mayans?	8	end --> sports team roster from --> [u'1946', u'1951', u'1956']	0
-when will the world end mayans?	8	end --> football roster position team --> [u'Washington Redskins']	0
-when will the world end mayans?	8	end --> football historical roster position number --> [u'82']	0
-when will the world end mayans?	8	end --> football historical roster position to --> [u'1949', u'1953', u'1957']	0
-when will the world end mayans?	8	end --> object name --> [u'End']	0
-when will the world end mayans?	8	end --> football roster position player --> [u'Mac Cara']	0
-when will the world end mayans?	8	end --> sports team roster number --> [u'82']	0
-when will the world end mayans?	8	end --> sports team roster position --> [u'Tight end']	0
-when will the world end mayans?	8	end --> sports team roster player --> [u'Leon Hart', u'Ron W. Miller', u'Bear Bryant', u'Mac Cara']	0
-when will the world end mayans?	8	end --> football historical roster position player --> [u'Leon Hart', u'Ron W. Miller', u'Bear Bryant']	0
-when will the world end mayans?	8	end --> football historical roster position position s --> [u'Tight end']	0
-when will the world end mayans?	8	end --> sports team roster team --> [u'Los Angeles Rams', u'Washington Redskins', u'Notre Dame Fighting Irish football', u'Alabama Crimson Tide Football', u'USC Trojans football']	0
-when will the world end mayans?	8	end --> football position players --> [u'Charles Comerford', u'Charles Grube', u'Cloyce Box', u'Roy Kurrasch', u'Bill Sortet']	0
-when will the world end mayans?	8	end --> sports position sport --> [u'American football']	2
-when will the world end mayans?	8	endocrine system --> object name --> [u'Endocrine system']	0
-when will the world end mayans?	8	endocrine system --> topic image --> [u'Illu endocrine system']	0
-when will the world end mayans?	8	hard disk drive --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when will the world end mayans?	8	hard disk drive --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rv4A7PpwpEbGdrcN5Y29ycA']	0
-when will the world end mayans?	8	hard disk drive --> invention date of invention --> [u'1954-12-24']	0
-when will the world end mayans?	8	hard disk drive --> invention inventor --> [u'IBM']	0
-when will the world end mayans?	8	hard disk drive --> object name --> [u'Hard disk drive']	0
-when will the world end mayans?	8	hard disk drive --> topic image --> [u'Hard disk platters and head', u'Hard disk platter reflection']	0
-when will the world end mayans?	8	hard disk drive --> vocabulary equivalent topic equivalent concept --> [u'Hard Drives']	0
+when will the world end mayans?	8	will the --> book edition publication date --> [u'2001-10-28']	0	EMPTY
+when will the world end mayans?	8	will the --> book edition isbn --> [u'9781587883309']	0	EMPTY
+when will the world end mayans?	8	will the --> object name --> [u'Will, The']	0	EMPTY
+when will the world end mayans?	8	will the --> book edition book --> [u'Will, The']	0	EMPTY
+when will the world end mayans?	8	will the --> cataloged instance isbn --> [u'9781587883309']	0	EMPTY
+when will the world end mayans?	8	will the --> object name --> [u'Will, The']	0	EMPTY
+when will the world end mayans?	8	will the --> written work author --> [u'Reed Arvin']	0	EMPTY
+when will the world end mayans?	8	will the --> book editions --> [u'Will, The', u'Will, The (Nova Audio Books)']	0	EMPTY
+when will the world end mayans?	8	will the nova audio books --> book edition book --> [u'Will, The']	0	EMPTY
+when will the world end mayans?	8	will the nova audio books --> book edition publication date --> [u'2000']	0	EMPTY
+when will the world end mayans?	8	will the nova audio books --> book edition publisher --> [u'Nova Audio Books']	0	EMPTY
+when will the world end mayans?	8	will the nova audio books --> cataloged instance isbn --> [u'9781567409321']	0	EMPTY
+when will the world end mayans?	8	will the nova audio books --> object name --> [u'Will, The (Nova Audio Books)']	0	EMPTY
+when will the world end mayans?	8	will the nova audio books --> book edition isbn --> [u'9781567409321']	0	EMPTY
+when will the world end mayans?	8	the world --> object name --> [u'The World']	0	EMPTY
+when will the world end mayans?	8	the world --> topic image --> [u'Mohammad nabil rais- The world Islands', u'Dubaiworld']	0	EMPTY
+when will the world end mayans?	8	the world --> geocode latitude --> [u'25.2167']	0	EMPTY
+when will the world end mayans?	8	the world --> geocode longitude --> [u'55.1667']	0	EMPTY
+when will the world end mayans?	8	world --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when will the world end mayans?	8	world --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvhnlz5wpEbGdrcN5Y29ycA']	0	EMPTY
+when will the world end mayans?	8	world --> current area record event --> [u"Men's Athletics, 100m", u"Men's Athletics, 400m", u"Men's Triple jump"]	0	EMPTY
+when will the world end mayans?	8	world --> current area record mark --> [u'43.18', u'9.69', u'18.29 m']	0	EMPTY
+when will the world end mayans?	8	world --> current area record country --> [u'Jamaica', u'United Kingdom', u'United States of America']	3	Many campers are from the [[tri-state region]] but others travel from all over the [[United States]] and the [[World]].
+when will the world end mayans?	8	world --> topic alias --> [u'Worldwide']	0	EMPTY
+when will the world end mayans?	8	world --> object id --> [u'/en/world']	0	EMPTY
+when will the world end mayans?	8	world --> object name --> [u'World']	0	EMPTY
+when will the world end mayans?	8	world --> topic image --> [u'The Earth seen from Apollo 17', u'The Garden of Earthly Delights by Bosch High Resolution']	0	EMPTY
+when will the world end mayans?	8	world --> current area record record holder --> [u'Michael Johnson', u'Jonathan Edwards', u'Usain Bolt']	0	EMPTY
+when will the world end mayans?	8	world --> location area --> [u'149000000']	0	EMPTY
+when will the world end mayans?	8	world --> organization scope organizations with this scope --> [u'League of Nations', u'Apache Software Foundation', u'Crown Partners', u'carman communications', u'Maximise']	0	EMPTY
+when will the world end mayans?	8	world --> athletics area championships --> [u'IAAF World Championships in Athletics']	0	EMPTY
+when will the world end mayans?	8	world --> current area record date --> [u'2008-08-16']	0	EMPTY
+when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> release format --> [u'Compact disc']	0	EMPTY
+when will the world end mayans?	8	world end --> release album --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> creative work credit --> [u'FLOW']	0	EMPTY
+when will the world end mayans?	8	world end --> release release date --> [u'2008-08-13']	0	EMPTY
+when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> release region --> [u'Japan']	0	EMPTY
+when will the world end mayans?	8	world end --> release catalog number --> [u'KSCL-1269']	0	EMPTY
+when will the world end mayans?	8	world end --> album releases --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> album primary release --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> album artist --> [u'Flow']	0	EMPTY
+when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> album release type --> [u'Single']	0	EMPTY
+when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> track contribution contributor --> [u'Miho Shimokawa', u'Ayumi Hashimoto', u'Seigen Tokuzawa', u'Kaoru Hagiwara']	0	EMPTY
+when will the world end mayans?	8	world end --> object name --> [u'WORLD END']	0	EMPTY
+when will the world end mayans?	8	world end --> track contribution role --> [u'Cello', u'Viola', u'Violin']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvd4GfpwpEbGdrcN5Y29ycA']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> taxonomy entry low --> [u'1435']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> topic image --> [u'Pyram\xedda ""El Castillo"" v Chitzen Itza', u'Bonampak painting+contrast', u'Mayamap']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> object name --> [u'Maya civilization']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> taxonomy entry high --> [u'1435.3']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> taxonomy entry prefix --> [u'F']	0	EMPTY
+when will the world end mayans?	8	maya civilization --> book subject works --> [u'Mayeros', u'Sacred Mysteries Among The Mayas and The Quiches', u'2012', u'The Mayan prophecies', u'The End Of Time']	0	EMPTY
+when will the world end mayans?	8	world --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when will the world end mayans?	8	world --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvhnlz5wpEbGdrcN5Y29ycA']	0	EMPTY
+when will the world end mayans?	8	world --> current area record event --> [u"Men's Athletics, 100m", u"Men's Athletics, 400m", u"Men's Triple jump"]	0	EMPTY
+when will the world end mayans?	8	world --> current area record mark --> [u'43.18', u'9.69', u'18.29 m']	0	EMPTY
+when will the world end mayans?	8	world --> current area record country --> [u'Jamaica', u'United Kingdom', u'United States of America']	3	Many campers are from the [[tri-state region]] but others travel from all over the [[United States]] and the [[World]].
+when will the world end mayans?	8	world --> topic alias --> [u'Worldwide']	0	EMPTY
+when will the world end mayans?	8	world --> object id --> [u'/en/world']	0	EMPTY
+when will the world end mayans?	8	world --> object name --> [u'World']	0	EMPTY
+when will the world end mayans?	8	world --> topic image --> [u'The Earth seen from Apollo 17', u'The Garden of Earthly Delights by Bosch High Resolution']	0	EMPTY
+when will the world end mayans?	8	world --> current area record record holder --> [u'Michael Johnson', u'Jonathan Edwards', u'Usain Bolt']	0	EMPTY
+when will the world end mayans?	8	world --> location area --> [u'149000000']	0	EMPTY
+when will the world end mayans?	8	world --> organization scope organizations with this scope --> [u'League of Nations', u'Apache Software Foundation', u'Crown Partners', u'carman communications', u'Maximise']	0	EMPTY
+when will the world end mayans?	8	world --> athletics area championships --> [u'IAAF World Championships in Athletics']	0	EMPTY
+when will the world end mayans?	8	world --> current area record date --> [u'2008-08-16']	0	EMPTY
+when will the world end mayans?	8	end --> sports team roster to --> [u'1949', u'1953', u'1957']	0	EMPTY
+when will the world end mayans?	8	end --> football historical roster position team --> [u'Los Angeles Rams', u'Notre Dame Fighting Irish football', u'Alabama Crimson Tide Football', u'USC Trojans football']	0	EMPTY
+when will the world end mayans?	8	end --> football historical roster position from --> [u'1946', u'1951', u'1956']	0	EMPTY
+when will the world end mayans?	8	end --> sports team roster from --> [u'1946', u'1951', u'1956']	0	EMPTY
+when will the world end mayans?	8	end --> football roster position team --> [u'Washington Redskins']	0	EMPTY
+when will the world end mayans?	8	end --> football historical roster position number --> [u'82']	0	EMPTY
+when will the world end mayans?	8	end --> football historical roster position to --> [u'1949', u'1953', u'1957']	0	EMPTY
+when will the world end mayans?	8	end --> object name --> [u'End']	0	EMPTY
+when will the world end mayans?	8	end --> football roster position player --> [u'Mac Cara']	0	EMPTY
+when will the world end mayans?	8	end --> sports team roster number --> [u'82']	0	EMPTY
+when will the world end mayans?	8	end --> sports team roster position --> [u'Tight end']	0	EMPTY
+when will the world end mayans?	8	end --> sports team roster player --> [u'Leon Hart', u'Ron W. Miller', u'Bear Bryant', u'Mac Cara']	0	EMPTY
+when will the world end mayans?	8	end --> football historical roster position player --> [u'Leon Hart', u'Ron W. Miller', u'Bear Bryant']	0	EMPTY
+when will the world end mayans?	8	end --> football historical roster position position s --> [u'Tight end']	0	EMPTY
+when will the world end mayans?	8	end --> sports team roster team --> [u'Los Angeles Rams', u'Washington Redskins', u'Notre Dame Fighting Irish football', u'Alabama Crimson Tide Football', u'USC Trojans football']	0	EMPTY
+when will the world end mayans?	8	end --> football position players --> [u'Charles Comerford', u'Charles Grube', u'Cloyce Box', u'Roy Kurrasch', u'Bill Sortet']	0	EMPTY
+when will the world end mayans?	8	end --> sports position sport --> [u'American football']	2	'''Lester Bruce McDonald''' (September 19, 1914 – July 26, 1971) was an [[American football]] [[End (American and Canadian football)|end]] in the [[National Football League]] (NFL) for the [[Chicago Bears]], [[Detroit Lions]], and the [[Philadelphia Eagles]].
+when will the world end mayans?	8	endocrine system --> object name --> [u'Endocrine system']	0	EMPTY
+when will the world end mayans?	8	endocrine system --> topic image --> [u'Illu endocrine system']	0	EMPTY
+when will the world end mayans?	8	hard disk drive --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when will the world end mayans?	8	hard disk drive --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rv4A7PpwpEbGdrcN5Y29ycA']	0	EMPTY
+when will the world end mayans?	8	hard disk drive --> invention date of invention --> [u'1954-12-24']	0	EMPTY
+when will the world end mayans?	8	hard disk drive --> invention inventor --> [u'IBM']	0	EMPTY
+when will the world end mayans?	8	hard disk drive --> object name --> [u'Hard disk drive']	0	EMPTY
+when will the world end mayans?	8	hard disk drive --> topic image --> [u'Hard disk platters and head', u'Hard disk platter reflection']	0	EMPTY
+when will the world end mayans?	8	hard disk drive --> vocabulary equivalent topic equivalent concept --> [u'Hard Drives']	0	EMPTY

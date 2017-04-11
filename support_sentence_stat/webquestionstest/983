@@ -1,39 +1,39 @@
-where did the yoruba originated from?	75	originated from --> property unique --> [u'0']	0
-where did the yoruba originated from?	75	originated from --> property reverse property --> [u'base.localfood.regional_food_source.food']	0
-where did the yoruba originated from?	75	originated from --> property expected type --> [u'base.localfood.regional_food_source']	0
-where did the yoruba originated from?	75	originated from --> property schema --> [u'base.localfood.regional_food']	0
-where did the yoruba originated from?	75	originated from --> object name --> [u'Originated from']	0
-where did the yoruba originated from?	75	originated from --> w orgowlinverseof --> [u'base.localfood.regional_food_source.food']	0
-where did the yoruba originated from?	75	originated from --> w org-rdf-syntax-nsdomain --> [u'base.localfood.regional_food']	0
-where did the yoruba originated from?	75	originated from --> w org-rdf-syntax-nsrange --> [u'base.localfood.regional_food_source']	0
-where did the yoruba originated from?	75	originated from --> property hints disambiguator --> [u'0']	0
-where did the yoruba originated from?	75	originated from --> property unique --> [u'0']	0
-where did the yoruba originated from?	75	originated from --> property reverse property --> [u'Food']	0
-where did the yoruba originated from?	75	originated from --> object id --> [u'/base/localfood/regional_food/originated_from']	0
-where did the yoruba originated from?	75	originated from --> property expected type --> [u'Regional food source']	0
-where did the yoruba originated from?	75	originated from --> property schema --> [u'Regional food']	0
-where did the yoruba originated from?	75	originated from --> object name --> [u'Originated from']	0
-where did the yoruba originated from?	75	originated from --> w orgowlinverseof --> [u'Food']	0
-where did the yoruba originated from?	75	originated from --> documented object tip --> [u'The region where the food originally came from.']	0
-where did the yoruba originated from?	75	originated from --> w org-rdf-syntax-nsdomain --> [u'Regional food']	0
-where did the yoruba originated from?	75	originated from --> property hints display none --> [u'0']	0
-where did the yoruba originated from?	75	originated from --> w org-rdf-syntax-nsrange --> [u'Regional food source']	0
-where did the yoruba originated from?	75	yoruba people --> ethnicity people --> [u'Adewale Akinnuoye-Agbaje', u'Dauda Epo-Akara', u'Toyin Falola', u'Seal', u'Moshood Kashimawo Olawale Abiola']	1
-where did the yoruba originated from?	75	yoruba people --> object name --> [u'Yoruba people']	0
-where did the yoruba originated from?	75	yoruba people --> ethnicity languages spoken --> [u'Yoruboid languages', u'Yoruba Language']	11
-where did the yoruba originated from?	75	yoruba people --> dated integer number --> [u'30000000']	0
-where did the yoruba originated from?	75	yoruba people --> topic image --> [u'Kwarastatedrummers', u'Olus\u1eb9gun \u1eccbasanj\u1ecd']	0
-where did the yoruba originated from?	75	yoruba people --> ethnicity included in group --> [u'African people']	0
-where did the yoruba originated from?	75	yoruba language --> human language writing system --> [u'Latin alphabet']	1
-where did the yoruba originated from?	75	yoruba language --> human language language family --> [u'Niger\u2013Congo languages', u'Volta\u2013Niger languages', u'Benue\u2013Congo languages', u'Sacred language']	0
-where did the yoruba originated from?	75	yoruba language --> human language main country --> [u'Nigeria']	28
-where did the yoruba originated from?	75	yoruba language --> languoid document --> [u'Yoruba Detailed Description', u'Yoruba Orthography', u'Yoruba Grammar', u'Yoruba Orthography', u'Yoruba Genesis Translation']	0
-where did the yoruba originated from?	75	yoruba language --> topic alias --> [u'Yoruba', u'Ede-yoruba', u'Yariba', u'Yooba']	0
-where did the yoruba originated from?	75	yoruba language --> languoid parent --> [u'Edekiri Group']	0
-where did the yoruba originated from?	75	yoruba language --> context name short name --> [u'Yoruba']	0
-where did the yoruba originated from?	75	yoruba language --> human language region --> [u'Africa']	5
-where did the yoruba originated from?	75	yoruba language --> object name --> [u'Yoruba Language']	0
-where did the yoruba originated from?	75	yoruba language --> topic image --> [u'Il\xea Ax\xe9 Op\xf3 Afonj\xe1.']	0
-where did the yoruba originated from?	75	yoruba language --> languoid languoid class --> [u'Language']	0
-where did the yoruba originated from?	75	yoruba language --> human language countries spoken in --> [u'Nigeria', u'Benin']	29
-where did the yoruba originated from?	75	yoruba language --> languoid local name --> [u'Yoruba', u'Yoruba', u'Yoruba', u'Yoruba', u'Yoruba']	0
+where did the yoruba originated from?	75	originated from --> property unique --> [u'0']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property reverse property --> [u'base.localfood.regional_food_source.food']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property expected type --> [u'base.localfood.regional_food_source']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property schema --> [u'base.localfood.regional_food']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> object name --> [u'Originated from']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> w orgowlinverseof --> [u'base.localfood.regional_food_source.food']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> w org-rdf-syntax-nsdomain --> [u'base.localfood.regional_food']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> w org-rdf-syntax-nsrange --> [u'base.localfood.regional_food_source']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property hints disambiguator --> [u'0']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property unique --> [u'0']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property reverse property --> [u'Food']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> object id --> [u'/base/localfood/regional_food/originated_from']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property expected type --> [u'Regional food source']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property schema --> [u'Regional food']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> object name --> [u'Originated from']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> w orgowlinverseof --> [u'Food']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> documented object tip --> [u'The region where the food originally came from.']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> w org-rdf-syntax-nsdomain --> [u'Regional food']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> property hints display none --> [u'0']	0	EMPTY
+where did the yoruba originated from?	75	originated from --> w org-rdf-syntax-nsrange --> [u'Regional food source']	0	EMPTY
+where did the yoruba originated from?	75	yoruba people --> ethnicity people --> [u'Adewale Akinnuoye-Agbaje', u'Dauda Epo-Akara', u'Toyin Falola', u'Seal', u'Moshood Kashimawo Olawale Abiola']	1	[[Moshood Abiola|MKO Abiola]], a wealthy [[Yoruba people|Yoruba]] businessman, won a decisive victory in the presidential elections on the SDP platform, defeating  [[Bashir Tofa]] of the National Republican Convention.
+where did the yoruba originated from?	75	yoruba people --> object name --> [u'Yoruba people']	0	EMPTY
+where did the yoruba originated from?	75	yoruba people --> ethnicity languages spoken --> [u'Yoruboid languages', u'Yoruba Language']	11	''Orin Meta'', which means "Three Songs" in the [[Yoruba language]], was inspired by Temowo's study of the song culture of the early [[Yoruba people]] of his native West Africa.
+where did the yoruba originated from?	75	yoruba people --> dated integer number --> [u'30000000']	0	EMPTY
+where did the yoruba originated from?	75	yoruba people --> topic image --> [u'Kwarastatedrummers', u'Olus\u1eb9gun \u1eccbasanj\u1ecd']	0	EMPTY
+where did the yoruba originated from?	75	yoruba people --> ethnicity included in group --> [u'African people']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> human language writing system --> [u'Latin alphabet']	1	Languages that are written in the [[Latin alphabet]] may indicate nasal vowels by a trailing [[Silent letter|silent]] ''n'' or ''m'', as is the case in French, Portuguese, [[Lombard language|Lombard]] (central classic orthography), [[Bambara language|Bamana]], or [[Yoruba language|Yoruba]].
+where did the yoruba originated from?	75	yoruba language --> human language language family --> [u'Niger\u2013Congo languages', u'Volta\u2013Niger languages', u'Benue\u2013Congo languages', u'Sacred language']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> human language main country --> [u'Nigeria']	28	|[[Yoruba people|Yoruba]] || Niger–Congo, Volta–Niger ||[[Yoruba language|Yoruba]] || West || [[Nigeria]], [[Benin]], [[Togo]], [[Ghana]], [[Ivory Coast]] [[Sierra Leone Creole people|Sierra Leone]]
+where did the yoruba originated from?	75	yoruba language --> languoid document --> [u'Yoruba Detailed Description', u'Yoruba Orthography', u'Yoruba Grammar', u'Yoruba Orthography', u'Yoruba Genesis Translation']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> topic alias --> [u'Yoruba', u'Ede-yoruba', u'Yariba', u'Yooba']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> languoid parent --> [u'Edekiri Group']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> context name short name --> [u'Yoruba']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> human language region --> [u'Africa']	5	[[Africa]] is home to a large number of language families, the largest of which is the [[Niger–Congo languages|Niger-Congo language family]], which includes such languages as [[Swahili language|Swahili]], [[Shona language|Shona]], and [[Yoruba language|Yoruba]].
+where did the yoruba originated from?	75	yoruba language --> object name --> [u'Yoruba Language']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> topic image --> [u'Il\xea Ax\xe9 Op\xf3 Afonj\xe1.']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> languoid languoid class --> [u'Language']	0	EMPTY
+where did the yoruba originated from?	75	yoruba language --> human language countries spoken in --> [u'Nigeria', u'Benin']	29	|[[Yoruba people|Yoruba]] || Niger–Congo, Volta–Niger ||[[Yoruba language|Yoruba]] || West || [[Nigeria]], [[Benin]], [[Togo]], [[Ghana]], [[Ivory Coast]] [[Sierra Leone Creole people|Sierra Leone]]
+where did the yoruba originated from?	75	yoruba language --> languoid local name --> [u'Yoruba', u'Yoruba', u'Yoruba', u'Yoruba', u'Yoruba']	0	EMPTY

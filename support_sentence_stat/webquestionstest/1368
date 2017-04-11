@@ -1,160 +1,160 @@
-what currency should you take to morocco?	2823	take to --> object name --> [u'take to']	0
-what currency should you take to morocco?	2823	you take --> object name --> [u'You Take']	0
-what currency should you take to morocco?	2823	you take --> object name --> [u'You Take']	0
-what currency should you take to morocco?	2823	you take --> object name --> [u'You Take']	0
-what currency should you take to morocco?	2823	currency --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what currency should you take to morocco?	2823	currency --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjMQpwpEbGdrcN5Y29ycA']	0
-what currency should you take to morocco?	2823	currency --> ikariam resource category resources --> [u'Gold']	0
-what currency should you take to morocco?	2823	currency --> webpage category --> [u'Tag']	0
-what currency should you take to morocco?	2823	currency --> object name --> [u'Currency']	0
-what currency should you take to morocco?	2823	currency --> topic image --> [u'Euromoenterogsedler']	0
-what currency should you take to morocco?	2823	currency --> equivalent topic equivalent type --> [u'Currency']	0
-what currency should you take to morocco?	2823	currency --> book subject works --> [u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']	0
-what currency should you take to morocco?	2823	morocco --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
-what currency should you take to morocco?	2823	morocco --> government position held office position or title --> [u'Chief Economic Advisor', u'Prime Minister of Morocco', u'King of Morocco']	0
-what currency should you take to morocco?	2823	morocco --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2004 Summer Olympics', u'2008 Summer Olympics']	13
-what currency should you take to morocco?	2823	morocco --> dated percentage rate --> [u'0', u'0.00371', u'0.005675', u'0.021635', u'0.142301']	0
-what currency should you take to morocco?	2823	morocco --> location partially contains --> [u'Atlas Mountains', u'Sahara']	96
-what currency should you take to morocco?	2823	morocco --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to morocco?	2823	morocco --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to morocco?	2823	morocco --> taxonomy entry prefix --> [u'DT']	0
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> location people born here --> [u'Ralph de Toledano', u'Ridouane Harroufi', u'Mohamed Rouicha', u'Oussama Essabr', u'Abdelhadi Boutaleb']	0
-what currency should you take to morocco?	2823	morocco --> olympic medal honor medalist --> [u'Jaouad Gharib', u'Abdelhak Achik', u'Hasna Benhassi', u'Nawal El Moutawakel', u'Sara El Bekri']	6
-what currency should you take to morocco?	2823	morocco --> country currency formerly used --> [u'Moroccan franc']	1
-what currency should you take to morocco?	2823	morocco --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what currency should you take to morocco?	2823	morocco --> dated kilowatt hour number --> [u'130.33', u'144.043', u'157.276', u'162.606', u'167.871']	0
-what currency should you take to morocco?	2823	morocco --> country fips  --> [u'MO']	0
-what currency should you take to morocco?	2823	morocco --> vacation choice vacationer --> [u'Debra Winger', u'Julia Roberts', u'Jake Gyllenhaal', u'Natalie Portman']	0
-what currency should you take to morocco?	2823	morocco --> casino theme casinos in this theme --> [u'Monte Carlo Resort and Casino', u'SLS Las Vegas']	0
-what currency should you take to morocco?	2823	morocco --> location containedby --> [u'Africa']	85
-what currency should you take to morocco?	2823	morocco --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to morocco?	2823	morocco --> athletics championships competition athlete relationship event --> [u"2007 World Championships in Athletics \u2013 Men's 800 metres"]	0
-what currency should you take to morocco?	2823	morocco --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Canoe Slalom', u'Fencing', u'Alpine skiing']	73
-what currency should you take to morocco?	2823	morocco --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
-what currency should you take to morocco?	2823	morocco --> art subject artwork on the subject --> [u'Jewish wedding in Morocco']	0
-what currency should you take to morocco?	2823	morocco --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to morocco?	2823	morocco --> kingdom rulers --> [u'Mohammed VI of Morocco']	14
-what currency should you take to morocco?	2823	morocco --> context name official name --> [u'Morocco']	0
-what currency should you take to morocco?	2823	morocco --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
-what currency should you take to morocco?	2823	morocco --> webpage in index --> [u'WSJ Speakeasy Index']	0
-what currency should you take to morocco?	2823	morocco --> administrative area adjectival form --> [u'Moroccan']	0
-what currency should you take to morocco?	2823	morocco --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViJBpwpEbGdrcN5Y29ycA']	0
-what currency should you take to morocco?	2823	morocco --> country currency used --> [u'Moroccan dirham']	1
-what currency should you take to morocco?	2823	morocco --> government position held office holder --> [u'Mohammed VI of Morocco', u'Driss Jettou', u'Hynd Bouhia', u'Abdelilah Benkirane']	15
-what currency should you take to morocco?	2823	morocco --> imports and exports amount --> [u'144900000', u'273200000']	0
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> olympic medal honor event --> [u"Athletics at the 1960 Summer Olympics \u2013 Men's marathon", u'Boxing at the 1988 Summer Olympics - Featherweight', u"Swimming at the 2012 Summer Olympics \u2013 Women's 400 metre individual medley", u"Athletics at the 2004 Summer Olympics - Men's 1,500 metres", u"Athletics at the 1988 Summer Olympics \u2013 Men's 800 metres"]	0
-what currency should you take to morocco?	2823	morocco --> olympic participating country olympics participated in --> [u'2008 Summer Olympics']	8
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> organization scope organizations with this scope --> [u'Democratic Socialist Vanguard Party', u'Unified Socialist Party', u'Democratic Confederation of Labour', u'Socialist Party', u'Democratic Federation of Labour']	0
-what currency should you take to morocco?	2823	morocco --> dated money value amount --> [u'1090', u'1120', u'1270', u'1280', u'1330']	0
-what currency should you take to morocco?	2823	morocco --> imports and exports date --> [u'2004', u'2008']	0
-what currency should you take to morocco?	2823	morocco --> country languages spoken --> [u'French Language', u'Arabic Language', u'Hassaniya Arabic', u'Rifian language', u'Moroccan Arabic']	73
-what currency should you take to morocco?	2823	morocco --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what currency should you take to morocco?	2823	morocco --> country calling code --> [u'212']	0
-what currency should you take to morocco?	2823	morocco --> adjoining relationship adjoins --> [u'Spain', u'Perejil Island', u'Western Sahara', u'Algeria']	1127
-what currency should you take to morocco?	2823	morocco --> athletics championships competition athlete relationship athlete s --> [u'Amine La\xe2lou']	0
-what currency should you take to morocco?	2823	morocco --> geocode longitude --> [u'-6.19156617647']	0
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics', u'1988 Summer Olympics']	8
-what currency should you take to morocco?	2823	morocco --> dated percentage rate --> [u'2.320651', u'2.969692', u'3.201602', u'3.251961', u'3.313382']	0
-what currency should you take to morocco?	2823	morocco --> imports and exports imported from --> [u'Portugal']	188
-what currency should you take to morocco?	2823	morocco --> olympic participating country ioc code --> [u'MAR']	0
-what currency should you take to morocco?	2823	morocco --> athletics championships competition athlete relationship rank --> [u'6']	0
-what currency should you take to morocco?	2823	morocco --> dated kgoe number --> [u'154.731', u'164.37', u'180.49', u'194.987', u'197.852']	0
-what currency should you take to morocco?	2823	morocco --> topic official website --> [u'http://www.maroc.ma/']	0
-what currency should you take to morocco?	2823	morocco --> dated float number --> [u'2.242', u'2.279', u'2.314', u'2.345', u'2.373']	0
-what currency should you take to morocco?	2823	morocco --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> country iso  shortname --> [u'MOROCCO']	0
-what currency should you take to morocco?	2823	morocco --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
-what currency should you take to morocco?	2823	morocco --> breed origin breeds originating here --> [u'Sloughi', u'Aidi']	3
-what currency should you take to morocco?	2823	morocco --> athletics championships competition athlete relationship championships --> [u'2007 World Championships in Athletics']	0
-what currency should you take to morocco?	2823	morocco --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
-what currency should you take to morocco?	2823	morocco --> newspaper circulation area newspapers --> [u'Al Ittihad Al Ichtiraki', u'Le Matin du Sahara et du Maghreb', u"Aujourd'hui Le Maroc", u'Al Bayane', u"L'\xc9conomiste"]	0
-what currency should you take to morocco?	2823	morocco --> adjusted money value adjusted value --> [u'7349737688', u'7532416437', u'8269776687', u'8671985899', u'8783539137']	0
-what currency should you take to morocco?	2823	morocco --> adjusted money value adjustment currency --> [u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> dated percentage rate --> [u'-6.57945', u'-4.030937', u'-2.764341', u'-2.544685', u'-2.425234']	0
-what currency should you take to morocco?	2823	morocco --> webpage uri --> [u'http://statoids.com/uma.html']	0
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> flag use flag --> [u'Flag of Morocco']	1
-what currency should you take to morocco?	2823	morocco --> sports team location teams --> [u'Morocco national rugby league team', u'Morocco national football team', u'Morocco national cricket team', u'Morocco national handball team', u'Morocco national futsal team']	7
-what currency should you take to morocco?	2823	morocco --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to morocco?	2823	morocco --> film subject films --> [u'The Virgin Diaries']	0
-what currency should you take to morocco?	2823	morocco --> location nearby airports --> [u'Hassan I Airport']	2
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
-what currency should you take to morocco?	2823	morocco --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
-what currency should you take to morocco?	2823	morocco --> location adjectival form --> [u'Moroccan']	0
-what currency should you take to morocco?	2823	morocco --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
-what currency should you take to morocco?	2823	morocco --> dated metric ton number --> [u'0.250938', u'0.313206', u'0.314042', u'0.316129', u'0.319827']	0
-what currency should you take to morocco?	2823	morocco --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
-what currency should you take to morocco?	2823	morocco --> administrative area subdividing type --> [u'Moroccan region']	0
-what currency should you take to morocco?	2823	morocco --> government position held to --> [u'2007-09-19']	0
-what currency should you take to morocco?	2823	morocco --> webpage category --> [u'Tag', u'Topic Equivalent']	0
-what currency should you take to morocco?	2823	morocco --> government position held basic title --> [u'Prime minister', u'Monarch']	2
-what currency should you take to morocco?	2823	morocco --> countries continent --> [u'Africa']	85
-what currency should you take to morocco?	2823	morocco --> administrative area administrative parent --> [u'Earth']	0
-what currency should you take to morocco?	2823	morocco --> country capital --> [u'Rabat']	199
-what currency should you take to morocco?	2823	morocco --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to morocco?	2823	morocco --> country internet tld --> [u'ma']	2
-what currency should you take to morocco?	2823	morocco --> governmental jurisdiction government bodies --> [u'Parliament of Morocco', u'House of Representatives', u'House of Councillors']	1
-what currency should you take to morocco?	2823	morocco --> dated percentage date --> [u'1990', u'1995', u'1996', u'1997', u'1998']	0
-what currency should you take to morocco?	2823	morocco --> beer country region beers from here --> [u'Brasseries de Maroc Casablanca']	0
-what currency should you take to morocco?	2823	morocco --> dated money value valid date --> [u'2008']	0
-what currency should you take to morocco?	2823	morocco --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to morocco?	2823	morocco --> dated money value amount --> [u'4000']	0
-what currency should you take to morocco?	2823	morocco --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to morocco?	2823	morocco --> imports and exports currency --> [u'Euro']	0
-what currency should you take to morocco?	2823	morocco --> administrative area short name --> [u'ma']	0
-what currency should you take to morocco?	2823	morocco --> dated location date founded --> [u'1956-03-02']	0
-what currency should you take to morocco?	2823	morocco --> country form of government --> [u'Constitutional monarchy', u'Monarchy', u'Parliamentary system', u'Unitary state']	3
-what currency should you take to morocco?	2823	morocco --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to morocco?	2823	morocco --> adjusted money value adjustment date --> [u'2000']	0
-what currency should you take to morocco?	2823	morocco --> book subject works --> [u'In Arabian Nights', u'After the Fact', u'Conquest and Colonisation in North Africa', u"The Caliph's House: A Year in Casablanca", u'Can-Cans, Cats and Cities of Ash']	0
-what currency should you take to morocco?	2823	morocco --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> government position held appointed by --> [u'Driss Jettou']	1
-what currency should you take to morocco?	2823	morocco --> location contains --> [u'Tafraoute', u'Casablanca', u'Rabat', u'Khenifra', u'Mekn\xe8s-Tafilalet']	500
-what currency should you take to morocco?	2823	morocco --> topic alias --> [u'The West', u'Kingdom of Morocco', u'The Western Kingdom']	0
-what currency should you take to morocco?	2823	morocco --> flag use from date --> [u'1915-11-17']	0
-what currency should you take to morocco?	2823	morocco --> taxonomy entry high --> [u'330']	0
-what currency should you take to morocco?	2823	morocco --> organization membership from --> [u'1956-11-12']	0
-what currency should you take to morocco?	2823	morocco --> location area --> [u'446550']	0
-what currency should you take to morocco?	2823	morocco --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to morocco?	2823	morocco --> governmental jurisdiction agencies --> [u'Minist\xe8re des finances et de la privatisation', u'Moroccan Ministry of Communications']	0
-what currency should you take to morocco?	2823	morocco --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to morocco?	2823	morocco --> country administrative divisions --> [u'Mekn\xe8s-Tafilalet', u'Chaouia-Ouardigha', u'Rabat-Sal\xe9-Zemmour-Zaer', u'Chefchaouen', u'Western Sahara']	183
-what currency should you take to morocco?	2823	morocco --> organization membership organization --> [u'World Bank', u'Arab Maghreb Union', u'Arab League', u'African Development Bank', u'United Nations']	25
-what currency should you take to morocco?	2823	morocco --> dated float number --> [u'46.615', u'47.109', u'47.6', u'48.088', u'48.574']	0
-what currency should you take to morocco?	2823	morocco --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to morocco?	2823	morocco --> administrative area pertinent type --> [u'Moroccan region', u'Moroccan prefecture', u'Moroccan province']	0
-what currency should you take to morocco?	2823	morocco --> location time zones --> [u'Western European Time', u'UTC\xb100:00']	9
-what currency should you take to morocco?	2823	morocco --> administrative area administrative area type --> [u'Sovereign state']	0
-what currency should you take to morocco?	2823	morocco --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
-what currency should you take to morocco?	2823	morocco --> film location featured in films --> [u'Mary Mother of Christ', u'Harem', u'Sex and the City 2', u'Days of Glory', u'The Bourne Ultimatum']	2
-what currency should you take to morocco?	2823	morocco --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what currency should you take to morocco?	2823	morocco --> webpage resource --> [u'Marrakech\u2019s Art Scene Draws Outsiders In', u'Statoids of Morocco', u'\u201cSex and the City 2\u2019s\u201d Kim Cattrall on the Franchise\u2019s Enduring Appeal']	0
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> dated integer number --> [u'11625999', u'11947688', u'12275060', u'12610932', u'12959397']	0
-what currency should you take to morocco?	2823	morocco --> geocode latitude --> [u'32.7502457516']	0
-what currency should you take to morocco?	2823	morocco --> location events --> [u'Battle of Annual', u'Operation Torch', u'Battle of Cape Spartel', u'Western Sahara War', u'Western Sahara conflict']	23
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> country official language --> [u'Arabic Language', u'Berber languages']	61
-what currency should you take to morocco?	2823	morocco --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what currency should you take to morocco?	2823	morocco --> dated percentage rate --> [u'0.99', u'1', u'1.01', u'1.03', u'1.04']	0
-what currency should you take to morocco?	2823	morocco --> taxonomy entry low --> [u'301']	0
-what currency should you take to morocco?	2823	morocco --> administrative area administrative children --> [u'Mekn\xe8s-Tafilalet', u'Chaouia-Ouardigha', u'Rabat-Sal\xe9-Zemmour-Zaer', u'Tadla-Azilal', u'Doukkala-Abda']	4
-what currency should you take to morocco?	2823	morocco --> government position held from --> [u'2004', u'2002-10-09', u'1999-07-23', u'2011-11-29']	0
-what currency should you take to morocco?	2823	morocco --> olympic athlete affiliation athlete --> [u'Soufiane Haddi', u'Aziz Lahbabi', u'Abdel-Karim El Haouari', u'Hasna Benhassi', u'Nordin Amrabat']	2
-what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar']	0
-what currency should you take to morocco?	2823	morocco --> dated money value amount --> [u'21489087102', u'22675563007', u'26675759218', u'27225716259', u'29264634063']	0
-what currency should you take to morocco?	2823	morocco --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to morocco?	2823	morocco --> object name --> [u'Morocco']	0
-what currency should you take to morocco?	2823	morocco --> topic image --> [u'Geografisk beliggenhet', u'LocationMorocco striped']	0
-what currency should you take to morocco?	2823	morocco --> national anthem of a country anthem --> [u'Cherifian Anthem']	0
-what currency should you take to morocco?	2823	morocco --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to morocco?	2823	morocco --> dated money value amount --> [u'2025693478', u'2037154692', u'2379611070', u'2657252502', u'2798345226']	0
-what currency should you take to morocco?	2823	morocco --> governmental jurisdiction government positions --> [u'Prime Minister of Morocco']	0
+what currency should you take to morocco?	2823	take to --> object name --> [u'take to']	0	EMPTY
+what currency should you take to morocco?	2823	you take --> object name --> [u'You Take']	0	EMPTY
+what currency should you take to morocco?	2823	you take --> object name --> [u'You Take']	0	EMPTY
+what currency should you take to morocco?	2823	you take --> object name --> [u'You Take']	0	EMPTY
+what currency should you take to morocco?	2823	currency --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what currency should you take to morocco?	2823	currency --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjMQpwpEbGdrcN5Y29ycA']	0	EMPTY
+what currency should you take to morocco?	2823	currency --> ikariam resource category resources --> [u'Gold']	0	EMPTY
+what currency should you take to morocco?	2823	currency --> webpage category --> [u'Tag']	0	EMPTY
+what currency should you take to morocco?	2823	currency --> object name --> [u'Currency']	0	EMPTY
+what currency should you take to morocco?	2823	currency --> topic image --> [u'Euromoenterogsedler']	0	EMPTY
+what currency should you take to morocco?	2823	currency --> equivalent topic equivalent type --> [u'Currency']	0	EMPTY
+what currency should you take to morocco?	2823	currency --> book subject works --> [u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> government position held office position or title --> [u'Chief Economic Advisor', u'Prime Minister of Morocco', u'King of Morocco']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2004 Summer Olympics', u'2008 Summer Olympics']	13	Atafi represented [[Morocco]] at the [[2012 Summer Olympics]] in [[London]], where he competed in the [[Wrestling at the 2012 Summer Olympics – Men's Greco-Roman 96 kg|men's 96 kg]] class.
+what currency should you take to morocco?	2823	morocco --> dated percentage rate --> [u'0', u'0.00371', u'0.005675', u'0.021635', u'0.142301']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> location partially contains --> [u'Atlas Mountains', u'Sahara']	96	marsaisi'' refers to the ''Dunkleosteus'' fossils from the Lower Famennian Late Devonian strata of the [[Atlas Mountains]] in [[Morocco]].
+what currency should you take to morocco?	2823	morocco --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> taxonomy entry prefix --> [u'DT']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> location people born here --> [u'Ralph de Toledano', u'Ridouane Harroufi', u'Mohamed Rouicha', u'Oussama Essabr', u'Abdelhadi Boutaleb']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> olympic medal honor medalist --> [u'Jaouad Gharib', u'Abdelhak Achik', u'Hasna Benhassi', u'Nawal El Moutawakel', u'Sara El Bekri']	6	|bgcolor="gold"|'''Gold'''|| [[Jaouad Gharib]]<br>''[[Morocco]] <small>(MAR)''
+what currency should you take to morocco?	2823	morocco --> country currency formerly used --> [u'Moroccan franc']	1	**[[Moroccan franc]] – [[Morocco]]
+what currency should you take to morocco?	2823	morocco --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated kilowatt hour number --> [u'130.33', u'144.043', u'157.276', u'162.606', u'167.871']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country fips  --> [u'MO']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> vacation choice vacationer --> [u'Debra Winger', u'Julia Roberts', u'Jake Gyllenhaal', u'Natalie Portman']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> casino theme casinos in this theme --> [u'Monte Carlo Resort and Casino', u'SLS Las Vegas']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> location containedby --> [u'Africa']	85	For the first time two [[Africa]]n teams played the competition, as in addition to [[Morocco]]'s [[Sportif Casablancais]] [[Portugal]] was represented by [[WBC Benfica de Lubango|Benfica de Lubango]] from [[Portuguese Angola]].
+what currency should you take to morocco?	2823	morocco --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> athletics championships competition athlete relationship event --> [u"2007 World Championships in Athletics \u2013 Men's 800 metres"]	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Canoe Slalom', u'Fencing', u'Alpine skiing']	73	'''Abdul-Adeem Karjimi''' () is a [[Morocco|Moroccan]] [[Association football|footballer]] currently playing for [[Al-Nasr S.C.S.C.|Al-Nasr]] in the [[Omani League]], previously playing there for four seasons.
+what currency should you take to morocco?	2823	morocco --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> art subject artwork on the subject --> [u'Jewish wedding in Morocco']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> kingdom rulers --> [u'Mohammed VI of Morocco']	14	**King [[Mohammed VI of Morocco|Mohammed VI]] of [[Morocco]] pledges democratic reforms to the country's constitution, after demonstrations last month.
+what currency should you take to morocco?	2823	morocco --> context name official name --> [u'Morocco']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> webpage in index --> [u'WSJ Speakeasy Index']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> administrative area adjectival form --> [u'Moroccan']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViJBpwpEbGdrcN5Y29ycA']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country currency used --> [u'Moroccan dirham']	1	**[[Moroccan dirham]] – [[Morocco]]
+what currency should you take to morocco?	2823	morocco --> government position held office holder --> [u'Mohammed VI of Morocco', u'Driss Jettou', u'Hynd Bouhia', u'Abdelilah Benkirane']	15	**King [[Mohammed VI of Morocco|Mohammed VI]] of [[Morocco]] pledges democratic reforms to the country's constitution, after demonstrations last month.
+what currency should you take to morocco?	2823	morocco --> imports and exports amount --> [u'144900000', u'273200000']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> olympic medal honor event --> [u"Athletics at the 1960 Summer Olympics \u2013 Men's marathon", u'Boxing at the 1988 Summer Olympics - Featherweight', u"Swimming at the 2012 Summer Olympics \u2013 Women's 400 metre individual medley", u"Athletics at the 2004 Summer Olympics - Men's 1,500 metres", u"Athletics at the 1988 Summer Olympics \u2013 Men's 800 metres"]	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> olympic participating country olympics participated in --> [u'2008 Summer Olympics']	8	Rguig represented [[Morocco]] at the [[2008 Summer Olympics]] in [[Beijing]], where he competed for the [[Judo at the 2008 Summer Olympics – Men's 66 kg|men's half-lightweight]] class (66&nbsp;kg).
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> organization scope organizations with this scope --> [u'Democratic Socialist Vanguard Party', u'Unified Socialist Party', u'Democratic Confederation of Labour', u'Socialist Party', u'Democratic Federation of Labour']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value amount --> [u'1090', u'1120', u'1270', u'1280', u'1330']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> imports and exports date --> [u'2004', u'2008']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country languages spoken --> [u'French Language', u'Arabic Language', u'Hassaniya Arabic', u'Rifian language', u'Moroccan Arabic']	73	[[Magazines]] in [[Morocco]] are published in [[English language|English]], [[Arabic language|Arabic]], and [[French language|French]] languages.
+what currency should you take to morocco?	2823	morocco --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country calling code --> [u'212']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> adjoining relationship adjoins --> [u'Spain', u'Perejil Island', u'Western Sahara', u'Algeria']	1127	*[[Morocco]] and [[Algeria]] agreed to a ceasefire in the [[Sand War]], effective November 2, after mediation by [[Ethiopia]]'s Emperor [[Haile Selassie]] and Mali's President [[Modibo Keita]] at the [[Mali]] capital, [[Bamako]].
+what currency should you take to morocco?	2823	morocco --> athletics championships competition athlete relationship athlete s --> [u'Amine La\xe2lou']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> geocode longitude --> [u'-6.19156617647']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics', u'1988 Summer Olympics']	8	Atafi represented [[Morocco]] at the [[2012 Summer Olympics]] in [[London]], where he competed in the [[Wrestling at the 2012 Summer Olympics – Men's Greco-Roman 96 kg|men's 96 kg]] class.
+what currency should you take to morocco?	2823	morocco --> dated percentage rate --> [u'2.320651', u'2.969692', u'3.201602', u'3.251961', u'3.313382']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> imports and exports imported from --> [u'Portugal']	188	New [[technology|technologies]] allow identity cards to contain [[Biometrics|biometric]] information, such as [[photograph]]s, [[facial geometry|face]], [[hand geometry|hand]] or [[iris scan|iris]] measurements, or [[fingerprint]]s. [[Electronic identity card]]s (or e-IDs) are already available in countries including [[Belgium]], [[Croatia]], [[Estonia]], [[Finland]], [[Guatemala]], [[Hong Kong]], [[Malaysia]], [[Morocco]], [[Portugal]] and [[Spain]].
+what currency should you take to morocco?	2823	morocco --> olympic participating country ioc code --> [u'MAR']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> athletics championships competition athlete relationship rank --> [u'6']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated kgoe number --> [u'154.731', u'164.37', u'180.49', u'194.987', u'197.852']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> topic official website --> [u'http://www.maroc.ma/']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated float number --> [u'2.242', u'2.279', u'2.314', u'2.345', u'2.373']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country iso  shortname --> [u'MOROCCO']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> adjusted money value source --> [u'World Bank, World Development Indicators']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> breed origin breeds originating here --> [u'Sloughi', u'Aidi']	3	|[[Sloughi]]||[[Morocco]]||Group 10 Section 03 #188||Hound Group||Group 4 (Hounds)||||Hound||Hound||Sighthound and Pariah||[[File:Sloughi sandcolor.jpg|200px]]
+what currency should you take to morocco?	2823	morocco --> athletics championships competition athlete relationship championships --> [u'2007 World Championships in Athletics']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> newspaper circulation area newspapers --> [u'Al Ittihad Al Ichtiraki', u'Le Matin du Sahara et du Maghreb', u"Aujourd'hui Le Maroc", u'Al Bayane', u"L'\xc9conomiste"]	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> adjusted money value adjusted value --> [u'7349737688', u'7532416437', u'8269776687', u'8671985899', u'8783539137']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> adjusted money value adjustment currency --> [u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated percentage rate --> [u'-6.57945', u'-4.030937', u'-2.764341', u'-2.544685', u'-2.425234']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> webpage uri --> [u'http://statoids.com/uma.html']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> flag use flag --> [u'Flag of Morocco']	1	|[[Morocco]] ([[Flag of Morocco|flag]])
+what currency should you take to morocco?	2823	morocco --> sports team location teams --> [u'Morocco national rugby league team', u'Morocco national football team', u'Morocco national cricket team', u'Morocco national handball team', u'Morocco national futsal team']	7	In the [[1988 Africa Cup of Nations|1988 edition]], held in [[Morocco]], he scored the game's only goal, helping defeat [[Morocco national football team|the hosts]] in the semifinals and eventually winning the trophy.
+what currency should you take to morocco?	2823	morocco --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> film subject films --> [u'The Virgin Diaries']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> location nearby airports --> [u'Hassan I Airport']	2	[[Hassan I Airport]], serving [[El Aaiún]] (Laâyoune), is an international airport, but the carriers at the airport connect only to regional destinations (to [[Morocco]] or the [[Canary Islands]]).
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> location adjectival form --> [u'Moroccan']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated metric ton number --> [u'0.250938', u'0.313206', u'0.314042', u'0.316129', u'0.319827']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> administrative area subdividing type --> [u'Moroccan region']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> government position held to --> [u'2007-09-19']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> webpage category --> [u'Tag', u'Topic Equivalent']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> government position held basic title --> [u'Prime minister', u'Monarch']	2	'''Christine Daure-Serfaty''' (1926 – 28 May 2014) was a French [[human rights]] [[activist]] and writer who distinguished herself in [[Morocco]] where she embraced the fight of the victims of [[Monarch|King]] [[Hassan II of Morocco|Hassan II]], during the "[[Years of Lead (Morocco)|Years of Lead]]," and from afar, played a major role in the evolution of the regime and the human rights in Morocco.
+what currency should you take to morocco?	2823	morocco --> countries continent --> [u'Africa']	85	For the first time two [[Africa]]n teams played the competition, as in addition to [[Morocco]]'s [[Sportif Casablancais]] [[Portugal]] was represented by [[WBC Benfica de Lubango|Benfica de Lubango]] from [[Portuguese Angola]].
+what currency should you take to morocco?	2823	morocco --> administrative area administrative parent --> [u'Earth']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country capital --> [u'Rabat']	199	Artist residency, Le Cube – Independent Art Room, [[Rabat]], [[Morocco]], 2013
+what currency should you take to morocco?	2823	morocco --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country internet tld --> [u'ma']	2	| id="MA" |  || [[Morocco]] || 1974 || [[.ma]] ||  || Code taken from name in [[French language|French]]: ''''
+what currency should you take to morocco?	2823	morocco --> governmental jurisdiction government bodies --> [u'Parliament of Morocco', u'House of Representatives', u'House of Councillors']	1	The [[Morocco|Moroccan]] Constitution provides for a [[monarchy]] with a [[Parliament of Morocco|Parliament]] and an independent [[judiciary]].
+what currency should you take to morocco?	2823	morocco --> dated percentage date --> [u'1990', u'1995', u'1996', u'1997', u'1998']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> beer country region beers from here --> [u'Brasseries de Maroc Casablanca']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value valid date --> [u'2008']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value amount --> [u'4000']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> imports and exports currency --> [u'Euro']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> administrative area short name --> [u'ma']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated location date founded --> [u'1956-03-02']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country form of government --> [u'Constitutional monarchy', u'Monarchy', u'Parliamentary system', u'Unitary state']	3	| [[Morocco]] || 4.07 || 115 || [[Illiberal democracy]] || Partly free || [[Constitutional monarchy]] || [[State religion]]
+what currency should you take to morocco?	2823	morocco --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> adjusted money value adjustment date --> [u'2000']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> book subject works --> [u'In Arabian Nights', u'After the Fact', u'Conquest and Colonisation in North Africa', u"The Caliph's House: A Year in Casablanca", u'Can-Cans, Cats and Cities of Ash']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> government position held appointed by --> [u'Driss Jettou']	1	*October 9- [[Driss Jettou]] is appointed Prime Minister of [[Morocco]].
+what currency should you take to morocco?	2823	morocco --> location contains --> [u'Tafraoute', u'Casablanca', u'Rabat', u'Khenifra', u'Mekn\xe8s-Tafilalet']	500	Artist residency, Le Cube – Independent Art Room, [[Rabat]], [[Morocco]], 2013
+what currency should you take to morocco?	2823	morocco --> topic alias --> [u'The West', u'Kingdom of Morocco', u'The Western Kingdom']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> flag use from date --> [u'1915-11-17']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> taxonomy entry high --> [u'330']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> organization membership from --> [u'1956-11-12']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> location area --> [u'446550']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> governmental jurisdiction agencies --> [u'Minist\xe8re des finances et de la privatisation', u'Moroccan Ministry of Communications']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country administrative divisions --> [u'Mekn\xe8s-Tafilalet', u'Chaouia-Ouardigha', u'Rabat-Sal\xe9-Zemmour-Zaer', u'Chefchaouen', u'Western Sahara']	183	MINURSO's mission was to monitor the cease-fire and to organize and conduct a [[referendum]] in accordance with the Settlement Plan, which would enable the [[Sahrawi people]] of [[Western Sahara]] to choose between integration with [[Morocco]] and [[independence]].
+what currency should you take to morocco?	2823	morocco --> organization membership organization --> [u'World Bank', u'Arab Maghreb Union', u'Arab League', u'African Development Bank', u'United Nations']	25	The [[Arab League]] disapproved of Mauritanian independence due to [[Morocco]]'s ambitions for Mauritania.
+what currency should you take to morocco?	2823	morocco --> dated float number --> [u'46.615', u'47.109', u'47.6', u'48.088', u'48.574']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> administrative area pertinent type --> [u'Moroccan region', u'Moroccan prefecture', u'Moroccan province']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> location time zones --> [u'Western European Time', u'UTC\xb100:00']	9	| ESU || GMMI || [[Essaouira-Mogador Airport]] || [[Essaouira]], [[Morocco]] || [[Western European Time|UTC±00:00]] || Mar-Oct
+what currency should you take to morocco?	2823	morocco --> administrative area administrative area type --> [u'Sovereign state']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> film location featured in films --> [u'Mary Mother of Christ', u'Harem', u'Sex and the City 2', u'Days of Glory', u'The Bourne Ultimatum']	2	*''[[Days of Glory (2006 film)|Days of Glory]]'' • [[France]]/[[Morocco]]/[[Algeria]]/[[Belgium]]
+what currency should you take to morocco?	2823	morocco --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> webpage resource --> [u'Marrakech\u2019s Art Scene Draws Outsiders In', u'Statoids of Morocco', u'\u201cSex and the City 2\u2019s\u201d Kim Cattrall on the Franchise\u2019s Enduring Appeal']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated integer number --> [u'11625999', u'11947688', u'12275060', u'12610932', u'12959397']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> geocode latitude --> [u'32.7502457516']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> location events --> [u'Battle of Annual', u'Operation Torch', u'Battle of Cape Spartel', u'Western Sahara War', u'Western Sahara conflict']	23	'''Chakib Benmoussa''' () (born 1958, [[Fes]]) is a former [[Interior Minister]] of [[Morocco]] and the lead negotiator for the Moroccan side in the [[Western Sahara conflict]].
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> country official language --> [u'Arabic Language', u'Berber languages']	61	[[Magazines]] in [[Morocco]] are published in [[English language|English]], [[Arabic language|Arabic]], and [[French language|French]] languages.
+what currency should you take to morocco?	2823	morocco --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated percentage rate --> [u'0.99', u'1', u'1.01', u'1.03', u'1.04']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> taxonomy entry low --> [u'301']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> administrative area administrative children --> [u'Mekn\xe8s-Tafilalet', u'Chaouia-Ouardigha', u'Rabat-Sal\xe9-Zemmour-Zaer', u'Tadla-Azilal', u'Doukkala-Abda']	4	| birth_place    = [[El Gara]], [[Chaouia-Ouardigha]], [[Morocco]]
+what currency should you take to morocco?	2823	morocco --> government position held from --> [u'2004', u'2002-10-09', u'1999-07-23', u'2011-11-29']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> olympic athlete affiliation athlete --> [u'Soufiane Haddi', u'Aziz Lahbabi', u'Abdel-Karim El Haouari', u'Hasna Benhassi', u'Nordin Amrabat']	2	| [[Hasna Benhassi]], [[Morocco]]
+what currency should you take to morocco?	2823	morocco --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value amount --> [u'21489087102', u'22675563007', u'26675759218', u'27225716259', u'29264634063']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> object name --> [u'Morocco']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> topic image --> [u'Geografisk beliggenhet', u'LocationMorocco striped']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> national anthem of a country anthem --> [u'Cherifian Anthem']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> dated money value amount --> [u'2025693478', u'2037154692', u'2379611070', u'2657252502', u'2798345226']	0	EMPTY
+what currency should you take to morocco?	2823	morocco --> governmental jurisdiction government positions --> [u'Prime Minister of Morocco']	0	EMPTY

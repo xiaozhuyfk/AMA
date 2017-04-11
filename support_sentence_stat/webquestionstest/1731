@@ -1,23 +1,23 @@
-where are yamaha outboard motors manufactured?	0	yamaha outboard motors --> object name --> [u'Yamaha outboard motors']	0
-where are yamaha outboard motors manufactured?	0	outboard motor --> ranking list --> [u'101 Gadgets That Changed The World']	0
-where are yamaha outboard motors manufactured?	0	outboard motor --> ranking rank --> [u'58']	0
-where are yamaha outboard motors manufactured?	0	outboard motor --> invention inventor --> [u'Ole Evinrude']	0
-where are yamaha outboard motors manufactured?	0	outboard motor --> object name --> [u'Outboard motor']	0
-where are yamaha outboard motors manufactured?	0	outboard motor --> topic image --> [u'Trim outboard engine']	0
-where are yamaha outboard motors manufactured?	0	outboard motor --> linguistic hint subject form --> [u'Outboard motors']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> property hints disambiguator --> [u'0']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> property unique --> [u'1']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> object id --> [u'/base/puzzles/puzzle_form/manufactured']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> property expected type --> [u'Boolean']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> property schema --> [u'Puzzle Form']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> object name --> [u'Manufactured?']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> documented object tip --> [u'Does the puzzle take some tangible form other than print?']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> w org-rdf-syntax-nsdomain --> [u'Puzzle Form']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> property hints display none --> [u'0']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> w org-rdf-syntax-nsrange --> [u'Boolean']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> property unique --> [u'1']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> property expected type --> [u'type.boolean']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> property schema --> [u'base.puzzles.puzzle_form']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> object name --> [u'Manufactured?']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> w org-rdf-syntax-nsdomain --> [u'base.puzzles.puzzle_form']	0
-where are yamaha outboard motors manufactured?	0	manufactured --> w org-rdf-syntax-nsrange --> [u'type.boolean']	0
+where are yamaha outboard motors manufactured?	0	yamaha outboard motors --> object name --> [u'Yamaha outboard motors']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	outboard motor --> ranking list --> [u'101 Gadgets That Changed The World']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	outboard motor --> ranking rank --> [u'58']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	outboard motor --> invention inventor --> [u'Ole Evinrude']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	outboard motor --> object name --> [u'Outboard motor']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	outboard motor --> topic image --> [u'Trim outboard engine']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	outboard motor --> linguistic hint subject form --> [u'Outboard motors']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> property hints disambiguator --> [u'0']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> property unique --> [u'1']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> object id --> [u'/base/puzzles/puzzle_form/manufactured']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> property expected type --> [u'Boolean']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> property schema --> [u'Puzzle Form']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> object name --> [u'Manufactured?']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> documented object tip --> [u'Does the puzzle take some tangible form other than print?']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> w org-rdf-syntax-nsdomain --> [u'Puzzle Form']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> property hints display none --> [u'0']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> w org-rdf-syntax-nsrange --> [u'Boolean']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> property unique --> [u'1']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> property expected type --> [u'type.boolean']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> property schema --> [u'base.puzzles.puzzle_form']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> object name --> [u'Manufactured?']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> w org-rdf-syntax-nsdomain --> [u'base.puzzles.puzzle_form']	0	EMPTY
+where are yamaha outboard motors manufactured?	0	manufactured --> w org-rdf-syntax-nsrange --> [u'type.boolean']	0	EMPTY

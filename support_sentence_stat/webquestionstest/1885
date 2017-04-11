@@ -1,89 +1,89 @@
-when was the printing press invented by gutenberg?	73	printing press --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when was the printing press invented by gutenberg?	73	printing press --> webpage resource --> [u"From Our Staffers: 'Gutenberg! The Musical!'"]	0
-when was the printing press invented by gutenberg?	73	printing press --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvViOUpwpEbGdrcN5Y29ycA']	0
-when was the printing press invented by gutenberg?	73	printing press --> invention date of invention --> [u'1440']	0
-when was the printing press invented by gutenberg?	73	printing press --> invention inventor --> [u'Johannes Gutenberg']	2
-when was the printing press invented by gutenberg?	73	printing press --> object name --> [u'Printing press']	0
-when was the printing press invented by gutenberg?	73	printing press --> topic image --> [u'Handtiegelpresse von 1811']	0
-when was the printing press invented by gutenberg?	73	printing press --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-when was the printing press invented by gutenberg?	73	printing press --> linguistic hint subject form --> [u'Printing presses']	0
-when was the printing press invented by gutenberg?	73	the printing --> film directed by --> [u'Tim Rogers']	0
-when was the printing press invented by gutenberg?	73	the printing --> object name --> [u'The Printing']	0
-when was the printing press invented by gutenberg?	73	the printing --> film initial release date --> [u'1990']	0
-when was the printing press invented by gutenberg?	73	the printing --> film genre --> [u'Drama']	0
-when was the printing press invented by gutenberg?	73	the printing --> performance actor --> [u'David Burke', u'Edward Panosian']	0
-when was the printing press invented by gutenberg?	73	the printing --> film cut runtime --> [u'137']	0
-when was the printing press invented by gutenberg?	73	the printing --> netflix title netflix genres --> [u'Drama', u'Dramas', u'Religious & Spiritual Dramas', u'Faith & Spirituality', u'Faith & Spirituality Feature Films']	0
-when was the printing press invented by gutenberg?	73	the printing --> film country --> [u'United States of America']	0
-when was the printing press invented by gutenberg?	73	invented by --> kwrelation inverse --> [u'invented']	0
-when was the printing press invented by gutenberg?	73	invented by --> kwrelation pmheading --> [u'8. CREATED']	0
-when was the printing press invented by gutenberg?	73	invented by --> kwrelation categories --> [u'Action/Artefact']	0
-when was the printing press invented by gutenberg?	73	invented by --> object name --> [u'invented by']	0
-when was the printing press invented by gutenberg?	73	invented by --> kwrelation used in connections --> [u'soda water invented by joseph priestley', u'cornflakes invented by john harvey kellogg', u'concertina invented by charles wheatstone', u'telephone invented by elisha gray', u'gas mantle invented by carl auer von welsbach']	0
-when was the printing press invented by gutenberg?	73	invented by --> kwrelation canonical --> [u'invented by']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> person date of birth --> [u'1395']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic has sentences --> [u"Two years later Fust invested more and became Gutenberg's partner.", u'Meanwhile, Gutenberg had at last perfected his method of casting type sufficiently to set about printing his chosen text, the Bible, probably starting work on this enormous project in 1452.', u'This work, now known as the Gutenberg Bible, is regarded as the first major book to come from a printing press.', u'Individual type meant that each letter was interchangeable, and so after a page had been printed, the type could be disassembled and used again, but many thousands of characters - letters, punctuation marks, and blank pieces of type for the spaces - were needed for a few pages of a book.', u"It has been estimated that two pages of Gutenberg's Bible would have needed about six thousand pieces of type, all of which had to be exactly the same depth to produce uniform print."]	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> person profession --> [u'Inventor', u'Printer', u'Engraver']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> topic alias --> [u'Johannes Gensfleisch zur Laden zum Gutenberg']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> person gender --> [u'Male']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> education start date --> [u'1418']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> person nationality --> [u'Germany']	4
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> deceased person date of death --> [u'1468-02-03']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic kwtype --> [u'Person']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> deceased person place of death --> [u'Mainz']	17
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic connections to --> [u'aldus manutius used press of johannes gutenberg', u'willem blaeu improved design of johannes gutenberg']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> innovator original ideas --> [u'Movable type']	2
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> topic image --> [u'Johannes Gutenberg']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> person place of birth --> [u'Mainz']	17
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> person ethnicity --> [u'Germans']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> valuenotation has value --> [u'Siblings']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> education institution --> [u'University of Erfurt']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> deceased person cause of death --> [u'Myocardial infarction']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic category --> [u'business and industry']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic disciplines --> [u'printer']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> name source namesakes --> [u'Gutenberg Museum', u'Project Gutenberg', u'Johannes Gutenberg University of Mainz', u'Gutenberg', u'Gutenberg Bible']	12
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> person parents --> [u'Else Wyrich', u'Friele Gensfleisch zur Laden']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> person in fiction representations in fiction --> [u'Gunilla Goodmountain']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> place lived location --> [u'Mainz']	17
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic connections from --> [u'johannes gutenberg invention improved by willem blaeu', u'johannes gutenberg invention user was aldus manutius']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> object name --> [u'Johannes Gutenberg']	0
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> inventor inventions --> [u'Printing press']	2
-when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic assessment --> [u'Gutenberg changed history with his typeface and printing press.']	0
-when was the printing press invented by gutenberg?	73	printing --> industry parent industry --> [u'Printing and Related Support Activities', u'Printing and Related Support Activities']	0
-when was the printing press invented by gutenberg?	73	printing --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when was the printing press invented by gutenberg?	73	printing --> webpage resource --> [u'Exclusive: Twilight, The Graphic Novel']	0
-when was the printing press invented by gutenberg?	73	printing --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwF6UYJwpEbGdrcN5Y29ycA']	0
-when was the printing press invented by gutenberg?	73	printing --> website category sites --> [u'MiniCards']	0
-when was the printing press invented by gutenberg?	73	printing --> exhibition subject exhibitions created about this subject --> [u'Postwar American Prints and Drawings']	0
-when was the printing press invented by gutenberg?	73	printing --> periodical subject periodicals --> [u"The Devil's Artisan"]	0
-when was the printing press invented by gutenberg?	73	printing --> visual art form artworks --> [u'The Three Crosses', u'Crak!', u'NEA New Public Works 2001 Poster', u'Maya in a Pinafore', u'Untitled (Ophelia)']	0
-when was the printing press invented by gutenberg?	73	printing --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when was the printing press invented by gutenberg?	73	printing --> object name --> [u'Printing']	0
-when was the printing press invented by gutenberg?	73	printing --> organization sector organizations in this sector --> [u'Hyland Graphics Design And Advertising', u'Worshipful Company of Stationers and Newspaper Makers']	0
-when was the printing press invented by gutenberg?	73	printing --> industry companies --> [u'Popular Holdings', u'Network 18', u'Scholastic Press', u'Consolidated Graphics, Inc.', u'R. R. Donnelley & Sons Company']	0
-when was the printing press invented by gutenberg?	73	printing --> topic image --> [u'Korean book-Jikji-Selected Teachings of Buddhist Sages and Seon Masters-1377', u'Jingangjing', u'The folder of newspaper web offset printing press']	0
-when was the printing press invented by gutenberg?	73	printing --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-when was the printing press invented by gutenberg?	73	printing --> industry child industry --> [u'Commercial Gravure Printing', u'Commercial Printing, Gravure', u'Commercial Lithographic Printing', u'Blankbook, Looseleaf Binders, and Devices Manufacturing', u'Books Printing']	0
-when was the printing press invented by gutenberg?	73	printing --> magazine topic periodical --> [u'Magenta']	0
-when was the printing press invented by gutenberg?	73	printing --> visual art form artists --> [u'James Rosenquist', u'Csaba Markus', u'Raphael Soyer', u'Antonia Gerstacker', u'Jan Meyssens']	0
-when was the printing press invented by gutenberg?	73	printing --> taxonomy entry prefix --> [u'NE']	0
-when was the printing press invented by gutenberg?	73	printing --> book subject works --> [u'Ink, paper, metal, wood', u'Mechanick exercises', u'The English provincial printers, stationers and bookbinders to 1557', u'Lady Margaret Beaufort Countess of Richmond (mother of King Henry VII), Elizabeth of York (queen of King Henry VII) and Wynkyn de Worde', u'More papers hand made']	0
-when was the printing press invented by gutenberg?	73	freedom of the press --> object name --> [u'Freedom of the press']	0
-when was the printing press invented by gutenberg?	73	freedom of the press --> topic image --> [u'Freedom of the press worldwide according to Reporters Without Borders.', u'Nazi propaganda was used to glorify Adolf Hitler and stifle dissenting viewpoints.', u'Reporters Without Borders 2007 Press Freedom Rankings Map']	0
-when was the printing press invented by gutenberg?	73	freedom of the press --> webpage category --> [u'Tag']	0
-when was the printing press invented by gutenberg?	73	freedom of the press --> book subject works --> [u'Camus at Combat: Writing 1944-1947']	0
-when was the printing press invented by gutenberg?	73	mass media --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when was the printing press invented by gutenberg?	73	mass media --> webpage resource --> [u'New York\u2019s Streets Celebrate the Last Great Pop Star']	0
-when was the printing press invented by gutenberg?	73	mass media --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVipCZwpEbGdrcN5Y29ycA']	0
-when was the printing press invented by gutenberg?	73	mass media --> object name --> [u'Mass media']	0
-when was the printing press invented by gutenberg?	73	mass media --> industry companies --> [u'La Sentinelle', u'News Corporation']	0
-when was the printing press invented by gutenberg?	73	mass media --> topic image --> [u'911-Panel', u'Brockhaus Konversations-Lexikon, 1902.']	0
-when was the printing press invented by gutenberg?	73	mass media --> webpage in index --> [u'WSJ Speakeasy Index']	0
-when was the printing press invented by gutenberg?	73	mass media --> vocabulary equivalent topic equivalent concept --> [u'Mass media']	0
-when was the printing press invented by gutenberg?	73	mass media --> book subject works --> [u'Depth of Field: Essays on Photographs, Lens Culture and Mass Media', u'As Egypt Howls and History Tweets', u'The Structural Transformation of the Public Sphere', u"One Author's Open Farewell to the Oprah Winfrey Show", u'Countdown of 10 Amazing Moments from the Year 2011: No. 1 Oprah Winfrey']	0
-when was the printing press invented by gutenberg?	73	news media --> webpage resource --> [u"'The Colbert Report' in Iraq: Obama says, 'Shave that man's head!'", u'Barack Obama, Michael Bloomberg, Brian Williams\u2026and Elmo', u'Does anyone still care about the MTV Movie Awards?', u"Smokey Robinson blasts 'atrocious' media coverage of Michael Jackson and his family", u"Breaking: Dan Rather reports on Nixon's 1973 munchies"]	0
-when was the printing press invented by gutenberg?	73	news media --> object name --> [u'News media']	0
-when was the printing press invented by gutenberg?	73	news media --> industry companies --> [u'Mainstream Media']	0
-when was the printing press invented by gutenberg?	73	news media --> tv genre programs --> [u'Reliable Sources', u'Bunkershot']	0
-when was the printing press invented by gutenberg?	73	news media --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when was the printing press invented by gutenberg?	73	news media --> book subject works --> [u'Understanding Media: The Extensions of Man', u'Spin Sisters: How the Women of the Media Sell Unhappiness and Liberalism to the Women of America', u'The News Business', u'Three Blind Mice: How the TV Networks Lost Their Way', u"Media Man: Ted Turner's Improbable Empire"]	0
+when was the printing press invented by gutenberg?	73	printing press --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing press --> webpage resource --> [u"From Our Staffers: 'Gutenberg! The Musical!'"]	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing press --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvViOUpwpEbGdrcN5Y29ycA']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing press --> invention date of invention --> [u'1440']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing press --> invention inventor --> [u'Johannes Gutenberg']	2	*[[1468]] &ndash; [[Johannes Gutenberg]], German publisher, invented the [[Printing press]] (b.
+when was the printing press invented by gutenberg?	73	printing press --> object name --> [u'Printing press']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing press --> topic image --> [u'Handtiegelpresse von 1811']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing press --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing press --> linguistic hint subject form --> [u'Printing presses']	0	EMPTY
+when was the printing press invented by gutenberg?	73	the printing --> film directed by --> [u'Tim Rogers']	0	EMPTY
+when was the printing press invented by gutenberg?	73	the printing --> object name --> [u'The Printing']	0	EMPTY
+when was the printing press invented by gutenberg?	73	the printing --> film initial release date --> [u'1990']	0	EMPTY
+when was the printing press invented by gutenberg?	73	the printing --> film genre --> [u'Drama']	0	EMPTY
+when was the printing press invented by gutenberg?	73	the printing --> performance actor --> [u'David Burke', u'Edward Panosian']	0	EMPTY
+when was the printing press invented by gutenberg?	73	the printing --> film cut runtime --> [u'137']	0	EMPTY
+when was the printing press invented by gutenberg?	73	the printing --> netflix title netflix genres --> [u'Drama', u'Dramas', u'Religious & Spiritual Dramas', u'Faith & Spirituality', u'Faith & Spirituality Feature Films']	0	EMPTY
+when was the printing press invented by gutenberg?	73	the printing --> film country --> [u'United States of America']	0	EMPTY
+when was the printing press invented by gutenberg?	73	invented by --> kwrelation inverse --> [u'invented']	0	EMPTY
+when was the printing press invented by gutenberg?	73	invented by --> kwrelation pmheading --> [u'8. CREATED']	0	EMPTY
+when was the printing press invented by gutenberg?	73	invented by --> kwrelation categories --> [u'Action/Artefact']	0	EMPTY
+when was the printing press invented by gutenberg?	73	invented by --> object name --> [u'invented by']	0	EMPTY
+when was the printing press invented by gutenberg?	73	invented by --> kwrelation used in connections --> [u'soda water invented by joseph priestley', u'cornflakes invented by john harvey kellogg', u'concertina invented by charles wheatstone', u'telephone invented by elisha gray', u'gas mantle invented by carl auer von welsbach']	0	EMPTY
+when was the printing press invented by gutenberg?	73	invented by --> kwrelation canonical --> [u'invented by']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> person date of birth --> [u'1395']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic has sentences --> [u"Two years later Fust invested more and became Gutenberg's partner.", u'Meanwhile, Gutenberg had at last perfected his method of casting type sufficiently to set about printing his chosen text, the Bible, probably starting work on this enormous project in 1452.', u'This work, now known as the Gutenberg Bible, is regarded as the first major book to come from a printing press.', u'Individual type meant that each letter was interchangeable, and so after a page had been printed, the type could be disassembled and used again, but many thousands of characters - letters, punctuation marks, and blank pieces of type for the spaces - were needed for a few pages of a book.', u"It has been estimated that two pages of Gutenberg's Bible would have needed about six thousand pieces of type, all of which had to be exactly the same depth to produce uniform print."]	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> person profession --> [u'Inventor', u'Printer', u'Engraver']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> topic alias --> [u'Johannes Gensfleisch zur Laden zum Gutenberg']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> person gender --> [u'Male']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> education start date --> [u'1418']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> person nationality --> [u'Germany']	4	* [[Mössbauer spectrometer]] (MB) [[MIMOS II]], developed by Dr. Göstar Klingelhöfer at the [[Johannes Gutenberg]] University in [[Mainz]], [[Germany]], is used for close-up investigations of the mineralogy of iron-bearing rocks and soils.
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> deceased person date of death --> [u'1468-02-03']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic kwtype --> [u'Person']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> deceased person place of death --> [u'Mainz']	17	His contact with the "[[Gutenberg Museum]]" in [[Mainz]] (Germany), created by the "International [[Johannes Gutenberg|Gutenberg]] Society", led him to found the "National Printing and Graphic Works Museum" in [[Valencia]] in 1987.
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic connections to --> [u'aldus manutius used press of johannes gutenberg', u'willem blaeu improved design of johannes gutenberg']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> innovator original ideas --> [u'Movable type']	2	* 1444 – [[Johannes Gutenberg]]'s [[Movable type]]
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> topic image --> [u'Johannes Gutenberg']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> person place of birth --> [u'Mainz']	17	His contact with the "[[Gutenberg Museum]]" in [[Mainz]] (Germany), created by the "International [[Johannes Gutenberg|Gutenberg]] Society", led him to found the "National Printing and Graphic Works Museum" in [[Valencia]] in 1987.
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> person ethnicity --> [u'Germans']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> valuenotation has value --> [u'Siblings']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> education institution --> [u'University of Erfurt']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> deceased person cause of death --> [u'Myocardial infarction']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic category --> [u'business and industry']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic disciplines --> [u'printer']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> name source namesakes --> [u'Gutenberg Museum', u'Project Gutenberg', u'Johannes Gutenberg University of Mainz', u'Gutenberg', u'Gutenberg Bible']	12	This method was used by [[Johannes Gutenberg|Gutenberg]] in the [[Gutenberg_Bible#The_42-line_Bible|42-line bible]] (see ), but is less easy now because few fonts come with multiple versions of the same glyph.
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> person parents --> [u'Else Wyrich', u'Friele Gensfleisch zur Laden']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> person in fiction representations in fiction --> [u'Gunilla Goodmountain']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> place lived location --> [u'Mainz']	17	His contact with the "[[Gutenberg Museum]]" in [[Mainz]] (Germany), created by the "International [[Johannes Gutenberg|Gutenberg]] Society", led him to found the "National Printing and Graphic Works Museum" in [[Valencia]] in 1987.
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic connections from --> [u'johannes gutenberg invention improved by willem blaeu', u'johannes gutenberg invention user was aldus manutius']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> object name --> [u'Johannes Gutenberg']	0	EMPTY
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> inventor inventions --> [u'Printing press']	2	*[[1468]] &ndash; [[Johannes Gutenberg]], German publisher, invented the [[Printing press]] (b.
+when was the printing press invented by gutenberg?	73	johannes gutenberg --> kwtopic assessment --> [u'Gutenberg changed history with his typeface and printing press.']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> industry parent industry --> [u'Printing and Related Support Activities', u'Printing and Related Support Activities']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> webpage resource --> [u'Exclusive: Twilight, The Graphic Novel']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwF6UYJwpEbGdrcN5Y29ycA']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> website category sites --> [u'MiniCards']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> exhibition subject exhibitions created about this subject --> [u'Postwar American Prints and Drawings']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> periodical subject periodicals --> [u"The Devil's Artisan"]	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> visual art form artworks --> [u'The Three Crosses', u'Crak!', u'NEA New Public Works 2001 Poster', u'Maya in a Pinafore', u'Untitled (Ophelia)']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> object name --> [u'Printing']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> organization sector organizations in this sector --> [u'Hyland Graphics Design And Advertising', u'Worshipful Company of Stationers and Newspaper Makers']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> industry companies --> [u'Popular Holdings', u'Network 18', u'Scholastic Press', u'Consolidated Graphics, Inc.', u'R. R. Donnelley & Sons Company']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> topic image --> [u'Korean book-Jikji-Selected Teachings of Buddhist Sages and Seon Masters-1377', u'Jingangjing', u'The folder of newspaper web offset printing press']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> industry child industry --> [u'Commercial Gravure Printing', u'Commercial Printing, Gravure', u'Commercial Lithographic Printing', u'Blankbook, Looseleaf Binders, and Devices Manufacturing', u'Books Printing']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> magazine topic periodical --> [u'Magenta']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> visual art form artists --> [u'James Rosenquist', u'Csaba Markus', u'Raphael Soyer', u'Antonia Gerstacker', u'Jan Meyssens']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> taxonomy entry prefix --> [u'NE']	0	EMPTY
+when was the printing press invented by gutenberg?	73	printing --> book subject works --> [u'Ink, paper, metal, wood', u'Mechanick exercises', u'The English provincial printers, stationers and bookbinders to 1557', u'Lady Margaret Beaufort Countess of Richmond (mother of King Henry VII), Elizabeth of York (queen of King Henry VII) and Wynkyn de Worde', u'More papers hand made']	0	EMPTY
+when was the printing press invented by gutenberg?	73	freedom of the press --> object name --> [u'Freedom of the press']	0	EMPTY
+when was the printing press invented by gutenberg?	73	freedom of the press --> topic image --> [u'Freedom of the press worldwide according to Reporters Without Borders.', u'Nazi propaganda was used to glorify Adolf Hitler and stifle dissenting viewpoints.', u'Reporters Without Borders 2007 Press Freedom Rankings Map']	0	EMPTY
+when was the printing press invented by gutenberg?	73	freedom of the press --> webpage category --> [u'Tag']	0	EMPTY
+when was the printing press invented by gutenberg?	73	freedom of the press --> book subject works --> [u'Camus at Combat: Writing 1944-1947']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> webpage resource --> [u'New York\u2019s Streets Celebrate the Last Great Pop Star']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVipCZwpEbGdrcN5Y29ycA']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> object name --> [u'Mass media']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> industry companies --> [u'La Sentinelle', u'News Corporation']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> topic image --> [u'911-Panel', u'Brockhaus Konversations-Lexikon, 1902.']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> webpage in index --> [u'WSJ Speakeasy Index']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> vocabulary equivalent topic equivalent concept --> [u'Mass media']	0	EMPTY
+when was the printing press invented by gutenberg?	73	mass media --> book subject works --> [u'Depth of Field: Essays on Photographs, Lens Culture and Mass Media', u'As Egypt Howls and History Tweets', u'The Structural Transformation of the Public Sphere', u"One Author's Open Farewell to the Oprah Winfrey Show", u'Countdown of 10 Amazing Moments from the Year 2011: No. 1 Oprah Winfrey']	0	EMPTY
+when was the printing press invented by gutenberg?	73	news media --> webpage resource --> [u"'The Colbert Report' in Iraq: Obama says, 'Shave that man's head!'", u'Barack Obama, Michael Bloomberg, Brian Williams\u2026and Elmo', u'Does anyone still care about the MTV Movie Awards?', u"Smokey Robinson blasts 'atrocious' media coverage of Michael Jackson and his family", u"Breaking: Dan Rather reports on Nixon's 1973 munchies"]	0	EMPTY
+when was the printing press invented by gutenberg?	73	news media --> object name --> [u'News media']	0	EMPTY
+when was the printing press invented by gutenberg?	73	news media --> industry companies --> [u'Mainstream Media']	0	EMPTY
+when was the printing press invented by gutenberg?	73	news media --> tv genre programs --> [u'Reliable Sources', u'Bunkershot']	0	EMPTY
+when was the printing press invented by gutenberg?	73	news media --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when was the printing press invented by gutenberg?	73	news media --> book subject works --> [u'Understanding Media: The Extensions of Man', u'Spin Sisters: How the Women of the Media Sell Unhappiness and Liberalism to the Women of America', u'The News Business', u'Three Blind Mice: How the TV Networks Lost Their Way', u"Media Man: Ted Turner's Improbable Empire"]	0	EMPTY

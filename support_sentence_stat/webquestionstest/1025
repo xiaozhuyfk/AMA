@@ -1,47 +1,47 @@
-what lands did henry hudson discover?	533	henry hudson --> person date of birth --> [u'1565']	0
-what lands did henry hudson discover?	533	henry hudson --> deceased person place of death --> [u'Hudson Bay']	15
-what lands did henry hudson discover?	533	henry hudson --> kwtopic assessment --> [u'He made several significant contributions to geographical knowledge, and his discoveries inspired the Dutch colonization of the Hudson River and English claims to much of Canada.']	0
-what lands did henry hudson discover?	533	henry hudson --> organization founder organizations founded --> [u'Muscovy Company']	0
-what lands did henry hudson discover?	533	henry hudson --> person place of birth --> [u'England']	2
-what lands did henry hudson discover?	533	henry hudson --> place lived location --> [u'London']	0
-what lands did henry hudson discover?	533	henry hudson --> kwtopic connections from --> [u'henry hudson got maps from petrus plancius', u'henry hudson got maps from john smith', u'henry hudson a colleague was christopher wren', u'henry hudson supported by henry, earl of southampton']	0
-what lands did henry hudson discover?	533	henry hudson --> name source namesakes --> [u'Hudson Bay', u'Hudson River', u'Henry Hudson Bridge']	43
-what lands did henry hudson discover?	533	henry hudson --> person gender --> [u'Male']	0
-what lands did henry hudson discover?	533	henry hudson --> kwtopic kwtype --> [u'Person']	0
-what lands did henry hudson discover?	533	henry hudson --> object name --> [u'Henry Hudson']	0
-what lands did henry hudson discover?	533	henry hudson --> topic image --> [u'Henry Hudson', u'Henry Hudson Map 26']	0
-what lands did henry hudson discover?	533	henry hudson --> context name official name --> [u'Henry Hudson']	0
-what lands did henry hudson discover?	533	henry hudson --> kwtopic category --> [u'unknown']	0
-what lands did henry hudson discover?	533	henry hudson --> person nationality --> [u'England']	2
-what lands did henry hudson discover?	533	henry hudson --> kwtopic has sentences --> [u'He made several significant contributions to geographical knowledge, and his discoveries inspired the Dutch colonization of the Hudson River and English claims to much of Canada.', u"In April 1607 Hudson is described as in the employ of the Muscovy Company as an experienced navigator appointed to lead an expedition in search of a northeast Arctic sea passage across the North Pole to China and the 'spice islands'.", u"On 1 May 1607, Hudson set sail northwards from Gravesend in the 'Hopewell' with a crew of ten men and his son John, convinced that he would find an ice-free sea around the North Pole.", u"On 25 March 1609, Hudson sailed from Amsterdam with two ships, the 'Good Hope' and 'Half Moon', and a mixed crew of 18 Dutch and English seamen, but after successfully rounding the North Cape of Norway, the ships hit severe weather and polar ice off the coast of Novaya Zemlya, and the crew mutinied, refusing to go on.", u'Unwilling to give up, Hudson offered them a choice between searching for an eastern passage through the Davis Strait or sailing westwards towards the Atlantic coast at around 40 degrees latitude where, according to letters and maps he had received from the Dutch cartographer Plancius and from the English soldier, explorer and colonist Captain John Smith of Virginia, there was believed to be a channel leading from the North American coast to the Pacific Ocean, and on to China.']	0
-what lands did henry hudson discover?	533	henry hudson --> kwtopic disciplines --> [u'exploration', u'navigation']	0
-what lands did henry hudson discover?	533	henry hudson --> deceased person date of death --> [u'1611']	0
-what lands did henry hudson discover?	533	henry hudson --> person profession --> [u'Navigator', u'Explorer']	0
-what lands did henry hudson discover?	533	lands --> artist active start --> [u'2009']	0
-what lands did henry hudson discover?	533	lands --> artist track --> [u'BANDAGE (Backing Track)', u'BANDAGE']	0
-what lands did henry hudson discover?	533	lands --> artist label --> [u'J Storm']	0
-what lands did henry hudson discover?	533	lands --> artist genre --> [u'Alternative rock', u'Rock music', u'Ska', u'Experimental rock']	0
-what lands did henry hudson discover?	533	lands --> webpage category --> [u'Official Website']	0
-what lands did henry hudson discover?	533	lands --> artist album --> [u'Olympos']	0
-what lands did henry hudson discover?	533	lands --> object name --> [u'LANDS']	0
-what lands did henry hudson discover?	533	lands --> topic official website --> [u'http://www.j-storm.co.jp/others/html/index.html']	0
-what lands did henry hudson discover?	533	lands --> artist active end --> [u'2010']	0
-what lands did henry hudson discover?	533	lands --> webpage uri --> [u'http://www.j-storm.co.jp/others/html/index.html']	0
-what lands did henry hudson discover?	533	hispaniola --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what lands did henry hudson discover?	533	hispaniola --> location people born here --> [u'Anacaona', u'Jacques-Victor Henry, Prince Royal of Haiti', u'Hatuey', u'Jos\xe9 N\xfa\xf1ez de C\xe1ceres']	2
-what lands did henry hudson discover?	533	hispaniola --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvViFZpwpEbGdrcN5Y29ycA']	0
-what lands did henry hudson discover?	533	hispaniola --> location events --> [u'Haitian Revolution', u'Action of 18 October 1782', u'Siege of Santo Domingo']	2
-what lands did henry hudson discover?	533	hispaniola --> location contains --> [u'Sabana de la Mar Airport', u'San Juan de la Maguana Airport', u'Santo Domingo', u'Arroyo Barril Airport', u'Nord-Est Department']	20
-what lands did henry hudson discover?	533	hispaniola --> adjoining relationship adjoins --> [u'Cuba', u'Puerto Rico']	224
-what lands did henry hudson discover?	533	hispaniola --> object name --> [u'Hispaniola']	0
-what lands did henry hudson discover?	533	hispaniola --> topic image --> [u'Early map of Hispaniola', u'View of Haitian Landscape hispaniola', u'Hispaniola lrg']	0
-what lands did henry hudson discover?	533	hispaniola --> dated integer number --> [u'18943000']	0
-what lands did henry hudson discover?	533	hispaniola --> location contains major portion of --> [u'Dominican Republic', u'Haiti']	144
-what lands did henry hudson discover?	533	hispaniola --> travel destination tourist attractions --> [u'Plain of the Cul-de-Sac']	0
-what lands did henry hudson discover?	533	hispaniola --> location partially contains --> [u'Nord-Ouest Department', u'Port-de-Paix Arrondissement', u'Ouest Department', u'La Romana Province', u'La Altagracia Province']	0
-what lands did henry hudson discover?	533	hispaniola --> dated integer year --> [u'2005']	0
-what lands did henry hudson discover?	533	hispaniola --> location containedby --> [u'Greater Antilles', u'Caribbean Sea', u'Hurricane belt']	44
-what lands did henry hudson discover?	533	hispaniola --> geocode longitude --> [u'-70.6667']	0
-what lands did henry hudson discover?	533	hispaniola --> island island group --> [u'Greater Antilles', u'Antilles']	35
-what lands did henry hudson discover?	533	hispaniola --> geocode latitude --> [u'19']	0
-what lands did henry hudson discover?	533	hispaniola --> location time zones --> [u'UTC-5', u'UTC\u221204:00']	0
+what lands did henry hudson discover?	533	henry hudson --> person date of birth --> [u'1565']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> deceased person place of death --> [u'Hudson Bay']	15	*[[1611]] &ndash; The mutinous crew of [[Henry Hudson]]'s fourth voyage sets Henry, his son and seven loyal crew members adrift in an open boat in what is now [[Hudson Bay]]; they are never heard from again.
+what lands did henry hudson discover?	533	henry hudson --> kwtopic assessment --> [u'He made several significant contributions to geographical knowledge, and his discoveries inspired the Dutch colonization of the Hudson River and English claims to much of Canada.']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> organization founder organizations founded --> [u'Muscovy Company']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> person place of birth --> [u'England']	2	It was the first major [[chartered company|chartered]] [[Joint stock company|joint stock]] company, the precursor of the type of business that would soon flourish in [[England]], and became closely associated with such famous names as [[Henry Hudson]] and [[William Baffin]].
+what lands did henry hudson discover?	533	henry hudson --> place lived location --> [u'London']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> kwtopic connections from --> [u'henry hudson got maps from petrus plancius', u'henry hudson got maps from john smith', u'henry hudson a colleague was christopher wren', u'henry hudson supported by henry, earl of southampton']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> name source namesakes --> [u'Hudson Bay', u'Hudson River', u'Henry Hudson Bridge']	43	This was in celebration of the 300th anniversary of [[Henry Hudson]]'s trip up the [[Hudson River|river that bears his name]] and the 100th anniversary of [[Robert Fulton]]'s steamboat, ''Clermont''.
+what lands did henry hudson discover?	533	henry hudson --> person gender --> [u'Male']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> kwtopic kwtype --> [u'Person']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> object name --> [u'Henry Hudson']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> topic image --> [u'Henry Hudson', u'Henry Hudson Map 26']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> context name official name --> [u'Henry Hudson']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> kwtopic category --> [u'unknown']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> person nationality --> [u'England']	2	It was the first major [[chartered company|chartered]] [[Joint stock company|joint stock]] company, the precursor of the type of business that would soon flourish in [[England]], and became closely associated with such famous names as [[Henry Hudson]] and [[William Baffin]].
+what lands did henry hudson discover?	533	henry hudson --> kwtopic has sentences --> [u'He made several significant contributions to geographical knowledge, and his discoveries inspired the Dutch colonization of the Hudson River and English claims to much of Canada.', u"In April 1607 Hudson is described as in the employ of the Muscovy Company as an experienced navigator appointed to lead an expedition in search of a northeast Arctic sea passage across the North Pole to China and the 'spice islands'.", u"On 1 May 1607, Hudson set sail northwards from Gravesend in the 'Hopewell' with a crew of ten men and his son John, convinced that he would find an ice-free sea around the North Pole.", u"On 25 March 1609, Hudson sailed from Amsterdam with two ships, the 'Good Hope' and 'Half Moon', and a mixed crew of 18 Dutch and English seamen, but after successfully rounding the North Cape of Norway, the ships hit severe weather and polar ice off the coast of Novaya Zemlya, and the crew mutinied, refusing to go on.", u'Unwilling to give up, Hudson offered them a choice between searching for an eastern passage through the Davis Strait or sailing westwards towards the Atlantic coast at around 40 degrees latitude where, according to letters and maps he had received from the Dutch cartographer Plancius and from the English soldier, explorer and colonist Captain John Smith of Virginia, there was believed to be a channel leading from the North American coast to the Pacific Ocean, and on to China.']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> kwtopic disciplines --> [u'exploration', u'navigation']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> deceased person date of death --> [u'1611']	0	EMPTY
+what lands did henry hudson discover?	533	henry hudson --> person profession --> [u'Navigator', u'Explorer']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> artist active start --> [u'2009']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> artist track --> [u'BANDAGE (Backing Track)', u'BANDAGE']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> artist label --> [u'J Storm']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> artist genre --> [u'Alternative rock', u'Rock music', u'Ska', u'Experimental rock']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> webpage category --> [u'Official Website']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> artist album --> [u'Olympos']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> object name --> [u'LANDS']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> topic official website --> [u'http://www.j-storm.co.jp/others/html/index.html']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> artist active end --> [u'2010']	0	EMPTY
+what lands did henry hudson discover?	533	lands --> webpage uri --> [u'http://www.j-storm.co.jp/others/html/index.html']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> location people born here --> [u'Anacaona', u'Jacques-Victor Henry, Prince Royal of Haiti', u'Hatuey', u'Jos\xe9 N\xfa\xf1ez de C\xe1ceres']	2	* The movie-within-a-movie in ''[[Even the Rain]]'' shows [[Christopher Columbus|Columbus's]] forces burning [[Taíno]] leader [[Hatuey]] at the stake for his resistance to their colonization of [[Hispaniola]].
+what lands did henry hudson discover?	533	hispaniola --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvViFZpwpEbGdrcN5Y29ycA']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> location events --> [u'Haitian Revolution', u'Action of 18 October 1782', u'Siege of Santo Domingo']	2	They possessed the island for about eighteen months, but on the approach of the expedition under [[William Penn (Royal Navy officer)|Penn]] and [[Robert Venables|Venerables]] were ordered by the Conde de Peñalva, Governor of Santo Domingo, to demolish the fortifications, bury the artillery and other arms, and [[Siege of Santo Domingo (1655)|retire to his aid]] in [[Hispaniola]].
+what lands did henry hudson discover?	533	hispaniola --> location contains --> [u'Sabana de la Mar Airport', u'San Juan de la Maguana Airport', u'Santo Domingo', u'Arroyo Barril Airport', u'Nord-Est Department']	20	The next day it made landfall on [[Hispaniola]] near [[Santo Domingo]], killing over 2,000 people.
+what lands did henry hudson discover?	533	hispaniola --> adjoining relationship adjoins --> [u'Cuba', u'Puerto Rico']	224	* [[October 4]] &ndash; [[Hurricane Flora]], one of the worst Atlantic storms in history, hits [[Hispaniola]] and [[Cuba]], killing nearly 7,000 people.
+what lands did henry hudson discover?	533	hispaniola --> object name --> [u'Hispaniola']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> topic image --> [u'Early map of Hispaniola', u'View of Haitian Landscape hispaniola', u'Hispaniola lrg']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> dated integer number --> [u'18943000']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> location contains major portion of --> [u'Dominican Republic', u'Haiti']	144	 September 4, 1930 - The '''[[1930 Dominican Republic hurricane]]''' }||''(track pictured)'' made landfall on the island of [[Hispaniola]], killing between 2,000 and 8,000 people, mostly in the [[Dominican Republic]].
+what lands did henry hudson discover?	533	hispaniola --> travel destination tourist attractions --> [u'Plain of the Cul-de-Sac']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> location partially contains --> [u'Nord-Ouest Department', u'Port-de-Paix Arrondissement', u'Ouest Department', u'La Romana Province', u'La Altagracia Province']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> dated integer year --> [u'2005']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> location containedby --> [u'Greater Antilles', u'Caribbean Sea', u'Hurricane belt']	44	The account was one of the first attempts by a Spanish writer of the colonial era to depict the unfair treatment that the indigenous people endured during the early stages of the Spanish conquest of the [[Greater Antilles]], particularly the island of [[Hispaniola]].
+what lands did henry hudson discover?	533	hispaniola --> geocode longitude --> [u'-70.6667']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> island island group --> [u'Greater Antilles', u'Antilles']	35	|[[Hispaniola]]|| [[Antilles]] ||  and 
+what lands did henry hudson discover?	533	hispaniola --> geocode latitude --> [u'19']	0	EMPTY
+what lands did henry hudson discover?	533	hispaniola --> location time zones --> [u'UTC-5', u'UTC\u221204:00']	0	EMPTY

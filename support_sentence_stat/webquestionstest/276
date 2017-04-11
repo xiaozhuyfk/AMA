@@ -1,27 +1,27 @@
-where is ancient phoenician?	87	phoenicia --> location events --> [u'Siege of Tyre']	2
-where is ancient phoenician?	87	phoenicia --> geocode longitude --> [u'35.65']	0
-where is ancient phoenician?	87	phoenicia --> topic alias --> [u'Phoenicians']	0
-where is ancient phoenician?	87	phoenicia --> webpage category --> [u'Official Website']	0
-where is ancient phoenician?	87	phoenicia --> object name --> [u'Phoenicia']	0
-where is ancient phoenician?	87	phoenicia --> topic image --> [u'Anthropoid sarcophagus discovered at Cadiz - Project Gutenberg eText 15052', u'Amarnamap']	0
-where is ancient phoenician?	87	phoenicia --> location containedby --> [u'Lebanon']	24
-where is ancient phoenician?	87	phoenicia --> mythical creature location mythical creature s --> [u'Phoenix']	3
-where is ancient phoenician?	87	phoenicia --> geocode latitude --> [u'34.1166666667']	0
-where is ancient phoenician?	87	phoenicia --> topic official website --> [u'http://www.newadvent.org/cathen/12041a.htm']	0
-where is ancient phoenician?	87	phoenicia --> webpage uri --> [u'http://www.newadvent.org/cathen/12041a.htm']	0
-where is ancient phoenician?	87	phoenician --> human language writing system --> [u'Phoenician alphabet']	2
-where is ancient phoenician?	87	phoenician --> human language language family --> [u'Afroasiatic languages', u'Semitic languages']	11
-where is ancient phoenician?	87	phoenician --> human language main country --> [u'Lebanon']	3
-where is ancient phoenician?	87	phoenician --> topic alias --> [u'Phoenician language']	0
-where is ancient phoenician?	87	phoenician --> human language region --> [u'Asia']	0
-where is ancient phoenician?	87	phoenician --> object name --> [u'Phoenician']	0
-where is ancient phoenician?	87	phoenician --> topic image --> [u'The tablets.']	0
-where is ancient phoenician?	87	phoenician --> human language rosetta project code --> [u'XPHN']	0
-where is ancient phoenician?	87	phoenician alphabet --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where is ancient phoenician?	87	phoenician alphabet --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjyn5wpEbGdrcN5Y29ycA']	0
-where is ancient phoenician?	87	phoenician alphabet --> language writing system languages --> [u'Hebrew Language', u'Moabite language', u'Araona Language', u'Biblical Hebrew', u'Phoenician']	2
-where is ancient phoenician?	87	phoenician alphabet --> language writing system type of writing --> [u'Alphabet', u'Abjad']	4
-where is ancient phoenician?	87	phoenician alphabet --> language writing system iso  code --> [u'Phnx']	0
-where is ancient phoenician?	87	phoenician alphabet --> language writing system parent writing systems --> [u'Proto-Canaanite alphabet']	1
-where is ancient phoenician?	87	phoenician alphabet --> object name --> [u'Phoenician alphabet']	0
-where is ancient phoenician?	87	phoenician alphabet --> language writing system child writing systems --> [u'Greek alphabet']	35
+where is ancient phoenician?	87	phoenicia --> location events --> [u'Siege of Tyre']	2	[[Alexander the Great]] is reputed to have crucified 2,000 survivors from his [[Siege of Tyre (332 BC)|siege]] of the [[Phoenicia]]n city of [[Tyre, Lebanon|Tyre]], as well as the doctor who unsuccessfully treated Alexander's friend [[Hephaestion]].
+where is ancient phoenician?	87	phoenicia --> geocode longitude --> [u'35.65']	0	EMPTY
+where is ancient phoenician?	87	phoenicia --> topic alias --> [u'Phoenicians']	0	EMPTY
+where is ancient phoenician?	87	phoenicia --> webpage category --> [u'Official Website']	0	EMPTY
+where is ancient phoenician?	87	phoenicia --> object name --> [u'Phoenicia']	0	EMPTY
+where is ancient phoenician?	87	phoenicia --> topic image --> [u'Anthropoid sarcophagus discovered at Cadiz - Project Gutenberg eText 15052', u'Amarnamap']	0	EMPTY
+where is ancient phoenician?	87	phoenicia --> location containedby --> [u'Lebanon']	24	| [[Phoenicia]] || [[Lebanon]]
+where is ancient phoenician?	87	phoenicia --> mythical creature location mythical creature s --> [u'Phoenix']	3	* [[Phoenix (mythology)|Phoenix]] ([[Phoenicia]]n) - Regenerative bird
+where is ancient phoenician?	87	phoenicia --> geocode latitude --> [u'34.1166666667']	0	EMPTY
+where is ancient phoenician?	87	phoenicia --> topic official website --> [u'http://www.newadvent.org/cathen/12041a.htm']	0	EMPTY
+where is ancient phoenician?	87	phoenicia --> webpage uri --> [u'http://www.newadvent.org/cathen/12041a.htm']	0	EMPTY
+where is ancient phoenician?	87	phoenician --> human language writing system --> [u'Phoenician alphabet']	2	These are votive offerings to the god [[Melqart]], and are inscribed in two languages, [[Ancient Greek]] and [[Phoenician language|Phoenician]], and in the two corresponding scripts, the [[Greek alphabet|Greek]] and the [[Phoenician alphabet]].
+where is ancient phoenician?	87	phoenician --> human language language family --> [u'Afroasiatic languages', u'Semitic languages']	11	The '''Punic language''', also called '''Carthaginian''' or '''Phoenicio-Punic''', is an extinct variety of [[Berber language|Berber]]/[[Phoenician language]], a [[Canaanite languages|Canaanite language]] of the [[Semitic languages|Semitic family]].
+where is ancient phoenician?	87	phoenician --> human language main country --> [u'Lebanon']	3	'''Arqa'''  ()   ([[Phoenician language|Phoenician]]: ''Irqata''; , ''<nowiki>'Arqat</nowiki>'' in the [[Bible]]) is a [[Sunni Islam in Lebanon|Sunni]] village near [[Miniara]] in [[Akkar District]] of the [[North Governorate]] in [[Lebanon]], 22&nbsp;km northeast of [[Tripoli, Lebanon|Tripoli]], near the coast.
+where is ancient phoenician?	87	phoenician --> topic alias --> [u'Phoenician language']	0	EMPTY
+where is ancient phoenician?	87	phoenician --> human language region --> [u'Asia']	0	EMPTY
+where is ancient phoenician?	87	phoenician --> object name --> [u'Phoenician']	0	EMPTY
+where is ancient phoenician?	87	phoenician --> topic image --> [u'The tablets.']	0	EMPTY
+where is ancient phoenician?	87	phoenician --> human language rosetta project code --> [u'XPHN']	0	EMPTY
+where is ancient phoenician?	87	phoenician alphabet --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where is ancient phoenician?	87	phoenician alphabet --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjyn5wpEbGdrcN5Y29ycA']	0	EMPTY
+where is ancient phoenician?	87	phoenician alphabet --> language writing system languages --> [u'Hebrew Language', u'Moabite language', u'Araona Language', u'Biblical Hebrew', u'Phoenician']	2	These are votive offerings to the god [[Melqart]], and are inscribed in two languages, [[Ancient Greek]] and [[Phoenician language|Phoenician]], and in the two corresponding scripts, the [[Greek alphabet|Greek]] and the [[Phoenician alphabet]].
+where is ancient phoenician?	87	phoenician alphabet --> language writing system type of writing --> [u'Alphabet', u'Abjad']	4	* [[Alphabet]] developed by [[Phoenician alphabet|Phoenicians]].
+where is ancient phoenician?	87	phoenician alphabet --> language writing system iso  code --> [u'Phnx']	0	EMPTY
+where is ancient phoenician?	87	phoenician alphabet --> language writing system parent writing systems --> [u'Proto-Canaanite alphabet']	1	Scholars are divided as to whether the language is [[Phoenician language|Phoenician]] or [[Hebrew language|Hebrew]] and whether the script is [[Phoenician alphabet|Phoenician]] (or [[Proto-Canaanite alphabet|Proto-Canaanite]]) or [[Paleo-Hebrew alphabet|paleo-Hebrew]].
+where is ancient phoenician?	87	phoenician alphabet --> object name --> [u'Phoenician alphabet']	0	EMPTY
+where is ancient phoenician?	87	phoenician alphabet --> language writing system child writing systems --> [u'Greek alphabet']	35	This practice was found in [[Phoenician alphabet|Phoenician]], [[Aramaic alphabet|Aramaic]], [[Hebrew alphabet|Hebrew]], [[Greek alphabet|Greek]], and [[Latin alphabet|Latin]], and continues today with [[Ge'ez alphabet|Ethiopic]], though there whitespace is gaining ground.

@@ -1,44 +1,44 @@
-where did the taliban began?	1050	taliban --> daylife hero image id --> [u'0gkF6Z0eZR3LZ']	0
-where did the taliban began?	1050	taliban --> organization founders --> [u'Mohammed Omar', u'Baitullah Mehsud', u'Abdul Ghani Baradar', u'Hamid Gul']	34
-where did the taliban began?	1050	taliban --> force strength military conflict --> [u'War in Afghanistan (2001\u2013present)']	0
-where did the taliban began?	1050	taliban --> webpage category --> [u'Topic Webpage', u'Tag']	0
-where did the taliban began?	1050	taliban --> military combatant group conflict --> [u'Battle of Wana', u'Sararogha Fort raid', u'Operation Rah-e-Nijat', u'War on Terrorism', u'Angoor Ada raid']	15
-where did the taliban began?	1050	taliban --> webpage description --> [u'New York Times']	0
-where did the taliban began?	1050	taliban --> organization geographic scope --> [u'Afghanistan']	388
-where did the taliban began?	1050	taliban --> murderer people murdered --> [u'Abdul Haq', u'Gayle Williams', u'Malalai Kakar', u'Abdul Ahad Karzai', u'Sitara Achakzai']	1
-where did the taliban began?	1050	taliban --> attack process attacker --> [u'al-Qaeda']	82
-where did the taliban began?	1050	taliban --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where did the taliban began?	1050	taliban --> webpage resource --> [u'Afghanistan gets ready for prime time', u"'American Idol': On the scene for the Top 4 results night TRAVESTY", u'New York Times']	0
-where did the taliban began?	1050	taliban --> attack process attack event --> [u'Taliban insurgency']	5
-where did the taliban began?	1050	taliban --> attack process tactic or attack form --> [u'Guerrilla warfare']	0
-where did the taliban began?	1050	taliban --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where did the taliban began?	1050	taliban --> webpage uri --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/t/taliban/index.html']	0
-where did the taliban began?	1050	taliban --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvp8DZpwpEbGdrcN5Y29ycA']	0
-where did the taliban began?	1050	taliban --> topic topical webpage --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/t/taliban/index.html']	0
-where did the taliban began?	1050	taliban --> force strength force size --> [u'10000']	0
-where did the taliban began?	1050	taliban --> object name --> [u'Taliban']	0
-where did the taliban began?	1050	taliban --> topic image --> [u'Taliban-herat-2001 ArM', u'Location of Afghanistan']	0
-where did the taliban began?	1050	taliban --> film subject films --> [u'At Five in the Afternoon']	0
-where did the taliban began?	1050	taliban --> book subject works --> [u"Afghanistan's Endless War: State Failure, Regional Politics and the Rise of the Taliban"]	0
-where did the taliban began?	1050	taliban --> daylife hero image id --> [u'0gkF6Z0eZR3LZ']	0
-where did the taliban began?	1050	taliban --> organization founders --> [u'Mohammed Omar', u'Baitullah Mehsud', u'Abdul Ghani Baradar', u'Hamid Gul']	34
-where did the taliban began?	1050	taliban --> force strength military conflict --> [u'War in Afghanistan (2001\u2013present)']	0
-where did the taliban began?	1050	taliban --> webpage category --> [u'Topic Webpage', u'Tag']	0
-where did the taliban began?	1050	taliban --> military combatant group conflict --> [u'Battle of Wana', u'Sararogha Fort raid', u'Operation Rah-e-Nijat', u'War on Terrorism', u'Angoor Ada raid']	15
-where did the taliban began?	1050	taliban --> webpage description --> [u'New York Times']	0
-where did the taliban began?	1050	taliban --> organization geographic scope --> [u'Afghanistan']	388
-where did the taliban began?	1050	taliban --> murderer people murdered --> [u'Abdul Haq', u'Gayle Williams', u'Malalai Kakar', u'Abdul Ahad Karzai', u'Sitara Achakzai']	1
-where did the taliban began?	1050	taliban --> attack process attacker --> [u'al-Qaeda']	82
-where did the taliban began?	1050	taliban --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where did the taliban began?	1050	taliban --> webpage resource --> [u'Afghanistan gets ready for prime time', u"'American Idol': On the scene for the Top 4 results night TRAVESTY", u'New York Times']	0
-where did the taliban began?	1050	taliban --> attack process attack event --> [u'Taliban insurgency']	5
-where did the taliban began?	1050	taliban --> attack process tactic or attack form --> [u'Guerrilla warfare']	0
-where did the taliban began?	1050	taliban --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where did the taliban began?	1050	taliban --> webpage uri --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/t/taliban/index.html']	0
-where did the taliban began?	1050	taliban --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvp8DZpwpEbGdrcN5Y29ycA']	0
-where did the taliban began?	1050	taliban --> topic topical webpage --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/t/taliban/index.html']	0
-where did the taliban began?	1050	taliban --> force strength force size --> [u'10000']	0
-where did the taliban began?	1050	taliban --> object name --> [u'Taliban']	0
-where did the taliban began?	1050	taliban --> topic image --> [u'Taliban-herat-2001 ArM', u'Location of Afghanistan']	0
-where did the taliban began?	1050	taliban --> film subject films --> [u'At Five in the Afternoon']	0
-where did the taliban began?	1050	taliban --> book subject works --> [u"Afghanistan's Endless War: State Failure, Regional Politics and the Rise of the Taliban"]	0
+where did the taliban began?	1050	taliban --> daylife hero image id --> [u'0gkF6Z0eZR3LZ']	0	EMPTY
+where did the taliban began?	1050	taliban --> organization founders --> [u'Mohammed Omar', u'Baitullah Mehsud', u'Abdul Ghani Baradar', u'Hamid Gul']	34	*[[Mohammed Omar]], c. 53, Afghan [[Taliban]] leader.
+where did the taliban began?	1050	taliban --> force strength military conflict --> [u'War in Afghanistan (2001\u2013present)']	0	EMPTY
+where did the taliban began?	1050	taliban --> webpage category --> [u'Topic Webpage', u'Tag']	0	EMPTY
+where did the taliban began?	1050	taliban --> military combatant group conflict --> [u'Battle of Wana', u'Sararogha Fort raid', u'Operation Rah-e-Nijat', u'War on Terrorism', u'Angoor Ada raid']	15	In foreign policy, following the [[September 11, 2001 attacks]] in the United States, Blair greatly supported [[U.S. President]] [[George W. Bush]]'s new [[War on Terror]] which began with the forced withdrawal of the [[Taliban]] regime in [[Afghanistan]].
+where did the taliban began?	1050	taliban --> webpage description --> [u'New York Times']	0	EMPTY
+where did the taliban began?	1050	taliban --> organization geographic scope --> [u'Afghanistan']	388	From May 2012 until February 2013, the 2nd Battalion, 32nd Field Artillery, Task Force Dragon, as part of the [[4th Brigade Combat Team, 1st Infantry Division (United States)|4th Brigade Combat Team, 1st Infantry Division]] served in RC East [[Afghanistan]], [[Paktika]] province, where the unit conducted counter-fire operations to guarantee security for the populace along the [[Pakistan]] border and cease [[Taliban]], [[Haqqani network|Haqqani]], [[insurgent]], networks and activity.
+where did the taliban began?	1050	taliban --> murderer people murdered --> [u'Abdul Haq', u'Gayle Williams', u'Malalai Kakar', u'Abdul Ahad Karzai', u'Sitara Achakzai']	1	In 2008, the [[Taliban]] killed a British charity worker, [[Gayle Williams]], "because she was working for an organisation which was preaching Christianity in Afghanistan" even though she was extremely careful not to try to convert Afghans.
+where did the taliban began?	1050	taliban --> attack process attacker --> [u'al-Qaeda']	82	The district remained relatively peaceful until 2008, when [[Taliban]] and [[Al-Qaeda]]-linked insurgents, including [[Uzbeks]] and [[Chechens]], began reappearing in the northern part of the country.
+where did the taliban began?	1050	taliban --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where did the taliban began?	1050	taliban --> webpage resource --> [u'Afghanistan gets ready for prime time', u"'American Idol': On the scene for the Top 4 results night TRAVESTY", u'New York Times']	0	EMPTY
+where did the taliban began?	1050	taliban --> attack process attack event --> [u'Taliban insurgency']	5	* [[Taliban insurgency]]: The Afghan security forces have retaken a district headquarters in the western [[Farah province]] after a short [[Taliban]] occupation.
+where did the taliban began?	1050	taliban --> attack process tactic or attack form --> [u'Guerrilla warfare']	0	EMPTY
+where did the taliban began?	1050	taliban --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where did the taliban began?	1050	taliban --> webpage uri --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/t/taliban/index.html']	0	EMPTY
+where did the taliban began?	1050	taliban --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvp8DZpwpEbGdrcN5Y29ycA']	0	EMPTY
+where did the taliban began?	1050	taliban --> topic topical webpage --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/t/taliban/index.html']	0	EMPTY
+where did the taliban began?	1050	taliban --> force strength force size --> [u'10000']	0	EMPTY
+where did the taliban began?	1050	taliban --> object name --> [u'Taliban']	0	EMPTY
+where did the taliban began?	1050	taliban --> topic image --> [u'Taliban-herat-2001 ArM', u'Location of Afghanistan']	0	EMPTY
+where did the taliban began?	1050	taliban --> film subject films --> [u'At Five in the Afternoon']	0	EMPTY
+where did the taliban began?	1050	taliban --> book subject works --> [u"Afghanistan's Endless War: State Failure, Regional Politics and the Rise of the Taliban"]	0	EMPTY
+where did the taliban began?	1050	taliban --> daylife hero image id --> [u'0gkF6Z0eZR3LZ']	0	EMPTY
+where did the taliban began?	1050	taliban --> organization founders --> [u'Mohammed Omar', u'Baitullah Mehsud', u'Abdul Ghani Baradar', u'Hamid Gul']	34	*[[Mohammed Omar]], c. 53, Afghan [[Taliban]] leader.
+where did the taliban began?	1050	taliban --> force strength military conflict --> [u'War in Afghanistan (2001\u2013present)']	0	EMPTY
+where did the taliban began?	1050	taliban --> webpage category --> [u'Topic Webpage', u'Tag']	0	EMPTY
+where did the taliban began?	1050	taliban --> military combatant group conflict --> [u'Battle of Wana', u'Sararogha Fort raid', u'Operation Rah-e-Nijat', u'War on Terrorism', u'Angoor Ada raid']	15	In foreign policy, following the [[September 11, 2001 attacks]] in the United States, Blair greatly supported [[U.S. President]] [[George W. Bush]]'s new [[War on Terror]] which began with the forced withdrawal of the [[Taliban]] regime in [[Afghanistan]].
+where did the taliban began?	1050	taliban --> webpage description --> [u'New York Times']	0	EMPTY
+where did the taliban began?	1050	taliban --> organization geographic scope --> [u'Afghanistan']	388	From May 2012 until February 2013, the 2nd Battalion, 32nd Field Artillery, Task Force Dragon, as part of the [[4th Brigade Combat Team, 1st Infantry Division (United States)|4th Brigade Combat Team, 1st Infantry Division]] served in RC East [[Afghanistan]], [[Paktika]] province, where the unit conducted counter-fire operations to guarantee security for the populace along the [[Pakistan]] border and cease [[Taliban]], [[Haqqani network|Haqqani]], [[insurgent]], networks and activity.
+where did the taliban began?	1050	taliban --> murderer people murdered --> [u'Abdul Haq', u'Gayle Williams', u'Malalai Kakar', u'Abdul Ahad Karzai', u'Sitara Achakzai']	1	In 2008, the [[Taliban]] killed a British charity worker, [[Gayle Williams]], "because she was working for an organisation which was preaching Christianity in Afghanistan" even though she was extremely careful not to try to convert Afghans.
+where did the taliban began?	1050	taliban --> attack process attacker --> [u'al-Qaeda']	82	The district remained relatively peaceful until 2008, when [[Taliban]] and [[Al-Qaeda]]-linked insurgents, including [[Uzbeks]] and [[Chechens]], began reappearing in the northern part of the country.
+where did the taliban began?	1050	taliban --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where did the taliban began?	1050	taliban --> webpage resource --> [u'Afghanistan gets ready for prime time', u"'American Idol': On the scene for the Top 4 results night TRAVESTY", u'New York Times']	0	EMPTY
+where did the taliban began?	1050	taliban --> attack process attack event --> [u'Taliban insurgency']	5	* [[Taliban insurgency]]: The Afghan security forces have retaken a district headquarters in the western [[Farah province]] after a short [[Taliban]] occupation.
+where did the taliban began?	1050	taliban --> attack process tactic or attack form --> [u'Guerrilla warfare']	0	EMPTY
+where did the taliban began?	1050	taliban --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where did the taliban began?	1050	taliban --> webpage uri --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/t/taliban/index.html']	0	EMPTY
+where did the taliban began?	1050	taliban --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvp8DZpwpEbGdrcN5Y29ycA']	0	EMPTY
+where did the taliban began?	1050	taliban --> topic topical webpage --> [u'http://topics.nytimes.com/top/reference/timestopics/organizations/t/taliban/index.html']	0	EMPTY
+where did the taliban began?	1050	taliban --> force strength force size --> [u'10000']	0	EMPTY
+where did the taliban began?	1050	taliban --> object name --> [u'Taliban']	0	EMPTY
+where did the taliban began?	1050	taliban --> topic image --> [u'Taliban-herat-2001 ArM', u'Location of Afghanistan']	0	EMPTY
+where did the taliban began?	1050	taliban --> film subject films --> [u'At Five in the Afternoon']	0	EMPTY
+where did the taliban began?	1050	taliban --> book subject works --> [u"Afghanistan's Endless War: State Failure, Regional Politics and the Rise of the Taliban"]	0	EMPTY

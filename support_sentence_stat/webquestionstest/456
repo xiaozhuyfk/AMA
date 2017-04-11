@@ -1,74 +1,74 @@
-what to see in phoenix arizona?	5763	phoenix --> government position held office position or title --> [u'Mayor of Phoenix']	0
-what to see in phoenix arizona?	5763	phoenix --> sports team location teams --> [u'Arizona Diamondbacks', u'Phoenix Suns', u'Phoenix Roadrunners']	31
-what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0
-what to see in phoenix arizona?	5763	phoenix --> bibs location loc type --> [u'City']	0
-what to see in phoenix arizona?	5763	phoenix --> bibs location state --> [u'Arizona']	425
-what to see in phoenix arizona?	5763	phoenix --> location events --> [u'SC2003']	0
-what to see in phoenix arizona?	5763	phoenix --> dated float number --> [u'0.05']	0
-what to see in phoenix arizona?	5763	phoenix --> topic alias --> [u'Phoenix, AZ', u'Phoenix, Arizona', u'Maricopa County / Phoenix city', u'The Valley of the Sun']	0
-what to see in phoenix arizona?	5763	phoenix --> dated float date --> [u'2008']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'336126']	0
-what to see in phoenix arizona?	5763	phoenix --> location area --> [u'1338.26']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what to see in phoenix arizona?	5763	phoenix --> dog city relationship date --> [u'2008']	0
-what to see in phoenix arizona?	5763	phoenix --> dated float number --> [u'-0.1106']	0
-what to see in phoenix arizona?	5763	phoenix --> location people born here --> [u'Ruth Todd', u'Rick Mattoon', u'Thomas Tang', u'J. J. Yeley', u'Alektra Blue']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0
-what to see in phoenix arizona?	5763	phoenix --> government position held to --> [u'2012-01-03']	0
-what to see in phoenix arizona?	5763	phoenix --> object name --> [u'Phoenix']	0
-what to see in phoenix arizona?	5763	phoenix --> webpage category --> [u'Official Website']	0
-what to see in phoenix arizona?	5763	phoenix --> government position held basic title --> [u'Mayor']	2
-what to see in phoenix arizona?	5763	phoenix --> dated float date --> [u'2008']	0
-what to see in phoenix arizona?	5763	phoenix --> travel destination tourist attractions --> [u'Ro Ho En', u'Grand Canyon', u'Heard Museum', u'Phoenix Art Museum', u'Mesa Arts Center']	17
-what to see in phoenix arizona?	5763	phoenix --> location time zones --> [u'Mountain Time Zone']	2
-what to see in phoenix arizona?	5763	phoenix --> topic official website --> [u'http://www.phoenix.gov/']	0
-what to see in phoenix arizona?	5763	phoenix --> administrative area administrative area type --> [u'City/Town/Village']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'31687']	0
-what to see in phoenix arizona?	5763	phoenix --> hud county place place --> [u'Phoenix']	4017
-what to see in phoenix arizona?	5763	phoenix --> location partially containedby --> [u'Area code 520', u'Area code 480']	0
-what to see in phoenix arizona?	5763	phoenix --> webpage resource --> [u'Tyler Perry readies tour for new Madea play', u"'American Idol': Next week's theme is 'Songs From the Year You Were Born'", u'Paul Harvey, legendary radio host, dies at 90', u"Mike Tyson's 4-year-old daughter, Exodus, has died", u"'Idolatry': Behold! It's Kristy Lee Joy Corkrey! (And the Greatest American Hero!)"]	0
-what to see in phoenix arizona?	5763	phoenix --> location contains --> [u'Arizona State Capitol', u'Regency Beauty Institute-Phoenix', u'Phoenix Symphony Hall', u'Cortez Lake', u'Regency Beauty Institute-Tolleson']	13
-what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'466114']	0
-what to see in phoenix arizona?	5763	phoenix --> adjoining relationship adjoins --> [u'Scottsdale']	50
-what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Census Bureau, Population']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0
-what to see in phoenix arizona?	5763	phoenix --> location containedby --> [u'United States of America', u'Arizona', u'Maricopa County']	529
-what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0
-what to see in phoenix arizona?	5763	phoenix --> place with neighborhoods neighborhoods --> [u'Central Avenue', u'Copper Square', u'F. Q. Story Neighborhood Historic District', u'Ahwatukee, Phoenix', u'Arcadia']	0
-what to see in phoenix arizona?	5763	phoenix --> newspaper circulation area newspapers --> [u'The Arizona Republic', u'Phoenix New Times', u'The Catholic Sun', u'Phoenix Gazette']	10
-what to see in phoenix arizona?	5763	phoenix --> arrest offense --> [u'Threatening Behaviour', u'Disorderly conduct']	0
-what to see in phoenix arizona?	5763	phoenix --> arrest date --> [u'1969-11-09']	0
-what to see in phoenix arizona?	5763	phoenix --> bibs location country --> [u'United States of America']	138
-what to see in phoenix arizona?	5763	phoenix --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what to see in phoenix arizona?	5763	phoenix --> hud county place county --> [u'Maricopa County']	38
-what to see in phoenix arizona?	5763	phoenix --> tv location tv episodes filmed here --> [u'The Monkees on Tour']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what to see in phoenix arizona?	5763	phoenix --> administrative division capital relationship administrative division --> [u'Arizona', u'Maricopa County']	439
-what to see in phoenix arizona?	5763	phoenix --> topic exceptions --> [u'Phoenix should not be contained in Maricopa County.']	0
-what to see in phoenix arizona?	5763	phoenix --> webpage uri --> [u'http://www.phoenix.gov/']	0
-what to see in phoenix arizona?	5763	phoenix --> dog city relationship dog breed --> [u'Dachshund', u'German Shepherd Dog', u'Yorkshire Terrier', u'Boxer', u'Shih Tzu']	0
-what to see in phoenix arizona?	5763	phoenix --> government position held from --> [u'2004-01-02', u'2012-01-03']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'23952']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what to see in phoenix arizona?	5763	phoenix --> government position held office holder --> [u'Greg Stanton', u'Phil Gordon']	4
-what to see in phoenix arizona?	5763	phoenix --> arrest arrested person --> [u'Axl Rose', u'Jim Morrison']	0
-what to see in phoenix arizona?	5763	phoenix --> geocode datum --> [u'NAD83']	0
-what to see in phoenix arizona?	5763	phoenix --> dated location date founded --> [u'1861']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what to see in phoenix arizona?	5763	phoenix --> topic image --> [u'PhoenixDowntown', u'Phoenix skyline Arizona USA', u'Downtown Phoenix']	0
-what to see in phoenix arizona?	5763	phoenix --> film location featured in films --> [u'El Camino', u'Blue Collar Comedy Tour: The Movie', u'The Banger Sisters', u'Psycho', u'Electra Glide in Blue']	0
-what to see in phoenix arizona?	5763	phoenix --> top architectural city structure count --> [u'1']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'547322']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'240', u'1708', u'3152', u'5544', u'11314']	0
-what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'1910', u'1920', u'1930', u'1940', u'1950']	0
-what to see in phoenix arizona?	5763	phoenix --> location primarily containedby --> [u'Area code 602']	1
-what to see in phoenix arizona?	5763	phoenix --> citytown postal codes --> [u'85067', u'85050', u'85044', u'85065', u'85066']	0
-what to see in phoenix arizona?	5763	phoenix --> location nearby airports --> [u'Phoenix Sky Harbor International Airport', u'Phoenix Deer Valley Airport', u'Phoenix Goodyear Airport', u'Phoenix Regional Airport']	47
-what to see in phoenix arizona?	5763	seein --> object name --> [u"Seein'"]	0
-what to see in phoenix arizona?	5763	seein --> object name --> [u"Seein'"]	0
-what to see in phoenix arizona?	5763	thermography --> object name --> [u'Thermography']	0
-what to see in phoenix arizona?	5763	thermography --> topic image --> [u'Passivhaus thermogram gedaemmt ungedaemmt', u'VVV-2 corrigido', u'Infrared dog']	0
-what to see in phoenix arizona?	5763	volumetric display --> object name --> [u'Volumetric display']	0
-what to see in phoenix arizona?	5763	volumetric display --> topic image --> [u'PerspectaRAD mouse Phantom', u'UCSI Volex']	0
+what to see in phoenix arizona?	5763	phoenix --> government position held office position or title --> [u'Mayor of Phoenix']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> sports team location teams --> [u'Arizona Diamondbacks', u'Phoenix Suns', u'Phoenix Roadrunners']	31	The game is one of four to take place in a baseball-only stadium among current post-season football contests; the others are the [[Miami Beach Bowl]], played at [[Miami, Florida|Miami]]'s [[Marlins Park]], home of the [[Miami Marlins]], the [[Cactus Bowl]], played at [[Chase Field]] in [[Phoenix, Arizona|Phoenix]], home of the [[Arizona Diamondbacks]], and the [[Pinstripe Bowl]] in [[The Bronx]], [[New York (state)|New York]] at [[Yankee Stadium]], home of the [[New York Yankees]].
+what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> bibs location loc type --> [u'City']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> bibs location state --> [u'Arizona']	425	| 1868 || [[Phoenix, Arizona|Phoenix]] || [[Arizona]] || United States
+what to see in phoenix arizona?	5763	phoenix --> location events --> [u'SC2003']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated float number --> [u'0.05']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> topic alias --> [u'Phoenix, AZ', u'Phoenix, Arizona', u'Maricopa County / Phoenix city', u'The Valley of the Sun']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated float date --> [u'2008']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'336126']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> location area --> [u'1338.26']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dog city relationship date --> [u'2008']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated float number --> [u'-0.1106']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> location people born here --> [u'Ruth Todd', u'Rick Mattoon', u'Thomas Tang', u'J. J. Yeley', u'Alektra Blue']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> government position held to --> [u'2012-01-03']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> object name --> [u'Phoenix']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> webpage category --> [u'Official Website']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> government position held basic title --> [u'Mayor']	2	[[Mayor]]s of the city of [[Phoenix, Arizona]], United States.
+what to see in phoenix arizona?	5763	phoenix --> dated float date --> [u'2008']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> travel destination tourist attractions --> [u'Ro Ho En', u'Grand Canyon', u'Heard Museum', u'Phoenix Art Museum', u'Mesa Arts Center']	17	In 1993, Alpha Air was operating Trans World Express service with [[Beechcraft 1900C]] turboprops from a hub at [[Los Angeles International Airport]] (LAX) with service to [[Burbank, California|Burbank]] (BUR), [[Grand Canyon]] (GCN), [[Lake Tahoe]] (TVL), [[Mammoth Lakes]] (MMH), [[Palm Springs]] (PSP), [[Phoenix, Arizona|Phoenix]] (PHX) and [[Santa Ana, California|Santa Ana]]/[[Orange County Airport]] (SNA, now [[John Wayne Airport]].
+what to see in phoenix arizona?	5763	phoenix --> location time zones --> [u'Mountain Time Zone']	2	On that date, lights of varying descriptions were reported by thousands of people between [[24-hour clock|19:30]] and 22:30 [[Mountain Time Zone|MST]], in a space of about 300 miles (480&nbsp;km), from the Nevada state line, through [[Phoenix, Arizona|Phoenix]], to the edge of [[Tucson]].
+what to see in phoenix arizona?	5763	phoenix --> topic official website --> [u'http://www.phoenix.gov/']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> administrative area administrative area type --> [u'City/Town/Village']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'31687']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> hud county place place --> [u'Phoenix']	4017	It comprises the original [[Phoenix, Arizona|Phoenix]] historic town site.
+what to see in phoenix arizona?	5763	phoenix --> location partially containedby --> [u'Area code 520', u'Area code 480']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> webpage resource --> [u'Tyler Perry readies tour for new Madea play', u"'American Idol': Next week's theme is 'Songs From the Year You Were Born'", u'Paul Harvey, legendary radio host, dies at 90', u"Mike Tyson's 4-year-old daughter, Exodus, has died", u"'Idolatry': Behold! It's Kristy Lee Joy Corkrey! (And the Greatest American Hero!)"]	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> location contains --> [u'Arizona State Capitol', u'Regency Beauty Institute-Phoenix', u'Phoenix Symphony Hall', u'Cortez Lake', u'Regency Beauty Institute-Tolleson']	13	| meeting_place     = State Senate Chamber<br [[Arizona State Capitol]]<br [[Phoenix, Arizona|Phoenix]], Arizona
+what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'466114']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> adjoining relationship adjoins --> [u'Scottsdale']	50	| SCF || KSDL || [[Scottsdale Airport]] (FAA: SDL) || [[Phoenix, Arizona|Phoenix]] / [[Scottsdale, Arizona|Scottsdale]], [[Arizona]], United States
+what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> location containedby --> [u'United States of America', u'Arizona', u'Maricopa County']	529	| headquarters=[[Las Vegas, Nevada]] (1945-1966) [[Phoenix, Arizona]] (1966-1968) [[United States]]
+what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> place with neighborhoods neighborhoods --> [u'Central Avenue', u'Copper Square', u'F. Q. Story Neighborhood Historic District', u'Ahwatukee, Phoenix', u'Arcadia']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> newspaper circulation area newspapers --> [u'The Arizona Republic', u'Phoenix New Times', u'The Catholic Sun', u'Phoenix Gazette']	10	With the rapid growth of [[Phoenix, Arizona|Phoenix]] increasing the political influence of county, Smith purchased an ownership interest in the ''[[Phoenix Gazette|Arizona Gazette]]'' to ensure a friendly newspaper in the area.
+what to see in phoenix arizona?	5763	phoenix --> arrest offense --> [u'Threatening Behaviour', u'Disorderly conduct']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> arrest date --> [u'1969-11-09']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> bibs location country --> [u'United States of America']	138	| headquarters=[[Las Vegas, Nevada]] (1945-1966) [[Phoenix, Arizona]] (1966-1968) [[United States]]
+what to see in phoenix arizona?	5763	phoenix --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> hud county place county --> [u'Maricopa County']	38	'''Phoenix Sky Harbor International Airport'''  is a civil-military public airport  southeast of downtown [[Phoenix, Arizona|Phoenix]], in [[Maricopa County, Arizona|Maricopa County]], [[Arizona]], [[United States]].
+what to see in phoenix arizona?	5763	phoenix --> tv location tv episodes filmed here --> [u'The Monkees on Tour']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> administrative division capital relationship administrative division --> [u'Arizona', u'Maricopa County']	439	| 1868 || [[Phoenix, Arizona|Phoenix]] || [[Arizona]] || United States
+what to see in phoenix arizona?	5763	phoenix --> topic exceptions --> [u'Phoenix should not be contained in Maricopa County.']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> webpage uri --> [u'http://www.phoenix.gov/']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dog city relationship dog breed --> [u'Dachshund', u'German Shepherd Dog', u'Yorkshire Terrier', u'Boxer', u'Shih Tzu']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> government position held from --> [u'2004-01-02', u'2012-01-03']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'2008']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'23952']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> government position held office holder --> [u'Greg Stanton', u'Phil Gordon']	4	*[[Greg Stanton]]&nbsp;(D)<small><br>[[Phoenix, Arizona|Phoenix, AZ]]</small>
+what to see in phoenix arizona?	5763	phoenix --> arrest arrested person --> [u'Axl Rose', u'Jim Morrison']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> geocode datum --> [u'NAD83']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated location date founded --> [u'1861']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> topic image --> [u'PhoenixDowntown', u'Phoenix skyline Arizona USA', u'Downtown Phoenix']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> film location featured in films --> [u'El Camino', u'Blue Collar Comedy Tour: The Movie', u'The Banger Sisters', u'Psycho', u'Electra Glide in Blue']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> top architectural city structure count --> [u'1']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'547322']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer number --> [u'240', u'1708', u'3152', u'5544', u'11314']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> dated integer year --> [u'1910', u'1920', u'1930', u'1940', u'1950']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> location primarily containedby --> [u'Area code 602']	1	| AZPHO || [[Area code 602|602]] || [[Phoenix, Arizona]]
+what to see in phoenix arizona?	5763	phoenix --> citytown postal codes --> [u'85067', u'85050', u'85044', u'85065', u'85066']	0	EMPTY
+what to see in phoenix arizona?	5763	phoenix --> location nearby airports --> [u'Phoenix Sky Harbor International Airport', u'Phoenix Deer Valley Airport', u'Phoenix Goodyear Airport', u'Phoenix Regional Airport']	47	| PHX || KPHX || [[Phoenix Sky Harbor International Airport]] || [[Phoenix, Arizona|Phoenix]], [[Arizona]], United States
+what to see in phoenix arizona?	5763	seein --> object name --> [u"Seein'"]	0	EMPTY
+what to see in phoenix arizona?	5763	seein --> object name --> [u"Seein'"]	0	EMPTY
+what to see in phoenix arizona?	5763	thermography --> object name --> [u'Thermography']	0	EMPTY
+what to see in phoenix arizona?	5763	thermography --> topic image --> [u'Passivhaus thermogram gedaemmt ungedaemmt', u'VVV-2 corrigido', u'Infrared dog']	0	EMPTY
+what to see in phoenix arizona?	5763	volumetric display --> object name --> [u'Volumetric display']	0	EMPTY
+what to see in phoenix arizona?	5763	volumetric display --> topic image --> [u'PerspectaRAD mouse Phantom', u'UCSI Volex']	0	EMPTY

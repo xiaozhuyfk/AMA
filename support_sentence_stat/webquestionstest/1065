@@ -1,42 +1,42 @@
-where is the mts iceplex in winnipeg?	4973	mts iceplex --> object name --> [u'MTS Iceplex']	0
-where is the mts iceplex in winnipeg?	4973	mts iceplex --> location containedby --> [u'Winnipeg', u'Rural Municipality of Headingley']	0
-where is the mts iceplex in winnipeg?	4973	in winnipeg --> object name --> [u'In Winnipeg']	0
-where is the mts iceplex in winnipeg?	4973	in winnipeg --> object name --> [u'In Winnipeg']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location area --> [u'464']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> bibs location loc type --> [u'City']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> bibs location state --> [u'Manitoba']	1383
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location events --> [u'1999 Pan American Games', u'2003 Ford World Curling Championships', u"2008 Men's Pan-American Volleyball Cup", u"2007 Women's NORCECA Volleyball Championship", u'1991 Canada Safeway World Curling Championships']	40
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location contains --> [u'Burton Cummings Theatre', u'Red River College', u'University of Manitoba', u'Red River Exhibition', u'Winnipeg Soccer Complex']	100
-where is the mts iceplex in winnipeg?	4973	winnipeg --> topic alias --> [u'Gateway to the West', u'Winnipeg, Canada', u'Winnipeg, Manitoba']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> adjoining relationship adjoins --> [u'Minnesota', u'North Dakota', u'Saskatchewan', u'Ontario']	70
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location adjectival form --> [u'Winnipegger']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location people born here --> [u'Arnold Naimark', u'Robert Sopuck', u'Norm Hadley', u'Staff Barootes', u'Frank Stack']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> citytown postal codes --> [u'R3C 1A9', u'R3H 0J9', u'R3C 1A3']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> travel destination local transportation --> [u'Winnipeg Transit']	1
-where is the mts iceplex in winnipeg?	4973	winnipeg --> webpage category --> [u'Official Website']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> government position held basic title --> [u'Mayor']	3
-where is the mts iceplex in winnipeg?	4973	winnipeg --> travel destination tourist attractions --> [u'Red River Exhibition', u'Assiniboine Park Zoo', u'Western Canada Aviation Museum', u'Saint Boniface Cathedral', u'Manitoba Museum']	12
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location time zones --> [u'Central Time Zone']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> topic official website --> [u'http://www.winnipeg.ca/interhom/']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> geocode longitude --> [u'-97.15']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> film location featured in films --> [u'One Last Dance', u'The Haunting in Connecticut', u'Amreeka', u'Black Ice']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location of biosafety facility biosafety facility --> [u'National Microbiology Laboratory']	1
-where is the mts iceplex in winnipeg?	4973	winnipeg --> governmental jurisdiction government bodies --> [u'Winnipeg City Council']	2
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location containedby --> [u'Canada', u'Manitoba', u'Winnipeg Capital Region', u'Area codes 204 and 431', u'Area code 204']	1482
-where is the mts iceplex in winnipeg?	4973	winnipeg --> government position held governmental body --> [u'Winnipeg City Council']	2
-where is the mts iceplex in winnipeg?	4973	winnipeg --> newspaper circulation area newspapers --> [u'The Jewish Tribune', u'Winnipeg Free Press', u'The Globe and Mail', u'The Manitoban', u'The Uniter']	4
-where is the mts iceplex in winnipeg?	4973	winnipeg --> bibs location country --> [u'Canada']	419
-where is the mts iceplex in winnipeg?	4973	winnipeg --> government position held from --> [u'2004']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> geocode latitude --> [u'49.8833333333']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> name source namesakes --> [u'Winnipeg']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> webpage uri --> [u'http://www.winnipeg.ca/interhom/']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> administrative division capital relationship administrative division --> [u'Manitoba']	1383
-where is the mts iceplex in winnipeg?	4973	winnipeg --> government position held office holder --> [u'Sam Katz']	3
-where is the mts iceplex in winnipeg?	4973	winnipeg --> sports team location teams --> [u'Manitoba Moose', u'Winnipeg Blue Bombers', u'Winnipeg Goldeyes']	29
-where is the mts iceplex in winnipeg?	4973	winnipeg --> dated location date founded --> [u'1874']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> object name --> [u'Winnipeg']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> topic image --> [u'Downtown Winnipeg', u'Downtown Winnipeg, as seen looking north.']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> bibs location is clear --> [u'0']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> dated integer number --> [u'625200', u'627400', u'663617', u'684100']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> dated integer year --> [u'1991', u'1992', u'2010', u'2011']	0
-where is the mts iceplex in winnipeg?	4973	winnipeg --> location nearby airports --> [u'St. Andrews Airport', u'Winnipeg James Armstrong Richardson International Airport']	39
+where is the mts iceplex in winnipeg?	4973	mts iceplex --> object name --> [u'MTS Iceplex']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	mts iceplex --> location containedby --> [u'Winnipeg', u'Rural Municipality of Headingley']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	in winnipeg --> object name --> [u'In Winnipeg']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	in winnipeg --> object name --> [u'In Winnipeg']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location area --> [u'464']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> bibs location loc type --> [u'City']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> bibs location state --> [u'Manitoba']	1383	She was born in [[Winnipeg]], [[Manitoba]], and currently lives in [[Seattle, Washington|Seattle]] in the United States.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location events --> [u'1999 Pan American Games', u'2003 Ford World Curling Championships', u"2008 Men's Pan-American Volleyball Cup", u"2007 Women's NORCECA Volleyball Championship", u'1991 Canada Safeway World Curling Championships']	40	At 15 years old, Dalaroli took part in the [[1999 Pan American Games]] in [[Winnipeg]], where she was part of the bronze medal winning team in the 4×100-metre freestyle relay.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location contains --> [u'Burton Cummings Theatre', u'Red River College', u'University of Manitoba', u'Red River Exhibition', u'Winnipeg Soccer Complex']	100	After Herbert's discharge from the army in 1915, the McLuhan family moved to [[Winnipeg]], [[Manitoba]], where Marshall grew up and went to school, attending [[Kelvin High School|Kelvin Technical School]] before enrolling in the [[University of Manitoba]] in 1928.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> topic alias --> [u'Gateway to the West', u'Winnipeg, Canada', u'Winnipeg, Manitoba']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> adjoining relationship adjoins --> [u'Minnesota', u'North Dakota', u'Saskatchewan', u'Ontario']	70	Lord Roberts French Immersion Public School in [[London, Ontario]], Lord Roberts Junior Public School in [[Scarborough, Toronto|Scarborough]], [[Ontario]], and Lord Roberts Elementary Schools in Vancouver, British Columbia, and [[Winnipeg]], [[Manitoba]] are named after him.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location adjectival form --> [u'Winnipegger']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location people born here --> [u'Arnold Naimark', u'Robert Sopuck', u'Norm Hadley', u'Staff Barootes', u'Frank Stack']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> citytown postal codes --> [u'R3C 1A9', u'R3H 0J9', u'R3C 1A3']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> travel destination local transportation --> [u'Winnipeg Transit']	1	Gigs included performances at a bowling alley in [[Saskatoon]], a youth center in [[Edmonton]], a [[Winnipeg Transit]] bus and [[The Forks, Winnipeg, Manitoba|The Forks]] park in [[Winnipeg]], a park in Whitehorse, the [[YMCA]] in downtown Toronto, the Arva Flour Mill in [[Arva, Ontario]], Locas on Salter (a pool hall) in [[Halifax Regional Municipality|Halifax]], [[Nova Scotia]], and a famous one-note show on [[George Street, St. John's|George Street]] in [[St. John's, Newfoundland and Labrador|St.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> webpage category --> [u'Official Website']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> government position held basic title --> [u'Mayor']	3	* [[Mayor]] of [[Winnipeg]] – [[Susan Thompson]] – 1992
+where is the mts iceplex in winnipeg?	4973	winnipeg --> travel destination tourist attractions --> [u'Red River Exhibition', u'Assiniboine Park Zoo', u'Western Canada Aviation Museum', u'Saint Boniface Cathedral', u'Manitoba Museum']	12	The band played at summer festivals and exhibitions including [[Red River Exhibition]] in [[Winnipeg]] and at Salmonfest in [[Grand Falls-Windsor]] on July 9, 2011, where they opened for [[Kiss (band)|Kiss]].
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location time zones --> [u'Central Time Zone']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> topic official website --> [u'http://www.winnipeg.ca/interhom/']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> geocode longitude --> [u'-97.15']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> film location featured in films --> [u'One Last Dance', u'The Haunting in Connecticut', u'Amreeka', u'Black Ice']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location of biosafety facility biosafety facility --> [u'National Microbiology Laboratory']	1	It was created by scientists at the [[National Microbiology Laboratory]] in [[Winnipeg]], Canada, which is part of the [[Public Health Agency of Canada]] (PHAC).
+where is the mts iceplex in winnipeg?	4973	winnipeg --> governmental jurisdiction government bodies --> [u'Winnipeg City Council']	2	Annable lived in [[Winnipeg]] from 1970 to 1987, and unsuccessfully sought a position on the [[Winnipeg City Council]] in [[Winnipeg municipal election, 1983|1983]] and 1986.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location containedby --> [u'Canada', u'Manitoba', u'Winnipeg Capital Region', u'Area codes 204 and 431', u'Area code 204']	1482	She was born in [[Winnipeg]], [[Manitoba]], and currently lives in [[Seattle, Washington|Seattle]] in the United States.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> government position held governmental body --> [u'Winnipeg City Council']	2	Annable lived in [[Winnipeg]] from 1970 to 1987, and unsuccessfully sought a position on the [[Winnipeg City Council]] in [[Winnipeg municipal election, 1983|1983]] and 1986.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> newspaper circulation area newspapers --> [u'The Jewish Tribune', u'Winnipeg Free Press', u'The Globe and Mail', u'The Manitoban', u'The Uniter']	4	This ended his film career and he later worked for the [[Winnipeg Free Press]] and died in [[Winnipeg]] in 1933.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> bibs location country --> [u'Canada']	419	'''Graham Ryding''' (born June 16, 1975 in [[Winnipeg]], [[Manitoba]]) is a professional male [[squash (sport)|squash]] player who represented [[Canada]] during his career.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> government position held from --> [u'2004']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> geocode latitude --> [u'49.8833333333']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> name source namesakes --> [u'Winnipeg']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> webpage uri --> [u'http://www.winnipeg.ca/interhom/']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> administrative division capital relationship administrative division --> [u'Manitoba']	1383	She was born in [[Winnipeg]], [[Manitoba]], and currently lives in [[Seattle, Washington|Seattle]] in the United States.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> government position held office holder --> [u'Sam Katz']	3	After the season, the Aces were sold to an ownership group led by future [[Winnipeg]], [[Manitoba]] mayor [[Sam Katz]] and the team relocated to the city and became known as the [[Winnipeg Goldeyes]], taking the name of the Winnipeg team that played in the original Northern League.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> sports team location teams --> [u'Manitoba Moose', u'Winnipeg Blue Bombers', u'Winnipeg Goldeyes']	29	Hamilton came into the game as one of the [[Canadian Football League|CFL]]'s hottest teams, having won three straight, whereas the Lions finished the regular season losing three straight and earning the crossover playoff berth only after the Tiger-Cats defeated the [[Winnipeg Blue Bombers]] 39-17 to clinch second in the East and eliminate [[Winnipeg]] from post-season contention.
+where is the mts iceplex in winnipeg?	4973	winnipeg --> dated location date founded --> [u'1874']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> object name --> [u'Winnipeg']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> topic image --> [u'Downtown Winnipeg', u'Downtown Winnipeg, as seen looking north.']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> bibs location is clear --> [u'0']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> dated integer number --> [u'625200', u'627400', u'663617', u'684100']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> dated integer year --> [u'1991', u'1992', u'2010', u'2011']	0	EMPTY
+where is the mts iceplex in winnipeg?	4973	winnipeg --> location nearby airports --> [u'St. Andrews Airport', u'Winnipeg James Armstrong Richardson International Airport']	39	|align="center"|7||[[Winnipeg James Armstrong Richardson International Airport]]||[[Winnipeg]]||align="right"|3,626,250||align="right"|5.1%||align="right"|||align="right"|

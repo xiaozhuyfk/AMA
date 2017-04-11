@@ -1,197 +1,197 @@
-what is the capital of australia victoria state?	31815	canberra --> bibs location loc type --> [u'City']	0
-what is the capital of australia victoria state?	31815	canberra --> bibs location state --> [u'New South Wales']	53
-what is the capital of australia victoria state?	31815	canberra --> travel destination tourist attractions --> [u'National Workers Memorial', u'National Gallery of Australia', u'National Museum of Australia', u'Old Parliament House, Canberra', u'Mount Stromlo']	63
-what is the capital of australia victoria state?	31815	canberra --> location contains --> [u'Alliance College of Australia, main campus', u'Lake Burley Griffin', u'Legislative Assembly Building, Canberra', u'National Carillon', u'National Convention Centre Canberra']	26
-what is the capital of australia victoria state?	31815	canberra --> topic alias --> [u'Canberra, Australia']	0
-what is the capital of australia victoria state?	31815	canberra --> adjoining relationship adjoins --> [u'Queanbeyan']	14
-what is the capital of australia victoria state?	31815	canberra --> location area --> [u'814.2']	0
-what is the capital of australia victoria state?	31815	canberra --> location people born here --> [u'Ryan Carters', u'Patty Mills', u'Billie Gabriel Campese', u'Campbell Newman', u'David Gallop']	1
-what is the capital of australia victoria state?	31815	canberra --> military posting person --> [u'J.W. Cortes']	0
-what is the capital of australia victoria state?	31815	canberra --> location containedby --> [u'Australia', u'New South Wales']	536
-what is the capital of australia victoria state?	31815	canberra --> administrative division capital relationship administrative division --> [u'Australian Capital Territory']	241
-what is the capital of australia victoria state?	31815	canberra --> geocode longitude --> [u'149.1314']	0
-what is the capital of australia victoria state?	31815	canberra --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what is the capital of australia victoria state?	31815	canberra --> place with neighborhoods neighborhoods --> [u'Weston Creek']	4
-what is the capital of australia victoria state?	31815	canberra --> newspaper circulation area newspapers --> [u'The Daily Telegraph', u'The Sydney Morning Herald', u'Indus Age', u'The Canberra Times', u'Army']	0
-what is the capital of australia victoria state?	31815	canberra --> top architectural city structure count --> [u'1']	0
-what is the capital of australia victoria state?	31815	canberra --> bibs location country --> [u'Australia']	489
-what is the capital of australia victoria state?	31815	canberra --> geocode latitude --> [u'-35.2828']	0
-what is the capital of australia victoria state?	31815	canberra --> location events --> [u'1940 Canberra air disaster', u'1975 Australian constitutional crisis', u'1993 Jolimont Centre siege']	3
-what is the capital of australia victoria state?	31815	canberra --> news report event --> [u'2007 Australian equine influenza outbreak', u'2008 Kyrgyzstan earthquake']	0
-what is the capital of australia victoria state?	31815	canberra --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjQ35wpEbGdrcN5Y29ycA']	0
-what is the capital of australia victoria state?	31815	canberra --> bibs location is clear --> [u'0']	0
-what is the capital of australia victoria state?	31815	canberra --> sports team location teams --> [u'Brumbies']	5
-what is the capital of australia victoria state?	31815	canberra --> dated location date founded --> [u'1913']	0
-what is the capital of australia victoria state?	31815	canberra --> object name --> [u'Canberra']	0
-what is the capital of australia victoria state?	31815	canberra --> topic image --> [u'Canberra Montage', u'Canberra parliamentary axis']	0
-what is the capital of australia victoria state?	31815	canberra --> news report url --> [u'http://www.canberratimes.com.au/news/local/news/general/choppers-pick-up-quake-injured/1328079.aspx', u'http://abc.net.au/news/stories/2007/08/26/2015191.htm?section=australia']	0
-what is the capital of australia victoria state?	31815	canberra --> news report title --> [u'Choppers pick up quake injured', u'Horse flu threatens havoc Racing jobs on line if bans not lifted']	0
-what is the capital of australia victoria state?	31815	canberra --> news report date --> [u'2008-10-09', u'2007-08-27']	0
-what is the capital of australia victoria state?	31815	canberra --> location nearby airports --> [u'Canberra International Airport']	4
-what is the capital of australia victoria state?	31815	victoria --> namesake named after --> [u'Queen Victoria']	4
-what is the capital of australia victoria state?	31815	victoria --> organization scope organizations with this scope --> [u'Metlink', u'Parks Victoria', u'Patties Bakery', u'Bank of Melbourne', u'Motorcycling Victoria']	3
-what is the capital of australia victoria state?	31815	victoria --> government position held office position or title --> [u'Member of the Victorian Legislative Assembly', u'Member of the Victorian Legislative Council', u'Premier of Victoria']	0
-what is the capital of australia victoria state?	31815	victoria --> bibs location loc type --> [u'State']	0
-what is the capital of australia victoria state?	31815	victoria --> location events --> [u'Victorian gold rush', u'Victoria Railway Accidents', u'Victorian state election, 2010', u'Campaspe Plains massacre']	19
-what is the capital of australia victoria state?	31815	victoria --> location contains --> [u'University of Melbourne', u'Melbourne', u'City of Moreland', u'Picola', u'Fitzroy North']	1497
-what is the capital of australia victoria state?	31815	victoria --> topic alias --> [u'State Of Victoria', u'Vic', u'Victoria, Australia']	0
-what is the capital of australia victoria state?	31815	victoria --> flag use from date --> [u'1953']	0
-what is the capital of australia victoria state?	31815	victoria --> adjoining relationship adjoins --> [u'New South Wales', u'South Australia']	1171
-what is the capital of australia victoria state?	31815	victoria --> government position held district represented --> [u'Electoral district of Prahran', u'Electoral district of Williamstown', u'Northern Metropolitan Region', u'Northern Victoria Region', u'Electoral district of Melbourne']	1
-what is the capital of australia victoria state?	31815	victoria --> administrative division capital relationship capital --> [u'Melbourne']	1480
-what is the capital of australia victoria state?	31815	victoria --> government position held office holder --> [u'Stephen Barker', u'Lyn Allison', u'Gareth Evans', u'Robert Best', u'George Fairbairn']	1
-what is the capital of australia victoria state?	31815	victoria --> location people born here --> [u'Mathew Inness', u'Alan Stretton', u'David Francis', u'Joel Bowden', u'Caroline Wilson']	0
-what is the capital of australia victoria state?	31815	victoria --> government position held legislative sessions --> [u'42nd Australian Parliament', u'41st Australian Parliament', u'33rd Australian Parliament', u'40th Australian Parliament', u'30th Australian Parliament']	0
-what is the capital of australia victoria state?	31815	victoria --> government position held to --> [u'1993', u'1994-05', u'1999-08', u'1999-08-24', u'1999-11']	0
-what is the capital of australia victoria state?	31815	victoria --> governmental jurisdiction agencies --> [u'Victorian Department of Treasury and Finance', u'Parks Victoria', u'Victoria Police', u'Victorian Department of Education and Training']	9
-what is the capital of australia victoria state?	31815	victoria --> government position held basic title --> [u'Governor', u'Premier', u'Member of Parliament']	1
-what is the capital of australia victoria state?	31815	victoria --> travel destination tourist attractions --> [u'Ian Potter Centre']	0
-what is the capital of australia victoria state?	31815	victoria --> government position held to --> [u'1929', u'1953', u'1978', u'1993-04', u'1995']	0
-what is the capital of australia victoria state?	31815	victoria --> location containedby --> [u'Australia']	2309
-what is the capital of australia victoria state?	31815	victoria --> topic official website --> [u'http://www.vic.gov.au/']	0
-what is the capital of australia victoria state?	31815	victoria --> administrative area administrative area type --> [u'Australian state']	0
-what is the capital of australia victoria state?	31815	victoria --> film location featured in films --> [u"The Squatter's Daughter"]	0
-what is the capital of australia victoria state?	31815	victoria --> australian state capital city --> [u'Melbourne']	1480
-what is the capital of australia victoria state?	31815	victoria --> topic exceptions --> [u'Melbourne should not be contained in Victoria.']	0
-what is the capital of australia victoria state?	31815	victoria --> government position held office position or title --> [u'Australian Senator']	0
-what is the capital of australia victoria state?	31815	victoria --> governmental jurisdiction government bodies --> [u'Victorian Legislative Assembly', u'Victorian Legislative Council', u'Parliament of Victoria']	106
-what is the capital of australia victoria state?	31815	victoria --> government position held governmental body --> [u'Victorian Legislative Assembly', u'Victorian Legislative Council']	100
-what is the capital of australia victoria state?	31815	victoria --> beer country region beers from here --> [u'Victoria Bitter']	0
-what is the capital of australia victoria state?	31815	victoria --> bibs location country --> [u'Australia']	2309
-what is the capital of australia victoria state?	31815	victoria --> government position held jurisdiction of office --> [u'Australia']	2309
-what is the capital of australia victoria state?	31815	victoria --> government position held governmental body --> [u'Senate']	27
-what is the capital of australia victoria state?	31815	victoria --> newspaper circulation area newspapers --> [u'The Age', u'The Advertiser', u'Neos Kosmos', u'The Truth', u'Il Globo']	2
-what is the capital of australia victoria state?	31815	victoria --> court jurisdiction area courts --> [u'Supreme Court of Victoria']	12
-what is the capital of australia victoria state?	31815	victoria --> administrative area administrative parent --> [u'Australia']	2309
-what is the capital of australia victoria state?	31815	victoria --> administrative area administrative children --> [u'City of Moreland', u'City of Frankston', u'City of Hobsons Bay', u'City of Moonee Valley', u'City of Greater Dandenong']	11
-what is the capital of australia victoria state?	31815	victoria --> government position held from --> [u'1903', u'1988', u'1992', u'1993', u'1996-05']	0
-what is the capital of australia victoria state?	31815	victoria --> government position held office holder --> [u'Frank Crean', u'Ben Carroll', u'Colleen Hartland', u'Sue Pennicuik', u'Rupert Hamer']	1
-what is the capital of australia victoria state?	31815	victoria --> flag use flag --> [u'Flag of Victoria']	3
-what is the capital of australia victoria state?	31815	victoria --> administrative area capital --> [u'Melbourne']	1480
-what is the capital of australia victoria state?	31815	victoria --> object name --> [u'Victoria']	0
-what is the capital of australia victoria state?	31815	victoria --> topic image --> [u'Victoria locator-MJC', u'Carte du Victoria']	0
-what is the capital of australia victoria state?	31815	victoria --> government position held from --> [u'1928', u'1951', u'1962', u'1983', u'1993-07']	0
-what is the capital of australia victoria state?	31815	victoria --> bibs location is clear --> [u'0']	0
-what is the capital of australia victoria state?	31815	victoria --> australian state premiers --> [u'Steve Bracks', u'Jeff Kennett', u'Joan Kirner']	8
-what is the capital of australia victoria state?	31815	victoria --> wine region wines --> [u"2008 Penfold's Rawson's Retreat Merlot"]	0
-what is the capital of australia victoria state?	31815	victoria --> administrative division country --> [u'Australia']	2309
-what is the capital of australia victoria state?	31815	victoria --> governmental jurisdiction government positions --> [u'Member of the Victorian Legislative Assembly', u'Member of the Victorian Legislative Council', u'Deputy Premier of Victoria']	1
-what is the capital of australia victoria state?	31815	capital of germany --> object name --> [u'Capital of Germany']	0
-what is the capital of australia victoria state?	31815	capital of germany --> topic image --> [u'Berlin reichstag CP']	0
-what is the capital of australia victoria state?	31815	the capital --> newspaper circulation areas --> [u'Anne Arundel County']	0
-what is the capital of australia victoria state?	31815	the capital --> object name --> [u'The Capital']	0
-what is the capital of australia victoria state?	31815	the capital --> topic image --> [u'Samuel Chase']	0
-what is the capital of australia victoria state?	31815	the capital --> periodical frequency frequency --> [u'Daily']	0
-what is the capital of australia victoria state?	31815	the capital --> newspaper owner --> [u'Landmark Media Enterprises']	0
-what is the capital of australia victoria state?	31815	capital --> topic official website --> [u'http://www.capitalfm.com']	0
-what is the capital of australia victoria state?	31815	capital --> topic alias --> [u'The Capital FM Network']	0
-what is the capital of australia victoria state?	31815	capital --> object name --> [u'Capital']	0
-what is the capital of australia victoria state?	31815	capital --> webpage uri --> [u'http://www.capitalfm.com', u'http://www.thisisglobal.com/radio/capital']	0
-what is the capital of australia victoria state?	31815	u.s. state --> object name --> [u'U.S. state']	0
-what is the capital of australia victoria state?	31815	u.s. state --> topic image --> [u'Great Seal of the US']	0
-what is the capital of australia victoria state?	31815	u.s. state --> linguistic hint subject form --> [u'U.S. states']	0
-what is the capital of australia victoria state?	31815	u.s. state --> equivalent topic equivalent type --> [u'US State']	0
-what is the capital of australia victoria state?	31815	capital --> object name --> [u'Capital']	0
-what is the capital of australia victoria state?	31815	states of india --> object name --> [u'States of India']	0
-what is the capital of australia victoria state?	31815	states of india --> equivalent topic equivalent type --> [u'Indian state']	0
-what is the capital of australia victoria state?	31815	states of india --> location containedby --> [u'India']	25
-what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is the capital of australia victoria state?	31815	atlanta --> government position held office position or title --> [u'Mayor of Atlanta']	0
-what is the capital of australia victoria state?	31815	atlanta --> bibs location loc type --> [u'City']	0
-what is the capital of australia victoria state?	31815	atlanta --> travel destination monthly climate average rainfall mm --> [u'84', u'93', u'103', u'105', u'110']	0
-what is the capital of australia victoria state?	31815	atlanta --> dog city relationship date --> [u'2008']	0
-what is the capital of australia victoria state?	31815	atlanta --> location people born here --> [u'Kelvin Sheppard', u'Georgia Douglas Johnson', u'Sam Cronin', u'Mike Sanders', u'Ernest Grant']	0
-what is the capital of australia victoria state?	31815	atlanta --> travel destination local transportation --> [u'Metropolitan Atlanta Rapid Transit Authority']	7
-what is the capital of australia victoria state?	31815	atlanta --> federal reserve bank letter --> [u'F']	0
-what is the capital of australia victoria state?	31815	atlanta --> sports team roster from --> [u'2007']	0
-what is the capital of australia victoria state?	31815	atlanta --> location containedby --> [u'United States of America', u'Georgia', u'Fulton County', u'Area code 404', u'Area code 678']	1217
-what is the capital of australia victoria state?	31815	atlanta --> location of biosafety facility biosafety facility --> [u'United States Centers for Disease Control and Prevention', u'Georgia State University Facility']	9
-what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0
-what is the capital of australia victoria state?	31815	atlanta --> fictional setting fictional characters born here --> [u'Nico Harris']	0
-what is the capital of australia victoria state?	31815	atlanta --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what is the capital of australia victoria state?	31815	atlanta --> hud county place county --> [u'Fulton County']	40
-what is the capital of australia victoria state?	31815	atlanta --> topic official website --> [u'http://www.atlantaga.gov/']	0
-what is the capital of australia victoria state?	31815	atlanta --> webpage description --> [u'Visitor Information']	0
-what is the capital of australia victoria state?	31815	atlanta --> sports team roster player --> [u'Joe Horn']	0
-what is the capital of australia victoria state?	31815	atlanta --> bibs location is clear --> [u'0']	0
-what is the capital of australia victoria state?	31815	atlanta --> government position held office holder --> [u'Andrew Young', u'Kasim Reed', u'Shirley Franklin', u'Maynard Jackson', u'Roy LeCraw']	16
-what is the capital of australia victoria state?	31815	atlanta --> support supporter --> [u'Deion Sanders']	0
-what is the capital of australia victoria state?	31815	atlanta --> geocode datum --> [u'NAD83']	0
-what is the capital of australia victoria state?	31815	atlanta --> organization scope organizations with this scope --> [u'Dillinger Media']	0
-what is the capital of australia victoria state?	31815	atlanta --> sports team roster position --> [u'Wide receiver']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated float date --> [u'2008']	0
-what is the capital of australia victoria state?	31815	atlanta --> geocode longitude --> [u'-84.3881']	0
-what is the capital of australia victoria state?	31815	atlanta --> sports team roster from --> [u'2007']	0
-what is the capital of australia victoria state?	31815	atlanta --> organization relationship as of date --> [u'2007', u'2008', u'2009']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated float number --> [u'0']	0
-what is the capital of australia victoria state?	31815	atlanta --> travel destination monthly climate average min temp c --> [u'0', u'1', u'2', u'6', u'10']	0
-what is the capital of australia victoria state?	31815	atlanta --> football historical roster position from --> [u'2007']	0
-what is the capital of australia victoria state?	31815	atlanta --> football historical roster position from --> [u'2007']	0
-what is the capital of australia victoria state?	31815	atlanta --> administrative division capital relationship administrative division --> [u'Georgia', u'Fulton County']	1027
-what is the capital of australia victoria state?	31815	atlanta --> adjoining relationship adjoins --> [u'Duluth']	8
-what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Census Bureau, Population']	0
-what is the capital of australia victoria state?	31815	atlanta --> newspaper circulation area newspapers --> [u'The Signal', u'The Great Speckled Bird', u'The Atlanta Journal-Constitution', u'The Emory Wheel', u'Urdu Times']	2
-what is the capital of australia victoria state?	31815	atlanta --> top architectural city structure count --> [u'27']	0
-what is the capital of australia victoria state?	31815	atlanta --> bibs location country --> [u'United States of America']	285
-what is the capital of australia victoria state?	31815	atlanta --> football historical roster position player --> [u'Joe Horn']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is the capital of australia victoria state?	31815	atlanta --> webpage uri --> [u'http://www.atlantaga.gov/', u'http://wikitravel.org/en/Atlanta']	0
-what is the capital of australia victoria state?	31815	atlanta --> dog city relationship dog breed --> [u'Dachshund', u'German Shepherd Dog', u'Yorkshire Terrier', u'Boxer', u'Shih Tzu']	0
-what is the capital of australia victoria state?	31815	atlanta --> sports team location teams --> [u'Atlanta Braves', u'Atlanta Falcons', u'Atlanta Hawks', u'Atlanta Thrashers', u'Georgia Tech Yellow Jackets football']	65
-what is the capital of australia victoria state?	31815	atlanta --> football historical roster position position s --> [u'Wide receiver']	0
-what is the capital of australia victoria state?	31815	atlanta --> location nearby airports --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'Atlanta Regional Airport', u'Cobb County Airport', u'Fulton County Airport', u'DeKalb-Peachtree Airport']	2
-what is the capital of australia victoria state?	31815	atlanta --> place of interment interred here --> [u'Alfred Iverson, Jr.', u'Ralph Abernathy']	0
-what is the capital of australia victoria state?	31815	atlanta --> transportation transport operator --> [u'Amtrak', u'Greyhound Lines']	8
-what is the capital of australia victoria state?	31815	atlanta --> travel destination monthly climate average max temp c --> [u'10', u'12', u'17', u'18', u'23']	0
-what is the capital of australia victoria state?	31815	atlanta --> location events --> [u'1996 Summer Olympics', u'2009  Easter Crash on Camp Creek Parkway', u"1984 NCAA Men's Division I Basketball Tournament", u"Ohio State-Kentucky 1987 NCAA Men's Division I Basketball Tournament Game", u"Georgetown-Ohio State 1987 NCAA Men's Division I Basketball Tournament Game"]	569
-what is the capital of australia victoria state?	31815	atlanta --> football historical roster position player --> [u'Joe Horn']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is the capital of australia victoria state?	31815	atlanta --> base equivalent location base --> [u'Atlanta']	0
-what is the capital of australia victoria state?	31815	atlanta --> federal reserve bank federal reserve region --> [u'Atlanta']	0
-what is the capital of australia victoria state?	31815	atlanta --> government position held to --> [u'1942', u'1982', u'1990', u'2002', u'1887']	0
-what is the capital of australia victoria state?	31815	atlanta --> webpage category --> [u'Topic Webpage', u'Official Website']	0
-what is the capital of australia victoria state?	31815	atlanta --> government position held basic title --> [u'Mayor']	2
-what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'15575']	0
-what is the capital of australia victoria state?	31815	atlanta --> hud county place place --> [u'Atlanta']	6322
-what is the capital of australia victoria state?	31815	atlanta --> location contains --> [u'Oglethorpe University', u'Georgia Institute of Technology College of Engineering', u'Morris Brown College', u'Emory University', u'Georgia Institute of Technology']	116
-what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'168341']	0
-what is the capital of australia victoria state?	31815	atlanta --> governmental jurisdiction government bodies --> [u'Atlanta City Council']	1
-what is the capital of australia victoria state?	31815	atlanta --> sports team roster position --> [u'Wide receiver']	0
-what is the capital of australia victoria state?	31815	atlanta --> bibs location state --> [u'Georgia']	993
-what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'118507']	0
-what is the capital of australia victoria state?	31815	atlanta --> topic topical webpage --> [u'http://wikitravel.org/en/Atlanta']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated float date --> [u'2008']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is the capital of australia victoria state?	31815	atlanta --> sports team roster player --> [u'Joe Horn']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated location date founded --> [u'1837']	0
-what is the capital of australia victoria state?	31815	atlanta --> federal reserve bank number --> [u'6']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'207929']	0
-what is the capital of australia victoria state?	31815	atlanta --> book subject works --> [u'A Man in Full']	1
-what is the capital of australia victoria state?	31815	atlanta --> travel destination tourist attractions --> [u'Zoo Atlanta', u'Margaret Mitchell House & Museum', u'Georgia Dome', u'Atlanta History Center', u'Atlanta Symphony Orchestra']	116
-what is the capital of australia victoria state?	31815	atlanta --> dated float number --> [u'0.0667']	0
-what is the capital of australia victoria state?	31815	atlanta --> topic alias --> [u'Atlanta, GA', u'Hotlanta', u'Atlanta, Georgia', u'Fulton County / Atlanta city']	0
-what is the capital of australia victoria state?	31815	atlanta --> location area --> [u'342.914425808']	0
-what is the capital of australia victoria state?	31815	atlanta --> football historical roster position position s --> [u'Wide receiver']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0
-what is the capital of australia victoria state?	31815	atlanta --> citytown postal codes --> [u'30366', u'30326', u'30328', u'30337', u'30355']	0
-what is the capital of australia victoria state?	31815	atlanta --> governmental jurisdiction agencies --> [u'Atlanta Police Department']	0
-what is the capital of australia victoria state?	31815	atlanta --> transportation transport terminus --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'232 Forsyth St.', u'Peachtree Station']	0
-what is the capital of australia victoria state?	31815	atlanta --> location time zones --> [u'Eastern Time Zone']	5
-what is the capital of australia victoria state?	31815	atlanta --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0
-what is the capital of australia victoria state?	31815	atlanta --> film location featured in films --> [u'Zombieland', u'Boycott', u'Get Low', u'Hillbilly Highway', u'Halloween II']	1
-what is the capital of australia victoria state?	31815	atlanta --> webpage resource --> [u'Katt Williams arrested for burglary', u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 4: TV Recap', u"'American Idol' auditions under way", u"'American Idol' in Chicago: Shania Twain impressed us much!", u'Snap Judgment: Jericho']	0
-what is the capital of australia victoria state?	31815	atlanta --> place with neighborhoods neighborhoods --> [u'Sweet Auburn', u'Cascade Heights', u'Atlantic Station', u'East Lake, Atlanta', u'Little Five Points']	8
-what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'393314', u'394175', u'395436', u'398481', u'400620']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0
-what is the capital of australia victoria state?	31815	atlanta --> geocode latitude --> [u'33.7489']	0
-what is the capital of australia victoria state?	31815	atlanta --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	0
-what is the capital of australia victoria state?	31815	atlanta --> government position held from --> [u'1941', u'1974', u'1982', u'1994', u'1885']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0
-what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'6602']	0
-what is the capital of australia victoria state?	31815	atlanta --> object name --> [u'Atlanta']	0
-what is the capital of australia victoria state?	31815	atlanta --> topic image --> [u'City skyline from Buckhead', u'Montage Atlanta']	0
-what is the capital of australia victoria state?	31815	atlanta --> olympic host city olympics hosted --> [u'1996 Summer Olympics']	569
-what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-what is the capital of australia victoria state?	31815	atlanta --> governmental jurisdiction government positions --> [u'Mayor of Atlanta']	0
+what is the capital of australia victoria state?	31815	canberra --> bibs location loc type --> [u'City']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> bibs location state --> [u'New South Wales']	53	In [[Australia]], the federal government in [[Canberra]] sought to close the Rhodesian Information Centre in [[Sydney]], but it remained open, operating under the jurisdiction of the state of [[New South Wales]].
+what is the capital of australia victoria state?	31815	canberra --> travel destination tourist attractions --> [u'National Workers Memorial', u'National Gallery of Australia', u'National Museum of Australia', u'Old Parliament House, Canberra', u'Mount Stromlo']	63	This table is in the collection of the [[National Museum of Australia]] in [[Canberra]].
+what is the capital of australia victoria state?	31815	canberra --> location contains --> [u'Alliance College of Australia, main campus', u'Lake Burley Griffin', u'Legislative Assembly Building, Canberra', u'National Carillon', u'National Convention Centre Canberra']	26	* [[1970 in Australia|1970]] – [[Queen Elizabeth II]] opens the '''[[National Carillon]]''' ''(pictured)'' in [[Canberra]], a gift of the British government commemorating the establishment of the national capital.
+what is the capital of australia victoria state?	31815	canberra --> topic alias --> [u'Canberra, Australia']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> adjoining relationship adjoins --> [u'Queanbeyan']	14	|[[Canberra]]-[[Queanbeyan]]
+what is the capital of australia victoria state?	31815	canberra --> location area --> [u'814.2']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> location people born here --> [u'Ryan Carters', u'Patty Mills', u'Billie Gabriel Campese', u'Campbell Newman', u'David Gallop']	1	| 5th || 98 || Moisés Henriques & [[Ryan Carters]] || [[Perth Scorchers]] || [[Manuka Oval]], [[Canberra]] || 28 Jan 2015 || 
+what is the capital of australia victoria state?	31815	canberra --> military posting person --> [u'J.W. Cortes']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> location containedby --> [u'Australia', u'New South Wales']	536	| [[Australia]] || [[Canberra]] || '''Australia''' || '''Canberra''' || [[English language|English]]/ Aboriginal native languages
+what is the capital of australia victoria state?	31815	canberra --> administrative division capital relationship administrative division --> [u'Australian Capital Territory']	241	The team is based in [[Canberra]], [[Australian Capital Territory]] (ACT) and named for the [[brumby|wild horses]] which inhabit the capital's hinterland.
+what is the capital of australia victoria state?	31815	canberra --> geocode longitude --> [u'149.1314']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> place with neighborhoods neighborhoods --> [u'Weston Creek']	4	*[[Hindmarsh Drive, Canberra|Hindmarsh Drive]] runs through the districts of [[Weston Creek]] and [[South Canberra]] in [[Canberra]], Australia.
+what is the capital of australia victoria state?	31815	canberra --> newspaper circulation area newspapers --> [u'The Daily Telegraph', u'The Sydney Morning Herald', u'Indus Age', u'The Canberra Times', u'Army']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> top architectural city structure count --> [u'1']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> bibs location country --> [u'Australia']	489	| [[Australia]] || [[Canberra]] || '''Australia''' || '''Canberra''' || [[English language|English]]/ Aboriginal native languages
+what is the capital of australia victoria state?	31815	canberra --> geocode latitude --> [u'-35.2828']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> location events --> [u'1940 Canberra air disaster', u'1975 Australian constitutional crisis', u'1993 Jolimont Centre siege']	3	* August 13 &ndash; A [[Royal Australian Air Force]] [[Lockheed Hudson]] [[1940 Canberra air disaster|crashes]] near [[Canberra]], [[Australia]], killing all 10 people on board.
+what is the capital of australia victoria state?	31815	canberra --> news report event --> [u'2007 Australian equine influenza outbreak', u'2008 Kyrgyzstan earthquake']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjQ35wpEbGdrcN5Y29ycA']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> bibs location is clear --> [u'0']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> sports team location teams --> [u'Brumbies']	5	Australia had five sides in the 15-team competition (which expanded to 18 in 2016): the [[Queensland Reds]], [[New South Wales Waratahs]], [[Brumbies]] (playing out of [[Canberra]]), [[Western Force]] and, since 2011, the [[Melbourne Rebels]].
+what is the capital of australia victoria state?	31815	canberra --> dated location date founded --> [u'1913']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> object name --> [u'Canberra']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> topic image --> [u'Canberra Montage', u'Canberra parliamentary axis']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> news report url --> [u'http://www.canberratimes.com.au/news/local/news/general/choppers-pick-up-quake-injured/1328079.aspx', u'http://abc.net.au/news/stories/2007/08/26/2015191.htm?section=australia']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> news report title --> [u'Choppers pick up quake injured', u'Horse flu threatens havoc Racing jobs on line if bans not lifted']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> news report date --> [u'2008-10-09', u'2007-08-27']	0	EMPTY
+what is the capital of australia victoria state?	31815	canberra --> location nearby airports --> [u'Canberra International Airport']	4	*[[RAAF Base Fairbairn]], [[Canberra]] - now Fairbairn Business Park and part of [[Canberra International Airport]].
+what is the capital of australia victoria state?	31815	victoria --> namesake named after --> [u'Queen Victoria']	4	The states of [[Queensland]] and [[Victoria (Australia)|Victoria]] were named after [[Queen Victoria]]; [[Adelaide]], the capital of [[South Australia]] is named after [[Adelaide of Saxe-Meiningen|Queen Adelaide]], the [[Queen consort|consort]] of [[William IV of the United Kingdom|William IV]]; the township of [[Elizabeth, South Australia|Elizabeth]], also in South Australia, is named after the present sovereign.
+what is the capital of australia victoria state?	31815	victoria --> organization scope organizations with this scope --> [u'Metlink', u'Parks Victoria', u'Patties Bakery', u'Bank of Melbourne', u'Motorcycling Victoria']	3	'''Lake Victoria''' is a  shallow [[saline lake]] on the [[Bellarine Peninsula]], [[Victoria (Australia)|Victoria]] in [[Australia]], close to the township of [[Point Lonsdale]] and part of the Lonsdale Lakes Nature Reserve administered by [[Parks Victoria]].
+what is the capital of australia victoria state?	31815	victoria --> government position held office position or title --> [u'Member of the Victorian Legislative Assembly', u'Member of the Victorian Legislative Council', u'Premier of Victoria']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> bibs location loc type --> [u'State']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> location events --> [u'Victorian gold rush', u'Victoria Railway Accidents', u'Victorian state election, 2010', u'Campaspe Plains massacre']	19	[[Victoria (Australia)|Victoria]] gained independence from [[New South Wales]] in 1850, and in the wake of the [[Victorian gold rush]] that almost immediately followed, it became the richest colony in Australia, and [[Melbourne]], its capital city, the largest and wealthiest city in Australia.
+what is the capital of australia victoria state?	31815	victoria --> location contains --> [u'University of Melbourne', u'Melbourne', u'City of Moreland', u'Picola', u'Fitzroy North']	1497	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> topic alias --> [u'State Of Victoria', u'Vic', u'Victoria, Australia']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> flag use from date --> [u'1953']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> adjoining relationship adjoins --> [u'New South Wales', u'South Australia']	1171	The American sycamore is also well adapted to life in Argentina and Australia and is quite widespread across the [[Australian continent]] especially in the cooler southern states such as [[Victoria (Australia)|Victoria]] and [[New South Wales]].
+what is the capital of australia victoria state?	31815	victoria --> government position held district represented --> [u'Electoral district of Prahran', u'Electoral district of Williamstown', u'Northern Metropolitan Region', u'Northern Victoria Region', u'Electoral district of Melbourne']	1	She was [[Minister for Education]] in [[Victoria (Australia)|Victoria]] in the [[John Brumby|Brumby Government]], and was the [[Member of Parliament]] for [[Electoral district of Melbourne|Melbourne]] from 1999 to 2012.
+what is the capital of australia victoria state?	31815	victoria --> administrative division capital relationship capital --> [u'Melbourne']	1480	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> government position held office holder --> [u'Stephen Barker', u'Lyn Allison', u'Gareth Evans', u'Robert Best', u'George Fairbairn']	1	|| [[Lyn Allison]] || [[Australian Democrats|Democrat]] || [[Victoria (Australia)|Victoria]] || 1996–2008
+what is the capital of australia victoria state?	31815	victoria --> location people born here --> [u'Mathew Inness', u'Alan Stretton', u'David Francis', u'Joel Bowden', u'Caroline Wilson']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> government position held legislative sessions --> [u'42nd Australian Parliament', u'41st Australian Parliament', u'33rd Australian Parliament', u'40th Australian Parliament', u'30th Australian Parliament']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> government position held to --> [u'1993', u'1994-05', u'1999-08', u'1999-08-24', u'1999-11']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> governmental jurisdiction agencies --> [u'Victorian Department of Treasury and Finance', u'Parks Victoria', u'Victoria Police', u'Victorian Department of Education and Training']	9	'''Lake Victoria''' is a  shallow [[saline lake]] on the [[Bellarine Peninsula]], [[Victoria (Australia)|Victoria]] in [[Australia]], close to the township of [[Point Lonsdale]] and part of the Lonsdale Lakes Nature Reserve administered by [[Parks Victoria]].
+what is the capital of australia victoria state?	31815	victoria --> government position held basic title --> [u'Governor', u'Premier', u'Member of Parliament']	1	He was an Army officer in the [[First World War]], a British [[Administrator of the Government|administrator]] and served as the 16th [[Governor]] of the State of [[Victoria (Australia)|Victoria]], Australia from 1926 to 1931.
+what is the capital of australia victoria state?	31815	victoria --> travel destination tourist attractions --> [u'Ian Potter Centre']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> government position held to --> [u'1929', u'1953', u'1978', u'1993-04', u'1995']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> location containedby --> [u'Australia']	2309	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> topic official website --> [u'http://www.vic.gov.au/']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> administrative area administrative area type --> [u'Australian state']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> film location featured in films --> [u"The Squatter's Daughter"]	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> australian state capital city --> [u'Melbourne']	1480	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> topic exceptions --> [u'Melbourne should not be contained in Victoria.']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> government position held office position or title --> [u'Australian Senator']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> governmental jurisdiction government bodies --> [u'Victorian Legislative Assembly', u'Victorian Legislative Council', u'Parliament of Victoria']	106	'''Jennifer Margaret "Jenny" Lindell''' (born 19 December 1953 in [[Springvale, Victoria|Springvale]], [[Melbourne]], [[Victoria (Australia)|Victoria]]) is an [[Australia]]n politician and former Speaker of the [[Victorian Legislative Assembly]].
+what is the capital of australia victoria state?	31815	victoria --> government position held governmental body --> [u'Victorian Legislative Assembly', u'Victorian Legislative Council']	100	'''Jennifer Margaret "Jenny" Lindell''' (born 19 December 1953 in [[Springvale, Victoria|Springvale]], [[Melbourne]], [[Victoria (Australia)|Victoria]]) is an [[Australia]]n politician and former Speaker of the [[Victorian Legislative Assembly]].
+what is the capital of australia victoria state?	31815	victoria --> beer country region beers from here --> [u'Victoria Bitter']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> bibs location country --> [u'Australia']	2309	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> government position held jurisdiction of office --> [u'Australia']	2309	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> government position held governmental body --> [u'Senate']	27	| title = [[Australian Senate|Senator]] for [[Victoria (Australia)|Victoria]]
+what is the capital of australia victoria state?	31815	victoria --> newspaper circulation area newspapers --> [u'The Age', u'The Advertiser', u'Neos Kosmos', u'The Truth', u'Il Globo']	2	He established editions of ''the Truth'' in [[Queensland]], [[Victoria (Australia)|Victoria]] ([[The Truth (Melbourne newspaper)|The Truth]]) and [[Western Australia]] by 1903.
+what is the capital of australia victoria state?	31815	victoria --> court jurisdiction area courts --> [u'Supreme Court of Victoria']	12	Recognising this, Irvine accepted the appointment as the [[Chief Justice]] of the [[Supreme Court of Victoria]], which is the [[Australian court hierarchy|highest ranking court]] in the Australian [[States and territories of Australia|State]] of [[Victoria (Australia)|Victoria]].
+what is the capital of australia victoria state?	31815	victoria --> administrative area administrative parent --> [u'Australia']	2309	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> administrative area administrative children --> [u'City of Moreland', u'City of Frankston', u'City of Hobsons Bay', u'City of Moonee Valley', u'City of Greater Dandenong']	11	'''Williamstown''' is a suburb of [[Melbourne]], [[Victoria (Australia)|Victoria]], [[Australia]], 9&nbsp;km south-west of Melbourne's [[Melbourne city centre|central business district]] in the local government area of the [[City of Hobsons Bay]].
+what is the capital of australia victoria state?	31815	victoria --> government position held from --> [u'1903', u'1988', u'1992', u'1993', u'1996-05']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> government position held office holder --> [u'Frank Crean', u'Ben Carroll', u'Colleen Hartland', u'Sue Pennicuik', u'Rupert Hamer']	1	*24 March – [[Rupert Hamer]], 87, former [[Premiers of the Australian states|Premier]] of [[Victoria (Australia)|Victoria]]
+what is the capital of australia victoria state?	31815	victoria --> flag use flag --> [u'Flag of Victoria']	3	File:Flag of Victoria (Australia).svg|The state [[Flag of Victoria|flag]] of [[Victoria (Australia)|Victoria, Australia]] has featured St Edward's Crown since 1953
+what is the capital of australia victoria state?	31815	victoria --> administrative area capital --> [u'Melbourne']	1480	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> object name --> [u'Victoria']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> topic image --> [u'Victoria locator-MJC', u'Carte du Victoria']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> government position held from --> [u'1928', u'1951', u'1962', u'1983', u'1993-07']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> bibs location is clear --> [u'0']	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> australian state premiers --> [u'Steve Bracks', u'Jeff Kennett', u'Joan Kirner']	8	* [[1996 in Australia|1996]] – [[Victoria (Australia)|Victoria]] re-elects the Liberal/National coalition government of [[Jeff Kennett]] for a second term.
+what is the capital of australia victoria state?	31815	victoria --> wine region wines --> [u"2008 Penfold's Rawson's Retreat Merlot"]	0	EMPTY
+what is the capital of australia victoria state?	31815	victoria --> administrative division country --> [u'Australia']	2309	'''Bethanga''' is a town in north-eastern [[Victoria (Australia)|Victoria]], [[Australia]] in the [[Shire of Towong]] [[Local government in Australia|local government area]],  from the state capital, [[Melbourne]].
+what is the capital of australia victoria state?	31815	victoria --> governmental jurisdiction government positions --> [u'Member of the Victorian Legislative Assembly', u'Member of the Victorian Legislative Council', u'Deputy Premier of Victoria']	1	'''Johnstone William "John" Thwaites''' (born 15 October 1955), is a former  [[Australian]] politician, and served as [[Deputy Premier of Victoria|Deputy Premier]] of the state of [[Victoria (Australia)|Victoria]] from 1999 to 2007.
+what is the capital of australia victoria state?	31815	capital of germany --> object name --> [u'Capital of Germany']	0	EMPTY
+what is the capital of australia victoria state?	31815	capital of germany --> topic image --> [u'Berlin reichstag CP']	0	EMPTY
+what is the capital of australia victoria state?	31815	the capital --> newspaper circulation areas --> [u'Anne Arundel County']	0	EMPTY
+what is the capital of australia victoria state?	31815	the capital --> object name --> [u'The Capital']	0	EMPTY
+what is the capital of australia victoria state?	31815	the capital --> topic image --> [u'Samuel Chase']	0	EMPTY
+what is the capital of australia victoria state?	31815	the capital --> periodical frequency frequency --> [u'Daily']	0	EMPTY
+what is the capital of australia victoria state?	31815	the capital --> newspaper owner --> [u'Landmark Media Enterprises']	0	EMPTY
+what is the capital of australia victoria state?	31815	capital --> topic official website --> [u'http://www.capitalfm.com']	0	EMPTY
+what is the capital of australia victoria state?	31815	capital --> topic alias --> [u'The Capital FM Network']	0	EMPTY
+what is the capital of australia victoria state?	31815	capital --> object name --> [u'Capital']	0	EMPTY
+what is the capital of australia victoria state?	31815	capital --> webpage uri --> [u'http://www.capitalfm.com', u'http://www.thisisglobal.com/radio/capital']	0	EMPTY
+what is the capital of australia victoria state?	31815	u.s. state --> object name --> [u'U.S. state']	0	EMPTY
+what is the capital of australia victoria state?	31815	u.s. state --> topic image --> [u'Great Seal of the US']	0	EMPTY
+what is the capital of australia victoria state?	31815	u.s. state --> linguistic hint subject form --> [u'U.S. states']	0	EMPTY
+what is the capital of australia victoria state?	31815	u.s. state --> equivalent topic equivalent type --> [u'US State']	0	EMPTY
+what is the capital of australia victoria state?	31815	capital --> object name --> [u'Capital']	0	EMPTY
+what is the capital of australia victoria state?	31815	states of india --> object name --> [u'States of India']	0	EMPTY
+what is the capital of australia victoria state?	31815	states of india --> equivalent topic equivalent type --> [u'Indian state']	0	EMPTY
+what is the capital of australia victoria state?	31815	states of india --> location containedby --> [u'India']	25	The [[India]]n [[States and union territories of India|state]] of [[West Bengal]] is divided into five administrative Divisions, namely:
+what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> government position held office position or title --> [u'Mayor of Atlanta']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> bibs location loc type --> [u'City']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> travel destination monthly climate average rainfall mm --> [u'84', u'93', u'103', u'105', u'110']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dog city relationship date --> [u'2008']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> location people born here --> [u'Kelvin Sheppard', u'Georgia Douglas Johnson', u'Sam Cronin', u'Mike Sanders', u'Ernest Grant']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> travel destination local transportation --> [u'Metropolitan Atlanta Rapid Transit Authority']	7	With the assistance of the [[Georgia Regional Transportation Authority]] (GRTA), express services are available to [[Atlanta]], connecting with [[Metropolitan Atlanta Rapid Transit Authority|MARTA]] at the [[Doraville (MARTA station)|Doraville]] (NE10), [[Lindbergh Center (MARTA station)|Lindbergh Center]] (N6), [[Arts Center (MARTA station)|Arts Center]] (N5), [[Midtown (MARTA station)|Midtown]] (N4), [[North Avenue (MARTA station)|North Avenue]] (N3), [[Civic Center (MARTA station)|Civic Center]] (N2), [[Peachtree Center (MARTA station)|Peachtree Center]] (N1), and [[Five Points (MARTA station)|Five Points]] stations.
+what is the capital of australia victoria state?	31815	atlanta --> federal reserve bank letter --> [u'F']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> sports team roster from --> [u'2007']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> location containedby --> [u'United States of America', u'Georgia', u'Fulton County', u'Area code 404', u'Area code 678']	1217	| [[Atlanta]], [[United States|U.S.]]
+what is the capital of australia victoria state?	31815	atlanta --> location of biosafety facility biosafety facility --> [u'United States Centers for Disease Control and Prevention', u'Georgia State University Facility']	9	At a multi-state workshop at the [[Centers for Disease Control and Prevention]] (CDC) in [[Atlanta]], [[United States|U.S.
+what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> fictional setting fictional characters born here --> [u'Nico Harris']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> hud county place county --> [u'Fulton County']	40	|owner               = [[Atlanta|City of Atlanta]] and<br>[[Fulton County, Georgia|Fulton County]]
+what is the capital of australia victoria state?	31815	atlanta --> topic official website --> [u'http://www.atlantaga.gov/']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> webpage description --> [u'Visitor Information']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> sports team roster player --> [u'Joe Horn']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> bibs location is clear --> [u'0']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> government position held office holder --> [u'Andrew Young', u'Kasim Reed', u'Shirley Franklin', u'Maynard Jackson', u'Roy LeCraw']	16	[[Andrew Young]], a former [[Atlanta]] mayor, resigned from his public relations post on August 17, 2006 with [[Wal-Mart]] after he was quoted in the ''Sentinel'' for saying that urban communities should welcome in Wal-Mart, since the retailer could push out [[mom-and-pop]] shops that had allegedly been overcharging poor people.
+what is the capital of australia victoria state?	31815	atlanta --> support supporter --> [u'Deion Sanders']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> geocode datum --> [u'NAD83']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> organization scope organizations with this scope --> [u'Dillinger Media']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> sports team roster position --> [u'Wide receiver']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated float date --> [u'2008']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> geocode longitude --> [u'-84.3881']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> sports team roster from --> [u'2007']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> organization relationship as of date --> [u'2007', u'2008', u'2009']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated float number --> [u'0']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> travel destination monthly climate average min temp c --> [u'0', u'1', u'2', u'6', u'10']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> football historical roster position from --> [u'2007']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> football historical roster position from --> [u'2007']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> administrative division capital relationship administrative division --> [u'Georgia', u'Fulton County']	1027	In 1996 in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], in the [[United States|U.S.
+what is the capital of australia victoria state?	31815	atlanta --> adjoining relationship adjoins --> [u'Duluth']	8	Zone, this time in [[Duluth, Georgia]], a suburb of [[Atlanta]], at the [[Arena at Gwinnett Center|Gwinnett Center]] on October 14, 2007.
+what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> newspaper circulation area newspapers --> [u'The Signal', u'The Great Speckled Bird', u'The Atlanta Journal-Constitution', u'The Emory Wheel', u'Urdu Times']	2	From 1902 to 1907 he served on the editorial board of the ''[[Atlanta]] [[The Atlanta Journal-Constitution|Journal]]'' where he wrote many editorials during the heated election between his publisher [[Hoke Smith]] and future [[Pulitzer Prize]] winner, [[Clark Howell]] (Smith was the victor).
+what is the capital of australia victoria state?	31815	atlanta --> top architectural city structure count --> [u'27']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> bibs location country --> [u'United States of America']	285	| [[Atlanta]], [[United States|U.S.]]
+what is the capital of australia victoria state?	31815	atlanta --> football historical roster position player --> [u'Joe Horn']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> webpage uri --> [u'http://www.atlantaga.gov/', u'http://wikitravel.org/en/Atlanta']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dog city relationship dog breed --> [u'Dachshund', u'German Shepherd Dog', u'Yorkshire Terrier', u'Boxer', u'Shih Tzu']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> sports team location teams --> [u'Atlanta Braves', u'Atlanta Falcons', u'Atlanta Hawks', u'Atlanta Thrashers', u'Georgia Tech Yellow Jackets football']	65	The [[St. Louis Hawks]] relocated to [[Atlanta]] and became the [[Atlanta Hawks]] prior to the start of the season.
+what is the capital of australia victoria state?	31815	atlanta --> football historical roster position position s --> [u'Wide receiver']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> location nearby airports --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'Atlanta Regional Airport', u'Cobb County Airport', u'Fulton County Airport', u'DeKalb-Peachtree Airport']	2	*[[Fulton County Airport (Georgia)|Fulton County Airport]]  is a local Class D [[airport]] located just west of [[Atlanta]], and run by [[Fulton County, Georgia|Fulton County]] of the [[U.S. state]] of [[Georgia (U.S. state)|Georgia]].
+what is the capital of australia victoria state?	31815	atlanta --> place of interment interred here --> [u'Alfred Iverson, Jr.', u'Ralph Abernathy']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> transportation transport operator --> [u'Amtrak', u'Greyhound Lines']	8	Greenville has an [[Greenville (Amtrak station)|Amtrak station]], which is part of [[Amtrak]]'s [[Crescent (Amtrak)|''Crescent'']], connecting Greenville with the cities of New York, [[Philadelphia]], [[Baltimore]], [[Washington, D.C.|Washington]], [[Charlotte, North Carolina|Charlotte]], [[Atlanta]], [[Birmingham, Alabama|Birmingham]] and [[New Orleans]].
+what is the capital of australia victoria state?	31815	atlanta --> travel destination monthly climate average max temp c --> [u'10', u'12', u'17', u'18', u'23']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> location events --> [u'1996 Summer Olympics', u'2009  Easter Crash on Camp Creek Parkway', u"1984 NCAA Men's Division I Basketball Tournament", u"Ohio State-Kentucky 1987 NCAA Men's Division I Basketball Tournament Game", u"Georgetown-Ohio State 1987 NCAA Men's Division I Basketball Tournament Game"]	569	At the [[1996 Summer Olympics]] in [[Atlanta]] he won Gold in the individual and Bronze in the Team event.
+what is the capital of australia victoria state?	31815	atlanta --> football historical roster position player --> [u'Joe Horn']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> base equivalent location base --> [u'Atlanta']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> federal reserve bank federal reserve region --> [u'Atlanta']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> government position held to --> [u'1942', u'1982', u'1990', u'2002', u'1887']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> webpage category --> [u'Topic Webpage', u'Official Website']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> government position held basic title --> [u'Mayor']	2	* [[William Berry Hartsfield]], [[Mayor]] of [[Atlanta]]
+what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'15575']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> hud county place place --> [u'Atlanta']	6322	| rowspan="2"| [[Atlanta]] (United States)
+what is the capital of australia victoria state?	31815	atlanta --> location contains --> [u'Oglethorpe University', u'Georgia Institute of Technology College of Engineering', u'Morris Brown College', u'Emory University', u'Georgia Institute of Technology']	116	'''Candler School of Theology''' at [[Emory University]] is located in the metropolitan [[Atlanta]] area in western [[unincorporated area|unincorporated]] [[DeKalb County, Georgia]], United States.
+what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'168341']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> governmental jurisdiction government bodies --> [u'Atlanta City Council']	1	Other whites in nearby counties, as well as State Representative [[Billy McKinney (politician)|Billy McKinney]] of [[Atlanta]] and [[Hosea Williams]], who was on the [[Atlanta City Council]], took up the march plans instead.
+what is the capital of australia victoria state?	31815	atlanta --> sports team roster position --> [u'Wide receiver']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> bibs location state --> [u'Georgia']	993	In 1996 in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], in the [[United States|U.S.
+what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'118507']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> topic topical webpage --> [u'http://wikitravel.org/en/Atlanta']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated float date --> [u'2008']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> sports team roster player --> [u'Joe Horn']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated location date founded --> [u'1837']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> federal reserve bank number --> [u'6']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'207929']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> book subject works --> [u'A Man in Full']	1	*[[Tom Wolfe]], who earned a Ph.D. in [[American Studies]] from Yale, named the African-American [[Atlanta]] police chief in ''[[A Man in Full]]'' Elihu Yale.
+what is the capital of australia victoria state?	31815	atlanta --> travel destination tourist attractions --> [u'Zoo Atlanta', u'Margaret Mitchell House & Museum', u'Georgia Dome', u'Atlanta History Center', u'Atlanta Symphony Orchestra']	116	|[[Georgia Dome]]<br [[Atlanta]], [[United States]]
+what is the capital of australia victoria state?	31815	atlanta --> dated float number --> [u'0.0667']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> topic alias --> [u'Atlanta, GA', u'Hotlanta', u'Atlanta, Georgia', u'Fulton County / Atlanta city']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> location area --> [u'342.914425808']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> football historical roster position position s --> [u'Wide receiver']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> citytown postal codes --> [u'30366', u'30326', u'30328', u'30337', u'30355']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> governmental jurisdiction agencies --> [u'Atlanta Police Department']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> transportation transport terminus --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'232 Forsyth St.', u'Peachtree Station']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> location time zones --> [u'Eastern Time Zone']	5	Sunday, October 10, 2010 – 4:37&nbsp;p.m. ([[Eastern Time Zone|ET]]) at [[Turner Field]] in [[Atlanta|Atlanta, Georgia]]<br>
+what is the capital of australia victoria state?	31815	atlanta --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> film location featured in films --> [u'Zombieland', u'Boycott', u'Get Low', u'Hillbilly Highway', u'Halloween II']	1	Rounding out the cast is [[Russ Russo]], a remarkable actor out of [[New York City]] and now [[Los Angeles]] with several films and television series under his belt, was chosen to play the role of Wes, Ronnie Patel, a newcomer out of [[Alabama]] who's new to the entertainment industry, is making his feature film debut as Eli, and Darian O'Rear, a young eight-year-old actress out of [[Atlanta]] whose credits include ''[[Zombieland]]'' starring [[Woody Harrelson]], plays the role of Mary Ann.
+what is the capital of australia victoria state?	31815	atlanta --> webpage resource --> [u'Katt Williams arrested for burglary', u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 4: TV Recap', u"'American Idol' auditions under way", u"'American Idol' in Chicago: Shania Twain impressed us much!", u'Snap Judgment: Jericho']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> place with neighborhoods neighborhoods --> [u'Sweet Auburn', u'Cascade Heights', u'Atlantic Station', u'East Lake, Atlanta', u'Little Five Points']	8	 the [[Atlantic Station]] project in [[Atlanta]], was the largest brownfield redevelopment in the United States.
+what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'393314', u'394175', u'395436', u'398481', u'400620']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> geocode latitude --> [u'33.7489']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> government position held from --> [u'1941', u'1974', u'1982', u'1994', u'1885']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> dated integer number --> [u'6602']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> object name --> [u'Atlanta']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> topic image --> [u'City skyline from Buckhead', u'Montage Atlanta']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> olympic host city olympics hosted --> [u'1996 Summer Olympics']	569	At the [[1996 Summer Olympics]] in [[Atlanta]] he won Gold in the individual and Bronze in the Team event.
+what is the capital of australia victoria state?	31815	atlanta --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+what is the capital of australia victoria state?	31815	atlanta --> governmental jurisdiction government positions --> [u'Mayor of Atlanta']	0	EMPTY

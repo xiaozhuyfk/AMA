@@ -1,19 +1,19 @@
-where does delaware river start?	182	delaware river --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where does delaware river start?	182	delaware river --> webpage resource --> [u'Frank McCourt: Regular guy, extraordinary artist']	0
-where does delaware river start?	182	delaware river --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjYdJwpEbGdrcN5Y29ycA']	0
-where does delaware river start?	182	delaware river --> river cities --> [u'Port Jervis']	17
-where does delaware river start?	182	delaware river --> river discharge --> [u'371']	0
-where does delaware river start?	182	delaware river --> river origin --> [u'Mount Jefferson', u'West Branch Delaware River']	8
-where does delaware river start?	182	delaware river --> location events --> [u'Battle of Delaware Bay']	0
-where does delaware river start?	182	delaware river --> river length --> [u'484.41254']	0
-where does delaware river start?	182	delaware river --> location contains --> [u'Marcus Hook Range Front Light', u'Liston Range Front Light', u'Society Hill', u'Cherry Island Range Rear Light', u'Liston Range Rear Light']	0
-where does delaware river start?	182	delaware river --> location people born here --> [u'Netawatwees']	0
-where does delaware river start?	182	delaware river --> geocode elevation --> [u'683']	0
-where does delaware river start?	182	delaware river --> object name --> [u'Delaware River']	0
-where does delaware river start?	182	delaware river --> topic image --> [u'Delaware River DWG USA']	0
-where does delaware river start?	182	delaware river --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where does delaware river start?	182	delaware river --> location containedby --> [u'New Jersey']	119
-where does delaware river start?	182	delaware river --> location time zones --> [u'UTC-5', u'UTC\u221204:00']	0
-where does delaware river start?	182	delaware river --> river basin area --> [u'36568.04']	0
-where does delaware river start?	182	delaware river --> river mouth --> [u'Delaware Bay']	38
-where does delaware river start?	182	delaware river --> body of water bridges --> [u"Darlington's Bridge at Delaware Station", u'Riverton\u2013Belvidere Bridge', u'Barryville\u2013Shohola Bridge', u'Little Equinunk Bridge', u'Skinners Falls\u2013Milanville Bridge']	0
+where does delaware river start?	182	delaware river --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where does delaware river start?	182	delaware river --> webpage resource --> [u'Frank McCourt: Regular guy, extraordinary artist']	0	EMPTY
+where does delaware river start?	182	delaware river --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjYdJwpEbGdrcN5Y29ycA']	0	EMPTY
+where does delaware river start?	182	delaware river --> river cities --> [u'Port Jervis']	17	This is a '''list of all the crossings of the [[Neversink River]]''' from its mouth, the [[Delaware River]] at [[Port Jervis, New York|Port Jervis]], [[New York (state)|New York]], to its source, the [[confluence]] of its east and west branches near the hamlet of [[Claryville, New York|Claryville]]
+where does delaware river start?	182	delaware river --> river discharge --> [u'371']	0	EMPTY
+where does delaware river start?	182	delaware river --> river origin --> [u'Mount Jefferson', u'West Branch Delaware River']	8	Not far to the east of the NY&nbsp;10 junction, it crosses the [[West Branch Delaware River|West Branch]] of the [[Delaware River]], by this point a small brook as the river's [[Source (river or stream)|source]] is located just  to the north.
+where does delaware river start?	182	delaware river --> location events --> [u'Battle of Delaware Bay']	0	EMPTY
+where does delaware river start?	182	delaware river --> river length --> [u'484.41254']	0	EMPTY
+where does delaware river start?	182	delaware river --> location contains --> [u'Marcus Hook Range Front Light', u'Liston Range Front Light', u'Society Hill', u'Cherry Island Range Rear Light', u'Liston Range Rear Light']	0	EMPTY
+where does delaware river start?	182	delaware river --> location people born here --> [u'Netawatwees']	0	EMPTY
+where does delaware river start?	182	delaware river --> geocode elevation --> [u'683']	0	EMPTY
+where does delaware river start?	182	delaware river --> object name --> [u'Delaware River']	0	EMPTY
+where does delaware river start?	182	delaware river --> topic image --> [u'Delaware River DWG USA']	0	EMPTY
+where does delaware river start?	182	delaware river --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where does delaware river start?	182	delaware river --> location containedby --> [u'New Jersey']	119	Delaware County is roughly diamond- or kite-shaped, with the four sides formed by the [[Chester County, Pennsylvania|Chester County]] boundary to the northwest, the boundary with the state of [[Delaware]] (a portion of the "[[Twelve Mile Circle]]") to the southwest, the [[Delaware River]] (forming the border with the state of [[New Jersey]] to the southeast, and the city of [[Philadelphia]] and [[Montgomery County, Pennsylvania|Montgomery County]] to the east and northeast.
+where does delaware river start?	182	delaware river --> location time zones --> [u'UTC-5', u'UTC\u221204:00']	0	EMPTY
+where does delaware river start?	182	delaware river --> river basin area --> [u'36568.04']	0	EMPTY
+where does delaware river start?	182	delaware river --> river mouth --> [u'Delaware Bay']	38	* [[Delaware Bay]], an extension of the [[Delaware River]] in New Jersey and Delaware, United States
+where does delaware river start?	182	delaware river --> body of water bridges --> [u"Darlington's Bridge at Delaware Station", u'Riverton\u2013Belvidere Bridge', u'Barryville\u2013Shohola Bridge', u'Little Equinunk Bridge', u'Skinners Falls\u2013Milanville Bridge']	0	EMPTY

@@ -1,8 +1,8 @@
-who plays kenneth?	93	kenneth parcell --> fictional character occupation --> [u'Unemployment', u'Janitor']	0
-who plays kenneth?	93	kenneth parcell --> regular tv appearance series --> [u'30 Rock']	9
-who plays kenneth?	93	kenneth parcell --> regular tv appearance from --> [u'2006']	0
-who plays kenneth?	93	kenneth parcell --> regular tv appearance seasons --> [u'30 Rock - Season 5', u'30 Rock - Season 3', u'30 Rock - Season 1', u'30 Rock - Season 2', u'30 Rock - Season 4']	0
-who plays kenneth?	93	kenneth parcell --> fictional character character created by --> [u'Tina Fey']	13
-who plays kenneth?	93	kenneth parcell --> object name --> [u'Kenneth Parcell']	0
-who plays kenneth?	93	kenneth parcell --> regular tv appearance actor --> [u'Jack McBrayer']	71
-who plays kenneth?	93	kenneth parcell --> fictional character gender --> [u'Male']	0
+who plays kenneth?	93	kenneth parcell --> fictional character occupation --> [u'Unemployment', u'Janitor']	0	EMPTY
+who plays kenneth?	93	kenneth parcell --> regular tv appearance series --> [u'30 Rock']	9	*[[Kenneth Parcell]], fictional character (in the television series ''[[30 Rock]]'') hails from Stone Mountain and frequently refers to it; [[Jack McBrayer|the actor]] is actually from nearby [[Conyers, Georgia|Conyers]]
+who plays kenneth?	93	kenneth parcell --> regular tv appearance from --> [u'2006']	0	EMPTY
+who plays kenneth?	93	kenneth parcell --> regular tv appearance seasons --> [u'30 Rock - Season 5', u'30 Rock - Season 3', u'30 Rock - Season 1', u'30 Rock - Season 2', u'30 Rock - Season 4']	0	EMPTY
+who plays kenneth?	93	kenneth parcell --> fictional character character created by --> [u'Tina Fey']	13	Before long, [[Jack Donaghy]] ([[Alec Baldwin]]) must fire several employees to save money, [[NBC page]] [[Kenneth Parcell]] ([[Jack McBrayer]]) takes on new responsibilities, and [[Liz Lemon]] ([[Tina Fey]]) wheels and deals to spare her staffers from layoffs.
+who plays kenneth?	93	kenneth parcell --> object name --> [u'Kenneth Parcell']	0	EMPTY
+who plays kenneth?	93	kenneth parcell --> regular tv appearance actor --> [u'Jack McBrayer']	71	At the 30 Rock studios, [[NBC page]] [[Kenneth Parcell]] ([[Jack McBrayer]]) is shocked when he discovers a group of editors putting together an [[obituary]] for actor [[Tracy Jordan]] ([[Tracy Morgan]]).
+who plays kenneth?	93	kenneth parcell --> fictional character gender --> [u'Male']	0	EMPTY

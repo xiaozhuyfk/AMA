@@ -1,22 +1,22 @@
-who is jimmy savile?	17	jimmy savile --> person date of birth --> [u'1926-10-31']	0
-who is jimmy savile?	17	jimmy savile --> person profession --> [u'Presenter', u'Disc jockey']	0
-who is jimmy savile?	17	jimmy savile --> topic alias --> [u'Jimmy Saville', u'James Wilson Vincent Savile', u'Savile, Jimmy']	0
-who is jimmy savile?	17	jimmy savile --> person gender --> [u'Male']	0
-who is jimmy savile?	17	jimmy savile --> person nationality --> [u'England', u'United Kingdom']	1
-who is jimmy savile?	17	jimmy savile --> tv program creator programs created --> [u"Jim'll Fix It"]	7
-who is jimmy savile?	17	jimmy savile --> deceased person place of death --> [u'Roundhay']	0
-who is jimmy savile?	17	jimmy savile --> deceased person date of death --> [u'2011-10-29']	0
-who is jimmy savile?	17	jimmy savile --> webpage category --> [u'Curated Topic']	0
-who is jimmy savile?	17	jimmy savile --> person religion --> [u'Catholicism']	0
-who is jimmy savile?	17	jimmy savile --> regular tv appearance special performance type --> [u'Him/Herself']	0
-who is jimmy savile?	17	jimmy savile --> webpage resource --> [u"Who Else Remembers This?: 'Pop Gear'"]	0
-who is jimmy savile?	17	jimmy savile --> person place of birth --> [u'Leeds']	1
-who is jimmy savile?	17	jimmy savile --> webpage in index --> [u'Entertainment Weekly annotation index', u'Blissful Celebrities', u'Blissful Master Index']	0
-who is jimmy savile?	17	jimmy savile --> artist track --> [u'Auto']	0
-who is jimmy savile?	17	jimmy savile --> person parents --> [u'Agnes Monica Savile', u'Vincent Joseph Marie Savile']	0
-who is jimmy savile?	17	jimmy savile --> place lived location --> [u'Leeds']	1
-who is jimmy savile?	17	jimmy savile --> tv guest role episodes appeared in --> [u'Season 10, Episode 37', u'Episode 233', u'Episode 79', u'30th July 2006', u'Jimmy Saville']	0
-who is jimmy savile?	17	jimmy savile --> object name --> [u'Jimmy Savile']	0
-who is jimmy savile?	17	jimmy savile --> topic image --> [u'Jimmy Savile PICT6249a']	0
-who is jimmy savile?	17	jimmy savile --> regular tv appearance series --> [u"Jim'll Fix It Strikes Again", u"Jim'll Fix It", u'Celebrity Big Brother']	7
-who is jimmy savile?	17	jimmy savile --> person height meters --> [u'1.74']	0
+who is jimmy savile?	17	jimmy savile --> person date of birth --> [u'1926-10-31']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> person profession --> [u'Presenter', u'Disc jockey']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> topic alias --> [u'Jimmy Saville', u'James Wilson Vincent Savile', u'Savile, Jimmy']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> person gender --> [u'Male']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> person nationality --> [u'England', u'United Kingdom']	1	In January 1965, Them toured [[England]] for a second time, staying at the Royal Hotel, which [[disc jockey]] [[Jimmy Savile]] used as his [[London]] base.
+who is jimmy savile?	17	jimmy savile --> tv program creator programs created --> [u"Jim'll Fix It"]	7	** ''[[Jim'll Fix It]]'', presented by [[Jimmy Savile]], is first shown on [[BBC1]] television.
+who is jimmy savile?	17	jimmy savile --> deceased person place of death --> [u'Roundhay']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> deceased person date of death --> [u'2011-10-29']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> webpage category --> [u'Curated Topic']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> person religion --> [u'Catholicism']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> regular tv appearance special performance type --> [u'Him/Herself']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> webpage resource --> [u"Who Else Remembers This?: 'Pop Gear'"]	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> person place of birth --> [u'Leeds']	1	In December 2011, Belfield made his debut on [[BBC Radio 2]] with Sir [[Jimmy Savile]]'s "last in-depth interview", recorded at Savile's home in [[Leeds]].
+who is jimmy savile?	17	jimmy savile --> webpage in index --> [u'Entertainment Weekly annotation index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> artist track --> [u'Auto']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> person parents --> [u'Agnes Monica Savile', u'Vincent Joseph Marie Savile']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> place lived location --> [u'Leeds']	1	In December 2011, Belfield made his debut on [[BBC Radio 2]] with Sir [[Jimmy Savile]]'s "last in-depth interview", recorded at Savile's home in [[Leeds]].
+who is jimmy savile?	17	jimmy savile --> tv guest role episodes appeared in --> [u'Season 10, Episode 37', u'Episode 233', u'Episode 79', u'30th July 2006', u'Jimmy Saville']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> object name --> [u'Jimmy Savile']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> topic image --> [u'Jimmy Savile PICT6249a']	0	EMPTY
+who is jimmy savile?	17	jimmy savile --> regular tv appearance series --> [u"Jim'll Fix It Strikes Again", u"Jim'll Fix It", u'Celebrity Big Brother']	7	** ''[[Jim'll Fix It]]'', presented by [[Jimmy Savile]], is first shown on [[BBC1]] television.
+who is jimmy savile?	17	jimmy savile --> person height meters --> [u'1.74']	0	EMPTY

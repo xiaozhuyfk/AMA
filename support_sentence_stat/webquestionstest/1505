@@ -1,38 +1,38 @@
-when did charles goodyear invented rubber?	14	charles goodyear --> person date of birth --> [u'1800-12-29']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic has sentences --> [u'He first went to England, where articles made under his patents had been displayed at  the International Exhibition of 1851, and where he unsuccessfully attempted  to establish two factories.', u"Goodyear returned to New Haven in 1858, reputedly pawning his wife's jewelry  in order to pay for the passage home.", u'He was  finally granted his first patent on 15 June 1844 (U.S. patent number 3633),  and profits from manufactured goods and licence fees at last allowed him to pay his creditors.', u'Earlier, on 16 April 1844, Goodyear had also been granted  a French patent for vulcanization, but unfortunately was soon afterwards  deprived of all rights under this patent because it was discovered that he  had sent several American-made rubber shoes to France before taking out his  French patent.', u"Meanwhile, having read of and experimented with Goodyear's  process, in November 1843 Thomas Hancock was granted an English patent for vulcanization, depriving Goodyear of all profits from the English manufacture of rubber."]	0
-when did charles goodyear invented rubber?	14	charles goodyear --> person profession --> [u'Inventor', u'Engineer']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic disciplines --> [u'industrial materials']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> person gender --> [u'Male']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> person nationality --> [u'United States of America']	2
-when did charles goodyear invented rubber?	14	charles goodyear --> deceased person date of death --> [u'1860-07-01']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> deceased person place of death --> [u'New York City']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic connections to --> [u'thomas hancock business rival was charles goodyear', u'william henry perkin influenced charles goodyear', u'charles macintosh process improved by charles goodyear']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> deceased person place of burial --> [u'Grove Street Cemetery']	1
-when did charles goodyear invented rubber?	14	charles goodyear --> innovator original ideas --> [u'Improvement in the Art of Preparing Caoutchouc']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> topic image --> [u'Charles Goodyear, as illustrated in an 1891 Scientific American article']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> inventor us patents --> [u'3633']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> person place of birth --> [u'New Haven']	1
-when did charles goodyear invented rubber?	14	charles goodyear --> person children --> [u'Charles Goodyear, Jr.', u'William Henry Goodyear']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic category --> [u'unknown']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic kwtype --> [u'Person']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> name source namesakes --> [u'Goodyear Tire and Rubber Company']	1
-when did charles goodyear invented rubber?	14	charles goodyear --> place lived location --> [u'New York City', u'New Haven']	1
-when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic connections from --> [u'charles goodyear honored by napoleon iii', u'charles goodyear work related to william henry perkin', u'charles goodyear work related to charles macintosh', u'charles goodyear work related to thomas hancock']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> sibling relationship sibling --> [u'Nelson Goodyear']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> object name --> [u'Charles Goodyear']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> inventor inventions --> [u'Vulcanization', u'Improvement in the Art of Preparing Caoutchouc']	8
-when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic assessment --> [u'A gifted American inventor, whose passion for experiments with rubber in the 1840s led to his invention of vulcanised rubber in 1844.']	0
-when did charles goodyear invented rubber?	14	charles goodyear --> book subject works --> [u'Noble Obsession: Charles Goodyear, Thomas Hancock, and the Race to Unlock the Greatest Industrial Secret of the 19th Century']	0
-when did charles goodyear invented rubber?	14	natural rubber --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when did charles goodyear invented rubber?	14	natural rubber --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when did charles goodyear invented rubber?	14	natural rubber --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVii3ZwpEbGdrcN5Y29ycA']	0
-when did charles goodyear invented rubber?	14	natural rubber --> taxonomy entry low --> [u'1870']	0
-when did charles goodyear invented rubber?	14	natural rubber --> research topic research location s --> [u'USDA Western Regional Research Center']	0
-when did charles goodyear invented rubber?	14	natural rubber --> topic image --> [u'The government replanted hundreds of thousands of rubber trees to increase rubber yields.', u'Latex - Hevea - Cameroun']	0
-when did charles goodyear invented rubber?	14	natural rubber --> object name --> [u'Natural rubber']	0
-when did charles goodyear invented rubber?	14	natural rubber --> taxonomy entry high --> [u'1935']	0
-when did charles goodyear invented rubber?	14	natural rubber --> visual art medium artworks --> [u'Mamelles', u'Embryologic House [flat model]', u'Shattered']	0
-when did charles goodyear invented rubber?	14	natural rubber --> taxonomy entry prefix --> [u'TS']	0
-when did charles goodyear invented rubber?	14	natural rubber --> book subject works --> [u'The Thief at the End of the World: Rubber, Power, and the Seeds of Empire', u'Noble Obsession: Charles Goodyear, Thomas Hancock, and the Race to Unlock the Greatest Industrial Secret of the 19th Century']	0
-when did charles goodyear invented rubber?	14	synthetic rubber --> object name --> [u'Synthetic rubber']	0
-when did charles goodyear invented rubber?	14	synthetic rubber --> topic image --> [u'Sheet of synthetic rubber coming off the rolling mill at the plant of Goodrich', u'ButadijenPolimeryzatsija']	0
+when did charles goodyear invented rubber?	14	charles goodyear --> person date of birth --> [u'1800-12-29']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic has sentences --> [u'He first went to England, where articles made under his patents had been displayed at  the International Exhibition of 1851, and where he unsuccessfully attempted  to establish two factories.', u"Goodyear returned to New Haven in 1858, reputedly pawning his wife's jewelry  in order to pay for the passage home.", u'He was  finally granted his first patent on 15 June 1844 (U.S. patent number 3633),  and profits from manufactured goods and licence fees at last allowed him to pay his creditors.', u'Earlier, on 16 April 1844, Goodyear had also been granted  a French patent for vulcanization, but unfortunately was soon afterwards  deprived of all rights under this patent because it was discovered that he  had sent several American-made rubber shoes to France before taking out his  French patent.', u"Meanwhile, having read of and experimented with Goodyear's  process, in November 1843 Thomas Hancock was granted an English patent for vulcanization, depriving Goodyear of all profits from the English manufacture of rubber."]	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> person profession --> [u'Inventor', u'Engineer']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic disciplines --> [u'industrial materials']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> person gender --> [u'Male']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> person nationality --> [u'United States of America']	2	Similar rubber-soled shoes were made in 1892 in the [[United States]] by Humphrey O'Sullivan, based on [[Charles Goodyear]]'s technology.
+when did charles goodyear invented rubber?	14	charles goodyear --> deceased person date of death --> [u'1860-07-01']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> deceased person place of death --> [u'New York City']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic connections to --> [u'thomas hancock business rival was charles goodyear', u'william henry perkin influenced charles goodyear', u'charles macintosh process improved by charles goodyear']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> deceased person place of burial --> [u'Grove Street Cemetery']	1	[[Grove Street Cemetery]], a National Historic Landmark which lies adjacent to Yale's campus, contains the graves of [[Roger Sherman]], [[Eli Whitney]], [[Noah Webster]], [[Josiah Willard Gibbs]], [[Charles Goodyear]] and [[Walter Camp]], among other notable burials.
+when did charles goodyear invented rubber?	14	charles goodyear --> innovator original ideas --> [u'Improvement in the Art of Preparing Caoutchouc']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> topic image --> [u'Charles Goodyear, as illustrated in an 1891 Scientific American article']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> inventor us patents --> [u'3633']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> person place of birth --> [u'New Haven']	1	*[[Charles Goodyear]] ([[New Haven, Connecticut|New Haven]])
+when did charles goodyear invented rubber?	14	charles goodyear --> person children --> [u'Charles Goodyear, Jr.', u'William Henry Goodyear']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic category --> [u'unknown']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic kwtype --> [u'Person']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> name source namesakes --> [u'Goodyear Tire and Rubber Company']	1	* [[Goodyear Tire and Rubber Company]] – [[Charles Goodyear]]
+when did charles goodyear invented rubber?	14	charles goodyear --> place lived location --> [u'New York City', u'New Haven']	1	*[[Charles Goodyear]] ([[New Haven, Connecticut|New Haven]])
+when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic connections from --> [u'charles goodyear honored by napoleon iii', u'charles goodyear work related to william henry perkin', u'charles goodyear work related to charles macintosh', u'charles goodyear work related to thomas hancock']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> sibling relationship sibling --> [u'Nelson Goodyear']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> object name --> [u'Charles Goodyear']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> inventor inventions --> [u'Vulcanization', u'Improvement in the Art of Preparing Caoutchouc']	8	This followed the invention and 1844 patent, by Connecticut native [[Charles Goodyear]], of a chemical process called [[Vulcanization]] to convert natural rubber into a durable, flexible, waterproof material.
+when did charles goodyear invented rubber?	14	charles goodyear --> kwtopic assessment --> [u'A gifted American inventor, whose passion for experiments with rubber in the 1840s led to his invention of vulcanised rubber in 1844.']	0	EMPTY
+when did charles goodyear invented rubber?	14	charles goodyear --> book subject works --> [u'Noble Obsession: Charles Goodyear, Thomas Hancock, and the Race to Unlock the Greatest Industrial Secret of the 19th Century']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVii3ZwpEbGdrcN5Y29ycA']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> taxonomy entry low --> [u'1870']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> research topic research location s --> [u'USDA Western Regional Research Center']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> topic image --> [u'The government replanted hundreds of thousands of rubber trees to increase rubber yields.', u'Latex - Hevea - Cameroun']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> object name --> [u'Natural rubber']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> taxonomy entry high --> [u'1935']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> visual art medium artworks --> [u'Mamelles', u'Embryologic House [flat model]', u'Shattered']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> taxonomy entry prefix --> [u'TS']	0	EMPTY
+when did charles goodyear invented rubber?	14	natural rubber --> book subject works --> [u'The Thief at the End of the World: Rubber, Power, and the Seeds of Empire', u'Noble Obsession: Charles Goodyear, Thomas Hancock, and the Race to Unlock the Greatest Industrial Secret of the 19th Century']	0	EMPTY
+when did charles goodyear invented rubber?	14	synthetic rubber --> object name --> [u'Synthetic rubber']	0	EMPTY
+when did charles goodyear invented rubber?	14	synthetic rubber --> topic image --> [u'Sheet of synthetic rubber coming off the rolling mill at the plant of Goodrich', u'ButadijenPolimeryzatsija']	0	EMPTY

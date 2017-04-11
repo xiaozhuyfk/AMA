@@ -1,35 +1,35 @@
-what artistic style did henri rousseau work in?	25	henri rousseau --> visual artist associated periods or movements --> [u'Post-Impressionism', u'Na\xefve art']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> person date of birth --> [u'1844-05-21']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> deceased person place of death --> [u'Paris']	2
-what artistic style did henri rousseau work in?	25	henri rousseau --> visual artist artworks --> [u'Mauvaise surprise', u'Self-Portrait', u'Dahlia and Daisies in a Vase', u'The Sleeping Gypsy', u'The Muse Inspires the Poet']	4
-what artistic style did henri rousseau work in?	25	henri rousseau --> art subject artwork on the subject --> [u'Self-Portrait', u'Self-Portrait of the Artist with a Lamp']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> person place of birth --> [u'Laval']	1
-what artistic style did henri rousseau work in?	25	henri rousseau --> place lived location --> [u'Laval']	1
-what artistic style did henri rousseau work in?	25	henri rousseau --> topic alias --> [u'Henri Julien F\xe9lix Rousseau']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> person profession --> [u'Artist']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> person gender --> [u'Male']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> deceased person place of burial --> [u'Cimeti\xe8re parisien de Bagneux']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> object name --> [u'Henri Rousseau']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> topic image --> [u"Henri Rousseau's Self Portrait (1890)", u'Henri Rousseau - Self-portrait of the Artist with a Lamp']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> visual artist art forms --> [u'Painting']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> person nationality --> [u'France']	1
-what artistic style did henri rousseau work in?	25	henri rousseau --> author works written --> [u'Rousseau']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> deceased person date of death --> [u'1910-09-02']	0
-what artistic style did henri rousseau work in?	25	henri rousseau --> influence node influenced --> [u'Pablo Picasso', u'Max Beckmann', u'Dav Pilkey', u'Fernand L\xe9ger', u'Jean Hugo']	16
-what artistic style did henri rousseau work in?	25	henri rousseau --> book subject works --> [u'Henri Rousseau', u'Henri Rousseau']	0
-what artistic style did henri rousseau work in?	25	style --> webpage resource --> [u"Movie trailers: giving 'em the old razzle-dazzle"]	0
-what artistic style did henri rousseau work in?	25	style --> topic alias --> [u'Painting style']	0
-what artistic style did henri rousseau work in?	25	style --> object name --> [u'Style']	0
-what artistic style did henri rousseau work in?	25	style --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album artist --> [u'Miles Davis', u'Miles Davis Quintet']	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album album content type --> [u'Studio album']	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album releases --> [u"Workin' With the Miles Davis Quintet", u"Workin' With the Miles Davis Quintet", u"Workin' With the Miles Davis Quintet", u"Workin'", u"Workin' With the Miles Davis Quintet"]	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album primary release --> [u"Workin' With the Miles Davis Quintet"]	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> topic alias --> [u"Workin'"]	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> jazz album front man --> [u'Miles Davis']	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> recording contribution contributor --> [u'John Coltrane']	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> object name --> [u"Workin' With the Miles Davis Quintet"]	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album release date --> [u'1959-09']	0
-what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album genre --> [u'Jazz']	0
-what artistic style did henri rousseau work in?	25	work-in --> object name --> [u'Work-in']	0
-what artistic style did henri rousseau work in?	25	work --> object name --> [u'Work']	0
+what artistic style did henri rousseau work in?	25	henri rousseau --> visual artist associated periods or movements --> [u'Post-Impressionism', u'Na\xefve art']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> person date of birth --> [u'1844-05-21']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> deceased person place of death --> [u'Paris']	2	* [[Henri Rousseau]] gives up his job as a [[Paris]] toll collector and moves to a studio in [[Montparnasse]] where he lives and paints full-time.
+what artistic style did henri rousseau work in?	25	henri rousseau --> visual artist artworks --> [u'Mauvaise surprise', u'Self-Portrait', u'Dahlia and Daisies in a Vase', u'The Sleeping Gypsy', u'The Muse Inspires the Poet']	4	# [[Henri Rousseau]]: ''[[The Sleeping Gypsy]]'' (1897)
+what artistic style did henri rousseau work in?	25	henri rousseau --> art subject artwork on the subject --> [u'Self-Portrait', u'Self-Portrait of the Artist with a Lamp']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> person place of birth --> [u'Laval']	1	His works are in the [[Henri Rousseau]] Museum in [[Laval, Mayenne|Laval]], Museum of Contemporary Religious Art in [[Vatican City|The Vatican]], Metropolitan Museum in [[Manila]], Art Museum in [[Sao Paulo]], Croatian Museum of Naive Art in [[Zagreb]] and elsewhere around the world.
+what artistic style did henri rousseau work in?	25	henri rousseau --> place lived location --> [u'Laval']	1	His works are in the [[Henri Rousseau]] Museum in [[Laval, Mayenne|Laval]], Museum of Contemporary Religious Art in [[Vatican City|The Vatican]], Metropolitan Museum in [[Manila]], Art Museum in [[Sao Paulo]], Croatian Museum of Naive Art in [[Zagreb]] and elsewhere around the world.
+what artistic style did henri rousseau work in?	25	henri rousseau --> topic alias --> [u'Henri Julien F\xe9lix Rousseau']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> person profession --> [u'Artist']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> person gender --> [u'Male']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> deceased person place of burial --> [u'Cimeti\xe8re parisien de Bagneux']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> object name --> [u'Henri Rousseau']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> topic image --> [u"Henri Rousseau's Self Portrait (1890)", u'Henri Rousseau - Self-portrait of the Artist with a Lamp']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> visual artist art forms --> [u'Painting']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> person nationality --> [u'France']	1	In Homer's dream, Homer is lying in a similar way to the woman in [[France|French]] [[Naïve art|Naïve]] artist [[Henri Rousseau]]'s painting ''[[The Sleeping Gypsy]]''.
+what artistic style did henri rousseau work in?	25	henri rousseau --> author works written --> [u'Rousseau']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> deceased person date of death --> [u'1910-09-02']	0	EMPTY
+what artistic style did henri rousseau work in?	25	henri rousseau --> influence node influenced --> [u'Pablo Picasso', u'Max Beckmann', u'Dav Pilkey', u'Fernand L\xe9ger', u'Jean Hugo']	16	Artists such as [[Paul Gauguin]], [[Henri Matisse]], [[André Derain]], [[Henri Rousseau]] and [[Pablo Picasso]] were intrigued and inspired by the stark power and stylistic simplicity of those cultures.
+what artistic style did henri rousseau work in?	25	henri rousseau --> book subject works --> [u'Henri Rousseau', u'Henri Rousseau']	0	EMPTY
+what artistic style did henri rousseau work in?	25	style --> webpage resource --> [u"Movie trailers: giving 'em the old razzle-dazzle"]	0	EMPTY
+what artistic style did henri rousseau work in?	25	style --> topic alias --> [u'Painting style']	0	EMPTY
+what artistic style did henri rousseau work in?	25	style --> object name --> [u'Style']	0	EMPTY
+what artistic style did henri rousseau work in?	25	style --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album artist --> [u'Miles Davis', u'Miles Davis Quintet']	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album album content type --> [u'Studio album']	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album releases --> [u"Workin' With the Miles Davis Quintet", u"Workin' With the Miles Davis Quintet", u"Workin' With the Miles Davis Quintet", u"Workin'", u"Workin' With the Miles Davis Quintet"]	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album primary release --> [u"Workin' With the Miles Davis Quintet"]	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> topic alias --> [u"Workin'"]	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> jazz album front man --> [u'Miles Davis']	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> recording contribution contributor --> [u'John Coltrane']	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> object name --> [u"Workin' With the Miles Davis Quintet"]	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album release date --> [u'1959-09']	0	EMPTY
+what artistic style did henri rousseau work in?	25	workin with the miles davis quintet --> album genre --> [u'Jazz']	0	EMPTY
+what artistic style did henri rousseau work in?	25	work-in --> object name --> [u'Work-in']	0	EMPTY
+what artistic style did henri rousseau work in?	25	work --> object name --> [u'Work']	0	EMPTY

@@ -1,56 +1,56 @@
-where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0
-where is south portland?	185	south portland --> webpage in index --> [u'WSJ Speakeasy Index']	0
-where is south portland?	185	south portland --> travel destination tourist attractions --> [u'Willard Beach']	0
-where is south portland?	185	south portland --> dated float number --> [u'0.0373']	0
-where is south portland?	185	south portland --> topic alias --> [u'Cumberland County / South Portland city', u'S Portland', u'South Portland, Maine']	0
-where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0
-where is south portland?	185	south portland --> location area --> [u'36.31']	0
-where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0
-where is south portland?	185	south portland --> travel destination accommodation --> [u'Portland Marriott at Sable Oaks']	0
-where is south portland?	185	south portland --> object name --> [u'South Portland']	0
-where is south portland?	185	south portland --> location people born here --> [u'Robert Crowley', u'Ed McAleney', u'Peter Buck']	0
-where is south portland?	185	south portland --> geocode latitude --> [u'43.6414']	0
-where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where is south portland?	185	south portland --> dated integer year --> [u'2008']	0
-where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0
-where is south portland?	185	south portland --> dated money value amount --> [u'1398']	0
-where is south portland?	185	south portland --> webpage category --> [u'Official Website']	0
-where is south portland?	185	south portland --> dated float date --> [u'2008']	0
-where is south portland?	185	south portland --> location containedby --> [u'Maine', u'United States of America', u'Cumberland County']	11
-where is south portland?	185	south portland --> location time zones --> [u'Eastern Time Zone']	0
-where is south portland?	185	south portland --> topic official website --> [u'http://www.southportland.org/']	0
-where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0
-where is south portland?	185	south portland --> dated integer number --> [u'72']	0
-where is south portland?	185	south portland --> hud county place place --> [u'South Portland']	170
-where is south portland?	185	south portland --> citytown postal codes --> [u'04116', u'04106']	0
-where is south portland?	185	south portland --> webpage resource --> [u'Guitar Heroes Take on Recession with Road-Tested Instruments']	0
-where is south portland?	185	south portland --> location contains --> [u'Spring Point Ledge Light', u'Intercoast Career Institute', u'Portland Breakwater Light', u'Southern Maine Community College', u'Kaplan University, South Portland']	3
-where is south portland?	185	south portland --> dated integer number --> [u'10042']	0
-where is south portland?	185	south portland --> dated money value amount --> [u'1089']	0
-where is south portland?	185	south portland --> dated integer source --> [u'United States Census Bureau, Population']	0
-where is south portland?	185	south portland --> dated integer year --> [u'2008']	0
-where is south portland?	185	south portland --> dated integer year --> [u'2008']	0
-where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0
-where is south portland?	185	south portland --> geocode longitude --> [u'-70.2414']	0
-where is south portland?	185	south portland --> dated money value amount --> [u'708']	0
-where is south portland?	185	south portland --> dated integer number --> [u'23134', u'23260', u'23372', u'23427', u'23531']	0
-where is south portland?	185	south portland --> dated integer year --> [u'2008']	0
-where is south portland?	185	south portland --> hud county place county --> [u'Cumberland County']	1
-where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where is south portland?	185	south portland --> webpage uri --> [u'http://www.southportland.org/']	0
-where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0
-where is south portland?	185	south portland --> dated integer number --> [u'8593']	0
-where is south portland?	185	south portland --> dated money value amount --> [u'853']	0
-where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0
-where is south portland?	185	south portland --> dated integer year --> [u'2008']	0
-where is south portland?	185	south portland --> dated integer number --> [u'179']	0
-where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0
-where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where is south portland?	185	south portland --> topic image --> [u'Libertyshipportland', u'Location of city of South Portland in map of Maine']	0
-where is south portland?	185	south portland --> dated integer number --> [u'11124']	0
-where is south portland?	185	south portland --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-where is south portland?	185	south portland --> geocode datum --> [u'NAD83']	0
-where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0
-where is south portland?	185	south portland --> dated money value amount --> [u'1449']	0
+where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0	EMPTY
+where is south portland?	185	south portland --> webpage in index --> [u'WSJ Speakeasy Index']	0	EMPTY
+where is south portland?	185	south portland --> travel destination tourist attractions --> [u'Willard Beach']	0	EMPTY
+where is south portland?	185	south portland --> dated float number --> [u'0.0373']	0	EMPTY
+where is south portland?	185	south portland --> topic alias --> [u'Cumberland County / South Portland city', u'S Portland', u'South Portland, Maine']	0	EMPTY
+where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0	EMPTY
+where is south portland?	185	south portland --> location area --> [u'36.31']	0	EMPTY
+where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0	EMPTY
+where is south portland?	185	south portland --> travel destination accommodation --> [u'Portland Marriott at Sable Oaks']	0	EMPTY
+where is south portland?	185	south portland --> object name --> [u'South Portland']	0	EMPTY
+where is south portland?	185	south portland --> location people born here --> [u'Robert Crowley', u'Ed McAleney', u'Peter Buck']	0	EMPTY
+where is south portland?	185	south portland --> geocode latitude --> [u'43.6414']	0	EMPTY
+where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where is south portland?	185	south portland --> dated integer year --> [u'2008']	0	EMPTY
+where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0	EMPTY
+where is south portland?	185	south portland --> dated money value amount --> [u'1398']	0	EMPTY
+where is south portland?	185	south portland --> webpage category --> [u'Official Website']	0	EMPTY
+where is south portland?	185	south portland --> dated float date --> [u'2008']	0	EMPTY
+where is south portland?	185	south portland --> location containedby --> [u'Maine', u'United States of America', u'Cumberland County']	11	The '''Fore River''' is a short horn-shaped [[estuary]], approximately  long, separating [[Portland, Maine|Portland]] and [[South Portland, Maine|South Portland]] in [[Maine]] in the [[United States]].
+where is south portland?	185	south portland --> location time zones --> [u'Eastern Time Zone']	0	EMPTY
+where is south portland?	185	south portland --> topic official website --> [u'http://www.southportland.org/']	0	EMPTY
+where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0	EMPTY
+where is south portland?	185	south portland --> dated integer number --> [u'72']	0	EMPTY
+where is south portland?	185	south portland --> hud county place place --> [u'South Portland']	170	Born in [[South Portland, Maine]], Oliver attended the public schools.
+where is south portland?	185	south portland --> citytown postal codes --> [u'04116', u'04106']	0	EMPTY
+where is south portland?	185	south portland --> webpage resource --> [u'Guitar Heroes Take on Recession with Road-Tested Instruments']	0	EMPTY
+where is south portland?	185	south portland --> location contains --> [u'Spring Point Ledge Light', u'Intercoast Career Institute', u'Portland Breakwater Light', u'Southern Maine Community College', u'Kaplan University, South Portland']	3	*[[Southern Maine Community College]] - [[South Portland, Maine|South Portland]]
+where is south portland?	185	south portland --> dated integer number --> [u'10042']	0	EMPTY
+where is south portland?	185	south portland --> dated money value amount --> [u'1089']	0	EMPTY
+where is south portland?	185	south portland --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+where is south portland?	185	south portland --> dated integer year --> [u'2008']	0	EMPTY
+where is south portland?	185	south portland --> dated integer year --> [u'2008']	0	EMPTY
+where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0	EMPTY
+where is south portland?	185	south portland --> geocode longitude --> [u'-70.2414']	0	EMPTY
+where is south portland?	185	south portland --> dated money value amount --> [u'708']	0	EMPTY
+where is south portland?	185	south portland --> dated integer number --> [u'23134', u'23260', u'23372', u'23427', u'23531']	0	EMPTY
+where is south portland?	185	south portland --> dated integer year --> [u'2008']	0	EMPTY
+where is south portland?	185	south portland --> hud county place county --> [u'Cumberland County']	1	Southern Maine is more than just [[York County, Maine]], it also includes at least [[Cumberland County, Maine]] (and under some definitions other counties as well), so the largest mall is <s>probably</s> the [[Maine Mall]] in [[South Portland, Maine]].
+where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where is south portland?	185	south portland --> webpage uri --> [u'http://www.southportland.org/']	0	EMPTY
+where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0	EMPTY
+where is south portland?	185	south portland --> dated integer number --> [u'8593']	0	EMPTY
+where is south portland?	185	south portland --> dated money value amount --> [u'853']	0	EMPTY
+where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0	EMPTY
+where is south portland?	185	south portland --> dated integer year --> [u'2008']	0	EMPTY
+where is south portland?	185	south portland --> dated integer number --> [u'179']	0	EMPTY
+where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where is south portland?	185	south portland --> dated money value valid date --> [u'2009']	0	EMPTY
+where is south portland?	185	south portland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where is south portland?	185	south portland --> topic image --> [u'Libertyshipportland', u'Location of city of South Portland in map of Maine']	0	EMPTY
+where is south portland?	185	south portland --> dated integer number --> [u'11124']	0	EMPTY
+where is south portland?	185	south portland --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+where is south portland?	185	south portland --> geocode datum --> [u'NAD83']	0	EMPTY
+where is south portland?	185	south portland --> dated money value currency --> [u'United States dollar']	0	EMPTY
+where is south portland?	185	south portland --> dated money value amount --> [u'1449']	0	EMPTY

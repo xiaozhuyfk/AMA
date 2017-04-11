@@ -1,20 +1,20 @@
-what did ferdinand magellan do?	44	ferdinand magellan --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> person parents --> [u'Rodrigo de Magalh\xe3es', u'Alda de Mesquita']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwJaScJwpEbGdrcN5Y29ycA']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> deceased person place of death --> [u'Mactan']	5
-what did ferdinand magellan do?	44	ferdinand magellan --> valuenotation has value --> [u'Height', u'Education']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> person date of birth --> [u'1480']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> person place of birth --> [u'Sabrosa']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> person profession --> [u'Navigator', u'Sailor', u'Explorer']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> marriage type of union --> [u'Marriage']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> topic alias --> [u'Fern\xe3o de Magalh\xe3es']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> sibling relationship sibling --> [u'Leonor de Magalh\xe3es']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> person children --> [u'Rodrigo de Magalh\xe3es', u'Carlos de Magalh\xe3es']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> object name --> [u'Ferdinand Magellan']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> topic image --> [u'Hernando de Magallanes del museo Madrid', u'Ferdinand Magellan', u'Magellan 1810 engraving']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> person nationality --> [u'Portugal', u'Kingdom of Portugal']	24
-what did ferdinand magellan do?	44	ferdinand magellan --> person ethnicity --> [u'Portuguese people']	11
-what did ferdinand magellan do?	44	ferdinand magellan --> person gender --> [u'Male']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> deceased person date of death --> [u'1521-04-27']	0
-what did ferdinand magellan do?	44	ferdinand magellan --> name source namesakes --> [u'Magellanic Penguin', u'Small Magellanic Cloud', u'4055 Magellan', u'Magellanic Clouds', u'Magallanes & the Chilean Antarctica']	4
-what did ferdinand magellan do?	44	ferdinand magellan --> marriage spouse --> [u'Mar\xeda Caldera Beatriz Barbosa']	0
+what did ferdinand magellan do?	44	ferdinand magellan --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> person parents --> [u'Rodrigo de Magalh\xe3es', u'Alda de Mesquita']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwJaScJwpEbGdrcN5Y29ycA']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> deceased person place of death --> [u'Mactan']	5	A notable wielder of the ''kampílan'' was [[Datu]] [[Lapu-Lapu]] (the king of [[Mactan]]) and his warriors, who defeated the Spaniards and killed Portuguese explorer [[Ferdinand Magellan]] at the [[Battle of Mactan]] on April 27, 1521.
+what did ferdinand magellan do?	44	ferdinand magellan --> valuenotation has value --> [u'Height', u'Education']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> person date of birth --> [u'1480']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> person place of birth --> [u'Sabrosa']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> person profession --> [u'Navigator', u'Sailor', u'Explorer']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> marriage type of union --> [u'Marriage']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> topic alias --> [u'Fern\xe3o de Magalh\xe3es']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> sibling relationship sibling --> [u'Leonor de Magalh\xe3es']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> person children --> [u'Rodrigo de Magalh\xe3es', u'Carlos de Magalh\xe3es']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> object name --> [u'Ferdinand Magellan']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> topic image --> [u'Hernando de Magallanes del museo Madrid', u'Ferdinand Magellan', u'Magellan 1810 engraving']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> person nationality --> [u'Portugal', u'Kingdom of Portugal']	24	'''João Rodrigues Serrão''', also known as '''Juan Serrano''' in the [[Spanish language|Spanish]] version, ([[Kingdom of Portugal]] - [[Cebu]], 1521) was a 16th-century [[Portuguese People|Portuguese]] [[navigator]] who sailed with [[Ferdinand Magellan]] during the first [[circumnavigation]] of the world (1519-1521).
+what did ferdinand magellan do?	44	ferdinand magellan --> person ethnicity --> [u'Portuguese people']	11	* [[Ferdinand Magellan]], [[Portuguese people|Portuguese]] explorer
+what did ferdinand magellan do?	44	ferdinand magellan --> person gender --> [u'Male']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> deceased person date of death --> [u'1521-04-27']	0	EMPTY
+what did ferdinand magellan do?	44	ferdinand magellan --> name source namesakes --> [u'Magellanic Penguin', u'Small Magellanic Cloud', u'4055 Magellan', u'Magellanic Clouds', u'Magallanes & the Chilean Antarctica']	4	In 1589 Plancius collaborated with the Amsterdam cartographer [[Jacob Floris van Langren]] on a 32.5-cm celestial globe, which, using the sparse information available about southern celestial features, for the first time depicted: [[Crux]] the southern cross, [[Triangulum Australe]] the southern triangle, and the [[Ferdinand Magellan|Magellanic Clouds]], [[Large Magellanic Cloud|Nubecula Major]] and [[Small Magellanic Cloud|Minor]].
+what did ferdinand magellan do?	44	ferdinand magellan --> marriage spouse --> [u'Mar\xeda Caldera Beatriz Barbosa']	0	EMPTY

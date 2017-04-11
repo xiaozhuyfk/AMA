@@ -1,48 +1,48 @@
-where do they speak tibetan?	170	they speak --> object name --> [u'They Speak']	0
-where do they speak tibetan?	170	they speak --> object name --> [u'They Speak']	0
-where do they speak tibetan?	170	tibetan alphabet --> language writing system languages --> [u'Gurung language', u'Dzongkha Language', u'Tangut', u'Balti Language', u'Ladakhi Language']	1
-where do they speak tibetan?	170	tibetan alphabet --> object name --> [u'Tibetan alphabet']	0
-where do they speak tibetan?	170	tibetan alphabet --> topic image --> [u'Om Mani Padme Hum', u'""Tibetan script""']	0
-where do they speak tibetan?	170	tibetan alphabet --> language writing system type of writing --> [u'Abugida']	0
-where do they speak tibetan?	170	tibet --> location events --> [u'British expedition to Tibet', u'Qinghai\u2013Tibet War', u'Ten Great Campaigns', u'Sino-Sikh War', u'Mongol invasions of Tibet']	8
-where do they speak tibetan?	170	tibet --> location contains --> [u'Qusum Town', u'Nyang River', u'North Col', u'Namcha Barwa', u'Mount Kailash']	19
-where do they speak tibetan?	170	tibet --> force strength maximum force size --> [u'8500']	0
-where do they speak tibetan?	170	tibet --> taxonomy entry high --> [u'786']	0
-where do they speak tibetan?	170	tibet --> location partially contains --> [u'Makalu', u'Kawagarbo', u'Yangra', u'Kula Kangri']	2
-where do they speak tibetan?	170	tibet --> geocode longitude --> [u'91.117006']	0
-where do they speak tibetan?	170	tibet --> taxonomy entry prefix --> [u'DS']	0
-where do they speak tibetan?	170	tibet --> location people born here --> [u'Tashi Namgyal', u'Kelsang Gyatso', u'Amdo Jampa', u'Songts\xe4n Gampo', u'Dagpo Rinpoche']	0
-where do they speak tibetan?	170	tibet --> force strength military conflict --> [u"Incorporation of Tibet into the People's Republic of China"]	2
-where do they speak tibetan?	170	tibet --> webpage category --> [u'Tag', u'Wiki']	0
-where do they speak tibetan?	170	tibet --> linguistic hint adjectival form --> [u'Tibetan']	0
-where do they speak tibetan?	170	tibet --> military combatant group conflict --> [u'Sikkim Expedition', u'Mongol invasions of Tibet', u"Incorporation of Tibet into the People's Republic of China", u'1959 Tibetan uprising', u'Battle of Five Lamas']	9
-where do they speak tibetan?	170	tibet --> location contains major portion of --> [u'Jomolhari']	0
-where do they speak tibetan?	170	tibet --> location containedby --> [u'South Asia']	7
-where do they speak tibetan?	170	tibet --> topic official website --> [u'http://tibet.net/', u'http://www.xizang.gov.cn/index.jhtml']	0
-where do they speak tibetan?	170	tibet --> film location featured in films --> [u'Samsara']	0
-where do they speak tibetan?	170	tibet --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where do they speak tibetan?	170	tibet --> webpage resource --> [u'Wikitravel']	0
-where do they speak tibetan?	170	tibet --> mythical creature location mythical creature s --> [u'Yeti']	3
-where do they speak tibetan?	170	tibet --> nobel honor nobel prize winner --> [u'Tenzin Gyatso, 14th Dalai Lama']	35
-where do they speak tibetan?	170	tibet --> cryptid observation location cryptid s occurring here --> [u'Yeti']	3
-where do they speak tibetan?	170	tibet --> geocode latitude --> [u'29.647951']	0
-where do they speak tibetan?	170	tibet --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-where do they speak tibetan?	170	tibet --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwRbQbpwpEbGdrcN5Y29ycA']	0
-where do they speak tibetan?	170	tibet --> taxonomy entry low --> [u'785']	0
-where do they speak tibetan?	170	tibet --> nobel honor subject area --> [u'Pacifism']	0
-where do they speak tibetan?	170	tibet --> topic topical webpage --> [u'http://wikitravel.org/en/Tibet']	0
-where do they speak tibetan?	170	tibet --> force strength force size --> [u'8500']	0
-where do they speak tibetan?	170	tibet --> object name --> [u'Tibet']	0
-where do they speak tibetan?	170	tibet --> topic image --> [u'Cultural/historical Tibet (highlighted) depicted with various competing territorial claims.']	0
-where do they speak tibetan?	170	tibet --> military combatant armed forces --> [u'Tibetan Army']	0
-where do they speak tibetan?	170	tibet --> book subject works --> [u'Year of the Tiger', u'Heartlands', u'Peaks and lamas', u'Dialectical Practice in Tibetan Philosophical Culture', u'Virtual Tibet']	0
-where do they speak tibetan?	170	tibetan people --> chinese ethnic group autonomous counties --> [u'Bairi Tibetan Autonomous County', u'Mili Tibetan Autonomous County']	0
-where do they speak tibetan?	170	tibetan people --> ethnicity geographic distribution --> [u'China', u'Tibet']	24
-where do they speak tibetan?	170	tibetan people --> ethnicity people --> [u'Desi Sangye Gyatso', u'Bhrikuti', u'Me Agtsom', u'Trisong Detsen', u'Songts\xe4n Gampo']	0
-where do they speak tibetan?	170	tibetan people --> chinese ethnic group autonomous prefectures --> [u'Hainan Tibetan Autonomous Prefecture', u'Huangnan Tibetan Autonomous Prefecture', u'Gannan Tibetan Autonomous Prefecture', u'Ngawa Tibetan and Qiang Autonomous Prefecture', u'Garz\xea Tibetan Autonomous Prefecture']	3
-where do they speak tibetan?	170	tibetan people --> ethnicity languages spoken --> [u'Chinese language', u'Nepali Language', u'Standard Tibetan', u'Tibetan languages', u'Baima language']	6
-where do they speak tibetan?	170	tibetan people --> object name --> [u'Tibetan people']	0
-where do they speak tibetan?	170	tibetan people --> topic image --> [u'Two Tibetan women in front of the Potala, Lhasa (2005)', u'Tibetan Nomad in 1950.', u'Tibet ethnolinguistic 1967']	0
-where do they speak tibetan?	170	tibetan people --> chinese ethnic group autonomous regions --> [u'Tibet']	48
-where do they speak tibetan?	170	tibetan people --> dated integer number --> [u'5400000']	0
-where do they speak tibetan?	170	tibetan people --> dated integer year --> [u'2008']	0
+where do they speak tibetan?	170	they speak --> object name --> [u'They Speak']	0	EMPTY
+where do they speak tibetan?	170	they speak --> object name --> [u'They Speak']	0	EMPTY
+where do they speak tibetan?	170	tibetan alphabet --> language writing system languages --> [u'Gurung language', u'Dzongkha Language', u'Tangut', u'Balti Language', u'Ladakhi Language']	1	| [[Bhutan]] || [[Thimphu]] || '''Druk Yul'''<br || '''Thimphu'''<br || [[Dzongkha]]<br([[Tibetan alphabet]])
+where do they speak tibetan?	170	tibetan alphabet --> object name --> [u'Tibetan alphabet']	0	EMPTY
+where do they speak tibetan?	170	tibetan alphabet --> topic image --> [u'Om Mani Padme Hum', u'""Tibetan script""']	0	EMPTY
+where do they speak tibetan?	170	tibetan alphabet --> language writing system type of writing --> [u'Abugida']	0	EMPTY
+where do they speak tibetan?	170	tibet --> location events --> [u'British expedition to Tibet', u'Qinghai\u2013Tibet War', u'Ten Great Campaigns', u'Sino-Sikh War', u'Mongol invasions of Tibet']	8	* [[March 31]] &ndash; [[British expedition to Tibet]] &ndash; [[British expedition to Tibet#The Battle of Guru|Battle of Guru]]: British troops under Colonel [[Francis Younghusband]] defeat ill-equipped [[Tibet]]an troops.
+where do they speak tibetan?	170	tibet --> location contains --> [u'Qusum Town', u'Nyang River', u'North Col', u'Namcha Barwa', u'Mount Kailash']	19	Skardu is in the  wide by  long [[Skardu Valley]], at the confluence of the [[Indus]] river (flowing from near [[Mount Kailash|Kailash]] in [[Tibet]] and through neighbouring [[Ladakh]] before reaching Baltistan) and the [[Shigar River]].
+where do they speak tibetan?	170	tibet --> force strength maximum force size --> [u'8500']	0	EMPTY
+where do they speak tibetan?	170	tibet --> taxonomy entry high --> [u'786']	0	EMPTY
+where do they speak tibetan?	170	tibet --> location partially contains --> [u'Makalu', u'Kawagarbo', u'Yangra', u'Kula Kangri']	2	'''Chomo Lonzo''' () is a mountain in [[Tibet]], 5&nbsp;km northeast of [[Makalu]] in the [[Mahalangur Himal|Mahalungur]] (Mohalingor) or [[Khumbu]] [[Himalayas]].
+where do they speak tibetan?	170	tibet --> geocode longitude --> [u'91.117006']	0	EMPTY
+where do they speak tibetan?	170	tibet --> taxonomy entry prefix --> [u'DS']	0	EMPTY
+where do they speak tibetan?	170	tibet --> location people born here --> [u'Tashi Namgyal', u'Kelsang Gyatso', u'Amdo Jampa', u'Songts\xe4n Gampo', u'Dagpo Rinpoche']	0	EMPTY
+where do they speak tibetan?	170	tibet --> force strength military conflict --> [u"Incorporation of Tibet into the People's Republic of China"]	2	'''Fan Ming''' (; December 4, 1914 – February 23, 2010), born '''Hao Keyong''' (郝克勇), was a general of the Chinese [[People's Liberation Army]] during the [[Battle of Chamdo]], where [[Tibet]] was [[Incorporation of Tibet into the People's Republic of China|incorporated into]] the [[People's Republic of China]].
+where do they speak tibetan?	170	tibet --> webpage category --> [u'Tag', u'Wiki']	0	EMPTY
+where do they speak tibetan?	170	tibet --> linguistic hint adjectival form --> [u'Tibetan']	0	EMPTY
+where do they speak tibetan?	170	tibet --> military combatant group conflict --> [u'Sikkim Expedition', u'Mongol invasions of Tibet', u"Incorporation of Tibet into the People's Republic of China", u'1959 Tibetan uprising', u'Battle of Five Lamas']	9	* [[1959]] – '''[[1959 Tibetan uprising|An anti-Chinese uprising]]''' erupted in [[Lhasa]], the capital of [[Tibet]], as about 300,000 Tibetans surrounded the [[Potala Palace]] to prevent the [[14th Dalai Lama]] from leaving or being removed by the [[People's Liberation Army|Chinese People's Liberation Army]].
+where do they speak tibetan?	170	tibet --> location contains major portion of --> [u'Jomolhari']	0	EMPTY
+where do they speak tibetan?	170	tibet --> location containedby --> [u'South Asia']	7	*"Two people are left dead after '''[[2008 Tibetan protests|rioting]]''' in the [[Tibet|Tibetan]] capital of [[Lhasa]], amidst clashes between pro-Tibet protesters and police across [[South Asia|South]] and [[East Asia]]."
+where do they speak tibetan?	170	tibet --> topic official website --> [u'http://tibet.net/', u'http://www.xizang.gov.cn/index.jhtml']	0	EMPTY
+where do they speak tibetan?	170	tibet --> film location featured in films --> [u'Samsara']	0	EMPTY
+where do they speak tibetan?	170	tibet --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where do they speak tibetan?	170	tibet --> webpage resource --> [u'Wikitravel']	0	EMPTY
+where do they speak tibetan?	170	tibet --> mythical creature location mythical creature s --> [u'Yeti']	3	Convinced that Chang has survived, Tintin leads his companions across the Himalayas to the plateau of [[Tibet]], along the way encountering the mysterious [[Yeti]].
+where do they speak tibetan?	170	tibet --> nobel honor nobel prize winner --> [u'Tenzin Gyatso, 14th Dalai Lama']	35	There are controversies around the Tibetan Buddhist hierarchy, specifically the succession of Tenzin Gyatso the [[14th Dalai Lama]], who was not only the spiritual leader of [[Gelug]], the major branch of Tibetan Buddhism, but also the reputed traditional political ruler of [[Tibet]] and was exiled with the establishment of the modern People's Republic of China.
+where do they speak tibetan?	170	tibet --> cryptid observation location cryptid s occurring here --> [u'Yeti']	3	Convinced that Chang has survived, Tintin leads his companions across the Himalayas to the plateau of [[Tibet]], along the way encountering the mysterious [[Yeti]].
+where do they speak tibetan?	170	tibet --> geocode latitude --> [u'29.647951']	0	EMPTY
+where do they speak tibetan?	170	tibet --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+where do they speak tibetan?	170	tibet --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwRbQbpwpEbGdrcN5Y29ycA']	0	EMPTY
+where do they speak tibetan?	170	tibet --> taxonomy entry low --> [u'785']	0	EMPTY
+where do they speak tibetan?	170	tibet --> nobel honor subject area --> [u'Pacifism']	0	EMPTY
+where do they speak tibetan?	170	tibet --> topic topical webpage --> [u'http://wikitravel.org/en/Tibet']	0	EMPTY
+where do they speak tibetan?	170	tibet --> force strength force size --> [u'8500']	0	EMPTY
+where do they speak tibetan?	170	tibet --> object name --> [u'Tibet']	0	EMPTY
+where do they speak tibetan?	170	tibet --> topic image --> [u'Cultural/historical Tibet (highlighted) depicted with various competing territorial claims.']	0	EMPTY
+where do they speak tibetan?	170	tibet --> military combatant armed forces --> [u'Tibetan Army']	0	EMPTY
+where do they speak tibetan?	170	tibet --> book subject works --> [u'Year of the Tiger', u'Heartlands', u'Peaks and lamas', u'Dialectical Practice in Tibetan Philosophical Culture', u'Virtual Tibet']	0	EMPTY
+where do they speak tibetan?	170	tibetan people --> chinese ethnic group autonomous counties --> [u'Bairi Tibetan Autonomous County', u'Mili Tibetan Autonomous County']	0	EMPTY
+where do they speak tibetan?	170	tibetan people --> ethnicity geographic distribution --> [u'China', u'Tibet']	24	| [[Tibet]]             || [[Standard Tibetan|Tibetan]] || [[Tibetan people|Tibetans]]</tr>
+where do they speak tibetan?	170	tibetan people --> ethnicity people --> [u'Desi Sangye Gyatso', u'Bhrikuti', u'Me Agtsom', u'Trisong Detsen', u'Songts\xe4n Gampo']	0	EMPTY
+where do they speak tibetan?	170	tibetan people --> chinese ethnic group autonomous prefectures --> [u'Hainan Tibetan Autonomous Prefecture', u'Huangnan Tibetan Autonomous Prefecture', u'Gannan Tibetan Autonomous Prefecture', u'Ngawa Tibetan and Qiang Autonomous Prefecture', u'Garz\xea Tibetan Autonomous Prefecture']	3	[[Garzê Tibetan Autonomous Prefecture]] and [[Ngawa Tibetan and Qiang Autonomous Prefecture]] in western Sichuan are populated by [[Tibetan people|Tibetans]] and [[Qiang people]].
+where do they speak tibetan?	170	tibetan people --> ethnicity languages spoken --> [u'Chinese language', u'Nepali Language', u'Standard Tibetan', u'Tibetan languages', u'Baima language']	6	Other ethnicities include the [[Bhutia]]s, the [[Tibetan people|Tibetans]] and the [[Lepcha people|Lepcha]]s. [[Nepali language|Nepali]] is the predominant language in the region.
+where do they speak tibetan?	170	tibetan people --> object name --> [u'Tibetan people']	0	EMPTY
+where do they speak tibetan?	170	tibetan people --> topic image --> [u'Two Tibetan women in front of the Potala, Lhasa (2005)', u'Tibetan Nomad in 1950.', u'Tibet ethnolinguistic 1967']	0	EMPTY
+where do they speak tibetan?	170	tibetan people --> chinese ethnic group autonomous regions --> [u'Tibet']	48	Of the five autonomous regions, only [[Tibet Autonomous Region|Tibet]] has an absolute majority (>50%) of the designated ethnic group, namely, the [[Tibetan people|Tibetans]].
+where do they speak tibetan?	170	tibetan people --> dated integer number --> [u'5400000']	0	EMPTY
+where do they speak tibetan?	170	tibetan people --> dated integer year --> [u'2008']	0	EMPTY

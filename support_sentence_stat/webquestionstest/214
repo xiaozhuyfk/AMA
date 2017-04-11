@@ -1,22 +1,22 @@
-what did john dalton study?	16	john dalton --> person date of birth --> [u'1766-09-06']	0
-what did john dalton study?	16	john dalton --> kwtopic has sentences --> [u'When elected to the Manchester Literary and Philosophical Society, he was sponsored by Percival and Robert Owen.', u'When he traveled to Paris that year, he was introduced to Laplace, Berthollet, Gay-Lussac, Thenard, Arago, Biot, Alexander von Humboldt, Cuvier,  and AM Ampere.', u'In 1833, thanks to the efforts of Babbage, and others, he was awarded a government pension.', u'His most successful pupil was the English physicist  Joule.', u'His work related to that of  Leibniz, and Sturgeon.']	0
-what did john dalton study?	16	john dalton --> person profession --> [u'Chemist', u'Physicist']	0
-what did john dalton study?	16	john dalton --> kwtopic disciplines --> [u'chemist']	0
-what did john dalton study?	16	john dalton --> person gender --> [u'Male']	0
-what did john dalton study?	16	john dalton --> author works written --> [u'Meteorological Observations and Essays', u"Dalton's memoirs", u'Elements of English Grammar', u'System of Chemistry', u'Memoirs']	0
-what did john dalton study?	16	john dalton --> person nationality --> [u'England']	3
-what did john dalton study?	16	john dalton --> deceased person date of death --> [u'1844-07-27']	0
-what did john dalton study?	16	john dalton --> deceased person place of death --> [u'Manchester']	7
-what did john dalton study?	16	john dalton --> award honor award --> [u'Royal Medal']	0
-what did john dalton study?	16	john dalton --> influence node influenced --> [u'James Prescott Joule', u'Antoine Lavoisier']	5
-what did john dalton study?	16	john dalton --> kwtopic connections to --> [u'george birkbeck knew john dalton', u'jean-jacques ampere lectures attended by john dalton', u'joseph priestley work related to john dalton', u'robert fulton formed club with john dalton', u'joseph banks knew john dalton']	0
-what did john dalton study?	16	john dalton --> person place of birth --> [u'Eaglesfield, Cumbria']	1
-what did john dalton study?	16	john dalton --> kwtopic category --> [u'engineering and technology']	0
-what did john dalton study?	16	john dalton --> kwtopic kwtype --> [u'Person']	0
-what did john dalton study?	16	john dalton --> award honor year --> [u'1826']	0
-what did john dalton study?	16	john dalton --> name source namesakes --> [u'Dalton']	0
-what did john dalton study?	16	john dalton --> kwtopic connections from --> [u'john dalton work related to joseph priestley', u'john dalton co-discoverer with joseph louis gay-lussac', u'john dalton met joseph banks', u'john dalton helped by charles babbage', u'john dalton work related to gottfried wilhelm leibniz']	0
-what did john dalton study?	16	john dalton --> object name --> [u'John Dalton']	0
-what did john dalton study?	16	john dalton --> topic image --> [u'Dalton John desk', u'John Dalton']	0
-what did john dalton study?	16	john dalton --> kwtopic assessment --> [u'One of the founders of atomic theory']	0
-what did john dalton study?	16	john dalton --> influence node influenced by --> [u'John Gough']	0
+what did john dalton study?	16	john dalton --> person date of birth --> [u'1766-09-06']	0	EMPTY
+what did john dalton study?	16	john dalton --> kwtopic has sentences --> [u'When elected to the Manchester Literary and Philosophical Society, he was sponsored by Percival and Robert Owen.', u'When he traveled to Paris that year, he was introduced to Laplace, Berthollet, Gay-Lussac, Thenard, Arago, Biot, Alexander von Humboldt, Cuvier,  and AM Ampere.', u'In 1833, thanks to the efforts of Babbage, and others, he was awarded a government pension.', u'His most successful pupil was the English physicist  Joule.', u'His work related to that of  Leibniz, and Sturgeon.']	0	EMPTY
+what did john dalton study?	16	john dalton --> person profession --> [u'Chemist', u'Physicist']	0	EMPTY
+what did john dalton study?	16	john dalton --> kwtopic disciplines --> [u'chemist']	0	EMPTY
+what did john dalton study?	16	john dalton --> person gender --> [u'Male']	0	EMPTY
+what did john dalton study?	16	john dalton --> author works written --> [u'Meteorological Observations and Essays', u"Dalton's memoirs", u'Elements of English Grammar', u'System of Chemistry', u'Memoirs']	0	EMPTY
+what did john dalton study?	16	john dalton --> person nationality --> [u'England']	3	William Worall Mayo was born in [[Salford, Greater Manchester]], [[England]], and studied science in [[Manchester]] <nowikiunder [[John Dalton]], the chemist and physicist responsible for formulating the modern atomic theory of matter and devising a table of relative atomic weights.
+what did john dalton study?	16	john dalton --> deceased person date of death --> [u'1844-07-27']	0	EMPTY
+what did john dalton study?	16	john dalton --> deceased person place of death --> [u'Manchester']	7	William Worall Mayo was born in [[Salford, Greater Manchester]], [[England]], and studied science in [[Manchester]] <nowikiunder [[John Dalton]], the chemist and physicist responsible for formulating the modern atomic theory of matter and devising a table of relative atomic weights.
+what did john dalton study?	16	john dalton --> award honor award --> [u'Royal Medal']	0	EMPTY
+what did john dalton study?	16	john dalton --> influence node influenced --> [u'James Prescott Joule', u'Antoine Lavoisier']	5	This approach eventually led to the founding of modern chemistry in the 18th and 19th centuries, based on revolutionary discoveries of [[Antoine Lavoisier|Lavoisier]] and [[John Dalton]].
+what did john dalton study?	16	john dalton --> kwtopic connections to --> [u'george birkbeck knew john dalton', u'jean-jacques ampere lectures attended by john dalton', u'joseph priestley work related to john dalton', u'robert fulton formed club with john dalton', u'joseph banks knew john dalton']	0	EMPTY
+what did john dalton study?	16	john dalton --> person place of birth --> [u'Eaglesfield, Cumbria']	1	*[[John Dalton]], a father of [[atomic theory]], born in [[Eaglesfield, Cumbria|Eaglesfield]] nearby
+what did john dalton study?	16	john dalton --> kwtopic category --> [u'engineering and technology']	0	EMPTY
+what did john dalton study?	16	john dalton --> kwtopic kwtype --> [u'Person']	0	EMPTY
+what did john dalton study?	16	john dalton --> award honor year --> [u'1826']	0	EMPTY
+what did john dalton study?	16	john dalton --> name source namesakes --> [u'Dalton']	0	EMPTY
+what did john dalton study?	16	john dalton --> kwtopic connections from --> [u'john dalton work related to joseph priestley', u'john dalton co-discoverer with joseph louis gay-lussac', u'john dalton met joseph banks', u'john dalton helped by charles babbage', u'john dalton work related to gottfried wilhelm leibniz']	0	EMPTY
+what did john dalton study?	16	john dalton --> object name --> [u'John Dalton']	0	EMPTY
+what did john dalton study?	16	john dalton --> topic image --> [u'Dalton John desk', u'John Dalton']	0	EMPTY
+what did john dalton study?	16	john dalton --> kwtopic assessment --> [u'One of the founders of atomic theory']	0	EMPTY
+what did john dalton study?	16	john dalton --> influence node influenced by --> [u'John Gough']	0	EMPTY

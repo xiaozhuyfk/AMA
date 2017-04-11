@@ -1,39 +1,39 @@
-where turkish people originate?	5	turkish people --> object name --> [u'Turkish people']	0
-where turkish people originate?	5	turkish people --> review flag reason --> [u'votes were not unanimous']	0
-where turkish people originate?	5	turkish people --> task status --> [u'closed']	0
-where turkish people originate?	5	turkish people --> delete task delete guid --> [u'9202a8c04000641f8000000000692fd1']	0
-where turkish people originate?	5	turkish people --> ethnicity geographic distribution --> [u'Belgium', u'Bulgaria', u'Germany', u'Netherlands', u'Norway']	0
-where turkish people originate?	5	turkish people --> ethnicity people --> [u"Al-Mu'tasim", u'Orhan Pamuk', u'Zeki M\xfcren', u'Bar\u0131\u015f Man\xe7o', u'Mustafa Kemal Atat\xfcrk']	0
-where turkish people originate?	5	turkish people --> ethnicity includes groups --> [u'Meskhetian Turks', u'Syrian Turks', u'Turks in Kosovo', u'Turks in Denmark', u'Turks in Norway']	0
-where turkish people originate?	5	turkish people --> dated integer number --> [u'70000000']	0
-where turkish people originate?	5	turkish people --> vocabulary equivalent topic narrower concept --> [u'Foreign workers, Turkish']	0
-where turkish people originate?	5	turkish people --> object name --> [u'Turkish people']	0
-where turkish people originate?	5	turkish people --> ethnicity included in group --> [u'Turkic peoples']	0
-where turkish people originate?	5	people --> topic social media presence --> [u'http://plus.google.com/103085706090803465392', u'http://twitter.com/peoplemag']	0
-where turkish people originate?	5	people --> employment tenure title --> [u'President']	0
-where turkish people originate?	5	people --> topic alias --> [u'People Magazine', u'People Group', u'The Editors of People Magazine', u'editors at People Magazine']	0
-where turkish people originate?	5	people --> webpage uri --> [u'http://www.people.com/']	0
-where turkish people originate?	5	people --> employment tenure to --> [u'1993', u'1998', u'2001']	0
-where turkish people originate?	5	people --> daylife hero image id --> [u'0dP4eZc0jdeWA']	0
-where turkish people originate?	5	people --> periodical publication date date --> [u'1974-03-04']	0
-where turkish people originate?	5	people --> webpage category --> [u'Official Website', u'Curated Topic']	0
-where turkish people originate?	5	people --> art subject artwork on the subject --> [u'Arts Canada Afloat']	0
-where turkish people originate?	5	people --> periodical issn --> [u'0093-7673']	0
-where turkish people originate?	5	people --> topic official website --> [u'http://www.people.com/']	0
-where turkish people originate?	5	people --> webpage description --> [u'People']	0
-where turkish people originate?	5	people --> periodical language --> [u'English Language']	0
-where turkish people originate?	5	people --> webpage resource --> [u"Paula Goodspeed's suicide: Don't blame 'Idol,' even as we all scrutinize its audition process", u"We didn't forget! Elliott's video quiz", u'Billy Joel re-starts the fire', u"Is Speidi's marriage a big, hairy-faced sham?", u'Jon Gosselin files $5 million lawsuit against TLC']	0
-where turkish people originate?	5	people --> periodical publisher period publisher --> [u'Time Inc.']	3
-where turkish people originate?	5	people --> periodical frequency frequency --> [u'Weekly']	0
-where turkish people originate?	5	people --> periodical subjects --> [u'Celebrity']	0
-where turkish people originate?	5	people --> place of publication period place of publication --> [u'United States of America']	2
-where turkish people originate?	5	people --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
-where turkish people originate?	5	people --> magazine issues --> [u"Ministry of Fear: Scandal Rocks Scientology as the Founder's Wife Goes to Prison and His Son Turns Prosecution Witness"]	0
-where turkish people originate?	5	people --> ranked list compiler ranked lists --> [u'Sexiest Man Alive']	0
-where turkish people originate?	5	people --> employment tenure person --> [u'Ann Moore']	0
-where turkish people originate?	5	people --> magazine genre --> [u'News', u'Celebrity', u'Human interest story']	0
-where turkish people originate?	5	people --> object name --> [u'People']	0
-where turkish people originate?	5	people --> employment tenure from --> [u'1991', u'1993', u'1998']	0
-where turkish people originate?	5	people --> object name --> [u'People']	0
-where turkish people originate?	5	people --> topic image --> [u'Eug\xc3\xa8ne Delacroix - La libert\xc3\xa9 guidant le peuple', u'Taiwanese people waiting for the Taipei Rapid Transit System in Taipei, Republic of China (Taiwan)', u'Batsheva theater crowd in Tel Aviv by David Shankbone']	0
-where turkish people originate?	5	people --> meeting focus focus of --> [u'AG Zionismusforschung Workshop /5']	0
+where turkish people originate?	5	turkish people --> object name --> [u'Turkish people']	0	EMPTY
+where turkish people originate?	5	turkish people --> review flag reason --> [u'votes were not unanimous']	0	EMPTY
+where turkish people originate?	5	turkish people --> task status --> [u'closed']	0	EMPTY
+where turkish people originate?	5	turkish people --> delete task delete guid --> [u'9202a8c04000641f8000000000692fd1']	0	EMPTY
+where turkish people originate?	5	turkish people --> ethnicity geographic distribution --> [u'Belgium', u'Bulgaria', u'Germany', u'Netherlands', u'Norway']	0	EMPTY
+where turkish people originate?	5	turkish people --> ethnicity people --> [u"Al-Mu'tasim", u'Orhan Pamuk', u'Zeki M\xfcren', u'Bar\u0131\u015f Man\xe7o', u'Mustafa Kemal Atat\xfcrk']	0	EMPTY
+where turkish people originate?	5	turkish people --> ethnicity includes groups --> [u'Meskhetian Turks', u'Syrian Turks', u'Turks in Kosovo', u'Turks in Denmark', u'Turks in Norway']	0	EMPTY
+where turkish people originate?	5	turkish people --> dated integer number --> [u'70000000']	0	EMPTY
+where turkish people originate?	5	turkish people --> vocabulary equivalent topic narrower concept --> [u'Foreign workers, Turkish']	0	EMPTY
+where turkish people originate?	5	turkish people --> object name --> [u'Turkish people']	0	EMPTY
+where turkish people originate?	5	turkish people --> ethnicity included in group --> [u'Turkic peoples']	0	EMPTY
+where turkish people originate?	5	people --> topic social media presence --> [u'http://plus.google.com/103085706090803465392', u'http://twitter.com/peoplemag']	0	EMPTY
+where turkish people originate?	5	people --> employment tenure title --> [u'President']	0	EMPTY
+where turkish people originate?	5	people --> topic alias --> [u'People Magazine', u'People Group', u'The Editors of People Magazine', u'editors at People Magazine']	0	EMPTY
+where turkish people originate?	5	people --> webpage uri --> [u'http://www.people.com/']	0	EMPTY
+where turkish people originate?	5	people --> employment tenure to --> [u'1993', u'1998', u'2001']	0	EMPTY
+where turkish people originate?	5	people --> daylife hero image id --> [u'0dP4eZc0jdeWA']	0	EMPTY
+where turkish people originate?	5	people --> periodical publication date date --> [u'1974-03-04']	0	EMPTY
+where turkish people originate?	5	people --> webpage category --> [u'Official Website', u'Curated Topic']	0	EMPTY
+where turkish people originate?	5	people --> art subject artwork on the subject --> [u'Arts Canada Afloat']	0	EMPTY
+where turkish people originate?	5	people --> periodical issn --> [u'0093-7673']	0	EMPTY
+where turkish people originate?	5	people --> topic official website --> [u'http://www.people.com/']	0	EMPTY
+where turkish people originate?	5	people --> webpage description --> [u'People']	0	EMPTY
+where turkish people originate?	5	people --> periodical language --> [u'English Language']	0	EMPTY
+where turkish people originate?	5	people --> webpage resource --> [u"Paula Goodspeed's suicide: Don't blame 'Idol,' even as we all scrutinize its audition process", u"We didn't forget! Elliott's video quiz", u'Billy Joel re-starts the fire', u"Is Speidi's marriage a big, hairy-faced sham?", u'Jon Gosselin files $5 million lawsuit against TLC']	0	EMPTY
+where turkish people originate?	5	people --> periodical publisher period publisher --> [u'Time Inc.']	3	At the beginning of 2004, Star gained new life by switching to a more traditional magazine format, with a higher grade of paper and, denying its tabloid roots, put itself into competition with a new breed of entertainment magazine typified by [[Time Inc.]]'s ''[[People (magazine)|People]]'', Fuller's former publication, Wenner Media's ''[[Us Weekly]]'',  and the German-owned magazine publisher Bauer's ''[[In Touch Weekly]]''.
+where turkish people originate?	5	people --> periodical frequency frequency --> [u'Weekly']	0	EMPTY
+where turkish people originate?	5	people --> periodical subjects --> [u'Celebrity']	0	EMPTY
+where turkish people originate?	5	people --> place of publication period place of publication --> [u'United States of America']	2	1925 &ndash; March 7, 2008) was an [[United States|American]] advertising executive and one of the founding staff members for  ''[[People (magazine)|People]]'' magazine.''
+where turkish people originate?	5	people --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+where turkish people originate?	5	people --> magazine issues --> [u"Ministry of Fear: Scandal Rocks Scientology as the Founder's Wife Goes to Prison and His Son Turns Prosecution Witness"]	0	EMPTY
+where turkish people originate?	5	people --> ranked list compiler ranked lists --> [u'Sexiest Man Alive']	0	EMPTY
+where turkish people originate?	5	people --> employment tenure person --> [u'Ann Moore']	0	EMPTY
+where turkish people originate?	5	people --> magazine genre --> [u'News', u'Celebrity', u'Human interest story']	0	EMPTY
+where turkish people originate?	5	people --> object name --> [u'People']	0	EMPTY
+where turkish people originate?	5	people --> employment tenure from --> [u'1991', u'1993', u'1998']	0	EMPTY
+where turkish people originate?	5	people --> object name --> [u'People']	0	EMPTY
+where turkish people originate?	5	people --> topic image --> [u'Eug\xc3\xa8ne Delacroix - La libert\xc3\xa9 guidant le peuple', u'Taiwanese people waiting for the Taipei Rapid Transit System in Taipei, Republic of China (Taiwan)', u'Batsheva theater crowd in Tel Aviv by David Shankbone']	0	EMPTY
+where turkish people originate?	5	people --> meeting focus focus of --> [u'AG Zionismusforschung Workshop /5']	0	EMPTY

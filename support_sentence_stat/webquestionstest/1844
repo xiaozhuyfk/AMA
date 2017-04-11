@@ -1,253 +1,253 @@
-when is the last time the ravens won a superbowl?	2029	wona --> object name --> [u'WONA']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> artist active start --> [u'1945']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> artist track --> [u'Count Every Star', u'Bye Bye Blues', u'Together', u'White Christmas', u'Green Eyes']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> artist label --> [u'Columbia', u'Mercury', u'National Records', u'Okeh Records', u'Jubilee Records']	1
-when is the last time the ravens won a superbowl?	2029	the ravens --> group membership end --> [u'1948']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> artist genre --> [u'Rhythm and blues', u'Doo-wop']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> group membership start --> [u'1946']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> group membership member --> [u'Ollie Jones', u'Louis Frazier']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> artist album --> [u'The Greatest Group of Them All/The Ravens', u'Birds of a Feather', u'Four Great Voices']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> object name --> [u'The Ravens']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> topic alias --> [u'Ravens, The']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> artist active end --> [u'1959']	0
-when is the last time the ravens won a superbowl?	2029	the last --> album genre --> [u'Latin pop', u'Bachata', u'Tropical']	0
-when is the last time the ravens won a superbowl?	2029	the last --> object name --> [u'The Last']	0
-when is the last time the ravens won a superbowl?	2029	the last --> album artist --> [u'Aventura']	5
-when is the last time the ravens won a superbowl?	2029	the last --> album album content type --> [u'Studio album']	0
-when is the last time the ravens won a superbowl?	2029	the last --> album release date --> [u'2009-06-09']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> object name --> [u'The Ravens']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> written work author --> [u'Christopher Robbins']	0
-when is the last time the ravens won a superbowl?	2029	the ravens --> book editions --> [u'The Ravens: pilots of the secret war in Laos', u"The Ravens: the men who flew in America's secret war in Laos"]	0
-when is the last time the ravens won a superbowl?	2029	the last --> object name --> [u'The Last']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> event entity involved --> [u'Robert Jenkinson, 2nd Earl of Liverpool', u'United Kingdom', u'William Henry Harrison', u'Choctaw', u'Potawatomi']	89
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> military conflict military personnel involved --> [u'Charles S. Boggs', u'Cadwalader Ringgold', u'Washington Duke', u'Stephen Decatur Trenchard', u'Sir George Cockburn, 10th Baronet']	4
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> taxonomy entry high --> [u'364.9']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> military command military combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands']	158
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> taxonomy entry prefix --> [u'E']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> historical event mention book --> [u'The Fortune of War']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead', u'Civilian - Dead']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> event event type --> [u'Military Conflict']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> event locations --> [u'North America', u'Pacific Ocean', u'Atlantic Ocean', u'Chesapeake Bay', u'Gulf Coast of the United States']	22
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> casualties combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands', u'British North America']	170
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> casualties lower estimate --> [u'500', u'1600', u'2260', u'3679', u'4505']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> event included in event --> [u'Napoleonic Wars']	81
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> event end date --> [u'1815-03-23']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> event start date --> [u'1812-06-18']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> taxonomy entry low --> [u'351']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> motivated event motive --> [u'Origins of the War of 1812']	4
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> event includes event --> [u"Second Battle of Sacket's Harbor", u'Battle of Fort Oswego', u"Battle of Crysler's Farm", u'Action off Charles Island', u'Battle of Longwoods']	21
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> object name --> [u'War of 1812']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> topic image --> [u'War of 1812', u'Push on, brave York volunteers', u'US Capitol 1814c']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> military combatant group combatants --> [u'United Kingdom', u'United States of America', u'Wyandot people', u'Cherokee', u'Iroquois']	163
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> film subject films --> [u'The Buccaneer']	0
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> military command military commander --> [u'James Madison', u'Roger Hale Sheaffe', u'Winfield Scott', u'George Pr\xe9vost', u'Isaac Brock']	75
-when is the last time the ravens won a superbowl?	2029	war of 1812 --> book subject works --> [u'The War of 1812', u'The Captain from Connecticut', u'Bright Captivity', u'The Fortune of War', u'Once on this island']	0
-when is the last time the ravens won a superbowl?	2029	the last --> artist active start --> [u'1976']	0
-when is the last time the ravens won a superbowl?	2029	the last --> artist track --> [u'So Quick to Say', u'I Saw Your Eyes', u'Another Side', u'Going Gone', u'And They Laugh']	0
-when is the last time the ravens won a superbowl?	2029	the last --> artist label --> [u'SST Records', u'BOMP Records']	0
-when is the last time the ravens won a superbowl?	2029	the last --> artist origin --> [u'Los Angeles']	0
-when is the last time the ravens won a superbowl?	2029	the last --> artist genre --> [u'Power pop', u'Rock music']	0
-when is the last time the ravens won a superbowl?	2029	the last --> group membership start --> [u'1976']	0
-when is the last time the ravens won a superbowl?	2029	the last --> webpage category --> [u'Official Website']	0
-when is the last time the ravens won a superbowl?	2029	the last --> group membership member --> [u'Bill Stevenson', u'Karl Alvarez', u'Dave Harbison', u'David Nolte', u'Dave Naz']	1
-when is the last time the ravens won a superbowl?	2029	the last --> artist album --> [u'Confession', u'Awakening', u'She Don\u2019t Know Why I\u2019m Here', u'L.A. Explosion', u'Painting Smiles on a Dead Man']	0
-when is the last time the ravens won a superbowl?	2029	the last --> object name --> [u'The Last']	0
-when is the last time the ravens won a superbowl?	2029	the last --> group membership end --> [u'1985']	0
-when is the last time the ravens won a superbowl?	2029	the last --> topic alias --> [u'Last', u'Last, The']	0
-when is the last time the ravens won a superbowl?	2029	the last --> topic official website --> [u'http://www.laexplosion.com/']	0
-when is the last time the ravens won a superbowl?	2029	the last --> webpage uri --> [u'http://www.laexplosion.com/']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> namesake named after --> [u'Super Ball']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> webpage resource --> [u'The PopWatch Confessional (Vol. 7)', u'Bruce Springsteen talks Super Bowl halftime show', u"'Sex and the City' soir\xe9es more popular than Oscar parties?!", u"Shaquille O'Neal threatens us with Speedo", u'Super Bowl 2010: Live-Blogging the Ads and the Music']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvX-Rh5wpEbGdrcN5Y29ycA']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> sports championship events --> [u'Super Bowl XIX', u'Super Bowl XXXVII', u'Super Bowl XLVI', u'Super Bowl III', u'Super Bowl XLIV']	118
-when is the last time the ravens won a superbowl?	2029	super bowl --> sports championship league --> [u'National Football League']	165
-when is the last time the ravens won a superbowl?	2029	super bowl --> equivalent topic equivalent type --> [u'Super bowl']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> topic alias --> [u'nfl championship', u'superbowl']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> webpage category --> [u'Curated Topic']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> daylife hero image id --> [u'0g3cdx3gVQdbH']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> recurring event current frequency --> [u'Yearly']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> object name --> [u'Super Bowl']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> topic image --> [u'Super Bowl', u'Superbowl Trophy Crop']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
-when is the last time the ravens won a superbowl?	2029	super bowl --> recurring event instances --> [u'Super Bowl XIX', u'Super Bowl XXXVII', u'Super Bowl XLVI', u'Super Bowl III', u'Super Bowl XLIV']	118
-when is the last time the ravens won a superbowl?	2029	super bowl --> book subject works --> [u'Boys Will Be Boys: The Glory Days and Party Nights of the Dallas Cowboys Dynasty']	0
-when is the last time the ravens won a superbowl?	2029	time --> topic social media presence --> [u'http://plus.google.com/110038350445855508357', u'http://twitter.com/TIME']	0
-when is the last time the ravens won a superbowl?	2029	time --> employment tenure title --> [u'Managing Director', u'Columnist', u'White House Correspondent', u'Corporate Financial analyst', u'Editor-at-large']	0
-when is the last time the ravens won a superbowl?	2029	time --> dated integer year --> [u'2007']	0
-when is the last time the ravens won a superbowl?	2029	time --> topic alias --> [u'Time Asia', u'Time Europe', u'Time Magazine']	0
-when is the last time the ravens won a superbowl?	2029	time --> webpage uri --> [u'http://www.time.com/']	0
-when is the last time the ravens won a superbowl?	2029	time --> employment tenure to --> [u'1933', u'1991', u'2008-12']	0
-when is the last time the ravens won a superbowl?	2029	time --> contents work --> [u'The Thriving Cult of Greed and Power', u'Remember Venus?', u'Scientology: Parry and Thrust']	7
-when is the last time the ravens won a superbowl?	2029	time --> daylife hero image id --> [u'0gZH6gc1YZ4cL']	0
-when is the last time the ravens won a superbowl?	2029	time --> periodical publication date date --> [u'1923-03-03']	0
-when is the last time the ravens won a superbowl?	2029	time --> arabic language media source city --> [u'London']	4
-when is the last time the ravens won a superbowl?	2029	time --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0
-when is the last time the ravens won a superbowl?	2029	time --> magazine issues --> [u'Time Magazine, Aug 23, 1999', u'Time Magazine, Apr 10, 2000', u'Time Magazine, Nov 23, 1970']	0
-when is the last time the ravens won a superbowl?	2029	time --> software developer software --> [u'TIME Mobile']	0
-when is the last time the ravens won a superbowl?	2029	time --> periodical issn --> [u'0040-781X']	0
-when is the last time the ravens won a superbowl?	2029	time --> topic official website --> [u'http://www.time.com/']	0
-when is the last time the ravens won a superbowl?	2029	time --> webpage description --> [u'Time']	0
-when is the last time the ravens won a superbowl?	2029	time --> editorial tenure editor --> [u'Adi Ignatius']	1
-when is the last time the ravens won a superbowl?	2029	time --> webpage resource --> [u'Aguilera music used to torture -- officially', u'HBO plans film on 2008 election', u'What electronic gadgets are on your holiday wish list?', u'Obama Joker Poster: Why So Serious?', u"'Saturday Night Live' offers whiff of Glenn Beck"]	0
-when is the last time the ravens won a superbowl?	2029	time --> periodical publisher period publisher --> [u'Time Inc.']	4
-when is the last time the ravens won a superbowl?	2029	time --> periodical frequency frequency --> [u'Weekly']	0
-when is the last time the ravens won a superbowl?	2029	time --> periodical subjects --> [u'News']	0
-when is the last time the ravens won a superbowl?	2029	time --> place of publication period place of publication --> [u'England', u'United States of America', u'Australia', u'Canada', u'New Zealand']	17
-when is the last time the ravens won a superbowl?	2029	time --> news report url --> [u'http://www.time.com/time/magazine/article/0,9171,807400,00.html', u'http://cbs2chicago.com/topstories/local_story_045223206.html', u'http://www.time.com/time/asia/asia/magazine/1999/990823/india_pakistan1.html', u'http://www.time.com/time/magazine/article/0,9171,902933,00.html', u'http://www.time.com/time/magazine/article/0,9171,939307,00.html']	0
-when is the last time the ravens won a superbowl?	2029	time --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
-when is the last time the ravens won a superbowl?	2029	time --> quotation source quotations --> [u'""I thought we were coming for""', u'""I thought we were coming in..']	0
-when is the last time the ravens won a superbowl?	2029	time --> news report event --> [u'Battle of Mogadishu', u'Lewinsky scandal', u'El Al Flight 402', u'United States Senate election in New York, 2000', u'Operation Janbaz']	0
-when is the last time the ravens won a superbowl?	2029	time --> ranked list compiler ranked lists --> [u'Time magazine\'s ""All-TIME"" 100 best novels', u'Time 100', u'Time 100: The Most Important People of the Century', u'Time Magazine Ten Biggest Tech Failures of the Last Decade', u"Time Magazine's All-Time 100 Movies"]	128
-when is the last time the ravens won a superbowl?	2029	time --> employment tenure person --> [u'Sanjay Gupta', u'John Dickerson', u'Jake Winebaum', u'Jay Carney', u'Robert Hughes']	6
-when is the last time the ravens won a superbowl?	2029	time --> dated integer number --> [u'3400000']	0
-when is the last time the ravens won a superbowl?	2029	time --> periodical eissn --> [u'1767509']	0
-when is the last time the ravens won a superbowl?	2029	time --> periodical language --> [u'English Language']	2
-when is the last time the ravens won a superbowl?	2029	time --> magazine genre --> [u'News magazine']	1
-when is the last time the ravens won a superbowl?	2029	time --> object name --> [u'Time']	0
-when is the last time the ravens won a superbowl?	2029	time --> employment tenure from --> [u'1969', u'1970', u'1978', u'1986', u'2005-09']	0
-when is the last time the ravens won a superbowl?	2029	time --> editorial tenure title --> [u'Deputy Managing Editor']	0
-when is the last time the ravens won a superbowl?	2029	time --> arabic language media source country --> [u'United Kingdom']	1
-when is the last time the ravens won a superbowl?	2029	time --> news report title --> [u'Capitol Hill', u'Through the Curtain', u'Why Pakistan Must Widen Its Hunt for Militant Bases', u'Anatomy of a Disaster', u"Can't Stop the Madness"]	0
-when is the last time the ravens won a superbowl?	2029	time --> news report date --> [u'1961-11-17', u'2000-11-20', u'2006-02-27', u'2009-10-13', u'1955-08-08']	0
-when is the last time the ravens won a superbowl?	2029	raven --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the ravens won a superbowl?	2029	raven --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvWQTspwpEbGdrcN5Y29ycA']	0
-when is the last time the ravens won a superbowl?	2029	raven --> school mascot school --> [u'Maur Hill \u2013 Mount Academy', u'Rocky River High School', u'Ravenscroft School', u'Rosedale Heights School of the Arts', u'Canyon Crest Academy']	0
-when is the last time the ravens won a superbowl?	2029	raven --> object name --> [u'Raven']	0
-when is the last time the ravens won a superbowl?	2029	raven --> topic image --> [u'Common Raven at  Bryce Canyon National Park, USA', u'Ravin flying 2']	0
-when is the last time the ravens won a superbowl?	2029	raven --> linguistic hint subject form --> [u'Ravens']	0
-when is the last time the ravens won a superbowl?	2029	raven --> book subject works --> [u'In the Company of Crows and Ravens']	0
-when is the last time the ravens won a superbowl?	2029	time --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the ravens won a superbowl?	2029	time --> webpage resource --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0
-when is the last time the ravens won a superbowl?	2029	time --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViAw5wpEbGdrcN5Y29ycA']	0
-when is the last time the ravens won a superbowl?	2029	time --> taxonomy entry low --> [u'209']	0
-when is the last time the ravens won a superbowl?	2029	time --> topic topical webpage --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0
-when is the last time the ravens won a superbowl?	2029	time --> processed with review queue question id --> [u'/rabj/store/questions/question_b27d0d5a61642c39']	0
-when is the last time the ravens won a superbowl?	2029	time --> equivalent topic equivalent domain --> [u'Time']	0
-when is the last time the ravens won a superbowl?	2029	time --> taxonomy entry high --> [u'224']	0
-when is the last time the ravens won a superbowl?	2029	time --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when is the last time the ravens won a superbowl?	2029	time --> webpage category --> [u'Topic Webpage']	0
-when is the last time the ravens won a superbowl?	2029	time --> object name --> [u'Time']	0
-when is the last time the ravens won a superbowl?	2029	time --> topic image --> [u'Wooden hourglass 3', u'A savonette-type pocket watch', u'C solarcorona2003']	0
-when is the last time the ravens won a superbowl?	2029	time --> dimension instruments --> [u'Clock', u'Cuckoo clock', u'Water clock']	0
-when is the last time the ravens won a superbowl?	2029	time --> dimension si base unit --> [u'Second']	0
-when is the last time the ravens won a superbowl?	2029	time --> book subject musical compositions about this topic --> [u'Time']	0
-when is the last time the ravens won a superbowl?	2029	time --> vocabulary equivalent topic equivalent concept --> [u'Time']	0
-when is the last time the ravens won a superbowl?	2029	time --> dimension units --> [u'Month', u'petasecond', u'decisecond', u'Second', u'picosecond']	0
-when is the last time the ravens won a superbowl?	2029	time --> webpage description --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0
-when is the last time the ravens won a superbowl?	2029	time --> taxonomy entry prefix --> [u'QB']	0
-when is the last time the ravens won a superbowl?	2029	time --> book subject works --> [u'Being in time', u'The Garden of Time', u'Prisoner of Time', u'Faster: The Acceleration of Just About Everything', u'De revolutionibus orbium coelestium']	0
-when is the last time the ravens won a superbowl?	2029	time --> webpage uri --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> namesake named after --> [u'The Raven']	1
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position position --> [u'Placekicker', u'Tackle', u'Running back', u'Linebacker', u'Tight end']	9
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection scoring --> [u'PPR, 6 pt Pass TD, -2 INT, Standard Performance']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> daylife hero image id --> [u'0cT93OzaVh9sQ']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team division --> [u'AFC North']	4
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league participation league --> [u'National Football League', u'AFC North', u'American Football Conference']	150
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> professional sports team owner s --> [u'Steve Bisciotti']	6
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster to --> [u'1997', u'1999', u'2000', u'2001', u'2002']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities original city --> [u'Cleveland']	2
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster from --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Defensive lineman']	3
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> tv subject tv episodes --> [u"The Band That Wouldn't Die"]	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster number --> [u'2', u'11', u'12', u'15', u'16']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league draft pick pick overall --> [u'10', u'12', u'18', u'19', u'22']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection ff points --> [u'176']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team season record losses --> [u'3', u'4', u'5', u'6', u'7']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkJOJwpEbGdrcN5Y29ycA']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection season --> [u'2007']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster player --> [u'Ed Reed', u'Aubrayo Franklin', u'Josh Bynes', u'Prescott Burgess', u'Darian Durant']	13
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster player --> [u'James Ihedigbo', u'Omar Brown', u'Anthony Levine', u'Ed Dickson', u'Justin Tucker']	8
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical coach position position --> [u'Assistant Coach', u'Offensive coordinator', u'American football positions', u'Defensive coordinator']	1
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position player --> [u'James Ihedigbo', u'Omar Brown', u'Anthony Levine', u'Ed Dickson', u'Justin Tucker']	8
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Defensive lineman']	3
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team abbreviation --> [u'Bal']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team founded --> [u'1996']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team season record ties --> [u'0', u'1']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> player projection --> [u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: Baltimore Ravens', u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: Baltimore Ravens', u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: Baltimore Ravens']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> context name nickname --> [u'Purple Pain', u'Ball So Hard University', u'Death on Wings', u'Purple Murder', u'Riptide Rush']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position from --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position from --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster from --> [u'2003', u'2006', u'2007', u'2008', u'2010']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> topic official website --> [u'http://www.baltimoreravens.com/']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team championships --> [u'Super Bowl XLVII', u'Super Bowl XXXV']	88
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team season record season --> [u'2002 NFL season', u'2008 NFL season', u'2004 NFL season', u'2005 NFL season', u'2003 NFL season']	40
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection x factor --> [u'176']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position player --> [u'Ed Reed', u'Aubrayo Franklin', u'Josh Bynes', u'Prescott Burgess', u'Darian Durant']	13
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage uri --> [u'http://topics.nytimes.com/top/news/sports/profootball/nationalfootballleague/baltimoreravens/index.html', u'http://www.baltimoreravens.com']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position to --> [u'1997', u'1999', u'2000', u'2001', u'2002']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position number --> [u'2', u'4', u'5', u'9', u'11']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical coach position from --> [u'1999', u'2005', u'2008', u'2008-11-23']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team location --> [u'Baltimore']	17
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities destination city --> [u'Baltimore']	17
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league draft pick school --> [u'University of Oklahoma', u'Auburn University', u'University of California', u'University of Mississippi', u'Arizona State University']	2
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage description --> [u'New York Times']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position position s --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Defensive lineman']	3
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster to --> [u'2012', u'2013', u'2013-06-05']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities new team name --> [u'Baltimore Ravens']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position player --> [u'Ed Reed', u'Aubrayo Franklin', u'Josh Bynes', u'Prescott Burgess', u'Darian Durant']	13
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team conference --> [u'American Football Conference']	7
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position to --> [u'1997', u'1999', u'2000', u'2001', u'2002']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage category --> [u'Topic Webpage', u'Official Website']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster position --> [u'Placekicker', u'Tackle', u'Running back', u'Linebacker', u'Tight end']	9
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical coach position to --> [u'2004', u'2008', u'2012']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection adp --> [u'0', u'59', u'59.54']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team season record wins --> [u'4', u'5', u'6', u'7', u'8']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position position --> [u'Placekicker', u'Tackle', u'Running back', u'Linebacker', u'Tight end']	9
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team away games --> [u'Baltimore Ravens at Indianapolis Colts, 2010-01-16', u'Baltimore Ravens at Minnesota Vikings, 2009-10-18', u'Baltimore Ravens at Tennessee Titans, 2009-01-10', u'Baltimore Ravens at Cleveland Browns, 2008-11-02', u'Baltimore Ravens at Cincinnati Bengals, 2009-11-08']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position number --> [u'1', u'3', u'6', u'7', u'8']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position player --> [u'Josh Bynes', u'James Ihedigbo', u'Omar Brown', u'Anthony Levine', u'Jeff Braun']	6
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> topic topical webpage --> [u'http://topics.nytimes.com/top/news/sports/profootball/nationalfootballleague/baltimoreravens/index.html']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster player --> [u'Ed Reed', u'Aubrayo Franklin', u'Josh Bynes', u'Prescott Burgess', u'Darian Durant']	13
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league draft pick draft --> [u'2007 NFL Draft', u'2008 NFL Draft', u'2003 NFL Draft', u'2005 NFL Draft', u'2006 NFL Draft']	2
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> personal film appearance film --> [u'NFL Greatest Super Bowl Moments: I-XLI']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster to --> [u'1997', u'1999', u'2000', u'2001', u'2002']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> topic social media presence --> [u'http://plus.google.com/105172948731475917479']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position number --> [u'1', u'3', u'6', u'7', u'8']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team fight song --> [u'The Baltimore Fight Song', u'Ravenation', u'Seven Nation Army', u'For Baltimore']	2
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position position s --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Defensive lineman']	3
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team coach tenure position --> [u'Quarterbacks coach']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster from --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster number --> [u'2', u'1', u'10', u'11', u'12']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities first season --> [u'1996']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical coach position coach --> [u'Rex Ryan', u'Cam Cameron']	7
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team team mascot --> [u'Rise', u'Poe', u'Conquer']	1
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster number --> [u'1', u'10', u'13', u'14', u'15']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage resource --> [u"Ratings: 'American Idol' roars back but gets sidelined by football for the week", u"'Big Bang Theory': Sheldon and Leonard talk football, fly kites", u'New York Times', u'\u201cThe Blind Side\u201d: It\u2019s All in the Family']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team sport --> [u'American football']	74
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> film subject films --> [u"The Band That Wouldn't Die"]	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league draft pick player --> [u'Terrell Suggs', u'Michael Oher', u'Kyle Boller', u'Joe Flacco', u'Mark Gregory Clayton']	52
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position number --> [u'2', u'4', u'5', u'9', u'11']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team coach tenure coach --> [u'Jim Caldwell']	2
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team colors --> [u'White', u'Black', u'Gold', u'Purple']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team home games --> [u'Philadelphia Eagles at Baltimore Ravens, 2008-11-23', u'Pittsburgh Steelers at Baltimore Ravens, 2008-12-14', u'Cleveland Browns at Baltimore Ravens, 2009-09-27', u'Tennessee Titans at Baltimore Ravens, 2008-10-05', u'Kansas City Chiefs at Baltimore Ravens, 2009-09-13']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities old team name --> [u'Cleveland Browns']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team current head coach --> [u'John Harbaugh']	30
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team arena stadium --> [u'M&T Bank Stadium']	45
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> tv guest role episodes appeared in --> [u'Baltimore Ravens at Pittsburgh Steelers', u'Baltimore at Denver', u'Green Bay Packers at Baltimore Ravens', u'Baltimore Ravens at Pittsburgh Steelers', u'Kansas City Chiefs at Baltimore Ravens']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> object name --> [u'Baltimore Ravens']	0
-when is the last time the ravens won a superbowl?	2029	baltimore ravens --> topic image --> [u'Baltimore Ravens']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> object name --> [u'Common Raven']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> bird taxa hummingbird --> [u'0']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data summer abundance --> [u'Rare', u'Uncommon', u'Fairly Common', u'Abundant']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data breeding status --> [u'Known Breeder', u'Regular Breeder']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> organism classification scientific name --> [u'Corvus corax']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> organism classification higher classification --> [u'Crow']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> bird taxa bird taxon --> [u'1']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> bird taxa aou number --> [u'486']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> topic alias --> [u'CORA', u'corvus corax']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> documented priority species priority level --> [u'SC Moderate Priority Species', u'TB-r1', u'Apparently Secure within State/Province', u'Critically Imperiled in Kentucky', u'Kentucky Threatened Species']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> documented priority species location --> [u'Kentucky', u'South Carolina', u'Bird Conservation Region 1', u'Bird Conservation Region 10']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> documented priority species source --> [u'South Carolina Comprehensive Wildlife Conservation Strategy 2005 - 2010', u'Partners in Flight Species Assessment Database (2005)', u"Kentucky's Comprehensive Wildlife Conservation Strategy"]	0
-when is the last time the ravens won a superbowl?	2029	common raven --> topic image --> [u'Common raven by David Hofmann', u'Common Raven at  Bryce Canyon National Park, USA']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> organism classification rank --> [u'Species']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> focal taxa conservation projects --> [u'NCWRC Cold Mountain Game Land Bird Survey', u'Investigation of Cliffs and Cliff-nesting Birds of the Southern Appalachians', u'The Common Raven (Corvus corax) in Tennessee']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data winter abundance --> [u'Rare', u'Uncommon', u'Fairly Common', u'Abundant']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data spring abundance --> [u'Rare', u'Uncommon', u'Fairly Common', u'Abundant']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data aba abundance code --> [u'2']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> bird taxa leg band size s --> [u'7A', u'6']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data fall abundance --> [u'Rare', u'Uncommon', u'Fairly Common', u'Abundant']	0
-when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data checklist --> [u'Checklist of Birds of the San Francisco Bay National Wildlife Refuge', u'Elkhorn Slough Bird Checklist', u'Checklist of Birds of the City of San Francisco', u'Checklist of the Birds of Sutro Heights', u'Checklist of Birds of Vermont']	0
+when is the last time the ravens won a superbowl?	2029	wona --> object name --> [u'WONA']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> artist active start --> [u'1945']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> artist track --> [u'Count Every Star', u'Bye Bye Blues', u'Together', u'White Christmas', u'Green Eyes']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> artist label --> [u'Columbia', u'Mercury', u'National Records', u'Okeh Records', u'Jubilee Records']	1	The group won a recording deal with the "It's A Natural" record label, a subsidiary of [[Jubilee Records]], and changed their name to '''The Orioles''' in honor of the [[New World Oriole|state bird]] of Maryland and in emulation of another popular group, [[The Ravens]].
+when is the last time the ravens won a superbowl?	2029	the ravens --> group membership end --> [u'1948']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> artist genre --> [u'Rhythm and blues', u'Doo-wop']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> group membership start --> [u'1946']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> group membership member --> [u'Ollie Jones', u'Louis Frazier']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> artist album --> [u'The Greatest Group of Them All/The Ravens', u'Birds of a Feather', u'Four Great Voices']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> object name --> [u'The Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> topic alias --> [u'Ravens, The']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> artist active end --> [u'1959']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> album genre --> [u'Latin pop', u'Bachata', u'Tropical']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> object name --> [u'The Last']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> album artist --> [u'Aventura']	5	|align="center" |'''''[[The Last (album)|The Last]]''''' - [[Aventura (band)|Aventura]]
+when is the last time the ravens won a superbowl?	2029	the last --> album album content type --> [u'Studio album']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> album release date --> [u'2009-06-09']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> object name --> [u'The Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> written work author --> [u'Christopher Robbins']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the ravens --> book editions --> [u'The Ravens: pilots of the secret war in Laos', u"The Ravens: the men who flew in America's secret war in Laos"]	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> object name --> [u'The Last']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> event entity involved --> [u'Robert Jenkinson, 2nd Earl of Liverpool', u'United Kingdom', u'William Henry Harrison', u'Choctaw', u'Potawatomi']	89	* November 3 &ndash; The [[Treaty of St. Louis (1804)]] is signed by [[Quashquame]] and [[William Henry Harrison]]; controversy surrounding the treaty eventually causes the [[Sauk people|Sauk]]s to ally with the British during the [[War of 1812]] and is the main cause of the [[Black Hawk War]] of 1832.
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> military conflict military personnel involved --> [u'Charles S. Boggs', u'Cadwalader Ringgold', u'Washington Duke', u'Stephen Decatur Trenchard', u'Sir George Cockburn, 10th Baronet']	4	His ancestral family included [[Sir George Cockburn, 10th Baronet]], who was responsible for [[Burning of Washington|burning down Washington]] in the [[War of 1812]].
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> taxonomy entry high --> [u'364.9']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> military command military combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands']	158	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> taxonomy entry prefix --> [u'E']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> historical event mention book --> [u'The Fortune of War']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead', u'Civilian - Dead']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> event event type --> [u'Military Conflict']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> event locations --> [u'North America', u'Pacific Ocean', u'Atlantic Ocean', u'Chesapeake Bay', u'Gulf Coast of the United States']	22	This representation depicts the moment that inspired the poem "[[Defence of Fort McHenry]]" which he wrote after witnessing the bombardment of [[Fort McHenry]] by the British Royal Navy ships in [[Chesapeake Bay]] during the [[Battle of Fort McHenry]] in the [[War of 1812]].
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> casualties combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands', u'British North America']	170	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> casualties lower estimate --> [u'500', u'1600', u'2260', u'3679', u'4505']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> event included in event --> [u'Napoleonic Wars']	81	Sir '''Salusbury Pryce Humphreys'''  (24 November 1778 – 17 November 1845), later called '''Salusbury Pryce Davenport''', was an officer of the [[Royal Navy]] who saw service during the [[French Revolutionary Wars|French Revolutionary]] and [[Napoleonic Wars]] and the [[War of 1812]], rising to the rank of [[Rear Admiral (Royal Navy)|rear-admiral]].
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> event end date --> [u'1815-03-23']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> event start date --> [u'1812-06-18']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> taxonomy entry low --> [u'351']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> motivated event motive --> [u'Origins of the War of 1812']	4	[[Origins of the War of 1812|This was one of the major factors]] leading to the [[War of 1812]] in North America.
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> event includes event --> [u"Second Battle of Sacket's Harbor", u'Battle of Fort Oswego', u"Battle of Crysler's Farm", u'Action off Charles Island', u'Battle of Longwoods']	21	| The site of the [[Battle of Longwoods]] during the [[War of 1812]] 
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> object name --> [u'War of 1812']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> topic image --> [u'War of 1812', u'Push on, brave York volunteers', u'US Capitol 1814c']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> military combatant group combatants --> [u'United Kingdom', u'United States of America', u'Wyandot people', u'Cherokee', u'Iroquois']	163	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> film subject films --> [u'The Buccaneer']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> military command military commander --> [u'James Madison', u'Roger Hale Sheaffe', u'Winfield Scott', u'George Pr\xe9vost', u'Isaac Brock']	75	This is believed to have been only the second time in American history that a sitting president came under enemy fire during a war (the first being President [[James Madison]] during the [[War of 1812]]).
+when is the last time the ravens won a superbowl?	2029	war of 1812 --> book subject works --> [u'The War of 1812', u'The Captain from Connecticut', u'Bright Captivity', u'The Fortune of War', u'Once on this island']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> artist active start --> [u'1976']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> artist track --> [u'So Quick to Say', u'I Saw Your Eyes', u'Another Side', u'Going Gone', u'And They Laugh']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> artist label --> [u'SST Records', u'BOMP Records']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> artist origin --> [u'Los Angeles']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> artist genre --> [u'Power pop', u'Rock music']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> group membership start --> [u'1976']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> webpage category --> [u'Official Website']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> group membership member --> [u'Bill Stevenson', u'Karl Alvarez', u'Dave Harbison', u'David Nolte', u'Dave Naz']	1	Brandenburg and Rikk and Frank Agnew joined other Southern California punk musicians including Bruce Duff (of [[45 Grave]], Twisted Roots, Sister Goddamn, and several [[Jeff Dahl]] projects), [[Jonny Wickersham]], and Warner Young for ''Pinups'', an album of cover versions of punk rock songs from the 1970s and early 1980s on which Soto sang backing vocals alongside [[Dave Naz]] (of the [[Chemical People]], [[Down by Law (band)|Down by Law]], and [[The Last (band)|the Last]]) and Rik L. Rik (of F-Word!
+when is the last time the ravens won a superbowl?	2029	the last --> artist album --> [u'Confession', u'Awakening', u'She Don\u2019t Know Why I\u2019m Here', u'L.A. Explosion', u'Painting Smiles on a Dead Man']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> object name --> [u'The Last']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> group membership end --> [u'1985']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> topic alias --> [u'Last', u'Last, The']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> topic official website --> [u'http://www.laexplosion.com/']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	the last --> webpage uri --> [u'http://www.laexplosion.com/']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> namesake named after --> [u'Super Ball']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> webpage resource --> [u'The PopWatch Confessional (Vol. 7)', u'Bruce Springsteen talks Super Bowl halftime show', u"'Sex and the City' soir\xe9es more popular than Oscar parties?!", u"Shaquille O'Neal threatens us with Speedo", u'Super Bowl 2010: Live-Blogging the Ads and the Music']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvX-Rh5wpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> sports championship events --> [u'Super Bowl XIX', u'Super Bowl XXXVII', u'Super Bowl XLVI', u'Super Bowl III', u'Super Bowl XLIV']	118	* [[Super Bowl]] champion ([[Super Bowl XLIV|XLIV]]) as assistant coach
+when is the last time the ravens won a superbowl?	2029	super bowl --> sports championship league --> [u'National Football League']	165	"Lisa the Greek" references both the [[Super Bowl]] and the [[National Football League]] (NFL).
+when is the last time the ravens won a superbowl?	2029	super bowl --> equivalent topic equivalent type --> [u'Super bowl']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> topic alias --> [u'nfl championship', u'superbowl']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> webpage category --> [u'Curated Topic']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> daylife hero image id --> [u'0g3cdx3gVQdbH']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> recurring event current frequency --> [u'Yearly']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> object name --> [u'Super Bowl']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> topic image --> [u'Super Bowl', u'Superbowl Trophy Crop']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	super bowl --> recurring event instances --> [u'Super Bowl XIX', u'Super Bowl XXXVII', u'Super Bowl XLVI', u'Super Bowl III', u'Super Bowl XLIV']	118	* [[Super Bowl]] champion ([[Super Bowl XLIV|XLIV]]) as assistant coach
+when is the last time the ravens won a superbowl?	2029	super bowl --> book subject works --> [u'Boys Will Be Boys: The Glory Days and Party Nights of the Dallas Cowboys Dynasty']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> topic social media presence --> [u'http://plus.google.com/110038350445855508357', u'http://twitter.com/TIME']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> employment tenure title --> [u'Managing Director', u'Columnist', u'White House Correspondent', u'Corporate Financial analyst', u'Editor-at-large']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> dated integer year --> [u'2007']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> topic alias --> [u'Time Asia', u'Time Europe', u'Time Magazine']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> webpage uri --> [u'http://www.time.com/']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> employment tenure to --> [u'1933', u'1991', u'2008-12']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> contents work --> [u'The Thriving Cult of Greed and Power', u'Remember Venus?', u'Scientology: Parry and Thrust']	7	* [[1991]] – ''[[Time (magazine)|Time]]'' magazine published "'''[[The Thriving Cult of Greed and Power]]'''", an article highly critical of the [[Scientology]] organization, leading to years of legal conflict that ended when the [[Church of Scientology]]'s petition for a [[writ]] of [[certiorari]] to the [[Supreme Court of the United States]] in the case was denied in 2001.
+when is the last time the ravens won a superbowl?	2029	time --> daylife hero image id --> [u'0gZH6gc1YZ4cL']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> periodical publication date date --> [u'1923-03-03']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> arabic language media source city --> [u'London']	4	Three years in the making, the [[2004 Summer Olympics Opening Ceremony|Opening Ceremony]] was hailed a "triumph" by ''[[Time (magazine)|Time]]'' magazine and ''[[The Times]]'' of [[London]].
+when is the last time the ravens won a superbowl?	2029	time --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> magazine issues --> [u'Time Magazine, Aug 23, 1999', u'Time Magazine, Apr 10, 2000', u'Time Magazine, Nov 23, 1970']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> software developer software --> [u'TIME Mobile']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> periodical issn --> [u'0040-781X']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> topic official website --> [u'http://www.time.com/']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> webpage description --> [u'Time']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> editorial tenure editor --> [u'Adi Ignatius']	1	In 2009, HBR brought on [[Adi Ignatius]], the former deputy managing editor of [[Time (magazine)|Time magazine]], to be its [[editor-in-chief]].
+when is the last time the ravens won a superbowl?	2029	time --> webpage resource --> [u'Aguilera music used to torture -- officially', u'HBO plans film on 2008 election', u'What electronic gadgets are on your holiday wish list?', u'Obama Joker Poster: Why So Serious?', u"'Saturday Night Live' offers whiff of Glenn Beck"]	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> periodical publisher period publisher --> [u'Time Inc.']	4	After graduation, Agee was hired by the [[Time Inc.]] as a reporter, and moved to New York City, where he wrote for ''[[Fortune (magazine)|Fortune]]'' magazine in 1932-1937, although he is better known for his later film criticism in ''[[Time (magazine)|Time]]'' and ''[[The Nation (U.S. periodical)|The Nation]]''.
+when is the last time the ravens won a superbowl?	2029	time --> periodical frequency frequency --> [u'Weekly']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> periodical subjects --> [u'News']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> place of publication period place of publication --> [u'England', u'United States of America', u'Australia', u'Canada', u'New Zealand']	17	'''James Geary''' (born 1962) is an [[United States|American]]-born writer, former [[Europe]] editor of ''[[Time (magazine)|Time]]'' and deputy curator of the [[Nieman Foundation for Journalism]] at [[Harvard]].
+when is the last time the ravens won a superbowl?	2029	time --> news report url --> [u'http://www.time.com/time/magazine/article/0,9171,807400,00.html', u'http://cbs2chicago.com/topstories/local_story_045223206.html', u'http://www.time.com/time/asia/asia/magazine/1999/990823/india_pakistan1.html', u'http://www.time.com/time/magazine/article/0,9171,902933,00.html', u'http://www.time.com/time/magazine/article/0,9171,939307,00.html']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> quotation source quotations --> [u'""I thought we were coming for""', u'""I thought we were coming in..']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> news report event --> [u'Battle of Mogadishu', u'Lewinsky scandal', u'El Al Flight 402', u'United States Senate election in New York, 2000', u'Operation Janbaz']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> ranked list compiler ranked lists --> [u'Time magazine\'s ""All-TIME"" 100 best novels', u'Time 100', u'Time 100: The Most Important People of the Century', u'Time Magazine Ten Biggest Tech Failures of the Last Decade', u"Time Magazine's All-Time 100 Movies"]	128	The 2013, 2014 and 2015 issues of ''[[Time (magazine)|Time]]'' magazine featured Malala as one of [[Time 100|the most Influential people]] globally.
+when is the last time the ravens won a superbowl?	2029	time --> employment tenure person --> [u'Sanjay Gupta', u'John Dickerson', u'Jake Winebaum', u'Jay Carney', u'Robert Hughes']	6	The anchors on the premiere telecast of ''20/20'' were renowned ''[[Esquire (magazine)|Esquire]]'' magazine editor [[Harold Hayes]], who also served as the program's senior producer, and famed ''[[Time (magazine)|Time]]'' art critic [[Robert Hughes (critic)|Robert Hughes]].
+when is the last time the ravens won a superbowl?	2029	time --> dated integer number --> [u'3400000']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> periodical eissn --> [u'1767509']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> periodical language --> [u'English Language']	2	He was well known for his speeches in which he complained about the improper usages of the [[English language]], especially in the [[United States]] as can be seen in this [[Time (magazine)|Time Magazine]] article from 1957.
+when is the last time the ravens won a superbowl?	2029	time --> magazine genre --> [u'News magazine']	1	On 10 September 2007, Indonesia's Supreme Court awarded Suharto [[damages]] against ''[[Time (magazine)|Time Asia]]'' [[News magazine|magazine]], ordering it to pay him one trillion [[Indonesian rupiah|rupiah]] ($128.59 million).
+when is the last time the ravens won a superbowl?	2029	time --> object name --> [u'Time']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> employment tenure from --> [u'1969', u'1970', u'1978', u'1986', u'2005-09']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> editorial tenure title --> [u'Deputy Managing Editor']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> arabic language media source country --> [u'United Kingdom']	1	After receiving mixed initial reviews (and criticism due to its violent content), it went on to garner a high critical reputation and is now regarded among the [[Films considered the greatest ever|greatest films ever made]], including by [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'', [[Gene Siskel]] of the ''[[Chicago Tribune]]'', [[United Kingdom|British]] film historian [[Leslie Halliwell]], the [[American Film Institute]], ''[[Time (magazine)|Time]]'', ''[[The New York Times]]'', ''[[Variety (magazine)|Variety]]'', ''[[Entertainment Weekly]]'', ''[[Empire (magazine)|Empire]]'', ''[[Total Film]]'', ''[[Film 4]]'', and [[British Film Institute|BFI]]'s ''[[Sight and Sound]].''
+when is the last time the ravens won a superbowl?	2029	time --> news report title --> [u'Capitol Hill', u'Through the Curtain', u'Why Pakistan Must Widen Its Hunt for Militant Bases', u'Anatomy of a Disaster', u"Can't Stop the Madness"]	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> news report date --> [u'1961-11-17', u'2000-11-20', u'2006-02-27', u'2009-10-13', u'1955-08-08']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	raven --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	raven --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvWQTspwpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	raven --> school mascot school --> [u'Maur Hill \u2013 Mount Academy', u'Rocky River High School', u'Ravenscroft School', u'Rosedale Heights School of the Arts', u'Canyon Crest Academy']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	raven --> object name --> [u'Raven']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	raven --> topic image --> [u'Common Raven at  Bryce Canyon National Park, USA', u'Ravin flying 2']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	raven --> linguistic hint subject form --> [u'Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	raven --> book subject works --> [u'In the Company of Crows and Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> webpage resource --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViAw5wpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> taxonomy entry low --> [u'209']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> topic topical webpage --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> processed with review queue question id --> [u'/rabj/store/questions/question_b27d0d5a61642c39']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> equivalent topic equivalent domain --> [u'Time']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> taxonomy entry high --> [u'224']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> webpage category --> [u'Topic Webpage']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> object name --> [u'Time']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> topic image --> [u'Wooden hourglass 3', u'A savonette-type pocket watch', u'C solarcorona2003']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> dimension instruments --> [u'Clock', u'Cuckoo clock', u'Water clock']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> dimension si base unit --> [u'Second']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> book subject musical compositions about this topic --> [u'Time']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> vocabulary equivalent topic equivalent concept --> [u'Time']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> dimension units --> [u'Month', u'petasecond', u'decisecond', u'Second', u'picosecond']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> webpage description --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> taxonomy entry prefix --> [u'QB']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> book subject works --> [u'Being in time', u'The Garden of Time', u'Prisoner of Time', u'Faster: The Acceleration of Just About Everything', u'De revolutionibus orbium coelestium']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	time --> webpage uri --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> namesake named after --> [u'The Raven']	1	Some of Carlson's more elaborate comedic moments involved complex re-wordings of [[The Raven]] during a rough patch for the [[Baltimore Ravens]], and singing a re-lyricised version of ''[[John Brown's Body]]'' entitled ''[[Jeff George]] Is Marching On'' – to a particularly miserable [[Dallas Cowboys]] performance, which included noted quarterback bust [[Ryan Leaf]].
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position position --> [u'Placekicker', u'Tackle', u'Running back', u'Linebacker', u'Tight end']	9	| [[Linebacker#Outside linebacker|OLB]] || [[Darryl Blackstock]] || UFA || [[Baltimore Ravens]] ||
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection scoring --> [u'PPR, 6 pt Pass TD, -2 INT, Standard Performance']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> daylife hero image id --> [u'0cT93OzaVh9sQ']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team division --> [u'AFC North']	4	|[[2006 NFL season|2006]] || [[Baltimore Ravens]] || [[AFC North]] || 13-3 || 6-10
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league participation league --> [u'National Football League', u'AFC North', u'American Football Conference']	150	The '''[[2002 NFL season|2002]] [[Baltimore Ravens]] season''' was the team's seventh season in the [[National Football League]] (NFL).
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> professional sports team owner s --> [u'Steve Bisciotti']	6	*[[Steve Bisciotti]] - Owner, [[Baltimore Ravens]] Football Team
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster to --> [u'1997', u'1999', u'2000', u'2001', u'2002']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities original city --> [u'Cleveland']	2	(This move proved so [[Cleveland Browns relocation controversy|unpopular]] in [[Cleveland]] that the move was treated as the [[Baltimore Ravens]] being awarded an expansion franchise, and the Browns name and their official lineage would remain in Cleveland for a "reactivated" team that rejoined the NFL [[1999 NFL season|three years later]].)
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster from --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Defensive lineman']	3	|[[2003 NFL Season|2003]]||||[[Running back]]||[[Baltimore Ravens]]||
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> tv subject tv episodes --> [u"The Band That Wouldn't Die"]	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster number --> [u'2', u'11', u'12', u'15', u'16']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league draft pick pick overall --> [u'10', u'12', u'18', u'19', u'22']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection ff points --> [u'176']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team season record losses --> [u'3', u'4', u'5', u'6', u'7']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkJOJwpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection season --> [u'2007']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster player --> [u'Ed Reed', u'Aubrayo Franklin', u'Josh Bynes', u'Prescott Burgess', u'Darian Durant']	13	* [[Prescott Burgess]] – [[Baltimore Ravens|Baltimore Raven's]] 6th-round pick in 2007 NFL draft
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster player --> [u'James Ihedigbo', u'Omar Brown', u'Anthony Levine', u'Ed Dickson', u'Justin Tucker']	8	* [[James Ihedigbo]] professional football player, [[Baltimore Ravens]]
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical coach position position --> [u'Assistant Coach', u'Offensive coordinator', u'American football positions', u'Defensive coordinator']	1	* [[David Hale (American football)|David Hale]] - Former [[NFL]] [[American football positions|Offensive lineman]], for the [[Baltimore Ravens]]
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position player --> [u'James Ihedigbo', u'Omar Brown', u'Anthony Levine', u'Ed Dickson', u'Justin Tucker']	8	* [[James Ihedigbo]] professional football player, [[Baltimore Ravens]]
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Defensive lineman']	3	|[[2003 NFL Season|2003]]||||[[Running back]]||[[Baltimore Ravens]]||
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team abbreviation --> [u'Bal']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team founded --> [u'1996']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team season record ties --> [u'0', u'1']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> player projection --> [u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: Baltimore Ravens', u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: Baltimore Ravens', u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: Baltimore Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> context name nickname --> [u'Purple Pain', u'Ball So Hard University', u'Death on Wings', u'Purple Murder', u'Riptide Rush']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position from --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position from --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster from --> [u'2003', u'2006', u'2007', u'2008', u'2010']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> topic official website --> [u'http://www.baltimoreravens.com/']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team championships --> [u'Super Bowl XLVII', u'Super Bowl XXXV']	88	| Starting tight end for the [[NFL]]'s [[Baltimore Ravens]], [[Super Bowl XLVII]] champion
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team season record season --> [u'2002 NFL season', u'2008 NFL season', u'2004 NFL season', u'2005 NFL season', u'2003 NFL season']	40	The '''[[2002 NFL season|2002]] [[Baltimore Ravens]] season''' was the team's seventh season in the [[National Football League]] (NFL).
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection x factor --> [u'176']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position player --> [u'Ed Reed', u'Aubrayo Franklin', u'Josh Bynes', u'Prescott Burgess', u'Darian Durant']	13	* [[Prescott Burgess]] – [[Baltimore Ravens|Baltimore Raven's]] 6th-round pick in 2007 NFL draft
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage uri --> [u'http://topics.nytimes.com/top/news/sports/profootball/nationalfootballleague/baltimoreravens/index.html', u'http://www.baltimoreravens.com']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position to --> [u'1997', u'1999', u'2000', u'2001', u'2002']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position number --> [u'2', u'4', u'5', u'9', u'11']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical coach position from --> [u'1999', u'2005', u'2008', u'2008-11-23']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team location --> [u'Baltimore']	17	| [[Baltimore Ravens]] || [[Baltimore]] || [[Maryland]] || NFL || 1996 || The NFL considers the Ravens to have been created in 1996, despite being the same corporate entity as the previous season's Cleveland Browns.
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities destination city --> [u'Baltimore']	17	| [[Baltimore Ravens]] || [[Baltimore]] || [[Maryland]] || NFL || 1996 || The NFL considers the Ravens to have been created in 1996, despite being the same corporate entity as the previous season's Cleveland Browns.
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league draft pick school --> [u'University of Oklahoma', u'Auburn University', u'University of California', u'University of Mississippi', u'Arizona State University']	2	* [[Josh Bynes]] former [[Auburn University]] and current [[Baltimore Ravens]] linebacker
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage description --> [u'New York Times']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position position s --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Defensive lineman']	3	|[[2003 NFL Season|2003]]||||[[Running back]]||[[Baltimore Ravens]]||
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster to --> [u'2012', u'2013', u'2013-06-05']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities new team name --> [u'Baltimore Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position player --> [u'Ed Reed', u'Aubrayo Franklin', u'Josh Bynes', u'Prescott Burgess', u'Darian Durant']	13	* [[Prescott Burgess]] – [[Baltimore Ravens|Baltimore Raven's]] 6th-round pick in 2007 NFL draft
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team conference --> [u'American Football Conference']	7	In Week 15, quarterback [[Cleo Lemon]] won [[American Football Conference|AFC]] Offensive Player of the Week honors for leading the Dolphins to their first victory of the season against the [[Baltimore Ravens]].
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position to --> [u'1997', u'1999', u'2000', u'2001', u'2002']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage category --> [u'Topic Webpage', u'Official Website']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster position --> [u'Placekicker', u'Tackle', u'Running back', u'Linebacker', u'Tight end']	9	| [[Linebacker#Outside linebacker|OLB]] || [[Darryl Blackstock]] || UFA || [[Baltimore Ravens]] ||
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical coach position to --> [u'2004', u'2008', u'2012']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> projection adp --> [u'0', u'59', u'59.54']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team season record wins --> [u'4', u'5', u'6', u'7', u'8']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position position --> [u'Placekicker', u'Tackle', u'Running back', u'Linebacker', u'Tight end']	9	| [[Linebacker#Outside linebacker|OLB]] || [[Darryl Blackstock]] || UFA || [[Baltimore Ravens]] ||
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team away games --> [u'Baltimore Ravens at Indianapolis Colts, 2010-01-16', u'Baltimore Ravens at Minnesota Vikings, 2009-10-18', u'Baltimore Ravens at Tennessee Titans, 2009-01-10', u'Baltimore Ravens at Cleveland Browns, 2008-11-02', u'Baltimore Ravens at Cincinnati Bengals, 2009-11-08']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position number --> [u'1', u'3', u'6', u'7', u'8']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position player --> [u'Josh Bynes', u'James Ihedigbo', u'Omar Brown', u'Anthony Levine', u'Jeff Braun']	6	* [[Josh Bynes]] former [[Auburn University]] and current [[Baltimore Ravens]] linebacker
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> topic topical webpage --> [u'http://topics.nytimes.com/top/news/sports/profootball/nationalfootballleague/baltimoreravens/index.html']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster player --> [u'Ed Reed', u'Aubrayo Franklin', u'Josh Bynes', u'Prescott Burgess', u'Darian Durant']	13	* [[Prescott Burgess]] – [[Baltimore Ravens|Baltimore Raven's]] 6th-round pick in 2007 NFL draft
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league draft pick draft --> [u'2007 NFL Draft', u'2008 NFL Draft', u'2003 NFL Draft', u'2005 NFL Draft', u'2006 NFL Draft']	2	| title      = [[Baltimore Ravens|<span style="">Baltimore Ravens</span>]] [[2008 NFL draft|<span style="">2008 NFL draft</span>]] selections
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> personal film appearance film --> [u'NFL Greatest Super Bowl Moments: I-XLI']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster to --> [u'1997', u'1999', u'2000', u'2001', u'2002']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> topic social media presence --> [u'http://plus.google.com/105172948731475917479']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position number --> [u'1', u'3', u'6', u'7', u'8']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team fight song --> [u'The Baltimore Fight Song', u'Ravenation', u'Seven Nation Army', u'For Baltimore']	2	The song [[Seven Nation Army]] was popularized in Baltimore as the [[Baltimore Ravens|Ravens']] official pump-up song.
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical roster position position s --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Defensive lineman']	3	|[[2003 NFL Season|2003]]||||[[Running back]]||[[Baltimore Ravens]]||
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team coach tenure position --> [u'Quarterbacks coach']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster from --> [u'1996', u'1997', u'1998', u'1999', u'2000']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster number --> [u'2', u'1', u'10', u'11', u'12']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities first season --> [u'1996']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football historical coach position coach --> [u'Rex Ryan', u'Cam Cameron']	7	*[[Cam Cameron]], IU head coach, [[National Football League|NFL]] Head Coach: [[Miami Dolphins]], Current Offensive Coordinator: [[Baltimore Ravens]]
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team team mascot --> [u'Rise', u'Poe', u'Conquer']	1	*[[Poe (mascot)|Poe]], mascot for the [[Baltimore Ravens]]
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team roster number --> [u'1', u'10', u'13', u'14', u'15']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> webpage resource --> [u"Ratings: 'American Idol' roars back but gets sidelined by football for the week", u"'Big Bang Theory': Sheldon and Leonard talk football, fly kites", u'New York Times', u'\u201cThe Blind Side\u201d: It\u2019s All in the Family']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team sport --> [u'American football']	74	|The official [[marching band]] of the [[Baltimore Ravens]] [[American football]] team.
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> film subject films --> [u"The Band That Wouldn't Die"]	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports league draft pick player --> [u'Terrell Suggs', u'Michael Oher', u'Kyle Boller', u'Joe Flacco', u'Mark Gregory Clayton']	52	*QB [[Joe Flacco]] – [[Baltimore Ravens]] (2008–present), [[Super Bowl XLVII]] [[Super Bowl Most Valuable Player Award|Most Valuable Player]]
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football roster position number --> [u'2', u'4', u'5', u'9', u'11']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team coach tenure coach --> [u'Jim Caldwell']	2	Analysts have pointed the lack of interview offers for [[Baltimore Ravens|Baltimore Ravens']] [[Offensive Coordinator]] [[Jim Caldwell (American football)|Jim Caldwell]], who, as head coach, led the [[Indianapolis Colts]] to a 14-2 [[2009 Indianapolis Colts season|2009 season]] along with winning the 2009 [[American Football Conference]] title before losing in [[Super Bowl XLIV]], as evidence that the rule needs revision.
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team colors --> [u'White', u'Black', u'Gold', u'Purple']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team home games --> [u'Philadelphia Eagles at Baltimore Ravens, 2008-11-23', u'Pittsburgh Steelers at Baltimore Ravens, 2008-12-14', u'Cleveland Browns at Baltimore Ravens, 2009-09-27', u'Tennessee Titans at Baltimore Ravens, 2008-10-05', u'Kansas City Chiefs at Baltimore Ravens, 2009-09-13']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> nfl teams that have moved cities old team name --> [u'Cleveland Browns']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> football team current head coach --> [u'John Harbaugh']	30	On March 23, 2012, Considine signed with the [[Baltimore Ravens]], reuniting with [[John Harbaugh]], who had been his special teams coach with the Eagles.
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> sports team arena stadium --> [u'M&T Bank Stadium']	45	The Bayhawks played two seasons at [[Homewood Field]] on the Homewood campus of [[Johns Hopkins University]] (2001 and 2003) and played their home games during the 2002 season at '''Ravens Stadium''' now called [[M&T Bank Stadium]] in downtown Baltimore, currently the home of the [[Baltimore Ravens]].
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> tv guest role episodes appeared in --> [u'Baltimore Ravens at Pittsburgh Steelers', u'Baltimore at Denver', u'Green Bay Packers at Baltimore Ravens', u'Baltimore Ravens at Pittsburgh Steelers', u'Kansas City Chiefs at Baltimore Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> object name --> [u'Baltimore Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	baltimore ravens --> topic image --> [u'Baltimore Ravens']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> object name --> [u'Common Raven']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> bird taxa hummingbird --> [u'0']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data summer abundance --> [u'Rare', u'Uncommon', u'Fairly Common', u'Abundant']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data breeding status --> [u'Known Breeder', u'Regular Breeder']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> organism classification scientific name --> [u'Corvus corax']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> organism classification higher classification --> [u'Crow']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> bird taxa bird taxon --> [u'1']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> bird taxa aou number --> [u'486']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> topic alias --> [u'CORA', u'corvus corax']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> documented priority species priority level --> [u'SC Moderate Priority Species', u'TB-r1', u'Apparently Secure within State/Province', u'Critically Imperiled in Kentucky', u'Kentucky Threatened Species']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> documented priority species location --> [u'Kentucky', u'South Carolina', u'Bird Conservation Region 1', u'Bird Conservation Region 10']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> documented priority species source --> [u'South Carolina Comprehensive Wildlife Conservation Strategy 2005 - 2010', u'Partners in Flight Species Assessment Database (2005)', u"Kentucky's Comprehensive Wildlife Conservation Strategy"]	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> topic image --> [u'Common raven by David Hofmann', u'Common Raven at  Bryce Canyon National Park, USA']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> organism classification rank --> [u'Species']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> focal taxa conservation projects --> [u'NCWRC Cold Mountain Game Land Bird Survey', u'Investigation of Cliffs and Cliff-nesting Birds of the Southern Appalachians', u'The Common Raven (Corvus corax) in Tennessee']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data winter abundance --> [u'Rare', u'Uncommon', u'Fairly Common', u'Abundant']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data spring abundance --> [u'Rare', u'Uncommon', u'Fairly Common', u'Abundant']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data aba abundance code --> [u'2']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> bird taxa leg band size s --> [u'7A', u'6']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data fall abundance --> [u'Rare', u'Uncommon', u'Fairly Common', u'Abundant']	0	EMPTY
+when is the last time the ravens won a superbowl?	2029	common raven --> checklist bird data checklist --> [u'Checklist of Birds of the San Francisco Bay National Wildlife Refuge', u'Elkhorn Slough Bird Checklist', u'Checklist of Birds of the City of San Francisco', u'Checklist of the Birds of Sutro Heights', u'Checklist of Birds of Vermont']	0	EMPTY

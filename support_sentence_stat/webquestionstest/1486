@@ -1,47 +1,47 @@
-what electorate does anna bligh represent?	180	anna bligh --> person date of birth --> [u'1960-07-14']	0
-what electorate does anna bligh represent?	180	anna bligh --> topic social media presence --> [u'http://plus.google.com/118180726035960891396']	0
-what electorate does anna bligh represent?	180	anna bligh --> person profession --> [u'Politician']	0
-what electorate does anna bligh represent?	180	anna bligh --> topic alias --> [u'Anna Maria Bligh']	0
-what electorate does anna bligh represent?	180	anna bligh --> government position held basic title --> [u'Premier', u'Member of Parliament']	1
-what electorate does anna bligh represent?	180	anna bligh --> person gender --> [u'Female']	0
-what electorate does anna bligh represent?	180	anna bligh --> education start date --> [u'1978']	0
-what electorate does anna bligh represent?	180	anna bligh --> person nationality --> [u'Australia']	2
-what electorate does anna bligh represent?	180	anna bligh --> marriage location of ceremony --> [u'Sydney']	0
-what electorate does anna bligh represent?	180	anna bligh --> education major field of study --> [u'Social science']	0
-what electorate does anna bligh represent?	180	anna bligh --> daylife hero image id --> [u'08qDdAN26q5Vg']	0
-what electorate does anna bligh represent?	180	anna bligh --> education end date --> [u'1980']	0
-what electorate does anna bligh represent?	180	anna bligh --> government position held governmental body --> [u'Legislative Assembly of Queensland']	0
-what electorate does anna bligh represent?	180	anna bligh --> government position held jurisdiction of office --> [u'Queensland']	4
-what electorate does anna bligh represent?	180	anna bligh --> government position held office position or title --> [u'Member of the Queensland Legislative Assembly', u'Premier of Queensland']	25
-what electorate does anna bligh represent?	180	anna bligh --> political party tenure party --> [u'Australian Labor Party', u'Queensland Labor Party']	12
-what electorate does anna bligh represent?	180	anna bligh --> topic official website --> [u'http://www.thepremier.qld.gov.au/']	0
-what electorate does anna bligh represent?	180	anna bligh --> marriage spouse --> [u'Greg Withers']	0
-what electorate does anna bligh represent?	180	anna bligh --> marriage from --> [u'2005']	0
-what electorate does anna bligh represent?	180	anna bligh --> government position held from --> [u'2007-09-13', u'1995-07-15']	0
-what electorate does anna bligh represent?	180	anna bligh --> person place of birth --> [u'Warwick']	0
-what electorate does anna bligh represent?	180	anna bligh --> education institution --> [u'University of Queensland', u'Miami State High School']	0
-what electorate does anna bligh represent?	180	anna bligh --> person children --> [u'Oliver Frances', u'Joe Frances']	0
-what electorate does anna bligh represent?	180	anna bligh --> education degree --> [u'Bachelor of Arts']	0
-what electorate does anna bligh represent?	180	anna bligh --> government position held to --> [u'2012-03-26', u'2012-03-30']	0
-what electorate does anna bligh represent?	180	anna bligh --> marriage type of union --> [u'Marriage']	0
-what electorate does anna bligh represent?	180	anna bligh --> object name --> [u'Anna Bligh']	0
-what electorate does anna bligh represent?	180	anna bligh --> topic image --> [u'Anna Bligh', u'Anna Bligh crop']	0
-what electorate does anna bligh represent?	180	anna bligh --> government position held district represented --> [u'Electoral district of South Brisbane']	8
-what electorate does anna bligh represent?	180	electoral district --> object name --> [u'Electoral district']	0
-what electorate does anna bligh represent?	180	electoral district --> linguistic hint subject form --> [u'Electoral districts']	0
-what electorate does anna bligh represent?	180	electoral district --> equivalent topic equivalent type --> [u'Political District']	0
-what electorate does anna bligh represent?	180	prince-elector --> government position held to --> [u'1623']	0
-what electorate does anna bligh represent?	180	prince-elector --> noble rank titles conferring this rank --> [u'Elector of Saxony', u'Electress Palantine', u'Count Palatine of the Rhine', u'Margrave of Brandenburg', u'Archbishop of Trier']	0
-what electorate does anna bligh represent?	180	prince-elector --> precedence system --> [u'Holy Roman Empire']	39
-what electorate does anna bligh represent?	180	prince-elector --> noble rank gender --> [u'Male']	0
-what electorate does anna bligh represent?	180	prince-elector --> system rank relationship system --> [u'Holy Roman Empire']	39
-what electorate does anna bligh represent?	180	prince-elector --> plural form gender --> [u'All Female']	0
-what electorate does anna bligh represent?	180	prince-elector --> object name --> [u'Prince-elector']	0
-what electorate does anna bligh represent?	180	prince-elector --> precedence higher rank --> [u'Emperor']	0
-what electorate does anna bligh represent?	180	prince-elector --> government position held office holder --> [u'Frederick V, Elector Palatine']	2
-what electorate does anna bligh represent?	180	prince-elector --> government position held jurisdiction of office --> [u'Holy Roman Empire']	39
-what electorate does anna bligh represent?	180	prince-elector --> government position held district represented --> [u'Electoral Palatinate of the Rhine']	8
-what electorate does anna bligh represent?	180	prince-elector --> topic image --> [u'Ratification of the Treaty of M\xfcnster', u'Balduineum Wahl Heinrich VII']	0
-what electorate does anna bligh represent?	180	prince-elector --> noble rank gender equivalence noble rank --> [u'Electress']	1
-what electorate does anna bligh represent?	180	prince-elector --> government position held from --> [u'1610']	0
-what electorate does anna bligh represent?	180	prince-elector --> plural form language --> [u'Hebrew']	0
+what electorate does anna bligh represent?	180	anna bligh --> person date of birth --> [u'1960-07-14']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> topic social media presence --> [u'http://plus.google.com/118180726035960891396']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> person profession --> [u'Politician']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> topic alias --> [u'Anna Maria Bligh']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> government position held basic title --> [u'Premier', u'Member of Parliament']	1	*[[Anna Bligh]], UQU Women's Officer 1981, [[Premier]] of Queensland
+what electorate does anna bligh represent?	180	anna bligh --> person gender --> [u'Female']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> education start date --> [u'1978']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> person nationality --> [u'Australia']	2	*[[Anna Bligh]], the [[Premier of Queensland|Premier]] of the [[Australia]]n state of [[Queensland]] warns tens of thousands of people to prepare for evacuation ahead of [[Cyclone Yasi]] expected to hit later in the week.
+what electorate does anna bligh represent?	180	anna bligh --> marriage location of ceremony --> [u'Sydney']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> education major field of study --> [u'Social science']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> daylife hero image id --> [u'08qDdAN26q5Vg']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> education end date --> [u'1980']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> government position held governmental body --> [u'Legislative Assembly of Queensland']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> government position held jurisdiction of office --> [u'Queensland']	4	*[[Anna Bligh]], the [[Premier of Queensland|Premier]] of the [[Australia]]n state of [[Queensland]] warns tens of thousands of people to prepare for evacuation ahead of [[Cyclone Yasi]] expected to hit later in the week.
+what electorate does anna bligh represent?	180	anna bligh --> government position held office position or title --> [u'Member of the Queensland Legislative Assembly', u'Premier of Queensland']	25	*[[Anna Bligh]], the [[Premier of Queensland|Premier]] of the [[Australia]]n state of [[Queensland]] warns tens of thousands of people to prepare for evacuation ahead of [[Cyclone Yasi]] expected to hit later in the week.
+what electorate does anna bligh represent?	180	anna bligh --> political party tenure party --> [u'Australian Labor Party', u'Queensland Labor Party']	12	|[[Electoral district of South Brisbane|South Brisbane]] || [[Australian Labor Party|Labor]] || |'''[[Anna Bligh]]''' || Clem Grehan || Jo-Anne Bragg || Robert Wardrop || Liam Flenady ([[Independent (politician)|Ind]])
+what electorate does anna bligh represent?	180	anna bligh --> topic official website --> [u'http://www.thepremier.qld.gov.au/']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> marriage spouse --> [u'Greg Withers']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> marriage from --> [u'2005']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> government position held from --> [u'2007-09-13', u'1995-07-15']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> person place of birth --> [u'Warwick']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> education institution --> [u'University of Queensland', u'Miami State High School']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> person children --> [u'Oliver Frances', u'Joe Frances']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> education degree --> [u'Bachelor of Arts']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> government position held to --> [u'2012-03-26', u'2012-03-30']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> marriage type of union --> [u'Marriage']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> object name --> [u'Anna Bligh']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> topic image --> [u'Anna Bligh', u'Anna Bligh crop']	0	EMPTY
+what electorate does anna bligh represent?	180	anna bligh --> government position held district represented --> [u'Electoral district of South Brisbane']	8	|[[Electoral district of South Brisbane|South Brisbane]] || [[Australian Labor Party|Labor]] || |'''[[Anna Bligh]]''' || Clem Grehan || Jo-Anne Bragg || Robert Wardrop || Liam Flenady ([[Independent (politician)|Ind]])
+what electorate does anna bligh represent?	180	electoral district --> object name --> [u'Electoral district']	0	EMPTY
+what electorate does anna bligh represent?	180	electoral district --> linguistic hint subject form --> [u'Electoral districts']	0	EMPTY
+what electorate does anna bligh represent?	180	electoral district --> equivalent topic equivalent type --> [u'Political District']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> government position held to --> [u'1623']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> noble rank titles conferring this rank --> [u'Elector of Saxony', u'Electress Palantine', u'Count Palatine of the Rhine', u'Margrave of Brandenburg', u'Archbishop of Trier']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> precedence system --> [u'Holy Roman Empire']	39	* [[Electors of Saxony]] and [[Prince-elector#High offices|Arch-Marshal]]s of the [[Holy Roman Empire]]
+what electorate does anna bligh represent?	180	prince-elector --> noble rank gender --> [u'Male']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> system rank relationship system --> [u'Holy Roman Empire']	39	* [[Electors of Saxony]] and [[Prince-elector#High offices|Arch-Marshal]]s of the [[Holy Roman Empire]]
+what electorate does anna bligh represent?	180	prince-elector --> plural form gender --> [u'All Female']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> object name --> [u'Prince-elector']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> precedence higher rank --> [u'Emperor']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> government position held office holder --> [u'Frederick V, Elector Palatine']	2	When the [[Elector of the Palatinate]], [[Frederick V, Elector Palatine|Frederick V]], head of a senior branch of the Wittelsbachs, became involved in the war against the Emperor, he was stripped of his Imperial offices and the [[Prince-elector]] title.
+what electorate does anna bligh represent?	180	prince-elector --> government position held jurisdiction of office --> [u'Holy Roman Empire']	39	* [[Electors of Saxony]] and [[Prince-elector#High offices|Arch-Marshal]]s of the [[Holy Roman Empire]]
+what electorate does anna bligh represent?	180	prince-elector --> government position held district represented --> [u'Electoral Palatinate of the Rhine']	8	'''Frederick II, Count Palatine of the Rhine''' (9 December 1482 – 26 February 1556), also '''Frederick the Wise''', a member of the [[Wittelsbach]] dynasty, was [[Prince-elector]] of the [[Electoral Palatinate|Palatinate]] from 1544 to 1556.
+what electorate does anna bligh represent?	180	prince-elector --> topic image --> [u'Ratification of the Treaty of M\xfcnster', u'Balduineum Wahl Heinrich VII']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> noble rank gender equivalence noble rank --> [u'Electress']	1	| [[Prince-elector]]/[[Electress]] || Kurfürst(in) || [[Prince-elector|Electorate]] || Kurfürstentum
+what electorate does anna bligh represent?	180	prince-elector --> government position held from --> [u'1610']	0	EMPTY
+what electorate does anna bligh represent?	180	prince-elector --> plural form language --> [u'Hebrew']	0	EMPTY

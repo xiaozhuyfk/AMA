@@ -1,36 +1,36 @@
-where was john jay born?	203	john jay --> person date of birth --> [u'1745-12-12']	0
-where was john jay born?	203	john jay --> appointment appointed role --> [u'Chief Justice of the United States']	42
-where was john jay born?	203	john jay --> judicial tenure to date --> [u'1795-06-29']	0
-where was john jay born?	203	john jay --> person profession --> [u'Politician', u'Jurist']	0
-where was john jay born?	203	john jay --> judicial tenure from date --> [u'1789-10-19']	0
-where was john jay born?	203	john jay --> government position held basic title --> [u'Governor', u'Secretary of State']	0
-where was john jay born?	203	john jay --> person gender --> [u'Male']	0
-where was john jay born?	203	john jay --> author works written --> [u'Federalist No. 4', u'Federalist No. 5', u'Federalist No. 2', u'Federalist No. 3', u'Federalist No. 64']	0
-where was john jay born?	203	john jay --> person nationality --> [u'United States of America']	3
-where was john jay born?	203	john jay --> deceased person date of death --> [u'1829-05-17']	0
-where was john jay born?	203	john jay --> deceased person place of death --> [u'Westchester County']	1
-where was john jay born?	203	john jay --> organization founder organizations founded --> [u'African Free School']	1
-where was john jay born?	203	john jay --> government position held governmental body --> [u'Continental Congress', u'Cabinet of the United States']	4
-where was john jay born?	203	john jay --> government position held jurisdiction of office --> [u'New York', u'United States of America']	3
-where was john jay born?	203	john jay --> government position held office position or title --> [u'Governor of New York', u'Delegate to the Continental Congress', u'United States Secretary of State', u'President of the Continental Congress']	15
-where was john jay born?	203	john jay --> political party tenure party --> [u'Federalist Party']	1
-where was john jay born?	203	john jay --> person religion --> [u'Episcopal Church']	0
-where was john jay born?	203	john jay --> government position held appointed by --> [u'George Washington']	23
-where was john jay born?	203	john jay --> government position held legislative sessions --> [u'First Continental Congress', u'Second Continental Congress']	0
-where was john jay born?	203	john jay --> marriage spouse --> [u'Sarah Livingston']	0
-where was john jay born?	203	john jay --> judicial tenure court --> [u'Supreme Court of the United States']	10
-where was john jay born?	203	john jay --> government position held from --> [u'1774-09-05', u'1795-07-01', u'1778-12-10', u'1789-09-26']	0
-where was john jay born?	203	john jay --> person place of birth --> [u'New York City']	2
-where was john jay born?	203	john jay --> education institution --> [u'Columbia University']	2
-where was john jay born?	203	john jay --> person children --> [u'William Jay', u'Peter A. Jay']	4
-where was john jay born?	203	john jay --> appointment declared on --> [u'1789-10-19']	0
-where was john jay born?	203	john jay --> government position held to --> [u'1774-10-26', u'1801-07-01', u'1779-09-28', u'1790-03-22']	0
-where was john jay born?	203	john jay --> place lived location --> [u'New York City']	2
-where was john jay born?	203	john jay --> marriage type of union --> [u'Marriage']	0
-where was john jay born?	203	john jay --> sibling relationship sibling --> [u'James Jay']	0
-where was john jay born?	203	john jay --> appointment appointed by --> [u'George Washington']	23
-where was john jay born?	203	john jay --> judicial tenure title --> [u'Chief Justice of the United States']	42
-where was john jay born?	203	john jay --> object name --> [u'John Jay']	0
-where was john jay born?	203	john jay --> topic image --> [u'John Jay, einer der Gr\xfcnderv\xe4ter der Vereinigten Staaten, war direkter Vorfahre Trotts.']	0
-where was john jay born?	203	john jay --> government position held district represented --> [u'New York']	0
-where was john jay born?	203	john jay --> author series written or contributed to --> [u'The Federalist Papers']	25
+where was john jay born?	203	john jay --> person date of birth --> [u'1745-12-12']	0	EMPTY
+where was john jay born?	203	john jay --> appointment appointed role --> [u'Chief Justice of the United States']	42	*[[1829]] &ndash; [[John Jay]], American politician and diplomat, 1st [[Chief Justice of the United States]] (b.
+where was john jay born?	203	john jay --> judicial tenure to date --> [u'1795-06-29']	0	EMPTY
+where was john jay born?	203	john jay --> person profession --> [u'Politician', u'Jurist']	0	EMPTY
+where was john jay born?	203	john jay --> judicial tenure from date --> [u'1789-10-19']	0	EMPTY
+where was john jay born?	203	john jay --> government position held basic title --> [u'Governor', u'Secretary of State']	0	EMPTY
+where was john jay born?	203	john jay --> person gender --> [u'Male']	0	EMPTY
+where was john jay born?	203	john jay --> author works written --> [u'Federalist No. 4', u'Federalist No. 5', u'Federalist No. 2', u'Federalist No. 3', u'Federalist No. 64']	0	EMPTY
+where was john jay born?	203	john jay --> person nationality --> [u'United States of America']	3	The preliminary articles were signed by Oswald for [[Great Britain]], and [[John Adams]], Benjamin Franklin, [[John Jay]], and [[Henry Laurens]] for the [[United States]] on November 30, 1782.
+where was john jay born?	203	john jay --> deceased person date of death --> [u'1829-05-17']	0	EMPTY
+where was john jay born?	203	john jay --> deceased person place of death --> [u'Westchester County']	1	Following his father's death in 1820, the family moved to a farm in [[Bedford (town), New York|Bedford]], [[Westchester County, New York|Westchester County]], adjoining to the estate of statesman [[John Jay]].
+where was john jay born?	203	john jay --> organization founder organizations founded --> [u'African Free School']	1	Under such influential [[Founding Fathers of the United States|United States founders]] as [[Alexander Hamilton]] and [[John Jay]], the [[New York Manumission Society]] worked for abolition and established the [[African Free School]] to educate black children.
+where was john jay born?	203	john jay --> government position held governmental body --> [u'Continental Congress', u'Cabinet of the United States']	4	One such sale, in 1745, of  was from another John Budd, a grandson of the founder, to Peter Jay, father of [[John Jay]], subsequently the president of the [[Continental Congress]], co-author with [[Alexander Hamilton]] and [[James Madison]] of [[The Federalist Papers|''The Federalist'' Papers]], and Chief Justice of the United States, among other major distinctions.
+where was john jay born?	203	john jay --> government position held jurisdiction of office --> [u'New York', u'United States of America']	3	The preliminary articles were signed by Oswald for [[Great Britain]], and [[John Adams]], Benjamin Franklin, [[John Jay]], and [[Henry Laurens]] for the [[United States]] on November 30, 1782.
+where was john jay born?	203	john jay --> government position held office position or title --> [u'Governor of New York', u'Delegate to the Continental Congress', u'United States Secretary of State', u'President of the Continental Congress']	15	*[[1789]] &ndash; [[Thomas Jefferson]] is appointed the first [[United States Secretary of State]], [[John Jay]] is appointed the first [[United States Supreme Court/Chief Justice|Chief Justice of the United States]], [[Samuel Osgood]] is appointed the first [[United States Postmaster General]], and [[Edmund Randolph]] is appointed the first [[United States Attorney General]].
+where was john jay born?	203	john jay --> political party tenure party --> [u'Federalist Party']	1	In [[New York gubernatorial election, 1795|1795]], Floyd ran for [[Lieutenant Governor of New York]] with [[Robert Yates (politician)|Robert Yates]] on the [[Democratic-Republican Party|Democratic-Republican]] ticket, but they were defeated by [[Federalist Party|Federalists]] [[John Jay]] and [[Stephen Van Rensselaer]].
+where was john jay born?	203	john jay --> person religion --> [u'Episcopal Church']	0	EMPTY
+where was john jay born?	203	john jay --> government position held appointed by --> [u'George Washington']	23	President [[George Washington]] sent Chief Justice [[John Jay]] to [[London]] in 1794 to negotiate a resolution to this and other issues.
+where was john jay born?	203	john jay --> government position held legislative sessions --> [u'First Continental Congress', u'Second Continental Congress']	0	EMPTY
+where was john jay born?	203	john jay --> marriage spouse --> [u'Sarah Livingston']	0	EMPTY
+where was john jay born?	203	john jay --> judicial tenure court --> [u'Supreme Court of the United States']	10	;February 2 • [[Supreme Court of the United States|Supreme Court]] convenes : The first term of the Supreme Court commences, with [[Chief Justice of the United States|Chief Justice]] [[John Jay]] presiding.
+where was john jay born?	203	john jay --> government position held from --> [u'1774-09-05', u'1795-07-01', u'1778-12-10', u'1789-09-26']	0	EMPTY
+where was john jay born?	203	john jay --> person place of birth --> [u'New York City']	2	'''John Jay Iselin''' (December 8, 1933 in [[Greenville, South Carolina]] – May 6, 2008 [[New York City]]), great-great-great-great-grandson of [[John Jay]], was president of the Marconi fellowship foundation at [[Columbia University]].
+where was john jay born?	203	john jay --> education institution --> [u'Columbia University']	2	'''John Jay Iselin''' (December 8, 1933 in [[Greenville, South Carolina]] – May 6, 2008 [[New York City]]), great-great-great-great-grandson of [[John Jay]], was president of the Marconi fellowship foundation at [[Columbia University]].
+where was john jay born?	203	john jay --> person children --> [u'William Jay', u'Peter A. Jay']	4	He was the son of [[William Jay (jurist)|William Jay]] and a grandson of [[John Jay|Chief Justice John Jay]] of the United States Supreme Court.
+where was john jay born?	203	john jay --> appointment declared on --> [u'1789-10-19']	0	EMPTY
+where was john jay born?	203	john jay --> government position held to --> [u'1774-10-26', u'1801-07-01', u'1779-09-28', u'1790-03-22']	0	EMPTY
+where was john jay born?	203	john jay --> place lived location --> [u'New York City']	2	'''John Jay Iselin''' (December 8, 1933 in [[Greenville, South Carolina]] – May 6, 2008 [[New York City]]), great-great-great-great-grandson of [[John Jay]], was president of the Marconi fellowship foundation at [[Columbia University]].
+where was john jay born?	203	john jay --> marriage type of union --> [u'Marriage']	0	EMPTY
+where was john jay born?	203	john jay --> sibling relationship sibling --> [u'James Jay']	0	EMPTY
+where was john jay born?	203	john jay --> appointment appointed by --> [u'George Washington']	23	President [[George Washington]] sent Chief Justice [[John Jay]] to [[London]] in 1794 to negotiate a resolution to this and other issues.
+where was john jay born?	203	john jay --> judicial tenure title --> [u'Chief Justice of the United States']	42	*[[1829]] &ndash; [[John Jay]], American politician and diplomat, 1st [[Chief Justice of the United States]] (b.
+where was john jay born?	203	john jay --> object name --> [u'John Jay']	0	EMPTY
+where was john jay born?	203	john jay --> topic image --> [u'John Jay, einer der Gr\xfcnderv\xe4ter der Vereinigten Staaten, war direkter Vorfahre Trotts.']	0	EMPTY
+where was john jay born?	203	john jay --> government position held district represented --> [u'New York']	0	EMPTY
+where was john jay born?	203	john jay --> author series written or contributed to --> [u'The Federalist Papers']	25	[[John Jay]], [[James Madison]] , and [[Alexander Hamilton]] together collaborated on what would be known as the [[The Federalist Papers|Federalist Papers]] a series of papers published in newspapers outlining exactly how the constitution would work while taking input and defending itself from criticism.

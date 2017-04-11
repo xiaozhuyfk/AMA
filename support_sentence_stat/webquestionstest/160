@@ -1,33 +1,33 @@
-where is electrolux based?	10	electrolux --> mailing address citytown --> [u'Stockholm']	0
-where is electrolux based?	10	electrolux --> leadership from --> [u'2011-01-01']	0
-where is electrolux based?	10	electrolux --> topic alias --> [u'AB Electrolux', u'Electrolux AB']	0
-where is electrolux based?	10	electrolux --> company brand relationship brand --> [u'Zanussi', u'Frigidaire', u'Rosenlew']	2
-where is electrolux based?	10	electrolux --> organization date founded --> [u'1910']	0
-where is electrolux based?	10	electrolux --> phone sandbox contact category --> [u'Customer service']	0
-where is electrolux based?	10	electrolux --> issuer issue --> [u'ELECTROLUX AB-SER B Common Stock']	0
-where is electrolux based?	10	electrolux --> dated integer year --> [u'2008-03-05']	0
-where is electrolux based?	10	electrolux --> dated money value currency --> [u'Swedish krona']	0
-where is electrolux based?	10	electrolux --> organization founders --> [u'Axel Wenner-Gren']	0
-where is electrolux based?	10	electrolux --> webpage category --> [u'Topic Webpage', u'Official Website']	0
-where is electrolux based?	10	electrolux --> phone sandbox service location --> [u'United States of America', u'Canada']	1
-where is electrolux based?	10	electrolux --> business operation industry --> [u'Household Cooking Appliance Manufacturing', u'Household Appliances', u'Household Appliance Manufacturing']	0
-where is electrolux based?	10	electrolux --> topic official website --> [u'http://www.electrolux.com']	0
-where is electrolux based?	10	electrolux --> dated money value valid date --> [u'2007-12-31']	0
-where is electrolux based?	10	electrolux --> phone sandbox product or service --> [u'Household Appliances', u'Air cleaner', u'vacuum cleaner']	0
-where is electrolux based?	10	electrolux --> dated money value amount --> [u'2925000000']	0
-where is electrolux based?	10	electrolux --> company brand relationship from date --> [u'1986']	0
-where is electrolux based?	10	electrolux --> dated integer number --> [u'56930']	0
-where is electrolux based?	10	electrolux --> phone sandbox number --> [u'(800) 896 9756', u'(800) 282 2886', u'(905) 813 7700']	0
-where is electrolux based?	10	electrolux --> leadership person --> [u'Keith McLoughlin']	2
-where is electrolux based?	10	electrolux --> phone sandbox service language --> [u'English Language']	0
-where is electrolux based?	10	electrolux --> webpage uri --> [u'http://www.electrolux.com', u'http://www.electrolux.com/']	0
-where is electrolux based?	10	electrolux --> organization extra contact webpage --> [u'http://group.electrolux.com/en/products-services-contacts-213/']	0
-where is electrolux based?	10	electrolux --> leadership role --> [u'Chief Executive Officer']	0
-where is electrolux based?	10	electrolux --> organization relationship child --> [u'Electrolux Laundry Systems']	0
-where is electrolux based?	10	electrolux --> acquisition company acquired --> [u'Zanussi']	5
-where is electrolux based?	10	electrolux --> object name --> [u'Electrolux']	0
-where is electrolux based?	10	electrolux --> acquisition date --> [u'1984']	0
-where is electrolux based?	10	electrolux --> phone sandbox toll free --> [u'0', u'1']	0
-where is electrolux based?	10	electrolux --> phone sandbox country code --> [u'1']	0
-where is electrolux based?	10	electrolux --> phone sandbox caller category --> [u'Consumer Service']	0
-where is electrolux based?	10	electrolux --> phone sandbox hearing impaired --> [u'0']	0
+where is electrolux based?	10	electrolux --> mailing address citytown --> [u'Stockholm']	0	EMPTY
+where is electrolux based?	10	electrolux --> leadership from --> [u'2011-01-01']	0	EMPTY
+where is electrolux based?	10	electrolux --> topic alias --> [u'AB Electrolux', u'Electrolux AB']	0	EMPTY
+where is electrolux based?	10	electrolux --> company brand relationship brand --> [u'Zanussi', u'Frigidaire', u'Rosenlew']	2	* [[Electrolux]]: including the brand names Electrolux, [[Frigidaire]], [[Kenmore (brand)|Kenmore]], Arthur Martin, [[Zanussi]], [[AEG]] (German), and [[White-Westinghouse]] (until 2006)
+where is electrolux based?	10	electrolux --> organization date founded --> [u'1910']	0	EMPTY
+where is electrolux based?	10	electrolux --> phone sandbox contact category --> [u'Customer service']	0	EMPTY
+where is electrolux based?	10	electrolux --> issuer issue --> [u'ELECTROLUX AB-SER B Common Stock']	0	EMPTY
+where is electrolux based?	10	electrolux --> dated integer year --> [u'2008-03-05']	0	EMPTY
+where is electrolux based?	10	electrolux --> dated money value currency --> [u'Swedish krona']	0	EMPTY
+where is electrolux based?	10	electrolux --> organization founders --> [u'Axel Wenner-Gren']	0	EMPTY
+where is electrolux based?	10	electrolux --> webpage category --> [u'Topic Webpage', u'Official Website']	0	EMPTY
+where is electrolux based?	10	electrolux --> phone sandbox service location --> [u'United States of America', u'Canada']	1	'''Frigidaire''' is the [[United States|American]] [[consumer]] and [[Commercial area|commercial]] [[home appliance]]s [[brand]] [[subsidiary]] of [[European Union|European]] parent company [[Electrolux]].
+where is electrolux based?	10	electrolux --> business operation industry --> [u'Household Cooking Appliance Manufacturing', u'Household Appliances', u'Household Appliance Manufacturing']	0	EMPTY
+where is electrolux based?	10	electrolux --> topic official website --> [u'http://www.electrolux.com']	0	EMPTY
+where is electrolux based?	10	electrolux --> dated money value valid date --> [u'2007-12-31']	0	EMPTY
+where is electrolux based?	10	electrolux --> phone sandbox product or service --> [u'Household Appliances', u'Air cleaner', u'vacuum cleaner']	0	EMPTY
+where is electrolux based?	10	electrolux --> dated money value amount --> [u'2925000000']	0	EMPTY
+where is electrolux based?	10	electrolux --> company brand relationship from date --> [u'1986']	0	EMPTY
+where is electrolux based?	10	electrolux --> dated integer number --> [u'56930']	0	EMPTY
+where is electrolux based?	10	electrolux --> phone sandbox number --> [u'(800) 896 9756', u'(800) 282 2886', u'(905) 813 7700']	0	EMPTY
+where is electrolux based?	10	electrolux --> leadership person --> [u'Keith McLoughlin']	2	* [[Keith McLoughlin]], President and CEO of [[Electrolux]]
+where is electrolux based?	10	electrolux --> phone sandbox service language --> [u'English Language']	0	EMPTY
+where is electrolux based?	10	electrolux --> webpage uri --> [u'http://www.electrolux.com', u'http://www.electrolux.com/']	0	EMPTY
+where is electrolux based?	10	electrolux --> organization extra contact webpage --> [u'http://group.electrolux.com/en/products-services-contacts-213/']	0	EMPTY
+where is electrolux based?	10	electrolux --> leadership role --> [u'Chief Executive Officer']	0	EMPTY
+where is electrolux based?	10	electrolux --> organization relationship child --> [u'Electrolux Laundry Systems']	0	EMPTY
+where is electrolux based?	10	electrolux --> acquisition company acquired --> [u'Zanussi']	5	* [[Zanussi]] ([[white goods]]) - owned by [[Electrolux]] of Sweden
+where is electrolux based?	10	electrolux --> object name --> [u'Electrolux']	0	EMPTY
+where is electrolux based?	10	electrolux --> acquisition date --> [u'1984']	0	EMPTY
+where is electrolux based?	10	electrolux --> phone sandbox toll free --> [u'0', u'1']	0	EMPTY
+where is electrolux based?	10	electrolux --> phone sandbox country code --> [u'1']	0	EMPTY
+where is electrolux based?	10	electrolux --> phone sandbox caller category --> [u'Consumer Service']	0	EMPTY
+where is electrolux based?	10	electrolux --> phone sandbox hearing impaired --> [u'0']	0	EMPTY

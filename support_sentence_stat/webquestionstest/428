@@ -1,14 +1,14 @@
-where did leif ericson grow up?	7	leif ericson --> person date of birth --> [u'0970']	0
-where did leif ericson grow up?	7	leif ericson --> person parents --> [u'Erik the Red', u'Thjodhild']	3
-where did leif ericson grow up?	7	leif ericson --> deceased person place of death --> [u'Greenland']	1
-where did leif ericson grow up?	7	leif ericson --> person place of birth --> [u'Iceland']	1
-where did leif ericson grow up?	7	leif ericson --> person profession --> [u'Conquistador']	0
-where did leif ericson grow up?	7	leif ericson --> sibling relationship sibling --> [u'Thorstein Eiriksson', u'Thorvald Eriksson', u'Freyd\xeds Eir\xedksd\xf3ttir']	1
-where did leif ericson grow up?	7	leif ericson --> person children --> [u'Thorkell Leifsson', u'Thorgils']	0
-where did leif ericson grow up?	7	leif ericson --> object name --> [u'Leif Ericson']	0
-where did leif ericson grow up?	7	leif ericson --> topic image --> [u'Leif-Ericson-20050724', u'Viking at MN Capitol']	0
-where did leif ericson grow up?	7	leif ericson --> context name official name --> [u'Leif Ericson']	0
-where did leif ericson grow up?	7	leif ericson --> person religion --> [u'Norse religion', u'Christianity']	0
-where did leif ericson grow up?	7	leif ericson --> person nationality --> [u'Norway', u'Iceland']	1
-where did leif ericson grow up?	7	leif ericson --> person gender --> [u'Male']	0
-where did leif ericson grow up?	7	leif ericson --> deceased person date of death --> [u'1020']	0
+where did leif ericson grow up?	7	leif ericson --> person date of birth --> [u'0970']	0	EMPTY
+where did leif ericson grow up?	7	leif ericson --> person parents --> [u'Erik the Red', u'Thjodhild']	3	At a short distance from the village is [[Eiríksstaðir]], the homestead of [[Erik the Red]], who discovered [[Greenland]] and whose son [[Leif Erikson]], born at Eiríksstaðir, discovered America ahead of Columbus.
+where did leif ericson grow up?	7	leif ericson --> deceased person place of death --> [u'Greenland']	1	At a short distance from the village is [[Eiríksstaðir]], the homestead of [[Erik the Red]], who discovered [[Greenland]] and whose son [[Leif Erikson]], born at Eiríksstaðir, discovered America ahead of Columbus.
+where did leif ericson grow up?	7	leif ericson --> person place of birth --> [u'Iceland']	1	[[Leif Erikson]], the famous [[Iceland]]ic explorer, was Erik's son.
+where did leif ericson grow up?	7	leif ericson --> person profession --> [u'Conquistador']	0	EMPTY
+where did leif ericson grow up?	7	leif ericson --> sibling relationship sibling --> [u'Thorstein Eiriksson', u'Thorvald Eriksson', u'Freyd\xeds Eir\xedksd\xf3ttir']	1	According to the [[Vinland Sagas]], Erik the Red settled in Greenland around 986 with his wife and three grown sons, [[Leif Erikson|Leif]], [[Thorvald Eiriksson|Thorvald]] and Thorstein.
+where did leif ericson grow up?	7	leif ericson --> person children --> [u'Thorkell Leifsson', u'Thorgils']	0	EMPTY
+where did leif ericson grow up?	7	leif ericson --> object name --> [u'Leif Ericson']	0	EMPTY
+where did leif ericson grow up?	7	leif ericson --> topic image --> [u'Leif-Ericson-20050724', u'Viking at MN Capitol']	0	EMPTY
+where did leif ericson grow up?	7	leif ericson --> context name official name --> [u'Leif Ericson']	0	EMPTY
+where did leif ericson grow up?	7	leif ericson --> person religion --> [u'Norse religion', u'Christianity']	0	EMPTY
+where did leif ericson grow up?	7	leif ericson --> person nationality --> [u'Norway', u'Iceland']	1	[[Leif Erikson]], the famous [[Iceland]]ic explorer, was Erik's son.
+where did leif ericson grow up?	7	leif ericson --> person gender --> [u'Male']	0	EMPTY
+where did leif ericson grow up?	7	leif ericson --> deceased person date of death --> [u'1020']	0	EMPTY

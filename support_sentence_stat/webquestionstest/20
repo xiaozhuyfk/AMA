@@ -1,57 +1,57 @@
-what was john tyler?	195	john tyler --> author works written --> [u'Papers']	0
-what was john tyler?	195	john tyler --> person date of birth --> [u'1790-03-29']	0
-what was john tyler?	195	john tyler --> government position held governmental body --> [u'United States Department of State', u'United States Department of the Treasury', u'Cabinet of the United States']	0
-what was john tyler?	195	john tyler --> person profession --> [u'Lawyer', u'Politician']	0
-what was john tyler?	195	john tyler --> government position held basic title --> [u'President', u'Vice President', u'Governor', u'Member of Congress', u'Senator']	0
-what was john tyler?	195	john tyler --> person gender --> [u'Male']	0
-what was john tyler?	195	john tyler --> government position held office holder --> [u'George M. Bibb', u'John C. Spencer', u'Walter Forward', u'John C. Calhoun']	7
-what was john tyler?	195	john tyler --> appointment declared on --> [u'1845-02-27']	0
-what was john tyler?	195	john tyler --> taxonomy entry high --> [u'400']	0
-what was john tyler?	195	john tyler --> person nationality --> [u'United States of America']	0
-what was john tyler?	195	john tyler --> deceased person date of death --> [u'1862-01-18']	0
-what was john tyler?	195	john tyler --> taxonomy entry prefix --> [u'E']	0
-what was john tyler?	195	john tyler --> us president presidency number --> [u'10']	0
-what was john tyler?	195	john tyler --> deceased person place of death --> [u'Richmond']	1
-what was john tyler?	195	john tyler --> pet ownership pet --> [u'The General', u'Le Beau', u'Johnny Ty']	0
-what was john tyler?	195	john tyler --> government position held from --> [u'1843-03-08', u'1844-04-01', u'1841-09-13', u'1844-07-04']	0
-what was john tyler?	195	john tyler --> government position held jurisdiction of office --> [u'United States of America']	0
-what was john tyler?	195	john tyler --> government position held governmental body --> [u'United States House of Representatives', u'United States Senate']	2
-what was john tyler?	195	john tyler --> government position held jurisdiction of office --> [u'Virginia', u'United States of America']	9
-what was john tyler?	195	john tyler --> appointment appointed role --> [u'Associate Justice of the Supreme Court of the United States']	0
-what was john tyler?	195	john tyler --> deceased person place of burial --> [u'Hollywood Cemetery']	2
-what was john tyler?	195	john tyler --> government position held office position or title --> [u'Governor of Virginia', u'United States Representative', u'United States Senator', u'President of the United States', u'Vice President of the United States']	41
-what was john tyler?	195	john tyler --> political party tenure party --> [u'Democratic Party', u'Whig Party', u'Independent']	27
-what was john tyler?	195	john tyler --> person religion --> [u'Episcopal Church', u'Deism']	1
-what was john tyler?	195	john tyler --> government position held legislative sessions --> [u'24th United States Congress', u'22nd United States Congress', u'20th United States Congress', u'21st United States Congress', u'23rd United States Congress']	0
-what was john tyler?	195	john tyler --> ownership structure --> [u'Woodburn']	0
-what was john tyler?	195	john tyler --> marriage spouse --> [u'Letitia Christian Tyler', u'Julia Gardiner Tyler']	10
-what was john tyler?	195	john tyler --> ownership start date --> [u'1813']	0
-what was john tyler?	195	john tyler --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what was john tyler?	195	john tyler --> marriage from --> [u'1844', u'1813']	0
-what was john tyler?	195	john tyler --> government position held from --> [u'1841-03-04', u'1841-04-04', u'1816-12-17', u'1827-03-04', u'1825-12-10']	0
-what was john tyler?	195	john tyler --> government position held office position or title --> [u'United States Secretary of the Treasury', u'United States Secretary of State']	11
-what was john tyler?	195	john tyler --> ownership end date --> [u'1831']	0
-what was john tyler?	195	john tyler --> person place of birth --> [u'Charles City County']	2
-what was john tyler?	195	john tyler --> education institution --> [u'College of William and Mary']	1
-what was john tyler?	195	john tyler --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what was john tyler?	195	john tyler --> person children --> [u'David Gardiner Tyler', u'Lyon Gardiner Tyler', u'Robert Fitzwalter Tyler', u'Alice Tyler', u'Elizabeth Tyler']	3
-what was john tyler?	195	john tyler --> deceased person cause of death --> [u'Stroke']	0
-what was john tyler?	195	john tyler --> context name official name --> [u'John Tyler']	0
-what was john tyler?	195	john tyler --> inauguration speaker inauguration --> [u'John Tyler 1841 presidential inauguration']	0
-what was john tyler?	195	john tyler --> us vice president to president --> [u'William Henry Harrison']	54
-what was john tyler?	195	john tyler --> us vice president vice president number --> [u'10']	0
-what was john tyler?	195	john tyler --> person parents --> [u'John Tyler, Sr.']	3
-what was john tyler?	195	john tyler --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rGBeANI4GEdaAAAACs0uFOQ']	0
-what was john tyler?	195	john tyler --> taxonomy entry low --> [u'396']	0
-what was john tyler?	195	john tyler --> government position held to --> [u'1821-03-03', u'1845-03-04', u'1841-04-04', u'1827-03-04', u'1836-02-29']	0
-what was john tyler?	195	john tyler --> marriage to --> [u'1842', u'1862']	0
-what was john tyler?	195	john tyler --> government position held to --> [u'1845-03-10', u'1843-03-01', u'1844-05-02', u'1845-03-07']	0
-what was john tyler?	195	john tyler --> place lived location --> [u'Virginia']	9
-what was john tyler?	195	john tyler --> marriage type of union --> [u'Marriage']	0
-what was john tyler?	195	john tyler --> sibling relationship sibling --> [u'Wat H. Tyler ']	0
-what was john tyler?	195	john tyler --> appointment appointee --> [u'Samuel Nelson']	2
-what was john tyler?	195	john tyler --> object name --> [u'John Tyler']	0
-what was john tyler?	195	john tyler --> topic image --> [u'WHOportTyler', u'John Tyler', u'John Tyler']	0
-what was john tyler?	195	john tyler --> government position held basic title --> [u'Cabinet Secretary', u'Secretary of State']	1
-what was john tyler?	195	john tyler --> person height meters --> [u'1.83']	0
-what was john tyler?	195	john tyler --> government position held district represented --> [u'Virginia', u"Virginia's 23rd congressional district"]	9
+what was john tyler?	195	john tyler --> author works written --> [u'Papers']	0	EMPTY
+what was john tyler?	195	john tyler --> person date of birth --> [u'1790-03-29']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held governmental body --> [u'United States Department of State', u'United States Department of the Treasury', u'Cabinet of the United States']	0	EMPTY
+what was john tyler?	195	john tyler --> person profession --> [u'Lawyer', u'Politician']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held basic title --> [u'President', u'Vice President', u'Governor', u'Member of Congress', u'Senator']	0	EMPTY
+what was john tyler?	195	john tyler --> person gender --> [u'Male']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held office holder --> [u'George M. Bibb', u'John C. Spencer', u'Walter Forward', u'John C. Calhoun']	7	On 25 March 1844, he signed a treaty with Germany, for which he received high commendation from [[John Tyler|President Tyler]] and [[John C. Calhoun]], the [[United States Secretary of State|secretary of state]].
+what was john tyler?	195	john tyler --> appointment declared on --> [u'1845-02-27']	0	EMPTY
+what was john tyler?	195	john tyler --> taxonomy entry high --> [u'400']	0	EMPTY
+what was john tyler?	195	john tyler --> person nationality --> [u'United States of America']	0	EMPTY
+what was john tyler?	195	john tyler --> deceased person date of death --> [u'1862-01-18']	0	EMPTY
+what was john tyler?	195	john tyler --> taxonomy entry prefix --> [u'E']	0	EMPTY
+what was john tyler?	195	john tyler --> us president presidency number --> [u'10']	0	EMPTY
+what was john tyler?	195	john tyler --> deceased person place of death --> [u'Richmond']	1	His many public speeches include a speech from 1915 on the occasion of the unveiling of the monument to [[John Tyler]] in the [[Hollywood Cemetery (Richmond, Virginia)|Hollywood cemetery]] at [[Richmond, Virginia]].
+what was john tyler?	195	john tyler --> pet ownership pet --> [u'The General', u'Le Beau', u'Johnny Ty']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held from --> [u'1843-03-08', u'1844-04-01', u'1841-09-13', u'1844-07-04']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held jurisdiction of office --> [u'United States of America']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held governmental body --> [u'United States House of Representatives', u'United States Senate']	2	The convention nominated former [[United States Senate|Senator]] [[John Tyler]] from [[Virginia]] for Vice President.
+what was john tyler?	195	john tyler --> government position held jurisdiction of office --> [u'Virginia', u'United States of America']	9	The convention nominated former [[United States Senate|Senator]] [[John Tyler]] from [[Virginia]] for Vice President.
+what was john tyler?	195	john tyler --> appointment appointed role --> [u'Associate Justice of the Supreme Court of the United States']	0	EMPTY
+what was john tyler?	195	john tyler --> deceased person place of burial --> [u'Hollywood Cemetery']	2	He was reburied between presidents [[James Monroe]] and [[John Tyler]] in [[Hollywood Cemetery (Richmond, Virginia)|Hollywood Cemetery]] in Richmond, Virginia.
+what was john tyler?	195	john tyler --> government position held office position or title --> [u'Governor of Virginia', u'United States Representative', u'United States Senator', u'President of the United States', u'Vice President of the United States']	41	Section 1 codified the [[John Tyler#"His Accidency"|"Tyler Precedent"]] regarding when a [[President of the United States|President]] is removed from office, dies, or resigns.
+what was john tyler?	195	john tyler --> political party tenure party --> [u'Democratic Party', u'Whig Party', u'Independent']	27	* [[President of the United States|President]]: [[John Tyler]] ([[Whig Party (United States)|W]]-[[Virginia]])
+what was john tyler?	195	john tyler --> person religion --> [u'Episcopal Church', u'Deism']	1	|10||[[John Tyler]]||1841||[[Episcopal Church (United States)|Episcopalian]]
+what was john tyler?	195	john tyler --> government position held legislative sessions --> [u'24th United States Congress', u'22nd United States Congress', u'20th United States Congress', u'21st United States Congress', u'23rd United States Congress']	0	EMPTY
+what was john tyler?	195	john tyler --> ownership structure --> [u'Woodburn']	0	EMPTY
+what was john tyler?	195	john tyler --> marriage spouse --> [u'Letitia Christian Tyler', u'Julia Gardiner Tyler']	10	[[Julia Gardiner Tyler|Julia Tyler]], second wife of [[John Tyler]], requested its use to announce the arrival of the President.
+what was john tyler?	195	john tyler --> ownership start date --> [u'1813']	0	EMPTY
+what was john tyler?	195	john tyler --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what was john tyler?	195	john tyler --> marriage from --> [u'1844', u'1813']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held from --> [u'1841-03-04', u'1841-04-04', u'1816-12-17', u'1827-03-04', u'1825-12-10']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held office position or title --> [u'United States Secretary of the Treasury', u'United States Secretary of State']	11	Upshur served as [[United States Secretary of State]] and [[United States Secretary of the Navy|Secretary of the Navy]] under [[President of the United States|President]] [[John Tyler]].
+what was john tyler?	195	john tyler --> ownership end date --> [u'1831']	0	EMPTY
+what was john tyler?	195	john tyler --> person place of birth --> [u'Charles City County']	2	| 10 || [[John Tyler]] || [[Sherwood Forest Plantation]], [[Charles City County, Virginia]]
+what was john tyler?	195	john tyler --> education institution --> [u'College of William and Mary']	1	The oldest university in the South, the [[College of William & Mary]], was founded in 1693 in Virginia; it pioneered in the teaching of [[political economy]] and educated future U.S. Presidents [[Thomas Jefferson|Jefferson]], [[James Monroe|Monroe]] and [[John Tyler|Tyler]], all from Virginia.
+what was john tyler?	195	john tyler --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what was john tyler?	195	john tyler --> person children --> [u'David Gardiner Tyler', u'Lyon Gardiner Tyler', u'Robert Fitzwalter Tyler', u'Alice Tyler', u'Elizabeth Tyler']	3	*[[David Gardiner Tyler]] 1869 - United States Representative, Son of President [[John Tyler]], Present at Lee's surrender at Appomattox 
+what was john tyler?	195	john tyler --> deceased person cause of death --> [u'Stroke']	0	EMPTY
+what was john tyler?	195	john tyler --> context name official name --> [u'John Tyler']	0	EMPTY
+what was john tyler?	195	john tyler --> inauguration speaker inauguration --> [u'John Tyler 1841 presidential inauguration']	0	EMPTY
+what was john tyler?	195	john tyler --> us vice president to president --> [u'William Henry Harrison']	54	;[[John Tyler]] ([[User:Designate|Designate]] & [[User:Wehwalt|Wehwalt]]) : Vice President to [[William Henry Harrison]] before becoming President on Harrison's death in office, the little-known Tyler is generally regarded as one of America's lesser Chief Executives but his assumption of the role set precedents for succession that are still in place.
+what was john tyler?	195	john tyler --> us vice president vice president number --> [u'10']	0	EMPTY
+what was john tyler?	195	john tyler --> person parents --> [u'John Tyler, Sr.']	3	* [[John Tyler]] should be [[John Tyler, Sr.]]
+what was john tyler?	195	john tyler --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rGBeANI4GEdaAAAACs0uFOQ']	0	EMPTY
+what was john tyler?	195	john tyler --> taxonomy entry low --> [u'396']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held to --> [u'1821-03-03', u'1845-03-04', u'1841-04-04', u'1827-03-04', u'1836-02-29']	0	EMPTY
+what was john tyler?	195	john tyler --> marriage to --> [u'1842', u'1862']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held to --> [u'1845-03-10', u'1843-03-01', u'1844-05-02', u'1845-03-07']	0	EMPTY
+what was john tyler?	195	john tyler --> place lived location --> [u'Virginia']	9	The convention nominated former [[United States Senate|Senator]] [[John Tyler]] from [[Virginia]] for Vice President.
+what was john tyler?	195	john tyler --> marriage type of union --> [u'Marriage']	0	EMPTY
+what was john tyler?	195	john tyler --> sibling relationship sibling --> [u'Wat H. Tyler ']	0	EMPTY
+what was john tyler?	195	john tyler --> appointment appointee --> [u'Samuel Nelson']	2	| [[Samuel Nelson]] || 52 || [[John Tyler|Tyler]] || None || Thompson || 1 ||  | [[Whig Party (United States)|Whig]] || Feb. 4, 1845 || confirmed || voice || Feb. 14, 1845 || 10
+what was john tyler?	195	john tyler --> object name --> [u'John Tyler']	0	EMPTY
+what was john tyler?	195	john tyler --> topic image --> [u'WHOportTyler', u'John Tyler', u'John Tyler']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held basic title --> [u'Cabinet Secretary', u'Secretary of State']	1	In 1842 President [[John Tyler]] appointed Payne as the American Consul in [[Tunis]], due in part from support from [[politician|statesman]] [[William Marcy]] and [[Secretary of State]] [[Daniel Webster]], who were moved by his famous song and wanted to help him.
+what was john tyler?	195	john tyler --> person height meters --> [u'1.83']	0	EMPTY
+what was john tyler?	195	john tyler --> government position held district represented --> [u'Virginia', u"Virginia's 23rd congressional district"]	9	The convention nominated former [[United States Senate|Senator]] [[John Tyler]] from [[Virginia]] for Vice President.

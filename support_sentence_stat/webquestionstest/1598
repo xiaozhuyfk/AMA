@@ -1,230 +1,230 @@
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance isbn --> [u'9780812870282']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition book --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition publication date --> [u'1980']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition publisher --> [u'Day Books']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> pagination numbered pages --> [u'316']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition isbn --> [u'9780812870282']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition book --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition oclc number --> [u'41010916']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition publication date --> [u'1998']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> pagination numbered pages --> [u'143']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance lccn --> [u'99193163']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance isbn --> [u'9781577483939']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance oclc number --> [u'41010916']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition isbn --> [u'9781577483939']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition lccn --> [u'99193163']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition lcc --> [u'PZ7.H5935 San 1998']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition book --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac psu --> [u'1085455']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition publication date --> [u'1971']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac northwestern --> [u'2801158']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance isbn --> [u'9780812813609']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac uchicago --> [u'1966050']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac umich --> [u'4543005']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac cornell --> [u'4259369']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance stanford opac --> [u'2141171']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition place of publication --> [u'New York City']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition isbn --> [u'9780812813609']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac wisc --> [u'728552']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> written work author --> [u'Gordon Thomas']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book editions --> [u'The San Francisco earthquake', u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> written work author --> [u'Bonnie Hinman']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book editions --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> written work author --> [u'John Dudman']	0
-when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book editions --> [u'The San Francisco earthquake: John Dudman ; illustrated by Richard Scollins.']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster surviving structures --> [u'Palace Hotel, San Francisco', u'San Francisco Mint (structure)', u'Westin St. Francis']	1
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake nearest location location --> [u'Mussel Rock']	1
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake date and time --> [u'1906-04-18T13:12Z']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> money value amount --> [u'400000000']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster fatalities --> [u'3000']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified money value amount --> [u'500000000']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake fault --> [u'San Andreas Fault']	9
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> object name --> [u'1906 San Francisco earthquake']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake magnitude scale --> [u'Moment magnitude scale']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster type of disaster --> [u'Earthquake']	1
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster survivors --> [u'Jack London']	2
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified money value value qualifier --> [u'Approximate']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> event locations --> [u'San Francisco']	46
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster areas affected --> [u'San Francisco']	46
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> photographed event photograph s --> [u'Looking Down Sacramento Street, San Francisco, April 18, 1906']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake magnitude source --> [u'Bakun, 1999']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified money value currency --> [u'United States dollar']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake duration --> [u'60']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake magnitude magnitude --> [u'7.8']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> event start date --> [u'1906-04-18T05:12']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster structures destroyed --> [u'Palace Hotel, San Francisco', u'Balfour Guthrie and Co. San Francisco Office']	1
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified money value on date --> [u'1906']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> topic image --> [u'Post-and-Grant-Avenue', u'San Francisco Fire Sacramento Street 1906-04-18']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> money value currency --> [u'United States dollar']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> film subject films --> [u'San Francisco']	2
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified integer number --> [u'3000']	0
-when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> book subject works --> [u'Locked Rooms', u'After the Ruins, 1906 and 2006: Rephotographing the San Francisco Earthquake and Fire', u'A Crack in the Edge of the World: America and the Great California Earthquake of 1906']	0
-when did the san francisco earthquake occur?	41884	san francisco --> namesake named after --> [u'Francis of Assisi']	3
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-when did the san francisco earthquake occur?	41884	san francisco --> government position held office position or title --> [u'Mayor of San Francisco', u'San Francisco Supervisor', u'President of the San Francisco Board of Supervisors', u'San Francisco City Administrator']	9
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination guidebooks --> [u'San Francisco City Guide', u'Lonely Planet: California']	0
-when did the san francisco earthquake occur?	41884	san francisco --> bibs location loc type --> [u'City']	0
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination monthly climate average rainfall mm --> [u'1', u'2', u'4', u'6', u'7']	0
-when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'0.074328795']	0
-when did the san francisco earthquake occur?	41884	san francisco --> us county county seat --> [u'San Francisco']	12008
-when did the san francisco earthquake occur?	41884	san francisco --> recurring money value date --> [u'2012-01-01']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dog city relationship date --> [u'2008']	0
-when did the san francisco earthquake occur?	41884	san francisco --> daylife hero image id --> [u'09gP1HO0YLfjU']	0
-when did the san francisco earthquake occur?	41884	san francisco --> location people born here --> [u'Matthew Moy', u'Ivor McFadden', u'Will Marchetti', u'Jennifer Jajeh', u'Kevin Cheng']	0
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination local transportation --> [u'San Francisco Muni', u'AC Transit', u'Golden Gate Ferry', u'SamTrans', u'Golden Gate Transit']	14
-when did the san francisco earthquake occur?	41884	san francisco --> federal reserve bank letter --> [u'L']	0
-when did the san francisco earthquake occur?	41884	san francisco --> government position held district represented --> [u'San Francisco District 2', u'San Francisco District 3', u'San Francisco District 6', u'San Francisco District 11', u'San Francisco District 1']	0
-when did the san francisco earthquake occur?	41884	san francisco --> transit service area transit agencies --> [u'San Francisco Muni', u'Bay Area Rapid Transit']	26
-when did the san francisco earthquake occur?	41884	san francisco --> vacation choice vacationer --> [u'Alex Rodriguez']	0
-when did the san francisco earthquake occur?	41884	san francisco --> location containedby --> [u'California', u'United States of America', u'San Francisco Bay Area', u'San Francisco Peninsula', u'Area code 415']	1965
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1
-when did the san francisco earthquake occur?	41884	san francisco --> ownership structure --> [u'Candlestick Park', u'San Francisco City Hall']	45
-when did the san francisco earthquake occur?	41884	san francisco --> location partially containedby --> [u'Area code 650']	0
-when did the san francisco earthquake occur?	41884	san francisco --> art subject artwork on the subject --> [u'Hyatt on Union Square Fountain']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0
-when did the san francisco earthquake occur?	41884	san francisco --> fictional setting fictional characters born here --> [u'Prue Halliwell', u'Angar the Screamer', u'Piper Halliwell', u'Phoebe Halliwell', u'Wyatt Halliwell']	1
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0
-when did the san francisco earthquake occur?	41884	san francisco --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
-when did the san francisco earthquake occur?	41884	san francisco --> webpage resource --> [u'Visitor Information', u'SFTravel.com']	0
-when did the san francisco earthquake occur?	41884	san francisco --> recurring money value currency --> [u'United States dollar']	1
-when did the san francisco earthquake occur?	41884	san francisco --> webpage description --> [u'City and County of San Francisco (official site)', u'Only in San Francisco - The Official Visitors Site for San Francisco', u'Google Place Page: San Francisco', u'The San Francisco Chronicle']	0
-when did the san francisco earthquake occur?	41884	san francisco --> government position held office holder --> [u'Gerardo Sandoval', u'Bevan Dufty', u'Harvey Milk', u'Dianne Feinstein', u'Gavin Newsom']	69
-when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'1.26211727']	0
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination restaurants --> [u'Spork', u'Gary Danko']	0
-when did the san francisco earthquake occur?	41884	san francisco --> bibs location is clear --> [u'1']	0
-when did the san francisco earthquake occur?	41884	san francisco --> geocode datum --> [u'NAD83']	0
-when did the san francisco earthquake occur?	41884	san francisco --> organization scope organizations with this scope --> [u'San Francisco Parks Trust', u'Homeless Prenatal Program', u'Libertarian Party of San Francisco', u'The Stinking Rose', u'San Francisco Education Fund']	0
-when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated float date --> [u'2008']	0
-when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'0.712297172']	0
-when did the san francisco earthquake occur?	41884	san francisco --> geocode longitude --> [u'-122.4183']	0
-when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'0.043448524']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated float number --> [u'-0.0629']	0
-when did the san francisco earthquake occur?	41884	san francisco --> us county hud section  area --> [u'San Francisco, CA HUD Metro FMR Area']	0
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination monthly climate average min temp c --> [u'7', u'9', u'10', u'11', u'12']	0
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination accommodation --> [u'Palace Hotel, San Francisco', u'Clift', u'W San Francisco', u'Hostelling International, City Center']	5
-when did the san francisco earthquake occur?	41884	san francisco --> dated float date --> [u'2008']	0
-when did the san francisco earthquake occur?	41884	san francisco --> topic official website --> [u'http://www.sfgov.org/']	0
-when did the san francisco earthquake occur?	41884	san francisco --> casino theme casinos in this theme --> [u'Gansevoort Las Vegas', u'Golden Gate Hotel and Casino']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Census Bureau, Population']	0
-when did the san francisco earthquake occur?	41884	san francisco --> newspaper circulation area newspapers --> [u'The San Francisco Examiner', u'San Francisco Bay Guardian', u'Street Sheet', u'San Francisco Bay View', u'Sing Tao Daily']	5
-when did the san francisco earthquake occur?	41884	san francisco --> top architectural city structure count --> [u'204']	0
-when did the san francisco earthquake occur?	41884	san francisco --> bibs location country --> [u'United States of America']	402
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-when did the san francisco earthquake occur?	41884	san francisco --> webpage uri --> [u'http://www.onlyinsanfrancisco.com/', u'http://www.sfgov.org', u'http://google.com/places/us/california/san-francisco-city', u'http://sfgate.com']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'73217']	0
-when did the san francisco earthquake occur?	41884	san francisco --> government position held governmental body --> [u'San Francisco Board of Supervisors']	12
-when did the san francisco earthquake occur?	41884	san francisco --> sports team location teams --> [u'San Francisco 49ers', u'San Francisco Giants', u"San Francisco Dons men's basketball", u'San Francisco Fog RFC', u'Jam']	34
-when did the san francisco earthquake occur?	41884	san francisco --> bibs topic is really --> [u'San Francisco']	12008
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'2491']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1
-when did the san francisco earthquake occur?	41884	san francisco --> transportation transport operator --> [u'San Francisco Muni', u'AC Transit', u'WestCAT', u'Caltrain', u'Amtrak']	35
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination monthly climate average max temp c --> [u'14', u'16', u'17', u'18', u'20']	0
-when did the san francisco earthquake occur?	41884	san francisco --> location events --> [u'2002 San Francisco Black Film Festival', u'1934 West Coast waterfront strike', u'1906 San Francisco earthquake', u"San Francisco-West Texas A&M 1955 NCAA Men's Division I Basketball Tournament Game", u'2010 Tour of California']	49
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0
-when did the san francisco earthquake occur?	41884	san francisco --> base equivalent location base --> [u'San Francisco']	0
-when did the san francisco earthquake occur?	41884	san francisco --> artwork owner relationship artwork --> [u'Buchanan Mall Fountain']	0
-when did the san francisco earthquake occur?	41884	san francisco --> federal reserve bank federal reserve region --> [u'San Francisco']	0
-when did the san francisco earthquake occur?	41884	san francisco --> government position held to --> [u'1978', u'1980', u'1992', u'2004', u'2009-01']	0
-when did the san francisco earthquake occur?	41884	san francisco --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag', u'Curated Topic']	0
-when did the san francisco earthquake occur?	41884	san francisco --> government position held basic title --> [u'Mayor', u'Councillor']	3
-when did the san francisco earthquake occur?	41884	san francisco --> fictional setting works set here --> [u'Do Androids Dream of Electric Sheep?', u'Half Life', u'Bad Monkeys', u'Terminator Salvation', u'The City, Not Long After']	0
-when did the san francisco earthquake occur?	41884	san francisco --> administrative division second level division of --> [u'United States of America']	402
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'7874']	0
-when did the san francisco earthquake occur?	41884	san francisco --> ownership start date --> [u'1913']	0
-when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'0.244818349']	0
-when did the san francisco earthquake occur?	41884	san francisco --> location contains --> [u'US Census 2000 Tract 06075013400', u'US Census 2000 Tract 06075022600', u'Market & Buchanan', u'32nd Ave/Balboa St, SF', u'Cabrillo/La Playa/Ocean Beach, SF']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1
-when did the san francisco earthquake occur?	41884	san francisco --> governmental jurisdiction government bodies --> [u'San Francisco Board of Supervisors']	12
-when did the san francisco earthquake occur?	41884	san francisco --> bibs location state --> [u'California']	1693
-when did the san francisco earthquake occur?	41884	san francisco --> dog city relationship dog breed --> [u'German Shepherd Dog', u'Maltese', u'Rottweiler', u'Yorkshire Terrier', u'Golden Retriever']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0
-when did the san francisco earthquake occur?	41884	san francisco --> us county hud county place --> [u'Cliff House, San Francisco']	3
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'1748']	0
-when did the san francisco earthquake occur?	41884	san francisco --> topic topical webpage --> [u'http://www.onlyinsanfrancisco.com/', u'http://google.com/places/us/california/san-francisco-city']	0
-when did the san francisco earthquake occur?	41884	san francisco --> adjoining relationship adjoins --> [u'Golden Gate Bridge', u'Oakland', u'Alameda County', u'Marin County', u'South San Francisco']	246
-when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated location date founded --> [u'1776-06-29']	0
-when did the san francisco earthquake occur?	41884	san francisco --> federal reserve bank number --> [u'12']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'350912']	0
-when did the san francisco earthquake occur?	41884	san francisco --> administrative division country --> [u'United States of America']	402
-when did the san francisco earthquake occur?	41884	san francisco --> book subject works --> [u'Zodiac', u'The Mayor of Castro Street', u'Crazybone', u'Night Work', u'Bleeders']	0
-when did the san francisco earthquake occur?	41884	san francisco --> government position held appointed by --> [u'Dianne Feinstein', u'Gavin Newsom', u'Willie Brown']	48
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination tourist attractions --> [u'Angel Island', u'Exploratorium', u'Golden Gate Bridge', u'Baker Beach', u'San Francisco Ferry Building']	103
-when did the san francisco earthquake occur?	41884	san francisco --> dated float number --> [u'0.0534']	0
-when did the san francisco earthquake occur?	41884	san francisco --> topic alias --> [u'The City', u'Frisco', u'SF', u'San Francisco, CA', u'San Francisco, California']	0
-when did the san francisco earthquake occur?	41884	san francisco --> beer country region beers from here --> [u'Anchor Steam']	0
-when did the san francisco earthquake occur?	41884	san francisco --> fictional setting characters that have lived here --> [u'Chloe King', u'Mr. Wong']	0
-when did the san francisco earthquake occur?	41884	san francisco --> governmental jurisdiction government --> [u'Government of San Francisco']	0
-when did the san francisco earthquake occur?	41884	san francisco --> location area --> [u'600.6']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'329850']	0
-when did the san francisco earthquake occur?	41884	san francisco --> recurring money value frequency --> [u'Hour']	0
-when did the san francisco earthquake occur?	41884	san francisco --> recurring money value amount --> [u'10.24']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0
-when did the san francisco earthquake occur?	41884	san francisco --> citytown postal codes --> [u'94139', u'94103', u'94110', u'94108', u'94118']	0
-when did the san francisco earthquake occur?	41884	san francisco --> governmental jurisdiction agencies --> [u'San Francisco Public Utilities Commission', u'San Francisco Water Department', u'San Francisco Police Department', u'San Francisco Arts Commission', u'San Francisco Parks and Recreation Department']	4
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination airport --> [u'San Jose International Airport', u'San Francisco International Airport', u'Oakland International Airport']	44
-when did the san francisco earthquake occur?	41884	san francisco --> transportation transport terminus --> [u'Emeryville Amtrak Station', u'San Francisco 4th and King Street Station', u'San Francisco International Airport', u'Oakland International Airport', u'Oakland Coliseum Station']	45
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'2320']	0
-when did the san francisco earthquake occur?	41884	san francisco --> webpage uri --> [u'http://wikitravel.org/en/San_Francisco', u'http://www.sftravel.com/']	0
-when did the san francisco earthquake occur?	41884	san francisco --> location time zones --> [u'Pacific Time Zone', u'UTC-8']	1
-when did the san francisco earthquake occur?	41884	san francisco --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0
-when did the san francisco earthquake occur?	41884	san francisco --> film location featured in films --> [u'Close to Home', u'Desperate Measures', u'Rent', u'Tales of the City', u'The Conversation']	0
-when did the san francisco earthquake occur?	41884	san francisco --> webpage resource --> [u'Sundance Film Festival Gets (More) Local', u'We all scream for (cheeseburger flavored) ice cream!', u'Only in San Francisco - The Official Visitors Site for San Francisco', u"'American Idol' San Francisco auditions: Discuss!", u'An Apple iTablet? The Beatles on iTunes? What will Steve Jobs unveil?']	0
-when did the san francisco earthquake occur?	41884	san francisco --> conference venue conferences --> [u'WWDC 2012']	0
-when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0
-when did the san francisco earthquake occur?	41884	san francisco --> place with neighborhoods neighborhoods --> [u'Richmond District', u'Sunset District', u'Hunters Point', u'Bernal Heights', u'Marina District']	11
-when did the san francisco earthquake occur?	41884	san francisco --> webpage description --> [u'Visitor Information', u'SFTravel.com']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'1136']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'1000', u'25000', u'149473', u'233959', u'298997']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0
-when did the san francisco earthquake occur?	41884	san francisco --> geocode latitude --> [u'37.775']	0
-when did the san francisco earthquake occur?	41884	san francisco --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	1
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'1393']	0
-when did the san francisco earthquake occur?	41884	san francisco --> government position held from --> [u'1969', u'1980', u'1997', u'2003-01-08', u'2005-06-22']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'1473']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0
-when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0
-when did the san francisco earthquake occur?	41884	san francisco --> object name --> [u'San Francisco']	0
-when did the san francisco earthquake occur?	41884	san francisco --> topic image --> [u'Painted Ladies', u'San Francisco Skyline', u'San Francisco', u'San Francisco Skyline', u'San Francisco Golden Gate Bridge']	0
-when did the san francisco earthquake occur?	41884	san francisco --> bibs topic subsumes --> [u'San Francisco']	12008
-when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'1910', u'1920', u'1940', u'1950', u'1960']	0
-when did the san francisco earthquake occur?	41884	san francisco --> location nearby airports --> [u'San Francisco International Airport']	43
-when did the san francisco earthquake occur?	41884	san francisco --> governmental jurisdiction government positions --> [u'Mayor of San Francisco', u'San Francisco Supervisor', u'San Francisco City Administrator']	9
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0
-when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1
-when did the san francisco earthquake occur?	41884	thesan --> object name --> [u'Thesan']	0
-when did the san francisco earthquake occur?	41884	san people --> ethnicity people --> [u'Roy Sesana']	0
-when did the san francisco earthquake occur?	41884	san people --> object name --> [u'San People']	0
-when did the san francisco earthquake occur?	41884	san people --> topic image --> [u'San woman from Botswana', u'San tribesman from Namibia', u'Bosjesmannendorp']	0
-when did the san francisco earthquake occur?	41884	san people --> topic alias --> [u'San']	0
-when did the san francisco earthquake occur?	41884	san people --> dated integer number --> [u'90000']	0
-when did the san francisco earthquake occur?	41884	earthquake --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when did the san francisco earthquake occur?	41884	earthquake --> webpage resource --> [u'Jessica Simpson tweets about Japan earthquake', u'Wyclef Jean tells Oprah he started Yele with $1 million of his own money', u'Pat Robertson on Haiti: Eye roll, please', u"Why don't they make a reality show called 'Charitable Cherubs'?", u'Tweets of the Week: Haiti Edition with Wyclef Jean, Jim Carrey, and Ben Stiller']	0
-when did the san francisco earthquake occur?	41884	earthquake --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQBYpZwpEbGdrcN5Y29ycA']	0
-when did the san francisco earthquake occur?	41884	earthquake --> cause of death people --> [u'Georg Haentzschel', u'Maria Elizabetta Beccari', u'Hiroshi Kakoi', u'Esra Elbirlik', u'Iris Adrian']	0
-when did the san francisco earthquake occur?	41884	earthquake --> exhibition subject exhibitions created about this subject --> [u'Volcanoes, Earthquakes and Tsunamis']	0
-when did the san francisco earthquake occur?	41884	earthquake --> cause of death parent cause of death --> [u'Trauma', u'Accident']	0
-when did the san francisco earthquake occur?	41884	earthquake --> destruction method structures destroyed --> [u'Lighthouse of Alexandria', u'Terreiro do Pa\xe7o', u'Royal Chapel, Terreiro do Pa\xe7o Palace', u'Terreiro de Pa\xe7o Royal Palace', u'Church os S Domingos, Rossio']	0
-when did the san francisco earthquake occur?	41884	earthquake --> topic alias --> [u'Tremor', u'Quake', u'Temblor']	0
-when did the san francisco earthquake occur?	41884	earthquake --> object name --> [u'Earthquake']	0
-when did the san francisco earthquake occur?	41884	earthquake --> topic image --> [u'Quake epicenters 1963-98']	0
-when did the san francisco earthquake occur?	41884	earthquake --> context name official name --> [u'Earthquake']	0
-when did the san francisco earthquake occur?	41884	earthquake --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when did the san francisco earthquake occur?	41884	earthquake --> film subject films --> [u'Deluge']	0
-when did the san francisco earthquake occur?	41884	earthquake --> disaster type disasters of this type --> [u'September 2007 Sumatra earthquakes', u"1931 Hawke's Bay earthquake", u'Great Hanshin earthquake', u'1906 San Francisco earthquake', u'1964 Alaska earthquake']	1
-when did the san francisco earthquake occur?	41884	earthquake --> linguistic hint subject form --> [u'Earthquakes']	0
-when did the san francisco earthquake occur?	41884	earthquake --> book subject works --> [u'Earthquakes in Human History: The Far-Reaching Effects of Seismic Disruptions', u'Motus Medi-terraneus', u"Report on 2011 International Year part 4 Haiti's Hope Now and Tomorrow", u'Nuclear Snow in Japanese Springtime An Editorial Poem-Commentary']	0
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance isbn --> [u'9780812870282']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition book --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition publication date --> [u'1980']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition publisher --> [u'Day Books']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> pagination numbered pages --> [u'316']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition isbn --> [u'9780812870282']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition book --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition oclc number --> [u'41010916']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition publication date --> [u'1998']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> pagination numbered pages --> [u'143']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance lccn --> [u'99193163']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance isbn --> [u'9781577483939']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance oclc number --> [u'41010916']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition isbn --> [u'9781577483939']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition lccn --> [u'99193163']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition lcc --> [u'PZ7.H5935 San 1998']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition book --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac psu --> [u'1085455']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition publication date --> [u'1971']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac northwestern --> [u'2801158']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance isbn --> [u'9780812813609']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac uchicago --> [u'1966050']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac umich --> [u'4543005']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac cornell --> [u'4259369']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance stanford opac --> [u'2141171']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition place of publication --> [u'New York City']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book edition isbn --> [u'9780812813609']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> cataloged instance opac wisc --> [u'728552']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> written work author --> [u'Gordon Thomas']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book editions --> [u'The San Francisco earthquake', u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> written work author --> [u'Bonnie Hinman']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book editions --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> object name --> [u'The San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> written work author --> [u'John Dudman']	0	EMPTY
+when did the san francisco earthquake occur?	41884	the san francisco earthquake --> book editions --> [u'The San Francisco earthquake: John Dudman ; illustrated by Richard Scollins.']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster surviving structures --> [u'Palace Hotel, San Francisco', u'San Francisco Mint (structure)', u'Westin St. Francis']	1	Two hours later he was awakened by the first violent shocks of the [[1906 San Francisco earthquake]], after which he and his fellow performers made a hurried escape from the [[Palace Hotel, San Francisco|Palace Hotel]].
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake nearest location location --> [u'Mussel Rock']	1	On the morning of April 18, 1906 a [[1906 San Francisco earthquake|major earthquake]] struck just off the coast of Daly City near [[Mussel Rock]].
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake date and time --> [u'1906-04-18T13:12Z']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> money value amount --> [u'400000000']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster fatalities --> [u'3000']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified money value amount --> [u'500000000']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake fault --> [u'San Andreas Fault']	9	* [[April 18]] &ndash; [[1906 San Francisco earthquake|San Francisco earthquake]] (estimated magnitude 7.8) on the [[San Andreas Fault]] destroys much of San Francisco, California, USA, killing at least 3,000, with 225,000–300,000 left homeless, and $350 million in damages.
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> object name --> [u'1906 San Francisco earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake magnitude scale --> [u'Moment magnitude scale']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster type of disaster --> [u'Earthquake']	1	| [[Earthquake]], [[Seismology]], [[1976 Tangshan earthquake]], [[1906 San Francisco earthquake]], [[Great Hanshin earthquake]]
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster survivors --> [u'Jack London']	2	[[File:San francisco fire 1906.jpg|right|thumb|center|550px|[[Jack London]] after the [[1906 San Francisco earthquake]] and fire]]
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified money value value qualifier --> [u'Approximate']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> event locations --> [u'San Francisco']	46	[[Lotta's Fountain]], the most famous of these fountains, still stands at the intersection of Market and Kearny Streets in [[San Francisco]], and is the site of meetings every April 18 marking the anniversary of the [[1906 San Francisco earthquake]].
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster areas affected --> [u'San Francisco']	46	[[Lotta's Fountain]], the most famous of these fountains, still stands at the intersection of Market and Kearny Streets in [[San Francisco]], and is the site of meetings every April 18 marking the anniversary of the [[1906 San Francisco earthquake]].
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> photographed event photograph s --> [u'Looking Down Sacramento Street, San Francisco, April 18, 1906']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake magnitude source --> [u'Bakun, 1999']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified money value currency --> [u'United States dollar']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake duration --> [u'60']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> earthquake magnitude magnitude --> [u'7.8']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> event start date --> [u'1906-04-18T05:12']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> disaster structures destroyed --> [u'Palace Hotel, San Francisco', u'Balfour Guthrie and Co. San Francisco Office']	1	Two hours later he was awakened by the first violent shocks of the [[1906 San Francisco earthquake]], after which he and his fellow performers made a hurried escape from the [[Palace Hotel, San Francisco|Palace Hotel]].
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified money value on date --> [u'1906']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> topic image --> [u'Post-and-Grant-Avenue', u'San Francisco Fire Sacramento Street 1906-04-18']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> money value currency --> [u'United States dollar']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> film subject films --> [u'San Francisco']	2	*In the 1936 film, [[San Francisco (1936 film)|''San Francisco'']], [[Clark Gable]] plays a saloon-keeper of the Barbary Coast while [[Jeanette MacDonald]] plays a hopeful opera singer as they survive the [[1906 San Francisco earthquake|1906 earthquake]].
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> qualified integer number --> [u'3000']	0	EMPTY
+when did the san francisco earthquake occur?	41884	1906 san francisco earthquake --> book subject works --> [u'Locked Rooms', u'After the Ruins, 1906 and 2006: Rephotographing the San Francisco Earthquake and Fire', u'A Crack in the Edge of the World: America and the Great California Earthquake of 1906']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> namesake named after --> [u'Francis of Assisi']	3	* [[Francis of Assisi]], French religious founder – [[San Francisco]].
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> government position held office position or title --> [u'Mayor of San Francisco', u'San Francisco Supervisor', u'President of the San Francisco Board of Supervisors', u'San Francisco City Administrator']	9	* [[1979]] – '''[[White Night riots|Riots erupted]]''' in [[San Francisco]] after former [[San Francisco Board of Supervisors|Supervisor]] [[Dan White]] was only sentenced for [[voluntary manslaughter]] for the [[Moscone–Milk assassinations|assassinations]] of [[Mayor of San Francisco|Mayor]] [[George Moscone]] and openly [[homosexual|gay]] Supervisor [[Harvey Milk]].
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination guidebooks --> [u'San Francisco City Guide', u'Lonely Planet: California']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> bibs location loc type --> [u'City']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination monthly climate average rainfall mm --> [u'1', u'2', u'4', u'6', u'7']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'0.074328795']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> us county county seat --> [u'San Francisco']	12008	| [[San Francisco]] || Taj Campton Place
+when did the san francisco earthquake occur?	41884	san francisco --> recurring money value date --> [u'2012-01-01']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dog city relationship date --> [u'2008']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> daylife hero image id --> [u'09gP1HO0YLfjU']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> location people born here --> [u'Matthew Moy', u'Ivor McFadden', u'Will Marchetti', u'Jennifer Jajeh', u'Kevin Cheng']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination local transportation --> [u'San Francisco Muni', u'AC Transit', u'Golden Gate Ferry', u'SamTrans', u'Golden Gate Transit']	14	* [[San Francisco]]: The [[San Francisco Municipal Railway]]'s light rail line has several half grand unions, often located at subway entrances.
+when did the san francisco earthquake occur?	41884	san francisco --> federal reserve bank letter --> [u'L']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> government position held district represented --> [u'San Francisco District 2', u'San Francisco District 3', u'San Francisco District 6', u'San Francisco District 11', u'San Francisco District 1']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> transit service area transit agencies --> [u'San Francisco Muni', u'Bay Area Rapid Transit']	26	* [[San Francisco]]: The [[San Francisco Municipal Railway]]'s light rail line has several half grand unions, often located at subway entrances.
+when did the san francisco earthquake occur?	41884	san francisco --> vacation choice vacationer --> [u'Alex Rodriguez']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> location containedby --> [u'California', u'United States of America', u'San Francisco Bay Area', u'San Francisco Peninsula', u'Area code 415']	1965	[[San Francisco]] [[United States]]
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1	Rather than building a new arena in Oakland – or, for that matter, in [[San Francisco]] or [[San Jose, California|San Jose]], as some wanted – the decision was made to proceed with a [[United States dollar|$]]121 million renovation that involved tearing down much of the old arena's interior and building a new seating bowl within the existing structure.
+when did the san francisco earthquake occur?	41884	san francisco --> ownership structure --> [u'Candlestick Park', u'San Francisco City Hall']	45	The 49ers initially proposed in 2006 to construct a new stadium at [[Candlestick Point State Recreation Area|Candlestick Point]] in [[San Francisco]], the site of their former home, [[Candlestick Park]].
+when did the san francisco earthquake occur?	41884	san francisco --> location partially containedby --> [u'Area code 650']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> art subject artwork on the subject --> [u'Hyatt on Union Square Fountain']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> fictional setting fictional characters born here --> [u'Prue Halliwell', u'Angar the Screamer', u'Piper Halliwell', u'Phoebe Halliwell', u'Wyatt Halliwell']	1	The series starts when [[Phoebe Halliwell]] ([[Alyssa Milano]]) returns from [[New York City|New York]] and moves back into the family's [[List of locations in Charmed#The Halliwell Manor|Halliwell Manor]] in [[San Francisco]] to live with her sisters [[Prue Halliwell|Prue]] ([[Shannen Doherty]]) and [[Piper Halliwell|Piper]] ([[Holly Marie Combs]]).
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> webpage resource --> [u'Visitor Information', u'SFTravel.com']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> recurring money value currency --> [u'United States dollar']	1	Rather than building a new arena in Oakland – or, for that matter, in [[San Francisco]] or [[San Jose, California|San Jose]], as some wanted – the decision was made to proceed with a [[United States dollar|$]]121 million renovation that involved tearing down much of the old arena's interior and building a new seating bowl within the existing structure.
+when did the san francisco earthquake occur?	41884	san francisco --> webpage description --> [u'City and County of San Francisco (official site)', u'Only in San Francisco - The Official Visitors Site for San Francisco', u'Google Place Page: San Francisco', u'The San Francisco Chronicle']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> government position held office holder --> [u'Gerardo Sandoval', u'Bevan Dufty', u'Harvey Milk', u'Dianne Feinstein', u'Gavin Newsom']	69	Based in [[San Francisco]], [[California]], the '''Harvey Milk Lesbian, Gay, Bisexual, Transgender Democratic Club''' is a chapter of the [[Stonewall Democrats]], named after [[LGBT]] politician and activist [[Harvey Milk]].
+when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'1.26211727']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination restaurants --> [u'Spork', u'Gary Danko']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> bibs location is clear --> [u'1']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> geocode datum --> [u'NAD83']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> organization scope organizations with this scope --> [u'San Francisco Parks Trust', u'Homeless Prenatal Program', u'Libertarian Party of San Francisco', u'The Stinking Rose', u'San Francisco Education Fund']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated float date --> [u'2008']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'0.712297172']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> geocode longitude --> [u'-122.4183']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'0.043448524']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated float number --> [u'-0.0629']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> us county hud section  area --> [u'San Francisco, CA HUD Metro FMR Area']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination monthly climate average min temp c --> [u'7', u'9', u'10', u'11', u'12']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination accommodation --> [u'Palace Hotel, San Francisco', u'Clift', u'W San Francisco', u'Hostelling International, City Center']	5	Architect John Painter Gaynor, who later worked with Ralston on the [[Palace Hotel, San Francisco|Palace Hotel]] in [[San Francisco]], is thought to have worked on it.
+when did the san francisco earthquake occur?	41884	san francisco --> dated float date --> [u'2008']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> topic official website --> [u'http://www.sfgov.org/']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> casino theme casinos in this theme --> [u'Gansevoort Las Vegas', u'Golden Gate Hotel and Casino']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> newspaper circulation area newspapers --> [u'The San Francisco Examiner', u'San Francisco Bay Guardian', u'Street Sheet', u'San Francisco Bay View', u'Sing Tao Daily']	5	Kelley graduated from the conservatory in Stuttgart in 1880, and performed around [[Europe]] for a time with a number of [[orchestra]]s. Upon his return to the United States, he came west to [[San Francisco]], where he worked as a church [[organist]] and was a music critic for the ''[[The San Francisco Examiner|Examiner]]''.
+when did the san francisco earthquake occur?	41884	san francisco --> top architectural city structure count --> [u'204']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> bibs location country --> [u'United States of America']	402	[[San Francisco]] [[United States]]
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> webpage uri --> [u'http://www.onlyinsanfrancisco.com/', u'http://www.sfgov.org', u'http://google.com/places/us/california/san-francisco-city', u'http://sfgate.com']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'73217']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> government position held governmental body --> [u'San Francisco Board of Supervisors']	12	She served for 11 years on the [[San Francisco Board of Supervisors]] and 22 terms as a [[San Francisco]] municipal court and [[San Francisco County Superior Court]] judge.
+when did the san francisco earthquake occur?	41884	san francisco --> sports team location teams --> [u'San Francisco 49ers', u'San Francisco Giants', u"San Francisco Dons men's basketball", u'San Francisco Fog RFC', u'Jam']	34	Seifert was raised in [[San Francisco]] and ushered at [[San Francisco 49ers|49ers]] home games at [[Kezar Stadium]] while he attended [[San Francisco Polytechnic High School]] across the street.
+when did the san francisco earthquake occur?	41884	san francisco --> bibs topic is really --> [u'San Francisco']	12008	| [[San Francisco]] || Taj Campton Place
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'2491']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1	Rather than building a new arena in Oakland – or, for that matter, in [[San Francisco]] or [[San Jose, California|San Jose]], as some wanted – the decision was made to proceed with a [[United States dollar|$]]121 million renovation that involved tearing down much of the old arena's interior and building a new seating bowl within the existing structure.
+when did the san francisco earthquake occur?	41884	san francisco --> transportation transport operator --> [u'San Francisco Muni', u'AC Transit', u'WestCAT', u'Caltrain', u'Amtrak']	35	Rail service to and from San Jose is provided by [[Amtrak]] (the Sacramento–San-Jose [[Capitol Corridor]] and the [[Seattle]]–Los-Angeles [[Coast Starlight]]), [[Caltrain]] (commuter rail service between [[San Francisco]] and [[Gilroy, California|Gilroy]]), [[Altamont Commuter Express|ACE]] (commuter rail service to [[Pleasanton, California|Pleasanton]] and [[Stockton, California|Stockton]]), and a local light-rail system connecting downtown to [[Mountain View, California|Mountain View]], [[Milpitas, California|Milpitas]], [[Campbell, California|Campbell]], and [[Almaden Valley, San Jose, California|Almaden Valley]], operated by the [[Santa Clara Valley Transportation Authority]] (VTA).
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination monthly climate average max temp c --> [u'14', u'16', u'17', u'18', u'20']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> location events --> [u'2002 San Francisco Black Film Festival', u'1934 West Coast waterfront strike', u'1906 San Francisco earthquake', u"San Francisco-West Texas A&M 1955 NCAA Men's Division I Basketball Tournament Game", u'2010 Tour of California']	49	[[Lotta's Fountain]], the most famous of these fountains, still stands at the intersection of Market and Kearny Streets in [[San Francisco]], and is the site of meetings every April 18 marking the anniversary of the [[1906 San Francisco earthquake]].
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> base equivalent location base --> [u'San Francisco']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> artwork owner relationship artwork --> [u'Buchanan Mall Fountain']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> federal reserve bank federal reserve region --> [u'San Francisco']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> government position held to --> [u'1978', u'1980', u'1992', u'2004', u'2009-01']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag', u'Curated Topic']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> government position held basic title --> [u'Mayor', u'Councillor']	3	He was returned to the Assembly in a 1988 [[special election]] to succeed [[Art Agnos]], who had been elected [[Mayor]] of [[San Francisco]].
+when did the san francisco earthquake occur?	41884	san francisco --> fictional setting works set here --> [u'Do Androids Dream of Electric Sheep?', u'Half Life', u'Bad Monkeys', u'Terminator Salvation', u'The City, Not Long After']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> administrative division second level division of --> [u'United States of America']	402	[[San Francisco]] [[United States]]
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'7874']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> ownership start date --> [u'1913']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> co emission emissions --> [u'0.244818349']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> location contains --> [u'US Census 2000 Tract 06075013400', u'US Census 2000 Tract 06075022600', u'Market & Buchanan', u'32nd Ave/Balboa St, SF', u'Cabrillo/La Playa/Ocean Beach, SF']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1	Rather than building a new arena in Oakland – or, for that matter, in [[San Francisco]] or [[San Jose, California|San Jose]], as some wanted – the decision was made to proceed with a [[United States dollar|$]]121 million renovation that involved tearing down much of the old arena's interior and building a new seating bowl within the existing structure.
+when did the san francisco earthquake occur?	41884	san francisco --> governmental jurisdiction government bodies --> [u'San Francisco Board of Supervisors']	12	She served for 11 years on the [[San Francisco Board of Supervisors]] and 22 terms as a [[San Francisco]] municipal court and [[San Francisco County Superior Court]] judge.
+when did the san francisco earthquake occur?	41884	san francisco --> bibs location state --> [u'California']	1693	'''Ah Toy''' (亞彩 [[Taishanese language|Taishanese]]: /a˧ tʰɔi˥/, [[Standard Cantonese language|Standard Cantonese]]: ''Aa<sup>3</sup> Coi<sup>2</sup>'',  or 阿台, c. 1828&ndash;1928) was a [[Cantonese people|Cantonese]]-born American [[prostitute]] and [[pimp|madam]] in [[San Francisco]], [[California]], during the [[California Gold Rush]], and purportedly the first [[China|Chinese]] prostitute in San Francisco.
+when did the san francisco earthquake occur?	41884	san francisco --> dog city relationship dog breed --> [u'German Shepherd Dog', u'Maltese', u'Rottweiler', u'Yorkshire Terrier', u'Golden Retriever']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> us county hud county place --> [u'Cliff House, San Francisco']	3	'''[[Cliff House, San Francisco|Cliff House]]''' is a building located above the cliffs of [[Ocean Beach, San Francisco|Ocean Beach]], on the western side of [[San Francisco]], US.
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'1748']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> topic topical webpage --> [u'http://www.onlyinsanfrancisco.com/', u'http://google.com/places/us/california/san-francisco-city']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> adjoining relationship adjoins --> [u'Golden Gate Bridge', u'Oakland', u'Alameda County', u'Marin County', u'South San Francisco']	246	Completion of the [[Golden Gate Bridge]] between [[San Francisco]] and [[Marin County, California|Marin]] in 1937 doomed ferry service.
+when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated location date founded --> [u'1776-06-29']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> federal reserve bank number --> [u'12']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'350912']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> administrative division country --> [u'United States of America']	402	[[San Francisco]] [[United States]]
+when did the san francisco earthquake occur?	41884	san francisco --> book subject works --> [u'Zodiac', u'The Mayor of Castro Street', u'Crazybone', u'Night Work', u'Bleeders']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> government position held appointed by --> [u'Dianne Feinstein', u'Gavin Newsom', u'Willie Brown']	48	::First African American elected mayor of [[San Francisco|San Francisco, California]]: [[Willie Brown (politician)|Willie Brown]]
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination tourist attractions --> [u'Angel Island', u'Exploratorium', u'Golden Gate Bridge', u'Baker Beach', u'San Francisco Ferry Building']	103	Completion of the [[Golden Gate Bridge]] between [[San Francisco]] and [[Marin County, California|Marin]] in 1937 doomed ferry service.
+when did the san francisco earthquake occur?	41884	san francisco --> dated float number --> [u'0.0534']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> topic alias --> [u'The City', u'Frisco', u'SF', u'San Francisco, CA', u'San Francisco, California']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> beer country region beers from here --> [u'Anchor Steam']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> fictional setting characters that have lived here --> [u'Chloe King', u'Mr. Wong']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> governmental jurisdiction government --> [u'Government of San Francisco']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> location area --> [u'600.6']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'329850']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> recurring money value frequency --> [u'Hour']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> recurring money value amount --> [u'10.24']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> citytown postal codes --> [u'94139', u'94103', u'94110', u'94108', u'94118']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> governmental jurisdiction agencies --> [u'San Francisco Public Utilities Commission', u'San Francisco Water Department', u'San Francisco Police Department', u'San Francisco Arts Commission', u'San Francisco Parks and Recreation Department']	4	The television version was set specifically in [[San Francisco]] and was produced with the cooperation of the [[San Francisco Police Department]], which received a credit at the close of each episode.
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination airport --> [u'San Jose International Airport', u'San Francisco International Airport', u'Oakland International Airport']	44	*[[San Francisco]] &ndash; [[San Francisco International Airport]] ''Hub''
+when did the san francisco earthquake occur?	41884	san francisco --> transportation transport terminus --> [u'Emeryville Amtrak Station', u'San Francisco 4th and King Street Station', u'San Francisco International Airport', u'Oakland International Airport', u'Oakland Coliseum Station']	45	*[[San Francisco]] &ndash; [[San Francisco International Airport]] ''Hub''
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'2320']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> webpage uri --> [u'http://wikitravel.org/en/San_Francisco', u'http://www.sftravel.com/']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> location time zones --> [u'Pacific Time Zone', u'UTC-8']	1	From 1991 to 1993, KCRA (later to be joined by [[KRON-TV]] and [[KPIX]] in [[San Francisco]]) participated in an experiment in which primetime programming would air one hour earlier (from 7 to 10 p.m., mirroring typical network scheduling in the [[Central Time Zone|Central]], [[Mountain Time Zone|Mountain]] and [[Hawaii Time Zone]]s, instead of the standard 8 to 11 p.m. slot for [[Pacific Time Zone]] stations).
+when did the san francisco earthquake occur?	41884	san francisco --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> film location featured in films --> [u'Close to Home', u'Desperate Measures', u'Rent', u'Tales of the City', u'The Conversation']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> webpage resource --> [u'Sundance Film Festival Gets (More) Local', u'We all scream for (cheeseburger flavored) ice cream!', u'Only in San Francisco - The Official Visitors Site for San Francisco', u"'American Idol' San Francisco auditions: Discuss!", u'An Apple iTablet? The Beatles on iTunes? What will Steve Jobs unveil?']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> conference venue conferences --> [u'WWDC 2012']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> place with neighborhoods neighborhoods --> [u'Richmond District', u'Sunset District', u'Hunters Point', u'Bernal Heights', u'Marina District']	11	Leong is a graduate of [[UCLA]] (majoring in Asian American Studies) and is also a sixth-generation [[Chinese American]] native of [[San Francisco]], California, specifically the [[Richmond District, San Francisco|Richmond District]].
+when did the san francisco earthquake occur?	41884	san francisco --> webpage description --> [u'Visitor Information', u'SFTravel.com']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1	Rather than building a new arena in Oakland – or, for that matter, in [[San Francisco]] or [[San Jose, California|San Jose]], as some wanted – the decision was made to proceed with a [[United States dollar|$]]121 million renovation that involved tearing down much of the old arena's interior and building a new seating bowl within the existing structure.
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'1136']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'1000', u'25000', u'149473', u'233959', u'298997']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> geocode latitude --> [u'37.775']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	1	[[Train]] service to Denver is provided by the [[Amtrak]] [[California Zephyr]] which runs from [[Chicago, Illinois|Chicago]] west through Denver to [[San Francisco]].
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value amount --> [u'1393']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> government position held from --> [u'1969', u'1980', u'1997', u'2003-01-08', u'2005-06-22']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'2008']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer number --> [u'1473']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> co emission date --> [u'2007']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> object name --> [u'San Francisco']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> topic image --> [u'Painted Ladies', u'San Francisco Skyline', u'San Francisco', u'San Francisco Skyline', u'San Francisco Golden Gate Bridge']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> bibs topic subsumes --> [u'San Francisco']	12008	| [[San Francisco]] || Taj Campton Place
+when did the san francisco earthquake occur?	41884	san francisco --> dated integer year --> [u'1910', u'1920', u'1940', u'1950', u'1960']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> location nearby airports --> [u'San Francisco International Airport']	43	*[[San Francisco]] &ndash; [[San Francisco International Airport]] ''Hub''
+when did the san francisco earthquake occur?	41884	san francisco --> governmental jurisdiction government positions --> [u'Mayor of San Francisco', u'San Francisco Supervisor', u'San Francisco City Administrator']	9	* [[1979]] – '''[[White Night riots|Riots erupted]]''' in [[San Francisco]] after former [[San Francisco Board of Supervisors|Supervisor]] [[Dan White]] was only sentenced for [[voluntary manslaughter]] for the [[Moscone–Milk assassinations|assassinations]] of [[Mayor of San Francisco|Mayor]] [[George Moscone]] and openly [[homosexual|gay]] Supervisor [[Harvey Milk]].
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value valid date --> [u'2009']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san francisco --> dated money value currency --> [u'United States dollar']	1	Rather than building a new arena in Oakland – or, for that matter, in [[San Francisco]] or [[San Jose, California|San Jose]], as some wanted – the decision was made to proceed with a [[United States dollar|$]]121 million renovation that involved tearing down much of the old arena's interior and building a new seating bowl within the existing structure.
+when did the san francisco earthquake occur?	41884	thesan --> object name --> [u'Thesan']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san people --> ethnicity people --> [u'Roy Sesana']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san people --> object name --> [u'San People']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san people --> topic image --> [u'San woman from Botswana', u'San tribesman from Namibia', u'Bosjesmannendorp']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san people --> topic alias --> [u'San']	0	EMPTY
+when did the san francisco earthquake occur?	41884	san people --> dated integer number --> [u'90000']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> webpage resource --> [u'Jessica Simpson tweets about Japan earthquake', u'Wyclef Jean tells Oprah he started Yele with $1 million of his own money', u'Pat Robertson on Haiti: Eye roll, please', u"Why don't they make a reality show called 'Charitable Cherubs'?", u'Tweets of the Week: Haiti Edition with Wyclef Jean, Jim Carrey, and Ben Stiller']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQBYpZwpEbGdrcN5Y29ycA']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> cause of death people --> [u'Georg Haentzschel', u'Maria Elizabetta Beccari', u'Hiroshi Kakoi', u'Esra Elbirlik', u'Iris Adrian']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> exhibition subject exhibitions created about this subject --> [u'Volcanoes, Earthquakes and Tsunamis']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> cause of death parent cause of death --> [u'Trauma', u'Accident']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> destruction method structures destroyed --> [u'Lighthouse of Alexandria', u'Terreiro do Pa\xe7o', u'Royal Chapel, Terreiro do Pa\xe7o Palace', u'Terreiro de Pa\xe7o Royal Palace', u'Church os S Domingos, Rossio']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> topic alias --> [u'Tremor', u'Quake', u'Temblor']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> object name --> [u'Earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> topic image --> [u'Quake epicenters 1963-98']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> context name official name --> [u'Earthquake']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> film subject films --> [u'Deluge']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> disaster type disasters of this type --> [u'September 2007 Sumatra earthquakes', u"1931 Hawke's Bay earthquake", u'Great Hanshin earthquake', u'1906 San Francisco earthquake', u'1964 Alaska earthquake']	1	| [[Earthquake]], [[Seismology]], [[1976 Tangshan earthquake]], [[1906 San Francisco earthquake]], [[Great Hanshin earthquake]]
+when did the san francisco earthquake occur?	41884	earthquake --> linguistic hint subject form --> [u'Earthquakes']	0	EMPTY
+when did the san francisco earthquake occur?	41884	earthquake --> book subject works --> [u'Earthquakes in Human History: The Far-Reaching Effects of Seismic Disruptions', u'Motus Medi-terraneus', u"Report on 2011 International Year part 4 Haiti's Hope Now and Tomorrow", u'Nuclear Snow in Japanese Springtime An Editorial Poem-Commentary']	0	EMPTY

@@ -1,43 +1,43 @@
-what banjo does scott avett play?	68	scott avett --> person date of birth --> [u'1976-06-19']	0
-what banjo does scott avett play?	68	scott avett --> person place of birth --> [u'Cheyenne']	1
-what banjo does scott avett play?	68	scott avett --> topic official website --> [u'http://www.theavettbrothers.com/']	0
-what banjo does scott avett play?	68	scott avett --> group membership role --> [u'banjo', u'Drums', u'Guitar', u'Lead vocalist', u'Piano']	0
-what banjo does scott avett play?	68	scott avett --> valuenotation has value --> [u'Height']	0
-what banjo does scott avett play?	68	scott avett --> artist genre --> [u'Indie rock', u'Folk rock', u'Folk music']	0
-what banjo does scott avett play?	68	scott avett --> person profession --> [u'Musician', u'Singer']	0
-what banjo does scott avett play?	68	scott avett --> composer compositions --> [u'Live and Die']	0
-what banjo does scott avett play?	68	scott avett --> education institution --> [u'East Carolina University']	0
-what banjo does scott avett play?	68	scott avett --> object name --> [u'Scott Avett']	0
-what banjo does scott avett play?	68	scott avett --> webpage category --> [u'Official Website']	0
-what banjo does scott avett play?	68	scott avett --> person gender --> [u'Male']	0
-what banjo does scott avett play?	68	scott avett --> group member instruments played --> [u'banjo', u'Drum', u'Electric guitar', u'Guitar', u'Piano']	0
-what banjo does scott avett play?	68	scott avett --> topic image --> [u'Scott-Avett']	0
-what banjo does scott avett play?	68	scott avett --> group membership group --> [u'The Avett Brothers']	6
-what banjo does scott avett play?	68	scott avett --> person nationality --> [u'United States of America']	0
-what banjo does scott avett play?	68	scott avett --> topic alias --> [u'Scott Yancey Avett']	0
-what banjo does scott avett play?	68	scott avett --> group membership start --> [u'2000']	0
-what banjo does scott avett play?	68	scott avett --> sibling relationship sibling --> [u'Seth Avett']	4
-what banjo does scott avett play?	68	scott avett --> webpage uri --> [u'http://www.scottavett.com/', u'http://www.theavettbrothers.com/']	0
-what banjo does scott avett play?	68	play --> object name --> [u'Play?']	0
-what banjo does scott avett play?	68	play --> object name --> [u'Play?']	0
-what banjo does scott avett play?	68	banjo --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what banjo does scott avett play?	68	banjo --> webpage resource --> [u"Jeff Probst blogs 'Survivor: Gabon' (episode 10)", u'Steve Martin, Alec Baldwin to co-host Oscars', u'Steve Martin wants you and your dog to make a music video']	0
-what banjo does scott avett play?	68	banjo --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVlF5ZwpEbGdrcN5Y29ycA']	0
-what banjo does scott avett play?	68	banjo --> instrument instrumentalists --> [u'Billy Whitlock', u'John Stewart', u'Iron & Wine', u'Carrie Newcomer', u'Eric Weissberg']	0
-what banjo does scott avett play?	68	banjo --> group membership end --> [u'1957', u'1963', u'1966', u'1967', u'1968']	0
-what banjo does scott avett play?	68	banjo --> exhibition subject exhibitions created about this subject --> [u'Picturing the Banjo']	0
-what banjo does scott avett play?	68	banjo --> recording contribution album --> [u'Bristle Ridge', u'Brand Of Sympathy']	0
-what banjo does scott avett play?	68	banjo --> instrument family --> [u'plucked string instruments']	0
-what banjo does scott avett play?	68	banjo --> group membership start --> [u'1948', u'1956', u'1962', u'1963', u'1964']	0
-what banjo does scott avett play?	68	banjo --> object name --> [u'banjo']	0
-what banjo does scott avett play?	68	banjo --> recording contribution contributor --> [u'Bob Lucas', u'Tom Savage']	0
-what banjo does scott avett play?	68	banjo --> art subject artwork on the subject --> [u'The Banjo Lesson', u'The Banjo Player', u'The Dancing Lesson']	0
-what banjo does scott avett play?	68	banjo --> track contribution track --> [u'Prelude to Love in the Making', u"Magdalina's Dance", u'Goodnight Irene', u'Anchors Away', u'Sleepwalking']	0
-what banjo does scott avett play?	68	banjo --> topic image --> [u'BluegrassBanjo', u"The proud legacy of EWAMT's founder, Ginny E. Gryphon."]	0
-what banjo does scott avett play?	68	banjo --> track contribution role --> [u'Timpani', u'Organ', u'Toy piano', u'Bass guitar', u'balalaika']	7
-what banjo does scott avett play?	68	banjo --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what banjo does scott avett play?	68	banjo --> group membership group --> [u'Dixie Chicks', u'KMFDM', u'Blue Rodeo', u'Blue Highway', u'The Kingston Trio']	0
-what banjo does scott avett play?	68	banjo --> group membership member --> [u'Rick Brand', u'Bob Egan', u'Jason Burleson', u'John Woo', u'Max Johnston']	0
-what banjo does scott avett play?	68	banjo --> recording contribution performance role --> [u'Vocals', u'Guitar']	41
-what banjo does scott avett play?	68	banjo --> track contribution contributor --> [u'Blake Williams', u'Alastair McDonald', u'Al Perkins', u'Andy Summers', u'Marc Ribot']	2
-what banjo does scott avett play?	68	banjo --> group membership role --> [u'Organ', u'Bass guitar', u'Brass instrument', u'Electric piano', u'Sampler']	7
+what banjo does scott avett play?	68	scott avett --> person date of birth --> [u'1976-06-19']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> person place of birth --> [u'Cheyenne']	1	* [[Scott Avett]] (born 1976), musician; member of [[The Avett Brothers]]; born in [[Cheyenne, Wyoming|Cheyenne]]
+what banjo does scott avett play?	68	scott avett --> topic official website --> [u'http://www.theavettbrothers.com/']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> group membership role --> [u'banjo', u'Drums', u'Guitar', u'Lead vocalist', u'Piano']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> valuenotation has value --> [u'Height']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> artist genre --> [u'Indie rock', u'Folk rock', u'Folk music']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> person profession --> [u'Musician', u'Singer']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> composer compositions --> [u'Live and Die']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> education institution --> [u'East Carolina University']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> object name --> [u'Scott Avett']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> webpage category --> [u'Official Website']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> person gender --> [u'Male']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> group member instruments played --> [u'banjo', u'Drum', u'Electric guitar', u'Guitar', u'Piano']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> topic image --> [u'Scott-Avett']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> group membership group --> [u'The Avett Brothers']	6	* [[Scott Avett]] - Vocalist and guitar/banjo player for [[The Avett Brothers]]
+what banjo does scott avett play?	68	scott avett --> person nationality --> [u'United States of America']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> topic alias --> [u'Scott Yancey Avett']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> group membership start --> [u'2000']	0	EMPTY
+what banjo does scott avett play?	68	scott avett --> sibling relationship sibling --> [u'Seth Avett']	4	* [[The Avett Brothers]] ([[Scott Avett|Scott]] and [[Seth Avett]], bluegrass-rock musicians)
+what banjo does scott avett play?	68	scott avett --> webpage uri --> [u'http://www.scottavett.com/', u'http://www.theavettbrothers.com/']	0	EMPTY
+what banjo does scott avett play?	68	play --> object name --> [u'Play?']	0	EMPTY
+what banjo does scott avett play?	68	play --> object name --> [u'Play?']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> webpage resource --> [u"Jeff Probst blogs 'Survivor: Gabon' (episode 10)", u'Steve Martin, Alec Baldwin to co-host Oscars', u'Steve Martin wants you and your dog to make a music video']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVlF5ZwpEbGdrcN5Y29ycA']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> instrument instrumentalists --> [u'Billy Whitlock', u'John Stewart', u'Iron & Wine', u'Carrie Newcomer', u'Eric Weissberg']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> group membership end --> [u'1957', u'1963', u'1966', u'1967', u'1968']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> exhibition subject exhibitions created about this subject --> [u'Picturing the Banjo']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> recording contribution album --> [u'Bristle Ridge', u'Brand Of Sympathy']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> instrument family --> [u'plucked string instruments']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> group membership start --> [u'1948', u'1956', u'1962', u'1963', u'1964']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> object name --> [u'banjo']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> recording contribution contributor --> [u'Bob Lucas', u'Tom Savage']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> art subject artwork on the subject --> [u'The Banjo Lesson', u'The Banjo Player', u'The Dancing Lesson']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> track contribution track --> [u'Prelude to Love in the Making', u"Magdalina's Dance", u'Goodnight Irene', u'Anchors Away', u'Sleepwalking']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> topic image --> [u'BluegrassBanjo', u"The proud legacy of EWAMT's founder, Ginny E. Gryphon."]	0	EMPTY
+what banjo does scott avett play?	68	banjo --> track contribution role --> [u'Timpani', u'Organ', u'Toy piano', u'Bass guitar', u'balalaika']	7	|products        = [[Electric guitar|Electric]], [[acoustic guitar|acoustic]], [[archtop guitar|archtop]] & [[resonator guitar|resonator]] guitars <br> [[Bass guitar|Basses]] <br> [[Banjo]]s <br> [[Mandolin]]s <br> [[Guitar amplifier|Amplifiers]] <br> [[Effects unit]]s
+what banjo does scott avett play?	68	banjo --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> group membership group --> [u'Dixie Chicks', u'KMFDM', u'Blue Rodeo', u'Blue Highway', u'The Kingston Trio']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> group membership member --> [u'Rick Brand', u'Bob Egan', u'Jason Burleson', u'John Woo', u'Max Johnston']	0	EMPTY
+what banjo does scott avett play?	68	banjo --> recording contribution performance role --> [u'Vocals', u'Guitar']	41	This first album pulled together a number of artists to contribute to its making, they were Jack Cade (Vocals, [[Guitar]], Bass) Tom Anderson (Guitar, [[Banjo]], [[Mandolin]]) Andy Goodchild ([[Drums]]) Andy Purcell (Piano, [[Hammond organ|Hammond Organ]]), Ben Cox-Smith ([[Slide guitar|Slide Guitar]]), Phil Berry ([[Double bass|Double Bass]]), Tony Whennell ([[Clarinetist|Clarinet]]), Richard Whennell ([[Piano]], Backing Vocals), Matt Holland (Horns) and Chris Haigh ([[Fiddle]]).
+what banjo does scott avett play?	68	banjo --> track contribution contributor --> [u'Blake Williams', u'Alastair McDonald', u'Al Perkins', u'Andy Summers', u'Marc Ribot']	2	* [[Al Perkins]] – [[Banjo]], [[guitar]], [[resonator guitar]] and vocals
+what banjo does scott avett play?	68	banjo --> group membership role --> [u'Organ', u'Bass guitar', u'Brass instrument', u'Electric piano', u'Sampler']	7	|products        = [[Electric guitar|Electric]], [[acoustic guitar|acoustic]], [[archtop guitar|archtop]] & [[resonator guitar|resonator]] guitars <br> [[Bass guitar|Basses]] <br> [[Banjo]]s <br> [[Mandolin]]s <br> [[Guitar amplifier|Amplifiers]] <br> [[Effects unit]]s

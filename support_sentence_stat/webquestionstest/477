@@ -1,29 +1,29 @@
-where was anne boleyn executed?	231	anne boleyn --> person date of birth --> [u'1501']	0
-where was anne boleyn executed?	231	anne boleyn --> marriage from --> [u'1533-01-25']	0
-where was anne boleyn executed?	231	anne boleyn --> person gender --> [u'Female']	0
-where was anne boleyn executed?	231	anne boleyn --> person nationality --> [u'England']	3
-where was anne boleyn executed?	231	anne boleyn --> deceased person date of death --> [u'1536-05-19']	0
-where was anne boleyn executed?	231	anne boleyn --> family member family --> [u'Tudor dynasty']	0
-where was anne boleyn executed?	231	anne boleyn --> imprisonment prison --> [u'Tower of London']	11
-where was anne boleyn executed?	231	anne boleyn --> deceased person place of death --> [u'Tower of London']	11
-where was anne boleyn executed?	231	anne boleyn --> noble title tenure noble title --> [u'Marquess of Pembroke']	4
-where was anne boleyn executed?	231	anne boleyn --> deceased person place of burial --> [u'St. Peter ad Vincula']	0
-where was anne boleyn executed?	231	anne boleyn --> person religion --> [u'Catholicism', u'Anglicanism']	0
-where was anne boleyn executed?	231	anne boleyn --> marriage spouse --> [u'Henry VIII of England']	113
-where was anne boleyn executed?	231	anne boleyn --> webpage resource --> [u'Quote of the Day: Blues Traveler edition']	0
-where was anne boleyn executed?	231	anne boleyn --> marriage location of ceremony --> [u'Westminster Abbey']	1
-where was anne boleyn executed?	231	anne boleyn --> valuenotation has value --> [u'Date of burial', u'Height']	0
-where was anne boleyn executed?	231	anne boleyn --> person place of birth --> [u'Hever']	1
-where was anne boleyn executed?	231	anne boleyn --> deceased person cause of death --> [u'Decapitation', u'Uxoricide']	2
-where was anne boleyn executed?	231	anne boleyn --> person children --> [u'Elizabeth I of England', u'Henry Tudor', u'Edward Tudor']	29
-where was anne boleyn executed?	231	anne boleyn --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where was anne boleyn executed?	231	anne boleyn --> marriage to --> [u'1536-05-17']	0
-where was anne boleyn executed?	231	anne boleyn --> artist track --> [u'O Deathe, rock me asleepe']	0
-where was anne boleyn executed?	231	anne boleyn --> person parents --> [u'Elizabeth Boleyn, Countess of Wiltshire', u'Thomas Boleyn, 1st Earl of Wiltshire']	16
-where was anne boleyn executed?	231	anne boleyn --> person in fiction representations in fiction --> [u'Anne Boleyn']	0
-where was anne boleyn executed?	231	anne boleyn --> marriage type of union --> [u'Marriage']	0
-where was anne boleyn executed?	231	anne boleyn --> sibling relationship sibling --> [u'George Boleyn, 2nd Viscount Rochford', u'Mary Boleyn']	38
-where was anne boleyn executed?	231	anne boleyn --> object name --> [u'Anne Boleyn']	0
-where was anne boleyn executed?	231	anne boleyn --> topic image --> [u'Anne boleyn', u'Anneboleyn2']	0
-where was anne boleyn executed?	231	anne boleyn --> film subject films --> [u'The Other Boleyn Girl', u'Anne Boleyn']	2
-where was anne boleyn executed?	231	anne boleyn --> book subject works --> [u'Bring Up the Bodies', u'Anne Boleyn']	0
+where was anne boleyn executed?	231	anne boleyn --> person date of birth --> [u'1501']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> marriage from --> [u'1533-01-25']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> person gender --> [u'Female']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> person nationality --> [u'England']	3	* [[Hatfield House]] Old Palace, Park & River Lea flowing through the park, [[Hatfield, Hertfordshire|Hatfield]], [[Hertfordshire]], [[England]], [[UK]]  used in  scenes featuring [[Anne Boleyn]] & [[Catherine Howard]]
+where was anne boleyn executed?	231	anne boleyn --> deceased person date of death --> [u'1536-05-19']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> family member family --> [u'Tudor dynasty']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> imprisonment prison --> [u'Tower of London']	11	The execution actually was conducted in the open air, in a part of the grounds of the [[Tower of London]] that is known as [[Tower Green]], and where Henry VIII's wives [[Anne Boleyn]] and [[Catherine Howard]] had been executed.
+where was anne boleyn executed?	231	anne boleyn --> deceased person place of death --> [u'Tower of London']	11	The execution actually was conducted in the open air, in a part of the grounds of the [[Tower of London]] that is known as [[Tower Green]], and where Henry VIII's wives [[Anne Boleyn]] and [[Catherine Howard]] had been executed.
+where was anne boleyn executed?	231	anne boleyn --> noble title tenure noble title --> [u'Marquess of Pembroke']	4	*[[1532]] &ndash; Lady [[Anne Boleyn]] is made [[Marquess of Pembroke]] by her [[Engagement|fiancé]], King [[Henry VIII of England]].
+where was anne boleyn executed?	231	anne boleyn --> deceased person place of burial --> [u'St. Peter ad Vincula']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> person religion --> [u'Catholicism', u'Anglicanism']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> marriage spouse --> [u'Henry VIII of England']	113	[[Anne Boleyn]], the second wife of King [[Henry VIII of England]], has inspired or been mentioned in numerous artistic and cultural works.
+where was anne boleyn executed?	231	anne boleyn --> webpage resource --> [u'Quote of the Day: Blues Traveler edition']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> marriage location of ceremony --> [u'Westminster Abbey']	1	colspan="4"|'''''By [[Anne Boleyn]]''''' (married [[Westminster Abbey]] 25 January 1533; annulled 17 May 1536) beheaded on 19 May 1536
+where was anne boleyn executed?	231	anne boleyn --> valuenotation has value --> [u'Date of burial', u'Height']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> person place of birth --> [u'Hever']	1	| [[Hever Castle]] || [[File:Hever Castle 14.JPG|125px]] || [[Hever, Kent|Hever]]  || [[Sevenoaks (district)|Sevenoaks]] || Historic house  || Medieval country house, childhood home of [[Anne Boleyn]], exhibits from differing historical eras, instruments of torture, Tudor furnishings and history
+where was anne boleyn executed?	231	anne boleyn --> deceased person cause of death --> [u'Decapitation', u'Uxoricide']	2	|[[1536]] – '''[[Anne Boleyn]]''', the [[Wives of Henry VIII|second wife]] and [[queen consort]] of [[Henry&nbsp;VIII of England]], was [[Decapitation|beheaded]] at the [[Tower of London]] for [[adultery]], [[incest]], and [[high treason]].
+where was anne boleyn executed?	231	anne boleyn --> person children --> [u'Elizabeth I of England', u'Henry Tudor', u'Edward Tudor']	29	* [[Elizabeth Boleyn, Countess of Wiltshire|Elizabeth Howard]], married [[Thomas Boleyn, 1st Earl of Wiltshire]], and was mother of Queen [[Anne Boleyn]], and grandmother of [[Elizabeth I of England|Queen Elizabeth]].
+where was anne boleyn executed?	231	anne boleyn --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> marriage to --> [u'1536-05-17']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> artist track --> [u'O Deathe, rock me asleepe']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> person parents --> [u'Elizabeth Boleyn, Countess of Wiltshire', u'Thomas Boleyn, 1st Earl of Wiltshire']	16	This facilitated the next creation by awarding the titles of Ormond and Wiltshire to [[Thomas Boleyn, 1st Earl of Wiltshire|Thomas Boleyn]], who was the father of [[Anne Boleyn]].
+where was anne boleyn executed?	231	anne boleyn --> person in fiction representations in fiction --> [u'Anne Boleyn']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> marriage type of union --> [u'Marriage']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> sibling relationship sibling --> [u'George Boleyn, 2nd Viscount Rochford', u'Mary Boleyn']	38	For example, the accusation that [[Anne Boleyn]] and her brother [[George Boleyn, 2nd Viscount Rochford|George Boleyn]] had committed incest was one of the reasons that both siblings were executed in May 1536.
+where was anne boleyn executed?	231	anne boleyn --> object name --> [u'Anne Boleyn']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> topic image --> [u'Anne boleyn', u'Anneboleyn2']	0	EMPTY
+where was anne boleyn executed?	231	anne boleyn --> film subject films --> [u'The Other Boleyn Girl', u'Anne Boleyn']	2	In late 2006, Portman filmed ''[[The Other Boleyn Girl (2008 film)|The Other Boleyn Girl]]'', a historical drama in which she plays [[Anne Boleyn]]; [[Eric Bana]] and [[Scarlett Johansson]] co-starred.
+where was anne boleyn executed?	231	anne boleyn --> book subject works --> [u'Bring Up the Bodies', u'Anne Boleyn']	0	EMPTY

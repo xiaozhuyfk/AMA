@@ -1,20 +1,20 @@
-who were demeter's siblings?	66	demeter --> romantic involvement partner --> [u'Zeus']	0
-who were demeter's siblings?	66	demeter --> ontology instance mapping ontology --> [u'OpenCyc']	0
-who were demeter's siblings?	66	demeter --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwAnFn5wpEbGdrcN5Y29ycA']	0
-who were demeter's siblings?	66	demeter --> performance film --> [u'Gods Behaving Badly']	0
-who were demeter's siblings?	66	demeter --> symbolism used by --> [u'Alpha Gamma Rho']	0
-who were demeter's siblings?	66	demeter --> fictional character children --> [u'Persephone']	0
-who were demeter's siblings?	66	demeter --> book character appears in book --> [u'Legends of Olympus']	0
-who were demeter's siblings?	66	demeter --> object name --> [u'Demeter']	0
-who were demeter's siblings?	66	demeter --> topic image --> [u'Ceres Vatican', u'Ceres, allegory of August: detail of a fresco designed by Cosimo Tura Salone dei Mesi, 1469-70.', u'Triptolemos Louvre G187']	0
-who were demeter's siblings?	66	demeter --> sibling relationship of fictional characters siblings --> [u'Zeus', u'Zeus', u'Zeus']	41
-who were demeter's siblings?	66	demeter --> fictional character gender --> [u'Female']	0
-who were demeter's siblings?	66	demeter --> fictional character parents --> [u'Rhea', u'Cronus']	18
-who were demeter's siblings?	66	demeter --> performance actor --> [u'Phylicia Rash\u0101d']	0
-who were demeter's siblings?	66	demeter --> name source namesakes --> [u'Demeter International']	0
-who were demeter's siblings?	66	demeter --> greek deity roman equivalent --> [u'Ceres']	7
-who were demeter's siblings?	66	demeter --> person in fiction representations in fiction --> [u'Demeter']	0
-who were demeter's siblings?	66	sibling --> webpage resource --> [u"'Brothers & Sisters' recap: The worst-timed dinner in Walker family history", u"'Brothers and Sisters' recap: The prodigal son returns", u"'Brothers & Sisters': Slezak & Barrett are watching!", u"'Scream' director Mark Romanek on Michael Jackson: An EW exclusive", u"Britney's baby name: The mystery is over!"]	0
-who were demeter's siblings?	66	sibling --> topic image --> [u'The Two Princes Edward and Richard in the Tower, by John Everett Millais', u'Two Sisters by William-Adolphe Bouguereau']	0
-who were demeter's siblings?	66	sibling --> object name --> [u'Sibling']	0
-who were demeter's siblings?	66	sibling --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+who were demeter's siblings?	66	demeter --> romantic involvement partner --> [u'Zeus']	0	EMPTY
+who were demeter's siblings?	66	demeter --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+who were demeter's siblings?	66	demeter --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwAnFn5wpEbGdrcN5Y29ycA']	0	EMPTY
+who were demeter's siblings?	66	demeter --> performance film --> [u'Gods Behaving Badly']	0	EMPTY
+who were demeter's siblings?	66	demeter --> symbolism used by --> [u'Alpha Gamma Rho']	0	EMPTY
+who were demeter's siblings?	66	demeter --> fictional character children --> [u'Persephone']	0	EMPTY
+who were demeter's siblings?	66	demeter --> book character appears in book --> [u'Legends of Olympus']	0	EMPTY
+who were demeter's siblings?	66	demeter --> object name --> [u'Demeter']	0	EMPTY
+who were demeter's siblings?	66	demeter --> topic image --> [u'Ceres Vatican', u'Ceres, allegory of August: detail of a fresco designed by Cosimo Tura Salone dei Mesi, 1469-70.', u'Triptolemos Louvre G187']	0	EMPTY
+who were demeter's siblings?	66	demeter --> sibling relationship of fictional characters siblings --> [u'Zeus', u'Zeus', u'Zeus']	41	|align="center"|[[Zeus]] and [[Demeter]]
+who were demeter's siblings?	66	demeter --> fictional character gender --> [u'Female']	0	EMPTY
+who were demeter's siblings?	66	demeter --> fictional character parents --> [u'Rhea', u'Cronus']	18	She was the eldest daughter of the [[Titan (mythology)|Titans]] [[Rhea (mythology)|Rhea]] and [[Cronus]], and sister to [[Zeus]], [[Poseidon]], [[Demeter]], [[Hera]], and [[Hades]].
+who were demeter's siblings?	66	demeter --> performance actor --> [u'Phylicia Rash\u0101d']	0	EMPTY
+who were demeter's siblings?	66	demeter --> name source namesakes --> [u'Demeter International']	0	EMPTY
+who were demeter's siblings?	66	demeter --> greek deity roman equivalent --> [u'Ceres']	7	| style="padding-left:1em;"|[[Demeter]] || style="padding-left:1em;"|[[Ceres (mythology)|Ceres]] || [[File:Demeter Altemps Inv8546.jpg|75px]] || style="padding:0.5em;"|Goddess of fertility, agriculture, nature, and the seasons.
+who were demeter's siblings?	66	demeter --> person in fiction representations in fiction --> [u'Demeter']	0	EMPTY
+who were demeter's siblings?	66	sibling --> webpage resource --> [u"'Brothers & Sisters' recap: The worst-timed dinner in Walker family history", u"'Brothers and Sisters' recap: The prodigal son returns", u"'Brothers & Sisters': Slezak & Barrett are watching!", u"'Scream' director Mark Romanek on Michael Jackson: An EW exclusive", u"Britney's baby name: The mystery is over!"]	0	EMPTY
+who were demeter's siblings?	66	sibling --> topic image --> [u'The Two Princes Edward and Richard in the Tower, by John Everett Millais', u'Two Sisters by William-Adolphe Bouguereau']	0	EMPTY
+who were demeter's siblings?	66	sibling --> object name --> [u'Sibling']	0	EMPTY
+who were demeter's siblings?	66	sibling --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY

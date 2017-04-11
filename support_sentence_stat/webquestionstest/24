@@ -1,17 +1,17 @@
-who was kate chopin?	6	kate chopin --> person date of birth --> [u'1850-02-08']	0
-who was kate chopin?	6	kate chopin --> deceased person place of death --> [u'St. Louis']	1
-who was kate chopin?	6	kate chopin --> influence node influenced by --> [u'Walter Scott', u'Charles Dickens', u'Guy de Maupassant']	0
-who was kate chopin?	6	kate chopin --> person place of birth --> [u'St. Louis']	1
-who was kate chopin?	6	kate chopin --> place lived location --> [u'Louisiana', u'St. Louis', u'Natchitoches']	1
-who was kate chopin?	6	kate chopin --> education institution --> [u'Academy of the Sacred Heart']	0
-who was kate chopin?	6	kate chopin --> person profession --> [u'Businessperson', u'Novelist', u'Writer', u'Author']	0
-who was kate chopin?	6	kate chopin --> person gender --> [u'Female']	0
-who was kate chopin?	6	kate chopin --> processed with review queue question id --> [u'/rabj/store/questions/question_c309aba84496c8ac']	0
-who was kate chopin?	6	kate chopin --> object name --> [u'Kate Chopin']	0
-who was kate chopin?	6	kate chopin --> author works written --> [u'The Story of an Hour', u'American Women Writers', u'The awakening, and other stories', u'Bayou folk', u'Das Erwachen']	3
-who was kate chopin?	6	kate chopin --> person nationality --> [u'United States of America', u'France']	0
-who was kate chopin?	6	kate chopin --> topic image --> [u'Kate Chopin']	0
-who was kate chopin?	6	kate chopin --> topic alias --> [u"Katherine O'Flaherty"]	0
-who was kate chopin?	6	kate chopin --> author book editions published --> [u'The Awakening', u'The Awakening (Classic Fiction)', u'The awakening, and other stories.', u'The Awakening', u"The Awakening (A Women's Press Classic)"]	0
-who was kate chopin?	6	kate chopin --> deceased person date of death --> [u'1904-08-22']	0
-who was kate chopin?	6	kate chopin --> influence node influenced --> [u'Sue Monk Kidd']	0
+who was kate chopin?	6	kate chopin --> person date of birth --> [u'1850-02-08']	0	EMPTY
+who was kate chopin?	6	kate chopin --> deceased person place of death --> [u'St. Louis']	1	Divergent reactions of two newspapers in [[Kate Chopin]]'s hometown of [[St. Louis]], [[Missouri]], reflect this.
+who was kate chopin?	6	kate chopin --> influence node influenced by --> [u'Walter Scott', u'Charles Dickens', u'Guy de Maupassant']	0	EMPTY
+who was kate chopin?	6	kate chopin --> person place of birth --> [u'St. Louis']	1	Divergent reactions of two newspapers in [[Kate Chopin]]'s hometown of [[St. Louis]], [[Missouri]], reflect this.
+who was kate chopin?	6	kate chopin --> place lived location --> [u'Louisiana', u'St. Louis', u'Natchitoches']	1	Divergent reactions of two newspapers in [[Kate Chopin]]'s hometown of [[St. Louis]], [[Missouri]], reflect this.
+who was kate chopin?	6	kate chopin --> education institution --> [u'Academy of the Sacred Heart']	0	EMPTY
+who was kate chopin?	6	kate chopin --> person profession --> [u'Businessperson', u'Novelist', u'Writer', u'Author']	0	EMPTY
+who was kate chopin?	6	kate chopin --> person gender --> [u'Female']	0	EMPTY
+who was kate chopin?	6	kate chopin --> processed with review queue question id --> [u'/rabj/store/questions/question_c309aba84496c8ac']	0	EMPTY
+who was kate chopin?	6	kate chopin --> object name --> [u'Kate Chopin']	0	EMPTY
+who was kate chopin?	6	kate chopin --> author works written --> [u'The Story of an Hour', u'American Women Writers', u'The awakening, and other stories', u'Bayou folk', u'Das Erwachen']	3	* Louise Mallard of [[The Story of an Hour]] by [[Kate Chopin]]
+who was kate chopin?	6	kate chopin --> person nationality --> [u'United States of America', u'France']	0	EMPTY
+who was kate chopin?	6	kate chopin --> topic image --> [u'Kate Chopin']	0	EMPTY
+who was kate chopin?	6	kate chopin --> topic alias --> [u"Katherine O'Flaherty"]	0	EMPTY
+who was kate chopin?	6	kate chopin --> author book editions published --> [u'The Awakening', u'The Awakening (Classic Fiction)', u'The awakening, and other stories.', u'The Awakening', u"The Awakening (A Women's Press Classic)"]	0	EMPTY
+who was kate chopin?	6	kate chopin --> deceased person date of death --> [u'1904-08-22']	0	EMPTY
+who was kate chopin?	6	kate chopin --> influence node influenced --> [u'Sue Monk Kidd']	0	EMPTY

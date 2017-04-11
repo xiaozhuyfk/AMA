@@ -1,222 +1,222 @@
-what kind government does egypt have?	9564	egypt --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
-what kind government does egypt have?	9564	egypt --> government position held office position or title --> [u'Prime Minister of Egypt', u'President of Egypt', u'Vice President of Egypt', u'Speaker of the House of Representatives']	49
-what kind government does egypt have?	9564	egypt --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics', u'1896 Summer Olympics']	10
-what kind government does egypt have?	9564	egypt --> bibs location loc type --> [u'Country']	0
-what kind government does egypt have?	9564	egypt --> disputed location claimant disputed territories --> [u'Gebel Elba']	1
-what kind government does egypt have?	9564	egypt --> force strength maximum force size --> [u'240000']	0
-what kind government does egypt have?	9564	egypt --> dated percentage rate --> [u'0', u'0.000976', u'0.006383', u'0.03132', u'0.061467']	0
-what kind government does egypt have?	9564	egypt --> force strength combatant --> [u'Iraq', u'Syria', u'Jordan']	1207
-what kind government does egypt have?	9564	egypt --> location partially contains --> [u'Sahara', u'Libyan Desert', u'Gebel Elba']	30
-what kind government does egypt have?	9564	egypt --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
-what kind government does egypt have?	9564	egypt --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what kind government does egypt have?	9564	egypt --> taxonomy entry prefix --> [u'DT']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> location people born here --> [u'Poemen', u'Akmal Saleh', u'Mohamed Riad Ibrahim', u'Heba Yossry', u'Mohamed Abdelwahab Abdelfattah']	0
-what kind government does egypt have?	9564	egypt --> olympic medal honor medalist --> [u'Farid Simaika', u'Tamer Bayoumi', u'Mahmoud Hassan', u'Mohamed Moselhy', u'Eslan Awad']	1
-what kind government does egypt have?	9564	egypt --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what kind government does egypt have?	9564	egypt --> military command military conflict --> [u'Six-Day War', u'Yom Kippur War', u'1948 Arab\u2013Israeli War', u'Suez Crisis']	158
-what kind government does egypt have?	9564	egypt --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what kind government does egypt have?	9564	egypt --> dated kilowatt hour number --> [u'189.59', u'192.67', u'196.348', u'209.154', u'230.737']	0
-what kind government does egypt have?	9564	egypt --> country fips  --> [u'EG']	0
-what kind government does egypt have?	9564	egypt --> vacation choice vacationer --> [u'Hugh Jackman']	0
-what kind government does egypt have?	9564	egypt --> casualties combatant --> [u'Iraq', u'Syria', u'Jordan']	1207
-what kind government does egypt have?	9564	egypt --> tv subject tv episodes --> [u'Jeana Luttrull - Egypt Missions']	0
-what kind government does egypt have?	9564	egypt --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0
-what kind government does egypt have?	9564	egypt --> location partially containedby --> [u'North Africa', u'Western Asia']	98
-what kind government does egypt have?	9564	egypt --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Rowing', u'Fencing', u'Tennis']	46
-what kind government does egypt have?	9564	egypt --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
-what kind government does egypt have?	9564	egypt --> organization membership organization --> [u'World Bank', u'League of Nations', u'UNESCO', u'Arab League', u'African Union']	39
-what kind government does egypt have?	9564	egypt --> imports and exports exported to --> [u'Sudan']	432
-what kind government does egypt have?	9564	egypt --> fictional setting fictional characters born here --> [u'Pwt']	0
-what kind government does egypt have?	9564	egypt --> imports and exports date --> [u'2006']	0
-what kind government does egypt have?	9564	egypt --> context name official name --> [u'Arab Republic of Egypt']	0
-what kind government does egypt have?	9564	egypt --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
-what kind government does egypt have?	9564	egypt --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what kind government does egypt have?	9564	egypt --> national anthem of a country official anthem since --> [u'1960', u'1979']	0
-what kind government does egypt have?	9564	egypt --> military command military commander --> [u'Hosni Mubarak', u'Ahmad Ismail Ali', u'Saad el-Shazly', u'Abdul Munim Wassel', u'Ahmed Ali al-Mwawi']	80
-what kind government does egypt have?	9564	egypt --> administrative area adjectival form --> [u'Egyptian']	0
-what kind government does egypt have?	9564	egypt --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViTg5wpEbGdrcN5Y29ycA']	0
-what kind government does egypt have?	9564	egypt --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what kind government does egypt have?	9564	egypt --> location in fiction works set here --> [u'Tempus Unbound', u'I, the Sun']	0
-what kind government does egypt have?	9564	egypt --> country currency used --> [u'Egyptian pound']	10
-what kind government does egypt have?	9564	egypt --> location in fiction events --> [u"Tiye tries to change Akhenaten's fate"]	0
-what kind government does egypt have?	9564	egypt --> imports and exports amount --> [u'17200000', u'39300000']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> olympic medal honor event --> [u"Diving at the 1928 Summer Olympics \u2013 Men's 3 metre springboard", u"Diving at the 1928 Summer Olympics \u2013 Men's 10 metre platform", u"Wrestling at the 2012 Summer Olympics \u2013 Men's Greco-Roman 84 kg", u"Wrestling at the 1960 Summer Olympics - Men's Greco-Roman Flyweight", u"Taekwondo at the 2004 Summer Olympics \u2013 Men's 58 kg"]	0
-what kind government does egypt have?	9564	egypt --> olympic participating country olympics participated in --> [u'1936 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	18
-what kind government does egypt have?	9564	egypt --> bibs location is clear --> [u'1']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> military combatant armed forces --> [u'Egyptian Armed Forces']	0
-what kind government does egypt have?	9564	egypt --> organization scope organizations with this scope --> [u"Egypt's Future Party", u'Young Egypt Party', u'Egyptian Arab Socialist Party', u'Freedom and Justice Party', u'National Democratic Party']	11
-what kind government does egypt have?	9564	egypt --> country first level divisions --> [u'Minya Governorate', u'Asyut Governorate', u'Faiyum Governorate', u'Al Sharqia Governorate', u'Dakahlia Governorate']	32
-what kind government does egypt have?	9564	egypt --> dated money value amount --> [u'1070', u'1180', u'1350', u'1470', u'1580']	0
-what kind government does egypt have?	9564	egypt --> imports and exports date --> [u'2004', u'2008']	0
-what kind government does egypt have?	9564	egypt --> country languages spoken --> [u'Arabic Language', u'Egyptian Arabic', u'Nobiin Language', u'Domari Language', u"Sa'idi Arabic"]	64
-what kind government does egypt have?	9564	egypt --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what kind government does egypt have?	9564	egypt --> competitor country relationship competitor --> [u'Aya Tayssir', u'Mahmoud El Sayad', u'Nadine Ashraf']	0
-what kind government does egypt have?	9564	egypt --> country calling code --> [u'20']	0
-what kind government does egypt have?	9564	egypt --> adjoining relationship adjoins --> [u'Red Sea', u'Israel', u'Sudan', u'Libya']	1385
-what kind government does egypt have?	9564	egypt --> dated percentage rate --> [u'1.67', u'1.68', u'1.69', u'1.7', u'1.71']	0
-what kind government does egypt have?	9564	egypt --> geocode longitude --> [u'31.1710977099']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2004 Summer Olympics', u'1984 Summer Olympics', u'1936 Summer Olympics']	15
-what kind government does egypt have?	9564	egypt --> organization founder organizations founded --> [u'UNESCO', u'United Nations']	22
-what kind government does egypt have?	9564	egypt --> dated percentage rate --> [u'1.862448', u'1.998508', u'2.137306', u'2.293021', u'2.502148']	0
-what kind government does egypt have?	9564	egypt --> imports and exports imported from --> [u'Portugal']	89
-what kind government does egypt have?	9564	egypt --> olympic participating country ioc code --> [u'EGY']	0
-what kind government does egypt have?	9564	egypt --> dated kgoe number --> [u'208.468', u'211.483', u'228.406', u'228.497', u'244.39']	0
-what kind government does egypt have?	9564	egypt --> topic official website --> [u'http://www.egypt.gov.eg/english/', u'http://www.egypt.travel/']	0
-what kind government does egypt have?	9564	egypt --> dated float number --> [u'2.691', u'2.733', u'2.778', u'2.825', u'2.877']	0
-what kind government does egypt have?	9564	egypt --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> country iso  shortname --> [u'EGYPT']	0
-what kind government does egypt have?	9564	egypt --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
-what kind government does egypt have?	9564	egypt --> location in fiction setting type --> [u'Capital city', u'Hittite Empire', u'Ancient city-state', u'Ancient Egypt']	0
-what kind government does egypt have?	9564	egypt --> mythical creature location mythical creature s --> [u'Phoenix', u'Sphinx']	3
-what kind government does egypt have?	9564	egypt --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
-what kind government does egypt have?	9564	egypt --> newspaper circulation area newspapers --> [u'Akher Saa', u'Akhbar el-Yom', u'Al-Ahram', u'Almesryoon', u'Al-Ahram Weekly']	3
-what kind government does egypt have?	9564	egypt --> adjusted money value adjusted value --> [u'12008501551', u'12536920098', u'13396534340', u'14609661874', u'15799225320']	0
-what kind government does egypt have?	9564	egypt --> adjusted money value adjustment currency --> [u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> administrative area administrative parent --> [u'Earth']	0
-what kind government does egypt have?	9564	egypt --> webpage uri --> [u'http://statoids.com/ueg.html']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> flag use flag --> [u'Flag of Egypt']	1
-what kind government does egypt have?	9564	egypt --> sports team location teams --> [u'Egypt national football team', u"Egypt men's national water polo team", u'Egypt national handball team', u"Egypt men's national volleyball team", u'Egypt national beach handball team']	21
-what kind government does egypt have?	9564	egypt --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what kind government does egypt have?	9564	egypt --> force strength force size --> [u'957', u'2504']	0
-what kind government does egypt have?	9564	egypt --> force strength military conflict --> [u'Six-Day War', u'Egyptian 25th Brigade ambush']	48
-what kind government does egypt have?	9564	egypt --> breed origin breeds originating here --> [u'Fayoumi', u'Saluki', u'Abyssinian', u'Egyptian Mau', u'Chausie']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
-what kind government does egypt have?	9564	egypt --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
-what kind government does egypt have?	9564	egypt --> location adjectival form --> [u'Egyptian']	0
-what kind government does egypt have?	9564	egypt --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
-what kind government does egypt have?	9564	egypt --> dated metric ton number --> [u'0.561286', u'0.575353', u'0.588855', u'0.596472', u'0.603693']	0
-what kind government does egypt have?	9564	egypt --> casualties lower estimate --> [u'21000', u'45000']	0
-what kind government does egypt have?	9564	egypt --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
-what kind government does egypt have?	9564	egypt --> government agency --> [u'Egyptian General Intelligence Service']	0
-what kind government does egypt have?	9564	egypt --> casualties military conflict --> [u'Six-Day War']	48
-what kind government does egypt have?	9564	egypt --> administrative area subdividing type --> [u'Egyptian governorate']	0
-what kind government does egypt have?	9564	egypt --> government position held to --> [u'1978', u'2011-03-03', u'1981-10-06', u'1981-10-14', u'1999-10-05']	0
-what kind government does egypt have?	9564	egypt --> government position held appointed by --> [u'Hosni Mubarak', u'Mohamed Morsi', u'Adly Mansour', u'Anwar Sadat', u'Gamal Abdel Nasser']	251
-what kind government does egypt have?	9564	egypt --> webpage category --> [u'Topic Webpage', u'Tag', u'Topic Equivalent']	0
-what kind government does egypt have?	9564	egypt --> government position held basic title --> [u'President', u'Vice President', u'Prime minister', u'Finance minister', u'Acting President']	0
-what kind government does egypt have?	9564	egypt --> linguistic hint adjectival form --> [u'Egyptian']	0
-what kind government does egypt have?	9564	egypt --> military combatant group conflict --> [u'Battle of Ain Jalut', u'Battle of Ramla', u'Battle of Ramla', u'Battle of Yad Mordechai', u'Six-Day War']	54
-what kind government does egypt have?	9564	egypt --> force strength resource --> [u'Tank', u'Military aircraft', u'Infantry', u'Egyptian 25th Brigade']	0
-what kind government does egypt have?	9564	egypt --> dated percentage rate --> [u'0.625935', u'0.705247', u'1.056646', u'1.078838', u'1.8']	0
-what kind government does egypt have?	9564	egypt --> country capital --> [u'Cairo']	1103
-what kind government does egypt have?	9564	egypt --> topic subject of --> [u'As Egypt Howls and History Tweets']	0
-what kind government does egypt have?	9564	egypt --> location in fiction contains --> [u'Ancient Egypt']	0
-what kind government does egypt have?	9564	egypt --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what kind government does egypt have?	9564	egypt --> country internet tld --> [u'eg']	1
-what kind government does egypt have?	9564	egypt --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what kind government does egypt have?	9564	egypt --> location containedby --> [u'DVD Region 2', u'Middle East', u'Arab world']	142
-what kind government does egypt have?	9564	egypt --> dated percentage date --> [u'1990', u'1993', u'1994', u'1995', u'1996']	0
-what kind government does egypt have?	9564	egypt --> beer country region beers from here --> [u'El Gouna Beverage Co. Sakara Premium', u'El Gouna Beverage Co. Sakara Gold', u'Al Ahram Beverages Co. Stella Export', u'Al A Sakara King', u'Al Ahram Beverages Co. Stella']	0
-what kind government does egypt have?	9564	egypt --> national anthem of a country official anthem until --> [u'1979']	0
-what kind government does egypt have?	9564	egypt --> dated money value valid date --> [u'2008']	0
-what kind government does egypt have?	9564	egypt --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what kind government does egypt have?	9564	egypt --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what kind government does egypt have?	9564	egypt --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead']	0
-what kind government does egypt have?	9564	egypt --> topic topical webpage --> [u'http://www.examiner.com/african-american-art-in-national/as-egypt-howls-and-history-tweets-1']	0
-what kind government does egypt have?	9564	egypt --> imports and exports currency --> [u'Euro']	0
-what kind government does egypt have?	9564	egypt --> location primarily containedby --> [u'North Africa', u'Africa']	184
-what kind government does egypt have?	9564	egypt --> administrative area short name --> [u'eg']	0
-what kind government does egypt have?	9564	egypt --> governmental jurisdiction government --> [u'Government of Egypt']	0
-what kind government does egypt have?	9564	egypt --> country form of government --> [u'Provisional government']	0
-what kind government does egypt have?	9564	egypt --> competitor country relationship sports --> [u'Badminton']	0
-what kind government does egypt have?	9564	egypt --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
-what kind government does egypt have?	9564	egypt --> adjusted money value adjustment date --> [u'2000']	0
-what kind government does egypt have?	9564	egypt --> book subject works --> [u'Gods and Pharaohs from Egyptian Mythology', u'Ancient Egypt', u'Scenes from the Life of Cleopatra', u'Antony and Cleopatra', u'Mummies']	0
-what kind government does egypt have?	9564	egypt --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what kind government does egypt have?	9564	egypt --> organization membership to --> [u'1946-04-18']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> government position held office holder --> [u'Saad Zaghloul', u'Omar Suleiman', u'Hosni Mubarak', u'Mohamed Morsi', u'Hesham Qandil']	96
-what kind government does egypt have?	9564	egypt --> location contains --> [u'Grand Egyptian Museum', u'Oxyrhynchus', u'Esna', u'Girga', u"Hala'ib"]	17
-what kind government does egypt have?	9564	egypt --> topic alias --> [u'Arab Republic of Egypt']	0
-what kind government does egypt have?	9564	egypt --> flag use from date --> [u'1984-10-04']	0
-what kind government does egypt have?	9564	egypt --> fictional setting characters that have lived here --> [u'Tutankhamun']	0
-what kind government does egypt have?	9564	egypt --> taxonomy entry high --> [u'154']	0
-what kind government does egypt have?	9564	egypt --> organization membership from --> [u'1946', u'1937-05-26', u'1945-10-24', u'1943-11-09']	0
-what kind government does egypt have?	9564	egypt --> location area --> [u'1001450']	0
-what kind government does egypt have?	9564	egypt --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
-what kind government does egypt have?	9564	egypt --> military combatant belongs to combatant group --> [u'Triple Entente']	1
-what kind government does egypt have?	9564	egypt --> governmental jurisdiction agencies --> [u'Central Agency for Public Mobilization and Statistics', u'Egyptian General Intelligence Service', u'Egyptian Ministry of Education', u'Egyptian Ministry of Foreign Affairs', u'Egyptian Ministry of Culture']	6
-what kind government does egypt have?	9564	egypt --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what kind government does egypt have?	9564	egypt --> country administrative divisions --> [u'Minya Governorate', u'Asyut', u'Faiyum Governorate', u'Cairo', u'Al Sharqia Governorate']	1121
-what kind government does egypt have?	9564	egypt --> location in fiction languages --> [u'Hittite language', u'Egyptian language', u'Akkadian language']	18
-what kind government does egypt have?	9564	egypt --> dated float number --> [u'45.934', u'46.347', u'46.77', u'47.201', u'47.644']	0
-what kind government does egypt have?	9564	egypt --> governmental jurisdiction government bodies --> [u'Shura Council', u'House of Representatives', u'Parliament of Egypt']	10
-what kind government does egypt have?	9564	egypt --> administrative area pertinent type --> [u'Egyptian governorate']	0
-what kind government does egypt have?	9564	egypt --> location time zones --> [u'Eastern European Time', u'UTC+02:00']	13
-what kind government does egypt have?	9564	egypt --> administrative area administrative area type --> [u'Sovereign state']	0
-what kind government does egypt have?	9564	egypt --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
-what kind government does egypt have?	9564	egypt --> film location featured in films --> [u'Samsara', u'Cleopatra']	2
-what kind government does egypt have?	9564	egypt --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what kind government does egypt have?	9564	egypt --> webpage resource --> [u"Liza Minnelli on 'Ferguson': Still got it", u'As Egypt Howls and History Tweets', u"Megan Fox a 'grump' according to anonymous 'Transformers' crew members", u'Statoids of Egypt', u'For Audiences of Broadway\u2019s \u201cFela!\u201d, A Musical Primer']	0
-what kind government does egypt have?	9564	egypt --> countries continent --> [u'Africa']	95
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> government position held governmental body --> [u'House of Representatives']	2
-what kind government does egypt have?	9564	egypt --> location in fiction universe --> [u'The Sacred Band of Stepsons universe', u'I, the Sun universe']	0
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> military combatant group combatants --> [u'Iraq', u'Transjordan', u'Saudi Arabia', u'Yemen', u'Syria']	1256
-what kind government does egypt have?	9564	egypt --> dated integer number --> [u'27903093', u'28648825', u'29408697', u'30182426', u'30970067']	0
-what kind government does egypt have?	9564	egypt --> geocode latitude --> [u'28.8013214589']	0
-what kind government does egypt have?	9564	egypt --> location events --> [u'Byzantine\u2013Sassanid wars', u'Roman\u2013Persian Wars', u'Operation Crusader', u'Muslim conquest of Egypt', u'1964 Arab League summit']	10
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> country official language --> [u'Modern Standard Arabic']	1
-what kind government does egypt have?	9564	egypt --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what kind government does egypt have?	9564	egypt --> fictional setting universe --> [u"JoJo's Bizarre Adventure"]	0
-what kind government does egypt have?	9564	egypt --> taxonomy entry low --> [u'43']	0
-what kind government does egypt have?	9564	egypt --> administrative area administrative children --> [u'Minya Governorate', u'Asyut', u'Faiyum Governorate', u'Al Sharqia Governorate', u'Dakahlia Governorate']	28
-what kind government does egypt have?	9564	egypt --> government position held from --> [u'1978', u'1910-02-22', u'1981-10-14', u'1999-10-05', u'2012-01-23']	0
-what kind government does egypt have?	9564	egypt --> olympic athlete affiliation athlete --> [u'Farid Simaika', u'Marwan Mohsen', u'Mohamed Salah', u'Hossam Hassan', u'Ahmed Saad']	1
-what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar']	0
-what kind government does egypt have?	9564	egypt --> dated money value amount --> [u'48302714978', u'54379238459', u'63505712284', u'71129043060', u'78248033122']	0
-what kind government does egypt have?	9564	egypt --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what kind government does egypt have?	9564	egypt --> object name --> [u'Egypt']	0
-what kind government does egypt have?	9564	egypt --> topic image --> [u'\u041c\u0430\u043f\u0430 \u0404\u0433\u0438\u043f\u0442\u0443.']	0
-what kind government does egypt have?	9564	egypt --> national anthem of a country anthem --> [u'Bilady, Bilady, Bilady', u'Walla Zaman Ya Selahy']	1
-what kind government does egypt have?	9564	egypt --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what kind government does egypt have?	9564	egypt --> dated money value amount --> [u'4003322844', u'4144244345', u'4160465776', u'4334054780', u'4781695715']	0
-what kind government does egypt have?	9564	egypt --> governmental jurisdiction government positions --> [u'Prime Minister of Egypt', u'Vice President of Egypt', u'Speaker of the House of Representatives']	6
-what kind government does egypt have?	9564	egypt --> dated money value amount --> [u'5500']	0
-what kind government does egypt have?	9564	child --> webpage resource --> [u'A suggested to-do list for Michael Jackson', u"Today in Let's Talk Tilda...", u'Madonna adopting second Malawian child, say officials', u"'Reading Rainbow': We won't be seeing you later", u"'Brothers & Sisters' recap: The worst-timed dinner in Walker family history"]	0
-what kind government does egypt have?	9564	child --> change output --> [u'Adult']	2
-what kind government does egypt have?	9564	child --> taxonomy entry low --> [u'701']	0
-what kind government does egypt have?	9564	child --> risk factor diseases --> [u'Lactose intolerance', u'Trachoma', u'Intussusception', u'Otitis media', u'Lichen nitidus']	0
-what kind government does egypt have?	9564	child --> art subject artwork on the subject --> [u'A Woman Peeling Apples']	0
-what kind government does egypt have?	9564	child --> taxonomy entry high --> [u'1420.5']	0
-what kind government does egypt have?	9564	child --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what kind government does egypt have?	9564	child --> tagged topic tags --> [u'Cute']	0
-what kind government does egypt have?	9564	child --> object name --> [u'Child']	0
-what kind government does egypt have?	9564	child --> topic image --> [u'Children in a Primary Education School', u'KidsindoorwayC']	0
-what kind government does egypt have?	9564	child --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what kind government does egypt have?	9564	child --> change process --> [u'Puberty']	0
-what kind government does egypt have?	9564	child --> taxonomy entry prefix --> [u'HV']	0
-what kind government does egypt have?	9564	child --> book subject works --> [u'As if', u'Learnability and cognition', u'Powerpuff Girls Postcard Book', u'Visual thinking', u'Pleasure: a creative approach to life']	0
-what kind government does egypt have?	9564	government --> equivalent topic equivalent domain --> [u'Government']	0
-what kind government does egypt have?	9564	government --> taxonomy entry high --> [u'619', u'9593']	0
-what kind government does egypt have?	9564	government --> vocabulary equivalent topic equivalent concept --> [u'Government']	0
-what kind government does egypt have?	9564	government --> organization sector organizations in this sector --> [u'TERMINALFOUR', u'Worksafe', u'Ministry of Information']	0
-what kind government does egypt have?	9564	government --> taxonomy entry prefix --> [u'JF', u'JK']	0
-what kind government does egypt have?	9564	government --> education end date --> [u'1958', u'1965', u'1970', u'1977', u'1978']	0
-what kind government does egypt have?	9564	government --> building function buildings --> [u'United States Capitol', u'Building 257', u'Six World Trade Center', u'Senedd', u'Building 101']	0
-what kind government does egypt have?	9564	government --> education institution --> [u'University of Queensland', u'Harvard College', u'Columbia University', u'Ateneo de Manila University', u'Dartmouth College']	0
-what kind government does egypt have?	9564	government --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what kind government does egypt have?	9564	government --> webpage resource --> [u"Quote of the Day: 'Star Wars' social justice edition", u"'Air Hostess Wars' reaches flying altitude of 32,000 feet higher/better than 'Dance War'", u'Sacha Baron Cohen tells David Letterman how to find a terrorist', u'And on the 7th day, Jack Bauer rested', u"Michael Jackson: Genius? Yes. Government-sanctioned 'icon'? No."]	0
-what kind government does egypt have?	9564	government --> education start date --> [u'1954', u'1961', u'1969', u'1984']	0
-what kind government does egypt have?	9564	government --> education student --> [u'Dean Barnett', u'Victor Sumulong', u'Neal Katyal', u'Rob Allyn', u'Morton Halperin']	0
-what kind government does egypt have?	9564	government --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what kind government does egypt have?	9564	government --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what kind government does egypt have?	9564	government --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwCAhkHseQdeRivkpwzBa0Q']	0
-what kind government does egypt have?	9564	government --> taxonomy entry low --> [u'201', u'2403']	0
-what kind government does egypt have?	9564	government --> education major field of study --> [u'History', u'Theatre', u'Business', u'Fine art']	13
-what kind government does egypt have?	9564	government --> periodical subject periodicals --> [u'Federal Computer Week']	0
-what kind government does egypt have?	9564	government --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Doctorate', u'Master of Science', u'M.A.']	2
-what kind government does egypt have?	9564	government --> object name --> [u'Government']	0
-what kind government does egypt have?	9564	government --> topic image --> [u'Government-Vedder-Highsmith-detail-1g']	0
-what kind government does egypt have?	9564	government --> quotation subject quotations about this subject --> [u'The government is us; we are the government, you and I.', u'There is something to be said for government by a great aristocracy which has furnished leaders to the nation in peace and war for generations; even a democrat like myself must admit this. But there is absolutely nothing to be said for government by a plutocracy, for government by men very powerful in certain lines and gifted with the money touch, but with ideals which in their essence are merely those of so many glorified pawnbrokers.', u'Fear is the foundation of most government.', u'Governments need to have both shepherds and butchers.', u'Any cook should be able to run the country.']	0
-what kind government does egypt have?	9564	government --> equivalent topic equivalent type --> [u'Government']	0
-what kind government does egypt have?	9564	government --> book subject works --> [u'Canadas Trial Courts', u'Death Penalties', u'Veronica Guerin', u'Road work', u'The Mormon hierarchy']	0
+what kind government does egypt have?	9564	egypt --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> government position held office position or title --> [u'Prime Minister of Egypt', u'President of Egypt', u'Vice President of Egypt', u'Speaker of the House of Representatives']	49	In 1956, after the [[Suez Crisis|tripartite invasion]] of [[Egypt]] by [[United Kingdom|Britain]], [[France]] and [[Israel]] which led to the wide Arab support for [[President of Egypt|Egyptian President]] [[Gamal Abdel Nasser]], the group acquired an extra dimension and emphasis on [[Pan-Arabism|Arab unity]] and liberation under the title of the Islamic Socialist Party.
+what kind government does egypt have?	9564	egypt --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics', u'1896 Summer Olympics']	10	'''Ahmed Ismail El Shamy''' (born October 21, 1975 in [[Cairo]], [[Al-Qahira]]) is an [[Egypt]]ian [[boxing|boxer]] who competed in the Men's Light Heavyweight (&ndash; 81&nbsp;kg) at the [[2004 Summer Olympics]] and won the bronze medal.
+what kind government does egypt have?	9564	egypt --> bibs location loc type --> [u'Country']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> disputed location claimant disputed territories --> [u'Gebel Elba']	1	The [[Gebel_Elba#Gebel_Elba_National_Park|Gebel Elba National Park]], near the border of [[Egypt]] and Sudan, is claimed to be home to a wild population of Nubian wild asses.
+what kind government does egypt have?	9564	egypt --> force strength maximum force size --> [u'240000']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated percentage rate --> [u'0', u'0.000976', u'0.006383', u'0.03132', u'0.061467']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> force strength combatant --> [u'Iraq', u'Syria', u'Jordan']	1207	9 Independent Airborne Squadron RE accompanied the Division to [[Germany]], returning to the UK in 1950, since when the squadron has served on active service in countries such as [[Egypt]], [[Cyprus]], [[Jordan]], [[Kuwait]], [[Bahrain]], [[Aden]], [[Radfan]], [[Borneo]], [[Rhodesia]] as well as six full tours and two spearhead tours of duty in [[Northern Ireland]].
+what kind government does egypt have?	9564	egypt --> location partially contains --> [u'Sahara', u'Libyan Desert', u'Gebel Elba']	30	The crew then attempts a crash-landing in the [[Libyan Desert]], but the aircraft crashes near [[Wadi El Natrun]], [[Egypt]], killing all 55 people on board.
+what kind government does egypt have?	9564	egypt --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> taxonomy entry prefix --> [u'DT']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location people born here --> [u'Poemen', u'Akmal Saleh', u'Mohamed Riad Ibrahim', u'Heba Yossry', u'Mohamed Abdelwahab Abdelfattah']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> olympic medal honor medalist --> [u'Farid Simaika', u'Tamer Bayoumi', u'Mahmoud Hassan', u'Mohamed Moselhy', u'Eslan Awad']	1	He was the second [[Egypt]]ian to earn two medals, after [[Farid Simaika]], who earned them in diving at the [[1928 Summer Olympics]].
+what kind government does egypt have?	9564	egypt --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> military command military conflict --> [u'Six-Day War', u'Yom Kippur War', u'1948 Arab\u2013Israeli War', u'Suez Crisis']	158	25,000 Mizrahi Jews from [[Egypt]] left after the 1956 [[Suez Crisis]], led to the overwhelming majority of Mizrahim leaving Arab countries.
+what kind government does egypt have?	9564	egypt --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated kilowatt hour number --> [u'189.59', u'192.67', u'196.348', u'209.154', u'230.737']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country fips  --> [u'EG']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> vacation choice vacationer --> [u'Hugh Jackman']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> casualties combatant --> [u'Iraq', u'Syria', u'Jordan']	1207	9 Independent Airborne Squadron RE accompanied the Division to [[Germany]], returning to the UK in 1950, since when the squadron has served on active service in countries such as [[Egypt]], [[Cyprus]], [[Jordan]], [[Kuwait]], [[Bahrain]], [[Aden]], [[Radfan]], [[Borneo]], [[Rhodesia]] as well as six full tours and two spearhead tours of duty in [[Northern Ireland]].
+what kind government does egypt have?	9564	egypt --> tv subject tv episodes --> [u'Jeana Luttrull - Egypt Missions']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location partially containedby --> [u'North Africa', u'Western Asia']	98	'''Tâb''' is the [[Egypt]]ian name of a [[Running-fight game|running-fight]] [[board game]] played in several [[Muslim]] (mostly [[Arab]]) countries, and a family of similar board games played in [[North Africa]] (as ''sîg'') and [[Western Asia]], from [[Iran]] to [[West Africa]] and from [[Turkey]] to [[Somalia]], where a variant called ''deleb'' is played.
+what kind government does egypt have?	9564	egypt --> olympic athlete affiliation sport --> [u'Boxing', u'Football', u'Rowing', u'Fencing', u'Tennis']	46	'''Hossam Hassan Hussein''' (; born 10 August 1966) is an [[Egypt]]ian retired [[Association football|footballer]] who played as a [[Forward (association football)#Striker|striker]], and the current manager of [[Al-Masry Club|Al-Masry]] in the [[Egyptian Premier League]].
+what kind government does egypt have?	9564	egypt --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> organization membership organization --> [u'World Bank', u'League of Nations', u'UNESCO', u'Arab League', u'African Union']	39	The '''Arab Pentagon Commission''', is a branch in the [[Arab League]], which is made up of 5 Arab states, representing all Arab states, these states are [[Egypt]], [[Qatar]], [[Iraq]], [[Libya]] and [[Yemen]], in addition to the Arab League secretary general, [[Amr Moussa]].
+what kind government does egypt have?	9564	egypt --> imports and exports exported to --> [u'Sudan']	432	A 2006 economic study found that there was a significant correlation between home-country [[Political corruption|corruption]] (as measured by [[Transparency International]]) and unpaid parking fines: six countries had in excess of 100 violations per diplomat: [[Kuwait]], [[Egypt]], [[Chad]], [[Sudan]], [[Bulgaria]] and [[Mozambique]].
+what kind government does egypt have?	9564	egypt --> fictional setting fictional characters born here --> [u'Pwt']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> imports and exports date --> [u'2006']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> context name official name --> [u'Arab Republic of Egypt']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> national anthem of a country official anthem since --> [u'1960', u'1979']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> military command military commander --> [u'Hosni Mubarak', u'Ahmad Ismail Ali', u'Saad el-Shazly', u'Abdul Munim Wassel', u'Ahmed Ali al-Mwawi']	80	On 11 February 2011, President [[Hosni Mubarak]] resigned as president of [[Egypt]], leading people to label this as a peaceful and mostly non-violent people's revolution where, except in a limited number of incidents, loss of life was caused directly by acts of the government rather than protesters.
+what kind government does egypt have?	9564	egypt --> administrative area adjectival form --> [u'Egyptian']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViTg5wpEbGdrcN5Y29ycA']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location in fiction works set here --> [u'Tempus Unbound', u'I, the Sun']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country currency used --> [u'Egyptian pound']	10	* 2.5 [[Egyptian pound|LE]] shop in [[Egypt]]
+what kind government does egypt have?	9564	egypt --> location in fiction events --> [u"Tiye tries to change Akhenaten's fate"]	0	EMPTY
+what kind government does egypt have?	9564	egypt --> imports and exports amount --> [u'17200000', u'39300000']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> olympic medal honor event --> [u"Diving at the 1928 Summer Olympics \u2013 Men's 3 metre springboard", u"Diving at the 1928 Summer Olympics \u2013 Men's 10 metre platform", u"Wrestling at the 2012 Summer Olympics \u2013 Men's Greco-Roman 84 kg", u"Wrestling at the 1960 Summer Olympics - Men's Greco-Roman Flyweight", u"Taekwondo at the 2004 Summer Olympics \u2013 Men's 58 kg"]	0	EMPTY
+what kind government does egypt have?	9564	egypt --> olympic participating country olympics participated in --> [u'1936 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	18	Fathy represented [[Egypt]] at the [[2008 Summer Olympics]] in [[Beijing]], where he competed in two sabre events.
+what kind government does egypt have?	9564	egypt --> bibs location is clear --> [u'1']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> military combatant armed forces --> [u'Egyptian Armed Forces']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> organization scope organizations with this scope --> [u"Egypt's Future Party", u'Young Egypt Party', u'Egyptian Arab Socialist Party', u'Freedom and Justice Party', u'National Democratic Party']	11	'''Mohamed Saad Tawfik El-Katatni''' (, alternatively spelled ''El-Katatny'' or ''Al-Katatni''; born 3 April 1952) is an [[Egypt]]ian [[Islamism|Islamist]] politician who has been the chairman of the [[Freedom and Justice Party (Egypt)|Freedom and Justice Party]] (FJP) since October 2012.
+what kind government does egypt have?	9564	egypt --> country first level divisions --> [u'Minya Governorate', u'Asyut Governorate', u'Faiyum Governorate', u'Al Sharqia Governorate', u'Dakahlia Governorate']	32	'''Amin Mohamed El-Hady''' (also Amin El-Hady, ; born April 13, 1983 in [[Al Sharqia Governorate|Al Sharqiyah]]) is an [[Egypt]]ian [[judoka]], who played for the half-lightweight category.
+what kind government does egypt have?	9564	egypt --> dated money value amount --> [u'1070', u'1180', u'1350', u'1470', u'1580']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> imports and exports date --> [u'2004', u'2008']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country languages spoken --> [u'Arabic Language', u'Egyptian Arabic', u'Nobiin Language', u'Domari Language', u"Sa'idi Arabic"]	64	'''Haras El Hodoud Sporting Club''' ([[Arabic language|Arabic]]: نادي حرس الحدود الرياضي, Frontier Guard Club) is an [[Egypt]]ian [[football (soccer)|football]] team.
+what kind government does egypt have?	9564	egypt --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> competitor country relationship competitor --> [u'Aya Tayssir', u'Mahmoud El Sayad', u'Nadine Ashraf']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country calling code --> [u'20']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> adjoining relationship adjoins --> [u'Red Sea', u'Israel', u'Sudan', u'Libya']	1385	Built between 1979 and 1982, it was the stumbling block in negotiations between [[Israel]] and [[Egypt]] over the final border between the two countries.
+what kind government does egypt have?	9564	egypt --> dated percentage rate --> [u'1.67', u'1.68', u'1.69', u'1.7', u'1.71']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> geocode longitude --> [u'31.1710977099']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2004 Summer Olympics', u'1984 Summer Olympics', u'1936 Summer Olympics']	15	'''[[Egypt]]''' competed at the '''[[1984 Summer Olympics]]''' in [[Los Angeles, California|Los Angeles]], [[United States]].
+what kind government does egypt have?	9564	egypt --> organization founder organizations founded --> [u'UNESCO', u'United Nations']	22	* The [[United Nations]] is criticised after a poster that made reference to [[People's Republic of China|China's]] [[Internet censorship in the People's Republic of China|internet censorship]] by the [[OpenNet Initiative]] at an international conference focussed on Internet freedom in [[Sharm el-Sheik]], [[Egypt]], is removed.
+what kind government does egypt have?	9564	egypt --> dated percentage rate --> [u'1.862448', u'1.998508', u'2.137306', u'2.293021', u'2.502148']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> imports and exports imported from --> [u'Portugal']	89	They operate worldwide in [[Algeria]], [[Colombia]], [[Cyprus]], [[Dubai]], [[Egypt]], France, Germany, [[Greece]], Italy, [[Peru]], [[Portugal]], Spain, UK and United States.
+what kind government does egypt have?	9564	egypt --> olympic participating country ioc code --> [u'EGY']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated kgoe number --> [u'208.468', u'211.483', u'228.406', u'228.497', u'244.39']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> topic official website --> [u'http://www.egypt.gov.eg/english/', u'http://www.egypt.travel/']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated float number --> [u'2.691', u'2.733', u'2.778', u'2.825', u'2.877']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country iso  shortname --> [u'EGYPT']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> adjusted money value source --> [u'World Bank, World Development Indicators']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location in fiction setting type --> [u'Capital city', u'Hittite Empire', u'Ancient city-state', u'Ancient Egypt']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> mythical creature location mythical creature s --> [u'Phoenix', u'Sphinx']	3	| <center>Shooting location: Studio and outdoor by the [[Pyramids]] and [[Sphinx]] of [[Egypt]]
+what kind government does egypt have?	9564	egypt --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> newspaper circulation area newspapers --> [u'Akher Saa', u'Akhbar el-Yom', u'Al-Ahram', u'Almesryoon', u'Al-Ahram Weekly']	3	** [[Israel]] denies that a [[Germany|German]]-mediated prisoner exchange with [[Hezbollah]] is to take place within two or three weeks, as reported earlier in [[Egypt]]ian state-run daily [[Al-Ahram]].
+what kind government does egypt have?	9564	egypt --> adjusted money value adjusted value --> [u'12008501551', u'12536920098', u'13396534340', u'14609661874', u'15799225320']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> adjusted money value adjustment currency --> [u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> administrative area administrative parent --> [u'Earth']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> webpage uri --> [u'http://statoids.com/ueg.html']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> flag use flag --> [u'Flag of Egypt']	1	'''Bastet''' is the Official [[Mascot]] of the [[11th Pan Arab Games]] held in [[Egypt]], the Mascot's name is derived from its Origin, which is the [[ancient Egyptian]] goddess of [[Bastet|Bast]], Bastet is a [[Black cat]], with an ancient Egyptian [[Headscarf]], striped with [[Flag of Egypt|Egypt's Flag]].
+what kind government does egypt have?	9564	egypt --> sports team location teams --> [u'Egypt national football team', u"Egypt men's national water polo team", u'Egypt national handball team', u"Egypt men's national volleyball team", u'Egypt national beach handball team']	21	He has been capped to play for [[Egypt]]'s under-20 national team, under-23 national team, and recently, [[Egypt national football team|the first team]] as well
+what kind government does egypt have?	9564	egypt --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> force strength force size --> [u'957', u'2504']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> force strength military conflict --> [u'Six-Day War', u'Egyptian 25th Brigade ambush']	48	[[Egypt]]ian naval blockades of the [[Straits of Tiran]] which control access to Eilat featured prominently in the events which led to two major [[Arab-Israeli Conflict]]s: [[Suez Crisis|The Sinai War]] and the [[Six-Day War]].
+what kind government does egypt have?	9564	egypt --> breed origin breeds originating here --> [u'Fayoumi', u'Saluki', u'Abyssinian', u'Egyptian Mau', u'Chausie']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location adjectival form --> [u'Egyptian']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated metric ton number --> [u'0.561286', u'0.575353', u'0.588855', u'0.596472', u'0.603693']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> casualties lower estimate --> [u'21000', u'45000']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> government agency --> [u'Egyptian General Intelligence Service']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> casualties military conflict --> [u'Six-Day War']	48	[[Egypt]]ian naval blockades of the [[Straits of Tiran]] which control access to Eilat featured prominently in the events which led to two major [[Arab-Israeli Conflict]]s: [[Suez Crisis|The Sinai War]] and the [[Six-Day War]].
+what kind government does egypt have?	9564	egypt --> administrative area subdividing type --> [u'Egyptian governorate']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> government position held to --> [u'1978', u'2011-03-03', u'1981-10-06', u'1981-10-14', u'1999-10-05']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> government position held appointed by --> [u'Hosni Mubarak', u'Mohamed Morsi', u'Adly Mansour', u'Anwar Sadat', u'Gamal Abdel Nasser']	251	In 1956, after the [[Suez Crisis|tripartite invasion]] of [[Egypt]] by [[United Kingdom|Britain]], [[France]] and [[Israel]] which led to the wide Arab support for [[President of Egypt|Egyptian President]] [[Gamal Abdel Nasser]], the group acquired an extra dimension and emphasis on [[Pan-Arabism|Arab unity]] and liberation under the title of the Islamic Socialist Party.
+what kind government does egypt have?	9564	egypt --> webpage category --> [u'Topic Webpage', u'Tag', u'Topic Equivalent']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> government position held basic title --> [u'President', u'Vice President', u'Prime minister', u'Finance minister', u'Acting President']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> linguistic hint adjectival form --> [u'Egyptian']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> military combatant group conflict --> [u'Battle of Ain Jalut', u'Battle of Ramla', u'Battle of Ramla', u'Battle of Yad Mordechai', u'Six-Day War']	54	[[Egypt]]ian naval blockades of the [[Straits of Tiran]] which control access to Eilat featured prominently in the events which led to two major [[Arab-Israeli Conflict]]s: [[Suez Crisis|The Sinai War]] and the [[Six-Day War]].
+what kind government does egypt have?	9564	egypt --> force strength resource --> [u'Tank', u'Military aircraft', u'Infantry', u'Egyptian 25th Brigade']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated percentage rate --> [u'0.625935', u'0.705247', u'1.056646', u'1.078838', u'1.8']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country capital --> [u'Cairo']	1103	|17 November 2005||[[Cairo]]||[[Egypt]]||[[Giza pyramid complex|Giza Pyramid Complex]]
+what kind government does egypt have?	9564	egypt --> topic subject of --> [u'As Egypt Howls and History Tweets']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location in fiction contains --> [u'Ancient Egypt']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country internet tld --> [u'eg']	1	| id="EG" |  || [[Egypt]] || 1974 || [[.eg]] ||  ||
+what kind government does egypt have?	9564	egypt --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location containedby --> [u'DVD Region 2', u'Middle East', u'Arab world']	142	The video for "Golden Brown", directed by Lindsey Clennell, depicts the band members both as explorers in an [[Arab world|Arabian country]] and non Arab Muslim Countries (sequences include images of [[Giza pyramid complex|the Pyramids]] as well as the explorers studying a map of [[Egypt]]) in the 1920s and performers for a fictional "Radio Cairo". 
+what kind government does egypt have?	9564	egypt --> dated percentage date --> [u'1990', u'1993', u'1994', u'1995', u'1996']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> beer country region beers from here --> [u'El Gouna Beverage Co. Sakara Premium', u'El Gouna Beverage Co. Sakara Gold', u'Al Ahram Beverages Co. Stella Export', u'Al A Sakara King', u'Al Ahram Beverages Co. Stella']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> national anthem of a country official anthem until --> [u'1979']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value valid date --> [u'2008']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> topic topical webpage --> [u'http://www.examiner.com/african-american-art-in-national/as-egypt-howls-and-history-tweets-1']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> imports and exports currency --> [u'Euro']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location primarily containedby --> [u'North Africa', u'Africa']	184	| [[Africa]]: [[Egypt]]
+what kind government does egypt have?	9564	egypt --> administrative area short name --> [u'eg']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> governmental jurisdiction government --> [u'Government of Egypt']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country form of government --> [u'Provisional government']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> competitor country relationship sports --> [u'Badminton']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> adjusted money value adjustment date --> [u'2000']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> book subject works --> [u'Gods and Pharaohs from Egyptian Mythology', u'Ancient Egypt', u'Scenes from the Life of Cleopatra', u'Antony and Cleopatra', u'Mummies']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> organization membership to --> [u'1946-04-18']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> government position held office holder --> [u'Saad Zaghloul', u'Omar Suleiman', u'Hosni Mubarak', u'Mohamed Morsi', u'Hesham Qandil']	96	Feeling grief when the demonstrations overwhelmed [[Egypt]] and the [[United Kingdom|British]] shot the demonstrators, Ester wrote to President Wilson of the United States, saying: "Four persons were sent to fight in this battle" (she means [[Saad Zaghloul]] and his friends), "if it is urgent we will send 4 hundreds may be 4 thousands or 4 millions to liberate the 4 precedents.
+what kind government does egypt have?	9564	egypt --> location contains --> [u'Grand Egyptian Museum', u'Oxyrhynchus', u'Esna', u'Girga', u"Hala'ib"]	17	LVIII 3929''') is one of four examples of ''[[Libellus|libelli]]'' found at [[Oxyrhynchus]] in [[Egypt]].
+what kind government does egypt have?	9564	egypt --> topic alias --> [u'Arab Republic of Egypt']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> flag use from date --> [u'1984-10-04']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> fictional setting characters that have lived here --> [u'Tutankhamun']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> taxonomy entry high --> [u'154']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> organization membership from --> [u'1946', u'1937-05-26', u'1945-10-24', u'1943-11-09']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location area --> [u'1001450']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> military combatant belongs to combatant group --> [u'Triple Entente']	1	Evidence that the Ottoman government was planning to depose him at the end of the war led him to an exchange of [[McMahon–Hussein Correspondence|letters]] with British [[High Commissioner]] [[Henry McMahon (diplomat)|Henry McMahon]] which convinced him that his assistance on the side of the [[Triple Entente]] would be rewarded by an Arab empire encompassing the entire span between [[Egypt]] and [[Persia]], with the exception of imperial possessions and interests in [[Kuwait]], [[Aden]], and the [[Syria]]n coast.
+what kind government does egypt have?	9564	egypt --> governmental jurisdiction agencies --> [u'Central Agency for Public Mobilization and Statistics', u'Egyptian General Intelligence Service', u'Egyptian Ministry of Education', u'Egyptian Ministry of Foreign Affairs', u'Egyptian Ministry of Culture']	6	*[[Egypt]] – Its [[Ministry of Foreign Affairs (Egypt)|Ministry of Foreign Affairs]] stressed that it agrees calls for "self restraint and respect for the right of assembly and peaceful expression of opinion" in the protests, hoping that the American authorities deal with the protests according to "the international standards."
+what kind government does egypt have?	9564	egypt --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country administrative divisions --> [u'Minya Governorate', u'Asyut', u'Faiyum Governorate', u'Cairo', u'Al Sharqia Governorate']	1121	|17 November 2005||[[Cairo]]||[[Egypt]]||[[Giza pyramid complex|Giza Pyramid Complex]]
+what kind government does egypt have?	9564	egypt --> location in fiction languages --> [u'Hittite language', u'Egyptian language', u'Akkadian language']	18	'''Coptic''' or '''Coptic Egyptian''' (Bohairic:  ''ti.met.rem.ən.khēmi'' and Sahidic:  ''t.mənt.rəm.ən.kēme'') is the latest stage of the [[Egyptian language]], a northern [[Afroasiatic languages|Afroasiatic]] language spoken in [[Egypt]] until at least the 17th century.
+what kind government does egypt have?	9564	egypt --> dated float number --> [u'45.934', u'46.347', u'46.77', u'47.201', u'47.644']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> governmental jurisdiction government bodies --> [u'Shura Council', u'House of Representatives', u'Parliament of Egypt']	10	| '''[[Egypt]]''' || [[House of Representatives (Egypt)]] || [[Speaker of the People's Assembly of Egypt|Speaker]] || [[Ali Abdel Aal]]
+what kind government does egypt have?	9564	egypt --> administrative area pertinent type --> [u'Egyptian governorate']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location time zones --> [u'Eastern European Time', u'UTC+02:00']	13	| style="vertical-align:top;" | [[UTC+02:00|+02:00]]<br Africa: [[Burundi|BI]], [[Botswana|BW]], [[Democratic Republic of the Congo|CD]]-, [[Egypt|EG]], [[Libya|LY]], [[Malawi|MW]], [[Mozambique|MZ]], [[Rwanda|RW]], [[South Africa|ZA]], [[Zambia|ZM]], [[Zimbabwe|ZW]]
+what kind government does egypt have?	9564	egypt --> administrative area administrative area type --> [u'Sovereign state']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> film location featured in films --> [u'Samsara', u'Cleopatra']	2	| ''[[Cleopatra (1963 film)|Cleopatra]]'' || 1963 || 48-30 BC || [[Egypt]] and [[Rome]] - follows her relationships first with [[Julius Caesar]] and then with [[Mark Antony]]
+what kind government does egypt have?	9564	egypt --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> webpage resource --> [u"Liza Minnelli on 'Ferguson': Still got it", u'As Egypt Howls and History Tweets', u"Megan Fox a 'grump' according to anonymous 'Transformers' crew members", u'Statoids of Egypt', u'For Audiences of Broadway\u2019s \u201cFela!\u201d, A Musical Primer']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> countries continent --> [u'Africa']	95	| [[Africa]]: [[Egypt]]
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> government position held governmental body --> [u'House of Representatives']	2	| '''[[Egypt]]''' || [[House of Representatives (Egypt)]] || [[Speaker of the People's Assembly of Egypt|Speaker]] || [[Ali Abdel Aal]]
+what kind government does egypt have?	9564	egypt --> location in fiction universe --> [u'The Sacred Band of Stepsons universe', u'I, the Sun universe']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> military combatant group combatants --> [u'Iraq', u'Transjordan', u'Saudi Arabia', u'Yemen', u'Syria']	1256	Infrastructure and development plans led to an influx of skilled and unskilled workers, principally [[State of Palestine|Palestinians]], [[Egypt]]ians, [[Yemen]]is and others from Arab countries, but also [[Indians in Saudi Arabia|Indians]] and [[Pakistanis in Saudi Arabia|Pakistanis]], leading to a doubling of the Saudi population by 1985.
+what kind government does egypt have?	9564	egypt --> dated integer number --> [u'27903093', u'28648825', u'29408697', u'30182426', u'30970067']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> geocode latitude --> [u'28.8013214589']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> location events --> [u'Byzantine\u2013Sassanid wars', u'Roman\u2013Persian Wars', u'Operation Crusader', u'Muslim conquest of Egypt', u'1964 Arab League summit']	10	This left the field open for the warriors of the nascent [[Rashidun Caliphate]] to complete their [[Muslim conquest of Syria|conquest]] of [[Bilad al-Sham|Syria]], with [[Egypt]] too [[Muslim conquest of Egypt|falling]] shortly after.
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> country official language --> [u'Modern Standard Arabic']	1	The standard written language, [[Modern Standard Arabic]], is based on the [[Classical Arabic]] of the [[Qur'an]], while the [[Varieties of Arabic|modern vernacular dialects]] (or languages) branched from Classical Arabic a few hundred years earlier , from North Western [[Africa]] through [[Egypt]], [[Sudan]], and the [[Fertile Crescent]] to the [[Arabian Peninsula]] and [[Iraq]].
+what kind government does egypt have?	9564	egypt --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> fictional setting universe --> [u"JoJo's Bizarre Adventure"]	0	EMPTY
+what kind government does egypt have?	9564	egypt --> taxonomy entry low --> [u'43']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> administrative area administrative children --> [u'Minya Governorate', u'Asyut', u'Faiyum Governorate', u'Al Sharqia Governorate', u'Dakahlia Governorate']	28	'''Amin Mohamed El-Hady''' (also Amin El-Hady, ; born April 13, 1983 in [[Al Sharqia Governorate|Al Sharqiyah]]) is an [[Egypt]]ian [[judoka]], who played for the half-lightweight category.
+what kind government does egypt have?	9564	egypt --> government position held from --> [u'1978', u'1910-02-22', u'1981-10-14', u'1999-10-05', u'2012-01-23']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> olympic athlete affiliation athlete --> [u'Farid Simaika', u'Marwan Mohsen', u'Mohamed Salah', u'Hossam Hassan', u'Ahmed Saad']	1	He was the second [[Egypt]]ian to earn two medals, after [[Farid Simaika]], who earned them in diving at the [[1928 Summer Olympics]].
+what kind government does egypt have?	9564	egypt --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value amount --> [u'48302714978', u'54379238459', u'63505712284', u'71129043060', u'78248033122']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> object name --> [u'Egypt']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> topic image --> [u'\u041c\u0430\u043f\u0430 \u0404\u0433\u0438\u043f\u0442\u0443.']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> national anthem of a country anthem --> [u'Bilady, Bilady, Bilady', u'Walla Zaman Ya Selahy']	1	Diab, at the age of six, had his first shot at fame when he sang the [[Egypt|Egyptian National Anthem]] "[[Bilady, Bilady, Bilady]]" at the annual 23 July Festival in Port Said.
+what kind government does egypt have?	9564	egypt --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> dated money value amount --> [u'4003322844', u'4144244345', u'4160465776', u'4334054780', u'4781695715']	0	EMPTY
+what kind government does egypt have?	9564	egypt --> governmental jurisdiction government positions --> [u'Prime Minister of Egypt', u'Vice President of Egypt', u'Speaker of the House of Representatives']	6	This page lists the holders of the office of '''[[Prime Minister of Egypt|Prime Minister]] of [[Egypt]]'''.
+what kind government does egypt have?	9564	egypt --> dated money value amount --> [u'5500']	0	EMPTY
+what kind government does egypt have?	9564	child --> webpage resource --> [u'A suggested to-do list for Michael Jackson', u"Today in Let's Talk Tilda...", u'Madonna adopting second Malawian child, say officials', u"'Reading Rainbow': We won't be seeing you later", u"'Brothers & Sisters' recap: The worst-timed dinner in Walker family history"]	0	EMPTY
+what kind government does egypt have?	9564	child --> change output --> [u'Adult']	2	:'''''[[People]]'''''&nbsp;&ndash; [[Adult]]&nbsp;• [[Alien (law)|Alien (foreigner)]]&nbsp;• [[Child]]&nbsp;• [[Father]]&nbsp;• [[Genius]]&nbsp;• [[Human]]&nbsp;• [[Indigenous peoples]]&nbsp;• [[Man]]&nbsp;• [[Minor (law)|Minor]]&nbsp;• [[Mother]]&nbsp;• [[Parent]]&nbsp;• [[Woman]]&nbsp;• [[Youth]]
+what kind government does egypt have?	9564	child --> taxonomy entry low --> [u'701']	0	EMPTY
+what kind government does egypt have?	9564	child --> risk factor diseases --> [u'Lactose intolerance', u'Trachoma', u'Intussusception', u'Otitis media', u'Lichen nitidus']	0	EMPTY
+what kind government does egypt have?	9564	child --> art subject artwork on the subject --> [u'A Woman Peeling Apples']	0	EMPTY
+what kind government does egypt have?	9564	child --> taxonomy entry high --> [u'1420.5']	0	EMPTY
+what kind government does egypt have?	9564	child --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what kind government does egypt have?	9564	child --> tagged topic tags --> [u'Cute']	0	EMPTY
+what kind government does egypt have?	9564	child --> object name --> [u'Child']	0	EMPTY
+what kind government does egypt have?	9564	child --> topic image --> [u'Children in a Primary Education School', u'KidsindoorwayC']	0	EMPTY
+what kind government does egypt have?	9564	child --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what kind government does egypt have?	9564	child --> change process --> [u'Puberty']	0	EMPTY
+what kind government does egypt have?	9564	child --> taxonomy entry prefix --> [u'HV']	0	EMPTY
+what kind government does egypt have?	9564	child --> book subject works --> [u'As if', u'Learnability and cognition', u'Powerpuff Girls Postcard Book', u'Visual thinking', u'Pleasure: a creative approach to life']	0	EMPTY
+what kind government does egypt have?	9564	government --> equivalent topic equivalent domain --> [u'Government']	0	EMPTY
+what kind government does egypt have?	9564	government --> taxonomy entry high --> [u'619', u'9593']	0	EMPTY
+what kind government does egypt have?	9564	government --> vocabulary equivalent topic equivalent concept --> [u'Government']	0	EMPTY
+what kind government does egypt have?	9564	government --> organization sector organizations in this sector --> [u'TERMINALFOUR', u'Worksafe', u'Ministry of Information']	0	EMPTY
+what kind government does egypt have?	9564	government --> taxonomy entry prefix --> [u'JF', u'JK']	0	EMPTY
+what kind government does egypt have?	9564	government --> education end date --> [u'1958', u'1965', u'1970', u'1977', u'1978']	0	EMPTY
+what kind government does egypt have?	9564	government --> building function buildings --> [u'United States Capitol', u'Building 257', u'Six World Trade Center', u'Senedd', u'Building 101']	0	EMPTY
+what kind government does egypt have?	9564	government --> education institution --> [u'University of Queensland', u'Harvard College', u'Columbia University', u'Ateneo de Manila University', u'Dartmouth College']	0	EMPTY
+what kind government does egypt have?	9564	government --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what kind government does egypt have?	9564	government --> webpage resource --> [u"Quote of the Day: 'Star Wars' social justice edition", u"'Air Hostess Wars' reaches flying altitude of 32,000 feet higher/better than 'Dance War'", u'Sacha Baron Cohen tells David Letterman how to find a terrorist', u'And on the 7th day, Jack Bauer rested', u"Michael Jackson: Genius? Yes. Government-sanctioned 'icon'? No."]	0	EMPTY
+what kind government does egypt have?	9564	government --> education start date --> [u'1954', u'1961', u'1969', u'1984']	0	EMPTY
+what kind government does egypt have?	9564	government --> education student --> [u'Dean Barnett', u'Victor Sumulong', u'Neal Katyal', u'Rob Allyn', u'Morton Halperin']	0	EMPTY
+what kind government does egypt have?	9564	government --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what kind government does egypt have?	9564	government --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what kind government does egypt have?	9564	government --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwCAhkHseQdeRivkpwzBa0Q']	0	EMPTY
+what kind government does egypt have?	9564	government --> taxonomy entry low --> [u'201', u'2403']	0	EMPTY
+what kind government does egypt have?	9564	government --> education major field of study --> [u'History', u'Theatre', u'Business', u'Fine art']	13	He received his [[PhD]] in [[History]] from [[Cambridge University]] in 1996, [[Master of Arts|MA]] in [[International Relations]] and [[International Economics]] from [[Johns Hopkins University]] and [[Bachelor of Science|BSc]] in [[Government]] and [[Economics]] from [[Harvard University]] .
+what kind government does egypt have?	9564	government --> periodical subject periodicals --> [u'Federal Computer Week']	0	EMPTY
+what kind government does egypt have?	9564	government --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Doctorate', u'Master of Science', u'M.A.']	2	He received his [[PhD]] in [[History]] from [[Cambridge University]] in 1996, [[Master of Arts|MA]] in [[International Relations]] and [[International Economics]] from [[Johns Hopkins University]] and [[Bachelor of Science|BSc]] in [[Government]] and [[Economics]] from [[Harvard University]] .
+what kind government does egypt have?	9564	government --> object name --> [u'Government']	0	EMPTY
+what kind government does egypt have?	9564	government --> topic image --> [u'Government-Vedder-Highsmith-detail-1g']	0	EMPTY
+what kind government does egypt have?	9564	government --> quotation subject quotations about this subject --> [u'The government is us; we are the government, you and I.', u'There is something to be said for government by a great aristocracy which has furnished leaders to the nation in peace and war for generations; even a democrat like myself must admit this. But there is absolutely nothing to be said for government by a plutocracy, for government by men very powerful in certain lines and gifted with the money touch, but with ideals which in their essence are merely those of so many glorified pawnbrokers.', u'Fear is the foundation of most government.', u'Governments need to have both shepherds and butchers.', u'Any cook should be able to run the country.']	0	EMPTY
+what kind government does egypt have?	9564	government --> equivalent topic equivalent type --> [u'Government']	0	EMPTY
+what kind government does egypt have?	9564	government --> book subject works --> [u'Canadas Trial Courts', u'Death Penalties', u'Veronica Guerin', u'Road work', u'The Mormon hierarchy']	0	EMPTY

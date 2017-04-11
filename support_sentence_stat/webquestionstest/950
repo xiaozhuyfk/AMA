@@ -1,14 +1,14 @@
-where did richard arkwright grow up?	12	richard arkwright --> person date of birth --> [u'1732-12-23']	0
-where did richard arkwright grow up?	12	richard arkwright --> deceased person place of death --> [u'Cromford']	7
-where did richard arkwright grow up?	12	richard arkwright --> person place of birth --> [u'Preston']	2
-where did richard arkwright grow up?	12	richard arkwright --> person profession --> [u'Inventor', u'Entrepreneur', u'Industrialist']	0
-where did richard arkwright grow up?	12	richard arkwright --> marriage type of union --> [u'Marriage']	0
-where did richard arkwright grow up?	12	richard arkwright --> topic alias --> [u'Sir Richard Arkwright', u'The Father of the Industrial Revolution']	0
-where did richard arkwright grow up?	12	richard arkwright --> person children --> [u'Richard Arkwright junior']	1
-where did richard arkwright grow up?	12	richard arkwright --> object name --> [u'Richard Arkwright']	0
-where did richard arkwright grow up?	12	richard arkwright --> inventor inventions --> [u'Spinning frame']	1
-where did richard arkwright grow up?	12	richard arkwright --> person nationality --> [u'England']	1
-where did richard arkwright grow up?	12	richard arkwright --> topic image --> [u'Richard Arkwright', u'Arkwright Richard 1790']	0
-where did richard arkwright grow up?	12	richard arkwright --> person gender --> [u'Male']	0
-where did richard arkwright grow up?	12	richard arkwright --> deceased person date of death --> [u'1792-08-03']	0
-where did richard arkwright grow up?	12	richard arkwright --> marriage spouse --> [u'Patience Holt', u'Margaret Biggins']	0
+where did richard arkwright grow up?	12	richard arkwright --> person date of birth --> [u'1732-12-23']	0	EMPTY
+where did richard arkwright grow up?	12	richard arkwright --> deceased person place of death --> [u'Cromford']	7	* [[Richard Arkwright]] opens the first [[cotton mill]] in [[Cromford]], [[Derbyshire]], England
+where did richard arkwright grow up?	12	richard arkwright --> person place of birth --> [u'Preston']	2	[[Richard Arkwright]] was a hard-nosed businessman from [[Preston, Lancashire|Preston]].
+where did richard arkwright grow up?	12	richard arkwright --> person profession --> [u'Inventor', u'Entrepreneur', u'Industrialist']	0	EMPTY
+where did richard arkwright grow up?	12	richard arkwright --> marriage type of union --> [u'Marriage']	0	EMPTY
+where did richard arkwright grow up?	12	richard arkwright --> topic alias --> [u'Sir Richard Arkwright', u'The Father of the Industrial Revolution']	0	EMPTY
+where did richard arkwright grow up?	12	richard arkwright --> person children --> [u'Richard Arkwright junior']	1	He was the oldest son of [[Richard Arkwright junior|Richard Arkwright]] (died 1843) of [[Willersley Castle]], Derbyshire, and grandson of the entrepreneur [[Richard Arkwright|Sir Richard Arkwright]] (1732–1792), whose invention of the [[spinning frame]] and other industrial innovations made him very wealthy.
+where did richard arkwright grow up?	12	richard arkwright --> object name --> [u'Richard Arkwright']	0	EMPTY
+where did richard arkwright grow up?	12	richard arkwright --> inventor inventions --> [u'Spinning frame']	1	* [[Richard Arkwright]], a pioneer in the [[Spinning frame|spinning industry]], which revolutionized the knitwear industry.
+where did richard arkwright grow up?	12	richard arkwright --> person nationality --> [u'England']	1	In the 1770s, [[cotton mills]] started to appear in [[Lancashire]], [[England]], using [[Richard Arkwright]]'s [[spinning jenny]] and powered by [[water wheel]]s. Workers would often work in twelve-hour shifts, six days a week.
+where did richard arkwright grow up?	12	richard arkwright --> topic image --> [u'Richard Arkwright', u'Arkwright Richard 1790']	0	EMPTY
+where did richard arkwright grow up?	12	richard arkwright --> person gender --> [u'Male']	0	EMPTY
+where did richard arkwright grow up?	12	richard arkwright --> deceased person date of death --> [u'1792-08-03']	0	EMPTY
+where did richard arkwright grow up?	12	richard arkwright --> marriage spouse --> [u'Patience Holt', u'Margaret Biggins']	0	EMPTY

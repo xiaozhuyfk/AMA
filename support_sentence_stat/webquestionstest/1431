@@ -1,33 +1,33 @@
-where did the russian japanese war happen?	210	russo-japanese war --> event event type --> [u'Military Conflict']	0
-where did the russian japanese war happen?	210	russo-japanese war --> event locations --> [u'Manchuria', u'Korean Peninsula', u'Yellow Sea']	47
-where did the russian japanese war happen?	210	russo-japanese war --> event entity involved --> [u'Empire of Japan', u'Nicholas II of Russia', u'Zinovy Rozhestvensky', u'T\u014dg\u014d Heihachir\u014d', u'Russian Empire']	38
-where did the russian japanese war happen?	210	russo-japanese war --> nobel honor nobel prize winner --> [u'Theodore Roosevelt']	13
-where did the russian japanese war happen?	210	russo-japanese war --> military conflict military personnel involved --> [u'Isoroku Yamamoto', u'Leonid Gobyato', u'Ali-Agha Shikhlinski', u'Anatoly Stessel', u'Alexander Fok']	1
-where did the russian japanese war happen?	210	russo-japanese war --> object name --> [u'Russo-Japanese War']	0
-where did the russian japanese war happen?	210	russo-japanese war --> topic image --> [u'Russo-Japanese War', u'RUSSOJAPANESEWARIMAGE']	0
-where did the russian japanese war happen?	210	russo-japanese war --> military combatant group combatants --> [u'Empire of Japan', u'Russian Empire']	34
-where did the russian japanese war happen?	210	russo-japanese war --> film subject films --> [u'203 kochi', u'The Battle of Tsushima']	0
-where did the russian japanese war happen?	210	russo-japanese war --> event end date --> [u'1905-09-05']	0
-where did the russian japanese war happen?	210	russo-japanese war --> event includes event --> [u'Battle of Yalu River', u'Battle of Port Arthur', u'Battle of Mukden', u'Battle of Nanshan', u'Battle of the Yellow Sea']	77
-where did the russian japanese war happen?	210	russo-japanese war --> event start date --> [u'1904-02-08']	0
-where did the russian japanese war happen?	210	russian --> fictional character appears in these fictional universes --> [u'Marvel Universe']	0
-where did the russian japanese war happen?	210	russian --> object name --> [u'Russian']	0
-where did the russian japanese war happen?	210	russian --> fictional character character created by --> [u'Garth Ennis', u'Steve Dillon']	0
-where did the russian japanese war happen?	210	russian --> fictional character gender --> [u'Male']	0
-where did the russian japanese war happen?	210	war --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where did the russian japanese war happen?	210	war --> webpage resource --> [u"Quote of the Day: 'Star Wars' social justice edition", u'What 2010 Will Be Like: The Year of More of the Same (Essay)', u'Blind Item: War Declared Backstage at Cult Fave', u'Blind item: Hot couple make love AND war', u"Trailer Blazer: 'Tropic Thunder' mockumentary 'Rain of Madness'"]	0
-where did the russian japanese war happen?	210	war --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjfq5wpEbGdrcN5Y29ycA']	0
-where did the russian japanese war happen?	210	war --> radio subject programs with this subject --> [u'Cross-Rhoads', u'The Man Behind the Gun']	0
-where did the russian japanese war happen?	210	war --> art subject art series on the subject --> [u'The Split of Life']	0
-where did the russian japanese war happen?	210	war --> risk factor diseases --> [u'Major depression']	0
-where did the russian japanese war happen?	210	war --> art subject artwork on the subject --> [u'Guernica', u'The Pestilence', u'The Face of War']	0
-where did the russian japanese war happen?	210	war --> book subject musical compositions about this topic --> [u'Josephine']	0
-where did the russian japanese war happen?	210	war --> object name --> [u'War']	0
-where did the russian japanese war happen?	210	war --> topic image --> [u'Ramses II at Kadesh', u'Mural of War, 1896.', u'Schlacht am Wei\xc3\x9fen Berg C-K 063']	0
-where did the russian japanese war happen?	210	war --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-where did the russian japanese war happen?	210	war --> film subject films --> [u'Gladiator', u'Band of Brothers', u'A Bridge Too Far', u'Coming Out Under Fire', u'Apocalypse Now']	0
-where did the russian japanese war happen?	210	war --> vocabulary equivalent topic equivalent concept --> [u'War']	0
-where did the russian japanese war happen?	210	war --> cvg genre games --> [u'Field Commander', u'Pacific General', u'Steel Panthers III: Brigade Command', u'Steel Panthers II: Modern Battles', u'Steel Panthers: World at War']	0
-where did the russian japanese war happen?	210	war --> quotation subject quotations about this subject --> [u'\u200e""Old enough to kill means old enough to die,""', u'I see that old flagpole still stands. Have your troops hoist the colors to its peak, and let no enemy ever haul them down.', u'In the arts of life man invents nothing; but in the arts of death he outdoes Nature herself, and produces by chemistry and machinery all the slaughter of plague, pestilence, and famine.', u'\u201cThe enemy, clearly, was the fanged nightmare\u2013\u2013 of famine, of war and racism, of rape and terrorism\u2026 that walked in human skin while chomping human heads.\u201d', u'To call war the soil of courage and virtue is like calling debauchery the soil of love.']	0
-where did the russian japanese war happen?	210	war --> equivalent topic equivalent type --> [u'Military Conflict']	0
-where did the russian japanese war happen?	210	war --> book subject works --> [u'How Poets and Words Burn Truth into Love', u"The Soldiers' Tale: Bearing Witness to Modern War", u'The Next War', u'The Nature of This Paradigm Dancing', u'Wars don\u2019t bring lasting peace, only lasting death.']	0
+where did the russian japanese war happen?	210	russo-japanese war --> event event type --> [u'Military Conflict']	0	EMPTY
+where did the russian japanese war happen?	210	russo-japanese war --> event locations --> [u'Manchuria', u'Korean Peninsula', u'Yellow Sea']	47	In March 1904, soon after the start of the [[Russo-Japanese War]], Ueda was appointed commander of the [[5th Division (Imperial Japanese Army)|IJA 5th Infantry Division]]  and deployed to [[Manchuria]], where he led the division at the [[Battle of Liaoyang]] and the [[Battle of Shaho]].
+where did the russian japanese war happen?	210	russo-japanese war --> event entity involved --> [u'Empire of Japan', u'Nicholas II of Russia', u'Zinovy Rozhestvensky', u'T\u014dg\u014d Heihachir\u014d', u'Russian Empire']	38	This coincided with similar development in [[Russian Empire|Russia]] which too saw a general strike and, after the [[Russo-Japanese War]], the birth of a new institution, the [[Duma]].
+where did the russian japanese war happen?	210	russo-japanese war --> nobel honor nobel prize winner --> [u'Theodore Roosevelt']	13	*[[1906]] &ndash; U.S. President [[Theodore Roosevelt]] wins the [[Nobel Peace Prize]] for his role in the mediation of the [[Russo-Japanese War]], becoming the first American to win a Nobel Prize.
+where did the russian japanese war happen?	210	russo-japanese war --> military conflict military personnel involved --> [u'Isoroku Yamamoto', u'Leonid Gobyato', u'Ali-Agha Shikhlinski', u'Anatoly Stessel', u'Alexander Fok']	1	During the [[Russo-Japanese War]], [[Lieutenant-General]] [[Leonid Gobyato]] of the [[Imperial Russian Army]] applied the principles of [[indirect fire]] from closed firing positions in the field and, with the collaboration of General [[Roman Kondratenko]], he designed the first mortar that fired navy shells.
+where did the russian japanese war happen?	210	russo-japanese war --> object name --> [u'Russo-Japanese War']	0	EMPTY
+where did the russian japanese war happen?	210	russo-japanese war --> topic image --> [u'Russo-Japanese War', u'RUSSOJAPANESEWARIMAGE']	0	EMPTY
+where did the russian japanese war happen?	210	russo-japanese war --> military combatant group combatants --> [u'Empire of Japan', u'Russian Empire']	34	This coincided with similar development in [[Russian Empire|Russia]] which too saw a general strike and, after the [[Russo-Japanese War]], the birth of a new institution, the [[Duma]].
+where did the russian japanese war happen?	210	russo-japanese war --> film subject films --> [u'203 kochi', u'The Battle of Tsushima']	0	EMPTY
+where did the russian japanese war happen?	210	russo-japanese war --> event end date --> [u'1905-09-05']	0	EMPTY
+where did the russian japanese war happen?	210	russo-japanese war --> event includes event --> [u'Battle of Yalu River', u'Battle of Port Arthur', u'Battle of Mukden', u'Battle of Nanshan', u'Battle of the Yellow Sea']	77	In the [[Russo-Japanese War]] of 1904-1905, Kawamura succeeded [[Prince Fushimi Sadanaru]] as commander of the [[IJA 10th Division|Japanese 10th Division]], and served notably as field commander at the [[Battle of Yalu River (1904)]].
+where did the russian japanese war happen?	210	russo-japanese war --> event start date --> [u'1904-02-08']	0	EMPTY
+where did the russian japanese war happen?	210	russian --> fictional character appears in these fictional universes --> [u'Marvel Universe']	0	EMPTY
+where did the russian japanese war happen?	210	russian --> object name --> [u'Russian']	0	EMPTY
+where did the russian japanese war happen?	210	russian --> fictional character character created by --> [u'Garth Ennis', u'Steve Dillon']	0	EMPTY
+where did the russian japanese war happen?	210	russian --> fictional character gender --> [u'Male']	0	EMPTY
+where did the russian japanese war happen?	210	war --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where did the russian japanese war happen?	210	war --> webpage resource --> [u"Quote of the Day: 'Star Wars' social justice edition", u'What 2010 Will Be Like: The Year of More of the Same (Essay)', u'Blind Item: War Declared Backstage at Cult Fave', u'Blind item: Hot couple make love AND war', u"Trailer Blazer: 'Tropic Thunder' mockumentary 'Rain of Madness'"]	0	EMPTY
+where did the russian japanese war happen?	210	war --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjfq5wpEbGdrcN5Y29ycA']	0	EMPTY
+where did the russian japanese war happen?	210	war --> radio subject programs with this subject --> [u'Cross-Rhoads', u'The Man Behind the Gun']	0	EMPTY
+where did the russian japanese war happen?	210	war --> art subject art series on the subject --> [u'The Split of Life']	0	EMPTY
+where did the russian japanese war happen?	210	war --> risk factor diseases --> [u'Major depression']	0	EMPTY
+where did the russian japanese war happen?	210	war --> art subject artwork on the subject --> [u'Guernica', u'The Pestilence', u'The Face of War']	0	EMPTY
+where did the russian japanese war happen?	210	war --> book subject musical compositions about this topic --> [u'Josephine']	0	EMPTY
+where did the russian japanese war happen?	210	war --> object name --> [u'War']	0	EMPTY
+where did the russian japanese war happen?	210	war --> topic image --> [u'Ramses II at Kadesh', u'Mural of War, 1896.', u'Schlacht am Wei\xc3\x9fen Berg C-K 063']	0	EMPTY
+where did the russian japanese war happen?	210	war --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+where did the russian japanese war happen?	210	war --> film subject films --> [u'Gladiator', u'Band of Brothers', u'A Bridge Too Far', u'Coming Out Under Fire', u'Apocalypse Now']	0	EMPTY
+where did the russian japanese war happen?	210	war --> vocabulary equivalent topic equivalent concept --> [u'War']	0	EMPTY
+where did the russian japanese war happen?	210	war --> cvg genre games --> [u'Field Commander', u'Pacific General', u'Steel Panthers III: Brigade Command', u'Steel Panthers II: Modern Battles', u'Steel Panthers: World at War']	0	EMPTY
+where did the russian japanese war happen?	210	war --> quotation subject quotations about this subject --> [u'\u200e""Old enough to kill means old enough to die,""', u'I see that old flagpole still stands. Have your troops hoist the colors to its peak, and let no enemy ever haul them down.', u'In the arts of life man invents nothing; but in the arts of death he outdoes Nature herself, and produces by chemistry and machinery all the slaughter of plague, pestilence, and famine.', u'\u201cThe enemy, clearly, was the fanged nightmare\u2013\u2013 of famine, of war and racism, of rape and terrorism\u2026 that walked in human skin while chomping human heads.\u201d', u'To call war the soil of courage and virtue is like calling debauchery the soil of love.']	0	EMPTY
+where did the russian japanese war happen?	210	war --> equivalent topic equivalent type --> [u'Military Conflict']	0	EMPTY
+where did the russian japanese war happen?	210	war --> book subject works --> [u'How Poets and Words Burn Truth into Love', u"The Soldiers' Tale: Bearing Witness to Modern War", u'The Next War', u'The Nature of This Paradigm Dancing', u'Wars don\u2019t bring lasting peace, only lasting death.']	0	EMPTY

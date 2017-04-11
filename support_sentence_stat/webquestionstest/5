@@ -1,25 +1,25 @@
-who is rick scott?	17	rick scott --> person date of birth --> [u'1952-12-01']	0
-who is rick scott?	17	rick scott --> person profession --> [u'Businessperson', u'Lawyer', u'Politician', u'Investor']	0
-who is rick scott?	17	rick scott --> government position held basic title --> [u'Governor']	1
-who is rick scott?	17	rick scott --> person gender --> [u'Male']	0
-who is rick scott?	17	rick scott --> government position held office holder --> [u'Ken Detzner', u'Kurt S. Browning']	0
-who is rick scott?	17	rick scott --> person nationality --> [u'United States of America']	1
-who is rick scott?	17	rick scott --> organization founder organizations founded --> [u"Conservatives for Patients' Rights"]	0
-who is rick scott?	17	rick scott --> government position held from --> [u'2011', u'2012-02-17']	0
-who is rick scott?	17	rick scott --> government position held jurisdiction of office --> [u'Florida']	4
-who is rick scott?	17	rick scott --> government position held jurisdiction of office --> [u'Florida']	4
-who is rick scott?	17	rick scott --> government position held office position or title --> [u'Governor of Florida']	0
-who is rick scott?	17	rick scott --> political party tenure party --> [u'Republican Party']	6
-who is rick scott?	17	rick scott --> person religion --> [u'Methodism', u'Christianity', u'Evangelicalism']	0
-who is rick scott?	17	rick scott --> topic official website --> [u'http://www.rickscottforflorida.com/']	0
-who is rick scott?	17	rick scott --> government position held from --> [u'2011-01-04']	0
-who is rick scott?	17	rick scott --> government position held office position or title --> [u'Secretary of State of Florida']	0
-who is rick scott?	17	rick scott --> person place of birth --> [u'Bloomington']	0
-who is rick scott?	17	rick scott --> education institution --> [u'University of Missouri\u2013Columbia', u'Southern Methodist University', u'University of Missouri\u2013Kansas City']	0
-who is rick scott?	17	rick scott --> politician election campaigns --> [u'Rick Scott for Governor, 2010']	0
-who is rick scott?	17	rick scott --> webpage uri --> [u'http://www.rickscottforflorida.com/']	0
-who is rick scott?	17	rick scott --> government position held to --> [u'2012-02-17']	0
-who is rick scott?	17	rick scott --> place lived location --> [u'Naples', u"Florida Governor's Mansion"]	1
-who is rick scott?	17	rick scott --> object name --> [u'Rick Scott']	0
-who is rick scott?	17	rick scott --> topic image --> [u'Rickscotthead', u'Rick Scott official portrait']	0
-who is rick scott?	17	rick scott --> government position held basic title --> [u'Secretary of state']	0
+who is rick scott?	17	rick scott --> person date of birth --> [u'1952-12-01']	0	EMPTY
+who is rick scott?	17	rick scott --> person profession --> [u'Businessperson', u'Lawyer', u'Politician', u'Investor']	0	EMPTY
+who is rick scott?	17	rick scott --> government position held basic title --> [u'Governor']	1	In 2013, Doug Marcille was also named as the Florida State Business Ambassador by [[Florida]] [[Governor]] [[Rick Scott]]
+who is rick scott?	17	rick scott --> person gender --> [u'Male']	0	EMPTY
+who is rick scott?	17	rick scott --> government position held office holder --> [u'Ken Detzner', u'Kurt S. Browning']	0	EMPTY
+who is rick scott?	17	rick scott --> person nationality --> [u'United States of America']	1	A former resident of [[Pensacola, Florida]], [[United States]], he is now serving a [[sentence (law)|sentence]] of 25 years at the Graceville Correctional Facility after his [[life without the possibility of parole]] sentence was commuted by Governor [[Rick Scott]].
+who is rick scott?	17	rick scott --> organization founder organizations founded --> [u"Conservatives for Patients' Rights"]	0	EMPTY
+who is rick scott?	17	rick scott --> government position held from --> [u'2011', u'2012-02-17']	0	EMPTY
+who is rick scott?	17	rick scott --> government position held jurisdiction of office --> [u'Florida']	4	In [[Florida]], [[Rick Scott]] won the seat vacated by [[Charlie Crist]], who was elected as a Republican but switched to an independent during his unsuccessful [[United States Senate election in Florida, 2010|U.S.
+who is rick scott?	17	rick scott --> government position held jurisdiction of office --> [u'Florida']	4	In [[Florida]], [[Rick Scott]] won the seat vacated by [[Charlie Crist]], who was elected as a Republican but switched to an independent during his unsuccessful [[United States Senate election in Florida, 2010|U.S.
+who is rick scott?	17	rick scott --> government position held office position or title --> [u'Governor of Florida']	0	EMPTY
+who is rick scott?	17	rick scott --> political party tenure party --> [u'Republican Party']	6	The protests occurred when [[public employee]] [[trade union|unions]] mounted protests against legislation proposed by [[Republican Party (United States)|Republican]] governors such as [[Scott Walker (politician)|Scott Walker]] (Wisconsin), [[Rick Scott]] (Florida), [[Mitch Daniels]] (Indiana), [[Sean Parnell]] (Alaska), [[Rick Snyder]] (Michigan), [[John Kasich]] (Ohio), [[Paul LePage]] (Maine) and [[Jan Brewer]] (Arizona) which, among other things, would strip public employees of some [[collective bargaining]] rights as well as require higher employee contributions to pension and health care plans.
+who is rick scott?	17	rick scott --> person religion --> [u'Methodism', u'Christianity', u'Evangelicalism']	0	EMPTY
+who is rick scott?	17	rick scott --> topic official website --> [u'http://www.rickscottforflorida.com/']	0	EMPTY
+who is rick scott?	17	rick scott --> government position held from --> [u'2011-01-04']	0	EMPTY
+who is rick scott?	17	rick scott --> government position held office position or title --> [u'Secretary of State of Florida']	0	EMPTY
+who is rick scott?	17	rick scott --> person place of birth --> [u'Bloomington']	0	EMPTY
+who is rick scott?	17	rick scott --> education institution --> [u'University of Missouri\u2013Columbia', u'Southern Methodist University', u'University of Missouri\u2013Kansas City']	0	EMPTY
+who is rick scott?	17	rick scott --> politician election campaigns --> [u'Rick Scott for Governor, 2010']	0	EMPTY
+who is rick scott?	17	rick scott --> webpage uri --> [u'http://www.rickscottforflorida.com/']	0	EMPTY
+who is rick scott?	17	rick scott --> government position held to --> [u'2012-02-17']	0	EMPTY
+who is rick scott?	17	rick scott --> place lived location --> [u'Naples', u"Florida Governor's Mansion"]	1	Rooney received an unprecedented endorsement from [[Rick Scott]], who is his neighbor in the [[Naples, Florida]] Port Royal community.
+who is rick scott?	17	rick scott --> object name --> [u'Rick Scott']	0	EMPTY
+who is rick scott?	17	rick scott --> topic image --> [u'Rickscotthead', u'Rick Scott official portrait']	0	EMPTY
+who is rick scott?	17	rick scott --> government position held basic title --> [u'Secretary of state']	0	EMPTY

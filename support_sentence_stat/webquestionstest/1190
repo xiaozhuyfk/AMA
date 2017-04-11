@@ -1,100 +1,100 @@
-where does name pennsylvania come from?	33220	comefrom --> object name --> [u'COMEFROM']	0
-where does name pennsylvania come from?	33220	pennsylvania --> namesake named after --> [u'William Penn']	2
-where does name pennsylvania come from?	33220	pennsylvania --> government position held office position or title --> [u'United States Representative', u'Governor of Pennsylvania', u'Lieutenant Governor of Pennsylvania', u'Pennsylvania Attorney General', u'Secretary of the Commonwealth of Pennsylvania']	20
-where does name pennsylvania come from?	33220	pennsylvania --> bibs location loc type --> [u'State']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held office position or title --> [u'United States Representative', u'United States Senator', u'Delegate to the Continental Congress', u'United States Attorney']	2
-where does name pennsylvania come from?	33220	pennsylvania --> location partially contains --> [u'Ohio River', u'Sideling Hill', u'Wills Mountain', u'Evitts Mountain', u'Savage Mountain']	65
-where does name pennsylvania come from?	33220	pennsylvania --> taxonomy entry prefix --> [u'F']	0
-where does name pennsylvania come from?	33220	pennsylvania --> location people born here --> [u'Tom DeMarco', u'Ethan Long', u'Lynn Gottlieb', u'Franklin Menges', u'Ashley Totin']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held district represented --> [u"Pennsylvania's 18th congressional district"]	0
-where does name pennsylvania come from?	33220	pennsylvania --> location containedby --> [u'United States of America', u'Contiguous United States']	3965
-where does name pennsylvania come from?	33220	pennsylvania --> location symbol relationship symbol --> [u'Ruffed Grouse', u'Milk', u'Tsuga canadensis', u'Kalmia latifolia', u'Brook trout']	0
-where does name pennsylvania come from?	33220	pennsylvania --> webpage in index --> [u'Entertainment Weekly annotation index', u'Blissful Celebrities', u'Blissful Master Index']	0
-where does name pennsylvania come from?	33220	pennsylvania --> dated percentage source --> [u'Bureau of Labor Statistics, Unemployment in US States']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held jurisdiction of office --> [u'United States of America', u"United States Attorney's Office for the Eastern District of Pennsylvania"]	3965
-where does name pennsylvania come from?	33220	pennsylvania --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjL15wpEbGdrcN5Y29ycA']	0
-where does name pennsylvania come from?	33220	pennsylvania --> bibs location is clear --> [u'0']	0
-where does name pennsylvania come from?	33220	pennsylvania --> dated percentage date --> [u'1990-01', u'1990-02', u'1990-03', u'1990-04', u'1990-05']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held office holder --> [u'Henry M. Hoyt', u'William A. Stone', u'Edward Martin', u'William Cameron Sproul', u'William Bigler']	8
-where does name pennsylvania come from?	33220	pennsylvania --> organization scope organizations with this scope --> [u'Awesome LLC', u"B'nai B'rith District Grand Lodge 3"]	0
-where does name pennsylvania come from?	33220	pennsylvania --> adjoining relationship adjoins --> [u'New York City', u'New York', u'West Virginia', u'Delaware', u'Maryland']	1160
-where does name pennsylvania come from?	33220	pennsylvania --> geocode longitude --> [u'-77.182732']	0
-where does name pennsylvania come from?	33220	pennsylvania --> dated money value currency --> [u'United States dollar']	2
-where does name pennsylvania come from?	33220	pennsylvania --> government position held basic title --> [u'Member of Congress', u'Senator']	0
-where does name pennsylvania come from?	33220	pennsylvania --> administrative division capital relationship capital --> [u'Harrisburg']	105
-where does name pennsylvania come from?	33220	pennsylvania --> context name nickname --> [u'State of Independence', u'Coal State', u'Keystone State', u'Oil State', u'Quaker State']	0
-where does name pennsylvania come from?	33220	pennsylvania --> focal location defined land cover classes --> [u'Appalachian (Hemlock)-Northern Hardwood Forest']	0
-where does name pennsylvania come from?	33220	pennsylvania --> location symbol relationship kind of symbol --> [u'State bird', u'State tree', u'State flower', u'State Fish', u'State beverage']	0
-where does name pennsylvania come from?	33220	pennsylvania --> topic official website --> [u'http://www.pa.gov/']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held from --> [u'1995-01-03', u'2007-01-03', u'2011-01-03', u'1951-01-03', u'1897-03-04']	0
-where does name pennsylvania come from?	33220	pennsylvania --> cyclone affected area cyclones --> [u'Hurricane Agnes', u'Hurricane Katrina', u'1915 New Orleans hurricane', u'Hurricane Isabel', u'1903 New Jersey hurricane']	5
-where does name pennsylvania come from?	33220	pennsylvania --> dated integer source --> [u'United States Census Bureau, Population']	0
-where does name pennsylvania come from?	33220	pennsylvania --> newspaper circulation area newspapers --> [u'Press and Journal', u'Cleveland Scene', u'Freie Arbeiter Stimme', u'Pennsylvania Gazette']	0
-where does name pennsylvania come from?	33220	pennsylvania --> bibs location country --> [u'United States of America']	3965
-where does name pennsylvania come from?	33220	pennsylvania --> government position held legislative sessions --> [u'112th United States Congress', u'113th United States Congress', u'108th United States Congress', u'110th United States Congress', u'111th United States Congress']	0
-where does name pennsylvania come from?	33220	pennsylvania --> administrative area administrative parent --> [u'United States of America']	3965
-where does name pennsylvania come from?	33220	pennsylvania --> webpage uri --> [u'http://www.pa.gov']	0
-where does name pennsylvania come from?	33220	pennsylvania --> flag use flag --> [u'Flag of Pennsylvania']	0
-where does name pennsylvania come from?	33220	pennsylvania --> administrative area capital --> [u'Harrisburg']	105
-where does name pennsylvania come from?	33220	pennsylvania --> employment tenure from --> [u'2003']	0
-where does name pennsylvania come from?	33220	pennsylvania --> book subject works --> [u'Precedents in the office of a justice of peace', u"Prospectus of Delaplaine's National Panzographia for the reception of the portraits of distinguished Americans", u"Strictures on Baldwin's letters", u'Efficacy and action', u'Finders Keepers: The Story of a Man Who Found $1 Million']	0
-where does name pennsylvania come from?	33220	pennsylvania --> spirit producing region distilleries --> [u"Bomberger's Distillery"]	0
-where does name pennsylvania come from?	33220	pennsylvania --> location nearby airports --> [u'University Park Airport']	1
-where does name pennsylvania come from?	33220	pennsylvania --> employment tenure title --> [u'Director, Office of Health Care Reform']	0
-where does name pennsylvania come from?	33220	pennsylvania --> states and provences country --> [u'United States of America']	3965
-where does name pennsylvania come from?	33220	pennsylvania --> location events --> [u'Braddock Expedition', u'United States Senate elections, 2006', u'Battle of Gettysburg', u'Battle of Brandywine', u"George Washington's crossing of the Delaware River"]	24
-where does name pennsylvania come from?	33220	pennsylvania --> religion percentage percentage --> [u'1', u'2', u'4', u'5', u'6']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held legislative sessions --> [u'1st United States Congress', u'112th United States Congress', u'113th United States Congress', u'108th United States Congress', u'107th United States Congress']	0
-where does name pennsylvania come from?	33220	pennsylvania --> context name abbreviation --> [u'PA']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government agency --> [u'Pennsylvania Department of Education']	3
-where does name pennsylvania come from?	33220	pennsylvania --> government position held to --> [u'2003-01-21', u'1995-01-17', u'2001-10-05', u'1951-01-16', u'2011-01-18']	0
-where does name pennsylvania come from?	33220	pennsylvania --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held basic title --> [u'Governor', u'Member of Congress', u'Attorney general', u'Secretary of state', u'Lieutenant Governor']	1
-where does name pennsylvania come from?	33220	pennsylvania --> source feature taxa category of rate density --> [u'Presence']	0
-where does name pennsylvania come from?	33220	pennsylvania --> us state capital --> [u'Harrisburg']	105
-where does name pennsylvania come from?	33220	pennsylvania --> dated percentage rate --> [u'4', u'4.1', u'4.2', u'4.3', u'4.4']	0
-where does name pennsylvania come from?	33220	pennsylvania --> governmental jurisdiction government bodies --> [u'Pennsylvania General Assembly', u'Pennsylvania State Senate', u'Pennsylvania House of Representatives']	30
-where does name pennsylvania come from?	33220	pennsylvania --> source feature taxa source title --> [u'Detection probability of Golden-winged Warblers during point counts with and without playback recordings']	0
-where does name pennsylvania come from?	33220	pennsylvania --> dated integer year --> [u'1790', u'1910', u'1920', u'1930', u'1940']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held governmental body --> [u'United States House of Representatives', u'United States Senate', u'Continental Congress']	197
-where does name pennsylvania come from?	33220	pennsylvania --> name source namesakes --> [u'USS Pennsylvania (BB-38)', u'USS Pennsylvania (ACR-4)', u'USS Pennsylvania', u'USS Pennsylvania (SSBN-735)']	0
-where does name pennsylvania come from?	33220	pennsylvania --> dated money value valid date --> [u'2007']	0
-where does name pennsylvania come from?	33220	pennsylvania --> location symbol relationship date adopted --> [u'1931', u'1982', u'1933-05-05']	0
-where does name pennsylvania come from?	33220	pennsylvania --> military unit place of origin military units --> [u'150th Pennsylvania Infantry', u'140th Pennsylvania Infantry', u'4th Pennsylvania Reserve Regiment', u'54th Pennsylvania Infantry', u'74th Pennsylvania Infantry']	0
-where does name pennsylvania come from?	33220	pennsylvania --> dated location date founded --> [u'1787-12-12']	0
-where does name pennsylvania come from?	33220	pennsylvania --> religion percentage religion --> [u'Baptists', u'Judaism', u'Presbyterianism', u'Catholicism', u'Methodism']	9
-where does name pennsylvania come from?	33220	pennsylvania --> administrative division country --> [u'United States of America']	3965
-where does name pennsylvania come from?	33220	pennsylvania --> political district elections --> [u'United States Senate election in Pennsylvania, 2010']	0
-where does name pennsylvania come from?	33220	pennsylvania --> location contains --> [u'Thornbury', u'Taylor House', u'Whitfield', u'Penn Forest Township', u'East Bradford Township']	2
-where does name pennsylvania come from?	33220	pennsylvania --> topic alias --> [u'PA', u'Penn', u'Keystone State', u'PN']	0
-where does name pennsylvania come from?	33220	pennsylvania --> flag use from date --> [u'1900-04-29']	0
-where does name pennsylvania come from?	33220	pennsylvania --> taxonomy entry high --> [u'160']	0
-where does name pennsylvania come from?	33220	pennsylvania --> location area --> [u'119283']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held office holder --> [u'Edward Martin', u'Daniel Sturgeon', u'William Bigler', u'Rick Santorum', u'George Ross']	37
-where does name pennsylvania come from?	33220	pennsylvania --> recurring money value frequency --> [u'Hour']	0
-where does name pennsylvania come from?	33220	pennsylvania --> recurring money value amount --> [u'7.25']	0
-where does name pennsylvania come from?	33220	pennsylvania --> governmental jurisdiction agencies --> [u'Pennsylvania Historical and Museum Commission', u'Pennsylvania Gaming Control Board', u'Pennsylvania Department of Conservation and Natural Resources', u'Pennsylvania Department of Military and Veterans Affairs', u'Pennsylvania Department of Environmental Protection']	2
-where does name pennsylvania come from?	33220	pennsylvania --> topic image --> [u'National-atlas-pennsylvania', u'anno 1864', u'Pennsylvania.png']	0
-where does name pennsylvania come from?	33220	pennsylvania --> location time zones --> [u'Eastern Time Zone', u'UTC-5']	19
-where does name pennsylvania come from?	33220	pennsylvania --> recurring money value currency --> [u'United States dollar']	2
-where does name pennsylvania come from?	33220	pennsylvania --> film location featured in films --> [u'Diamond Men', u'The Mothman Prophecies', u'The Lovely Bones', u'Home', u'Girl, Interrupted']	0
-where does name pennsylvania come from?	33220	pennsylvania --> source feature taxa species --> [u'Golden-winged Warbler']	0
-where does name pennsylvania come from?	33220	pennsylvania --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where does name pennsylvania come from?	33220	pennsylvania --> webpage resource --> [u"'American Idol' contestant Alexis Cohen laid to rest", u"New 'Jon and Kate Plus 8': 'I'm totally paparazzi-free!'", u"New 'Jon & Kate Plus 8': Kate says 'I'm trying not to feel sorry for us and myself' and Jon calls Kate 'annoying'", u'Asher Roth: Are you ready for a suburban rap star?', u'Asher Roth: Are you ready for a suburban rap star?']	0
-where does name pennsylvania come from?	33220	pennsylvania --> source feature taxa generic habitat --> [u'Right-of-way']	1
-where does name pennsylvania come from?	33220	pennsylvania --> government position held governmental body --> [u'United States House of Representatives', u'Government of Pennsylvania']	115
-where does name pennsylvania come from?	33220	pennsylvania --> dated integer number --> [u'434373', u'602365', u'810091', u'1049458', u'1348233']	0
-where does name pennsylvania come from?	33220	pennsylvania --> recurring money value date --> [u'2012-01-01']	0
-where does name pennsylvania come from?	33220	pennsylvania --> administrative division first level division of --> [u'United States of America']	3965
-where does name pennsylvania come from?	33220	pennsylvania --> geocode latitude --> [u'41.205264']	0
-where does name pennsylvania come from?	33220	pennsylvania --> fictional setting contains --> [u'Brewer', u'Olinger', u'Llanview', u'Corinth, Pennsylvania', u'Pine Valley']	1
-where does name pennsylvania come from?	33220	pennsylvania --> employment tenure person --> [u'Rosemarie B. Greco']	0
-where does name pennsylvania come from?	33220	pennsylvania --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-where does name pennsylvania come from?	33220	pennsylvania --> taxonomy entry low --> [u'146']	0
-where does name pennsylvania come from?	33220	pennsylvania --> administrative area administrative children --> [u'Pittsburgh', u'Philadelphia', u'Latrobe', u'Easton', u'York']	3423
-where does name pennsylvania come from?	33220	pennsylvania --> government position held from --> [u'2003-01-21', u'1995-01-17', u'2003-01-03', u'2001-10-05', u'1951-01-16']	0
-where does name pennsylvania come from?	33220	pennsylvania --> object name --> [u'Pennsylvania']	0
-where does name pennsylvania come from?	33220	pennsylvania --> government position held to --> [u'1995-01-03', u'2007-01-03', u'2011-01-03', u'1951-01-03', u'1803']	0
-where does name pennsylvania come from?	33220	pennsylvania --> religion percentage date --> [u'2002']	0
-where does name pennsylvania come from?	33220	pennsylvania --> dated money value amount --> [u'531110000000']	0
-where does name pennsylvania come from?	33220	pennsylvania --> governmental jurisdiction government positions --> [u'Governor of Pennsylvania', u'Lieutenant Governor of Pennsylvania', u'Pennsylvania Auditor General', u'Secretary of the Commonwealth of Pennsylvania']	19
+where does name pennsylvania come from?	33220	comefrom --> object name --> [u'COMEFROM']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> namesake named after --> [u'William Penn']	2	It only narrowly survived the [[Great Fire of London]] in 1666 and owes its survival to [[William Penn (Royal Navy officer)|Admiral William Penn]], father of [[William Penn]] of [[Pennsylvania]] fame, who had his men from a nearby naval yard demolish the surrounding buildings to create firebreaks.
+where does name pennsylvania come from?	33220	pennsylvania --> government position held office position or title --> [u'United States Representative', u'Governor of Pennsylvania', u'Lieutenant Governor of Pennsylvania', u'Pennsylvania Attorney General', u'Secretary of the Commonwealth of Pennsylvania']	20	'''Raymond Joseph "Ray" Broderick''' (May 29, 1914 – August 6, 2000) was a [[United States federal judge]], and the 24th [[Lieutenant Governor of Pennsylvania|Lieutenant Governor]] of [[Pennsylvania]] from 1967 to 1971.
+where does name pennsylvania come from?	33220	pennsylvania --> bibs location loc type --> [u'State']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held office position or title --> [u'United States Representative', u'United States Senator', u'Delegate to the Continental Congress', u'United States Attorney']	2	Among the nominees were [[John Jay]] for [[Chief Justice of the United States]]; [[John Rutledge]], [[William Cushing]], [[Robert H. Harrison]], [[James Wilson]], and [[John Blair Jr.]] as [[Associate Justice of the Supreme Court of the United States|Associate Justices]]; [[Edmund Randolph]] for [[United States Attorney General|Attorney General]]; and myriad  [[United States district court|district judges]], [[United States Attorney]]s, and [[United States Marshals Service|United States Marshals]] for [[Connecticut]], [[Delaware]], [[Georgia (U.S. state)|Georgia]], [[Kentucky]], [[Maryland]], [[Maine]], [[Massachusetts]], [[New Hampshire]], [[New Jersey]], [[New York (state)|New York]], [[Pennsylvania]], [[South Carolina]], and [[Virginia]].
+where does name pennsylvania come from?	33220	pennsylvania --> location partially contains --> [u'Ohio River', u'Sideling Hill', u'Wills Mountain', u'Evitts Mountain', u'Savage Mountain']	65	'''Peters Creek''' is a  [[tributary]] of the [[Monongahela River]] and part of the [[Ohio River]] and [[Mississippi River]] watersheds, flowing through southwestern [[Pennsylvania]] in the [[United States]].
+where does name pennsylvania come from?	33220	pennsylvania --> taxonomy entry prefix --> [u'F']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> location people born here --> [u'Tom DeMarco', u'Ethan Long', u'Lynn Gottlieb', u'Franklin Menges', u'Ashley Totin']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held district represented --> [u"Pennsylvania's 18th congressional district"]	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> location containedby --> [u'United States of America', u'Contiguous United States']	3965	| [[Philadelphia]] || [[Pennsylvania]] || [[United States]]
+where does name pennsylvania come from?	33220	pennsylvania --> location symbol relationship symbol --> [u'Ruffed Grouse', u'Milk', u'Tsuga canadensis', u'Kalmia latifolia', u'Brook trout']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> webpage in index --> [u'Entertainment Weekly annotation index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> dated percentage source --> [u'Bureau of Labor Statistics, Unemployment in US States']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held jurisdiction of office --> [u'United States of America', u"United States Attorney's Office for the Eastern District of Pennsylvania"]	3965	| [[Philadelphia]] || [[Pennsylvania]] || [[United States]]
+where does name pennsylvania come from?	33220	pennsylvania --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjL15wpEbGdrcN5Y29ycA']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> bibs location is clear --> [u'0']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> dated percentage date --> [u'1990-01', u'1990-02', u'1990-03', u'1990-04', u'1990-05']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held office holder --> [u'Henry M. Hoyt', u'William A. Stone', u'Edward Martin', u'William Cameron Sproul', u'William Bigler']	8	In 1943, Hutchison was appointed Director of Civilian Defense for the [[Pennsylvania|Commonwealth of Pennsylvania]], a cabinet-level position, by [[Governor of Pennsylvania|Governor]] [[Edward Martin (Pennsylvania politician)|Edward Martin]] for the duration of [[World War II|the war]].
+where does name pennsylvania come from?	33220	pennsylvania --> organization scope organizations with this scope --> [u'Awesome LLC', u"B'nai B'rith District Grand Lodge 3"]	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> adjoining relationship adjoins --> [u'New York City', u'New York', u'West Virginia', u'Delaware', u'Maryland']	1160	The '''Twelve-Mile Circle''' is an approximately circular arc which forms most of the boundary between the Commonwealth of [[Pennsylvania]] and the State of [[Delaware]] in the [[United States]].
+where does name pennsylvania come from?	33220	pennsylvania --> geocode longitude --> [u'-77.182732']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> dated money value currency --> [u'United States dollar']	2	It caused at least $2.1&nbsp;billion (1972&nbsp;[[United States dollar|USD]]) in damage and 137&nbsp;fatalities, mostly from inland flooding in [[Pennsylvania]] and [[New York (state)|New York]].
+where does name pennsylvania come from?	33220	pennsylvania --> government position held basic title --> [u'Member of Congress', u'Senator']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> administrative division capital relationship capital --> [u'Harrisburg']	105	| 1785 || [[Harrisburg, Pennsylvania|Harrisburg]] || [[Pennsylvania]] || United States
+where does name pennsylvania come from?	33220	pennsylvania --> context name nickname --> [u'State of Independence', u'Coal State', u'Keystone State', u'Oil State', u'Quaker State']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> focal location defined land cover classes --> [u'Appalachian (Hemlock)-Northern Hardwood Forest']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> location symbol relationship kind of symbol --> [u'State bird', u'State tree', u'State flower', u'State Fish', u'State beverage']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> topic official website --> [u'http://www.pa.gov/']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held from --> [u'1995-01-03', u'2007-01-03', u'2011-01-03', u'1951-01-03', u'1897-03-04']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> cyclone affected area cyclones --> [u'Hurricane Agnes', u'Hurricane Katrina', u'1915 New Orleans hurricane', u'Hurricane Isabel', u'1903 New Jersey hurricane']	5	|[[CBS News]] reporter and correspondent killed in helicopter crash in [[Pennsylvania]] during aftermath of [[Hurricane Agnes]]
+where does name pennsylvania come from?	33220	pennsylvania --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> newspaper circulation area newspapers --> [u'Press and Journal', u'Cleveland Scene', u'Freie Arbeiter Stimme', u'Pennsylvania Gazette']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> bibs location country --> [u'United States of America']	3965	| [[Philadelphia]] || [[Pennsylvania]] || [[United States]]
+where does name pennsylvania come from?	33220	pennsylvania --> government position held legislative sessions --> [u'112th United States Congress', u'113th United States Congress', u'108th United States Congress', u'110th United States Congress', u'111th United States Congress']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> administrative area administrative parent --> [u'United States of America']	3965	| [[Philadelphia]] || [[Pennsylvania]] || [[United States]]
+where does name pennsylvania come from?	33220	pennsylvania --> webpage uri --> [u'http://www.pa.gov']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> flag use flag --> [u'Flag of Pennsylvania']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> administrative area capital --> [u'Harrisburg']	105	| 1785 || [[Harrisburg, Pennsylvania|Harrisburg]] || [[Pennsylvania]] || United States
+where does name pennsylvania come from?	33220	pennsylvania --> employment tenure from --> [u'2003']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> book subject works --> [u'Precedents in the office of a justice of peace', u"Prospectus of Delaplaine's National Panzographia for the reception of the portraits of distinguished Americans", u"Strictures on Baldwin's letters", u'Efficacy and action', u'Finders Keepers: The Story of a Man Who Found $1 Million']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> spirit producing region distilleries --> [u"Bomberger's Distillery"]	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> location nearby airports --> [u'University Park Airport']	1	| SCE || KUNV || [[University Park Airport]] (FAA: UNV) || [[State College, Pennsylvania|State College]], [[Pennsylvania]], United States
+where does name pennsylvania come from?	33220	pennsylvania --> employment tenure title --> [u'Director, Office of Health Care Reform']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> states and provences country --> [u'United States of America']	3965	| [[Philadelphia]] || [[Pennsylvania]] || [[United States]]
+where does name pennsylvania come from?	33220	pennsylvania --> location events --> [u'Braddock Expedition', u'United States Senate elections, 2006', u'Battle of Gettysburg', u'Battle of Brandywine', u"George Washington's crossing of the Delaware River"]	24	* [[September 11]] &ndash; [[American Revolutionary War]] &ndash; [[Battle of Brandywine]]: The [[Kingdom of Great Britain|British]] gain a major victory in [[Chester County, Pennsylvania|Chester County]], [[Pennsylvania]].
+where does name pennsylvania come from?	33220	pennsylvania --> religion percentage percentage --> [u'1', u'2', u'4', u'5', u'6']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held legislative sessions --> [u'1st United States Congress', u'112th United States Congress', u'113th United States Congress', u'108th United States Congress', u'107th United States Congress']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> context name abbreviation --> [u'PA']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government agency --> [u'Pennsylvania Department of Education']	3	'''Francis V. Barnes''' was the [[Secretary of Education]] for the [[Pennsylvania]] [[Pennsylvania Department of Education|Department of Education]] from 2004 to 2005.
+where does name pennsylvania come from?	33220	pennsylvania --> government position held to --> [u'2003-01-21', u'1995-01-17', u'2001-10-05', u'1951-01-16', u'2011-01-18']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held basic title --> [u'Governor', u'Member of Congress', u'Attorney general', u'Secretary of state', u'Lieutenant Governor']	1	[[Governor]] [[Andrew Curtin]] of [[Pennsylvania]] issued a proclamation asking for 13,000 able-bodied men to volunteer to help preserve the Union.
+where does name pennsylvania come from?	33220	pennsylvania --> source feature taxa category of rate density --> [u'Presence']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> us state capital --> [u'Harrisburg']	105	| 1785 || [[Harrisburg, Pennsylvania|Harrisburg]] || [[Pennsylvania]] || United States
+where does name pennsylvania come from?	33220	pennsylvania --> dated percentage rate --> [u'4', u'4.1', u'4.2', u'4.3', u'4.4']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> governmental jurisdiction government bodies --> [u'Pennsylvania General Assembly', u'Pennsylvania State Senate', u'Pennsylvania House of Representatives']	30	... that after the '''[[Avondale Mine Disaster]]''', legislation was passed by the [[Pennsylvania General Assembly]] that made [[Pennsylvania]] the first [[United States|U.S.]]
+where does name pennsylvania come from?	33220	pennsylvania --> source feature taxa source title --> [u'Detection probability of Golden-winged Warblers during point counts with and without playback recordings']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> dated integer year --> [u'1790', u'1910', u'1920', u'1930', u'1940']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held governmental body --> [u'United States House of Representatives', u'United States Senate', u'Continental Congress']	197	'''Robert Patrick''' "'''Bob'''" '''Casey Jr.''' (born April 13, 1960) is an American attorney and politician, currently the [[Seniority in the United States Senate|senior]] [[United States Senate|United States Senator]] from [[Pennsylvania]].
+where does name pennsylvania come from?	33220	pennsylvania --> name source namesakes --> [u'USS Pennsylvania (BB-38)', u'USS Pennsylvania (ACR-4)', u'USS Pennsylvania', u'USS Pennsylvania (SSBN-735)']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> dated money value valid date --> [u'2007']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> location symbol relationship date adopted --> [u'1931', u'1982', u'1933-05-05']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> military unit place of origin military units --> [u'150th Pennsylvania Infantry', u'140th Pennsylvania Infantry', u'4th Pennsylvania Reserve Regiment', u'54th Pennsylvania Infantry', u'74th Pennsylvania Infantry']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> dated location date founded --> [u'1787-12-12']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> religion percentage religion --> [u'Baptists', u'Judaism', u'Presbyterianism', u'Catholicism', u'Methodism']	9	* September 19 &ndash; Shortly after [[Allegheny Airlines]] Flight 730 – a [[Boeing 727]] with 98 people on board – takes off from [[Pittsburgh, Pennsylvania|Pittsburgh]], [[Pennsylvania]], for a flight to [[Boston, Massachusetts|Boston]], [[Massachusetts]], 19-year-old Richard Witt, puts a gun to the throat of a stewardess and demands to be flown to [[Cairo]], [[Egypt]], claiming he has a homemade bomb and a bottle of [[nitroglycerine]] and saying he is a [[Marxism|Marxist]] who hates [[Judaism|Jews]] and wants to help [[Palestinian people|Palestinian]] guerrillas fight them.
+where does name pennsylvania come from?	33220	pennsylvania --> administrative division country --> [u'United States of America']	3965	| [[Philadelphia]] || [[Pennsylvania]] || [[United States]]
+where does name pennsylvania come from?	33220	pennsylvania --> political district elections --> [u'United States Senate election in Pennsylvania, 2010']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> location contains --> [u'Thornbury', u'Taylor House', u'Whitfield', u'Penn Forest Township', u'East Bradford Township']	2	'''Towamensing Trails''' is a [[census-designated place]] (CDP) in [[Penn Forest Township, Carbon County, Pennsylvania|Penn Forest Township]], [[Carbon County, Pennsylvania|Carbon County]], [[Pennsylvania]], United States.
+where does name pennsylvania come from?	33220	pennsylvania --> topic alias --> [u'PA', u'Penn', u'Keystone State', u'PN']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> flag use from date --> [u'1900-04-29']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> taxonomy entry high --> [u'160']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> location area --> [u'119283']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held office holder --> [u'Edward Martin', u'Daniel Sturgeon', u'William Bigler', u'Rick Santorum', u'George Ross']	37	| rowspan="31" valign="top" | 1845 || January 14 || ''[[United States Senate election in Pennsylvania, 1845]]'': [[Democratic Party (United States)|Democrat]] [[Daniel Sturgeon]] of [[Pennsylvania]] was reelected to the [[United States Senate|Senate]] with fifty-four percent of the vote.
+where does name pennsylvania come from?	33220	pennsylvania --> recurring money value frequency --> [u'Hour']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> recurring money value amount --> [u'7.25']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> governmental jurisdiction agencies --> [u'Pennsylvania Historical and Museum Commission', u'Pennsylvania Gaming Control Board', u'Pennsylvania Department of Conservation and Natural Resources', u'Pennsylvania Department of Military and Veterans Affairs', u'Pennsylvania Department of Environmental Protection']	2	The '''Daniel Boone Homestead''', the birthplace of American frontiersman [[Daniel Boone]], is a museum that is administered by the [[Pennsylvania Historical and Museum Commission]] near [[Birdsboro, Pennsylvania|Birdsboro]], [[Berks County, Pennsylvania|Berks County]], [[Pennsylvania]] in the [[United States]].
+where does name pennsylvania come from?	33220	pennsylvania --> topic image --> [u'National-atlas-pennsylvania', u'anno 1864', u'Pennsylvania.png']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> location time zones --> [u'Eastern Time Zone', u'UTC-5']	19	| HAR || KCXY || [[Capital City Airport (Pennsylvania)|Capital City Airport]] (FAA: CXY) || [[Harrisburg, Pennsylvania|Harrisburg]], [[Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+where does name pennsylvania come from?	33220	pennsylvania --> recurring money value currency --> [u'United States dollar']	2	It caused at least $2.1&nbsp;billion (1972&nbsp;[[United States dollar|USD]]) in damage and 137&nbsp;fatalities, mostly from inland flooding in [[Pennsylvania]] and [[New York (state)|New York]].
+where does name pennsylvania come from?	33220	pennsylvania --> film location featured in films --> [u'Diamond Men', u'The Mothman Prophecies', u'The Lovely Bones', u'Home', u'Girl, Interrupted']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> source feature taxa species --> [u'Golden-winged Warbler']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> webpage resource --> [u"'American Idol' contestant Alexis Cohen laid to rest", u"New 'Jon and Kate Plus 8': 'I'm totally paparazzi-free!'", u"New 'Jon & Kate Plus 8': Kate says 'I'm trying not to feel sorry for us and myself' and Jon calls Kate 'annoying'", u'Asher Roth: Are you ready for a suburban rap star?', u'Asher Roth: Are you ready for a suburban rap star?']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> source feature taxa generic habitat --> [u'Right-of-way']	1	The Ma and Pa was popular with railfans in the 1930s and 1940s for its antique equipment and curving, picturesque [[Right-of-way (transportation)|right-of-way]] through the hills of rural [[Maryland]] and [[Pennsylvania]].
+where does name pennsylvania come from?	33220	pennsylvania --> government position held governmental body --> [u'United States House of Representatives', u'Government of Pennsylvania']	115	'''Edwin Duing Eshleman''' (December 4, 1920 – January 10, 1985) was an American politician who represented [[Pennsylvania]] in the [[United States House of Representatives]] as a [[United States Republican Party|Republican]] from 1967 to 1977.
+where does name pennsylvania come from?	33220	pennsylvania --> dated integer number --> [u'434373', u'602365', u'810091', u'1049458', u'1348233']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> recurring money value date --> [u'2012-01-01']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> administrative division first level division of --> [u'United States of America']	3965	| [[Philadelphia]] || [[Pennsylvania]] || [[United States]]
+where does name pennsylvania come from?	33220	pennsylvania --> geocode latitude --> [u'41.205264']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> fictional setting contains --> [u'Brewer', u'Olinger', u'Llanview', u'Corinth, Pennsylvania', u'Pine Valley']	1	| residence      = Apartment 2G <br> [[Pine Valley (All My Children)|Pine Valley]], [[Pennsylvania]] 
+where does name pennsylvania come from?	33220	pennsylvania --> employment tenure person --> [u'Rosemarie B. Greco']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> taxonomy entry low --> [u'146']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> administrative area administrative children --> [u'Pittsburgh', u'Philadelphia', u'Latrobe', u'Easton', u'York']	3423	| [[Philadelphia]] || [[Pennsylvania]] || [[United States]]
+where does name pennsylvania come from?	33220	pennsylvania --> government position held from --> [u'2003-01-21', u'1995-01-17', u'2003-01-03', u'2001-10-05', u'1951-01-16']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> object name --> [u'Pennsylvania']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> government position held to --> [u'1995-01-03', u'2007-01-03', u'2011-01-03', u'1951-01-03', u'1803']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> religion percentage date --> [u'2002']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> dated money value amount --> [u'531110000000']	0	EMPTY
+where does name pennsylvania come from?	33220	pennsylvania --> governmental jurisdiction government positions --> [u'Governor of Pennsylvania', u'Lieutenant Governor of Pennsylvania', u'Pennsylvania Auditor General', u'Secretary of the Commonwealth of Pennsylvania']	19	'''Raymond Joseph "Ray" Broderick''' (May 29, 1914 – August 6, 2000) was a [[United States federal judge]], and the 24th [[Lieutenant Governor of Pennsylvania|Lieutenant Governor]] of [[Pennsylvania]] from 1967 to 1971.

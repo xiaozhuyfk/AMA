@@ -1,49 +1,49 @@
-where does airtran airways fly?	27	airtran airways --> phone open times saturday closing time --> [u'T20:00']	0
-where does airtran airways fly?	27	airtran airways --> phone number service location --> [u'United States of America']	0
-where does airtran airways fly?	27	airtran airways --> airline iata airline designator --> [u'FL']	0
-where does airtran airways fly?	27	airtran airways --> organization relationship parent --> [u'Southwest Airlines', u'AirTran Holdings']	13
-where does airtran airways fly?	27	airtran airways --> phone number number --> [u'1 (866) 247-2428', u'1 (800) 247-8726']	0
-where does airtran airways fly?	27	airtran airways --> leadership from --> [u'2004']	0
-where does airtran airways fly?	27	airtran airways --> aircraft ownership count aircraft model --> [u'Boeing 717']	4
-where does airtran airways fly?	27	airtran airways --> airline airport presence airport --> [u'Logan International Airport', u'LaGuardia Airport', u'Philadelphia International Airport', u'Denver International Airport', u'Baltimore\u2013Washington International Airport']	2
-where does airtran airways fly?	27	airtran airways --> phone open times wednesday closing time --> [u'T22:00']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox contact category --> [u'Customer service', u'Sales', u'Reservations', u'Investor relations']	0
-where does airtran airways fly?	27	airtran airways --> airline focus cities --> [u'Indianapolis International Airport', u'Tampa International Airport', u'Logan International Airport', u'LaGuardia Airport', u'Chicago Midway International Airport']	3
-where does airtran airways fly?	27	airtran airways --> airline callsign --> [u'Citrus']	0
-where does airtran airways fly?	27	airtran airways --> phone open times monday closing time --> [u'T22:00']	0
-where does airtran airways fly?	27	airtran airways --> airline airport presence cities served --> [u'Atlanta', u'Orlando']	2
-where does airtran airways fly?	27	airtran airways --> phone open times tuesday open time --> [u'T08:00']	0
-where does airtran airways fly?	27	airtran airways --> mailing address citytown --> [u'Orlando']	2
-where does airtran airways fly?	27	airtran airways --> webpage category --> [u'Topic Webpage', u'Official Website']	0
-where does airtran airways fly?	27	airtran airways --> topic image --> [u'AirTranN291AT']	0
-where does airtran airways fly?	27	airtran airways --> phone open times wednesday open time --> [u'T08:00']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox service location --> [u'United States of America']	0
-where does airtran airways fly?	27	airtran airways --> business operation industry --> [u'Airline']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox toll free --> [u'0', u'1']	0
-where does airtran airways fly?	27	airtran airways --> topic official website --> [u'http://www.airtran.com']	0
-where does airtran airways fly?	27	airtran airways --> phone open times saturday open time --> [u'T08:00']	0
-where does airtran airways fly?	27	airtran airways --> phone open times thursday closing time --> [u'T22:00']	0
-where does airtran airways fly?	27	airtran airways --> phone open times time zone --> [u'Eastern Time Zone']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox description --> [u'Customer Relations', u'Reservations', u'Investor Relations', u'Group Sales', u'TDD (Telecommunication Device for the Deaf)']	0
-where does airtran airways fly?	27	airtran airways --> phone open times friday closing time --> [u'T22:00']	0
-where does airtran airways fly?	27	airtran airways --> organization date founded --> [u'1993']	0
-where does airtran airways fly?	27	airtran airways --> phone number category --> [u'Customer service', u'Reservations']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox number --> [u'(407) 318-5600', u'(866) 247-2428', u'(678) 254-7999', u'(214) 792-4415', u'(800) 868-8833']	0
-where does airtran airways fly?	27	airtran airways --> phone open times sunday open time --> [u'T08:00']	0
-where does airtran airways fly?	27	airtran airways --> airline hubs --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'Baltimore\u2013Washington International Airport', u'General Mitchell International Airport', u'Orlando International Airport']	1
-where does airtran airways fly?	27	airtran airways --> leadership person --> [u'Gary C. Kelly']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox service language --> [u'English Language']	0
-where does airtran airways fly?	27	airtran airways --> webpage uri --> [u'http://www.airtran.com']	0
-where does airtran airways fly?	27	airtran airways --> leadership role --> [u'Chief Executive Officer']	0
-where does airtran airways fly?	27	airtran airways --> airline airport presence terminals --> [u'A', u'Concourse A', u'Terminal D']	0
-where does airtran airways fly?	27	airtran airways --> phone open times monday open time --> [u'T08:00']	0
-where does airtran airways fly?	27	airtran airways --> organization relationship child --> [u'SkyWest Airlines']	0
-where does airtran airways fly?	27	airtran airways --> phone open times sunday closing time --> [u'T20:00']	0
-where does airtran airways fly?	27	airtran airways --> object name --> [u'AirTran Airways']	0
-where does airtran airways fly?	27	airtran airways --> phone open times thursday open time --> [u'T08:00']	0
-where does airtran airways fly?	27	airtran airways --> organization extra contact webpage --> [u'https://www.aplusrewards.com/contact/contact_us.aspx']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox country code --> [u'1']	0
-where does airtran airways fly?	27	airtran airways --> phone open times tuesday closing time --> [u'T22:00']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox caller category --> [u'Consumer Service', u'Group Service']	0
-where does airtran airways fly?	27	airtran airways --> phone sandbox hearing impaired --> [u'0', u'1']	0
-where does airtran airways fly?	27	airtran airways --> phone open times friday open time --> [u'T08:00']	0
+where does airtran airways fly?	27	airtran airways --> phone open times saturday closing time --> [u'T20:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone number service location --> [u'United States of America']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> airline iata airline designator --> [u'FL']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> organization relationship parent --> [u'Southwest Airlines', u'AirTran Holdings']	13	Competitor [[Southwest Airlines]] was encroaching from its base in the [[U.S. West|West]] as were [[Delta Express]] and [[AirTran Airways]] from the [[Southern United States|South]].
+where does airtran airways fly?	27	airtran airways --> phone number number --> [u'1 (866) 247-2428', u'1 (800) 247-8726']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> leadership from --> [u'2004']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> aircraft ownership count aircraft model --> [u'Boeing 717']	4	As part of its strategy to utilize less expensive used airplanes, Delta agreed in 2012 to lease 88 [[Boeing 717]]s acquired by [[Southwest Airlines]] during their acquisition of [[AirTran Airways]].
+where does airtran airways fly?	27	airtran airways --> airline airport presence airport --> [u'Logan International Airport', u'LaGuardia Airport', u'Philadelphia International Airport', u'Denver International Airport', u'Baltimore\u2013Washington International Airport']	2	[[AirTran Airways|AirTran]] had served Daytona in the past competing with Delta on the Atlanta route and also operated routes to Baltimore and New York [[LaGuardia Airport]] as well.
+where does airtran airways fly?	27	airtran airways --> phone open times wednesday closing time --> [u'T22:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox contact category --> [u'Customer service', u'Sales', u'Reservations', u'Investor relations']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> airline focus cities --> [u'Indianapolis International Airport', u'Tampa International Airport', u'Logan International Airport', u'LaGuardia Airport', u'Chicago Midway International Airport']	3	More recently, [[Southwest Airlines]], following its acquisition of [[AirTran Airways|AirTran]], operated [[Boeing 737-700]] jet service into the airport, including nonstop flights from [[Louis Armstrong New Orleans International Airport|New Orleans]], Orlando, and [[Tampa International Airport|Tampa]].
+where does airtran airways fly?	27	airtran airways --> airline callsign --> [u'Citrus']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times monday closing time --> [u'T22:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> airline airport presence cities served --> [u'Atlanta', u'Orlando']	2	On July 10, 1997, ValuJet announced it would merge with the much smaller Airways Corporation, the owner of [[Orlando, Florida]] based [[AirTran Airways]].
+where does airtran airways fly?	27	airtran airways --> phone open times tuesday open time --> [u'T08:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> mailing address citytown --> [u'Orlando']	2	On July 10, 1997, ValuJet announced it would merge with the much smaller Airways Corporation, the owner of [[Orlando, Florida]] based [[AirTran Airways]].
+where does airtran airways fly?	27	airtran airways --> webpage category --> [u'Topic Webpage', u'Official Website']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> topic image --> [u'AirTranN291AT']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times wednesday open time --> [u'T08:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox service location --> [u'United States of America']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> business operation industry --> [u'Airline']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox toll free --> [u'0', u'1']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> topic official website --> [u'http://www.airtran.com']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times saturday open time --> [u'T08:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times thursday closing time --> [u'T22:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times time zone --> [u'Eastern Time Zone']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox description --> [u'Customer Relations', u'Reservations', u'Investor Relations', u'Group Sales', u'TDD (Telecommunication Device for the Deaf)']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times friday closing time --> [u'T22:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> organization date founded --> [u'1993']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone number category --> [u'Customer service', u'Reservations']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox number --> [u'(407) 318-5600', u'(866) 247-2428', u'(678) 254-7999', u'(214) 792-4415', u'(800) 868-8833']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times sunday open time --> [u'T08:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> airline hubs --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'Baltimore\u2013Washington International Airport', u'General Mitchell International Airport', u'Orlando International Airport']	1	On June 25, 2009 [[AirTran Airways]] began service from Charleston to [[Orlando International Airport|Orlando]].
+where does airtran airways fly?	27	airtran airways --> leadership person --> [u'Gary C. Kelly']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox service language --> [u'English Language']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> webpage uri --> [u'http://www.airtran.com']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> leadership role --> [u'Chief Executive Officer']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> airline airport presence terminals --> [u'A', u'Concourse A', u'Terminal D']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times monday open time --> [u'T08:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> organization relationship child --> [u'SkyWest Airlines']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times sunday closing time --> [u'T20:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> object name --> [u'AirTran Airways']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times thursday open time --> [u'T08:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> organization extra contact webpage --> [u'https://www.aplusrewards.com/contact/contact_us.aspx']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox country code --> [u'1']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times tuesday closing time --> [u'T22:00']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox caller category --> [u'Consumer Service', u'Group Service']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone sandbox hearing impaired --> [u'0', u'1']	0	EMPTY
+where does airtran airways fly?	27	airtran airways --> phone open times friday open time --> [u'T08:00']	0	EMPTY

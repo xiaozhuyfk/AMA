@@ -1,14 +1,14 @@
-where is perpignan located?	79	perpignan --> location people born here --> [u'\xc9loi P\xe9lissier', u'Isabelle Pasco', u'Carlo Schmid', u'Jacques Domergue', u'Mohamed Bourokba']	0
-where is perpignan located?	79	perpignan --> location events --> [u"2009 Tour De France - Cap d'Agde to Perpignan", u'Battle of Boulou', u'Siege of Perpignan']	1
-where is perpignan located?	79	perpignan --> location contains --> [u'Stade Aim\xe9 Giral', u'Stade Gilbert Brutus', u'University of Perpignan Via Domitia', u'Campo Santo']	24
-where is perpignan located?	79	perpignan --> topic alias --> [u'Perpignan, France']	0
-where is perpignan located?	79	perpignan --> webpage category --> [u'Tag']	0
-where is perpignan located?	79	perpignan --> object name --> [u'Perpignan']	0
-where is perpignan located?	79	perpignan --> topic image --> [u'Vista de Perpinya']	0
-where is perpignan located?	79	perpignan --> location area --> [u'68.07']	0
-where is perpignan located?	79	perpignan --> location containedby --> [u'France', u'Languedoc-Roussillon', u'Pyr\xe9n\xe9es-Orientales']	54
-where is perpignan located?	79	perpignan --> topic official website --> [u'http://www.mairie-perpignan.fr/']	0
-where is perpignan located?	79	perpignan --> geocode latitude --> [u'42.7']	0
-where is perpignan located?	79	perpignan --> geocode longitude --> [u'2.9']	0
-where is perpignan located?	79	perpignan --> administrative division capital relationship administrative division --> [u'Pyr\xe9n\xe9es-Orientales']	0
-where is perpignan located?	79	perpignan --> location nearby airports --> [u'Perpignan\u2013Rivesaltes Airport']	0
+where is perpignan located?	79	perpignan --> location people born here --> [u'\xc9loi P\xe9lissier', u'Isabelle Pasco', u'Carlo Schmid', u'Jacques Domergue', u'Mohamed Bourokba']	0	EMPTY
+where is perpignan located?	79	perpignan --> location events --> [u"2009 Tour De France - Cap d'Agde to Perpignan", u'Battle of Boulou', u'Siege of Perpignan']	1	When [[Perpignan]] was [[Siege of Perpignan (1542)|besieged]] by the forces of [[Henry II of France|Henry]], [[Dauphin of France]] in 1542, the inhabitants were loyal to Charles V. Perpignan earned the royal sobriquet of "Fedelissima" ("Most Faithful City").
+where is perpignan located?	79	perpignan --> location contains --> [u'Stade Aim\xe9 Giral', u'Stade Gilbert Brutus', u'University of Perpignan Via Domitia', u'Campo Santo']	24	Bousquet made his début for [[France national rugby league team|France]] as a [[rugby league positions#Substitutes|Substitute]] in the 46–10 victory over [[Scotland national rugby league team|Scotland]] in the [[2011 Autumn International Series]] match at [[Stade Gilbert Brutus]], [[Perpignan]] on Saturday 29 October 2011.
+where is perpignan located?	79	perpignan --> topic alias --> [u'Perpignan, France']	0	EMPTY
+where is perpignan located?	79	perpignan --> webpage category --> [u'Tag']	0	EMPTY
+where is perpignan located?	79	perpignan --> object name --> [u'Perpignan']	0	EMPTY
+where is perpignan located?	79	perpignan --> topic image --> [u'Vista de Perpinya']	0	EMPTY
+where is perpignan located?	79	perpignan --> location area --> [u'68.07']	0	EMPTY
+where is perpignan located?	79	perpignan --> location containedby --> [u'France', u'Languedoc-Roussillon', u'Pyr\xe9n\xe9es-Orientales']	54	'''La Bressola''' () is a cultural association founded in [[Perpignan]], [[France]] in 1976 to promote a network of community-run [[schools]] engaged in [[Catalan language]] [[language immersion|immersion program]]s in [[France]], particularly in the comarques of so-called [[North Catalonia]].
+where is perpignan located?	79	perpignan --> topic official website --> [u'http://www.mairie-perpignan.fr/']	0	EMPTY
+where is perpignan located?	79	perpignan --> geocode latitude --> [u'42.7']	0	EMPTY
+where is perpignan located?	79	perpignan --> geocode longitude --> [u'2.9']	0	EMPTY
+where is perpignan located?	79	perpignan --> administrative division capital relationship administrative division --> [u'Pyr\xe9n\xe9es-Orientales']	0	EMPTY
+where is perpignan located?	79	perpignan --> location nearby airports --> [u'Perpignan\u2013Rivesaltes Airport']	0	EMPTY

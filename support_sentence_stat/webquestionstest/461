@@ -1,17 +1,17 @@
-what did alice paul accomplish?	61	alice stokes paul --> person date of birth --> [u'1885-01-11']	0
-what did alice paul accomplish?	61	alice stokes paul --> deceased person place of death --> [u'Moorestown']	0
-what did alice paul accomplish?	61	alice stokes paul --> organization founder organizations founded --> [u"National Woman's Party", u'Silent Sentinels']	30
-what did alice paul accomplish?	61	alice stokes paul --> organization membership organization --> [u"National Woman's Party"]	27
-what did alice paul accomplish?	61	alice stokes paul --> person place of birth --> [u'Mount Laurel Township']	0
-what did alice paul accomplish?	61	alice stokes paul --> place lived location --> [u'Ridgefield']	0
-what did alice paul accomplish?	61	alice stokes paul --> hall of fame induction hall of fame --> [u"National Women's Hall of Fame"]	0
-what did alice paul accomplish?	61	alice stokes paul --> hall of fame induction date --> [u'1979']	0
-what did alice paul accomplish?	61	alice stokes paul --> peer relationship peers --> [u'Lavinia Lloyd Dock']	0
-what did alice paul accomplish?	61	alice stokes paul --> person gender --> [u'Female']	0
-what did alice paul accomplish?	61	alice stokes paul --> object name --> [u'Alice Stokes Paul']	0
-what did alice paul accomplish?	61	alice stokes paul --> topic image --> [u'AlicePaul 1901']	0
-what did alice paul accomplish?	61	alice stokes paul --> education institution --> [u'Swarthmore College', u'University of Pennsylvania', u'American University', u'Washington College of Law']	1
-what did alice paul accomplish?	61	alice stokes paul --> person nationality --> [u'United States of America']	2
-what did alice paul accomplish?	61	alice stokes paul --> activist area of activism --> [u"Women's suffrage"]	1
-what did alice paul accomplish?	61	alice stokes paul --> deceased person date of death --> [u'1977-07-09']	0
-what did alice paul accomplish?	61	alice stokes paul --> person profession --> [u'Author']	0
+what did alice paul accomplish?	61	alice stokes paul --> person date of birth --> [u'1885-01-11']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> deceased person place of death --> [u'Moorestown']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> organization founder organizations founded --> [u"National Woman's Party", u'Silent Sentinels']	30	|1875–1939||data-sort-value="Paul, Alice"|[[Alice Paul]]||United States||1885||1977||One of the leaders of the 1910s Women's Voting Rights Movement for the 19th Amendment; founder of [[National Woman's Party]], initiator of the [[Silent Sentinels]] and the [[1913 Women's Suffrage Parade]], author of the proposed [[Equal Rights Amendment]] ||
+what did alice paul accomplish?	61	alice stokes paul --> organization membership organization --> [u"National Woman's Party"]	27	|1875–1939||data-sort-value="Paul, Alice"|[[Alice Paul]]||United States||1885||1977||One of the leaders of the 1910s Women's Voting Rights Movement for the 19th Amendment; founder of [[National Woman's Party]], initiator of the [[Silent Sentinels]] and the [[1913 Women's Suffrage Parade]], author of the proposed [[Equal Rights Amendment]] ||
+what did alice paul accomplish?	61	alice stokes paul --> person place of birth --> [u'Mount Laurel Township']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> place lived location --> [u'Ridgefield']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> hall of fame induction hall of fame --> [u"National Women's Hall of Fame"]	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> hall of fame induction date --> [u'1979']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> peer relationship peers --> [u'Lavinia Lloyd Dock']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> person gender --> [u'Female']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> object name --> [u'Alice Stokes Paul']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> topic image --> [u'AlicePaul 1901']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> education institution --> [u'Swarthmore College', u'University of Pennsylvania', u'American University', u'Washington College of Law']	1	She graduated in 1933 from [[Swarthmore College]], a [[coeducation]]al college that was also the [[alma mater]] of [[Alice Paul]].
+what did alice paul accomplish?	61	alice stokes paul --> person nationality --> [u'United States of America']	2	The '''Congressional Union for Woman Suffrage''' was an [[United States|American]] organization formed in 1913 led by [[Alice Paul]] and [[Lucy Burns]] to campaign for a [[United States Constitution|constitutional]] amendment guaranteeing [[women's suffrage]].
+what did alice paul accomplish?	61	alice stokes paul --> activist area of activism --> [u"Women's suffrage"]	1	'''Paulsdale''', in [[Mount Laurel Township, New Jersey|Mount Laurel Township]], [[Burlington County, New Jersey|Burlington County]], [[New Jersey]], United States, was the birthplace and childhood home of [[Alice Paul]], a major leader in the [[Women's suffrage]] movement in the United States.
+what did alice paul accomplish?	61	alice stokes paul --> deceased person date of death --> [u'1977-07-09']	0	EMPTY
+what did alice paul accomplish?	61	alice stokes paul --> person profession --> [u'Author']	0	EMPTY

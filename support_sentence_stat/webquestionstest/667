@@ -1,44 +1,44 @@
-what year was first world series?	232	1903 world series --> sports championship event championship --> [u'World Series']	16
-what year was first world series?	232	1903 world series --> sports championship event season --> [u'1903 Major League Baseball Season']	0
-what year was first world series?	232	1903 world series --> topic image --> [u'1903 World Series Poster (a latter-day mockup)', u'WorldSeries1903-640']	0
-what year was first world series?	232	1903 world series --> sports championship event result --> [u'5-3']	0
-what year was first world series?	232	1903 world series --> object name --> [u'1903 World Series']	0
-what year was first world series?	232	1903 world series --> event locations --> [u'Huntington Avenue Grounds', u'Exposition Park']	2
-what year was first world series?	232	1903 world series --> sports championship event runner up --> [u'Pittsburgh Pirates']	8
-what year was first world series?	232	1903 world series --> event end date --> [u'1903-10-13']	0
-what year was first world series?	232	1903 world series --> sports championship event champion --> [u'Boston Red Sox']	4
-what year was first world series?	232	1903 world series --> event instance of recurring event --> [u'World Series']	16
-what year was first world series?	232	1903 world series --> event start date --> [u'1903-10-01']	0
-what year was first world series?	232	first world --> object name --> [u'First World']	0
-what year was first world series?	232	first world --> topic image --> [u'First World']	0
-what year was first world series?	232	world series --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what year was first world series?	232	world series --> webpage resource --> [u"'Glee' returns tonight. And there's a diva-off. Who wants preview clips?", u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 13: TV Recap', u"Box office preview: 'This is It' destined to win the weekend", u'Obligatory Jay-Z Item of the Week', u'Mary J. Blige on Her New Album, Hollywood, and the National Anthem']	0
-what year was first world series?	232	world series --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvj5Ro5wpEbGdrcN5Y29ycA']	0
-what year was first world series?	232	world series --> sports championship events --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30
-what year was first world series?	232	world series --> award nomination award --> [u'Primetime Emmy Award for Best Special Event Or News Program']	0
-what year was first world series?	232	world series --> sports championship league --> [u'Major League Baseball']	126
-what year was first world series?	232	world series --> topic alias --> [u'The Series', u'Fall Classic', u'Major League Baseball World Series']	0
-what year was first world series?	232	world series --> award nomination year --> [u'1956']	0
-what year was first world series?	232	world series --> recurring event instances --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30
-what year was first world series?	232	world series --> object name --> [u'World Series']	0
-what year was first world series?	232	world series --> topic image --> [u'{{{alt}}}', u'Crowd outside the 1903 World Series']	0
-what year was first world series?	232	world series --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what year was first world series?	232	world series --> daylife hero image id --> [u'05aFawD0sm9Wd']	0
-what year was first world series?	232	world series --> book subject works --> [u"The Gashouse Gang: How Dizzy Dean, Leo Durocher, Branch Rickey, Pepper Martin, and Their Colorful, Come-from-Behind Ball Club Won the World Series - and America's Heart - During the Great Depression"]	0
-what year was first world series?	232	year --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what year was first world series?	232	year --> unit profile abbreviations --> [u'cal. yr.', u'yr']	0
-what year was first world series?	232	year --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjyV5wpEbGdrcN5Y29ycA']	0
-what year was first world series?	232	year --> time unit time in seconds --> [u'31536000']	0
-what year was first world series?	232	year --> unit profile abbreviation --> [u'yr.']	0
-what year was first world series?	232	year --> topic alias --> [u'Calendar year']	0
-what year was first world series?	232	year --> measurement system frequency units --> [u'Biannual']	0
-what year was first world series?	232	year --> object name --> [u'Year']	0
-what year was first world series?	232	year --> unit profile dimension --> [u'Time']	0
-what year was first world series?	232	year --> vocabulary equivalent topic equivalent concept --> [u'Year']	0
-what year was first world series?	232	year --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what year was first world series?	232	year --> webpage resource --> [u'Cruisenfreude: Did Tom really bomb?', u'VMAs score biggest audience in five years', u"'Ugly Betty' premiered to just 5 million viewers", u"Katherine Heigl will stick with 'Grey's' if they'll have her", u"NYC's popular tax credit program to be renewed"]	0
-what year was first world series?	232	year --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViv65wpEbGdrcN5Y29ycA']	0
-what year was first world series?	232	year --> object name --> [u'Year']	0
-what year was first world series?	232	year --> film genre --> [u'Comedy-drama', u'Family Drama']	0
-what year was first world series?	232	year --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what year was first world series?	232	year --> performance actor --> [u'Amitabh Bachchan']	0
+what year was first world series?	232	1903 world series --> sports championship event championship --> [u'World Series']	16	Boston was a dominant team in the new league, defeating the [[Pittsburgh Pirates]] in the first [[World Series]] in [[1903 World Series|1903]] and winning four more championships by .
+what year was first world series?	232	1903 world series --> sports championship event season --> [u'1903 Major League Baseball Season']	0	EMPTY
+what year was first world series?	232	1903 world series --> topic image --> [u'1903 World Series Poster (a latter-day mockup)', u'WorldSeries1903-640']	0	EMPTY
+what year was first world series?	232	1903 world series --> sports championship event result --> [u'5-3']	0	EMPTY
+what year was first world series?	232	1903 world series --> object name --> [u'1903 World Series']	0	EMPTY
+what year was first world series?	232	1903 world series --> event locations --> [u'Huntington Avenue Grounds', u'Exposition Park']	2	The [[1903 World Series|first]] [[World Series]] was played at [[Exposition Park (Pittsburgh)|Exposition Park]] by the [[Pittsburgh Pirates]] and the [[Boston Red Sox|Boston Americans]] (now known as the Boston Red Sox) in 1903.
+what year was first world series?	232	1903 world series --> sports championship event runner up --> [u'Pittsburgh Pirates']	8	Boston had defeated National League champion [[Pittsburgh Pirates|Pittsburgh]] in the [[1903 World Series]], a contest arranged by the two champion clubs, not by the leagues themselves.
+what year was first world series?	232	1903 world series --> event end date --> [u'1903-10-13']	0	EMPTY
+what year was first world series?	232	1903 world series --> sports championship event champion --> [u'Boston Red Sox']	4	The [[1903 World Series|first]] [[World Series]] was played at [[Exposition Park (Pittsburgh)|Exposition Park]] by the [[Pittsburgh Pirates]] and the [[Boston Red Sox|Boston Americans]] (now known as the Boston Red Sox) in 1903.
+what year was first world series?	232	1903 world series --> event instance of recurring event --> [u'World Series']	16	Boston was a dominant team in the new league, defeating the [[Pittsburgh Pirates]] in the first [[World Series]] in [[1903 World Series|1903]] and winning four more championships by .
+what year was first world series?	232	1903 world series --> event start date --> [u'1903-10-01']	0	EMPTY
+what year was first world series?	232	first world --> object name --> [u'First World']	0	EMPTY
+what year was first world series?	232	first world --> topic image --> [u'First World']	0	EMPTY
+what year was first world series?	232	world series --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what year was first world series?	232	world series --> webpage resource --> [u"'Glee' returns tonight. And there's a diva-off. Who wants preview clips?", u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 13: TV Recap', u"Box office preview: 'This is It' destined to win the weekend", u'Obligatory Jay-Z Item of the Week', u'Mary J. Blige on Her New Album, Hollywood, and the National Anthem']	0	EMPTY
+what year was first world series?	232	world series --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvj5Ro5wpEbGdrcN5Y29ycA']	0	EMPTY
+what year was first world series?	232	world series --> sports championship events --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30	:*Although his team lose the [[2006 World Series|2006]] [[World Series]] in [[best-of-seven playoff|five games]] to the [[Saint Louis Cardinals]], [[Detroit Tigers]] [[manager (baseball)|manager]] '''[[Jim Leyland]]''', having assumed control of the Tigers from '''[[Alan Trammell]]''' upon the team's completing the [[2005 in baseball|2005]] [[regular season]] having won but 71 games and having helped his side to 95 wins in the [[2006 in baseball|2006]] season, earns nineteen of twenty-eight first-place votes cast by members of the [[Baseball Writers Association of America]] (BBWAA) to outpoint, in the [[Borda count]] [[voting system]] employed by the BBWAA, by twenty-five, 118-93, [[Minnesota Twins]] manager '''[[Ron Gardenhire]]'''&ndash;who earns nine first-place votes&ndash;to claim the [[American League]] [[Manager of the Year Award]] and to become, after '''[[Bobby Cox]]''' and '''[[Tony LaRussa]]''', just the third manager to have won the award in the American and [[National League]]s and, after Cox, LaRussa, and '''[[Dusty Baker]]''', just the fourth manager to have won at least three Manager of the Year Awards across his career.
+what year was first world series?	232	world series --> award nomination award --> [u'Primetime Emmy Award for Best Special Event Or News Program']	0	EMPTY
+what year was first world series?	232	world series --> sports championship league --> [u'Major League Baseball']	126	*[[Al Newman]], [[Major League Baseball]] player for the [[Minnesota Twins]]; member of Twins 1987 and 1991 [[World Series|World Championship]] teams.
+what year was first world series?	232	world series --> topic alias --> [u'The Series', u'Fall Classic', u'Major League Baseball World Series']	0	EMPTY
+what year was first world series?	232	world series --> award nomination year --> [u'1956']	0	EMPTY
+what year was first world series?	232	world series --> recurring event instances --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30	:*Although his team lose the [[2006 World Series|2006]] [[World Series]] in [[best-of-seven playoff|five games]] to the [[Saint Louis Cardinals]], [[Detroit Tigers]] [[manager (baseball)|manager]] '''[[Jim Leyland]]''', having assumed control of the Tigers from '''[[Alan Trammell]]''' upon the team's completing the [[2005 in baseball|2005]] [[regular season]] having won but 71 games and having helped his side to 95 wins in the [[2006 in baseball|2006]] season, earns nineteen of twenty-eight first-place votes cast by members of the [[Baseball Writers Association of America]] (BBWAA) to outpoint, in the [[Borda count]] [[voting system]] employed by the BBWAA, by twenty-five, 118-93, [[Minnesota Twins]] manager '''[[Ron Gardenhire]]'''&ndash;who earns nine first-place votes&ndash;to claim the [[American League]] [[Manager of the Year Award]] and to become, after '''[[Bobby Cox]]''' and '''[[Tony LaRussa]]''', just the third manager to have won the award in the American and [[National League]]s and, after Cox, LaRussa, and '''[[Dusty Baker]]''', just the fourth manager to have won at least three Manager of the Year Awards across his career.
+what year was first world series?	232	world series --> object name --> [u'World Series']	0	EMPTY
+what year was first world series?	232	world series --> topic image --> [u'{{{alt}}}', u'Crowd outside the 1903 World Series']	0	EMPTY
+what year was first world series?	232	world series --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what year was first world series?	232	world series --> daylife hero image id --> [u'05aFawD0sm9Wd']	0	EMPTY
+what year was first world series?	232	world series --> book subject works --> [u"The Gashouse Gang: How Dizzy Dean, Leo Durocher, Branch Rickey, Pepper Martin, and Their Colorful, Come-from-Behind Ball Club Won the World Series - and America's Heart - During the Great Depression"]	0	EMPTY
+what year was first world series?	232	year --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what year was first world series?	232	year --> unit profile abbreviations --> [u'cal. yr.', u'yr']	0	EMPTY
+what year was first world series?	232	year --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjyV5wpEbGdrcN5Y29ycA']	0	EMPTY
+what year was first world series?	232	year --> time unit time in seconds --> [u'31536000']	0	EMPTY
+what year was first world series?	232	year --> unit profile abbreviation --> [u'yr.']	0	EMPTY
+what year was first world series?	232	year --> topic alias --> [u'Calendar year']	0	EMPTY
+what year was first world series?	232	year --> measurement system frequency units --> [u'Biannual']	0	EMPTY
+what year was first world series?	232	year --> object name --> [u'Year']	0	EMPTY
+what year was first world series?	232	year --> unit profile dimension --> [u'Time']	0	EMPTY
+what year was first world series?	232	year --> vocabulary equivalent topic equivalent concept --> [u'Year']	0	EMPTY
+what year was first world series?	232	year --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what year was first world series?	232	year --> webpage resource --> [u'Cruisenfreude: Did Tom really bomb?', u'VMAs score biggest audience in five years', u"'Ugly Betty' premiered to just 5 million viewers", u"Katherine Heigl will stick with 'Grey's' if they'll have her", u"NYC's popular tax credit program to be renewed"]	0	EMPTY
+what year was first world series?	232	year --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViv65wpEbGdrcN5Y29ycA']	0	EMPTY
+what year was first world series?	232	year --> object name --> [u'Year']	0	EMPTY
+what year was first world series?	232	year --> film genre --> [u'Comedy-drama', u'Family Drama']	0	EMPTY
+what year was first world series?	232	year --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what year was first world series?	232	year --> performance actor --> [u'Amitabh Bachchan']	0	EMPTY

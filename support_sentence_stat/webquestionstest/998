@@ -1,24 +1,24 @@
-what drink did john pemberton create?	40	john pemberton --> person date of birth --> [u'1831-07-08']	0
-what drink did john pemberton create?	40	john pemberton --> deceased person place of death --> [u'Atlanta']	6
-what drink did john pemberton create?	40	john pemberton --> organization founder organizations founded --> [u'The Coca-Cola Company']	0
-what drink did john pemberton create?	40	john pemberton --> person place of birth --> [u'Knoxville']	0
-what drink did john pemberton create?	40	john pemberton --> place lived location --> [u'Atlanta', u'Columbus']	7
-what drink did john pemberton create?	40	john pemberton --> education institution --> [u'University of Georgia']	0
-what drink did john pemberton create?	40	john pemberton --> person gender --> [u'Male']	0
-what drink did john pemberton create?	40	john pemberton --> object name --> [u'John Pemberton']	0
-what drink did john pemberton create?	40	john pemberton --> inventor inventions --> [u'Coca-Cola']	26
-what drink did john pemberton create?	40	john pemberton --> person nationality --> [u'United States of America', u'Confederate States of America']	1
-what drink did john pemberton create?	40	john pemberton --> topic image --> [u'John Pemberton', u'John Pemberton']	0
-what drink did john pemberton create?	40	john pemberton --> deceased person date of death --> [u'1888-08-16']	0
-what drink did john pemberton create?	40	john pemberton --> person profession --> [u'Chemist', u'Inventor', u'Pharmacist']	0
-what drink did john pemberton create?	40	drink --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what drink did john pemberton create?	40	drink --> webpage resource --> [u"'Medium' soda may cause 'extra large' agita", u"Dr. Dre teases 'Detox' track in a Dr. Pepper ad: Watch it here"]	0
-what drink did john pemberton create?	40	drink --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVj0CJwpEbGdrcN5Y29ycA']	0
-what drink did john pemberton create?	40	drink --> type of dish dishes --> [u'White Russian', u'Wine cooler', u'Latte', u'Cuba Libre', u'Backdraft']	0
-what drink did john pemberton create?	40	drink --> vocabulary equivalent topic narrower concept --> [u'Shake, fast food, strawberry']	0
-what drink did john pemberton create?	40	drink --> object name --> [u'Drink']	0
-what drink did john pemberton create?	40	drink --> topic image --> [u'Alcoholic beverages', u'Oranges and orange juice', u'FountainSoda']	0
-what drink did john pemberton create?	40	drink --> food extra narrower --> [u'Gerber Graduates Fruit Splashers', u'Abbott Nutrition Pediasure Child formula']	0
-what drink did john pemberton create?	40	drink --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what drink did john pemberton create?	40	drink --> equivalent topic equivalent type --> [u'Beverage']	0
-what drink did john pemberton create?	40	drink --> tea type tea --> [u'matcha latte']	0
+what drink did john pemberton create?	40	john pemberton --> person date of birth --> [u'1831-07-08']	0	EMPTY
+what drink did john pemberton create?	40	john pemberton --> deceased person place of death --> [u'Atlanta']	6	'''The Coca-Cola Company''', which is headquartered in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], but incorporated in Wilmington, Delaware, is an [[United States|American]] [[multinational corporation|multinational]] [[beverage corporation]], and manufacturer, retailer, and marketer of nonalcoholic beverage concentrates and [[syrup]]s. The company is best known for its flagship product [[Coca-Cola]], invented in 1886 by pharmacist [[John Pemberton|John Stith Pemberton]] in [[Columbus, Georgia|Columbus]], [[Georgia (U.S. state)|Georgia]].
+what drink did john pemberton create?	40	john pemberton --> organization founder organizations founded --> [u'The Coca-Cola Company']	0	EMPTY
+what drink did john pemberton create?	40	john pemberton --> person place of birth --> [u'Knoxville']	0	EMPTY
+what drink did john pemberton create?	40	john pemberton --> place lived location --> [u'Atlanta', u'Columbus']	7	'''The Coca-Cola Company''', which is headquartered in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], but incorporated in Wilmington, Delaware, is an [[United States|American]] [[multinational corporation|multinational]] [[beverage corporation]], and manufacturer, retailer, and marketer of nonalcoholic beverage concentrates and [[syrup]]s. The company is best known for its flagship product [[Coca-Cola]], invented in 1886 by pharmacist [[John Pemberton|John Stith Pemberton]] in [[Columbus, Georgia|Columbus]], [[Georgia (U.S. state)|Georgia]].
+what drink did john pemberton create?	40	john pemberton --> education institution --> [u'University of Georgia']	0	EMPTY
+what drink did john pemberton create?	40	john pemberton --> person gender --> [u'Male']	0	EMPTY
+what drink did john pemberton create?	40	john pemberton --> object name --> [u'John Pemberton']	0	EMPTY
+what drink did john pemberton create?	40	john pemberton --> inventor inventions --> [u'Coca-Cola']	26	* [[August 16]]&nbsp;– [[John Pemberton]], American founder of [[Coca-Cola]] (b.
+what drink did john pemberton create?	40	john pemberton --> person nationality --> [u'United States of America', u'Confederate States of America']	1	'''The Coca-Cola Company''', which is headquartered in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], but incorporated in Wilmington, Delaware, is an [[United States|American]] [[multinational corporation|multinational]] [[beverage corporation]], and manufacturer, retailer, and marketer of nonalcoholic beverage concentrates and [[syrup]]s. The company is best known for its flagship product [[Coca-Cola]], invented in 1886 by pharmacist [[John Pemberton|John Stith Pemberton]] in [[Columbus, Georgia|Columbus]], [[Georgia (U.S. state)|Georgia]].
+what drink did john pemberton create?	40	john pemberton --> topic image --> [u'John Pemberton', u'John Pemberton']	0	EMPTY
+what drink did john pemberton create?	40	john pemberton --> deceased person date of death --> [u'1888-08-16']	0	EMPTY
+what drink did john pemberton create?	40	john pemberton --> person profession --> [u'Chemist', u'Inventor', u'Pharmacist']	0	EMPTY
+what drink did john pemberton create?	40	drink --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what drink did john pemberton create?	40	drink --> webpage resource --> [u"'Medium' soda may cause 'extra large' agita", u"Dr. Dre teases 'Detox' track in a Dr. Pepper ad: Watch it here"]	0	EMPTY
+what drink did john pemberton create?	40	drink --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVj0CJwpEbGdrcN5Y29ycA']	0	EMPTY
+what drink did john pemberton create?	40	drink --> type of dish dishes --> [u'White Russian', u'Wine cooler', u'Latte', u'Cuba Libre', u'Backdraft']	0	EMPTY
+what drink did john pemberton create?	40	drink --> vocabulary equivalent topic narrower concept --> [u'Shake, fast food, strawberry']	0	EMPTY
+what drink did john pemberton create?	40	drink --> object name --> [u'Drink']	0	EMPTY
+what drink did john pemberton create?	40	drink --> topic image --> [u'Alcoholic beverages', u'Oranges and orange juice', u'FountainSoda']	0	EMPTY
+what drink did john pemberton create?	40	drink --> food extra narrower --> [u'Gerber Graduates Fruit Splashers', u'Abbott Nutrition Pediasure Child formula']	0	EMPTY
+what drink did john pemberton create?	40	drink --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what drink did john pemberton create?	40	drink --> equivalent topic equivalent type --> [u'Beverage']	0	EMPTY
+what drink did john pemberton create?	40	drink --> tea type tea --> [u'matcha latte']	0	EMPTY

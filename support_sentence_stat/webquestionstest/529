@@ -1,15 +1,15 @@
-what are malaysian coins called?	1	coin --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what are malaysian coins called?	1	coin --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what are malaysian coins called?	1	coin --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvViJ0pwpEbGdrcN5Y29ycA']	0
-what are malaysian coins called?	1	coin --> taxonomy entry low --> [u'1', u'315']	0
-what are malaysian coins called?	1	coin --> linguistic hint subject form --> [u'Coins']	0
-what are malaysian coins called?	1	coin --> taxonomy entry high --> [u'315', u'4625']	0
-what are malaysian coins called?	1	coin --> collection category name of collection activity --> [u'Numismatics', u'Coin collecting']	1
-what are malaysian coins called?	1	coin --> object name --> [u'Coin']	0
-what are malaysian coins called?	1	coin --> topic image --> [u'I india ujjain 4634v o', u'CoinsFromUKCanadaUSEurozone', u'2009 0123sokminden 0317']	0
-what are malaysian coins called?	1	coin --> collection category items in this category --> [u'1984 Lumat action figure']	0
-what are malaysian coins called?	1	coin --> jewish studies field online projects --> [u'Palestine Mandate Coins', u'Palestine Mandate Coins - Virtual Exhibition']	0
-what are malaysian coins called?	1	coin --> collection category parent category --> [u'Disneyana']	0
-what are malaysian coins called?	1	coin --> taxonomy entry prefix --> [u'HG', u'CJ']	0
-what are malaysian coins called?	1	coin --> book subject works --> [u'The Big Problem of Small Change', u'Discovering America', u'Medieval European coinage', u"Double Eagle: The Epic Story of the World's Most Valuable Coin"]	0
-what are malaysian coins called?	1	coins --> object name --> [u'COinS']	0
+what are malaysian coins called?	1	coin --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what are malaysian coins called?	1	coin --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what are malaysian coins called?	1	coin --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvViJ0pwpEbGdrcN5Y29ycA']	0	EMPTY
+what are malaysian coins called?	1	coin --> taxonomy entry low --> [u'1', u'315']	0	EMPTY
+what are malaysian coins called?	1	coin --> linguistic hint subject form --> [u'Coins']	0	EMPTY
+what are malaysian coins called?	1	coin --> taxonomy entry high --> [u'315', u'4625']	0	EMPTY
+what are malaysian coins called?	1	coin --> collection category name of collection activity --> [u'Numismatics', u'Coin collecting']	1	[[Banknote]] - [[Coin]] - <s>[[Commemorative coins of the United Kingdom]]</s> - [[Currency]] - [[Demand Note]] - [[Euro]] - [[Indian rupee]] - [[Japanese yen]] - [[List of circulating currencies]] - [[Malaysian ringgit]] - [[Money]] - <s>[[Numismatics]]</s> - [[Pound sterling]] - [[Renminbi]] - [[Rupee]] - [[Saudi riyal]] - [[Swiss franc]] - [[United States dollar]] - <s>[[€2 commemorative coins]]</s>
+what are malaysian coins called?	1	coin --> object name --> [u'Coin']	0	EMPTY
+what are malaysian coins called?	1	coin --> topic image --> [u'I india ujjain 4634v o', u'CoinsFromUKCanadaUSEurozone', u'2009 0123sokminden 0317']	0	EMPTY
+what are malaysian coins called?	1	coin --> collection category items in this category --> [u'1984 Lumat action figure']	0	EMPTY
+what are malaysian coins called?	1	coin --> jewish studies field online projects --> [u'Palestine Mandate Coins', u'Palestine Mandate Coins - Virtual Exhibition']	0	EMPTY
+what are malaysian coins called?	1	coin --> collection category parent category --> [u'Disneyana']	0	EMPTY
+what are malaysian coins called?	1	coin --> taxonomy entry prefix --> [u'HG', u'CJ']	0	EMPTY
+what are malaysian coins called?	1	coin --> book subject works --> [u'The Big Problem of Small Change', u'Discovering America', u'Medieval European coinage', u"Double Eagle: The Epic Story of the World's Most Valuable Coin"]	0	EMPTY
+what are malaysian coins called?	1	coins --> object name --> [u'COinS']	0	EMPTY

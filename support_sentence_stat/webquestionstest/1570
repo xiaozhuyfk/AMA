@@ -1,104 +1,104 @@
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event event type --> [u'News event']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event locations --> [u'Ukrainian SSR', u'Chernobyl', u'Prypiat', u'Chernobyl Nuclear Power Plant']	37
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> disaster areas affected --> [u'Kiev Oblast']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> topic alias --> [u'1986 Chernobyl Nuclear Accident', u'1986 Chernobyl disaster', u'Chernobyl accident', u'Chernobyl catastrophe', u'Chernobyl catastrophy']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> object name --> [u'Chernobyl disaster']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event end date --> [u'1986-04-26']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> disaster type of disaster --> [u'Industrial disaster', u'Nuclear accident']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event start date --> [u'1986-04-26']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> power plant built in --> [u'1977']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> structure opened --> [u'1977']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> location events --> [u'Chernobyl disaster']	19
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> geocode longitude --> [u'30.0991']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> structure closed --> [u'2000']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> webpage category --> [u'Official Website']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> adjoining relationship adjoins --> [u'Prypiat']	2
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> object name --> [u'Chernobyl Nuclear Power Plant']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> topic image --> [u'View of Chernobyl taken from Pripyat zoomed']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> location containedby --> [u'Ukraine', u'Ivankiv Raion']	11
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> power plant closed in --> [u'2000']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> power plant fuel --> [u'Enriched uranium']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> topic official website --> [u'http://www.chnpp.gov.ua/']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> geocode latitude --> [u'51.3896']	0
-where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> webpage uri --> [u'http://www.chnpp.gov.ua/']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event event type --> [u'News event']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event locations --> [u'Ukrainian SSR', u'Chernobyl', u'Prypiat', u'Chernobyl Nuclear Power Plant']	37
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> disaster areas affected --> [u'Kiev Oblast']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> topic alias --> [u'1986 Chernobyl Nuclear Accident', u'1986 Chernobyl disaster', u'Chernobyl accident', u'Chernobyl catastrophe', u'Chernobyl catastrophy']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> object name --> [u'Chernobyl disaster']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event end date --> [u'1986-04-26']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> disaster type of disaster --> [u'Industrial disaster', u'Nuclear accident']	0
-where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event start date --> [u'1986-04-26']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rKBAfhNbtQdaZq8l__cWeXQ']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> exhibition subject exhibitions created about this subject --> [u'Nuclear Waste: can you handle it?']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> industry companies --> [u'Nuclear Management Partners', u'ENEL S.p.A.', u'Gen4 Energy', u'General Atomics', u'Atomic Energy of Canada Limited']	1
-where is the chernobyl nuclear power plant?	153	nuclear power --> webpage category --> [u'Tag']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> subject of protest protests about this --> [u'Critical Masses: Opposition to Nuclear Power in California, 1958-1978']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> object name --> [u'Nuclear power']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> topic image --> [u'Ikata Nuclear Powerplant', u'Nuclear Power Plant Cattenom', u'Nuclear Power Plant Cattenom a']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> character powers characters with this ability --> [u'Fido']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> book subject works --> [u'Nuclear Snow in Japanese Springtime An Editorial Poem-Commentary', u'Nuclear reactor engineering', u'Contesting the Future of Nuclear Power', u"Terrestrial Energy: How Nuclear Power Will Lead the Green Revolution and End America's Energy Odyssey"]	0
-where is the chernobyl nuclear power plant?	153	nuclear power plant --> object name --> [u'Nuclear power plant']	0
-where is the chernobyl nuclear power plant?	153	nuclear power plant --> topic image --> [u'Nuclear Power Plant 2']	0
-where is the chernobyl nuclear power plant?	153	nuclear power plant --> power plant type power station --> [u'Oldbury Nuclear Power Station', u'South Texas Nuclear Generating Station', u'Elk River', u'Duane Arnold Energy Center', u'Three Mile Island Nuclear Generating Station']	1
-where is the chernobyl nuclear power plant?	153	nuclear power --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rKBAfhNbtQdaZq8l__cWeXQ']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> exhibition subject exhibitions created about this subject --> [u'Nuclear Waste: can you handle it?']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> industry companies --> [u'Nuclear Management Partners', u'ENEL S.p.A.', u'Gen4 Energy', u'General Atomics', u'Atomic Energy of Canada Limited']	1
-where is the chernobyl nuclear power plant?	153	nuclear power --> webpage category --> [u'Tag']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> subject of protest protests about this --> [u'Critical Masses: Opposition to Nuclear Power in California, 1958-1978']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> object name --> [u'Nuclear power']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> topic image --> [u'Ikata Nuclear Powerplant', u'Nuclear Power Plant Cattenom', u'Nuclear Power Plant Cattenom a']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> character powers characters with this ability --> [u'Fido']	0
-where is the chernobyl nuclear power plant?	153	nuclear power --> book subject works --> [u'Nuclear Snow in Japanese Springtime An Editorial Poem-Commentary', u'Nuclear reactor engineering', u'Contesting the Future of Nuclear Power', u"Terrestrial Energy: How Nuclear Power Will Lead the Green Revolution and End America's Energy Odyssey"]	0
-where is the chernobyl nuclear power plant?	153	power station --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-where is the chernobyl nuclear power plant?	153	power station --> taxonomy entry low --> [u'1001']	0
-where is the chernobyl nuclear power plant?	153	power station --> equivalent topic equivalent type --> [u'Power station']	0
-where is the chernobyl nuclear power plant?	153	power station --> topic image --> [u'Oil power plant in Iraq', u'Susquehanna steam electric station']	0
-where is the chernobyl nuclear power plant?	153	power station --> object name --> [u'Power station']	0
-where is the chernobyl nuclear power plant?	153	power station --> taxonomy entry high --> [u'1841']	0
-where is the chernobyl nuclear power plant?	153	power station --> linguistic hint subject form --> [u'Power stations']	0
-where is the chernobyl nuclear power plant?	153	power station --> taxonomy entry prefix --> [u'TK']	0
-where is the chernobyl nuclear power plant?	153	aircraft engine --> object name --> [u'Aircraft engine']	0
-where is the chernobyl nuclear power plant?	153	aircraft engine --> topic image --> [u'YorkMerlin', u'WankelPP', u'Wright Vertical Four-Cylinder Engine']	0
-where is the chernobyl nuclear power plant?	153	plant --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where is the chernobyl nuclear power plant?	153	plant --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-where is the chernobyl nuclear power plant?	153	plant --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjG4ZwpEbGdrcN5Y29ycA']	0
-where is the chernobyl nuclear power plant?	153	plant --> organism classification scientific name --> [u'Plantae']	0
-where is the chernobyl nuclear power plant?	153	plant --> organism classification higher classification --> [u'Eukaryote']	1
-where is the chernobyl nuclear power plant?	153	plant --> collection collector --> [u'Joseph Dalton Hooker', u'Robert Fortune', u'Hendrik van Rijgersma', u'Paul Sintenis', u'Charles Maries']	0
-where is the chernobyl nuclear power plant?	153	plant --> topic alias --> [u'Plantae', u'green plants']	0
-where is the chernobyl nuclear power plant?	153	plant --> collection category name of collection activity --> [u'Plant collecting']	0
-where is the chernobyl nuclear power plant?	153	plant --> webpage category --> [u'Tag']	0
-where is the chernobyl nuclear power plant?	153	plant --> database topic database s for this topic --> [u'PlantFiles']	0
-where is the chernobyl nuclear power plant?	153	plant --> object name --> [u'Plant']	0
-where is the chernobyl nuclear power plant?	153	plant --> topic image --> [u'Diversity of plants image version 3']	0
-where is the chernobyl nuclear power plant?	153	plant --> organism classification rank --> [u'Kingdom']	7
-where is the chernobyl nuclear power plant?	153	plant --> vocabulary equivalent topic equivalent concept --> [u'Plants', u'Plants']	0
-where is the chernobyl nuclear power plant?	153	plant --> topic subject of --> [u'Aquatic plant', u'Botany', u'Fascination of Plants Day 2012']	1
-where is the chernobyl nuclear power plant?	153	plant --> organism classification lower classifications --> [u'Embryophyte', u'Moss', u'Angiospermae', u'Phaeophyta', u'Pinophyta']	1
-where is the chernobyl nuclear power plant?	153	plant --> mtg creature type creatures of this type --> [u'Sprouting Phytohydra']	0
-where is the chernobyl nuclear power plant?	153	plant --> taxonomy entry prefix --> [u'SB']	0
-where is the chernobyl nuclear power plant?	153	plant --> book subject works --> [u"The Botany of Desire: A Plant's-Eye View of the World", u'Vizcaya: An American Villa and Its Makers', u'Marijuana Botany', u'The true tale of Johnny Appleseed', u'Second Nature']	0
-where is the chernobyl nuclear power plant?	153	power --> object name --> [u'Power']	0
-where is the chernobyl nuclear power plant?	153	power --> topic image --> [u'Faraday disk generator']	0
-where is the chernobyl nuclear power plant?	153	power --> dimension units --> [u'Milliwatt', u'Megawatt', u'Watt', u'Kilowatt', u'Solar luminosity']	3
-where is the chernobyl nuclear power plant?	153	power --> dimension si base unit --> [u'Watt']	3
-where is the chernobyl nuclear power plant?	153	power --> periodical subject periodicals --> [u'Journal of Power']	0
-where is the chernobyl nuclear power plant?	153	power --> object name --> [u'Power']	0
-where is the chernobyl nuclear power plant?	153	power --> topic image --> [u'Tony Blair och George W. Bush, tv\xe5 regeringschefer med verkst\xe4llande makt.']	0
-where is the chernobyl nuclear power plant?	153	power --> book subject works --> [u'The Carnelian Throne', u'The Golden Sword', u'Beyond the Veil', u'High Couch of Silistra', u'Power Play']	0
-where is the chernobyl nuclear power plant?	153	power --> film subject films --> [u'There Will Be Blood']	0
-where is the chernobyl nuclear power plant?	153	power --> meeting focus focus of --> [u'AG Zionismusforschung Workshop /4']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> location people born here --> [u'Grigory Novak', u'Alexander Krasnoshchyokov', u'Ilja Saz', u'Aaron Twerski of Chernobyl', u'Arnold Lakhovsky']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> location events --> [u'Chernobyl disaster']	11
-where is the chernobyl nuclear power plant?	153	chernobyl --> geocode longitude --> [u'30.2167']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> topic alias --> [u'Chornobyl']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> dated location date founded --> [u'1193']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> object name --> [u'Chernobyl']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> topic image --> [u'ChernobylMIR']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> dated integer number --> [u'500']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> location containedby --> [u'Ukraine', u'Kiev Oblast', u'Chernobyl Exclusion Zone', u'Ivankiv Raion']	17
-where is the chernobyl nuclear power plant?	153	chernobyl --> dated integer year --> [u'2010']	0
-where is the chernobyl nuclear power plant?	153	chernobyl --> geocode latitude --> [u'51.2667']	0
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event event type --> [u'News event']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event locations --> [u'Ukrainian SSR', u'Chernobyl', u'Prypiat', u'Chernobyl Nuclear Power Plant']	37	She was born in [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]] and was just ten years old when the [[Chernobyl disaster]] took place.
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> disaster areas affected --> [u'Kiev Oblast']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> topic alias --> [u'1986 Chernobyl Nuclear Accident', u'1986 Chernobyl disaster', u'Chernobyl accident', u'Chernobyl catastrophe', u'Chernobyl catastrophy']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> object name --> [u'Chernobyl disaster']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event end date --> [u'1986-04-26']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> disaster type of disaster --> [u'Industrial disaster', u'Nuclear accident']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event start date --> [u'1986-04-26']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> power plant built in --> [u'1977']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> structure opened --> [u'1977']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> location events --> [u'Chernobyl disaster']	19	*[[1986]] &ndash; A nuclear reactor accident occurs at the [[Chernobyl Nuclear Power Plant]] in the [[Soviet Union]] (now [[Ukraine]]), creating the world's worst [[Chernobyl disaster|nuclear disaster]].
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> geocode longitude --> [u'30.0991']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> structure closed --> [u'2000']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> webpage category --> [u'Official Website']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> adjoining relationship adjoins --> [u'Prypiat']	2	* [[April 26]] &ndash; [[Chernobyl disaster]]: A mishandled safety test at the [[Chernobyl Nuclear Power Plant]] in [[Pripyat]], [[Ukrainian SSR]], [[Soviet Union]] "killed at least 4,056 people and damaged almost $7 billion of property".
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> object name --> [u'Chernobyl Nuclear Power Plant']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> topic image --> [u'View of Chernobyl taken from Pripyat zoomed']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> location containedby --> [u'Ukraine', u'Ivankiv Raion']	11	*[[1986]] &ndash; A nuclear reactor accident occurs at the [[Chernobyl Nuclear Power Plant]] in the [[Soviet Union]] (now [[Ukraine]]), creating the world's worst [[Chernobyl disaster|nuclear disaster]].
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> power plant closed in --> [u'2000']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> power plant fuel --> [u'Enriched uranium']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> topic official website --> [u'http://www.chnpp.gov.ua/']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> geocode latitude --> [u'51.3896']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl nuclear power plant --> webpage uri --> [u'http://www.chnpp.gov.ua/']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event event type --> [u'News event']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event locations --> [u'Ukrainian SSR', u'Chernobyl', u'Prypiat', u'Chernobyl Nuclear Power Plant']	37	She was born in [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]] and was just ten years old when the [[Chernobyl disaster]] took place.
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> disaster areas affected --> [u'Kiev Oblast']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> topic alias --> [u'1986 Chernobyl Nuclear Accident', u'1986 Chernobyl disaster', u'Chernobyl accident', u'Chernobyl catastrophe', u'Chernobyl catastrophy']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> object name --> [u'Chernobyl disaster']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event end date --> [u'1986-04-26']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> disaster type of disaster --> [u'Industrial disaster', u'Nuclear accident']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl disaster --> event start date --> [u'1986-04-26']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rKBAfhNbtQdaZq8l__cWeXQ']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> exhibition subject exhibitions created about this subject --> [u'Nuclear Waste: can you handle it?']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> industry companies --> [u'Nuclear Management Partners', u'ENEL S.p.A.', u'Gen4 Energy', u'General Atomics', u'Atomic Energy of Canada Limited']	1	In the meantime, [[Ontario Hydro]], [[Canadian General Electric]] and [[Atomic Energy of Canada Limited]] began working on an experimental [[Nuclear power|nuclear power plant]], the [[Nuclear Power Demonstration]], in [[Laurentian Hills, Ontario|Rolphton, Ontario]], not far from Chalk River.
+where is the chernobyl nuclear power plant?	153	nuclear power --> webpage category --> [u'Tag']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> subject of protest protests about this --> [u'Critical Masses: Opposition to Nuclear Power in California, 1958-1978']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> object name --> [u'Nuclear power']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> topic image --> [u'Ikata Nuclear Powerplant', u'Nuclear Power Plant Cattenom', u'Nuclear Power Plant Cattenom a']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> character powers characters with this ability --> [u'Fido']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> book subject works --> [u'Nuclear Snow in Japanese Springtime An Editorial Poem-Commentary', u'Nuclear reactor engineering', u'Contesting the Future of Nuclear Power', u"Terrestrial Energy: How Nuclear Power Will Lead the Green Revolution and End America's Energy Odyssey"]	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power plant --> object name --> [u'Nuclear power plant']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power plant --> topic image --> [u'Nuclear Power Plant 2']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power plant --> power plant type power station --> [u'Oldbury Nuclear Power Station', u'South Texas Nuclear Generating Station', u'Elk River', u'Duane Arnold Energy Center', u'Three Mile Island Nuclear Generating Station']	1	[[Freight train]]s serving the [[Berkeley nuclear power station|Berkeley]] and [[Oldbury Nuclear Power Station|Oldbury]] [[Nuclear power plant|nuclear power stations]] will continue to be operated by [[Direct Rail Services]].
+where is the chernobyl nuclear power plant?	153	nuclear power --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rKBAfhNbtQdaZq8l__cWeXQ']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> exhibition subject exhibitions created about this subject --> [u'Nuclear Waste: can you handle it?']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> industry companies --> [u'Nuclear Management Partners', u'ENEL S.p.A.', u'Gen4 Energy', u'General Atomics', u'Atomic Energy of Canada Limited']	1	In the meantime, [[Ontario Hydro]], [[Canadian General Electric]] and [[Atomic Energy of Canada Limited]] began working on an experimental [[Nuclear power|nuclear power plant]], the [[Nuclear Power Demonstration]], in [[Laurentian Hills, Ontario|Rolphton, Ontario]], not far from Chalk River.
+where is the chernobyl nuclear power plant?	153	nuclear power --> webpage category --> [u'Tag']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> subject of protest protests about this --> [u'Critical Masses: Opposition to Nuclear Power in California, 1958-1978']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> object name --> [u'Nuclear power']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> topic image --> [u'Ikata Nuclear Powerplant', u'Nuclear Power Plant Cattenom', u'Nuclear Power Plant Cattenom a']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> character powers characters with this ability --> [u'Fido']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	nuclear power --> book subject works --> [u'Nuclear Snow in Japanese Springtime An Editorial Poem-Commentary', u'Nuclear reactor engineering', u'Contesting the Future of Nuclear Power', u"Terrestrial Energy: How Nuclear Power Will Lead the Green Revolution and End America's Energy Odyssey"]	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power station --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power station --> taxonomy entry low --> [u'1001']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power station --> equivalent topic equivalent type --> [u'Power station']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power station --> topic image --> [u'Oil power plant in Iraq', u'Susquehanna steam electric station']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power station --> object name --> [u'Power station']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power station --> taxonomy entry high --> [u'1841']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power station --> linguistic hint subject form --> [u'Power stations']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power station --> taxonomy entry prefix --> [u'TK']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	aircraft engine --> object name --> [u'Aircraft engine']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	aircraft engine --> topic image --> [u'YorkMerlin', u'WankelPP', u'Wright Vertical Four-Cylinder Engine']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjG4ZwpEbGdrcN5Y29ycA']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> organism classification scientific name --> [u'Plantae']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> organism classification higher classification --> [u'Eukaryote']	1	| [[Protista]] || [[Animal]]ia, [[Plant]]ae, and [[Fungi]] || [[Eukaryote|Eukaryota]]
+where is the chernobyl nuclear power plant?	153	plant --> collection collector --> [u'Joseph Dalton Hooker', u'Robert Fortune', u'Hendrik van Rijgersma', u'Paul Sintenis', u'Charles Maries']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> topic alias --> [u'Plantae', u'green plants']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> collection category name of collection activity --> [u'Plant collecting']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> webpage category --> [u'Tag']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> database topic database s for this topic --> [u'PlantFiles']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> object name --> [u'Plant']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> topic image --> [u'Diversity of plants image version 3']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> organism classification rank --> [u'Kingdom']	7	==[[Kingdom (biology)|Kingdom]] [[Plant]]ae==
+where is the chernobyl nuclear power plant?	153	plant --> vocabulary equivalent topic equivalent concept --> [u'Plants', u'Plants']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> topic subject of --> [u'Aquatic plant', u'Botany', u'Fascination of Plants Day 2012']	1	#[[Plant]] or [[Botany]]
+where is the chernobyl nuclear power plant?	153	plant --> organism classification lower classifications --> [u'Embryophyte', u'Moss', u'Angiospermae', u'Phaeophyta', u'Pinophyta']	1	[[Dilson Torres]] > [[Major League Baseball]] > [[Baseball]] > [[Bat-and-ball games]] > [[Playing field]] > [[Grass]] > [[Monocotyledon]] > [[Flowering plant]] > [[Embryophyte]] > [[Plant]] > [[Life]] > [[Physical body]] > [[Physics]] > [[Natural science]] > [[Knowledge]] > [[Philosophy]]
+where is the chernobyl nuclear power plant?	153	plant --> mtg creature type creatures of this type --> [u'Sprouting Phytohydra']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> taxonomy entry prefix --> [u'SB']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	plant --> book subject works --> [u"The Botany of Desire: A Plant's-Eye View of the World", u'Vizcaya: An American Villa and Its Makers', u'Marijuana Botany', u'The true tale of Johnny Appleseed', u'Second Nature']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power --> object name --> [u'Power']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power --> topic image --> [u'Faraday disk generator']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power --> dimension units --> [u'Milliwatt', u'Megawatt', u'Watt', u'Kilowatt', u'Solar luminosity']	3	*[[Sound|Audio]] Power [[Power (physics)|Output]]: 2[[Watt|W]]
+where is the chernobyl nuclear power plant?	153	power --> dimension si base unit --> [u'Watt']	3	*[[Sound|Audio]] Power [[Power (physics)|Output]]: 2[[Watt|W]]
+where is the chernobyl nuclear power plant?	153	power --> periodical subject periodicals --> [u'Journal of Power']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power --> object name --> [u'Power']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power --> topic image --> [u'Tony Blair och George W. Bush, tv\xe5 regeringschefer med verkst\xe4llande makt.']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power --> book subject works --> [u'The Carnelian Throne', u'The Golden Sword', u'Beyond the Veil', u'High Couch of Silistra', u'Power Play']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power --> film subject films --> [u'There Will Be Blood']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	power --> meeting focus focus of --> [u'AG Zionismusforschung Workshop /4']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> location people born here --> [u'Grigory Novak', u'Alexander Krasnoshchyokov', u'Ilja Saz', u'Aaron Twerski of Chernobyl', u'Arnold Lakhovsky']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> location events --> [u'Chernobyl disaster']	11	*[[1986]] &ndash; [[Chernobyl disaster]]: The City of [[Chernobyl]] is evacuated six days after the disaster
+where is the chernobyl nuclear power plant?	153	chernobyl --> geocode longitude --> [u'30.2167']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> topic alias --> [u'Chornobyl']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> dated location date founded --> [u'1193']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> object name --> [u'Chernobyl']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> topic image --> [u'ChernobylMIR']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> dated integer number --> [u'500']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> location containedby --> [u'Ukraine', u'Kiev Oblast', u'Chernobyl Exclusion Zone', u'Ivankiv Raion']	17	|[[Chernobyl]], [[Ukraine]]
+where is the chernobyl nuclear power plant?	153	chernobyl --> dated integer year --> [u'2010']	0	EMPTY
+where is the chernobyl nuclear power plant?	153	chernobyl --> geocode latitude --> [u'51.2667']	0	EMPTY

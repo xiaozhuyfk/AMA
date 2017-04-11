@@ -1,271 +1,271 @@
-which is the main train station in rome?	11756	gdańsk główny railway station --> dbpedia import geocode checked --> [u'2010-07-25']	0
-which is the main train station in rome?	11756	gdańsk główny railway station --> location containedby --> [u'Poland']	0
-which is the main train station in rome?	11756	gdańsk główny railway station --> object name --> [u'Gda\u0144sk G\u0142\xf3wny railway station']	0
-which is the main train station in rome?	11756	gdańsk główny railway station --> topic image --> [u'Gdanskglowny', u'Gdansk-dworzecPKP']	0
-which is the main train station in rome?	11756	gdańsk główny railway station --> geocode longitude --> [u'18.6333333333']	0
-which is the main train station in rome?	11756	gdańsk główny railway station --> geocode latitude --> [u'54.35']	0
-which is the main train station in rome?	11756	hamburg central station --> transit stop transit lines --> [u'S2', u'S3', u'Hamburg U-Bahn Line U1', u'S1', u'S11']	0
-which is the main train station in rome?	11756	hamburg central station --> transportation travel destination --> [u'Hamburg']	5
-which is the main train station in rome?	11756	hamburg central station --> transportation transport terminus --> [u'Hamburg Dammtor Railway Station', u'Hamburg-Harburg Railway Station', u'Hamburg Bergedorf Railway Station', u'Hamburg-Altona station']	22
-which is the main train station in rome?	11756	hamburg central station --> location containedby --> [u'Germany', u'Hamburg']	5
-which is the main train station in rome?	11756	hamburg central station --> transportation transport operator --> [u'Intercity-Express']	4
-which is the main train station in rome?	11756	hamburg central station --> object name --> [u'Hamburg Central Station']	0
-which is the main train station in rome?	11756	hamburg central station --> topic image --> [u'Hamburg Main Station - One of the clocktowers', u'Aerial view of the station hall', u'Inside the station hall']	0
-which is the main train station in rome?	11756	hamburg central station --> transportation mode of transportation --> [u'Train']	0
-which is the main train station in rome?	11756	hamburg central station --> geocode latitude --> [u'53.5528']	0
-which is the main train station in rome?	11756	hamburg central station --> geocode longitude --> [u'10.0064']	0
-which is the main train station in rome?	11756	train station --> transportation travel destination --> [u'Kalabaka']	0
-which is the main train station in rome?	11756	train station --> transportation transport operator --> [u'TrainOSE']	0
-which is the main train station in rome?	11756	train station --> film subject films --> [u'The Lonedale Operator']	0
-which is the main train station in rome?	11756	train station --> building function buildings --> [u'Flinders Street Station', u'Bath Spa railway station', u'Central Vermont Railway Depot', u'Terminal Tower', u'Moskovsky Rail Terminal']	0
-which is the main train station in rome?	11756	train station --> object name --> [u'Train station']	0
-which is the main train station in rome?	11756	train station --> topic image --> [u'noframe', u"A London Underground train departs from Earl's Court tube station.", u'Grand central Station Outside Night 2']	0
-which is the main train station in rome?	11756	train station --> transportation mode of transportation --> [u'Train']	0
-which is the main train station in rome?	11756	train station --> linguistic hint subject form --> [u'Train stations']	0
-which is the main train station in rome?	11756	rome --> namesake named after --> [u'Romulus and Remus']	20
-which is the main train station in rome?	11756	rome --> helynevek intezmeny --> [u'Santa Maria sopra Minerva', u'Vatican Library']	33
-which is the main train station in rome?	11756	rome --> place of interment interred here --> [u'Galba', u'Simon de Cr\xe9py', u'Marcello Mastroianni', u'Ennio Flaiano', u'C\xe6dwalla of Wessex']	2
-which is the main train station in rome?	11756	rome --> transportation transport operator --> [u'Grimaldi Lines', u'Moby', u'ATAC SpA']	0
-which is the main train station in rome?	11756	rome --> bibs location loc type --> [u'City']	0
-which is the main train station in rome?	11756	rome --> travel destination monthly climate average max temp c --> [u'13', u'14', u'16', u'18', u'19']	0
-which is the main train station in rome?	11756	rome --> location events --> [u'1960 Summer Olympics', u'Siege of Rome', u"1991 Women's European Volleyball Championship", u'Left Bank Holiday (2009)', u"1999 Women's European Volleyball Championship"]	301
-which is the main train station in rome?	11756	rome --> olympic host city olympics hosted --> [u'1960 Summer Olympics']	301
-which is the main train station in rome?	11756	rome --> location contains --> [u'Maria SS. Assunta University of Rome', u'Hotel Eden, Rome', u'Largo di Torre Argentina', u'Catacombs of Rome', u'Pontifical Gregorian University']	131
-which is the main train station in rome?	11756	rome --> topic alias --> [u'Roma', u'Rome, Italy', u'Caput Mundi', u'The eternal City', u'the City of seven hills']	0
-which is the main train station in rome?	11756	rome --> webpage uri --> [u'http://www.comune.roma.it', u'http://wikitravel.org/en/Rome', u'http://www.streamdays.com/camera/view/roman_forum_italy']	0
-which is the main train station in rome?	11756	rome --> topic image --> [u'Rome', u'Rome', u'Rome', u'Rome']	0
-which is the main train station in rome?	11756	rome --> adjoining relationship adjoins --> [u'Tivoli', u'Pomezia']	5
-which is the main train station in rome?	11756	rome --> taxonomy entry high --> [u'817.3']	0
-which is the main train station in rome?	11756	rome --> italian city cod istat --> [u'58091']	0
-which is the main train station in rome?	11756	rome --> cityscape parks --> [u"Villa d'Este", u'Pineto Regional Park', u'Villa Ada', u'Villa Borghese gardens']	7
-which is the main train station in rome?	11756	rome --> location area --> [u'1285.31']	0
-which is the main train station in rome?	11756	rome --> olympic medal honor olympics --> [u'1960 Summer Olympics']	301
-which is the main train station in rome?	11756	rome --> daylife hero image id --> [u'05f29B8fcobOH']	0
-which is the main train station in rome?	11756	rome --> government position held office holder --> [u'Flavius Afranius Syagrius']	0
-which is the main train station in rome?	11756	rome --> base equivalent location base --> [u'Rome']	0
-which is the main train station in rome?	11756	rome --> location people born here --> [u'Rino Di Silvestro', u'Stefano Napoleoni', u'Alessandro Florenzi', u'Alessio Sakara', u'Constantin Hansen']	0
-which is the main train station in rome?	11756	rome --> italian city cod provincia --> [u'RM']	0
-which is the main train station in rome?	11756	rome --> olympic medal honor medalist --> [u'P\xe9ter Rusor\xe1n']	0
-which is the main train station in rome?	11756	rome --> travel destination monthly climate average min temp c --> [u'3', u'4', u'5', u'7', u'8']	0
-which is the main train station in rome?	11756	rome --> transportation mode of transportation --> [u'Train', u'Air travel', u'Ferry']	0
-which is the main train station in rome?	11756	rome --> travel destination local transportation --> [u'Metropolitana di Roma', u'ATAC SpA']	2
-which is the main train station in rome?	11756	rome --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag']	0
-which is the main train station in rome?	11756	rome --> taxonomy entry prefix --> [u'DG']	0
-which is the main train station in rome?	11756	rome --> imports exports by industry industry --> [u'Tourism']	1
-which is the main train station in rome?	11756	rome --> transportation transport terminus --> [u'Civitavecchia Ferry Terminal', u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Roma Termini railway station']	3
-which is the main train station in rome?	11756	rome --> vacation choice vacationer --> [u'David Beckham', u'Lindsay Lohan', u'Teri Hatcher', u'Tom Brady', u'Julia Roberts']	0
-which is the main train station in rome?	11756	rome --> travel destination tourist attractions --> [u'Catacombs of Rome', u'Raphael Rooms', u'San Nicola in Carcere', u'Quirinal Palace', u'Fontana delle Naiadi']	20
-which is the main train station in rome?	11756	rome --> location time zones --> [u'Central European Time']	3
-which is the main train station in rome?	11756	rome --> topic official website --> [u'http://www.comune.roma.it/']	0
-which is the main train station in rome?	11756	rome --> webpage description --> [u'Visitor Information', u'Rome information', u'Rome Live Webcam']	0
-which is the main train station in rome?	11756	rome --> geocode longitude --> [u'12.5']	0
-which is the main train station in rome?	11756	rome --> time zone locations in this time zone --> [u'Historical Residence Hotel I Pini']	0
-which is the main train station in rome?	11756	rome --> film location featured in films --> [u'Candy Viola', u'The Taming of the Shrew', u'The Last Emperor', u"The Emperor's New Clothes", u'Little Girl']	0
-which is the main train station in rome?	11756	rome --> cityscape theatres --> [u"Teatro dell'Opera di Roma", u'Teatro Argentina, Rome', u'Auditorium Parco della Musica']	26
-which is the main train station in rome?	11756	rome --> olympic city bid olympic games --> [u'2004 Summer Olympics']	0
-which is the main train station in rome?	11756	rome --> webpage resource --> [u"'The Celebrity Apprentice' recap: Snoozers and Losers", u"Channing Tatum talks about his burnt penis, wanting to do stripper movie: Now, I'm a fan", u'Disney Studios hires new production chief: Sean Bailey', u'Rome information', u'Peter Sarsgaard, Maggie Gyllenhaal tie the knot']	0
-which is the main train station in rome?	11756	rome --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0
-which is the main train station in rome?	11756	rome --> newspaper circulation area newspapers --> [u'Tuttosport', u"l'Unit\xe0", u'Liberazione', u'il manifesto', u'Il Riformista']	0
-which is the main train station in rome?	11756	rome --> provenienciaadat mutargy --> [u'Cristo della Minerva']	0
-which is the main train station in rome?	11756	rome --> cityscape museums --> [u'National Etruscan Museum', u'National Museum of Oriental Art', u'Capitoline Museums', u'Galleria Borghese', u'National Museum of Musical Instruments']	48
-which is the main train station in rome?	11756	rome --> location containedby --> [u'Italy', u'Lazio', u'Province of Rome']	2187
-which is the main train station in rome?	11756	rome --> travel destination monthly climate average rainfall mm --> [u'17', u'27', u'36', u'53', u'56']	0
-which is the main train station in rome?	11756	rome --> fictional setting fictional characters born here --> [u'Marius de Romanus']	0
-which is the main train station in rome?	11756	rome --> top architectural city structure count --> [u'15']	0
-which is the main train station in rome?	11756	rome --> bibs location country --> [u'Italy']	2105
-which is the main train station in rome?	11756	rome --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-which is the main train station in rome?	11756	rome --> valuenotation has no value --> [u'Date dissolved']	0
-which is the main train station in rome?	11756	rome --> helynevek helynev --> [u'R\xf3ma']	0
-which is the main train station in rome?	11756	rome --> provenienciaadat intezmeny --> [u'Santa Maria sopra Minerva']	17
-which is the main train station in rome?	11756	rome --> geocode latitude --> [u'41.9']	0
-which is the main train station in rome?	11756	rome --> cityscape universities --> [u'Venerable English College, Rome', u'French Academy in Rome', u'American Academy in Rome', u'British School at Rome']	16
-which is the main train station in rome?	11756	rome --> administrative division capital relationship administrative division --> [u'Lazio', u'Province of Rome']	237
-which is the main train station in rome?	11756	rome --> government position held office position or title --> [u'Praefectus Urbis Romae']	0
-which is the main train station in rome?	11756	rome --> topic subject of --> [u'Transport in Rome']	0
-which is the main train station in rome?	11756	rome --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-which is the main train station in rome?	11756	rome --> ontology instance mapping ontology --> [u'OpenCyc']	0
-which is the main train station in rome?	11756	rome --> taxonomy entry low --> [u'803']	0
-which is the main train station in rome?	11756	rome --> topic topical webpage --> [u'http://wikitravel.org/en/Rome', u'http://www.streamdays.com/camera/view/roman_forum_italy']	0
-which is the main train station in rome?	11756	rome --> provenienciaadat aktualis --> [u'1']	0
-which is the main train station in rome?	11756	rome --> bibs location is clear --> [u'1']	0
-which is the main train station in rome?	11756	rome --> olympic medal honor medal --> [u'Gold medal']	1
-which is the main train station in rome?	11756	rome --> sports team location teams --> [u'Pallacanestro Virtus Roma', u'A.S. Roma', u'S.S. Lazio', u'M. Roma Volley']	46
-which is the main train station in rome?	11756	rome --> olympic medal honor event --> [u'Water polo']	0
-which is the main train station in rome?	11756	rome --> dated location date founded --> [u'-0752-04-21']	0
-which is the main train station in rome?	11756	rome --> object name --> [u'Rome']	0
-which is the main train station in rome?	11756	rome --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjpOJwpEbGdrcN5Y29ycA']	0
-which is the main train station in rome?	11756	rome --> cityscape stadiums --> [u'Stadio Flaminio']	19
-which is the main train station in rome?	11756	rome --> government position held from --> [u'0381']	0
-which is the main train station in rome?	11756	rome --> film subject films --> [u'Gladiator']	0
-which is the main train station in rome?	11756	rome --> dated integer number --> [u'17000', u'194500', u'212432', u'273952', u'422411']	0
-which is the main train station in rome?	11756	rome --> dated integer year --> [u'1881', u'1901', u'1911', u'1921', u'1931']	0
-which is the main train station in rome?	11756	rome --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	1
-which is the main train station in rome?	11756	rome --> book subject works --> [u'A Struggle for Rome', u'Antony and Cleopatra', u'Empire of pleasures', u'The Last King', u'Darkling I listen']	0
-which is the main train station in rome?	11756	rome --> location nearby airports --> [u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Italian Met Office Airport', u'Urbe Airport', u'Rome Viterbo Airport']	2
-which is the main train station in rome?	11756	saint laurent boulevard --> object name --> [u'Saint Laurent Boulevard']	0
-which is the main train station in rome?	11756	saint laurent boulevard --> topic image --> [u'Schwartz (Montreal) 2006-07-12']	0
-which is the main train station in rome?	11756	saint laurent boulevard --> topic alias --> [u'St. Lawrence Boulevard']	0
-which is the main train station in rome?	11756	saint laurent boulevard --> road major cities --> [u'Montreal']	2
-which is the main train station in rome?	11756	saint laurent boulevard --> location containedby --> [u'Canada']	1
-which is the main train station in rome?	11756	sovereign military order of malta --> topic alias --> [u'Knights of Malta', u'Knights Hospitaller', u'Order of Hospitallers', u'Sovereign Military Hospitaller Order of Saint John of Jerusalem of Rhodes and of Malta']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> force strength maximum force size --> [u'8000']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> religious organization leadership end date --> [u'1799', u'1317', u'1268', u'1319']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> casualties lower estimate --> [u'2500', u'7500']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> casualties military conflict --> [u'Siege of Malta']	1
-which is the main train station in rome?	11756	sovereign military order of malta --> military command military conflict --> [u'Siege of Malta']	1
-which is the main train station in rome?	11756	sovereign military order of malta --> religious order monasteries --> [u'Clerkenwell Priory']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> webpage category --> [u'Official Website']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> military combatant group conflict --> [u'Ottoman\u2013Venetian War', u'Battle of Arsuf', u'Battle of Matapan', u'Battle of Lepanto', u'Battle of Hattin']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> topic official website --> [u'http://www.newadvent.org/cathen/07477a.htm']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> order of chivalry category --> [u'Military order']	1
-which is the main train station in rome?	11756	sovereign military order of malta --> military command military commander --> [u'Jean Parisot de Valette', u'Mathurin Romegas']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> webpage uri --> [u'http://www.newadvent.org/cathen/07477a.htm']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> religious organization leadership leader --> [u'Hugh de Revel', u'Ferdinand von Hompesch zu Bolheim', u'Maurice de Pagnac', u'H\xe9lion de Villeneuve', u'Foulques de Villaret']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> casualties type of casualties --> [u'Military - Dead', u'Civilian - Dead']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> religious organization leadership role --> [u'Grand Master']	7
-which is the main train station in rome?	11756	sovereign military order of malta --> religious organization leadership start date --> [u'1317', u'1301', u'1319', u'1262']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> force strength force size --> [u'6100']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> object name --> [u'Sovereign Military Order of Malta']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> topic image --> [u'SiegeOfAcre1291']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> chivalric order membership from --> [u'1972', u'1990']	0
-which is the main train station in rome?	11756	sovereign military order of malta --> force strength military conflict --> [u'Siege of Malta']	1
-which is the main train station in rome?	11756	sovereign military order of malta --> chivalric order membership recipient --> [u'Andrew Bertie', u'Angelo Sodano', u'Prince Pedro, Duke of Noto', u'Abdul Halim of Kedah', u'Azlan Shah of Perak']	3
-which is the main train station in rome?	11756	the main --> book genre --> [u'Fiction', u'Mystery', u'Suspense']	0
-which is the main train station in rome?	11756	the main --> written work subjects --> [u'Police', u'Mystery', u'Suspense', u'Police procedural']	0
-which is the main train station in rome?	11756	the main --> award nomination award --> [u'Edgar Award for Best Novel']	0
-which is the main train station in rome?	11756	the main --> written work author --> [u'Trevanian']	0
-which is the main train station in rome?	11756	the main --> award nomination year --> [u'1977']	0
-which is the main train station in rome?	11756	the main --> award nomination award nominee --> [u'Trevanian']	0
-which is the main train station in rome?	11756	the main --> object name --> [u'The Main']	0
-which is the main train station in rome?	11756	the main --> book editions --> [u'The Main', u'Main', u'Main', u'The Main', u'The main']	0
-which is the main train station in rome?	11756	rome --> namesake named after --> [u'Romulus and Remus']	20
-which is the main train station in rome?	11756	rome --> helynevek intezmeny --> [u'Santa Maria sopra Minerva', u'Vatican Library']	33
-which is the main train station in rome?	11756	rome --> place of interment interred here --> [u'Galba', u'Simon de Cr\xe9py', u'Marcello Mastroianni', u'Ennio Flaiano', u'C\xe6dwalla of Wessex']	2
-which is the main train station in rome?	11756	rome --> transportation transport operator --> [u'Grimaldi Lines', u'Moby', u'ATAC SpA']	0
-which is the main train station in rome?	11756	rome --> bibs location loc type --> [u'City']	0
-which is the main train station in rome?	11756	rome --> travel destination monthly climate average max temp c --> [u'13', u'14', u'16', u'18', u'19']	0
-which is the main train station in rome?	11756	rome --> location events --> [u'1960 Summer Olympics', u'Siege of Rome', u"1991 Women's European Volleyball Championship", u'Left Bank Holiday (2009)', u"1999 Women's European Volleyball Championship"]	301
-which is the main train station in rome?	11756	rome --> olympic host city olympics hosted --> [u'1960 Summer Olympics']	301
-which is the main train station in rome?	11756	rome --> location contains --> [u'Maria SS. Assunta University of Rome', u'Hotel Eden, Rome', u'Largo di Torre Argentina', u'Catacombs of Rome', u'Pontifical Gregorian University']	131
-which is the main train station in rome?	11756	rome --> topic alias --> [u'Roma', u'Rome, Italy', u'Caput Mundi', u'The eternal City', u'the City of seven hills']	0
-which is the main train station in rome?	11756	rome --> webpage uri --> [u'http://www.comune.roma.it', u'http://wikitravel.org/en/Rome', u'http://www.streamdays.com/camera/view/roman_forum_italy']	0
-which is the main train station in rome?	11756	rome --> topic image --> [u'Rome', u'Rome', u'Rome', u'Rome']	0
-which is the main train station in rome?	11756	rome --> adjoining relationship adjoins --> [u'Tivoli', u'Pomezia']	5
-which is the main train station in rome?	11756	rome --> taxonomy entry high --> [u'817.3']	0
-which is the main train station in rome?	11756	rome --> italian city cod istat --> [u'58091']	0
-which is the main train station in rome?	11756	rome --> cityscape parks --> [u"Villa d'Este", u'Pineto Regional Park', u'Villa Ada', u'Villa Borghese gardens']	7
-which is the main train station in rome?	11756	rome --> location area --> [u'1285.31']	0
-which is the main train station in rome?	11756	rome --> olympic medal honor olympics --> [u'1960 Summer Olympics']	301
-which is the main train station in rome?	11756	rome --> daylife hero image id --> [u'05f29B8fcobOH']	0
-which is the main train station in rome?	11756	rome --> government position held office holder --> [u'Flavius Afranius Syagrius']	0
-which is the main train station in rome?	11756	rome --> base equivalent location base --> [u'Rome']	0
-which is the main train station in rome?	11756	rome --> location people born here --> [u'Rino Di Silvestro', u'Stefano Napoleoni', u'Alessandro Florenzi', u'Alessio Sakara', u'Constantin Hansen']	0
-which is the main train station in rome?	11756	rome --> italian city cod provincia --> [u'RM']	0
-which is the main train station in rome?	11756	rome --> olympic medal honor medalist --> [u'P\xe9ter Rusor\xe1n']	0
-which is the main train station in rome?	11756	rome --> travel destination monthly climate average min temp c --> [u'3', u'4', u'5', u'7', u'8']	0
-which is the main train station in rome?	11756	rome --> transportation mode of transportation --> [u'Train', u'Air travel', u'Ferry']	0
-which is the main train station in rome?	11756	rome --> travel destination local transportation --> [u'Metropolitana di Roma', u'ATAC SpA']	2
-which is the main train station in rome?	11756	rome --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag']	0
-which is the main train station in rome?	11756	rome --> taxonomy entry prefix --> [u'DG']	0
-which is the main train station in rome?	11756	rome --> imports exports by industry industry --> [u'Tourism']	1
-which is the main train station in rome?	11756	rome --> transportation transport terminus --> [u'Civitavecchia Ferry Terminal', u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Roma Termini railway station']	3
-which is the main train station in rome?	11756	rome --> vacation choice vacationer --> [u'David Beckham', u'Lindsay Lohan', u'Teri Hatcher', u'Tom Brady', u'Julia Roberts']	0
-which is the main train station in rome?	11756	rome --> travel destination tourist attractions --> [u'Catacombs of Rome', u'Raphael Rooms', u'San Nicola in Carcere', u'Quirinal Palace', u'Fontana delle Naiadi']	20
-which is the main train station in rome?	11756	rome --> location time zones --> [u'Central European Time']	3
-which is the main train station in rome?	11756	rome --> topic official website --> [u'http://www.comune.roma.it/']	0
-which is the main train station in rome?	11756	rome --> webpage description --> [u'Visitor Information', u'Rome information', u'Rome Live Webcam']	0
-which is the main train station in rome?	11756	rome --> geocode longitude --> [u'12.5']	0
-which is the main train station in rome?	11756	rome --> time zone locations in this time zone --> [u'Historical Residence Hotel I Pini']	0
-which is the main train station in rome?	11756	rome --> film location featured in films --> [u'Candy Viola', u'The Taming of the Shrew', u'The Last Emperor', u"The Emperor's New Clothes", u'Little Girl']	0
-which is the main train station in rome?	11756	rome --> cityscape theatres --> [u"Teatro dell'Opera di Roma", u'Teatro Argentina, Rome', u'Auditorium Parco della Musica']	26
-which is the main train station in rome?	11756	rome --> olympic city bid olympic games --> [u'2004 Summer Olympics']	0
-which is the main train station in rome?	11756	rome --> webpage resource --> [u"'The Celebrity Apprentice' recap: Snoozers and Losers", u"Channing Tatum talks about his burnt penis, wanting to do stripper movie: Now, I'm a fan", u'Disney Studios hires new production chief: Sean Bailey', u'Rome information', u'Peter Sarsgaard, Maggie Gyllenhaal tie the knot']	0
-which is the main train station in rome?	11756	rome --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0
-which is the main train station in rome?	11756	rome --> newspaper circulation area newspapers --> [u'Tuttosport', u"l'Unit\xe0", u'Liberazione', u'il manifesto', u'Il Riformista']	0
-which is the main train station in rome?	11756	rome --> provenienciaadat mutargy --> [u'Cristo della Minerva']	0
-which is the main train station in rome?	11756	rome --> cityscape museums --> [u'National Etruscan Museum', u'National Museum of Oriental Art', u'Capitoline Museums', u'Galleria Borghese', u'National Museum of Musical Instruments']	48
-which is the main train station in rome?	11756	rome --> location containedby --> [u'Italy', u'Lazio', u'Province of Rome']	2187
-which is the main train station in rome?	11756	rome --> travel destination monthly climate average rainfall mm --> [u'17', u'27', u'36', u'53', u'56']	0
-which is the main train station in rome?	11756	rome --> fictional setting fictional characters born here --> [u'Marius de Romanus']	0
-which is the main train station in rome?	11756	rome --> top architectural city structure count --> [u'15']	0
-which is the main train station in rome?	11756	rome --> bibs location country --> [u'Italy']	2105
-which is the main train station in rome?	11756	rome --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-which is the main train station in rome?	11756	rome --> valuenotation has no value --> [u'Date dissolved']	0
-which is the main train station in rome?	11756	rome --> helynevek helynev --> [u'R\xf3ma']	0
-which is the main train station in rome?	11756	rome --> provenienciaadat intezmeny --> [u'Santa Maria sopra Minerva']	17
-which is the main train station in rome?	11756	rome --> geocode latitude --> [u'41.9']	0
-which is the main train station in rome?	11756	rome --> cityscape universities --> [u'Venerable English College, Rome', u'French Academy in Rome', u'American Academy in Rome', u'British School at Rome']	16
-which is the main train station in rome?	11756	rome --> administrative division capital relationship administrative division --> [u'Lazio', u'Province of Rome']	237
-which is the main train station in rome?	11756	rome --> government position held office position or title --> [u'Praefectus Urbis Romae']	0
-which is the main train station in rome?	11756	rome --> topic subject of --> [u'Transport in Rome']	0
-which is the main train station in rome?	11756	rome --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-which is the main train station in rome?	11756	rome --> ontology instance mapping ontology --> [u'OpenCyc']	0
-which is the main train station in rome?	11756	rome --> taxonomy entry low --> [u'803']	0
-which is the main train station in rome?	11756	rome --> topic topical webpage --> [u'http://wikitravel.org/en/Rome', u'http://www.streamdays.com/camera/view/roman_forum_italy']	0
-which is the main train station in rome?	11756	rome --> provenienciaadat aktualis --> [u'1']	0
-which is the main train station in rome?	11756	rome --> bibs location is clear --> [u'1']	0
-which is the main train station in rome?	11756	rome --> olympic medal honor medal --> [u'Gold medal']	1
-which is the main train station in rome?	11756	rome --> sports team location teams --> [u'Pallacanestro Virtus Roma', u'A.S. Roma', u'S.S. Lazio', u'M. Roma Volley']	46
-which is the main train station in rome?	11756	rome --> olympic medal honor event --> [u'Water polo']	0
-which is the main train station in rome?	11756	rome --> dated location date founded --> [u'-0752-04-21']	0
-which is the main train station in rome?	11756	rome --> object name --> [u'Rome']	0
-which is the main train station in rome?	11756	rome --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjpOJwpEbGdrcN5Y29ycA']	0
-which is the main train station in rome?	11756	rome --> cityscape stadiums --> [u'Stadio Flaminio']	19
-which is the main train station in rome?	11756	rome --> government position held from --> [u'0381']	0
-which is the main train station in rome?	11756	rome --> film subject films --> [u'Gladiator']	0
-which is the main train station in rome?	11756	rome --> dated integer number --> [u'17000', u'194500', u'212432', u'273952', u'422411']	0
-which is the main train station in rome?	11756	rome --> dated integer year --> [u'1881', u'1901', u'1911', u'1921', u'1931']	0
-which is the main train station in rome?	11756	rome --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	1
-which is the main train station in rome?	11756	rome --> book subject works --> [u'A Struggle for Rome', u'Antony and Cleopatra', u'Empire of pleasures', u'The Last King', u'Darkling I listen']	0
-which is the main train station in rome?	11756	rome --> location nearby airports --> [u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Italian Met Office Airport', u'Urbe Airport', u'Rome Viterbo Airport']	2
-which is the main train station in rome?	11756	train --> ontology instance mapping ontology --> [u'OpenCyc']	0
-which is the main train station in rome?	11756	train --> webpage resource --> [u"Exclusive: Summer Glau sets off a 'Big Bang'", u"Exclusive: Summer Glau sets off a 'Big Bang'", u"'Cougar Town' recap: Breaking up is hard to do"]	0
-which is the main train station in rome?	11756	train --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rcyWW7H9FQdeeWvEK5A3TFQ']	0
-which is the main train station in rome?	11756	train --> quotation subject quotations about this subject --> [u'Along the iron veins that traverse the frame of our country, beat and flow the fiery pulses of its exertion, hotter and faster every hour. All vitality is concentrated through those throbbing arteries into the central cities; the country is passed over like a green sea by narrow bridges, and we are thrown back in continually closer crowds on the city gates.', u'We who have lived before railways were made belong to another world. It was only yesterday, but what a gulf between now and then! Then was the old world. Stage-coaches, more or less swift, riding-horses, pack-horses, highwaymen, knights in armor, Norman invaders, Roman legions, Druids, Ancient Britons painted blue, and so forth -- all these belong to the old period. But your railroad starts the new era, and we of a certain age belong to the new time and the old one. We who lived before railways, and survive out of the ancient world, are like Father Noah and his family out of the Ark.', u'Railway termini are our gates to the glorious and the unknown. Through them we pass out into adventure and sunshine, to them, alas! we return.', u"That devilish Iron Horse, whose ear-rending neigh is heard throughout the town, has muddied the Boiling Spring with his foot, and he it is that has browsed off all the woods on Walden shore, that Trojan horse, with a thousand men in his belly, introduced by mercenary Greeks! Where is the country's champion, the Moore of Moore Hall, to meet him at the Deep Cut and thrust an avenging lance between the ribs of the bloated pest?", u'The only way of catching a train I have ever discovered is to miss the train before.']	0
-which is the main train station in rome?	11756	train --> transit service type transit systems --> [u'Metlink']	0
-which is the main train station in rome?	11756	train --> transit vehicle transit lines --> [u'Millennium Line', u'Red Line', u'Joondalup railway line', u'Blue Line', u'Yonge\u2013University\u2013Spadina line']	0
-which is the main train station in rome?	11756	train --> object name --> [u'Train']	0
-which is the main train station in rome?	11756	train --> topic image --> [u'5051 Earl Bathurst Cocklewood Harbour', u'V43', u'GE Dash 8-39B']	0
-which is the main train station in rome?	11756	train --> transit service type transit lines --> [u'Portsmouth Direct Line', u'New Guildford Line', u'The Grand Canyon Line', u'Northern Commuter', u'Blue Line']	0
-which is the main train station in rome?	11756	train --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-which is the main train station in rome?	11756	train --> film subject films --> [u'Runaway Train', u'Strangers on a Train', u'Murder on the Orient Express', u'The Cassandra Crossing', u'The First Great Train Robbery']	0
-which is the main train station in rome?	11756	train --> linguistic hint subject form --> [u'Trains']	0
-which is the main train station in rome?	11756	train --> transit system transit lines --> [u'Bel\xe9m to Cascais Railway', u'Linha da Beira Alta', u'\xd6stg\xf6tapendel', u'Transilien Paris \u2013 Est']	0
-which is the main train station in rome?	11756	metro station --> building function buildings --> [u'Sahil']	0
-which is the main train station in rome?	11756	metro station --> object name --> [u'Metro station']	0
-which is the main train station in rome?	11756	metro station --> topic image --> [u'Exterior open entrance to a metro station (Tribunal station in Madrid)', u'Georg-Brauchle-Ring station of the Munich U-Bahn.', u'SP METRO Outside']	0
-which is the main train station in rome?	11756	train --> award honor ceremony --> [u'Grammy Awards of 2011']	0
-which is the main train station in rome?	11756	train --> topic social media presence --> [u'http://plus.google.com/104459480948960105365']	0
-which is the main train station in rome?	11756	train --> track contribution track --> [u'Baby Roulette']	0
-which is the main train station in rome?	11756	train --> award honor honored for --> [u'Hey, Soul Sister']	0
-which is the main train station in rome?	11756	train --> award nomination nominated for --> [u'Drops of Jupiter', u'Hey, Soul Sister', u'Calling All Angels']	0
-which is the main train station in rome?	11756	train --> artist label --> [u'Columbia', u'Sony BMG Music Entertainment', u'Aware Records']	2
-which is the main train station in rome?	11756	train --> award nomination award --> [u'Grammy Award for Best Pop Performance by a Duo or Group with Vocal', u'Grammy Award for Record of the Year', u"People's Choice Award for Favorite Band", u'Grammy Award for Best Rock Performance by a Duo or Group with Vocal', u"Kids' Choice Award for Favorite Song"]	0
-which is the main train station in rome?	11756	train --> award honor award --> [u'Grammy Award for Best Pop Performance by a Duo or Group with Vocal']	0
-which is the main train station in rome?	11756	train --> group membership role --> [u'Bass guitar', u'Drum', u'Guitar', u'Lead vocalist', u'Keyboard']	0
-which is the main train station in rome?	11756	train --> webpage category --> [u'Topic Webpage', u'Official Website', u'Curated Topic', u'Lyrics']	0
-which is the main train station in rome?	11756	train --> artist content --> [u'Atlantic Sound Factory', u"Pop Rock 80's", u'WLIF', u'Big R Radio - 107.7 The Mix', u'WJMK']	0
-which is the main train station in rome?	11756	train --> track contribution role --> [u'Vocals']	0
-which is the main train station in rome?	11756	train --> topic official website --> [u'http://trainline.com/']	0
-which is the main train station in rome?	11756	train --> artist active start --> [u'1994']	0
-which is the main train station in rome?	11756	train --> webpage resource --> [u'MusicMoz page for Train', u'Train Lyrics']	0
-which is the main train station in rome?	11756	train --> topic webpage --> [u'http://www.discogs.com/artist/Train+(2)', u'MusicMoz page for Train']	0
-which is the main train station in rome?	11756	train --> artist origin --> [u'San Francisco']	3
-which is the main train station in rome?	11756	train --> artist genre --> [u'Alternative rock', u'Folk rock', u'Alternative country', u'Country', u'Soft rock']	0
-which is the main train station in rome?	11756	train --> group membership start --> [u'1993', u'1994', u'2003', u'2008']	0
-which is the main train station in rome?	11756	train --> group membership member --> [u'Charlie Colin', u'Scott Underwood', u'Jimmy Stafford', u'Patrick Monahan', u'Brandon Bush']	14
-which is the main train station in rome?	11756	train --> group membership end --> [u'2003', u'2006']	0
-which is the main train station in rome?	11756	train --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0
-which is the main train station in rome?	11756	train --> award honor year --> [u'2010']	0
-which is the main train station in rome?	11756	train --> webpage uri --> [u'http://www.discogs.com/artist/Train+(2)', u'http://www.trainline.com/', u'http://musicmoz.org/Bands_and_Artists/T/Train/']	0
-which is the main train station in rome?	11756	train --> award nomination notes description --> [u'2011 Best Pop Performance by a Duo or Group with Vocals']	0
-which is the main train station in rome?	11756	train --> topic topical webpage --> [u'http://www.discogs.com/artist/Train+(2)', u'http://musicmoz.org/Bands_and_Artists/T/Train/', u'http://www.directlyrics.com/train-artist.html']	0
-which is the main train station in rome?	11756	train --> artist track --> [u'Drops of Jupiter', u"She's on Fire", u'I Wish You Would', u'Something More', u'Hopeless']	0
-which is the main train station in rome?	11756	train --> producer tracks produced --> [u'Fall Out']	0
-which is the main train station in rome?	11756	train --> composer compositions --> [u'Brand New Book']	0
-which is the main train station in rome?	11756	train --> artist album --> [u'Drops of Jupiter', u'Save Me, San Francisco', u'Ramble On', u'Live in Atlanta', u'Meet Virginia']	14
-which is the main train station in rome?	11756	train --> object name --> [u'Train']	0
-which is the main train station in rome?	11756	train --> topic image --> [u'Monahan performing in West Palm Beach']	0
-which is the main train station in rome?	11756	train --> award honor notes description --> [u'Artist']	0
-which is the main train station in rome?	11756	train --> personal film appearance film --> [u"Train: She's on Fire", u'Train: Midnight Moon']	0
-which is the main train station in rome?	11756	train --> award nomination year --> [u'2001', u'2003', u'2010', u'2011', u'2012']	0
+which is the main train station in rome?	11756	gdańsk główny railway station --> dbpedia import geocode checked --> [u'2010-07-25']	0	EMPTY
+which is the main train station in rome?	11756	gdańsk główny railway station --> location containedby --> [u'Poland']	0	EMPTY
+which is the main train station in rome?	11756	gdańsk główny railway station --> object name --> [u'Gda\u0144sk G\u0142\xf3wny railway station']	0	EMPTY
+which is the main train station in rome?	11756	gdańsk główny railway station --> topic image --> [u'Gdanskglowny', u'Gdansk-dworzecPKP']	0	EMPTY
+which is the main train station in rome?	11756	gdańsk główny railway station --> geocode longitude --> [u'18.6333333333']	0	EMPTY
+which is the main train station in rome?	11756	gdańsk główny railway station --> geocode latitude --> [u'54.35']	0	EMPTY
+which is the main train station in rome?	11756	hamburg central station --> transit stop transit lines --> [u'S2', u'S3', u'Hamburg U-Bahn Line U1', u'S1', u'S11']	0	EMPTY
+which is the main train station in rome?	11756	hamburg central station --> transportation travel destination --> [u'Hamburg']	5	The '''[[Hamburg Rathaus]]''' is the [[Rathaus]]&mdash;the [[city and town halls |"city hall" or "town hall"]]&mdash;of [[Hamburg]], Germany, it is the seat of the [[government of Hamburg]], located in the ''Altstadt'' quarter in the city centre, near the lake [[Binnenalster]] and the [[Hamburg Hauptbahnhof|central station]].
+which is the main train station in rome?	11756	hamburg central station --> transportation transport terminus --> [u'Hamburg Dammtor Railway Station', u'Hamburg-Harburg Railway Station', u'Hamburg Bergedorf Railway Station', u'Hamburg-Altona station']	22	From the north, the service starts at [[Hamburg-Altona station|Hamburg-Altona]], and runs over the [[Hamburg-Altona link line|Altona link line]] through to [[Hamburg Dammtor station|Dammtor]] and [[Hamburg Hauptbahnhof]].
+which is the main train station in rome?	11756	hamburg central station --> location containedby --> [u'Germany', u'Hamburg']	5	The '''[[Hamburg Rathaus]]''' is the [[Rathaus]]&mdash;the [[city and town halls |"city hall" or "town hall"]]&mdash;of [[Hamburg]], Germany, it is the seat of the [[government of Hamburg]], located in the ''Altstadt'' quarter in the city centre, near the lake [[Binnenalster]] and the [[Hamburg Hauptbahnhof|central station]].
+which is the main train station in rome?	11756	hamburg central station --> transportation transport operator --> [u'Intercity-Express']	4	In long-distance traffic there are regular [[Intercity-Express]] connections from Freiburg station to the north in the direction of [[Berlin Hauptbahnhof|Berlin]], [[Hamburg Hauptbahnhof|Hamburg]] and [[Cologne Hauptbahnhof|Cologne]] from platform track 1.
+which is the main train station in rome?	11756	hamburg central station --> object name --> [u'Hamburg Central Station']	0	EMPTY
+which is the main train station in rome?	11756	hamburg central station --> topic image --> [u'Hamburg Main Station - One of the clocktowers', u'Aerial view of the station hall', u'Inside the station hall']	0	EMPTY
+which is the main train station in rome?	11756	hamburg central station --> transportation mode of transportation --> [u'Train']	0	EMPTY
+which is the main train station in rome?	11756	hamburg central station --> geocode latitude --> [u'53.5528']	0	EMPTY
+which is the main train station in rome?	11756	hamburg central station --> geocode longitude --> [u'10.0064']	0	EMPTY
+which is the main train station in rome?	11756	train station --> transportation travel destination --> [u'Kalabaka']	0	EMPTY
+which is the main train station in rome?	11756	train station --> transportation transport operator --> [u'TrainOSE']	0	EMPTY
+which is the main train station in rome?	11756	train station --> film subject films --> [u'The Lonedale Operator']	0	EMPTY
+which is the main train station in rome?	11756	train station --> building function buildings --> [u'Flinders Street Station', u'Bath Spa railway station', u'Central Vermont Railway Depot', u'Terminal Tower', u'Moskovsky Rail Terminal']	0	EMPTY
+which is the main train station in rome?	11756	train station --> object name --> [u'Train station']	0	EMPTY
+which is the main train station in rome?	11756	train station --> topic image --> [u'noframe', u"A London Underground train departs from Earl's Court tube station.", u'Grand central Station Outside Night 2']	0	EMPTY
+which is the main train station in rome?	11756	train station --> transportation mode of transportation --> [u'Train']	0	EMPTY
+which is the main train station in rome?	11756	train station --> linguistic hint subject form --> [u'Train stations']	0	EMPTY
+which is the main train station in rome?	11756	rome --> namesake named after --> [u'Romulus and Remus']	20	In 753 BC when [[Romulus and Remus|Romulus]] founded the city of [[Rome]] and instituted the [[Roman Kingdom|monarchy]], he also created the office of '''''custos urbis''''' (guardian of the city) to serve as the king’s chief lieutenant.
+which is the main train station in rome?	11756	rome --> helynevek intezmeny --> [u'Santa Maria sopra Minerva', u'Vatican Library']	33	During a residence in [[Rome]] he obtained permission to search the [[Vatican Library|Vatican]] and other libraries for manuscripts relating to the history of England, and published anonymously, as the result of his research, in 1803, a collection of ''Extracts'' from sixteenth-century state papers.
+which is the main train station in rome?	11756	rome --> place of interment interred here --> [u'Galba', u'Simon de Cr\xe9py', u'Marcello Mastroianni', u'Ennio Flaiano', u'C\xe6dwalla of Wessex']	2	He taught philosophy in [[Rome]] during the reign of [[Nero]], as consequence of which he was sent into exile in 65 AD, only returning to Rome under [[Galba]].
+which is the main train station in rome?	11756	rome --> transportation transport operator --> [u'Grimaldi Lines', u'Moby', u'ATAC SpA']	0	EMPTY
+which is the main train station in rome?	11756	rome --> bibs location loc type --> [u'City']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination monthly climate average max temp c --> [u'13', u'14', u'16', u'18', u'19']	0	EMPTY
+which is the main train station in rome?	11756	rome --> location events --> [u'1960 Summer Olympics', u'Siege of Rome', u"1991 Women's European Volleyball Championship", u'Left Bank Holiday (2009)', u"1999 Women's European Volleyball Championship"]	301	He later also played for [[U.S. Triestina Calcio|Triestina]]; while playing for Triestina, he competed at the [[1960 Summer Olympics]] in [[Rome]] with [[Italy national football team|Italy]].
+which is the main train station in rome?	11756	rome --> olympic host city olympics hosted --> [u'1960 Summer Olympics']	301	He later also played for [[U.S. Triestina Calcio|Triestina]]; while playing for Triestina, he competed at the [[1960 Summer Olympics]] in [[Rome]] with [[Italy national football team|Italy]].
+which is the main train station in rome?	11756	rome --> location contains --> [u'Maria SS. Assunta University of Rome', u'Hotel Eden, Rome', u'Largo di Torre Argentina', u'Catacombs of Rome', u'Pontifical Gregorian University']	131	[[File:Rom, Domitilla-Katakomben, Steintafel mit Inschrift und Orant (Mensch in antiker Gebetshaltung mit erhobenen Armen).jpg|thumb|Figure in the gesture of orant, [[Catacombs of Rome#Catacombs of Domitilla|Catacombs of Domitilla]], [[Rome]]]]
+which is the main train station in rome?	11756	rome --> topic alias --> [u'Roma', u'Rome, Italy', u'Caput Mundi', u'The eternal City', u'the City of seven hills']	0	EMPTY
+which is the main train station in rome?	11756	rome --> webpage uri --> [u'http://www.comune.roma.it', u'http://wikitravel.org/en/Rome', u'http://www.streamdays.com/camera/view/roman_forum_italy']	0	EMPTY
+which is the main train station in rome?	11756	rome --> topic image --> [u'Rome', u'Rome', u'Rome', u'Rome']	0	EMPTY
+which is the main train station in rome?	11756	rome --> adjoining relationship adjoins --> [u'Tivoli', u'Pomezia']	5	**[[File:Autostrada A24 Italia.svg|x20px|link=Autostrada A24 (Italy)]] [[Rome]] - [[Tivoli, Lazio|Tivoli]] () - [[Borgorose]]
+which is the main train station in rome?	11756	rome --> taxonomy entry high --> [u'817.3']	0	EMPTY
+which is the main train station in rome?	11756	rome --> italian city cod istat --> [u'58091']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape parks --> [u"Villa d'Este", u'Pineto Regional Park', u'Villa Ada', u'Villa Borghese gardens']	7	It is however a replica, as the Italian Government ordered in 1962 that it be erected in the [[Villa Borghese gardens|Borghese Park]], [[Rome]], alongside the statues of other world artistic figures.
+which is the main train station in rome?	11756	rome --> location area --> [u'1285.31']	0	EMPTY
+which is the main train station in rome?	11756	rome --> olympic medal honor olympics --> [u'1960 Summer Olympics']	301	He later also played for [[U.S. Triestina Calcio|Triestina]]; while playing for Triestina, he competed at the [[1960 Summer Olympics]] in [[Rome]] with [[Italy national football team|Italy]].
+which is the main train station in rome?	11756	rome --> daylife hero image id --> [u'05f29B8fcobOH']	0	EMPTY
+which is the main train station in rome?	11756	rome --> government position held office holder --> [u'Flavius Afranius Syagrius']	0	EMPTY
+which is the main train station in rome?	11756	rome --> base equivalent location base --> [u'Rome']	0	EMPTY
+which is the main train station in rome?	11756	rome --> location people born here --> [u'Rino Di Silvestro', u'Stefano Napoleoni', u'Alessandro Florenzi', u'Alessio Sakara', u'Constantin Hansen']	0	EMPTY
+which is the main train station in rome?	11756	rome --> italian city cod provincia --> [u'RM']	0	EMPTY
+which is the main train station in rome?	11756	rome --> olympic medal honor medalist --> [u'P\xe9ter Rusor\xe1n']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination monthly climate average min temp c --> [u'3', u'4', u'5', u'7', u'8']	0	EMPTY
+which is the main train station in rome?	11756	rome --> transportation mode of transportation --> [u'Train', u'Air travel', u'Ferry']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination local transportation --> [u'Metropolitana di Roma', u'ATAC SpA']	2	**Two [[Rome Metro|metro]] trains '''[[2006 Rome metro crash|collide]]''' in [[Rome]], killing at least two people and injuring about 120 others.
+which is the main train station in rome?	11756	rome --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag']	0	EMPTY
+which is the main train station in rome?	11756	rome --> taxonomy entry prefix --> [u'DG']	0	EMPTY
+which is the main train station in rome?	11756	rome --> imports exports by industry industry --> [u'Tourism']	1	[[Tourism]] in [[Rome]], [[Italy]].
+which is the main train station in rome?	11756	rome --> transportation transport terminus --> [u'Civitavecchia Ferry Terminal', u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Roma Termini railway station']	3	* [[Roma Termini railway station]], a train station in [[Rome]],
+which is the main train station in rome?	11756	rome --> vacation choice vacationer --> [u'David Beckham', u'Lindsay Lohan', u'Teri Hatcher', u'Tom Brady', u'Julia Roberts']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination tourist attractions --> [u'Catacombs of Rome', u'Raphael Rooms', u'San Nicola in Carcere', u'Quirinal Palace', u'Fontana delle Naiadi']	20	[[File:Rom, Domitilla-Katakomben, Steintafel mit Inschrift und Orant (Mensch in antiker Gebetshaltung mit erhobenen Armen).jpg|thumb|Figure in the gesture of orant, [[Catacombs of Rome#Catacombs of Domitilla|Catacombs of Domitilla]], [[Rome]]]]
+which is the main train station in rome?	11756	rome --> location time zones --> [u'Central European Time']	3	On 3 January at 11.00 [[Central European Time|CET]], the first RAI television announcer presented the day's schedule, which was broadcast from the service's [[Milan]] headquarters and relay stations in [[Turin]] and [[Rome]].
+which is the main train station in rome?	11756	rome --> topic official website --> [u'http://www.comune.roma.it/']	0	EMPTY
+which is the main train station in rome?	11756	rome --> webpage description --> [u'Visitor Information', u'Rome information', u'Rome Live Webcam']	0	EMPTY
+which is the main train station in rome?	11756	rome --> geocode longitude --> [u'12.5']	0	EMPTY
+which is the main train station in rome?	11756	rome --> time zone locations in this time zone --> [u'Historical Residence Hotel I Pini']	0	EMPTY
+which is the main train station in rome?	11756	rome --> film location featured in films --> [u'Candy Viola', u'The Taming of the Shrew', u'The Last Emperor', u"The Emperor's New Clothes", u'Little Girl']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape theatres --> [u"Teatro dell'Opera di Roma", u'Teatro Argentina, Rome', u'Auditorium Parco della Musica']	26	* [[1900]] – [[Giacomo Puccini]]'s opera '''''[[Tosca]]''''', based on the play ''[[La Tosca]]'' by French [[Playwright|dramatist]] [[Victorien Sardou]], premiered at the [[Teatro dell'Opera di Roma|Teatro Costanzi]] in [[Rome]].
+which is the main train station in rome?	11756	rome --> olympic city bid olympic games --> [u'2004 Summer Olympics']	0	EMPTY
+which is the main train station in rome?	11756	rome --> webpage resource --> [u"'The Celebrity Apprentice' recap: Snoozers and Losers", u"Channing Tatum talks about his burnt penis, wanting to do stripper movie: Now, I'm a fan", u'Disney Studios hires new production chief: Sean Bailey', u'Rome information', u'Peter Sarsgaard, Maggie Gyllenhaal tie the knot']	0	EMPTY
+which is the main train station in rome?	11756	rome --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0	EMPTY
+which is the main train station in rome?	11756	rome --> newspaper circulation area newspapers --> [u'Tuttosport', u"l'Unit\xe0", u'Liberazione', u'il manifesto', u'Il Riformista']	0	EMPTY
+which is the main train station in rome?	11756	rome --> provenienciaadat mutargy --> [u'Cristo della Minerva']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape museums --> [u'National Etruscan Museum', u'National Museum of Oriental Art', u'Capitoline Museums', u'Galleria Borghese', u'National Museum of Musical Instruments']	48	Appointed by [[Pope Pius VI]] to succeed his father in the position, the brilliant and precocious Visconti took up his father's position as [[Conservator (religion)|conservator]] of the [[Capitoline Museums]] in [[Rome]] in 1787; he assisted his father in producing the first volume of the ''Museo Pio-Clementino'' (1782) and produced the six remaining volumes himself, completing the last in 1807; this catalogue of the [[Ancient Roman sculpture|Roman sculpture]] and antiquities in the Vatican collections, published in the course of many years, "made an impact on archaeological studies second only to that of [[Johann Joachim Winckelmann|Winckelmann]]."
+which is the main train station in rome?	11756	rome --> location containedby --> [u'Italy', u'Lazio', u'Province of Rome']	2187	|death_place=[[Rome]], [[Lazio]], [[Papal States]]
+which is the main train station in rome?	11756	rome --> travel destination monthly climate average rainfall mm --> [u'17', u'27', u'36', u'53', u'56']	0	EMPTY
+which is the main train station in rome?	11756	rome --> fictional setting fictional characters born here --> [u'Marius de Romanus']	0	EMPTY
+which is the main train station in rome?	11756	rome --> top architectural city structure count --> [u'15']	0	EMPTY
+which is the main train station in rome?	11756	rome --> bibs location country --> [u'Italy']	2105	One of the main principles of national unity has often been considered the [[Christian religion]], because [[Italy]] has been Christian since the settlement of the [[Papal States]] in [[Rome]].
+which is the main train station in rome?	11756	rome --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+which is the main train station in rome?	11756	rome --> valuenotation has no value --> [u'Date dissolved']	0	EMPTY
+which is the main train station in rome?	11756	rome --> helynevek helynev --> [u'R\xf3ma']	0	EMPTY
+which is the main train station in rome?	11756	rome --> provenienciaadat intezmeny --> [u'Santa Maria sopra Minerva']	17	* [[Santa Maria sopra Minerva]] (only Gothic church in [[Rome]])
+which is the main train station in rome?	11756	rome --> geocode latitude --> [u'41.9']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape universities --> [u'Venerable English College, Rome', u'French Academy in Rome', u'American Academy in Rome', u'British School at Rome']	16	The Académie de peinture et sculpture is responsible for the [[French Academy in Rome|Académie de France]] in the [[Villa Médicis]] in [[Rome]] (founded in 1666) which allows promising artists to study in Rome.
+which is the main train station in rome?	11756	rome --> administrative division capital relationship administrative division --> [u'Lazio', u'Province of Rome']	237	|death_place=[[Rome]], [[Lazio]], [[Papal States]]
+which is the main train station in rome?	11756	rome --> government position held office position or title --> [u'Praefectus Urbis Romae']	0	EMPTY
+which is the main train station in rome?	11756	rome --> topic subject of --> [u'Transport in Rome']	0	EMPTY
+which is the main train station in rome?	11756	rome --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+which is the main train station in rome?	11756	rome --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+which is the main train station in rome?	11756	rome --> taxonomy entry low --> [u'803']	0	EMPTY
+which is the main train station in rome?	11756	rome --> topic topical webpage --> [u'http://wikitravel.org/en/Rome', u'http://www.streamdays.com/camera/view/roman_forum_italy']	0	EMPTY
+which is the main train station in rome?	11756	rome --> provenienciaadat aktualis --> [u'1']	0	EMPTY
+which is the main train station in rome?	11756	rome --> bibs location is clear --> [u'1']	0	EMPTY
+which is the main train station in rome?	11756	rome --> olympic medal honor medal --> [u'Gold medal']	1	in [[Fine Arts]] and a [[Gold medal]] in 1967 from Punjab University (PUCAD) Lahore, he completed his Ph.D in [[Muslim]] architecture, in [[Turkey]] in 1978 and proceeded to do a course on Conservation of Cultural Property at [[UNESCO]], [[Rome]] in 1977.
+which is the main train station in rome?	11756	rome --> sports team location teams --> [u'Pallacanestro Virtus Roma', u'A.S. Roma', u'S.S. Lazio', u'M. Roma Volley']	46	Born in [[Rome]], Tassotti played his first professional season with local [[S.S. Lazio]] in [[1978–79 Serie A|1978–79]], where he soon became a first team member the [[1979–80 Serie A|following season]], making his [[Serie A]] debut on 5 November 1978.
+which is the main train station in rome?	11756	rome --> olympic medal honor event --> [u'Water polo']	0	EMPTY
+which is the main train station in rome?	11756	rome --> dated location date founded --> [u'-0752-04-21']	0	EMPTY
+which is the main train station in rome?	11756	rome --> object name --> [u'Rome']	0	EMPTY
+which is the main train station in rome?	11756	rome --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjpOJwpEbGdrcN5Y29ycA']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape stadiums --> [u'Stadio Flaminio']	19	|[[Stadio Flaminio]], [[Rome]]
+which is the main train station in rome?	11756	rome --> government position held from --> [u'0381']	0	EMPTY
+which is the main train station in rome?	11756	rome --> film subject films --> [u'Gladiator']	0	EMPTY
+which is the main train station in rome?	11756	rome --> dated integer number --> [u'17000', u'194500', u'212432', u'273952', u'422411']	0	EMPTY
+which is the main train station in rome?	11756	rome --> dated integer year --> [u'1881', u'1901', u'1911', u'1921', u'1931']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	1	([[Rome]], [[Italy]], [[4]] [[September]] [[1956]]) is an Italian artist and actress.
+which is the main train station in rome?	11756	rome --> book subject works --> [u'A Struggle for Rome', u'Antony and Cleopatra', u'Empire of pleasures', u'The Last King', u'Darkling I listen']	0	EMPTY
+which is the main train station in rome?	11756	rome --> location nearby airports --> [u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Italian Met Office Airport', u'Urbe Airport', u'Rome Viterbo Airport']	2	* [[Rome Urbe Airport]], [[Rome]], [[Italy]]
+which is the main train station in rome?	11756	saint laurent boulevard --> object name --> [u'Saint Laurent Boulevard']	0	EMPTY
+which is the main train station in rome?	11756	saint laurent boulevard --> topic image --> [u'Schwartz (Montreal) 2006-07-12']	0	EMPTY
+which is the main train station in rome?	11756	saint laurent boulevard --> topic alias --> [u'St. Lawrence Boulevard']	0	EMPTY
+which is the main train station in rome?	11756	saint laurent boulevard --> road major cities --> [u'Montreal']	2	The '''Montreal Pool Room''' is a well-known and well-regarded greasy spoon (French: ''casse-croûte'') restaurant, located in the city's former [[Red-Light District, Montreal|red-light district]] on [[Saint Laurent Boulevard]], in [[Montreal]], [[Quebec]], [[Canada]].
+which is the main train station in rome?	11756	saint laurent boulevard --> location containedby --> [u'Canada']	1	The '''Montreal Pool Room''' is a well-known and well-regarded greasy spoon (French: ''casse-croûte'') restaurant, located in the city's former [[Red-Light District, Montreal|red-light district]] on [[Saint Laurent Boulevard]], in [[Montreal]], [[Quebec]], [[Canada]].
+which is the main train station in rome?	11756	sovereign military order of malta --> topic alias --> [u'Knights of Malta', u'Knights Hospitaller', u'Order of Hospitallers', u'Sovereign Military Hospitaller Order of Saint John of Jerusalem of Rhodes and of Malta']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> force strength maximum force size --> [u'8000']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> religious organization leadership end date --> [u'1799', u'1317', u'1268', u'1319']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> casualties lower estimate --> [u'2500', u'7500']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> casualties military conflict --> [u'Siege of Malta']	1	| The most illustrious Grand Master of the [[Sovereign Military Order of Malta|Order of Malta]] for commanding the resistance against the Ottomans at the [[Great Siege of Malta]] in 1565.
+which is the main train station in rome?	11756	sovereign military order of malta --> military command military conflict --> [u'Siege of Malta']	1	| The most illustrious Grand Master of the [[Sovereign Military Order of Malta|Order of Malta]] for commanding the resistance against the Ottomans at the [[Great Siege of Malta]] in 1565.
+which is the main train station in rome?	11756	sovereign military order of malta --> religious order monasteries --> [u'Clerkenwell Priory']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> webpage category --> [u'Official Website']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> military combatant group conflict --> [u'Ottoman\u2013Venetian War', u'Battle of Arsuf', u'Battle of Matapan', u'Battle of Lepanto', u'Battle of Hattin']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> topic official website --> [u'http://www.newadvent.org/cathen/07477a.htm']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> order of chivalry category --> [u'Military order']	1	The '''Order of Knights of the Hospital of Saint John of Jerusalem''' (), also known as the '''Order of Saint John''', '''Order of Hospitallers''', '''Knights Hospitaller''', or '''Hospitallers''', is the medieval [[Catholic Church|Catholic]] [[Military order (monastic society)|military order]] that continued into the contemporary [[Sovereign Military Order of Malta]], which remains a [[sovereignty|sovereign subject]] of [[international law]].
+which is the main train station in rome?	11756	sovereign military order of malta --> military command military commander --> [u'Jean Parisot de Valette', u'Mathurin Romegas']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> webpage uri --> [u'http://www.newadvent.org/cathen/07477a.htm']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> religious organization leadership leader --> [u'Hugh de Revel', u'Ferdinand von Hompesch zu Bolheim', u'Maurice de Pagnac', u'H\xe9lion de Villeneuve', u'Foulques de Villaret']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> casualties type of casualties --> [u'Military - Dead', u'Civilian - Dead']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> religious organization leadership role --> [u'Grand Master']	7	This is a '''list of [[Prince of the Church|Princes]] and [[Grand Master (order)|Grand Masters]] of the [[Sovereign Military Order of Malta]]''' including their medieval predecessors of the '''[[Knights Hospitaller]]''', starting with the founder [[Beatification|Blessed]] [[Gerard Thom]] (established [[siege of Jerusalem (1099)|in 1099]] and given [[Pie Postulatio Voluntatis|papal recognition]] in 1113 by [[Pope Paschal II|Paschal II]]).
+which is the main train station in rome?	11756	sovereign military order of malta --> religious organization leadership start date --> [u'1317', u'1301', u'1319', u'1262']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> force strength force size --> [u'6100']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> object name --> [u'Sovereign Military Order of Malta']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> topic image --> [u'SiegeOfAcre1291']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> chivalric order membership from --> [u'1972', u'1990']	0	EMPTY
+which is the main train station in rome?	11756	sovereign military order of malta --> force strength military conflict --> [u'Siege of Malta']	1	| The most illustrious Grand Master of the [[Sovereign Military Order of Malta|Order of Malta]] for commanding the resistance against the Ottomans at the [[Great Siege of Malta]] in 1565.
+which is the main train station in rome?	11756	sovereign military order of malta --> chivalric order membership recipient --> [u'Andrew Bertie', u'Angelo Sodano', u'Prince Pedro, Duke of Noto', u'Abdul Halim of Kedah', u'Azlan Shah of Perak']	3	James Willoughby Bertie (22 September 1901 – 11 May 1966), married, on 12 June 1928, Lady Jean Crichton-Stuart, daughter of [[John Crichton-Stuart, 4th Marquess of Bute]], and had issue, including [[Andrew Bertie]], Grand Master of the [[Sovereign Military Order of Malta]];
+which is the main train station in rome?	11756	the main --> book genre --> [u'Fiction', u'Mystery', u'Suspense']	0	EMPTY
+which is the main train station in rome?	11756	the main --> written work subjects --> [u'Police', u'Mystery', u'Suspense', u'Police procedural']	0	EMPTY
+which is the main train station in rome?	11756	the main --> award nomination award --> [u'Edgar Award for Best Novel']	0	EMPTY
+which is the main train station in rome?	11756	the main --> written work author --> [u'Trevanian']	0	EMPTY
+which is the main train station in rome?	11756	the main --> award nomination year --> [u'1977']	0	EMPTY
+which is the main train station in rome?	11756	the main --> award nomination award nominee --> [u'Trevanian']	0	EMPTY
+which is the main train station in rome?	11756	the main --> object name --> [u'The Main']	0	EMPTY
+which is the main train station in rome?	11756	the main --> book editions --> [u'The Main', u'Main', u'Main', u'The Main', u'The main']	0	EMPTY
+which is the main train station in rome?	11756	rome --> namesake named after --> [u'Romulus and Remus']	20	In 753 BC when [[Romulus and Remus|Romulus]] founded the city of [[Rome]] and instituted the [[Roman Kingdom|monarchy]], he also created the office of '''''custos urbis''''' (guardian of the city) to serve as the king’s chief lieutenant.
+which is the main train station in rome?	11756	rome --> helynevek intezmeny --> [u'Santa Maria sopra Minerva', u'Vatican Library']	33	During a residence in [[Rome]] he obtained permission to search the [[Vatican Library|Vatican]] and other libraries for manuscripts relating to the history of England, and published anonymously, as the result of his research, in 1803, a collection of ''Extracts'' from sixteenth-century state papers.
+which is the main train station in rome?	11756	rome --> place of interment interred here --> [u'Galba', u'Simon de Cr\xe9py', u'Marcello Mastroianni', u'Ennio Flaiano', u'C\xe6dwalla of Wessex']	2	He taught philosophy in [[Rome]] during the reign of [[Nero]], as consequence of which he was sent into exile in 65 AD, only returning to Rome under [[Galba]].
+which is the main train station in rome?	11756	rome --> transportation transport operator --> [u'Grimaldi Lines', u'Moby', u'ATAC SpA']	0	EMPTY
+which is the main train station in rome?	11756	rome --> bibs location loc type --> [u'City']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination monthly climate average max temp c --> [u'13', u'14', u'16', u'18', u'19']	0	EMPTY
+which is the main train station in rome?	11756	rome --> location events --> [u'1960 Summer Olympics', u'Siege of Rome', u"1991 Women's European Volleyball Championship", u'Left Bank Holiday (2009)', u"1999 Women's European Volleyball Championship"]	301	He later also played for [[U.S. Triestina Calcio|Triestina]]; while playing for Triestina, he competed at the [[1960 Summer Olympics]] in [[Rome]] with [[Italy national football team|Italy]].
+which is the main train station in rome?	11756	rome --> olympic host city olympics hosted --> [u'1960 Summer Olympics']	301	He later also played for [[U.S. Triestina Calcio|Triestina]]; while playing for Triestina, he competed at the [[1960 Summer Olympics]] in [[Rome]] with [[Italy national football team|Italy]].
+which is the main train station in rome?	11756	rome --> location contains --> [u'Maria SS. Assunta University of Rome', u'Hotel Eden, Rome', u'Largo di Torre Argentina', u'Catacombs of Rome', u'Pontifical Gregorian University']	131	[[File:Rom, Domitilla-Katakomben, Steintafel mit Inschrift und Orant (Mensch in antiker Gebetshaltung mit erhobenen Armen).jpg|thumb|Figure in the gesture of orant, [[Catacombs of Rome#Catacombs of Domitilla|Catacombs of Domitilla]], [[Rome]]]]
+which is the main train station in rome?	11756	rome --> topic alias --> [u'Roma', u'Rome, Italy', u'Caput Mundi', u'The eternal City', u'the City of seven hills']	0	EMPTY
+which is the main train station in rome?	11756	rome --> webpage uri --> [u'http://www.comune.roma.it', u'http://wikitravel.org/en/Rome', u'http://www.streamdays.com/camera/view/roman_forum_italy']	0	EMPTY
+which is the main train station in rome?	11756	rome --> topic image --> [u'Rome', u'Rome', u'Rome', u'Rome']	0	EMPTY
+which is the main train station in rome?	11756	rome --> adjoining relationship adjoins --> [u'Tivoli', u'Pomezia']	5	**[[File:Autostrada A24 Italia.svg|x20px|link=Autostrada A24 (Italy)]] [[Rome]] - [[Tivoli, Lazio|Tivoli]] () - [[Borgorose]]
+which is the main train station in rome?	11756	rome --> taxonomy entry high --> [u'817.3']	0	EMPTY
+which is the main train station in rome?	11756	rome --> italian city cod istat --> [u'58091']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape parks --> [u"Villa d'Este", u'Pineto Regional Park', u'Villa Ada', u'Villa Borghese gardens']	7	It is however a replica, as the Italian Government ordered in 1962 that it be erected in the [[Villa Borghese gardens|Borghese Park]], [[Rome]], alongside the statues of other world artistic figures.
+which is the main train station in rome?	11756	rome --> location area --> [u'1285.31']	0	EMPTY
+which is the main train station in rome?	11756	rome --> olympic medal honor olympics --> [u'1960 Summer Olympics']	301	He later also played for [[U.S. Triestina Calcio|Triestina]]; while playing for Triestina, he competed at the [[1960 Summer Olympics]] in [[Rome]] with [[Italy national football team|Italy]].
+which is the main train station in rome?	11756	rome --> daylife hero image id --> [u'05f29B8fcobOH']	0	EMPTY
+which is the main train station in rome?	11756	rome --> government position held office holder --> [u'Flavius Afranius Syagrius']	0	EMPTY
+which is the main train station in rome?	11756	rome --> base equivalent location base --> [u'Rome']	0	EMPTY
+which is the main train station in rome?	11756	rome --> location people born here --> [u'Rino Di Silvestro', u'Stefano Napoleoni', u'Alessandro Florenzi', u'Alessio Sakara', u'Constantin Hansen']	0	EMPTY
+which is the main train station in rome?	11756	rome --> italian city cod provincia --> [u'RM']	0	EMPTY
+which is the main train station in rome?	11756	rome --> olympic medal honor medalist --> [u'P\xe9ter Rusor\xe1n']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination monthly climate average min temp c --> [u'3', u'4', u'5', u'7', u'8']	0	EMPTY
+which is the main train station in rome?	11756	rome --> transportation mode of transportation --> [u'Train', u'Air travel', u'Ferry']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination local transportation --> [u'Metropolitana di Roma', u'ATAC SpA']	2	**Two [[Rome Metro|metro]] trains '''[[2006 Rome metro crash|collide]]''' in [[Rome]], killing at least two people and injuring about 120 others.
+which is the main train station in rome?	11756	rome --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag']	0	EMPTY
+which is the main train station in rome?	11756	rome --> taxonomy entry prefix --> [u'DG']	0	EMPTY
+which is the main train station in rome?	11756	rome --> imports exports by industry industry --> [u'Tourism']	1	[[Tourism]] in [[Rome]], [[Italy]].
+which is the main train station in rome?	11756	rome --> transportation transport terminus --> [u'Civitavecchia Ferry Terminal', u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Roma Termini railway station']	3	* [[Roma Termini railway station]], a train station in [[Rome]],
+which is the main train station in rome?	11756	rome --> vacation choice vacationer --> [u'David Beckham', u'Lindsay Lohan', u'Teri Hatcher', u'Tom Brady', u'Julia Roberts']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination tourist attractions --> [u'Catacombs of Rome', u'Raphael Rooms', u'San Nicola in Carcere', u'Quirinal Palace', u'Fontana delle Naiadi']	20	[[File:Rom, Domitilla-Katakomben, Steintafel mit Inschrift und Orant (Mensch in antiker Gebetshaltung mit erhobenen Armen).jpg|thumb|Figure in the gesture of orant, [[Catacombs of Rome#Catacombs of Domitilla|Catacombs of Domitilla]], [[Rome]]]]
+which is the main train station in rome?	11756	rome --> location time zones --> [u'Central European Time']	3	On 3 January at 11.00 [[Central European Time|CET]], the first RAI television announcer presented the day's schedule, which was broadcast from the service's [[Milan]] headquarters and relay stations in [[Turin]] and [[Rome]].
+which is the main train station in rome?	11756	rome --> topic official website --> [u'http://www.comune.roma.it/']	0	EMPTY
+which is the main train station in rome?	11756	rome --> webpage description --> [u'Visitor Information', u'Rome information', u'Rome Live Webcam']	0	EMPTY
+which is the main train station in rome?	11756	rome --> geocode longitude --> [u'12.5']	0	EMPTY
+which is the main train station in rome?	11756	rome --> time zone locations in this time zone --> [u'Historical Residence Hotel I Pini']	0	EMPTY
+which is the main train station in rome?	11756	rome --> film location featured in films --> [u'Candy Viola', u'The Taming of the Shrew', u'The Last Emperor', u"The Emperor's New Clothes", u'Little Girl']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape theatres --> [u"Teatro dell'Opera di Roma", u'Teatro Argentina, Rome', u'Auditorium Parco della Musica']	26	* [[1900]] – [[Giacomo Puccini]]'s opera '''''[[Tosca]]''''', based on the play ''[[La Tosca]]'' by French [[Playwright|dramatist]] [[Victorien Sardou]], premiered at the [[Teatro dell'Opera di Roma|Teatro Costanzi]] in [[Rome]].
+which is the main train station in rome?	11756	rome --> olympic city bid olympic games --> [u'2004 Summer Olympics']	0	EMPTY
+which is the main train station in rome?	11756	rome --> webpage resource --> [u"'The Celebrity Apprentice' recap: Snoozers and Losers", u"Channing Tatum talks about his burnt penis, wanting to do stripper movie: Now, I'm a fan", u'Disney Studios hires new production chief: Sean Bailey', u'Rome information', u'Peter Sarsgaard, Maggie Gyllenhaal tie the knot']	0	EMPTY
+which is the main train station in rome?	11756	rome --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0	EMPTY
+which is the main train station in rome?	11756	rome --> newspaper circulation area newspapers --> [u'Tuttosport', u"l'Unit\xe0", u'Liberazione', u'il manifesto', u'Il Riformista']	0	EMPTY
+which is the main train station in rome?	11756	rome --> provenienciaadat mutargy --> [u'Cristo della Minerva']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape museums --> [u'National Etruscan Museum', u'National Museum of Oriental Art', u'Capitoline Museums', u'Galleria Borghese', u'National Museum of Musical Instruments']	48	Appointed by [[Pope Pius VI]] to succeed his father in the position, the brilliant and precocious Visconti took up his father's position as [[Conservator (religion)|conservator]] of the [[Capitoline Museums]] in [[Rome]] in 1787; he assisted his father in producing the first volume of the ''Museo Pio-Clementino'' (1782) and produced the six remaining volumes himself, completing the last in 1807; this catalogue of the [[Ancient Roman sculpture|Roman sculpture]] and antiquities in the Vatican collections, published in the course of many years, "made an impact on archaeological studies second only to that of [[Johann Joachim Winckelmann|Winckelmann]]."
+which is the main train station in rome?	11756	rome --> location containedby --> [u'Italy', u'Lazio', u'Province of Rome']	2187	|death_place=[[Rome]], [[Lazio]], [[Papal States]]
+which is the main train station in rome?	11756	rome --> travel destination monthly climate average rainfall mm --> [u'17', u'27', u'36', u'53', u'56']	0	EMPTY
+which is the main train station in rome?	11756	rome --> fictional setting fictional characters born here --> [u'Marius de Romanus']	0	EMPTY
+which is the main train station in rome?	11756	rome --> top architectural city structure count --> [u'15']	0	EMPTY
+which is the main train station in rome?	11756	rome --> bibs location country --> [u'Italy']	2105	One of the main principles of national unity has often been considered the [[Christian religion]], because [[Italy]] has been Christian since the settlement of the [[Papal States]] in [[Rome]].
+which is the main train station in rome?	11756	rome --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+which is the main train station in rome?	11756	rome --> valuenotation has no value --> [u'Date dissolved']	0	EMPTY
+which is the main train station in rome?	11756	rome --> helynevek helynev --> [u'R\xf3ma']	0	EMPTY
+which is the main train station in rome?	11756	rome --> provenienciaadat intezmeny --> [u'Santa Maria sopra Minerva']	17	* [[Santa Maria sopra Minerva]] (only Gothic church in [[Rome]])
+which is the main train station in rome?	11756	rome --> geocode latitude --> [u'41.9']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape universities --> [u'Venerable English College, Rome', u'French Academy in Rome', u'American Academy in Rome', u'British School at Rome']	16	The Académie de peinture et sculpture is responsible for the [[French Academy in Rome|Académie de France]] in the [[Villa Médicis]] in [[Rome]] (founded in 1666) which allows promising artists to study in Rome.
+which is the main train station in rome?	11756	rome --> administrative division capital relationship administrative division --> [u'Lazio', u'Province of Rome']	237	|death_place=[[Rome]], [[Lazio]], [[Papal States]]
+which is the main train station in rome?	11756	rome --> government position held office position or title --> [u'Praefectus Urbis Romae']	0	EMPTY
+which is the main train station in rome?	11756	rome --> topic subject of --> [u'Transport in Rome']	0	EMPTY
+which is the main train station in rome?	11756	rome --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+which is the main train station in rome?	11756	rome --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+which is the main train station in rome?	11756	rome --> taxonomy entry low --> [u'803']	0	EMPTY
+which is the main train station in rome?	11756	rome --> topic topical webpage --> [u'http://wikitravel.org/en/Rome', u'http://www.streamdays.com/camera/view/roman_forum_italy']	0	EMPTY
+which is the main train station in rome?	11756	rome --> provenienciaadat aktualis --> [u'1']	0	EMPTY
+which is the main train station in rome?	11756	rome --> bibs location is clear --> [u'1']	0	EMPTY
+which is the main train station in rome?	11756	rome --> olympic medal honor medal --> [u'Gold medal']	1	in [[Fine Arts]] and a [[Gold medal]] in 1967 from Punjab University (PUCAD) Lahore, he completed his Ph.D in [[Muslim]] architecture, in [[Turkey]] in 1978 and proceeded to do a course on Conservation of Cultural Property at [[UNESCO]], [[Rome]] in 1977.
+which is the main train station in rome?	11756	rome --> sports team location teams --> [u'Pallacanestro Virtus Roma', u'A.S. Roma', u'S.S. Lazio', u'M. Roma Volley']	46	Born in [[Rome]], Tassotti played his first professional season with local [[S.S. Lazio]] in [[1978–79 Serie A|1978–79]], where he soon became a first team member the [[1979–80 Serie A|following season]], making his [[Serie A]] debut on 5 November 1978.
+which is the main train station in rome?	11756	rome --> olympic medal honor event --> [u'Water polo']	0	EMPTY
+which is the main train station in rome?	11756	rome --> dated location date founded --> [u'-0752-04-21']	0	EMPTY
+which is the main train station in rome?	11756	rome --> object name --> [u'Rome']	0	EMPTY
+which is the main train station in rome?	11756	rome --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjpOJwpEbGdrcN5Y29ycA']	0	EMPTY
+which is the main train station in rome?	11756	rome --> cityscape stadiums --> [u'Stadio Flaminio']	19	|[[Stadio Flaminio]], [[Rome]]
+which is the main train station in rome?	11756	rome --> government position held from --> [u'0381']	0	EMPTY
+which is the main train station in rome?	11756	rome --> film subject films --> [u'Gladiator']	0	EMPTY
+which is the main train station in rome?	11756	rome --> dated integer number --> [u'17000', u'194500', u'212432', u'273952', u'422411']	0	EMPTY
+which is the main train station in rome?	11756	rome --> dated integer year --> [u'1881', u'1901', u'1911', u'1921', u'1931']	0	EMPTY
+which is the main train station in rome?	11756	rome --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	1	([[Rome]], [[Italy]], [[4]] [[September]] [[1956]]) is an Italian artist and actress.
+which is the main train station in rome?	11756	rome --> book subject works --> [u'A Struggle for Rome', u'Antony and Cleopatra', u'Empire of pleasures', u'The Last King', u'Darkling I listen']	0	EMPTY
+which is the main train station in rome?	11756	rome --> location nearby airports --> [u'Leonardo da Vinci\u2013Fiumicino Airport', u'Ciampino\u2013G. B. Pastine International Airport', u'Italian Met Office Airport', u'Urbe Airport', u'Rome Viterbo Airport']	2	* [[Rome Urbe Airport]], [[Rome]], [[Italy]]
+which is the main train station in rome?	11756	train --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+which is the main train station in rome?	11756	train --> webpage resource --> [u"Exclusive: Summer Glau sets off a 'Big Bang'", u"Exclusive: Summer Glau sets off a 'Big Bang'", u"'Cougar Town' recap: Breaking up is hard to do"]	0	EMPTY
+which is the main train station in rome?	11756	train --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rcyWW7H9FQdeeWvEK5A3TFQ']	0	EMPTY
+which is the main train station in rome?	11756	train --> quotation subject quotations about this subject --> [u'Along the iron veins that traverse the frame of our country, beat and flow the fiery pulses of its exertion, hotter and faster every hour. All vitality is concentrated through those throbbing arteries into the central cities; the country is passed over like a green sea by narrow bridges, and we are thrown back in continually closer crowds on the city gates.', u'We who have lived before railways were made belong to another world. It was only yesterday, but what a gulf between now and then! Then was the old world. Stage-coaches, more or less swift, riding-horses, pack-horses, highwaymen, knights in armor, Norman invaders, Roman legions, Druids, Ancient Britons painted blue, and so forth -- all these belong to the old period. But your railroad starts the new era, and we of a certain age belong to the new time and the old one. We who lived before railways, and survive out of the ancient world, are like Father Noah and his family out of the Ark.', u'Railway termini are our gates to the glorious and the unknown. Through them we pass out into adventure and sunshine, to them, alas! we return.', u"That devilish Iron Horse, whose ear-rending neigh is heard throughout the town, has muddied the Boiling Spring with his foot, and he it is that has browsed off all the woods on Walden shore, that Trojan horse, with a thousand men in his belly, introduced by mercenary Greeks! Where is the country's champion, the Moore of Moore Hall, to meet him at the Deep Cut and thrust an avenging lance between the ribs of the bloated pest?", u'The only way of catching a train I have ever discovered is to miss the train before.']	0	EMPTY
+which is the main train station in rome?	11756	train --> transit service type transit systems --> [u'Metlink']	0	EMPTY
+which is the main train station in rome?	11756	train --> transit vehicle transit lines --> [u'Millennium Line', u'Red Line', u'Joondalup railway line', u'Blue Line', u'Yonge\u2013University\u2013Spadina line']	0	EMPTY
+which is the main train station in rome?	11756	train --> object name --> [u'Train']	0	EMPTY
+which is the main train station in rome?	11756	train --> topic image --> [u'5051 Earl Bathurst Cocklewood Harbour', u'V43', u'GE Dash 8-39B']	0	EMPTY
+which is the main train station in rome?	11756	train --> transit service type transit lines --> [u'Portsmouth Direct Line', u'New Guildford Line', u'The Grand Canyon Line', u'Northern Commuter', u'Blue Line']	0	EMPTY
+which is the main train station in rome?	11756	train --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+which is the main train station in rome?	11756	train --> film subject films --> [u'Runaway Train', u'Strangers on a Train', u'Murder on the Orient Express', u'The Cassandra Crossing', u'The First Great Train Robbery']	0	EMPTY
+which is the main train station in rome?	11756	train --> linguistic hint subject form --> [u'Trains']	0	EMPTY
+which is the main train station in rome?	11756	train --> transit system transit lines --> [u'Bel\xe9m to Cascais Railway', u'Linha da Beira Alta', u'\xd6stg\xf6tapendel', u'Transilien Paris \u2013 Est']	0	EMPTY
+which is the main train station in rome?	11756	metro station --> building function buildings --> [u'Sahil']	0	EMPTY
+which is the main train station in rome?	11756	metro station --> object name --> [u'Metro station']	0	EMPTY
+which is the main train station in rome?	11756	metro station --> topic image --> [u'Exterior open entrance to a metro station (Tribunal station in Madrid)', u'Georg-Brauchle-Ring station of the Munich U-Bahn.', u'SP METRO Outside']	0	EMPTY
+which is the main train station in rome?	11756	train --> award honor ceremony --> [u'Grammy Awards of 2011']	0	EMPTY
+which is the main train station in rome?	11756	train --> topic social media presence --> [u'http://plus.google.com/104459480948960105365']	0	EMPTY
+which is the main train station in rome?	11756	train --> track contribution track --> [u'Baby Roulette']	0	EMPTY
+which is the main train station in rome?	11756	train --> award honor honored for --> [u'Hey, Soul Sister']	0	EMPTY
+which is the main train station in rome?	11756	train --> award nomination nominated for --> [u'Drops of Jupiter', u'Hey, Soul Sister', u'Calling All Angels']	0	EMPTY
+which is the main train station in rome?	11756	train --> artist label --> [u'Columbia', u'Sony BMG Music Entertainment', u'Aware Records']	2	*[[Train (band)|Train]] "This'll Be My Year" ([[Columbia Records|Columbia]]) (co-write)
+which is the main train station in rome?	11756	train --> award nomination award --> [u'Grammy Award for Best Pop Performance by a Duo or Group with Vocal', u'Grammy Award for Record of the Year', u"People's Choice Award for Favorite Band", u'Grammy Award for Best Rock Performance by a Duo or Group with Vocal', u"Kids' Choice Award for Favorite Song"]	0	EMPTY
+which is the main train station in rome?	11756	train --> award honor award --> [u'Grammy Award for Best Pop Performance by a Duo or Group with Vocal']	0	EMPTY
+which is the main train station in rome?	11756	train --> group membership role --> [u'Bass guitar', u'Drum', u'Guitar', u'Lead vocalist', u'Keyboard']	0	EMPTY
+which is the main train station in rome?	11756	train --> webpage category --> [u'Topic Webpage', u'Official Website', u'Curated Topic', u'Lyrics']	0	EMPTY
+which is the main train station in rome?	11756	train --> artist content --> [u'Atlantic Sound Factory', u"Pop Rock 80's", u'WLIF', u'Big R Radio - 107.7 The Mix', u'WJMK']	0	EMPTY
+which is the main train station in rome?	11756	train --> track contribution role --> [u'Vocals']	0	EMPTY
+which is the main train station in rome?	11756	train --> topic official website --> [u'http://trainline.com/']	0	EMPTY
+which is the main train station in rome?	11756	train --> artist active start --> [u'1994']	0	EMPTY
+which is the main train station in rome?	11756	train --> webpage resource --> [u'MusicMoz page for Train', u'Train Lyrics']	0	EMPTY
+which is the main train station in rome?	11756	train --> topic webpage --> [u'http://www.discogs.com/artist/Train+(2)', u'MusicMoz page for Train']	0	EMPTY
+which is the main train station in rome?	11756	train --> artist origin --> [u'San Francisco']	3	*'''2015''': "Kickoff to 50 presented by [[Hyundai]]" was held at the [[Embarcadero_(San_Francisco)#Justin_Herman_Plaza|Justin Herman Plaza]] in [[San Francisco]], [[California]], the home of [[Super Bowl 50]], with [[Ellie Goulding]] and [[Train (band)|Train]] performing.
+which is the main train station in rome?	11756	train --> artist genre --> [u'Alternative rock', u'Folk rock', u'Alternative country', u'Country', u'Soft rock']	0	EMPTY
+which is the main train station in rome?	11756	train --> group membership start --> [u'1993', u'1994', u'2003', u'2008']	0	EMPTY
+which is the main train station in rome?	11756	train --> group membership member --> [u'Charlie Colin', u'Scott Underwood', u'Jimmy Stafford', u'Patrick Monahan', u'Brandon Bush']	14	*[[Patrick Monahan]], lead singer of [[Train (band)|Train]]; solo artist; Grammy Award winner
+which is the main train station in rome?	11756	train --> group membership end --> [u'2003', u'2006']	0	EMPTY
+which is the main train station in rome?	11756	train --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+which is the main train station in rome?	11756	train --> award honor year --> [u'2010']	0	EMPTY
+which is the main train station in rome?	11756	train --> webpage uri --> [u'http://www.discogs.com/artist/Train+(2)', u'http://www.trainline.com/', u'http://musicmoz.org/Bands_and_Artists/T/Train/']	0	EMPTY
+which is the main train station in rome?	11756	train --> award nomination notes description --> [u'2011 Best Pop Performance by a Duo or Group with Vocals']	0	EMPTY
+which is the main train station in rome?	11756	train --> topic topical webpage --> [u'http://www.discogs.com/artist/Train+(2)', u'http://musicmoz.org/Bands_and_Artists/T/Train/', u'http://www.directlyrics.com/train-artist.html']	0	EMPTY
+which is the main train station in rome?	11756	train --> artist track --> [u'Drops of Jupiter', u"She's on Fire", u'I Wish You Would', u'Something More', u'Hopeless']	0	EMPTY
+which is the main train station in rome?	11756	train --> producer tracks produced --> [u'Fall Out']	0	EMPTY
+which is the main train station in rome?	11756	train --> composer compositions --> [u'Brand New Book']	0	EMPTY
+which is the main train station in rome?	11756	train --> artist album --> [u'Drops of Jupiter', u'Save Me, San Francisco', u'Ramble On', u'Live in Atlanta', u'Meet Virginia']	14	*[[Train (band)|Train]] – ''[[Drops of Jupiter]]''
+which is the main train station in rome?	11756	train --> object name --> [u'Train']	0	EMPTY
+which is the main train station in rome?	11756	train --> topic image --> [u'Monahan performing in West Palm Beach']	0	EMPTY
+which is the main train station in rome?	11756	train --> award honor notes description --> [u'Artist']	0	EMPTY
+which is the main train station in rome?	11756	train --> personal film appearance film --> [u"Train: She's on Fire", u'Train: Midnight Moon']	0	EMPTY
+which is the main train station in rome?	11756	train --> award nomination year --> [u'2001', u'2003', u'2010', u'2011', u'2012']	0	EMPTY

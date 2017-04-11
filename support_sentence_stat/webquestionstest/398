@@ -1,45 +1,45 @@
-where is mt st helens located?	321	mount st. helens --> namesake named after --> [u'Alleyne FitzHerbert, 1st Baron St Helens']	3
-where is mt st helens located?	321	mount st. helens --> mountain first ascenders --> [u'Thomas J. Dryer']	1
-where is mt st helens located?	321	mount st. helens --> mountain prominence --> [u'1404']	0
-where is mt st helens located?	321	mount st. helens --> mountain mountain range --> [u'Cascade Range']	10
-where is mt st helens located?	321	mount st. helens --> mountain mountain type --> [u'Volcano', u'Stratovolcano']	1
-where is mt st helens located?	321	mount st. helens --> mountain last eruption --> [u'2008-07-10']	0
-where is mt st helens located?	321	mount st. helens --> location events --> [u'1980 eruption of Mount St. Helens']	21
-where is mt st helens located?	321	mount st. helens --> location contains --> [u'Crater Glacier', u'Spirit Lake']	7
-where is mt st helens located?	321	mount st. helens --> topic alias --> [u'St. Helens mountain']	0
-where is mt st helens located?	321	mount st. helens --> object name --> [u'Mount St. Helens']	0
-where is mt st helens located?	321	mount st. helens --> mountain elevation --> [u'2550']	0
-where is mt st helens located?	321	mount st. helens --> topic image --> [u'Mt St Helens', u'Mount St. Helens', u'Mount St. Helens']	0
-where is mt st helens located?	321	mount st. helens --> location containedby --> [u'North America', u'Washington', u'United States of America', u'Skamania County', u'Cascade Range']	31
-where is mt st helens located?	321	mount st. helens --> geocode latitude --> [u'46.200047']	0
-where is mt st helens located?	321	mount st. helens --> mountain date of first ascent --> [u'1853']	0
-where is mt st helens located?	321	mount st. helens --> places eastward from --> [u'1806']	0
-where is mt st helens located?	321	mount st. helens --> geocode longitude --> [u'-122.189203']	0
-where is mt st helens located?	321	mount st. helens --> places westward from --> [u'1805']	0
-where is mt st helens located?	321	1980 eruption of mount st. helens --> topic image --> [u'1980 eruption of Mount St. Helens', u'Mount St. Helens, May 17, 1980.', u'USGS photo showing a pre-avalanche eruption on April 10.']	0
-where is mt st helens located?	321	1980 eruption of mount st. helens --> object name --> [u'1980 eruption of Mount St. Helens']	0
-where is mt st helens located?	321	1980 eruption of mount st. helens --> event locations --> [u'Mount St. Helens']	21
-where is mt st helens located?	321	1980 eruption of mount st. helens --> disaster victims --> [u'Reid Blackburn']	1
-where is mt st helens located?	321	1980 eruption of mount st. helens --> event start date --> [u'1980-05-18']	0
-where is mt st helens located?	321	ismt ltd. --> object name --> [u'ISMT Ltd.']	0
-where is mt st helens located?	321	ismt ltd. --> issuer issue --> [u'ISMT LTD Common Stock']	0
-where is mt st helens located?	321	ibm mtst --> object name --> [u'IBM MT/ST']	0
-where is mt st helens located?	321	ibm mtst --> topic alias --> [u'Magnetic tape selectric typewriter']	0
-where is mt st helens located?	321	st helens rlfc --> sports team arena stadium --> [u'Langtree Park']	4
-where is mt st helens located?	321	st helens rlfc --> sports team sport --> [u'Rugby league']	1
-where is mt st helens located?	321	st helens rlfc --> sports team roster player --> [u'Anthony Walker']	0
-where is mt st helens located?	321	st helens rlfc --> object name --> [u'St Helens RLFC']	0
-where is mt st helens located?	321	st helens rlfc --> webpage category --> [u'Tag']	0
-where is mt st helens located?	321	st helens rlfc --> sports team roster from --> [u'2013']	0
-where is mt st helens located?	321	st helens rlfc --> sports team colors --> [u'White', u'Red']	0
-where is mt st helens located?	321	st helens rlfc --> topic official website --> [u'http://www.saintsrlfc.com/']	0
-where is mt st helens located?	321	st helens rlfc --> rugby coaching tenure coach --> [u'Royce Simmons']	0
-where is mt st helens located?	321	st helens rlfc --> sports team team mascot --> [u'Bernard', u'Boots']	0
-where is mt st helens located?	321	st helens --> location people born here --> [u'Barry Foy', u'Thomas Beecham', u'Richard Pilkington', u'Ian Potter', u'Ray Ranson']	0
-where is mt st helens located?	321	st helens --> location contains --> [u'Sutton High Sports College', u'Knowsley Road', u'St Helens College', u'Cowley International College', u'Langtree Park']	144
-where is mt st helens located?	321	st helens --> topic alias --> [u'St Helens, Merseyside']	0
-where is mt st helens located?	321	st helens --> object name --> [u'St Helens']	0
-where is mt st helens located?	321	st helens --> topic image --> [u'Aston, Flintshire (United Kingdom)', u'Sthelenscoatofarms', u'{{{alt}}}']	0
-where is mt st helens located?	321	st helens --> geocode longitude --> [u'-2.72563934326']	0
-where is mt st helens located?	321	st helens --> location containedby --> [u'England', u'United Kingdom', u'Lancashire']	76
-where is mt st helens located?	321	st helens --> geocode latitude --> [u'53.4573934009']	0
+where is mt st helens located?	321	mount st. helens --> namesake named after --> [u'Alleyne FitzHerbert, 1st Baron St Helens']	3	... that the volcano [[Mount St. Helens]] is named after '''[[Alleyne FitzHerbert, 1st Baron St Helens|Alleyne FitzHerbert]]''' of [[Derby]]?
+where is mt st helens located?	321	mount st. helens --> mountain first ascenders --> [u'Thomas J. Dryer']	1	| * || [[Mount St. Helens]] || 2950 || [[Cascade Range]] ||  || [[Thomas J. Dryer]], John Wilson, ?.
+where is mt st helens located?	321	mount st. helens --> mountain prominence --> [u'1404']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> mountain mountain range --> [u'Cascade Range']	10	Blundy subsequently collaborated with [[Katharine Cashman]] at the [[University of Oregon]] on [[Mount St. Helens]] volcano in the [[Cascade Range]] of northwestern USA.
+where is mt st helens located?	321	mount st. helens --> mountain mountain type --> [u'Volcano', u'Stratovolcano']	1	[[Volcano]]es that occur above subduction zones, such as [[Mount St. Helens]], [[Mount Etna]] and [[Mount Fuji]], lie at approximately one hundred kilometres from the trench in arcuate chains, hence the term [[volcanic arc]].
+where is mt st helens located?	321	mount st. helens --> mountain last eruption --> [u'2008-07-10']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> location events --> [u'1980 eruption of Mount St. Helens']	21	*[[1980]] &ndash; [[Mount St. Helens]] [[1980 eruption of Mount St. Helens|erupts]] in [[Washington (state)|Washington]], United States, killing 57 people and causing $3&nbsp;billion in damage.
+where is mt st helens located?	321	mount st. helens --> location contains --> [u'Crater Glacier', u'Spirit Lake']	7	**[[Spirit Lake (Washington)|Spirit Lake, Washington]], United States (''Dsc''), previous to 1980 eruption of [[Mount St. Helens]]
+where is mt st helens located?	321	mount st. helens --> topic alias --> [u'St. Helens mountain']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> object name --> [u'Mount St. Helens']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> mountain elevation --> [u'2550']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> topic image --> [u'Mt St Helens', u'Mount St. Helens', u'Mount St. Helens']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> location containedby --> [u'North America', u'Washington', u'United States of America', u'Skamania County', u'Cascade Range']	31	|death_place   = [[Mount St. Helens]], [[Washington (state)|Washington]], United States
+where is mt st helens located?	321	mount st. helens --> geocode latitude --> [u'46.200047']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> mountain date of first ascent --> [u'1853']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> places eastward from --> [u'1806']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> geocode longitude --> [u'-122.189203']	0	EMPTY
+where is mt st helens located?	321	mount st. helens --> places westward from --> [u'1805']	0	EMPTY
+where is mt st helens located?	321	1980 eruption of mount st. helens --> topic image --> [u'1980 eruption of Mount St. Helens', u'Mount St. Helens, May 17, 1980.', u'USGS photo showing a pre-avalanche eruption on April 10.']	0	EMPTY
+where is mt st helens located?	321	1980 eruption of mount st. helens --> object name --> [u'1980 eruption of Mount St. Helens']	0	EMPTY
+where is mt st helens located?	321	1980 eruption of mount st. helens --> event locations --> [u'Mount St. Helens']	21	*[[1980]] &ndash; [[Mount St. Helens]] [[1980 eruption of Mount St. Helens|erupts]] in [[Washington (state)|Washington]], United States, killing 57 people and causing $3&nbsp;billion in damage.
+where is mt st helens located?	321	1980 eruption of mount st. helens --> disaster victims --> [u'Reid Blackburn']	1	... that photographer '''[[Reid Blackburn]]''', who was killed in the [[1980 eruption of Mount St. Helens]], was supposed to remain on the mountain only until the day before the eruption?
+where is mt st helens located?	321	1980 eruption of mount st. helens --> event start date --> [u'1980-05-18']	0	EMPTY
+where is mt st helens located?	321	ismt ltd. --> object name --> [u'ISMT Ltd.']	0	EMPTY
+where is mt st helens located?	321	ismt ltd. --> issuer issue --> [u'ISMT LTD Common Stock']	0	EMPTY
+where is mt st helens located?	321	ibm mtst --> object name --> [u'IBM MT/ST']	0	EMPTY
+where is mt st helens located?	321	ibm mtst --> topic alias --> [u'Magnetic tape selectric typewriter']	0	EMPTY
+where is mt st helens located?	321	st helens rlfc --> sports team arena stadium --> [u'Langtree Park']	4	*[[Langtree Park]] ([[St Helens RFC]] Stadium) in 
+where is mt st helens located?	321	st helens rlfc --> sports team sport --> [u'Rugby league']	1	*[[Sean Long]], former [[Rugby league|Rugby League]] player most notable for playing for [[St Helens RFC|St Helens]]
+where is mt st helens located?	321	st helens rlfc --> sports team roster player --> [u'Anthony Walker']	0	EMPTY
+where is mt st helens located?	321	st helens rlfc --> object name --> [u'St Helens RLFC']	0	EMPTY
+where is mt st helens located?	321	st helens rlfc --> webpage category --> [u'Tag']	0	EMPTY
+where is mt st helens located?	321	st helens rlfc --> sports team roster from --> [u'2013']	0	EMPTY
+where is mt st helens located?	321	st helens rlfc --> sports team colors --> [u'White', u'Red']	0	EMPTY
+where is mt st helens located?	321	st helens rlfc --> topic official website --> [u'http://www.saintsrlfc.com/']	0	EMPTY
+where is mt st helens located?	321	st helens rlfc --> rugby coaching tenure coach --> [u'Royce Simmons']	0	EMPTY
+where is mt st helens located?	321	st helens rlfc --> sports team team mascot --> [u'Bernard', u'Boots']	0	EMPTY
+where is mt st helens located?	321	st helens --> location people born here --> [u'Barry Foy', u'Thomas Beecham', u'Richard Pilkington', u'Ian Potter', u'Ray Ranson']	0	EMPTY
+where is mt st helens located?	321	st helens --> location contains --> [u'Sutton High Sports College', u'Knowsley Road', u'St Helens College', u'Cowley International College', u'Langtree Park']	144	Helens]]' 11-26 defeat by [[Hull Kingston Rovers]] in the [[1977 BBC2 Floodlit Trophy|1977]] [[BBC2 Floodlit Trophy]] final during the [[1977–78 Northern Rugby Football League season|1977–78 season]] at [[Old Craven Park|Craven Park]], [[Kingston upon Hull]] on Tuesday 13 December 1977, and played  in the 7-13 defeat by [[Widnes Vikings|Widnes]] in the [[1978 BBC2 Floodlit Trophy|1978]] [[BBC2 Floodlit Trophy]] final during the [[1978–79 Northern Rugby Football League season|1978–79 season]] at [[Knowsley Road]], [[St Helens, Merseyside|St.
+where is mt st helens located?	321	st helens --> topic alias --> [u'St Helens, Merseyside']	0	EMPTY
+where is mt st helens located?	321	st helens --> object name --> [u'St Helens']	0	EMPTY
+where is mt st helens located?	321	st helens --> topic image --> [u'Aston, Flintshire (United Kingdom)', u'Sthelenscoatofarms', u'{{{alt}}}']	0	EMPTY
+where is mt st helens located?	321	st helens --> geocode longitude --> [u'-2.72563934326']	0	EMPTY
+where is mt st helens located?	321	st helens --> location containedby --> [u'England', u'United Kingdom', u'Lancashire']	76	'''Andy Northey''' born 17 February 1972 in [[St Helens, Merseyside|St Helens]], [[England]] is a former [[rugby league]] and [[rugby union]] player.
+where is mt st helens located?	321	st helens --> geocode latitude --> [u'53.4573934009']	0	EMPTY

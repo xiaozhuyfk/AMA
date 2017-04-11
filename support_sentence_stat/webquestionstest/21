@@ -1,13 +1,13 @@
-who won fa cup 1976?	393	fa cup --> recurring event date of first occurance --> [u'1871']	0
-who won fa cup 1976?	393	fa cup --> sports championship events --> [u'1966 FA Cup Final', u'1976 FA Cup Final', u'1974 FA Cup Final', u'2007 FA Cup Final', u'2006\u201307 FA Cup']	32
-who won fa cup 1976?	393	fa cup --> sports award award winner --> [u'Manchester City F.C.', u'Sunderland A.F.C.', u'Leeds United A.F.C.', u'Coventry City F.C.', u'Liverpool F.C.']	346
-who won fa cup 1976?	393	fa cup --> sports championship league --> [u'The Football Association']	15
-who won fa cup 1976?	393	fa cup --> topic alias --> [u'FA Challenge Cup', u'Football Association Challenge Cup']	0
-who won fa cup 1976?	393	fa cup --> webpage category --> [u'Official Website', u'Tag']	0
-who won fa cup 1976?	393	fa cup --> recurring event current frequency --> [u'Yearly']	0
-who won fa cup 1976?	393	fa cup --> object name --> [u'FA Cup']	0
-who won fa cup 1976?	393	fa cup --> topic image --> [u'FA Cup', u'The FA Cup Trophy', u'FACupBudweiserTrophy']	0
-who won fa cup 1976?	393	fa cup --> topic official website --> [u'http://www.thefa.com/TheFACup/']	0
-who won fa cup 1976?	393	fa cup --> sports award season --> [u'2006\u201307 FA Cup', u'2002\u201303 FA Cup', u'1968\u201369 FA Cup', u'1991\u201392 FA Cup', u'1985\u201386 FA Cup']	0
-who won fa cup 1976?	393	fa cup --> recurring event instances --> [u'2006\u201307 FA Cup', u'2002\u201303 FA Cup', u'1968\u201369 FA Cup', u'1888\u201389 FA Cup', u'1991\u201392 FA Cup']	0
-who won fa cup 1976?	393	fa cup --> webpage uri --> [u'http://www.thefa.com/TheFACup/']	0
+who won fa cup 1976?	393	fa cup --> recurring event date of first occurance --> [u'1871']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> sports championship events --> [u'1966 FA Cup Final', u'1976 FA Cup Final', u'1974 FA Cup Final', u'2007 FA Cup Final', u'2006\u201307 FA Cup']	32	Other examples include candid shots of the team on the coach which took them to [[Speke Airport]] en route to an [[FA Cup]] fifth round tie at [[Roker Park]] in 1964, while another shows [[Ray Wilson (English footballer)|Ray Wilson]], [[Alex Young (footballer born 1937)|Alex Young]], [[Sandy Brown (Scottish footballer)|Sandy Brown]] and [[Derek Temple]] sitting in their first-class carriage at [[Lime Street Station|Lime Street train station]] prior to their leaving for the [[1966 FA Cup Final]].
+who won fa cup 1976?	393	fa cup --> sports award award winner --> [u'Manchester City F.C.', u'Sunderland A.F.C.', u'Leeds United A.F.C.', u'Coventry City F.C.', u'Liverpool F.C.']	346	On 15 April, a crowd crush at the [[FA Cup]] semi-final between [[Liverpool F.C.|Liverpool]] and [[Nottingham Forest F.C.|Nottingham Forest]] at [[Hillsborough Stadium|Hillsborough]] killed 94 people and injured more than 300.
+who won fa cup 1976?	393	fa cup --> sports championship league --> [u'The Football Association']	15	On 30 March 2007 [[The Football Association]] confirmed that it had agreed a new four-year £425m television deal for ITV and [[Setanta Sports]] to show [[FA Cup]] and England international matches (the Scottish regional broadcaster STV replaces these games with regular programming).
+who won fa cup 1976?	393	fa cup --> topic alias --> [u'FA Challenge Cup', u'Football Association Challenge Cup']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> webpage category --> [u'Official Website', u'Tag']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> recurring event current frequency --> [u'Yearly']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> object name --> [u'FA Cup']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> topic image --> [u'FA Cup', u'The FA Cup Trophy', u'FACupBudweiserTrophy']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> topic official website --> [u'http://www.thefa.com/TheFACup/']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> sports award season --> [u'2006\u201307 FA Cup', u'2002\u201303 FA Cup', u'1968\u201369 FA Cup', u'1991\u201392 FA Cup', u'1985\u201386 FA Cup']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> recurring event instances --> [u'2006\u201307 FA Cup', u'2002\u201303 FA Cup', u'1968\u201369 FA Cup', u'1888\u201389 FA Cup', u'1991\u201392 FA Cup']	0	EMPTY
+who won fa cup 1976?	393	fa cup --> webpage uri --> [u'http://www.thefa.com/TheFACup/']	0	EMPTY

@@ -1,26 +1,26 @@
-who would play luke skywalker?	234	luke skywalker --> fictional character occupation --> [u'Martial artist', u'Jedi']	0
-who would play luke skywalker?	234	luke skywalker --> fictional character place of birth --> [u'Polis Massa']	0
-who would play luke skywalker?	234	luke skywalker --> fictional character gender --> [u'Male']	0
-who would play luke skywalker?	234	luke skywalker --> fictional character appears in these fictional universes --> [u'Star Wars']	1
-who would play luke skywalker?	234	luke skywalker --> performance actor --> [u'Mark Hamill']	38
-who would play luke skywalker?	234	luke skywalker --> fictional character organizations --> [u'Jedi']	0
-who would play luke skywalker?	234	luke skywalker --> game performance game --> [u'Star Wars: Battlefront II', u'LEGO Star Wars II: The Original Trilogy']	0
-who would play luke skywalker?	234	luke skywalker --> fictional character character created by --> [u'George Lucas']	4
-who would play luke skywalker?	234	luke skywalker --> sibling relationship of fictional characters siblings --> [u'Leia Organa']	50
-who would play luke skywalker?	234	luke skywalker --> quotation addressee quotations --> [u'Mos Eisley spaceport. You will never find a more wretched hive of scum and villainy. We must be cautious.']	0
-who would play luke skywalker?	234	luke skywalker --> cloned character clones --> [u'Luuke Skywalker']	0
-who would play luke skywalker?	234	luke skywalker --> webpage resource --> [u"Indiana Jones, Wonder Woman, Frodo Baggins: Who's your favorite pop-culture hero?", u'Harry Potter films: The hero quest lives on', u"'Flight of the Conchords' music recap: 'Petrov, Yelyena and Me'"]	0
-who would play luke skywalker?	234	luke skywalker --> performance film --> [u'Star Wars Episode IV: A New Hope', u'Star Wars Episode VI: Return of the Jedi', u'Star Wars Episode V: The Empire Strikes Back', u'The Star Wars Holiday Special', u'Return of the Ewok']	40
-who would play luke skywalker?	234	luke skywalker --> regular tv appearance special performance type --> [u'Voice']	0
-who would play luke skywalker?	234	luke skywalker --> fictional date time other date time --> [u'19']	0
-who would play luke skywalker?	234	luke skywalker --> fictional character places lived --> [u'Tatooine']	11
-who would play luke skywalker?	234	luke skywalker --> book character appears in book --> [u"Splinter of the Mind's Eye", u'The Truce at Bakura', u'The Last Command', u'Exile', u'Betrayal']	0
-who would play luke skywalker?	234	luke skywalker --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-who would play luke skywalker?	234	luke skywalker --> fictional character powers or abilities --> [u'Levitation', u'Telepathy', u'Force']	1
-who would play luke skywalker?	234	luke skywalker --> fictional date time other calendar system --> [u'Before Battle of Yavin']	0
-who would play luke skywalker?	234	luke skywalker --> fictional object destroyer fictional objects destroyed --> [u'Death Star']	11
-who would play luke skywalker?	234	luke skywalker --> object name --> [u'Luke Skywalker']	0
-who would play luke skywalker?	234	luke skywalker --> regular tv appearance actor --> [u'Mark Hamill']	38
-who would play luke skywalker?	234	luke skywalker --> fictional character species --> [u'Human', u'Human']	0
-who would play luke skywalker?	234	luke skywalker --> fictional character parents --> [u'Padm\xe9 Amidala', u'Darth Vader']	40
-who would play luke skywalker?	234	luke skywalker --> spoiler properties containing spoilers --> [u'Description']	0
+who would play luke skywalker?	234	luke skywalker --> fictional character occupation --> [u'Martial artist', u'Jedi']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional character place of birth --> [u'Polis Massa']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional character gender --> [u'Male']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional character appears in these fictional universes --> [u'Star Wars']	1	The films and [[Star Wars expanded universe|expanded universe]] reveal that he had a hand in training almost every Jedi in the [[Star Wars galaxy|galaxy]], including [[Count Dooku]], who is identified in ''Attack of the Clones'' as Yoda's old [[Grand Master (Jedi)|Padawan Learner]]; [[Mace Windu]]; [[Obi-Wan Kenobi]] (partially, before [[Qui-Gon Jinn]] takes over as Obi-Wan's master); [[Ki-Adi-Mundi]], [[Kit Fisto]] and eventually [[Luke Skywalker]].
+who would play luke skywalker?	234	luke skywalker --> performance actor --> [u'Mark Hamill']	38	* [[Mark Hamill]] as [[Luke Skywalker]]: a young man raised by his aunt and uncle on [[Tatooine]], who dreams of something more than his current life and learns the way of a [[Jedi]].
+who would play luke skywalker?	234	luke skywalker --> fictional character organizations --> [u'Jedi']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> game performance game --> [u'Star Wars: Battlefront II', u'LEGO Star Wars II: The Original Trilogy']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional character character created by --> [u'George Lucas']	4	He ran his own label, Luke Skyywalker Records, which was later shortened to Luke Records after [[George Lucas]] filed a legal case against them for infringing on the name of his ''[[Star Wars]]'' character, [[Luke Skywalker]].
+who would play luke skywalker?	234	luke skywalker --> sibling relationship of fictional characters siblings --> [u'Leia Organa']	50	After the [[Galactic Empire (Star Wars)|Galactic Empire]] is established at the end of the film, C-3PO's memory is erased to keep the knowledge of the locations of [[Luke Skywalker]] and [[Princess Leia]] a secret from their father.
+who would play luke skywalker?	234	luke skywalker --> quotation addressee quotations --> [u'Mos Eisley spaceport. You will never find a more wretched hive of scum and villainy. We must be cautious.']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> cloned character clones --> [u'Luuke Skywalker']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> webpage resource --> [u"Indiana Jones, Wonder Woman, Frodo Baggins: Who's your favorite pop-culture hero?", u'Harry Potter films: The hero quest lives on', u"'Flight of the Conchords' music recap: 'Petrov, Yelyena and Me'"]	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> performance film --> [u'Star Wars Episode IV: A New Hope', u'Star Wars Episode VI: Return of the Jedi', u'Star Wars Episode V: The Empire Strikes Back', u'The Star Wars Holiday Special', u'Return of the Ewok']	40	Lyrics recap the plot of ''[[The Empire Strikes Back]]'' as told from the point of view of [[Luke Skywalker]].
+who would play luke skywalker?	234	luke skywalker --> regular tv appearance special performance type --> [u'Voice']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional date time other date time --> [u'19']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional character places lived --> [u'Tatooine']	11	The camera then cuts to the planet of [[Tatooine]] where [[Luke Skywalker]] is shown fixing his landspeeder while his [[Uncle Owen]] shouts commands to him for the spoken interlude.
+who would play luke skywalker?	234	luke skywalker --> book character appears in book --> [u"Splinter of the Mind's Eye", u'The Truce at Bakura', u'The Last Command', u'Exile', u'Betrayal']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional character powers or abilities --> [u'Levitation', u'Telepathy', u'Force']	1	With seconds remaining before the moon was to be destroyed, [[Luke Skywalker]], thanks to Galen Erso's intentional Death Star design flaws, the timely assistance of his friend [[Han Solo]] and the ghostly advice of [[Obi-Wan Kenobi]] to use [[The Force (Star Wars)|The Force]], was able to fire [[proton torpedo]]es into a small thermal exhaust port along the Death Star's [[trench]], thereby destroying the station and saving Yavin&nbsp;4 from destruction.
+who would play luke skywalker?	234	luke skywalker --> fictional date time other calendar system --> [u'Before Battle of Yavin']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional object destroyer fictional objects destroyed --> [u'Death Star']	11	:* Not to [[WP:WAX]], but we do have plot-heavy articles on the fictional elements [[Luke Skywalker]], [[Han Solo]], [[Chewbacca]], [[Obi-Wan Kenobi]], [[Darth Vader]], [[Darth Maul]], [[Ewok]]s, [[Millennium Falcon]], [[Death Star]], [[Wookiee]]s, and even [[Stormtrooper (Star Wars)|Imperial Stormtroopers]].
+who would play luke skywalker?	234	luke skywalker --> object name --> [u'Luke Skywalker']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> regular tv appearance actor --> [u'Mark Hamill']	38	* [[Mark Hamill]] as [[Luke Skywalker]]: a young man raised by his aunt and uncle on [[Tatooine]], who dreams of something more than his current life and learns the way of a [[Jedi]].
+who would play luke skywalker?	234	luke skywalker --> fictional character species --> [u'Human', u'Human']	0	EMPTY
+who would play luke skywalker?	234	luke skywalker --> fictional character parents --> [u'Padm\xe9 Amidala', u'Darth Vader']	40	Confirmed figures are [[Darth Vader]], [[Luke Skywalker]], [[Boba Fett]], [[List of Star Wars characters#C|Commander Cody]] and [[Jango Fett]].
+who would play luke skywalker?	234	luke skywalker --> spoiler properties containing spoilers --> [u'Description']	0	EMPTY

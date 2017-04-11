@@ -1,28 +1,28 @@
-where does the parana river flow?	0	paraná river --> geocode latitude --> [u'-34.001389']	0
-where does the parana river flow?	0	paraná river --> location events --> [u'Passage of the Tonelero', u'Battle of Yatay', u'Battle of San Nicol\xe1s', u'Battle of Vuelta de Obligado']	0
-where does the parana river flow?	0	paraná river --> topic alias --> [u'Rio Paran\xe1', u'Parana River']	0
-where does the parana river flow?	0	paraná river --> adjoining relationship adjoins --> [u'Entre R\xedos Province', u'Misiones Province']	0
-where does the parana river flow?	0	paraná river --> geocode longitude --> [u'-56.6104888916']	0
-where does the parana river flow?	0	paraná river --> geocode longitude --> [u'-46.174444']	0
-where does the parana river flow?	0	paraná river --> river cities --> [u'Salto del Guair\xe1']	0
-where does the parana river flow?	0	paraná river --> geocode elevation --> [u'1148']	0
-where does the parana river flow?	0	paraná river --> location containedby --> [u'Brazil', u'Argentina', u'Paraguay', u'Mesopotamia, Argentina']	0
-where does the parana river flow?	0	paraná river --> river mouth --> [u'R\xedo de la Plata']	0
-where does the parana river flow?	0	paraná river --> river origin --> [u'Parana\xedba River', u'Grande River']	0
-where does the parana river flow?	0	paraná river --> river basin countries --> [u'Brazil', u'Argentina', u'Paraguay']	0
-where does the parana river flow?	0	paraná river --> geocode latitude --> [u'-27.4982221873']	0
-where does the parana river flow?	0	paraná river --> body of water bridges --> [u'General Belgrano Bridge', u'Friendship Bridge', u'Z\xe1rate-Brazo Largo Bridge', u'Rosario-Victoria Bridge', u'San Roque Gonz\xe1lez de Santa Cruz Bridge']	0
-where does the parana river flow?	0	paraná river --> river discharge --> [u'17290']	0
-where does the parana river flow?	0	paraná river --> river basin area --> [u'2582672']	0
-where does the parana river flow?	0	paraná river --> geocode longitude --> [u'-58.393611']	0
-where does the parana river flow?	0	paraná river --> river length --> [u'4880']	0
-where does the parana river flow?	0	paraná river --> geocode elevation --> [u'0']	0
-where does the parana river flow?	0	paraná river --> object name --> [u'Paran\xe1 River']	0
-where does the parana river flow?	0	paraná river --> topic image --> [u'Rio Parana seen from Spot Satellite', u'Parana river', u'ParanaEpitacio']	0
-where does the parana river flow?	0	paraná river --> geocode latitude --> [u'-19.2225']	0
-where does the parana river flow?	0	riverflow --> object name --> [u'Riverflow']	0
-where does the parana river flow?	0	riverflow --> single versions --> [u'Riverflow']	0
-where does the parana river flow?	0	riverflow --> webpage description --> [u'Song Lyrics at MetroLyrics']	0
-where does the parana river flow?	0	riverflow --> webpage uri --> [u'http://www.metrolyrics.com/riverflow-lyrics-levellers.html']	0
-where does the parana river flow?	0	riverflow --> object name --> [u'Riverflow']	0
-where does the parana river flow?	0	riverflow --> topic alias --> [u'Riverflow (live)']	0
+where does the parana river flow?	0	paraná river --> geocode latitude --> [u'-34.001389']	0	EMPTY
+where does the parana river flow?	0	paraná river --> location events --> [u'Passage of the Tonelero', u'Battle of Yatay', u'Battle of San Nicol\xe1s', u'Battle of Vuelta de Obligado']	0	EMPTY
+where does the parana river flow?	0	paraná river --> topic alias --> [u'Rio Paran\xe1', u'Parana River']	0	EMPTY
+where does the parana river flow?	0	paraná river --> adjoining relationship adjoins --> [u'Entre R\xedos Province', u'Misiones Province']	0	EMPTY
+where does the parana river flow?	0	paraná river --> geocode longitude --> [u'-56.6104888916']	0	EMPTY
+where does the parana river flow?	0	paraná river --> geocode longitude --> [u'-46.174444']	0	EMPTY
+where does the parana river flow?	0	paraná river --> river cities --> [u'Salto del Guair\xe1']	0	EMPTY
+where does the parana river flow?	0	paraná river --> geocode elevation --> [u'1148']	0	EMPTY
+where does the parana river flow?	0	paraná river --> location containedby --> [u'Brazil', u'Argentina', u'Paraguay', u'Mesopotamia, Argentina']	0	EMPTY
+where does the parana river flow?	0	paraná river --> river mouth --> [u'R\xedo de la Plata']	0	EMPTY
+where does the parana river flow?	0	paraná river --> river origin --> [u'Parana\xedba River', u'Grande River']	0	EMPTY
+where does the parana river flow?	0	paraná river --> river basin countries --> [u'Brazil', u'Argentina', u'Paraguay']	0	EMPTY
+where does the parana river flow?	0	paraná river --> geocode latitude --> [u'-27.4982221873']	0	EMPTY
+where does the parana river flow?	0	paraná river --> body of water bridges --> [u'General Belgrano Bridge', u'Friendship Bridge', u'Z\xe1rate-Brazo Largo Bridge', u'Rosario-Victoria Bridge', u'San Roque Gonz\xe1lez de Santa Cruz Bridge']	0	EMPTY
+where does the parana river flow?	0	paraná river --> river discharge --> [u'17290']	0	EMPTY
+where does the parana river flow?	0	paraná river --> river basin area --> [u'2582672']	0	EMPTY
+where does the parana river flow?	0	paraná river --> geocode longitude --> [u'-58.393611']	0	EMPTY
+where does the parana river flow?	0	paraná river --> river length --> [u'4880']	0	EMPTY
+where does the parana river flow?	0	paraná river --> geocode elevation --> [u'0']	0	EMPTY
+where does the parana river flow?	0	paraná river --> object name --> [u'Paran\xe1 River']	0	EMPTY
+where does the parana river flow?	0	paraná river --> topic image --> [u'Rio Parana seen from Spot Satellite', u'Parana river', u'ParanaEpitacio']	0	EMPTY
+where does the parana river flow?	0	paraná river --> geocode latitude --> [u'-19.2225']	0	EMPTY
+where does the parana river flow?	0	riverflow --> object name --> [u'Riverflow']	0	EMPTY
+where does the parana river flow?	0	riverflow --> single versions --> [u'Riverflow']	0	EMPTY
+where does the parana river flow?	0	riverflow --> webpage description --> [u'Song Lyrics at MetroLyrics']	0	EMPTY
+where does the parana river flow?	0	riverflow --> webpage uri --> [u'http://www.metrolyrics.com/riverflow-lyrics-levellers.html']	0	EMPTY
+where does the parana river flow?	0	riverflow --> object name --> [u'Riverflow']	0	EMPTY
+where does the parana river flow?	0	riverflow --> topic alias --> [u'Riverflow (live)']	0	EMPTY

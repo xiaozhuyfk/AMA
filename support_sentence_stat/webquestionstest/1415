@@ -1,307 +1,307 @@
-what is the political structure of china?	17393	the political structure --> object name --> [u'The political structure']	0
-what is the political structure of china?	17393	the political structure --> written work author --> [u'Grace A. Jones']	0
-what is the political structure of china?	17393	the political structure --> book editions --> [u'The political structure']	0
-what is the political structure of china?	17393	the political structure --> book edition book --> [u'The political structure']	0
-what is the political structure of china?	17393	the political structure --> book edition publication date --> [u'1969']	0
-what is the political structure of china?	17393	the political structure --> cataloged instance isbn --> [u'9780582487772']	0
-what is the political structure of china?	17393	the political structure --> cataloged instance opac uchicago --> [u'3053595']	0
-what is the political structure of china?	17393	the political structure --> object name --> [u'The political structure']	0
-what is the political structure of china?	17393	the political structure --> cataloged instance opac cornell --> [u'4896061']	0
-what is the political structure of china?	17393	the political structure --> cataloged instance stanford opac --> [u'138787']	0
-what is the political structure of china?	17393	the political structure --> book edition place of publication --> [u'London']	0
-what is the political structure of china?	17393	the political structure --> book edition isbn --> [u'9780582487772']	0
-what is the political structure of china?	17393	the political structure --> cataloged instance opac wisc --> [u'4069405']	0
-what is the political structure of china?	17393	the political --> object name --> [u'The Political']	0
-what is the political structure of china?	17393	the political --> written work author --> [u'David Ingram']	0
-what is the political structure of china?	17393	the political --> book editions --> [u'The Political (Blackwell Readings in Continental Philosophy)', u'The Political (Blackwell Readings in Continental Philosophy)']	0
-what is the political structure of china?	17393	sparta --> location events --> [u'Siege of Sparta']	1
-what is the political structure of china?	17393	sparta --> location contains --> [u'Archaeological Museum of Sparta', u'University of the Peloponnese, Sparta Campus']	0
-what is the political structure of china?	17393	sparta --> topic alias --> [u'Lacedaemon']	0
-what is the political structure of china?	17393	sparta --> fictional setting characters that have lived here --> [u'Xenophon']	0
-what is the political structure of china?	17393	sparta --> location adjectival form --> [u'Spartan']	0
-what is the political structure of china?	17393	sparta --> casualties lower estimate --> [u'300']	0
-what is the political structure of china?	17393	sparta --> location people born here --> [u'Cleomenes I', u'Leonidas I', u'Cleomenes III', u'Pausanias', u'Pleistoanax']	63
-what is the political structure of china?	17393	sparta --> casualties military conflict --> [u'Battle of Thermopylae']	21
-what is the political structure of china?	17393	sparta --> military command military conflict --> [u'Battle of Thermopylae']	21
-what is the political structure of china?	17393	sparta --> travel destination tourist attractions --> [u'Archaeological Museum of Sparta']	0
-what is the political structure of china?	17393	sparta --> military combatant group conflict --> [u'Battle of the Great Foss', u'Battle of Olpae', u'Battle of Leuctra', u'Battle of Mantinea', u'Peloponnesian War']	92
-what is the political structure of china?	17393	sparta --> country capital --> [u'Sparta']	1505
-what is the political structure of china?	17393	sparta --> administrative area administrative area type --> [u'Greek municipality']	0
-what is the political structure of china?	17393	sparta --> geocode longitude --> [u'22.430305481']	0
-what is the political structure of china?	17393	sparta --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what is the political structure of china?	17393	sparta --> topic exceptions --> [u'Sparta should be contained in some Greek prefecture.']	0
-what is the political structure of china?	17393	sparta --> art subject artwork on the subject --> [u'Young Spartans Exercising']	0
-what is the political structure of china?	17393	sparta --> location containedby --> [u'Greece']	23
-what is the political structure of china?	17393	sparta --> military combatant group combatants --> [u'Thespiae', u'Elis', u'Mantineia', u'Classical Athens']	42
-what is the political structure of china?	17393	sparta --> military command military commander --> [u'Leonidas I']	17
-what is the political structure of china?	17393	sparta --> geocode latitude --> [u'37.0765453668']	0
-what is the political structure of china?	17393	sparta --> name source namesakes --> [u'Sparta', u'Sparta', u'Sparta', u'Sparta', u'Sparta']	0
-what is the political structure of china?	17393	sparta --> country official language --> [u'Doric Greek']	5
-what is the political structure of china?	17393	sparta --> casualties type of casualties --> [u'Military - Dead']	0
-what is the political structure of china?	17393	sparta --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViHzZwpEbGdrcN5Y29ycA']	0
-what is the political structure of china?	17393	sparta --> dated location date dissolved --> [u'-0194']	0
-what is the political structure of china?	17393	sparta --> object name --> [u'Sparta']	0
-what is the political structure of china?	17393	sparta --> topic image --> [u'Map of Greece, position of Elaiochori highlighted', u'Alt text']	0
-what is the political structure of china?	17393	sparta --> country form of government --> [u'Monarchy', u'Diarchy', u'Aristocracy']	0
-what is the political structure of china?	17393	political structure --> object name --> [u'Political structure']	0
-what is the political structure of china?	17393	government --> equivalent topic equivalent domain --> [u'Government']	0
-what is the political structure of china?	17393	government --> taxonomy entry high --> [u'619', u'9593']	0
-what is the political structure of china?	17393	government --> vocabulary equivalent topic equivalent concept --> [u'Government']	0
-what is the political structure of china?	17393	government --> organization sector organizations in this sector --> [u'TERMINALFOUR', u'Worksafe', u'Ministry of Information']	0
-what is the political structure of china?	17393	government --> taxonomy entry prefix --> [u'JF', u'JK']	0
-what is the political structure of china?	17393	government --> education end date --> [u'1958', u'1965', u'1970', u'1977', u'1978']	0
-what is the political structure of china?	17393	government --> building function buildings --> [u'United States Capitol', u'Building 257', u'Six World Trade Center', u'Senedd', u'Building 101']	0
-what is the political structure of china?	17393	government --> education institution --> [u'University of Queensland', u'Harvard College', u'Columbia University', u'Ateneo de Manila University', u'Dartmouth College']	0
-what is the political structure of china?	17393	government --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what is the political structure of china?	17393	government --> webpage resource --> [u"Quote of the Day: 'Star Wars' social justice edition", u"'Air Hostess Wars' reaches flying altitude of 32,000 feet higher/better than 'Dance War'", u'Sacha Baron Cohen tells David Letterman how to find a terrorist', u'And on the 7th day, Jack Bauer rested', u"Michael Jackson: Genius? Yes. Government-sanctioned 'icon'? No."]	0
-what is the political structure of china?	17393	government --> education start date --> [u'1954', u'1961', u'1969', u'1984']	0
-what is the political structure of china?	17393	government --> education student --> [u'Dean Barnett', u'Victor Sumulong', u'Neal Katyal', u'Rob Allyn', u'Morton Halperin']	0
-what is the political structure of china?	17393	government --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what is the political structure of china?	17393	government --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what is the political structure of china?	17393	government --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwCAhkHseQdeRivkpwzBa0Q']	0
-what is the political structure of china?	17393	government --> taxonomy entry low --> [u'201', u'2403']	0
-what is the political structure of china?	17393	government --> education major field of study --> [u'History', u'Theatre', u'Business', u'Fine art']	13
-what is the political structure of china?	17393	government --> periodical subject periodicals --> [u'Federal Computer Week']	0
-what is the political structure of china?	17393	government --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Doctorate', u'Master of Science', u'M.A.']	2
-what is the political structure of china?	17393	government --> object name --> [u'Government']	0
-what is the political structure of china?	17393	government --> topic image --> [u'Government-Vedder-Highsmith-detail-1g']	0
-what is the political structure of china?	17393	government --> quotation subject quotations about this subject --> [u'The government is us; we are the government, you and I.', u'There is something to be said for government by a great aristocracy which has furnished leaders to the nation in peace and war for generations; even a democrat like myself must admit this. But there is absolutely nothing to be said for government by a plutocracy, for government by men very powerful in certain lines and gifted with the money touch, but with ideals which in their essence are merely those of so many glorified pawnbrokers.', u'Fear is the foundation of most government.', u'Governments need to have both shepherds and butchers.', u'Any cook should be able to run the country.']	0
-what is the political structure of china?	17393	government --> equivalent topic equivalent type --> [u'Government']	0
-what is the political structure of china?	17393	government --> book subject works --> [u'Canadas Trial Courts', u'Death Penalties', u'Veronica Guerin', u'Road work', u'The Mormon hierarchy']	0
-what is the political structure of china?	17393	choir --> education end date --> [u'1813']	0
-what is the political structure of china?	17393	choir --> group membership member --> [u'Nicolle Steins', u'Virgenie Henket', u'Karin Haine', u'Omar Al Omeir', u'Jos\xe9 Mar\xeda Corrales']	0
-what is the political structure of china?	17393	choir --> webpage resource --> [u"'Glee': Share your favorite show choir memories. We know you have them.", u"Scoop: 'Glee' courting Idina Menzel!", u"Can a real-life 'Glee' tide you over?", u"Exclusive: Eve joining 'Glee' club for arc", u"Snap Judgment: 'Trapped in the Closet,' Chapter 13"]	0
-what is the political structure of china?	17393	choir --> group membership end --> [u'1977', u'1985', u'1990', u'1991', u'2004']	0
-what is the political structure of china?	17393	choir --> recording contribution album --> [u'Voyager', u'La Double Vie de V\xe9ronique', u'The Nine Symphonies (Royal Liverpool Philharmonic Choir & Orchestra, feat. conductor: Sir Charles Mackerras)', u'Mass in B minor BWV 232 (The English Baroque Soloists & The Monteverdi Choir feat. conductor: John Eliot Gardiner)', u'Berlin']	0
-what is the political structure of china?	17393	choir --> education institution --> [u'Stadtkonvikt']	0
-what is the political structure of china?	17393	choir --> topic alias --> [u'Chorus', u'Chorale']	0
-what is the political structure of china?	17393	choir --> recording contribution contributor --> [u'John B', u'The Ambrosian Singers', u'Royal Liverpool Philharmonic Choir', u'Lou Reed', u'Valerie Etienne']	0
-what is the political structure of china?	17393	choir --> education student --> [u'Franz Schubert']	0
-what is the political structure of china?	17393	choir --> object name --> [u'Choir']	0
-what is the political structure of china?	17393	choir --> topic image --> [u'Evensong in York Minster', u'Coro Santo Tom\xe1s de Aquino de la Universidad Complutense de Madrid, 1987.']	0
-what is the political structure of china?	17393	choir --> group membership start --> [u'1967', u'1969', u'1976', u'1978', u'1982']	0
-what is the political structure of china?	17393	choir --> group membership role --> [u'Bass guitar', u'Vocals', u'Drums', u'Guitar']	2
-what is the political structure of china?	17393	choir --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what is the political structure of china?	17393	choir --> group membership group --> [u'Lasse Stefanz', u'Kab\xe1t', u'Binomio de Oro de Am\xe9rica', u'Young@Heart Chorus', u'Groundation']	0
-what is the political structure of china?	17393	choir --> recording contribution performance role --> [u'Lead vocalist', u'Backing Vocals', u'Soprano']	0
-what is the political structure of china?	17393	choir --> education start date --> [u'1808-10']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition book --> [u'The Political']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac psu --> [u'2289477']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition publication date --> [u'2002']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> pagination numbered pages --> [u'303']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac northwestern --> [u'5756438']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance isbn --> [u'9780631215479']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac uchicago --> [u'4596490']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac umich --> [u'4330018']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> object name --> [u'The Political (Blackwell Readings in Continental Philosophy)']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac cornell --> [u'4223411']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition isbn --> [u'9780631215479']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition book --> [u'The Political']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac psu --> [u'2289477']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition publication date --> [u'2002']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> pagination numbered pages --> [u'336']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance isbn --> [u'9780631215486']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> object name --> [u'The Political (Blackwell Readings in Continental Philosophy)']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac cornell --> [u'4223411']	0
-what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition isbn --> [u'9780631215486']	0
-what is the political structure of china?	17393	china --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
-what is the political structure of china?	17393	china --> government position held office position or title --> [u'Chairman of the Communist Party of China', u'Chairman of the Central Military Commission', u"Vice Premier of the People's Republic of China", u"Premier of the People's Republic of China", u"Chairman of the Central Military Commission of the People's Republic of China"]	8
-what is the political structure of china?	17393	china --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	29
-what is the political structure of china?	17393	china --> bibs location loc type --> [u'Country']	0
-what is the political structure of china?	17393	china --> netflix genre titles --> [u'The Go Master', u'Kung Fu Hustle', u'Jiang Hu', u'Master of Zen', u'On the Beat']	2
-what is the political structure of china?	17393	china --> disputed location claimant disputed territories --> [u'Kula Kangri']	1
-what is the political structure of china?	17393	china --> dated percentage rate --> [u'0', u'0.00017', u'0.001178', u'0.004992', u'0.013174']	0
-what is the political structure of china?	17393	china --> force strength combatant --> [u'Soviet Union', u'North Korea', u'North Vietnam', u'Viet Cong', u'Khmer Rouge']	457
-what is the political structure of china?	17393	china --> location partially contains --> [u'Pumori', u'Himalayas', u'Cho Oyu', u'Gasherbrum IV', u'Gyachung Kang']	135
-what is the political structure of china?	17393	china --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what is the political structure of china?	17393	china --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
-what is the political structure of china?	17393	china --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what is the political structure of china?	17393	china --> taxonomy entry prefix --> [u'DS']	0
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar']	4
-what is the political structure of china?	17393	china --> competitor competition relationship rank --> [u'1']	0
-what is the political structure of china?	17393	china --> location people born here --> [u'Wang Jiancheng', u'Chin Sophonpanich', u'Wang Yiguang', u'Zhu Yu', u'Yin Zhaohui']	0
-what is the political structure of china?	17393	china --> olympic medal honor medalist --> [u'Xie Huilin', u'Hou Yuzhuo', u'Li Kongzheng', u'Xiong Ni', u'Zhang Hui']	0
-what is the political structure of china?	17393	china --> country currency formerly used --> [u'Huizi', u'Gold yuan']	0
-what is the political structure of china?	17393	china --> military command military conflict --> [u'Korean War', u'Battle of Nanking']	19
-what is the political structure of china?	17393	china --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what is the political structure of china?	17393	china --> dated kilowatt hour number --> [u'151.202', u'162.456', u'172.28', u'173.792', u'196.377']	0
-what is the political structure of china?	17393	china --> country fips  --> [u'CH']	0
-what is the political structure of china?	17393	china --> force strength resource --> [u'Personnel']	0
-what is the political structure of china?	17393	china --> location contains major portion of --> [u'Gaotou Township', u'Gaobei Tulou Cluster', u'Jomolhari']	0
-what is the political structure of china?	17393	china --> location containedby --> [u'Asia', u'Eurasia']	399
-what is the political structure of china?	17393	china --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what is the political structure of china?	17393	china --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0
-what is the political structure of china?	17393	china --> olympic athlete affiliation sport --> [u'Boxing', u'Water polo', u'Cycling', u'Cross-country skiing', u'Canoe Slalom']	2
-what is the political structure of china?	17393	china --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
-what is the political structure of china?	17393	china --> organization membership organization --> [u'World Bank', u'G-20 major economies', u'UNESCO', u'Caribbean Development Bank', u'Asian Development Bank']	19
-what is the political structure of china?	17393	china --> imports and exports exported to --> [u'Nepal', u'Angola', u'Yemen', u'Sierra Leone', u'Sudan']	666
-what is the political structure of china?	17393	china --> countries places within --> [u'Songhong Road Station']	0
-what is the political structure of china?	17393	china --> fictional setting fictional characters born here --> [u'Chun-Li', u'Huang Pao-Lin']	0
-what is the political structure of china?	17393	china --> imports and exports date --> [u'2005', u'2006']	0
-what is the political structure of china?	17393	china --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
-what is the political structure of china?	17393	china --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what is the political structure of china?	17393	china --> national anthem of a country official anthem since --> [u'1982-12-04']	0
-what is the political structure of china?	17393	china --> military command military commander --> [u'Mao Zedong', u'Tang Shengzhi', u'Peng Dehuai']	50
-what is the political structure of china?	17393	china --> united nations body membership body --> [u'United Nations Security Council']	11
-what is the political structure of china?	17393	china --> administrative area adjectival form --> [u'Chinese']	0
-what is the political structure of china?	17393	china --> administrative area administrative area type --> [u'Sovereign state']	0
-what is the political structure of china?	17393	china --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what is the political structure of china?	17393	china --> country currency used --> [u'Renminbi']	6
-what is the political structure of china?	17393	china --> bibs location is clear --> [u'1']	0
-what is the political structure of china?	17393	china --> competitor competition relationship competitors --> [u'Bai Xue', u'Wang Hao', u'Liu Xiang', u'Yang Wei', u'Gong Lijiao']	0
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
-what is the political structure of china?	17393	china --> olympic medal honor event --> [u"Table tennis at the 2012 Summer Olympics \u2013 Men's singles", u"Swimming at the 2004 Summer Olympics \u2013 Women's 100 metre breaststroke", u"Shooting at the 2008 Summer Olympics \u2013 Men's 10 metre air rifle", u"Shooting at the 2008 Summer Olympics \u2013 Men's 10 metre air pistol", u"Table Tennis at the 2000 Summer Olympics Women's Singles"]	0
-what is the political structure of china?	17393	china --> olympic participating country olympics participated in --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1980 Winter Olympics']	129
-what is the political structure of china?	17393	china --> government position held office holder --> [u'Jiang Zemin', u'Zhu Rongji', u'Wen Jiabao', u'Xi Jinping', u'Mao Zedong']	71
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
-what is the political structure of china?	17393	china --> organization scope organizations with this scope --> [u'Cultural Development Center for Rural Women', u'iProspect', u'Program for Appropriate Technology in Health', u'Chinese Volleyball Association', u'TeleTOP']	0
-what is the political structure of china?	17393	china --> imports and exports amount --> [u'23700000000']	0
-what is the political structure of china?	17393	china --> system title relationship to date --> [u'1911']	0
-what is the political structure of china?	17393	china --> imports and exports date --> [u'2005', u'2006', u'2008']	0
-what is the political structure of china?	17393	china --> country languages spoken --> [u'English Language', u'Chinese language', u'Korean Language', u'Yue Chinese', u'Portuguese Language']	185
-what is the political structure of china?	17393	china --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what is the political structure of china?	17393	china --> competitor country relationship competitor --> [u'Gen Li', u'Huan Xia', u'Zhuofu Chen', u'Liang Wang', u'Kai Liu']	0
-what is the political structure of china?	17393	china --> country calling code --> [u'86']	0
-what is the political structure of china?	17393	china --> adjoining relationship adjoins --> [u'Nepal', u'Japan', u'India', u'Russia', u'Kazakhstan']	5069
-what is the political structure of china?	17393	china --> geocode longitude --> [u'110.467708512']	0
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar']	4
-what is the political structure of china?	17393	china --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	29
-what is the political structure of china?	17393	china --> periodical subject periodicals --> [u'Far Eastern Economic Review', u'Modern China']	0
-what is the political structure of china?	17393	china --> united nations body membership from --> [u'1971']	0
-what is the political structure of china?	17393	china --> organization founder organizations founded --> [u'UNESCO', u'Shanghai Cooperation Organisation', u'BRICS']	19
-what is the political structure of china?	17393	china --> dated percentage rate --> [u'1.68412', u'1.727153', u'1.756195', u'1.777209', u'1.802983']	0
-what is the political structure of china?	17393	china --> imports and exports imported from --> [u'United States of America', u'Angola', u'Yemen', u'Sudan', u'Laos']	1395
-what is the political structure of china?	17393	china --> olympic participating country ioc code --> [u'CHN']	0
-what is the political structure of china?	17393	china --> dated kgoe number --> [u'465.706', u'477.939', u'484.504', u'486.865', u'528.204']	0
-what is the political structure of china?	17393	china --> topic official website --> [u'http://english.gov.cn/']	0
-what is the political structure of china?	17393	china --> dated float number --> [u'1.598', u'1.614', u'1.629', u'1.643', u'1.656']	0
-what is the political structure of china?	17393	china --> dated percentage date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
-what is the political structure of china?	17393	china --> country iso  shortname --> [u'CHINA']	0
-what is the political structure of china?	17393	china --> casino theme casinos in this theme --> [u'The Quad Resort and Casino']	0
-what is the political structure of china?	17393	china --> cyclone affected area cyclones --> [u'Typhoon Babe', u'Typhoon Herb', u'Typhoon Matsa', u'Typhoon Kent', u'Typhoon Sepat']	0
-what is the political structure of china?	17393	china --> nuclear power nuclear tests --> [u'596']	1
-what is the political structure of china?	17393	china --> mythical creature location mythical creature s --> [u'Tiangou', u'Chinese dragon', u'Chinese guardian lions']	5
-what is the political structure of china?	17393	china --> nobel honor nobel prize winner --> [u'Pearl S. Buck']	2
-what is the political structure of china?	17393	china --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
-what is the political structure of china?	17393	china --> hoax location hoax es --> [u'Archaeoraptor']	1
-what is the political structure of china?	17393	china --> newspaper circulation area newspapers --> [u'Global Times', u'Financial Times', u'China Youth Daily', u'Southern Weekly', u"People's Daily"]	5
-what is the political structure of china?	17393	china --> adjusted money value adjusted value --> [u'48151766858', u'51282752582', u'53131628623', u'61546062211', u'70348527260']	0
-what is the political structure of china?	17393	china --> adjusted money value adjustment currency --> [u'United States dollar']	4
-what is the political structure of china?	17393	china --> administrative area administrative parent --> [u'Earth']	3
-what is the political structure of china?	17393	china --> webpage uri --> [u'http://www.travelchinaguide.com/', u'http://statoids.com/ucn.html', u'http://tripintochina.com']	0
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
-what is the political structure of china?	17393	china --> flag use flag --> [u'Flag of China']	0
-what is the political structure of china?	17393	china --> sports team location teams --> [u"China women's national football team", u'China PR national football team', u'China national cricket team', u'Jiangsu Dragons', u"China women's national volleyball team"]	4
-what is the political structure of china?	17393	china --> force strength force size --> [u'40000', u'520000']	0
-what is the political structure of china?	17393	china --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what is the political structure of china?	17393	china --> force strength military conflict --> [u'Vietnam War', u"Incorporation of Tibet into the People's Republic of China"]	10
-what is the political structure of china?	17393	china --> breed origin breeds originating here --> [u'Formosan Mountain Dog', u'Silkie', u'Cochin', u'Pekin Bantam', u'Croad Langshan']	1
-what is the political structure of china?	17393	china --> film subject films --> [u"Mao's Last Dancer"]	0
-what is the political structure of china?	17393	china --> location nearby airports --> [u'Zhijiang Airport', u'Wenshan Puzhehei Airport', u'Ganzhou Huangjin Airport']	1
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar']	4
-what is the political structure of china?	17393	china --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
-what is the political structure of china?	17393	china --> exhibition subject exhibitions created about this subject --> [u'China Design Now']	0
-what is the political structure of china?	17393	china --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
-what is the political structure of china?	17393	china --> competitor competition relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
-what is the political structure of china?	17393	china --> location adjectival form --> [u'Chinese']	0
-what is the political structure of china?	17393	china --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
-what is the political structure of china?	17393	china --> dated metric ton number --> [u'0.574162', u'0.605452', u'0.625646', u'0.640002', u'0.661428']	0
-what is the political structure of china?	17393	china --> casualties lower estimate --> [u'1446', u'4200']	0
-what is the political structure of china?	17393	china --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
-what is the political structure of china?	17393	china --> base equivalent location base --> [u'china']	0
-what is the political structure of china?	17393	china --> countries continent --> [u'Asia']	375
-what is the political structure of china?	17393	china --> casualties military conflict --> [u'Vietnam War']	8
-what is the political structure of china?	17393	china --> administrative area subdividing type --> [u'Chinese municipality', u'Chinese autonomous region', u'Chinese province', u'Chinese province traditional eighteen', u'Chinese special administrative region']	0
-what is the political structure of china?	17393	china --> government position held to --> [u'1998', u'2008', u'2008-03', u'2003-03-15', u'2013-03-14']	0
-what is the political structure of china?	17393	china --> webpage category --> [u'Topic Webpage', u'Topic Equivalent']	0
-what is the political structure of china?	17393	china --> government position held basic title --> [u'President', u'Vice President', u'Chairman', u'Premier', u'Deputy prime minister']	2
-what is the political structure of china?	17393	china --> linguistic hint adjectival form --> [u'Chinese']	0
-what is the political structure of china?	17393	china --> military combatant group conflict --> [u'Battle of Guanzhong', u"Battle of Nan'ao Island", u'Chola incident', u'Allied intervention in the Russian Civil War', u'Battle of Guilin\u2013Liuzhou']	0
-what is the political structure of china?	17393	china --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
-what is the political structure of china?	17393	china --> country capital --> [u'Beijing']	1007
-what is the political structure of china?	17393	china --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what is the political structure of china?	17393	china --> country internet tld --> [u'cn', u'hk', u'mo']	2
-what is the political structure of china?	17393	china --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what is the political structure of china?	17393	china --> dated percentage date --> [u'1990', u'1993', u'1994', u'1995', u'1996']	0
-what is the political structure of china?	17393	china --> vocabulary equivalent topic narrower concept --> [u'Book design--Awards--China']	0
-what is the political structure of china?	17393	china --> beer country region beers from here --> [u'Harbin Beer', u'Tsingtao Beer', u'Guangzhou Zhu Jiang Brewery Co.Ltd. Zhu Jiang Beer']	0
-what is the political structure of china?	17393	china --> dated percentage rate --> [u'-27.101882', u'-6.105339', u'-5.7', u'-4.1', u'-1.6']	0
-what is the political structure of china?	17393	china --> dated money value valid date --> [u'2008']	0
-what is the political structure of china?	17393	china --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what is the political structure of china?	17393	china --> dated money value amount --> [u'6100']	0
-what is the political structure of china?	17393	china --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead']	0
-what is the political structure of china?	17393	china --> topic topical webpage --> [u'http://www.travelchinaguide.com/', u'http://tripintochina.com/', u'http://www.chinahighlights.com/tour/']	0
-what is the political structure of china?	17393	china --> imports and exports currency --> [u'United States dollar']	4
-what is the political structure of china?	17393	china --> administrative area short name --> [u'cn']	0
-what is the political structure of china?	17393	china --> governmental jurisdiction government bodies --> [u"National People's Congress", u"State Council of the People's Republic of China"]	14
-what is the political structure of china?	17393	china --> system title relationship title --> [u'Emperor of China']	18
-what is the political structure of china?	17393	china --> dated location date founded --> [u'1949-10-01']	0
-what is the political structure of china?	17393	china --> governmental jurisdiction government --> [u'Government of China']	3
-what is the political structure of china?	17393	china --> country form of government --> [u'Communist state', u'Socialist state', u'Single-party state']	1
-what is the political structure of china?	17393	china --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Women's Marathon", u"2009 World Championships in Athletics \u2013 Men's 20 kilometres walk", u"2006 World Artistic Gymnastics Championships \u2013 Men's individual all-round", u"2009 World Championships in Athletics \u2013 Women's 20 kilometres walk", u"2009 World Championships in Athletics \u2013 Women's shot put"]	0
-what is the political structure of china?	17393	china --> competitor country relationship sports --> [u'Badminton']	0
-what is the political structure of china?	17393	china --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
-what is the political structure of china?	17393	china --> adjusted money value adjustment date --> [u'2000']	0
-what is the political structure of china?	17393	china --> book subject works --> [u'Zen Poems of China and Japan', u'Tai-Pan: A Novel of Hong Kong', u'Beautiful warrior', u'More Light', u'The Tso Chuan']	0
-what is the political structure of china?	17393	china --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what is the political structure of china?	17393	china --> government position held appointed by --> [u"National People's Congress"]	6
-what is the political structure of china?	17393	china --> travel destination tourist attractions --> [u'Mausoleum of the First Qin Emperor']	0
-what is the political structure of china?	17393	china --> location contains --> [u'Jiefang Bridge', u'Garz\xea County', u'Xinbin Manchu Autonomous County', u'Yinjiang Tujia and Miao Autonomous County', u'Chongyi County']	0
-what is the political structure of china?	17393	china --> topic alias --> [u"People's Republic of China", u'\u4e2d\u56fd']	0
-what is the political structure of china?	17393	china --> flag use from date --> [u'1949-09-27']	0
-what is the political structure of china?	17393	china --> taxonomy entry high --> [u'799.9']	0
-what is the political structure of china?	17393	china --> cryptid area of occurrence cryptid s found here --> [u'Yeren']	1
-what is the political structure of china?	17393	china --> organization membership from --> [u'1946', u'1999', u'1945-10-24']	0
-what is the political structure of china?	17393	china --> united nations body membership permanent --> [u'1']	0
-what is the political structure of china?	17393	china --> location area --> [u'9706961']	0
-what is the political structure of china?	17393	china --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
-what is the political structure of china?	17393	china --> imports and exports currency --> [u'United States dollar']	4
-what is the political structure of china?	17393	china --> force strength date --> [u'1968']	0
-what is the political structure of china?	17393	china --> military combatant belongs to combatant group --> [u'Triple Entente']	0
-what is the political structure of china?	17393	china --> governmental jurisdiction agencies --> [u'Chinese Ministry of Culture', u'Chinese Ministry of Finance', u'Chinese Ministry of Transportation and Communications', u'Chinese Ministry of Foreign Trade and Economic Cooperation', u'Chinese Ministry of Health']	1
-what is the political structure of china?	17393	china --> cotermination location --> [u'Taiwan']	1200
-what is the political structure of china?	17393	china --> country administrative divisions --> [u'Hong Kong', u'Hunan', u'Shanghai', u'Shandong', u'Jilin']	1872
-what is the political structure of china?	17393	china --> competitor competition relationship tournament --> [u'2007 World Championships in Athletics', u'2009 World Championships in Athletics', u'2006 World Artistic Gymnastics Championships']	2
-what is the political structure of china?	17393	china --> dated float number --> [u'43.458', u'43.772', u'44.704', u'46.324', u'48.574']	0
-what is the political structure of china?	17393	china --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what is the political structure of china?	17393	china --> administrative area pertinent type --> [u'Chinese county level city', u'Chinese city shi', u'Chinese shixiaxian', u'Chinese municipality', u'Chinese autonomous region']	0
-what is the political structure of china?	17393	china --> location time zones --> [u'UTC+8', u'Time in China']	3
-what is the political structure of china?	17393	china --> webpage description --> [u'Reliable China Travel Guide', u'Travel Guide to China']	0
-what is the political structure of china?	17393	china --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
-what is the political structure of china?	17393	china --> film location featured in films --> [u'Samsara']	0
-what is the political structure of china?	17393	china --> dated money value amount --> [u'250', u'280', u'320', u'370', u'440']	0
-what is the political structure of china?	17393	china --> webpage resource --> [u'Shanghai Symphony Conductor Long Yu On Carnegie Hall Show, Whiskey Drinking', u'60th Berlin International Film Festival Opens with Wang Quan\u2019an\u2019s \u201cTuan Yuan\u201d (\u201dApart Together\u201d)', u"'Survivor: Heroes Vs. Villains': Amanda insists 'I'm gonna be a bulldog this time. No apologies, bitches.'", u"'Bones': Baked on a Plane", u"Break out the bubbly! Axl delivers on 'Chinese Democracy' (maybe)"]	0
-what is the political structure of china?	17393	china --> topic exceptions --> [u'The type Chinese City District does not specify where instances may appear.', u'The type Chinese County Level City does not specify where instances may appear.', u'Chinese autonomous region traditional eighteen is subdivided by types at different levels.', u'Chinese city shi subdivides types at different levels.', u'The type Chinese Town does not specify where instances may appear.']	0
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
-what is the political structure of china?	17393	china --> government position held governmental body --> [u'State Administration of Foreign Exchange', u"State Council of the People's Republic of China"]	9
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
-what is the political structure of china?	17393	china --> military combatant group combatants --> [u'Soviet Union', u'North Korea', u'North Vietnam', u'Viet Cong', u'Pathet Lao']	453
-what is the political structure of china?	17393	china --> dated integer number --> [u'660330000', u'665770000', u'667070000', u'682335000', u'698355000']	0
-what is the political structure of china?	17393	china --> imports and exports amount --> [u'1400000000']	0
-what is the political structure of china?	17393	china --> geocode latitude --> [u'32.9042932784']	0
-what is the political structure of china?	17393	china --> location events --> [u'Battle of Guanzhong', u'2009 Chinese lead poisoning scandal', u'Battle of Yalu River', u'Pacific War', u'Sichuan invasion']	2
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4
-what is the political structure of china?	17393	china --> tv location tv shows filmed here --> [u'The Bride with White Hair']	0
-what is the political structure of china?	17393	china --> country official language --> [u'Standard Mandarin']	8
-what is the political structure of china?	17393	china --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what is the political structure of china?	17393	china --> dated percentage rate --> [u'-1.02', u'0.47', u'0.48', u'0.51', u'0.52']	0
-what is the political structure of china?	17393	china --> taxonomy entry low --> [u'701']	0
-what is the political structure of china?	17393	china --> administrative area administrative children --> [u'Hong Kong', u'Hunan', u'Shanghai', u'Shandong', u'Ili Kazakh Autonomous Prefecture']	1786
-what is the political structure of china?	17393	china --> government position held from --> [u'1995', u'1998', u'2003', u'2003-03', u'2002-11-15']	0
-what is the political structure of china?	17393	china --> olympic athlete affiliation athlete --> [u'Hou Yuzhuo', u'Yang Jun', u'Li Kongzheng', u'Xiong Ni', u'Zhang Hui']	0
-what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar']	4
-what is the political structure of china?	17393	china --> dated money value amount --> [u'245336975496', u'282252731579', u'327513493645', u'378792345524', u'453158411461']	0
-what is the political structure of china?	17393	china --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what is the political structure of china?	17393	china --> object name --> [u'China']	0
-what is the political structure of china?	17393	china --> topic image --> [u'ROC PRC comparison eng', u"800px-Flag_of_the_People's_Republic_of_China_svg.png"]	0
-what is the political structure of china?	17393	china --> national anthem of a country anthem --> [u'March of the Volunteers']	2
-what is the political structure of china?	17393	china --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what is the political structure of china?	17393	china --> dated money value amount --> [u'46464003927', u'50100934916', u'50280424169', u'58613239133', u'61377930682']	0
-what is the political structure of china?	17393	china --> governmental jurisdiction government positions --> [u"Vice Premier of the People's Republic of China", u"Premier of the People's Republic of China", u"President of the People's Republic of China", u"Vice President of the People's Republic of China"]	17
-what is the political structure of china?	17393	structure --> topic subject of --> [u'Dolphin']	0
-what is the political structure of china?	17393	structure --> object name --> [u'Structure']	0
-what is the political structure of china?	17393	structure --> structural composition structural engineering system --> [u'Hennebique System']	0
-what is the political structure of china?	17393	structure --> structural composition structural load bearing material --> [u'Reinforced concrete']	0
-what is the political structure of china?	17393	structure --> structural composition structure --> [u'Royal Liver Building', u'Hotel Zum Baeren', u'Palace Hotel, Lucerne', u'Pont Camille de Hogues, Ch\xe2tellerault']	0
+what is the political structure of china?	17393	the political structure --> object name --> [u'The political structure']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> written work author --> [u'Grace A. Jones']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> book editions --> [u'The political structure']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> book edition book --> [u'The political structure']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> book edition publication date --> [u'1969']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> cataloged instance isbn --> [u'9780582487772']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> cataloged instance opac uchicago --> [u'3053595']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> object name --> [u'The political structure']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> cataloged instance opac cornell --> [u'4896061']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> cataloged instance stanford opac --> [u'138787']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> book edition place of publication --> [u'London']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> book edition isbn --> [u'9780582487772']	0	EMPTY
+what is the political structure of china?	17393	the political structure --> cataloged instance opac wisc --> [u'4069405']	0	EMPTY
+what is the political structure of china?	17393	the political --> object name --> [u'The Political']	0	EMPTY
+what is the political structure of china?	17393	the political --> written work author --> [u'David Ingram']	0	EMPTY
+what is the political structure of china?	17393	the political --> book editions --> [u'The Political (Blackwell Readings in Continental Philosophy)', u'The Political (Blackwell Readings in Continental Philosophy)']	0	EMPTY
+what is the political structure of china?	17393	sparta --> location events --> [u'Siege of Sparta']	1	* [[Siege of Sparta]], 272 BC: ''Epirus'' (represented erroneously ingame by the Seleucid Empire) vs. [[Sparta]]
+what is the political structure of china?	17393	sparta --> location contains --> [u'Archaeological Museum of Sparta', u'University of the Peloponnese, Sparta Campus']	0	EMPTY
+what is the political structure of china?	17393	sparta --> topic alias --> [u'Lacedaemon']	0	EMPTY
+what is the political structure of china?	17393	sparta --> fictional setting characters that have lived here --> [u'Xenophon']	0	EMPTY
+what is the political structure of china?	17393	sparta --> location adjectival form --> [u'Spartan']	0	EMPTY
+what is the political structure of china?	17393	sparta --> casualties lower estimate --> [u'300']	0	EMPTY
+what is the political structure of china?	17393	sparta --> location people born here --> [u'Cleomenes I', u'Leonidas I', u'Cleomenes III', u'Pausanias', u'Pleistoanax']	63	The ''Hybristica'' was celebrated at Argos, upon the new moon of the month called by the Argives Hermeas, wherein the women being dressed like men insulted their husbands and treated them with every mark of inferiority, in memory of the Argian defence of their country made by the females under the conduct of [[Telesilla]], against [[Cleomenes I]] and [[Demaratus]] at the head of the [[Sparta]]n army.
+what is the political structure of china?	17393	sparta --> casualties military conflict --> [u'Battle of Thermopylae']	21	However, this did not prevent Athens from being captured and sacked twice by the [[Achaemenid Empire|Persians]] within one year, after a heroic resistance at [[Battle of Thermopylae|Thermopylae]] by [[Sparta]]ns and other Greeks led by [[Leonidas I|King Leonidas]], after both [[Boeotia]] and [[Attica]] fell to the Persians.
+what is the political structure of china?	17393	sparta --> military command military conflict --> [u'Battle of Thermopylae']	21	However, this did not prevent Athens from being captured and sacked twice by the [[Achaemenid Empire|Persians]] within one year, after a heroic resistance at [[Battle of Thermopylae|Thermopylae]] by [[Sparta]]ns and other Greeks led by [[Leonidas I|King Leonidas]], after both [[Boeotia]] and [[Attica]] fell to the Persians.
+what is the political structure of china?	17393	sparta --> travel destination tourist attractions --> [u'Archaeological Museum of Sparta']	0	EMPTY
+what is the political structure of china?	17393	sparta --> military combatant group conflict --> [u'Battle of the Great Foss', u'Battle of Olpae', u'Battle of Leuctra', u'Battle of Mantinea', u'Peloponnesian War']	92	This pattern of warfare was broken during the [[Peloponnesian War]], when [[Athens]]' command of the sea allowed the city to ignore the destruction of the Athenian crops by [[Sparta]] and her allies by shipping grain into the city from the [[Crimean Peninsula|Crimea]].
+what is the political structure of china?	17393	sparta --> country capital --> [u'Sparta']	1505	LHS is known as "Home of the [[Sparta]]ns".
+what is the political structure of china?	17393	sparta --> administrative area administrative area type --> [u'Greek municipality']	0	EMPTY
+what is the political structure of china?	17393	sparta --> geocode longitude --> [u'22.430305481']	0	EMPTY
+what is the political structure of china?	17393	sparta --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what is the political structure of china?	17393	sparta --> topic exceptions --> [u'Sparta should be contained in some Greek prefecture.']	0	EMPTY
+what is the political structure of china?	17393	sparta --> art subject artwork on the subject --> [u'Young Spartans Exercising']	0	EMPTY
+what is the political structure of china?	17393	sparta --> location containedby --> [u'Greece']	23	* While Alexander is fighting in Asia, [[Agis III]] of [[Sparta]], profiting from the Macedonian king's absence from [[Greece]], leads some of the Greek cities in a revolt.
+what is the political structure of china?	17393	sparta --> military combatant group combatants --> [u'Thespiae', u'Elis', u'Mantineia', u'Classical Athens']	42	|[[Sparta]] <br>[[Elis]]
+what is the political structure of china?	17393	sparta --> military command military commander --> [u'Leonidas I']	17	It starred [[Richard Egan (actor)|Richard Egan]] as the [[Sparta]]n king [[Leonidas I|Leonidas]],  [[Ralph Richardson]] as [[Themistocles]] of [[Athens]] and [[David Farrar (actor)|David Farrar]] as [[Achaemenid Empire|Persian]] king [[Xerxes I of Persia|Xerxes]], with [[Diane Baker]] as Ellas and [[Barry Coe]] as Phylon providing the requisite romantic element in the film.
+what is the political structure of china?	17393	sparta --> geocode latitude --> [u'37.0765453668']	0	EMPTY
+what is the political structure of china?	17393	sparta --> name source namesakes --> [u'Sparta', u'Sparta', u'Sparta', u'Sparta', u'Sparta']	0	EMPTY
+what is the political structure of china?	17393	sparta --> country official language --> [u'Doric Greek']	5	The '''''agōgē''''' ([[Greek language|Greek]]: ἀγωγή in [[Attic Greek]], or ἀγωγά, ''agōgá'' in [[Doric Greek]]) was the rigorous education and training program mandated for all male [[Sparta]]n citizens, except for the firstborn son in the ruling houses, [[Eurypontid]] and [[Agiad]].
+what is the political structure of china?	17393	sparta --> casualties type of casualties --> [u'Military - Dead']	0	EMPTY
+what is the political structure of china?	17393	sparta --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViHzZwpEbGdrcN5Y29ycA']	0	EMPTY
+what is the political structure of china?	17393	sparta --> dated location date dissolved --> [u'-0194']	0	EMPTY
+what is the political structure of china?	17393	sparta --> object name --> [u'Sparta']	0	EMPTY
+what is the political structure of china?	17393	sparta --> topic image --> [u'Map of Greece, position of Elaiochori highlighted', u'Alt text']	0	EMPTY
+what is the political structure of china?	17393	sparta --> country form of government --> [u'Monarchy', u'Diarchy', u'Aristocracy']	0	EMPTY
+what is the political structure of china?	17393	political structure --> object name --> [u'Political structure']	0	EMPTY
+what is the political structure of china?	17393	government --> equivalent topic equivalent domain --> [u'Government']	0	EMPTY
+what is the political structure of china?	17393	government --> taxonomy entry high --> [u'619', u'9593']	0	EMPTY
+what is the political structure of china?	17393	government --> vocabulary equivalent topic equivalent concept --> [u'Government']	0	EMPTY
+what is the political structure of china?	17393	government --> organization sector organizations in this sector --> [u'TERMINALFOUR', u'Worksafe', u'Ministry of Information']	0	EMPTY
+what is the political structure of china?	17393	government --> taxonomy entry prefix --> [u'JF', u'JK']	0	EMPTY
+what is the political structure of china?	17393	government --> education end date --> [u'1958', u'1965', u'1970', u'1977', u'1978']	0	EMPTY
+what is the political structure of china?	17393	government --> building function buildings --> [u'United States Capitol', u'Building 257', u'Six World Trade Center', u'Senedd', u'Building 101']	0	EMPTY
+what is the political structure of china?	17393	government --> education institution --> [u'University of Queensland', u'Harvard College', u'Columbia University', u'Ateneo de Manila University', u'Dartmouth College']	0	EMPTY
+what is the political structure of china?	17393	government --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what is the political structure of china?	17393	government --> webpage resource --> [u"Quote of the Day: 'Star Wars' social justice edition", u"'Air Hostess Wars' reaches flying altitude of 32,000 feet higher/better than 'Dance War'", u'Sacha Baron Cohen tells David Letterman how to find a terrorist', u'And on the 7th day, Jack Bauer rested', u"Michael Jackson: Genius? Yes. Government-sanctioned 'icon'? No."]	0	EMPTY
+what is the political structure of china?	17393	government --> education start date --> [u'1954', u'1961', u'1969', u'1984']	0	EMPTY
+what is the political structure of china?	17393	government --> education student --> [u'Dean Barnett', u'Victor Sumulong', u'Neal Katyal', u'Rob Allyn', u'Morton Halperin']	0	EMPTY
+what is the political structure of china?	17393	government --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what is the political structure of china?	17393	government --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what is the political structure of china?	17393	government --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwCAhkHseQdeRivkpwzBa0Q']	0	EMPTY
+what is the political structure of china?	17393	government --> taxonomy entry low --> [u'201', u'2403']	0	EMPTY
+what is the political structure of china?	17393	government --> education major field of study --> [u'History', u'Theatre', u'Business', u'Fine art']	13	He received his [[PhD]] in [[History]] from [[Cambridge University]] in 1996, [[Master of Arts|MA]] in [[International Relations]] and [[International Economics]] from [[Johns Hopkins University]] and [[Bachelor of Science|BSc]] in [[Government]] and [[Economics]] from [[Harvard University]] .
+what is the political structure of china?	17393	government --> periodical subject periodicals --> [u'Federal Computer Week']	0	EMPTY
+what is the political structure of china?	17393	government --> education degree --> [u"Master's Degree", u"Bachelor's degree", u'Doctorate', u'Master of Science', u'M.A.']	2	He received his [[PhD]] in [[History]] from [[Cambridge University]] in 1996, [[Master of Arts|MA]] in [[International Relations]] and [[International Economics]] from [[Johns Hopkins University]] and [[Bachelor of Science|BSc]] in [[Government]] and [[Economics]] from [[Harvard University]] .
+what is the political structure of china?	17393	government --> object name --> [u'Government']	0	EMPTY
+what is the political structure of china?	17393	government --> topic image --> [u'Government-Vedder-Highsmith-detail-1g']	0	EMPTY
+what is the political structure of china?	17393	government --> quotation subject quotations about this subject --> [u'The government is us; we are the government, you and I.', u'There is something to be said for government by a great aristocracy which has furnished leaders to the nation in peace and war for generations; even a democrat like myself must admit this. But there is absolutely nothing to be said for government by a plutocracy, for government by men very powerful in certain lines and gifted with the money touch, but with ideals which in their essence are merely those of so many glorified pawnbrokers.', u'Fear is the foundation of most government.', u'Governments need to have both shepherds and butchers.', u'Any cook should be able to run the country.']	0	EMPTY
+what is the political structure of china?	17393	government --> equivalent topic equivalent type --> [u'Government']	0	EMPTY
+what is the political structure of china?	17393	government --> book subject works --> [u'Canadas Trial Courts', u'Death Penalties', u'Veronica Guerin', u'Road work', u'The Mormon hierarchy']	0	EMPTY
+what is the political structure of china?	17393	choir --> education end date --> [u'1813']	0	EMPTY
+what is the political structure of china?	17393	choir --> group membership member --> [u'Nicolle Steins', u'Virgenie Henket', u'Karin Haine', u'Omar Al Omeir', u'Jos\xe9 Mar\xeda Corrales']	0	EMPTY
+what is the political structure of china?	17393	choir --> webpage resource --> [u"'Glee': Share your favorite show choir memories. We know you have them.", u"Scoop: 'Glee' courting Idina Menzel!", u"Can a real-life 'Glee' tide you over?", u"Exclusive: Eve joining 'Glee' club for arc", u"Snap Judgment: 'Trapped in the Closet,' Chapter 13"]	0	EMPTY
+what is the political structure of china?	17393	choir --> group membership end --> [u'1977', u'1985', u'1990', u'1991', u'2004']	0	EMPTY
+what is the political structure of china?	17393	choir --> recording contribution album --> [u'Voyager', u'La Double Vie de V\xe9ronique', u'The Nine Symphonies (Royal Liverpool Philharmonic Choir & Orchestra, feat. conductor: Sir Charles Mackerras)', u'Mass in B minor BWV 232 (The English Baroque Soloists & The Monteverdi Choir feat. conductor: John Eliot Gardiner)', u'Berlin']	0	EMPTY
+what is the political structure of china?	17393	choir --> education institution --> [u'Stadtkonvikt']	0	EMPTY
+what is the political structure of china?	17393	choir --> topic alias --> [u'Chorus', u'Chorale']	0	EMPTY
+what is the political structure of china?	17393	choir --> recording contribution contributor --> [u'John B', u'The Ambrosian Singers', u'Royal Liverpool Philharmonic Choir', u'Lou Reed', u'Valerie Etienne']	0	EMPTY
+what is the political structure of china?	17393	choir --> education student --> [u'Franz Schubert']	0	EMPTY
+what is the political structure of china?	17393	choir --> object name --> [u'Choir']	0	EMPTY
+what is the political structure of china?	17393	choir --> topic image --> [u'Evensong in York Minster', u'Coro Santo Tom\xe1s de Aquino de la Universidad Complutense de Madrid, 1987.']	0	EMPTY
+what is the political structure of china?	17393	choir --> group membership start --> [u'1967', u'1969', u'1976', u'1978', u'1982']	0	EMPTY
+what is the political structure of china?	17393	choir --> group membership role --> [u'Bass guitar', u'Vocals', u'Drums', u'Guitar']	2	* [[S. Carey|Sean Carey]] – [[Vibes (percussion)|bowed vibes]], [[Choir|choir, chorus]], [[Drum kit|drums]], processing, [[vibraphone]], [[Voice (music)|voices]]
+what is the political structure of china?	17393	choir --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what is the political structure of china?	17393	choir --> group membership group --> [u'Lasse Stefanz', u'Kab\xe1t', u'Binomio de Oro de Am\xe9rica', u'Young@Heart Chorus', u'Groundation']	0	EMPTY
+what is the political structure of china?	17393	choir --> recording contribution performance role --> [u'Lead vocalist', u'Backing Vocals', u'Soprano']	0	EMPTY
+what is the political structure of china?	17393	choir --> education start date --> [u'1808-10']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition book --> [u'The Political']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac psu --> [u'2289477']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition publication date --> [u'2002']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> pagination numbered pages --> [u'303']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac northwestern --> [u'5756438']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance isbn --> [u'9780631215479']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac uchicago --> [u'4596490']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac umich --> [u'4330018']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> object name --> [u'The Political (Blackwell Readings in Continental Philosophy)']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac cornell --> [u'4223411']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition isbn --> [u'9780631215479']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition book --> [u'The Political']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac psu --> [u'2289477']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition publication date --> [u'2002']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> pagination numbered pages --> [u'336']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance isbn --> [u'9780631215486']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> object name --> [u'The Political (Blackwell Readings in Continental Philosophy)']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> cataloged instance opac cornell --> [u'4223411']	0	EMPTY
+what is the political structure of china?	17393	the political blackwell readings in continental philosophy --> book edition isbn --> [u'9780631215486']	0	EMPTY
+what is the political structure of china?	17393	china --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0	EMPTY
+what is the political structure of china?	17393	china --> government position held office position or title --> [u'Chairman of the Communist Party of China', u'Chairman of the Central Military Commission', u"Vice Premier of the People's Republic of China", u"Premier of the People's Republic of China", u"Chairman of the Central Military Commission of the People's Republic of China"]	8	President]] [[Richard Nixon]]'s visit to [[China]], featuring Nixon shaking hands with [[Premier of the People's Republic of China|Premier]] [[Chou En-lai]] || illustration || John Huehnergarth
+what is the political structure of china?	17393	china --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	29	In the months leading up to the [[1996 Summer Olympics|Atlanta Olympic Games]] swimming teams from [[Israel]], [[China]], [[Japan]], [[South Africa]], and [[Finland]] used the facility to train while the US Olympic [[Water Polo]] also used the facility.
+what is the political structure of china?	17393	china --> bibs location loc type --> [u'Country']	0	EMPTY
+what is the political structure of china?	17393	china --> netflix genre titles --> [u'The Go Master', u'Kung Fu Hustle', u'Jiang Hu', u'Master of Zen', u'On the Beat']	2	''' ''[[Kung Fu Hustle|Kung Fu Hustle (Kung fu)]]'', [[China]]/[[Hong Kong]]
+what is the political structure of china?	17393	china --> disputed location claimant disputed territories --> [u'Kula Kangri']	1	Some massive summits such as Gangkhar Puensum, [[Kula Kangri]], and [[Tongshanjiabu]] lie in territory disputed among Bhutan and [[China]].
+what is the political structure of china?	17393	china --> dated percentage rate --> [u'0', u'0.00017', u'0.001178', u'0.004992', u'0.013174']	0	EMPTY
+what is the political structure of china?	17393	china --> force strength combatant --> [u'Soviet Union', u'North Korea', u'North Vietnam', u'Viet Cong', u'Khmer Rouge']	457	The '''7.62×25mm Tokarev''' cartridge is a [[Russia]]n bottle-necked [[pistol]] [[Cartridge (weaponry)|cartridge]] widely used in former [[Soviet Union|Soviet]] satellite states, [[China]] and [[Pakistan]] among other countries.
+what is the political structure of china?	17393	china --> location partially contains --> [u'Pumori', u'Himalayas', u'Cho Oyu', u'Gasherbrum IV', u'Gyachung Kang']	135	The '''Nashi''' (; endonym: ''¹na²khi'') are an [[List of Chinese ethnic groups|ethnic group]] inhabiting the foothills of the [[Himalayas]] in the northwestern part of [[Yunnan]] [[Provinces of China|Province]], as well as the southwestern part of [[Sichuan]] [[Provinces of China|Province]] in [[China]].
+what is the political structure of china?	17393	china --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what is the political structure of china?	17393	china --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what is the political structure of china?	17393	china --> taxonomy entry prefix --> [u'DS']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> competitor competition relationship rank --> [u'1']	0	EMPTY
+what is the political structure of china?	17393	china --> location people born here --> [u'Wang Jiancheng', u'Chin Sophonpanich', u'Wang Yiguang', u'Zhu Yu', u'Yin Zhaohui']	0	EMPTY
+what is the political structure of china?	17393	china --> olympic medal honor medalist --> [u'Xie Huilin', u'Hou Yuzhuo', u'Li Kongzheng', u'Xiong Ni', u'Zhang Hui']	0	EMPTY
+what is the political structure of china?	17393	china --> country currency formerly used --> [u'Huizi', u'Gold yuan']	0	EMPTY
+what is the political structure of china?	17393	china --> military command military conflict --> [u'Korean War', u'Battle of Nanking']	19	'''Hampton Edward Boggs''' (17 August 1921, [[Garvin, Oklahoma|Garvin]], [[Oklahoma]] - 31 January 1953, [[Dane County Regional Airport|Truax Field]],  [[Wisconsin]]) was the [[United States]] 2nd highest scoring [[air ace]] with the [[459th Fighter Squadron]], 80th Fighter Group during the [[China]] - [[Burma]] - [[India]]  (CBI) campaign during [[World War II]] and served as a pilot during the [[Korean War]].
+what is the political structure of china?	17393	china --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what is the political structure of china?	17393	china --> dated kilowatt hour number --> [u'151.202', u'162.456', u'172.28', u'173.792', u'196.377']	0	EMPTY
+what is the political structure of china?	17393	china --> country fips  --> [u'CH']	0	EMPTY
+what is the political structure of china?	17393	china --> force strength resource --> [u'Personnel']	0	EMPTY
+what is the political structure of china?	17393	china --> location contains major portion of --> [u'Gaotou Township', u'Gaobei Tulou Cluster', u'Jomolhari']	0	EMPTY
+what is the political structure of china?	17393	china --> location containedby --> [u'Asia', u'Eurasia']	399	This has led to a trend of transference, or what is also known as the "global industrial shift", in which production processes are relocated from developed countries (such as the [[United States|US]], [[Europe|European]] countries, and [[Japan]]) to developing countries in [[Asia]] (such as [[China]], [[Vietnam]], and [[India]]) and [[Latin America]].
+what is the political structure of china?	17393	china --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what is the political structure of china?	17393	china --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0	EMPTY
+what is the political structure of china?	17393	china --> olympic athlete affiliation sport --> [u'Boxing', u'Water polo', u'Cycling', u'Cross-country skiing', u'Canoe Slalom']	2	'''Genebert Basadre''' (born January 5, 1984) is an amateur [[Boxing|boxer]] from the [[Philippines]] who competed in the [[Lightweight|Lightweight (-60 kg)]] division at the [[Boxing at the 2006 Asian Games|2006 Asian Games]] winning the bronze medal in a lost bout against [[China|China's]] [[Hu Qing]] 8-29-.
+what is the political structure of china?	17393	china --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0	EMPTY
+what is the political structure of china?	17393	china --> organization membership organization --> [u'World Bank', u'G-20 major economies', u'UNESCO', u'Caribbean Development Bank', u'Asian Development Bank']	19	[[UNESCO]] added [[Capital Cities and Tombs of the Ancient Koguryo Kingdom]] in present-day [[China]] and [[Complex of Goguryeo Tombs]] in present-day [[North Korea]] to the [[World Heritage Site]]s in 2004.
+what is the political structure of china?	17393	china --> imports and exports exported to --> [u'Nepal', u'Angola', u'Yemen', u'Sierra Leone', u'Sudan']	666	Countries included [[United States of America|"Stateside"]], [[Communist Bloc|"Big Red"]], [[China|People's China]], [[South Vietnam|Southern 'Nam]], [[North Vietnam|People's 'Nam]], [[Laos|Lao]], [[Panama|Buntar]], [[Colombia|Coluzia]], Delancourt (a mixture of [[Guyana]] and [[Belize]]), [[El Salvador|Sangria]], [[Honduras|San Isabel]], [[Nicaragua|San Marcos]], Tragnar (a mixture of [[Cuba]] and [[Haiti]]), [[South Africa|Boorland]], Chandracia (a mixture of the [[Middle East]], [[Iran]], and the [[Arabian Peninsula]]), [[Kurdistan|Ephor]], Greenham Isle (a mixture of the [[Falkland Islands|The Falklands]] and [[Lebanon]]), [[Cyprus|Sofi]], Grugashan (a mixture of [[Iraq]] and [[Libya]]), [[Angola|Iswandah]], and [[Zaire|Dakali]].   
+what is the political structure of china?	17393	china --> countries places within --> [u'Songhong Road Station']	0	EMPTY
+what is the political structure of china?	17393	china --> fictional setting fictional characters born here --> [u'Chun-Li', u'Huang Pao-Lin']	0	EMPTY
+what is the political structure of china?	17393	china --> imports and exports date --> [u'2005', u'2006']	0	EMPTY
+what is the political structure of china?	17393	china --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0	EMPTY
+what is the political structure of china?	17393	china --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what is the political structure of china?	17393	china --> national anthem of a country official anthem since --> [u'1982-12-04']	0	EMPTY
+what is the political structure of china?	17393	china --> military command military commander --> [u'Mao Zedong', u'Tang Shengzhi', u'Peng Dehuai']	50	The term alludes to the phrase "[[Gang of Four]]", used in [[China]] to refer to four ex-leaders blamed for the abuses during the rule of [[Mao Zedong]].
+what is the political structure of china?	17393	china --> united nations body membership body --> [u'United Nations Security Council']	11	The '''United Nations Security Council "power of veto"''' refers to the [[veto]] power wielded solely by the [[Permanent members of the United Nations Security Council|five permanent members]] of the [[United Nations]] [[United Nations Security Council|Security Council]] ([[China]], [[France]], [[Russia]], [[United Kingdom]], and [[United States]]), enabling them to prevent the adoption of any "substantive" resolution.
+what is the political structure of china?	17393	china --> administrative area adjectival form --> [u'Chinese']	0	EMPTY
+what is the political structure of china?	17393	china --> administrative area administrative area type --> [u'Sovereign state']	0	EMPTY
+what is the political structure of china?	17393	china --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what is the political structure of china?	17393	china --> country currency used --> [u'Renminbi']	6	This list ranks the prefecture-level cities of [[China]] by [[Gross domestic product|GDP]] [[per capita]] in [[Renminbi]] ([[wikt:人|人]][[wikt:民|民]][[wikt:币|币]]), aka yuan ([[wikt:元|元]]).
+what is the political structure of china?	17393	china --> bibs location is clear --> [u'1']	0	EMPTY
+what is the political structure of china?	17393	china --> competitor competition relationship competitors --> [u'Bai Xue', u'Wang Hao', u'Liu Xiang', u'Yang Wei', u'Gong Lijiao']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> olympic medal honor event --> [u"Table tennis at the 2012 Summer Olympics \u2013 Men's singles", u"Swimming at the 2004 Summer Olympics \u2013 Women's 100 metre breaststroke", u"Shooting at the 2008 Summer Olympics \u2013 Men's 10 metre air rifle", u"Shooting at the 2008 Summer Olympics \u2013 Men's 10 metre air pistol", u"Table Tennis at the 2000 Summer Olympics Women's Singles"]	0	EMPTY
+what is the political structure of china?	17393	china --> olympic participating country olympics participated in --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1980 Winter Olympics']	129	'''Pan Fengzhen''' (潘凤贞, born 1985) is a [[field hockey]] player from [[China]], who won a silver medal with the [[China women's national field hockey team|national women's hockey team]] at the [[2008 Summer Olympics]] in [[Beijing]].
+what is the political structure of china?	17393	china --> government position held office holder --> [u'Jiang Zemin', u'Zhu Rongji', u'Wen Jiabao', u'Xi Jinping', u'Mao Zedong']	71	* At the [[11th National People's Congress|11th]] [[National People's Congress]], [[Hu Jintao]] is elected to a second term as the [[President of the People's Republic of China|President]] of [[China]], and [[Xi Jinping]] is elected [[Vice-President of the People's Republic of China|Vice-President]].
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> organization scope organizations with this scope --> [u'Cultural Development Center for Rural Women', u'iProspect', u'Program for Appropriate Technology in Health', u'Chinese Volleyball Association', u'TeleTOP']	0	EMPTY
+what is the political structure of china?	17393	china --> imports and exports amount --> [u'23700000000']	0	EMPTY
+what is the political structure of china?	17393	china --> system title relationship to date --> [u'1911']	0	EMPTY
+what is the political structure of china?	17393	china --> imports and exports date --> [u'2005', u'2006', u'2008']	0	EMPTY
+what is the political structure of china?	17393	china --> country languages spoken --> [u'English Language', u'Chinese language', u'Korean Language', u'Yue Chinese', u'Portuguese Language']	185	The '''Luohu Port''' ([[simplified Chinese characters|simplified]] [[Chinese language|Chinese]]: 罗湖口岸, [[pinyin]]: ''Luóhú Kǒuàn'') is a [[port of entry]] of the [[People's Republic of China]] (PRC), located in [[Luohu District]] of [[Shenzhen]] in China, on the border of [[China]] with [[Hong Kong]].
+what is the political structure of china?	17393	china --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what is the political structure of china?	17393	china --> competitor country relationship competitor --> [u'Gen Li', u'Huan Xia', u'Zhuofu Chen', u'Liang Wang', u'Kai Liu']	0	EMPTY
+what is the political structure of china?	17393	china --> country calling code --> [u'86']	0	EMPTY
+what is the political structure of china?	17393	china --> adjoining relationship adjoins --> [u'Nepal', u'Japan', u'India', u'Russia', u'Kazakhstan']	5069	The museum has an oriental gallery which houses [[Japan|Japanese]] and [[China|Chinese]] sculptures and other works collected by the Maharaja on his visits to these countries.
+what is the political structure of china?	17393	china --> geocode longitude --> [u'110.467708512']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics', u'2004 Summer Olympics']	29	In the months leading up to the [[1996 Summer Olympics|Atlanta Olympic Games]] swimming teams from [[Israel]], [[China]], [[Japan]], [[South Africa]], and [[Finland]] used the facility to train while the US Olympic [[Water Polo]] also used the facility.
+what is the political structure of china?	17393	china --> periodical subject periodicals --> [u'Far Eastern Economic Review', u'Modern China']	0	EMPTY
+what is the political structure of china?	17393	china --> united nations body membership from --> [u'1971']	0	EMPTY
+what is the political structure of china?	17393	china --> organization founder organizations founded --> [u'UNESCO', u'Shanghai Cooperation Organisation', u'BRICS']	19	[[UNESCO]] added [[Capital Cities and Tombs of the Ancient Koguryo Kingdom]] in present-day [[China]] and [[Complex of Goguryeo Tombs]] in present-day [[North Korea]] to the [[World Heritage Site]]s in 2004.
+what is the political structure of china?	17393	china --> dated percentage rate --> [u'1.68412', u'1.727153', u'1.756195', u'1.777209', u'1.802983']	0	EMPTY
+what is the political structure of china?	17393	china --> imports and exports imported from --> [u'United States of America', u'Angola', u'Yemen', u'Sudan', u'Laos']	1395	However, lava lamps made in [[China]] for the [[United States|U.S.]]
+what is the political structure of china?	17393	china --> olympic participating country ioc code --> [u'CHN']	0	EMPTY
+what is the political structure of china?	17393	china --> dated kgoe number --> [u'465.706', u'477.939', u'484.504', u'486.865', u'528.204']	0	EMPTY
+what is the political structure of china?	17393	china --> topic official website --> [u'http://english.gov.cn/']	0	EMPTY
+what is the political structure of china?	17393	china --> dated float number --> [u'1.598', u'1.614', u'1.629', u'1.643', u'1.656']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> country iso  shortname --> [u'CHINA']	0	EMPTY
+what is the political structure of china?	17393	china --> casino theme casinos in this theme --> [u'The Quad Resort and Casino']	0	EMPTY
+what is the political structure of china?	17393	china --> cyclone affected area cyclones --> [u'Typhoon Babe', u'Typhoon Herb', u'Typhoon Matsa', u'Typhoon Kent', u'Typhoon Sepat']	0	EMPTY
+what is the political structure of china?	17393	china --> nuclear power nuclear tests --> [u'596']	1	[[China]] also launched its own nuclear program, resulting in the A-bomb "[[596 (nuclear test)|596]]" (22 kt) tested on 16 October 1964, and the H-bomb [[People's Republic of China and weapons of mass destruction|Test No.
+what is the political structure of china?	17393	china --> mythical creature location mythical creature s --> [u'Tiangou', u'Chinese dragon', u'Chinese guardian lions']	5	[[Image:Pu with openwork interlaced dragons design.jpg|thumb|230px|right|[[China|Chinese]] ''[[pu (vessel)|pu]]'' vessel with interlaced [[Chinese dragon|dragon]] design, Spring and Autumn period.]]
+what is the political structure of china?	17393	china --> nobel honor nobel prize winner --> [u'Pearl S. Buck']	2	|1948 || Ezra ben Israel || ''[[Peony (novel)|Peony]]''  || [[Pearl S. Buck]] || Novel || United States || Ezra ben Israel and his family are part of the longstanding Jewish community living in the 1850s in the city of [[K'aifeng]], [[China]] before its later dispersal and assimilation.
+what is the political structure of china?	17393	china --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0	EMPTY
+what is the political structure of china?	17393	china --> hoax location hoax es --> [u'Archaeoraptor']	1	In 1999, Sloan published a feature article called “Feathers for T. Rex?” for ''National Geographic Magazine'', describing an ''[[Archaeoraptor]]'' fossil found in [[China]] as "a missing link between terrestrial dinosaurs and birds that could actually fly."
+what is the political structure of china?	17393	china --> newspaper circulation area newspapers --> [u'Global Times', u'Financial Times', u'China Youth Daily', u'Southern Weekly', u"People's Daily"]	5	*[[June 15]] &ndash; [[China|Chinese]] [[newspaper]], ''Renmin Ribao'' (''[[People's Daily]]''), a first issue of published in [[Pingshan County, Hebei|Pingshan]], [[Hebei Province]], [[China]].
+what is the political structure of china?	17393	china --> adjusted money value adjusted value --> [u'48151766858', u'51282752582', u'53131628623', u'61546062211', u'70348527260']	0	EMPTY
+what is the political structure of china?	17393	china --> adjusted money value adjustment currency --> [u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> administrative area administrative parent --> [u'Earth']	3	'''Mount Everest''', [[#Name|also known]] in [[Nepal]] as '''Sagarmāthā''' and in [[China]] as '''Chomolungma'''/'''珠穆朗玛峰''', is [[Earth]]'s [[List of highest mountains|highest mountain]].
+what is the political structure of china?	17393	china --> webpage uri --> [u'http://www.travelchinaguide.com/', u'http://statoids.com/ucn.html', u'http://tripintochina.com']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> flag use flag --> [u'Flag of China']	0	EMPTY
+what is the political structure of china?	17393	china --> sports team location teams --> [u"China women's national football team", u'China PR national football team', u'China national cricket team', u'Jiangsu Dragons', u"China women's national volleyball team"]	4	'''Gao Hongbo''' (; born January 25, 1966 in [[Beijing]]) is a retired [[China|Chinese]] [[Striker (football)|football striker]] and former head coach of [[China national football team]].
+what is the political structure of china?	17393	china --> force strength force size --> [u'40000', u'520000']	0	EMPTY
+what is the political structure of china?	17393	china --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what is the political structure of china?	17393	china --> force strength military conflict --> [u'Vietnam War', u"Incorporation of Tibet into the People's Republic of China"]	10	The '''Phoenix Program''' (, a word related to [[fenghuang]], the [[China|Chinese]] [[Phoenix (mythology)|phoenix]]) was a program designed, coordinated, and executed by the United States [[Central Intelligence Agency]] (CIA), [[United States special operations forces]], US Army intelligence collection units from MACV, special forces operatives from the [[Australian Army Training Team Vietnam]] (AATTV), and the [[Republic of Vietnam]]'s (South Vietnam) [[Republic of Vietnam National Police Field Force|security apparatus]] during the [[Vietnam War]].
+what is the political structure of china?	17393	china --> breed origin breeds originating here --> [u'Formosan Mountain Dog', u'Silkie', u'Cochin', u'Pekin Bantam', u'Croad Langshan']	1	In [[Asia]], chickens with striking plumage have long been kept for ornamental purposes, including feather-footed varieties such as the [[Cochin (chicken)|Cochin]] and the [[Silkie]] from [[China]], and the extremely long-tailed [[Phoenix chicken|Phoenix]] from [[Japan]].
+what is the political structure of china?	17393	china --> film subject films --> [u"Mao's Last Dancer"]	0	EMPTY
+what is the political structure of china?	17393	china --> location nearby airports --> [u'Zhijiang Airport', u'Wenshan Puzhehei Airport', u'Ganzhou Huangjin Airport']	1	| [[Ganzhou]] || [[Jiangxi]] || [[China]] || align=center | KOW || align=center | ZSGZ || [[Ganzhou Huangjin Airport]] ||
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0	EMPTY
+what is the political structure of china?	17393	china --> exhibition subject exhibitions created about this subject --> [u'China Design Now']	0	EMPTY
+what is the political structure of china?	17393	china --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0	EMPTY
+what is the political structure of china?	17393	china --> competitor competition relationship medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0	EMPTY
+what is the political structure of china?	17393	china --> location adjectival form --> [u'Chinese']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0	EMPTY
+what is the political structure of china?	17393	china --> dated metric ton number --> [u'0.574162', u'0.605452', u'0.625646', u'0.640002', u'0.661428']	0	EMPTY
+what is the political structure of china?	17393	china --> casualties lower estimate --> [u'1446', u'4200']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0	EMPTY
+what is the political structure of china?	17393	china --> base equivalent location base --> [u'china']	0	EMPTY
+what is the political structure of china?	17393	china --> countries continent --> [u'Asia']	375	This has led to a trend of transference, or what is also known as the "global industrial shift", in which production processes are relocated from developed countries (such as the [[United States|US]], [[Europe|European]] countries, and [[Japan]]) to developing countries in [[Asia]] (such as [[China]], [[Vietnam]], and [[India]]) and [[Latin America]].
+what is the political structure of china?	17393	china --> casualties military conflict --> [u'Vietnam War']	8	The '''Phoenix Program''' (, a word related to [[fenghuang]], the [[China|Chinese]] [[Phoenix (mythology)|phoenix]]) was a program designed, coordinated, and executed by the United States [[Central Intelligence Agency]] (CIA), [[United States special operations forces]], US Army intelligence collection units from MACV, special forces operatives from the [[Australian Army Training Team Vietnam]] (AATTV), and the [[Republic of Vietnam]]'s (South Vietnam) [[Republic of Vietnam National Police Field Force|security apparatus]] during the [[Vietnam War]].
+what is the political structure of china?	17393	china --> administrative area subdividing type --> [u'Chinese municipality', u'Chinese autonomous region', u'Chinese province', u'Chinese province traditional eighteen', u'Chinese special administrative region']	0	EMPTY
+what is the political structure of china?	17393	china --> government position held to --> [u'1998', u'2008', u'2008-03', u'2003-03-15', u'2013-03-14']	0	EMPTY
+what is the political structure of china?	17393	china --> webpage category --> [u'Topic Webpage', u'Topic Equivalent']	0	EMPTY
+what is the political structure of china?	17393	china --> government position held basic title --> [u'President', u'Vice President', u'Chairman', u'Premier', u'Deputy prime minister']	2	'''Isaac William Wiley''' (; [[Pinyin]]: ''Huáilǐ''; [[Foochow Romanized]]: ''Huài-lā̤''; 29 March 1825 – 22 November 1884) was an [[United States|American]] who distinguished himself as a [[physician]], a [[Methodist]] [[missionary]] to [[China]], a [[Pastor]], as the [[President]] of a [[seminary]], as an editor, and as a [[Bishop]] of the [[Methodist Episcopal Church]], elected in 1872.
+what is the political structure of china?	17393	china --> linguistic hint adjectival form --> [u'Chinese']	0	EMPTY
+what is the political structure of china?	17393	china --> military combatant group conflict --> [u'Battle of Guanzhong', u"Battle of Nan'ao Island", u'Chola incident', u'Allied intervention in the Russian Civil War', u'Battle of Guilin\u2013Liuzhou']	0	EMPTY
+what is the political structure of china?	17393	china --> adjusted money value source --> [u'World Bank, World Development Indicators']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> country capital --> [u'Beijing']	1007	'''Pan Fengzhen''' (潘凤贞, born 1985) is a [[field hockey]] player from [[China]], who won a silver medal with the [[China women's national field hockey team|national women's hockey team]] at the [[2008 Summer Olympics]] in [[Beijing]].
+what is the political structure of china?	17393	china --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what is the political structure of china?	17393	china --> country internet tld --> [u'cn', u'hk', u'mo']	2	| id="CN" |  || [[China]] || 1974 || [[.cn]] ||  ||
+what is the political structure of china?	17393	china --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage date --> [u'1990', u'1993', u'1994', u'1995', u'1996']	0	EMPTY
+what is the political structure of china?	17393	china --> vocabulary equivalent topic narrower concept --> [u'Book design--Awards--China']	0	EMPTY
+what is the political structure of china?	17393	china --> beer country region beers from here --> [u'Harbin Beer', u'Tsingtao Beer', u'Guangzhou Zhu Jiang Brewery Co.Ltd. Zhu Jiang Beer']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage rate --> [u'-27.101882', u'-6.105339', u'-5.7', u'-4.1', u'-1.6']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value valid date --> [u'2008']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value amount --> [u'6100']	0	EMPTY
+what is the political structure of china?	17393	china --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead']	0	EMPTY
+what is the political structure of china?	17393	china --> topic topical webpage --> [u'http://www.travelchinaguide.com/', u'http://tripintochina.com/', u'http://www.chinahighlights.com/tour/']	0	EMPTY
+what is the political structure of china?	17393	china --> imports and exports currency --> [u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> administrative area short name --> [u'cn']	0	EMPTY
+what is the political structure of china?	17393	china --> governmental jurisdiction government bodies --> [u"National People's Congress", u"State Council of the People's Republic of China"]	14	* At the [[11th National People's Congress|11th]] [[National People's Congress]], [[Hu Jintao]] is elected to a second term as the [[President of the People's Republic of China|President]] of [[China]], and [[Xi Jinping]] is elected [[Vice-President of the People's Republic of China|Vice-President]].
+what is the political structure of china?	17393	china --> system title relationship title --> [u'Emperor of China']	18	The '''Tongzhi Emperor''' (27 April 185612 January 1875), born '''Zaichun''' of the [[Aisin Gioro]] clan, was the tenth [[Emperor of China|emperor]] of the [[Manchu people|Manchu]]-led [[Qing dynasty]], and the eighth Qing emperor to rule over [[China]].
+what is the political structure of china?	17393	china --> dated location date founded --> [u'1949-10-01']	0	EMPTY
+what is the political structure of china?	17393	china --> governmental jurisdiction government --> [u'Government of China']	3	In c. 2006, the [[Government of China|Chinese Government]] instituted the admission of foreign students to [[China]] for Medical instruction utilizing [[English language|English]] as the language of instruction.
+what is the political structure of china?	17393	china --> country form of government --> [u'Communist state', u'Socialist state', u'Single-party state']	1	Today, [[Vietnam]] is one of the world's four remaining [[Communist state]]s (along with [[China]], [[Cuba]] and [[Laos]]).
+what is the political structure of china?	17393	china --> competitor competition relationship competition --> [u"2009 World Championships in Athletics \u2013 Women's Marathon", u"2009 World Championships in Athletics \u2013 Men's 20 kilometres walk", u"2006 World Artistic Gymnastics Championships \u2013 Men's individual all-round", u"2009 World Championships in Athletics \u2013 Women's 20 kilometres walk", u"2009 World Championships in Athletics \u2013 Women's shot put"]	0	EMPTY
+what is the political structure of china?	17393	china --> competitor country relationship sports --> [u'Badminton']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what is the political structure of china?	17393	china --> adjusted money value adjustment date --> [u'2000']	0	EMPTY
+what is the political structure of china?	17393	china --> book subject works --> [u'Zen Poems of China and Japan', u'Tai-Pan: A Novel of Hong Kong', u'Beautiful warrior', u'More Light', u'The Tso Chuan']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what is the political structure of china?	17393	china --> government position held appointed by --> [u"National People's Congress"]	6	* At the [[11th National People's Congress|11th]] [[National People's Congress]], [[Hu Jintao]] is elected to a second term as the [[President of the People's Republic of China|President]] of [[China]], and [[Xi Jinping]] is elected [[Vice-President of the People's Republic of China|Vice-President]].
+what is the political structure of china?	17393	china --> travel destination tourist attractions --> [u'Mausoleum of the First Qin Emperor']	0	EMPTY
+what is the political structure of china?	17393	china --> location contains --> [u'Jiefang Bridge', u'Garz\xea County', u'Xinbin Manchu Autonomous County', u'Yinjiang Tujia and Miao Autonomous County', u'Chongyi County']	0	EMPTY
+what is the political structure of china?	17393	china --> topic alias --> [u"People's Republic of China", u'\u4e2d\u56fd']	0	EMPTY
+what is the political structure of china?	17393	china --> flag use from date --> [u'1949-09-27']	0	EMPTY
+what is the political structure of china?	17393	china --> taxonomy entry high --> [u'799.9']	0	EMPTY
+what is the political structure of china?	17393	china --> cryptid area of occurrence cryptid s found here --> [u'Yeren']	1	He also journeyed to [[China]] along with the anthropologist [[Frank Poirier]] to try to discover the [[Yeren]], a Chinese version of the Bigfoot.
+what is the political structure of china?	17393	china --> organization membership from --> [u'1946', u'1999', u'1945-10-24']	0	EMPTY
+what is the political structure of china?	17393	china --> united nations body membership permanent --> [u'1']	0	EMPTY
+what is the political structure of china?	17393	china --> location area --> [u'9706961']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what is the political structure of china?	17393	china --> imports and exports currency --> [u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> force strength date --> [u'1968']	0	EMPTY
+what is the political structure of china?	17393	china --> military combatant belongs to combatant group --> [u'Triple Entente']	0	EMPTY
+what is the political structure of china?	17393	china --> governmental jurisdiction agencies --> [u'Chinese Ministry of Culture', u'Chinese Ministry of Finance', u'Chinese Ministry of Transportation and Communications', u'Chinese Ministry of Foreign Trade and Economic Cooperation', u'Chinese Ministry of Health']	1	It is one of the largest [[art museum]]s in [[China]], and is funded by the [[Ministry of Culture of the People's Republic of China|Ministry of Culture]].
+what is the political structure of china?	17393	china --> cotermination location --> [u'Taiwan']	1200	| area_served         = [[Taiwan]], [[China]], [[Mongolia]], [[Southeastern Asia]] countries
+what is the political structure of china?	17393	china --> country administrative divisions --> [u'Hong Kong', u'Hunan', u'Shanghai', u'Shandong', u'Jilin']	1872	The channel was launched in the middle of 2005 into multiple territories across the region and has since been broadcasting to over 130 million viewers in 13 countries, including: [[Brunei]], [[Cambodia]], [[China]], [[Hong Kong]], [[Indonesia]], [[Malaysia]], [[Mongolia]], [[Philippines]], [[Singapore]], [[South Korea]], [[Taiwan]], [[Thailand]], and [[Vietnam]].
+what is the political structure of china?	17393	china --> competitor competition relationship tournament --> [u'2007 World Championships in Athletics', u'2009 World Championships in Athletics', u'2006 World Artistic Gymnastics Championships']	2	'''[[China]]''' competes at the '''[[2009 World Championships in Athletics]]''' from 15–23 August in [[Berlin]].
+what is the political structure of china?	17393	china --> dated float number --> [u'43.458', u'43.772', u'44.704', u'46.324', u'48.574']	0	EMPTY
+what is the political structure of china?	17393	china --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what is the political structure of china?	17393	china --> administrative area pertinent type --> [u'Chinese county level city', u'Chinese city shi', u'Chinese shixiaxian', u'Chinese municipality', u'Chinese autonomous region']	0	EMPTY
+what is the political structure of china?	17393	china --> location time zones --> [u'UTC+8', u'Time in China']	3	Also, [[China]] extends as far west as 73°34′E, but all parts of it use [[UTC+08:00]] ([[120th meridian east|120°E]]), so solar "noon" can occur as late as 15:00 in western portions of China such as [[Xinjiang]] and [[Tibet Autonomous Region|Tibet]].
+what is the political structure of china?	17393	china --> webpage description --> [u'Reliable China Travel Guide', u'Travel Guide to China']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0	EMPTY
+what is the political structure of china?	17393	china --> film location featured in films --> [u'Samsara']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value amount --> [u'250', u'280', u'320', u'370', u'440']	0	EMPTY
+what is the political structure of china?	17393	china --> webpage resource --> [u'Shanghai Symphony Conductor Long Yu On Carnegie Hall Show, Whiskey Drinking', u'60th Berlin International Film Festival Opens with Wang Quan\u2019an\u2019s \u201cTuan Yuan\u201d (\u201dApart Together\u201d)', u"'Survivor: Heroes Vs. Villains': Amanda insists 'I'm gonna be a bulldog this time. No apologies, bitches.'", u"'Bones': Baked on a Plane", u"Break out the bubbly! Axl delivers on 'Chinese Democracy' (maybe)"]	0	EMPTY
+what is the political structure of china?	17393	china --> topic exceptions --> [u'The type Chinese City District does not specify where instances may appear.', u'The type Chinese County Level City does not specify where instances may appear.', u'Chinese autonomous region traditional eighteen is subdivided by types at different levels.', u'Chinese city shi subdivides types at different levels.', u'The type Chinese Town does not specify where instances may appear.']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> government position held governmental body --> [u'State Administration of Foreign Exchange', u"State Council of the People's Republic of China"]	9	The '''China Securities Regulatory Commission''' ('''CSRC''') is an institution of the [[State Council of the People's Republic of China|State Council]] of the [[China|People's Republic of China]] (PRC), with ministry-level rank.
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> military combatant group combatants --> [u'Soviet Union', u'North Korea', u'North Vietnam', u'Viet Cong', u'Pathet Lao']	453	The '''7.62×25mm Tokarev''' cartridge is a [[Russia]]n bottle-necked [[pistol]] [[Cartridge (weaponry)|cartridge]] widely used in former [[Soviet Union|Soviet]] satellite states, [[China]] and [[Pakistan]] among other countries.
+what is the political structure of china?	17393	china --> dated integer number --> [u'660330000', u'665770000', u'667070000', u'682335000', u'698355000']	0	EMPTY
+what is the political structure of china?	17393	china --> imports and exports amount --> [u'1400000000']	0	EMPTY
+what is the political structure of china?	17393	china --> geocode latitude --> [u'32.9042932784']	0	EMPTY
+what is the political structure of china?	17393	china --> location events --> [u'Battle of Guanzhong', u'2009 Chinese lead poisoning scandal', u'Battle of Yalu River', u'Pacific War', u'Sichuan invasion']	2	After the [[Pacific War]] ended in August 1945, the Seventh Fleet assisted in landing troops in [[Korea]] and northern [[China]] to occupy these areas and repatriate Allied prisoners of war.
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> tv location tv shows filmed here --> [u'The Bride with White Hair']	0	EMPTY
+what is the political structure of china?	17393	china --> country official language --> [u'Standard Mandarin']	8	It is the phonological basis of [[Standard Chinese]], which is the official language in the [[China|People's Republic of China]] and  [[Taiwan|Republic of China]] and one of the official languages in [[Singapore]].
+what is the political structure of china?	17393	china --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what is the political structure of china?	17393	china --> dated percentage rate --> [u'-1.02', u'0.47', u'0.48', u'0.51', u'0.52']	0	EMPTY
+what is the political structure of china?	17393	china --> taxonomy entry low --> [u'701']	0	EMPTY
+what is the political structure of china?	17393	china --> administrative area administrative children --> [u'Hong Kong', u'Hunan', u'Shanghai', u'Shandong', u'Ili Kazakh Autonomous Prefecture']	1786	The channel was launched in the middle of 2005 into multiple territories across the region and has since been broadcasting to over 130 million viewers in 13 countries, including: [[Brunei]], [[Cambodia]], [[China]], [[Hong Kong]], [[Indonesia]], [[Malaysia]], [[Mongolia]], [[Philippines]], [[Singapore]], [[South Korea]], [[Taiwan]], [[Thailand]], and [[Vietnam]].
+what is the political structure of china?	17393	china --> government position held from --> [u'1995', u'1998', u'2003', u'2003-03', u'2002-11-15']	0	EMPTY
+what is the political structure of china?	17393	china --> olympic athlete affiliation athlete --> [u'Hou Yuzhuo', u'Yang Jun', u'Li Kongzheng', u'Xiong Ni', u'Zhang Hui']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value currency --> [u'United States dollar']	4	*[[China]]'s [[Chinese yuan|yuan]] reaches a record level against the [[United States dollar]].
+what is the political structure of china?	17393	china --> dated money value amount --> [u'245336975496', u'282252731579', u'327513493645', u'378792345524', u'453158411461']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what is the political structure of china?	17393	china --> object name --> [u'China']	0	EMPTY
+what is the political structure of china?	17393	china --> topic image --> [u'ROC PRC comparison eng', u"800px-Flag_of_the_People's_Republic_of_China_svg.png"]	0	EMPTY
+what is the political structure of china?	17393	china --> national anthem of a country anthem --> [u'March of the Volunteers']	2	These included the film ''[[Plunder of Peach and Plum]]'' (1935) (which Yuan also wrote) and the [[film|movie]] ''[[Sons and Daughters in a Time of Storm]]'' (1935) where he was one of the two original singers (along with [[Gu Menghe]]) of the movie's theme song, ''[[March of the Volunteers|The March of the Volunteers]]'', which later became the [[national anthem]] of [[China]].
+what is the political structure of china?	17393	china --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what is the political structure of china?	17393	china --> dated money value amount --> [u'46464003927', u'50100934916', u'50280424169', u'58613239133', u'61377930682']	0	EMPTY
+what is the political structure of china?	17393	china --> governmental jurisdiction government positions --> [u"Vice Premier of the People's Republic of China", u"Premier of the People's Republic of China", u"President of the People's Republic of China", u"Vice President of the People's Republic of China"]	17	* At the [[11th National People's Congress|11th]] [[National People's Congress]], [[Hu Jintao]] is elected to a second term as the [[President of the People's Republic of China|President]] of [[China]], and [[Xi Jinping]] is elected [[Vice-President of the People's Republic of China|Vice-President]].
+what is the political structure of china?	17393	structure --> topic subject of --> [u'Dolphin']	0	EMPTY
+what is the political structure of china?	17393	structure --> object name --> [u'Structure']	0	EMPTY
+what is the political structure of china?	17393	structure --> structural composition structural engineering system --> [u'Hennebique System']	0	EMPTY
+what is the political structure of china?	17393	structure --> structural composition structural load bearing material --> [u'Reinforced concrete']	0	EMPTY
+what is the political structure of china?	17393	structure --> structural composition structure --> [u'Royal Liver Building', u'Hotel Zum Baeren', u'Palace Hotel, Lucerne', u'Pont Camille de Hogues, Ch\xe2tellerault']	0	EMPTY

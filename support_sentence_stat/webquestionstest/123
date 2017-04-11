@@ -1,41 +1,41 @@
-who was carolus linnaeus?	98	carl linnaeus --> person date of birth --> [u'1707-05-23']	0
-who was carolus linnaeus?	98	carl linnaeus --> kwtopic has sentences --> [u'Linnaeus was rigorous in ordering his material and it was at this time that he began to work out a new system of botanical classification.', u'Linnaeus went to Harderwijk  to receive his doctorate and then on to study at Leyden where he became friendly with the famous doctor and botanist, Boerhaave.', u'The Swiss naturalist and scholar, Haller, had written to Linnaeus, with the offer of a professorship at Gottingen,  but the letter took eighteen months to reach Sweden and meanwhile Linnaeus had to fall back on his medical degree and set up his own practice in Stockholm.', u'He was the first to recognise whales as mammals and he linked man with the apes.', u"In mineral classification, Linnaeus's emphasis of the importance of crystal structure makes him one of the pioneers of crytallography."]	0
-who was carolus linnaeus?	98	carl linnaeus --> exhibition subject exhibitions created about this subject --> [u'Linnaeus']	0
-who was carolus linnaeus?	98	carl linnaeus --> person profession --> [u'Scientist', u'Botanist', u'Physician', u'Biologist']	0
-who was carolus linnaeus?	98	carl linnaeus --> kwtopic disciplines --> [u'botanist']	0
-who was carolus linnaeus?	98	carl linnaeus --> person gender --> [u'Male']	0
-who was carolus linnaeus?	98	carl linnaeus --> education start date --> [u'1727', u'1735-04', u'1728-08']	0
-who was carolus linnaeus?	98	carl linnaeus --> author works written --> [u'Genera Plantarum', u'Hortus Uppsaliensis', u'Centuria Insectorum', u'Olandska Och Gotlandska Resa AR 1741', u'Materia medica']	26
-who was carolus linnaeus?	98	carl linnaeus --> person nationality --> [u'Sweden']	17
-who was carolus linnaeus?	98	carl linnaeus --> education major field of study --> [u'Medicine']	0
-who was carolus linnaeus?	98	carl linnaeus --> deceased person date of death --> [u'1778-01-10']	0
-who was carolus linnaeus?	98	carl linnaeus --> deceased person place of death --> [u'Linnaeus Hammarby']	1
-who was carolus linnaeus?	98	carl linnaeus --> education end date --> [u'1735']	0
-who was carolus linnaeus?	98	carl linnaeus --> organization founder organizations founded --> [u'Royal Swedish Academy of Sciences']	4
-who was carolus linnaeus?	98	carl linnaeus --> name source namesakes --> [u'Linnaeus Arboretum', u'Linnean Medal', u'Linnaeus University', u'Linnaean Garden', u'Linnean Society of London']	16
-who was carolus linnaeus?	98	carl linnaeus --> deceased person place of burial --> [u'Uppsala Cathedral']	2
-who was carolus linnaeus?	98	carl linnaeus --> kwtopic connections to --> [u'victor albrecht von haller rejected views of carolus linnaeus', u'william chambers work related to carolus linnaeus', u'jean-baptiste lamarck rejected system of carolus linnaeus', u'william cullen used system by carolus linnaeus', u'francois boissier de sauvages work related to carolus linnaeus']	0
-who was carolus linnaeus?	98	carl linnaeus --> person religion --> [u'Church of Sweden', u'Lutheranism']	0
-who was carolus linnaeus?	98	carl linnaeus --> person place of birth --> [u'R\xe5shult']	0
-who was carolus linnaeus?	98	carl linnaeus --> marriage spouse --> [u'Sara Elisabeth Mor\xe6a']	0
-who was carolus linnaeus?	98	carl linnaeus --> ontology instance mapping ontology --> [u'OpenCyc']	0
-who was carolus linnaeus?	98	carl linnaeus --> marriage from --> [u'1739-06-26']	0
-who was carolus linnaeus?	98	carl linnaeus --> valuenotation has value --> [u'Height']	0
-who was carolus linnaeus?	98	carl linnaeus --> topic alias --> [u'Carolus Linnaeus', u'Carl von Linn\xe9', u'Carl Nilsson Linn\xe6us', u'Carolus a Linn\xe9']	0
-who was carolus linnaeus?	98	carl linnaeus --> education institution --> [u'Uppsala University', u'Lund University', u'University of Harderwijk']	13
-who was carolus linnaeus?	98	carl linnaeus --> person children --> [u'Sara Magdalena von Linn\xe9', u'Elisabeth Christina von Linn\xe9', u'Carl Linnaeus the Younger', u'Johannes von Linn\xe9']	1
-who was carolus linnaeus?	98	carl linnaeus --> kwtopic category --> [u'natural sciences and mathematics']	0
-who was carolus linnaeus?	98	carl linnaeus --> kwtopic kwtype --> [u'Person']	0
-who was carolus linnaeus?	98	carl linnaeus --> marriage to --> [u'1778-01-10']	0
-who was carolus linnaeus?	98	carl linnaeus --> influence node influenced --> [u'Torbern Bergman', u'Domenico Cirillo', u'Johann Wolfgang von Goethe', u'Fredrik Hasselqvist', u'Antonio Jos\xe9 Cavanilles']	1
-who was carolus linnaeus?	98	carl linnaeus --> education degree --> [u'Doctor of Medicine']	0
-who was carolus linnaeus?	98	carl linnaeus --> person parents --> [u'Nils Ingemarsson Linnaeus', u'Christina Brodersonia']	0
-who was carolus linnaeus?	98	carl linnaeus --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwVgBXJwpEbGdrcN5Y29ycA']	0
-who was carolus linnaeus?	98	carl linnaeus --> place lived location --> [u'Sweden', u'Sm\xe5land']	17
-who was carolus linnaeus?	98	carl linnaeus --> marriage type of union --> [u'Marriage']	0
-who was carolus linnaeus?	98	carl linnaeus --> kwtopic connections from --> [u'carolus linnaeus superseded system of john ray', u'carolus linnaeus a pal of bernard de jussieu', u'carolus linnaeus offered job by victor albrecht von haller', u'carolus linnaeus a pal of herman boerhaave', u'carolus linnaeus anticipated william cullen']	0
-who was carolus linnaeus?	98	carl linnaeus --> sibling relationship sibling --> [u'Samuel Linnaeus']	0
-who was carolus linnaeus?	98	carl linnaeus --> object name --> [u'Carl Linnaeus']	0
-who was carolus linnaeus?	98	carl linnaeus --> topic image --> [u'Carl von Linn\xc3\xa9', u'LinnaeusDoorway', u'Carl Linnaeus dressed as a Laplander']	0
-who was carolus linnaeus?	98	carl linnaeus --> kwtopic assessment --> [u'Linnaeus was the first to set down principles for defining the genera and species of organisms and he created the first unified system of nomenclature for plants and animals.']	0
-who was carolus linnaeus?	98	carl linnaeus --> book subject works --> [u'The geometer of race', u"Linnaeus's luck?"]	0
+who was carolus linnaeus?	98	carl linnaeus --> person date of birth --> [u'1707-05-23']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> kwtopic has sentences --> [u'Linnaeus was rigorous in ordering his material and it was at this time that he began to work out a new system of botanical classification.', u'Linnaeus went to Harderwijk  to receive his doctorate and then on to study at Leyden where he became friendly with the famous doctor and botanist, Boerhaave.', u'The Swiss naturalist and scholar, Haller, had written to Linnaeus, with the offer of a professorship at Gottingen,  but the letter took eighteen months to reach Sweden and meanwhile Linnaeus had to fall back on his medical degree and set up his own practice in Stockholm.', u'He was the first to recognise whales as mammals and he linked man with the apes.', u"In mineral classification, Linnaeus's emphasis of the importance of crystal structure makes him one of the pioneers of crytallography."]	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> exhibition subject exhibitions created about this subject --> [u'Linnaeus']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> person profession --> [u'Scientist', u'Botanist', u'Physician', u'Biologist']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> kwtopic disciplines --> [u'botanist']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> person gender --> [u'Male']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> education start date --> [u'1727', u'1735-04', u'1728-08']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> author works written --> [u'Genera Plantarum', u'Hortus Uppsaliensis', u'Centuria Insectorum', u'Olandska Och Gotlandska Resa AR 1741', u'Materia medica']	26	*''[[Anartia jatrophae]]'' ([[Carl Linnaeus|Linnaeus]], [[Centuria Insectorum|1763]]) – white peacock or masote
+who was carolus linnaeus?	98	carl linnaeus --> person nationality --> [u'Sweden']	17	This list encompasses students of the [[Sweden|Swedish]] [[natural history|naturalist]] [[Carl Linnaeus]] (1707–1778), professor of Medicine at [[Uppsala University]] from 1741 until 1777, who laid the foundations for the modern scheme of [[Taxonomy (biology)|taxonomy]] and also had a deep indirect influence through his many students.
+who was carolus linnaeus?	98	carl linnaeus --> education major field of study --> [u'Medicine']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> deceased person date of death --> [u'1778-01-10']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> deceased person place of death --> [u'Linnaeus Hammarby']	1	|Swedish components associated with [[Carl Linnaeus]] include [[Råshult]], [[Linnaean Garden]], Linnaean Museum, ''Herbationes Upsalienses'', Hågadalen-Nåsten Nature Reserve, Fäbodmossen Nature Reserve, Årike Fyris and [[Linnaeus' Hammarby]].
+who was carolus linnaeus?	98	carl linnaeus --> education end date --> [u'1735']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> organization founder organizations founded --> [u'Royal Swedish Academy of Sciences']	4	In 1739, the [[Royal Swedish Academy of Sciences]] was founded, with people such as [[Carl Linnaeus]] and [[Anders Celsius]] as early members.
+who was carolus linnaeus?	98	carl linnaeus --> name source namesakes --> [u'Linnaeus Arboretum', u'Linnean Medal', u'Linnaeus University', u'Linnaean Garden', u'Linnean Society of London']	16	fascia'' [[Carl Linnaeus|Linné]], 1758 || Undetermined || [[Adriatic Sea]] || Unresolved; [[Linnean Society of London]]?
+who was carolus linnaeus?	98	carl linnaeus --> deceased person place of burial --> [u'Uppsala Cathedral']	2	* [[Uppsala Cathedral]] is the burial site for several Swedish kings and queens from the 16th and 17th century, as well as [[Carl Linnaeus]] and [[Emanuel Swedenborg]].
+who was carolus linnaeus?	98	carl linnaeus --> kwtopic connections to --> [u'victor albrecht von haller rejected views of carolus linnaeus', u'william chambers work related to carolus linnaeus', u'jean-baptiste lamarck rejected system of carolus linnaeus', u'william cullen used system by carolus linnaeus', u'francois boissier de sauvages work related to carolus linnaeus']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> person religion --> [u'Church of Sweden', u'Lutheranism']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> person place of birth --> [u'R\xe5shult']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> marriage spouse --> [u'Sara Elisabeth Mor\xe6a']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> marriage from --> [u'1739-06-26']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> valuenotation has value --> [u'Height']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> topic alias --> [u'Carolus Linnaeus', u'Carl von Linn\xe9', u'Carl Nilsson Linn\xe6us', u'Carolus a Linn\xe9']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> education institution --> [u'Uppsala University', u'Lund University', u'University of Harderwijk']	13	The city is the site of the oldest university in Scandinavia, founded in 1477 where [[Carl Linnaeus]], one of the renowned scholars of [[Uppsala University]], lived for many years; both his house and garden can still be visited.
+who was carolus linnaeus?	98	carl linnaeus --> person children --> [u'Sara Magdalena von Linn\xe9', u'Elisabeth Christina von Linn\xe9', u'Carl Linnaeus the Younger', u'Johannes von Linn\xe9']	1	Smith was a friend of Sir [[Joseph Banks]] who was offered the entire collection of books, manuscripts and specimens of the [[Sweden|Swedish]] natural historian and botanist [[Carl Linnaeus]], following the death of his son [[Carl Linnaeus the Younger|Carolus Linnaeus the Younger]].
+who was carolus linnaeus?	98	carl linnaeus --> kwtopic category --> [u'natural sciences and mathematics']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> kwtopic kwtype --> [u'Person']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> marriage to --> [u'1778-01-10']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> influence node influenced --> [u'Torbern Bergman', u'Domenico Cirillo', u'Johann Wolfgang von Goethe', u'Fredrik Hasselqvist', u'Antonio Jos\xe9 Cavanilles']	1	The university became prominent in the sciences in the 18th century with names such as the physician and botanist [[Carl Linnaeus]] (1707–1778), the father of biological and mineralogical [[taxonomy (biology)|taxonomy]], and his numerous important pupils, the physicist and astronomer [[Anders Celsius]] (1701–1744), inventor of the Celsius scale the predecessor of the [[Celsius]] scale, and the chemist [[Torbern Bergman]] (1735–1784).
+who was carolus linnaeus?	98	carl linnaeus --> education degree --> [u'Doctor of Medicine']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> person parents --> [u'Nils Ingemarsson Linnaeus', u'Christina Brodersonia']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwVgBXJwpEbGdrcN5Y29ycA']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> place lived location --> [u'Sweden', u'Sm\xe5land']	17	This list encompasses students of the [[Sweden|Swedish]] [[natural history|naturalist]] [[Carl Linnaeus]] (1707–1778), professor of Medicine at [[Uppsala University]] from 1741 until 1777, who laid the foundations for the modern scheme of [[Taxonomy (biology)|taxonomy]] and also had a deep indirect influence through his many students.
+who was carolus linnaeus?	98	carl linnaeus --> marriage type of union --> [u'Marriage']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> kwtopic connections from --> [u'carolus linnaeus superseded system of john ray', u'carolus linnaeus a pal of bernard de jussieu', u'carolus linnaeus offered job by victor albrecht von haller', u'carolus linnaeus a pal of herman boerhaave', u'carolus linnaeus anticipated william cullen']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> sibling relationship sibling --> [u'Samuel Linnaeus']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> object name --> [u'Carl Linnaeus']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> topic image --> [u'Carl von Linn\xc3\xa9', u'LinnaeusDoorway', u'Carl Linnaeus dressed as a Laplander']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> kwtopic assessment --> [u'Linnaeus was the first to set down principles for defining the genera and species of organisms and he created the first unified system of nomenclature for plants and animals.']	0	EMPTY
+who was carolus linnaeus?	98	carl linnaeus --> book subject works --> [u'The geometer of race', u"Linnaeus's luck?"]	0	EMPTY

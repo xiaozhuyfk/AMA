@@ -1,57 +1,57 @@
-where did djokovic come from?	764	comefrom --> object name --> [u'COMEFROM']	0
-where did djokovic come from?	764	novak djokovic --> person date of birth --> [u'1987-05-22']	0
-where did djokovic come from?	764	novak djokovic --> tennis match loser --> [u'Andy Murray', u'Rafael Nadal', u'Mikhail Youzhny', u'David Ferrer', u'Lleyton Hewitt']	293
-where did djokovic come from?	764	novak djokovic --> dated integer number --> [u'3']	0
-where did djokovic come from?	764	novak djokovic --> person profession --> [u'Tennis player', u'Athlete']	0
-where did djokovic come from?	764	novak djokovic --> competitor competition relationship rank --> [u'2', u'3']	0
-where did djokovic come from?	764	novak djokovic --> topic alias --> [u'The Joker', u'Nox', u'Nole', u'Djoker', u'Nokia']	0
-where did djokovic come from?	764	novak djokovic --> person gender --> [u'Male']	0
-where did djokovic come from?	764	novak djokovic --> olympic medal honor event --> [u"Tennis at the 2008 Summer Olympics - Men's Singles"]	0
-where did djokovic come from?	764	novak djokovic --> person weight kg --> [u'82']	0
-where did djokovic come from?	764	novak djokovic --> person nationality --> [u'Serbia']	15
-where did djokovic come from?	764	novak djokovic --> coach athlete relationship coach --> [u'Todd Martin', u'Mark Woodforde', u'Mari\xe1n Vajda', u'Riccardo Piatti']	0
-where did djokovic come from?	764	novak djokovic --> tennis match event --> [u'2011 BNP Paribas Open', u'2011 US Open', u"2011 Internazionali BNL d'Italia", u"2012 Australian Open \u2013 Men's Singles final", u'2008 Australian Open']	17
-where did djokovic come from?	764	novak djokovic --> daylife hero image id --> [u'0dHE9sMaOsgSs']	0
-where did djokovic come from?	764	novak djokovic --> competitor competition relationship tournament --> [u'2010 Wimbledon Championships', u'2013 Wimbledon Championships']	3
-where did djokovic come from?	764	novak djokovic --> performance special performance type --> [u'Him/Herself', u'Uncredited']	0
-where did djokovic come from?	764	novak djokovic --> coach athlete relationship from --> [u'2005', u'2006-06', u'2007', u'2009-08']	0
-where did djokovic come from?	764	novak djokovic --> tennis match winner --> [u'Andy Murray', u'Rafael Nadal', u'John Isner', u'Roger Federer', u'Tommy Haas']	334
-where did djokovic come from?	764	novak djokovic --> pro sports played sport --> [u'Tennis']	7
-where did djokovic come from?	764	novak djokovic --> context name nickname --> [u'The Joker', u'Nole', u'Djoker', u'The Serbinator']	0
-where did djokovic come from?	764	novak djokovic --> tennis tournament championship tournament --> [u'2012 ATP World Tour Finals', u'2011 BNP Paribas Open', u'2011 US Open', u"2011 Internazionali BNL d'Italia", u'2013 Australian Open']	16
-where did djokovic come from?	764	novak djokovic --> olympic medal honor olympics --> [u'2008 Summer Olympics']	0
-where did djokovic come from?	764	novak djokovic --> webpage category --> [u'About']	0
-where did djokovic come from?	764	novak djokovic --> olympic athlete affiliation country --> [u'Serbia']	15
-where did djokovic come from?	764	novak djokovic --> person height meters --> [u'1.88']	0
-where did djokovic come from?	764	novak djokovic --> tennis tournament championship event type --> [u"Men's singles"]	0
-where did djokovic come from?	764	novak djokovic --> topic official website --> [u'http://www.novakdjokovic.rs/index.php?jezik=2']	0
-where did djokovic come from?	764	novak djokovic --> tennis player extra singles grand slams --> [u'6']	0
-where did djokovic come from?	764	novak djokovic --> webpage resource --> [u"Clip du Jour: Roger Federer makes what he calls the 'greatest shot' of his career", u'2012 Summer Olympics Athlete NBC Site']	0
-where did djokovic come from?	764	novak djokovic --> competitor competition relationship country --> [u'Serbia']	15
-where did djokovic come from?	764	novak djokovic --> coach athlete relationship to --> [u'2006-06', u'2010-04']	0
-where did djokovic come from?	764	novak djokovic --> person place of birth --> [u'Belgrade']	5
-where did djokovic come from?	764	novak djokovic --> tennis match match format --> [u"Men's singles"]	0
-where did djokovic come from?	764	novak djokovic --> tennis match score --> [u'3\u20136, 1\u20136', u'6\u20133, 2\u20136, 6\u20131', u'6\u20134, 6\u20133, 2\u20136, 7\u20135', u'7\u20136(8\u20136), 7\u20135', u'7-6(9-7), 3-6, 7-6(7-5)']	0
-where did djokovic come from?	764	novak djokovic --> olympic medal honor country --> [u'Serbia']	15
-where did djokovic come from?	764	novak djokovic --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where did djokovic come from?	764	novak djokovic --> competitor competition relationship competition --> [u"2010 Wimbledon Championships \u2013 Men's Singles", u"2013 Wimbledon Championships \u2013 Men's Singles"]	0
-where did djokovic come from?	764	novak djokovic --> tennis tournament championship year --> [u'2007', u'2008', u'2009', u'2010', u'2011']	0
-where did djokovic come from?	764	novak djokovic --> tennis match match format --> [u"Men's singles"]	0
-where did djokovic come from?	764	novak djokovic --> olympic athlete affiliation sport --> [u'Tennis']	7
-where did djokovic come from?	764	novak djokovic --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics']	0
-where did djokovic come from?	764	novak djokovic --> tennis match date --> [u'2007', u'2008', u'2009', u'2012', u'2012-06-11']	0
-where did djokovic come from?	764	novak djokovic --> tennis match score --> [u'4-6, 6-3, 6-2', u'4\u20136, 6\u20133, 7\u20136(4)', u'5\u20137, 6\u20134, 6\u20132, 6\u20137(5\u20137), 7\u20135', u'6\u20132, 6\u20134, 6\u20137(3\u20137), 6\u20131', u'6\u20134, 6\u20131, 1\u20136, 6\u20133']	0
-where did djokovic come from?	764	novak djokovic --> person parents --> [u'Sr\u0111an Djokovic', u'Dijana Djokovic']	0
-where did djokovic come from?	764	novak djokovic --> tennis player year turned pro --> [u'2003']	0
-where did djokovic come from?	764	novak djokovic --> topic topical webpage --> [u'http://www.nbcolympics.com/athletes/athlete=novak-djokovic/index.html']	0
-where did djokovic come from?	764	novak djokovic --> place lived location --> [u'Belgrade', u'Monte Carlo']	8
-where did djokovic come from?	764	novak djokovic --> tv guest role episodes appeared in --> [u'2010 Highlights, Day 9', u'Monte Carlo', u'2010 Highlights, Day 7', u'Bill Cosby, Novak Djokovic, Landon Pigg', u'2009 Highlights, Day 3']	0
-where did djokovic come from?	764	novak djokovic --> sibling relationship sibling --> [u'Marko \u0110okovi\u0107', u'Djordje Djokovic']	6
-where did djokovic come from?	764	novak djokovic --> olympic medal honor medal --> [u'Bronze medal']	0
-where did djokovic come from?	764	novak djokovic --> dated integer year --> [u'2007-07']	0
-where did djokovic come from?	764	novak djokovic --> object name --> [u'Novak Djokovic']	0
-where did djokovic come from?	764	novak djokovic --> topic image --> [u'Novak Djokovic 2007 Australian Open R1', u'Nole Skupstina BG feb08', u'Novak Djokovic 2007 US Open 2', u'Novak Djokovic at the 2011 Australian Open6', u'Novak Djokovic 2007 US Open 1']	0
-where did djokovic come from?	764	novak djokovic --> performance film --> [u'The Expendables 2', u'2008 Wimbledon Official Film']	0
-where did djokovic come from?	764	novak djokovic --> tennis match event --> [u'2007 US Open', u'2012 US Open', u'2008 Artois Championships', u'2009 Monte-Carlo Rolex Masters', u'2012 BNP Paribas Open']	8
-where did djokovic come from?	764	novak djokovic --> tennis player handed --> [u'Right-handed']	0
-where did djokovic come from?	764	novak djokovic --> tennis match date --> [u'2008', u'2010', u'2011', u'2012-01', u'2011-09-12']	0
+where did djokovic come from?	764	comefrom --> object name --> [u'COMEFROM']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> person date of birth --> [u'1987-05-22']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match loser --> [u'Andy Murray', u'Rafael Nadal', u'Mikhail Youzhny', u'David Ferrer', u'Lleyton Hewitt']	293	[[Novak Djokovic]] won the tournament by defeating [[Rafael Nadal]] 4–6, 6–3, 6–2 in the final.
+where did djokovic come from?	764	novak djokovic --> dated integer number --> [u'3']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> person profession --> [u'Tennis player', u'Athlete']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> competitor competition relationship rank --> [u'2', u'3']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> topic alias --> [u'The Joker', u'Nox', u'Nole', u'Djoker', u'Nokia']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> person gender --> [u'Male']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> olympic medal honor event --> [u"Tennis at the 2008 Summer Olympics - Men's Singles"]	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> person weight kg --> [u'82']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> person nationality --> [u'Serbia']	15	[[File:Nole Skupstina BG feb08.jpg|thumb|left|150px|[[Serbia]]n tennis player [[Novak Djokovic|Novak Đoković]] was born in Belgrade.
+where did djokovic come from?	764	novak djokovic --> coach athlete relationship coach --> [u'Todd Martin', u'Mark Woodforde', u'Mari\xe1n Vajda', u'Riccardo Piatti']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match event --> [u'2011 BNP Paribas Open', u'2011 US Open', u"2011 Internazionali BNL d'Italia", u"2012 Australian Open \u2013 Men's Singles final", u'2008 Australian Open']	17	This was, however, his only final of the year and he failed to progress past the third round in any Grand Slam or Masters tournament, although his defeat at the [[2011 US Open (tennis)|US Open]], came to world number one [[Novak Djokovic]], 3–6, 4–6, 2–6, after victories in the first two rounds against [[Ivan Dodig]] and [[Potito Starace]].
+where did djokovic come from?	764	novak djokovic --> daylife hero image id --> [u'0dHE9sMaOsgSs']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> competitor competition relationship tournament --> [u'2010 Wimbledon Championships', u'2013 Wimbledon Championships']	3	At [[2010 Wimbledon Championships|Wimbledon]], Hewitt was seeded 15th and lost to third seed, [[Novak Djokovic]] in the fourth round.
+where did djokovic come from?	764	novak djokovic --> performance special performance type --> [u'Him/Herself', u'Uncredited']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> coach athlete relationship from --> [u'2005', u'2006-06', u'2007', u'2009-08']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match winner --> [u'Andy Murray', u'Rafael Nadal', u'John Isner', u'Roger Federer', u'Tommy Haas']	334	[[Novak Djokovic]] won the tournament by defeating [[Rafael Nadal]] 4–6, 6–3, 6–2 in the final.
+where did djokovic come from?	764	novak djokovic --> pro sports played sport --> [u'Tennis']	7	|  [[Novak Djokovic]] <br<small>([[Tennis]])</small>
+where did djokovic come from?	764	novak djokovic --> context name nickname --> [u'The Joker', u'Nole', u'Djoker', u'The Serbinator']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis tournament championship tournament --> [u'2012 ATP World Tour Finals', u'2011 BNP Paribas Open', u'2011 US Open', u"2011 Internazionali BNL d'Italia", u'2013 Australian Open']	16	This was, however, his only final of the year and he failed to progress past the third round in any Grand Slam or Masters tournament, although his defeat at the [[2011 US Open (tennis)|US Open]], came to world number one [[Novak Djokovic]], 3–6, 4–6, 2–6, after victories in the first two rounds against [[Ivan Dodig]] and [[Potito Starace]].
+where did djokovic come from?	764	novak djokovic --> olympic medal honor olympics --> [u'2008 Summer Olympics']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> webpage category --> [u'About']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> olympic athlete affiliation country --> [u'Serbia']	15	[[File:Nole Skupstina BG feb08.jpg|thumb|left|150px|[[Serbia]]n tennis player [[Novak Djokovic|Novak Đoković]] was born in Belgrade.
+where did djokovic come from?	764	novak djokovic --> person height meters --> [u'1.88']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis tournament championship event type --> [u"Men's singles"]	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> topic official website --> [u'http://www.novakdjokovic.rs/index.php?jezik=2']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis player extra singles grand slams --> [u'6']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> webpage resource --> [u"Clip du Jour: Roger Federer makes what he calls the 'greatest shot' of his career", u'2012 Summer Olympics Athlete NBC Site']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> competitor competition relationship country --> [u'Serbia']	15	[[File:Nole Skupstina BG feb08.jpg|thumb|left|150px|[[Serbia]]n tennis player [[Novak Djokovic|Novak Đoković]] was born in Belgrade.
+where did djokovic come from?	764	novak djokovic --> coach athlete relationship to --> [u'2006-06', u'2010-04']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> person place of birth --> [u'Belgrade']	5	; ''[[Belgrade (film)|Belgrade]]'': [[File:Boris Malagurski with Novak Djokovic.jpg|thumb|right|Boris Malagurski interviewing [[Novak Djokovic]] for ''[[Belgrade (film)|Belgrade]]'']] Malagurski's next film ''Belgrade'', (also known as ''Belgrade with Boris Malagurski''), a documentary about [[Belgrade]], the capital of [[Serbia]] had its world premiere on 19 October 2013 at [[Sava Centar]] in Belgrade and was aired on [[Radio Television Serbia]] (RTS) on 20 October 2014.
+where did djokovic come from?	764	novak djokovic --> tennis match match format --> [u"Men's singles"]	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match score --> [u'3\u20136, 1\u20136', u'6\u20133, 2\u20136, 6\u20131', u'6\u20134, 6\u20133, 2\u20136, 7\u20135', u'7\u20136(8\u20136), 7\u20135', u'7-6(9-7), 3-6, 7-6(7-5)']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> olympic medal honor country --> [u'Serbia']	15	[[File:Nole Skupstina BG feb08.jpg|thumb|left|150px|[[Serbia]]n tennis player [[Novak Djokovic|Novak Đoković]] was born in Belgrade.
+where did djokovic come from?	764	novak djokovic --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> competitor competition relationship competition --> [u"2010 Wimbledon Championships \u2013 Men's Singles", u"2013 Wimbledon Championships \u2013 Men's Singles"]	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis tournament championship year --> [u'2007', u'2008', u'2009', u'2010', u'2011']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match match format --> [u"Men's singles"]	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> olympic athlete affiliation sport --> [u'Tennis']	7	|  [[Novak Djokovic]] <br<small>([[Tennis]])</small>
+where did djokovic come from?	764	novak djokovic --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match date --> [u'2007', u'2008', u'2009', u'2012', u'2012-06-11']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match score --> [u'4-6, 6-3, 6-2', u'4\u20136, 6\u20133, 7\u20136(4)', u'5\u20137, 6\u20134, 6\u20132, 6\u20137(5\u20137), 7\u20135', u'6\u20132, 6\u20134, 6\u20137(3\u20137), 6\u20131', u'6\u20134, 6\u20131, 1\u20136, 6\u20133']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> person parents --> [u'Sr\u0111an Djokovic', u'Dijana Djokovic']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis player year turned pro --> [u'2003']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> topic topical webpage --> [u'http://www.nbcolympics.com/athletes/athlete=novak-djokovic/index.html']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> place lived location --> [u'Belgrade', u'Monte Carlo']	8	; ''[[Belgrade (film)|Belgrade]]'': [[File:Boris Malagurski with Novak Djokovic.jpg|thumb|right|Boris Malagurski interviewing [[Novak Djokovic]] for ''[[Belgrade (film)|Belgrade]]'']] Malagurski's next film ''Belgrade'', (also known as ''Belgrade with Boris Malagurski''), a documentary about [[Belgrade]], the capital of [[Serbia]] had its world premiere on 19 October 2013 at [[Sava Centar]] in Belgrade and was aired on [[Radio Television Serbia]] (RTS) on 20 October 2014.
+where did djokovic come from?	764	novak djokovic --> tv guest role episodes appeared in --> [u'2010 Highlights, Day 9', u'Monte Carlo', u'2010 Highlights, Day 7', u'Bill Cosby, Novak Djokovic, Landon Pigg', u'2009 Highlights, Day 3']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> sibling relationship sibling --> [u'Marko \u0110okovi\u0107', u'Djordje Djokovic']	6	*  [[Novak Djokovic]] /  [[Marko Djokovic]]
+where did djokovic come from?	764	novak djokovic --> olympic medal honor medal --> [u'Bronze medal']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> dated integer year --> [u'2007-07']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> object name --> [u'Novak Djokovic']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> topic image --> [u'Novak Djokovic 2007 Australian Open R1', u'Nole Skupstina BG feb08', u'Novak Djokovic 2007 US Open 2', u'Novak Djokovic at the 2011 Australian Open6', u'Novak Djokovic 2007 US Open 1']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> performance film --> [u'The Expendables 2', u'2008 Wimbledon Official Film']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match event --> [u'2007 US Open', u'2012 US Open', u'2008 Artois Championships', u'2009 Monte-Carlo Rolex Masters', u'2012 BNP Paribas Open']	8	| style="background:#98FB98;"|Winner||[[2007 US Open (tennis)|2007]]||US Open <small>(4)</small>||Hard|| [[Novak Djokovic]]||7–6<sup>(7–4)</sup>, 7–6<sup>(7–2)</sup>, 6–4
+where did djokovic come from?	764	novak djokovic --> tennis player handed --> [u'Right-handed']	0	EMPTY
+where did djokovic come from?	764	novak djokovic --> tennis match date --> [u'2008', u'2010', u'2011', u'2012-01', u'2011-09-12']	0	EMPTY

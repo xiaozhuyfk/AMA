@@ -1,40 +1,40 @@
-where did the australian floods take place?	9	floods in australia --> object name --> [u'Floods in Australia']	0
-where did the australian floods take place?	9	floods in australia --> disaster type of disaster --> [u'Flood']	0
-where did the australian floods take place?	9	national coming out day --> webpage resource --> [u'iPod inspection: Shuffle like you mean it!']	0
-where did the australian floods take place?	9	national coming out day --> object name --> [u'National Coming Out Day']	0
-where did the australian floods take place?	9	national coming out day --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where did the australian floods take place?	9	the australian --> mailing address citytown --> [u'Sydney']	1
-where did the australian floods take place?	9	the australian --> periodical frequency frequency --> [u'Daily']	0
-where did the australian floods take place?	9	the australian --> periodical publication date date --> [u'1964-07-15']	0
-where did the australian floods take place?	9	the australian --> newspaper owner --> [u'News Corporation', u'News Corp Australia']	5
-where did the australian floods take place?	9	the australian --> newspaper circulation areas --> [u'Australia', u'Melbourne', u'Brisbane', u'Sydney']	3
-where did the australian floods take place?	9	the australian --> periodical format period format --> [u'Broadsheet']	0
-where did the australian floods take place?	9	the australian --> webpage category --> [u'Official Website', u'Curated Topic']	0
-where did the australian floods take place?	9	the australian --> object name --> [u'The Australian']	0
-where did the australian floods take place?	9	the australian --> topic image --> [u"Masthead of The Australian'"]	0
-where did the australian floods take place?	9	the australian --> news report url --> [u'http://www.theaustralian.news.com.au/story/0,25197,25854819-2722,00.html', u'http://www.theaustralian.news.com.au/story/0,25197,23588666-5015662,00.html']	0
-where did the australian floods take place?	9	the australian --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0
-where did the australian floods take place?	9	the australian --> topic official website --> [u'http://www.theaustralian.news.com.au/']	0
-where did the australian floods take place?	9	the australian --> news report title --> [u'Michael Phelps boycott threat over suit war', u'Local MTV goes global as channel deepens digital desire']	0
-where did the australian floods take place?	9	the australian --> news report date --> [u'2008-04-24', u'2009-08-05']	0
-where did the australian floods take place?	9	the australian --> news report event --> [u'2009 World Aquatics Championships', u'MTV Australia Awards 2008']	0
-where did the australian floods take place?	9	the australian --> webpage uri --> [u'http://www.theaustralian.news.com.au/', u'http://www.theaustralian.com.au/']	0
-where did the australian floods take place?	9	flood --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where did the australian floods take place?	9	flood --> topic subject of --> [u'Levee breach']	0
-where did the australian floods take place?	9	flood --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwP3Uz5wpEbGdrcN5Y29ycA']	0
-where did the australian floods take place?	9	flood --> cause of death people --> [u'Mark Dyniewicz Sr.', u'Carol Dyniewicz']	0
-where did the australian floods take place?	9	flood --> cause of death parent cause of death --> [u'Drowning']	0
-where did the australian floods take place?	9	flood --> destruction method structures destroyed --> [u'Lacey V. Murrow Memorial Bridge', u'Honeymoon Bridge', u'Pont Saint-B\xe9nezet', u'McCalls Ferry Bridge', u'Pont Morand']	0
-where did the australian floods take place?	9	flood --> webpage category --> [u'Tag']	0
-where did the australian floods take place?	9	flood --> object name --> [u'Flood']	0
-where did the australian floods take place?	9	flood --> topic image --> [u'Picture of flooding in Amphoe Sena, Ayutthaya Province, Thailand', u'Storm surge from Wilma on Key Haven, island suburb of Key West, Florida', u'Povoden 2002 hlasna treban']	0
-where did the australian floods take place?	9	flood --> film subject films --> [u'There Once Was An Island', u'Lady from Louisiana']	0
-where did the australian floods take place?	9	flood --> disaster type disasters of this type --> [u'2008 Benin floods', u'1974 Brisbane flood', u'Ohio River flood of 1937', u'2005 European floods', u'Bristol Channel floods, 1607']	0
-where did the australian floods take place?	9	flood --> topic subjects --> [u'Water', u'Lake', u'River']	0
-where did the australian floods take place?	9	flood --> equivalent topic equivalent type --> [u'Flood']	0
-where did the australian floods take place?	9	flood --> book subject works --> [u'The Johnstown Flood: The Incredible Story Behind One of the Most Devastating ""Natural"" Disasters America Has Ever Known']	0
-where did the australian floods take place?	9	location --> topic subject of --> [u'Jantar Mantar Jaipur']	0
-where did the australian floods take place?	9	location --> object name --> [u'Location']	0
-where did the australian floods take place?	9	location --> equivalent topic equivalent domain --> [u'Location']	0
-where did the australian floods take place?	9	location --> equivalent topic equivalent type --> [u'Location']	0
-where did the australian floods take place?	9	location --> book subject works --> [u'Oxford Atlas of the World']	0
+where did the australian floods take place?	9	floods in australia --> object name --> [u'Floods in Australia']	0	EMPTY
+where did the australian floods take place?	9	floods in australia --> disaster type of disaster --> [u'Flood']	0	EMPTY
+where did the australian floods take place?	9	national coming out day --> webpage resource --> [u'iPod inspection: Shuffle like you mean it!']	0	EMPTY
+where did the australian floods take place?	9	national coming out day --> object name --> [u'National Coming Out Day']	0	EMPTY
+where did the australian floods take place?	9	national coming out day --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where did the australian floods take place?	9	the australian --> mailing address citytown --> [u'Sydney']	1	His efforts to stop the destruction of the traditional timber houses of Brisbane received widespread publicity in that city, in [[The Australian]] newspaper and on [[The 7.30 Report]] in Brisbane and [[Sydney]].
+where did the australian floods take place?	9	the australian --> periodical frequency frequency --> [u'Daily']	0	EMPTY
+where did the australian floods take place?	9	the australian --> periodical publication date date --> [u'1964-07-15']	0	EMPTY
+where did the australian floods take place?	9	the australian --> newspaper owner --> [u'News Corporation', u'News Corp Australia']	5	After leaving Whitlam's employ, he moved into the private sector for seven years as general manager at [[News Corp Australia|News Limited]], publisher of ''[[The Australian]]''.
+where did the australian floods take place?	9	the australian --> newspaper circulation areas --> [u'Australia', u'Melbourne', u'Brisbane', u'Sydney']	3	From there he moved to [[The Australian]] offices in [[Melbourne]], where he wrote sports features and columns before joining the [[Seven Network]] in 1988.
+where did the australian floods take place?	9	the australian --> periodical format period format --> [u'Broadsheet']	0	EMPTY
+where did the australian floods take place?	9	the australian --> webpage category --> [u'Official Website', u'Curated Topic']	0	EMPTY
+where did the australian floods take place?	9	the australian --> object name --> [u'The Australian']	0	EMPTY
+where did the australian floods take place?	9	the australian --> topic image --> [u"Masthead of The Australian'"]	0	EMPTY
+where did the australian floods take place?	9	the australian --> news report url --> [u'http://www.theaustralian.news.com.au/story/0,25197,25854819-2722,00.html', u'http://www.theaustralian.news.com.au/story/0,25197,23588666-5015662,00.html']	0	EMPTY
+where did the australian floods take place?	9	the australian --> webpage in index --> [u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+where did the australian floods take place?	9	the australian --> topic official website --> [u'http://www.theaustralian.news.com.au/']	0	EMPTY
+where did the australian floods take place?	9	the australian --> news report title --> [u'Michael Phelps boycott threat over suit war', u'Local MTV goes global as channel deepens digital desire']	0	EMPTY
+where did the australian floods take place?	9	the australian --> news report date --> [u'2008-04-24', u'2009-08-05']	0	EMPTY
+where did the australian floods take place?	9	the australian --> news report event --> [u'2009 World Aquatics Championships', u'MTV Australia Awards 2008']	0	EMPTY
+where did the australian floods take place?	9	the australian --> webpage uri --> [u'http://www.theaustralian.news.com.au/', u'http://www.theaustralian.com.au/']	0	EMPTY
+where did the australian floods take place?	9	flood --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where did the australian floods take place?	9	flood --> topic subject of --> [u'Levee breach']	0	EMPTY
+where did the australian floods take place?	9	flood --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwP3Uz5wpEbGdrcN5Y29ycA']	0	EMPTY
+where did the australian floods take place?	9	flood --> cause of death people --> [u'Mark Dyniewicz Sr.', u'Carol Dyniewicz']	0	EMPTY
+where did the australian floods take place?	9	flood --> cause of death parent cause of death --> [u'Drowning']	0	EMPTY
+where did the australian floods take place?	9	flood --> destruction method structures destroyed --> [u'Lacey V. Murrow Memorial Bridge', u'Honeymoon Bridge', u'Pont Saint-B\xe9nezet', u'McCalls Ferry Bridge', u'Pont Morand']	0	EMPTY
+where did the australian floods take place?	9	flood --> webpage category --> [u'Tag']	0	EMPTY
+where did the australian floods take place?	9	flood --> object name --> [u'Flood']	0	EMPTY
+where did the australian floods take place?	9	flood --> topic image --> [u'Picture of flooding in Amphoe Sena, Ayutthaya Province, Thailand', u'Storm surge from Wilma on Key Haven, island suburb of Key West, Florida', u'Povoden 2002 hlasna treban']	0	EMPTY
+where did the australian floods take place?	9	flood --> film subject films --> [u'There Once Was An Island', u'Lady from Louisiana']	0	EMPTY
+where did the australian floods take place?	9	flood --> disaster type disasters of this type --> [u'2008 Benin floods', u'1974 Brisbane flood', u'Ohio River flood of 1937', u'2005 European floods', u'Bristol Channel floods, 1607']	0	EMPTY
+where did the australian floods take place?	9	flood --> topic subjects --> [u'Water', u'Lake', u'River']	0	EMPTY
+where did the australian floods take place?	9	flood --> equivalent topic equivalent type --> [u'Flood']	0	EMPTY
+where did the australian floods take place?	9	flood --> book subject works --> [u'The Johnstown Flood: The Incredible Story Behind One of the Most Devastating ""Natural"" Disasters America Has Ever Known']	0	EMPTY
+where did the australian floods take place?	9	location --> topic subject of --> [u'Jantar Mantar Jaipur']	0	EMPTY
+where did the australian floods take place?	9	location --> object name --> [u'Location']	0	EMPTY
+where did the australian floods take place?	9	location --> equivalent topic equivalent domain --> [u'Location']	0	EMPTY
+where did the australian floods take place?	9	location --> equivalent topic equivalent type --> [u'Location']	0	EMPTY
+where did the australian floods take place?	9	location --> book subject works --> [u'Oxford Atlas of the World']	0	EMPTY

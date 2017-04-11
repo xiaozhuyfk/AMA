@@ -1,27 +1,27 @@
-who is my state senator arizona?	29	my state --> cataloged instance isbn --> [u'9781557995698']	0
-who is my state senator arizona?	29	my state --> book edition book --> [u'My State']	0
-who is my state senator arizona?	29	my state --> book edition publication date --> [u'1996']	0
-who is my state senator arizona?	29	my state --> pagination numbered pages --> [u'48']	0
-who is my state senator arizona?	29	my state --> object name --> [u'My State']	0
-who is my state senator arizona?	29	my state --> book edition isbn --> [u'9781557995698']	0
-who is my state senator arizona?	29	my state --> object name --> [u'My State']	0
-who is my state senator arizona?	29	my state --> written work author --> [u'Steven Schneider']	0
-who is my state senator arizona?	29	my state --> book editions --> [u'My State']	0
-who is my state senator arizona?	29	mystate ltd. --> object name --> [u'Mystate Ltd.']	0
-who is my state senator arizona?	29	mystate ltd. --> issuer issue --> [u'MYSTATE LTD Common Stock']	0
-who is my state senator arizona?	29	state senator --> government position held jurisdiction of office --> [u'California', u'New York City', u'Louisiana', u'Mississippi', u'Minnesota']	4
-who is my state senator arizona?	29	state senator --> government position held to --> [u'1916', u'1983', u'1984', u'1996', u'2000']	0
-who is my state senator arizona?	29	state senator --> government position held from --> [u'1903', u'1913', u'1960', u'1978', u'1988']	0
-who is my state senator arizona?	29	state senator --> government position held office holder --> [u'Hilda Solis', u'Abraham X. Parker', u'Benjamin Tappan', u'Nathaniel P. Tallmadge', u'Susan Kent']	0
-who is my state senator arizona?	29	state senator --> government position held governmental body --> [u'Mississippi State Senate', u'Minnesota Senate', u'Georgia House of Representatives', u'Senate of Virginia', u'United States Senate']	0
-who is my state senator arizona?	29	state senator --> government position held legislative sessions --> [u'2007\u20132008 California Legislative Session', u'2005\u20132006 California Legislative Session', u'144th Delaware General Assembly', u'145th Delaware General Assembly', u'142nd Delaware General Assembly']	0
-who is my state senator arizona?	29	state senator --> object name --> [u'State Senator']	0
-who is my state senator arizona?	29	state senator --> government position held office position or title --> [u'Virginia State Senator', u'United States Senator', u'New York State Senator', u'Ohio State Senator', u'California State Senator']	0
-who is my state senator arizona?	29	state senator --> government position held district represented --> [u'California\u2019s 27th Senate District', u'Orleans Parish', u'Salt Lake County', u"Maine's 1st congressional district", u"Louisiana's 3rd congressional district"]	0
-who is my state senator arizona?	29	u.s. state --> object name --> [u'U.S. state']	0
-who is my state senator arizona?	29	u.s. state --> topic image --> [u'Great Seal of the US']	0
-who is my state senator arizona?	29	u.s. state --> linguistic hint subject form --> [u'U.S. states']	0
-who is my state senator arizona?	29	u.s. state --> equivalent topic equivalent type --> [u'US State']	0
-who is my state senator arizona?	29	states of india --> object name --> [u'States of India']	0
-who is my state senator arizona?	29	states of india --> equivalent topic equivalent type --> [u'Indian state']	0
-who is my state senator arizona?	29	states of india --> location containedby --> [u'India']	25
+who is my state senator arizona?	29	my state --> cataloged instance isbn --> [u'9781557995698']	0	EMPTY
+who is my state senator arizona?	29	my state --> book edition book --> [u'My State']	0	EMPTY
+who is my state senator arizona?	29	my state --> book edition publication date --> [u'1996']	0	EMPTY
+who is my state senator arizona?	29	my state --> pagination numbered pages --> [u'48']	0	EMPTY
+who is my state senator arizona?	29	my state --> object name --> [u'My State']	0	EMPTY
+who is my state senator arizona?	29	my state --> book edition isbn --> [u'9781557995698']	0	EMPTY
+who is my state senator arizona?	29	my state --> object name --> [u'My State']	0	EMPTY
+who is my state senator arizona?	29	my state --> written work author --> [u'Steven Schneider']	0	EMPTY
+who is my state senator arizona?	29	my state --> book editions --> [u'My State']	0	EMPTY
+who is my state senator arizona?	29	mystate ltd. --> object name --> [u'Mystate Ltd.']	0	EMPTY
+who is my state senator arizona?	29	mystate ltd. --> issuer issue --> [u'MYSTATE LTD Common Stock']	0	EMPTY
+who is my state senator arizona?	29	state senator --> government position held jurisdiction of office --> [u'California', u'New York City', u'Louisiana', u'Mississippi', u'Minnesota']	4	*[[Skip Humphrey|Hubert Horatio "Skip" Humphrey III]]  – former [[Minnesota]] [[State Senator]] and [[Minnesota Attorney General|Attorney General]]; son of [[United States Vice President|Vice President]] [[Hubert Humphrey]] and [[U.S.
+who is my state senator arizona?	29	state senator --> government position held to --> [u'1916', u'1983', u'1984', u'1996', u'2000']	0	EMPTY
+who is my state senator arizona?	29	state senator --> government position held from --> [u'1903', u'1913', u'1960', u'1978', u'1988']	0	EMPTY
+who is my state senator arizona?	29	state senator --> government position held office holder --> [u'Hilda Solis', u'Abraham X. Parker', u'Benjamin Tappan', u'Nathaniel P. Tallmadge', u'Susan Kent']	0	EMPTY
+who is my state senator arizona?	29	state senator --> government position held governmental body --> [u'Mississippi State Senate', u'Minnesota Senate', u'Georgia House of Representatives', u'Senate of Virginia', u'United States Senate']	0	EMPTY
+who is my state senator arizona?	29	state senator --> government position held legislative sessions --> [u'2007\u20132008 California Legislative Session', u'2005\u20132006 California Legislative Session', u'144th Delaware General Assembly', u'145th Delaware General Assembly', u'142nd Delaware General Assembly']	0	EMPTY
+who is my state senator arizona?	29	state senator --> object name --> [u'State Senator']	0	EMPTY
+who is my state senator arizona?	29	state senator --> government position held office position or title --> [u'Virginia State Senator', u'United States Senator', u'New York State Senator', u'Ohio State Senator', u'California State Senator']	0	EMPTY
+who is my state senator arizona?	29	state senator --> government position held district represented --> [u'California\u2019s 27th Senate District', u'Orleans Parish', u'Salt Lake County', u"Maine's 1st congressional district", u"Louisiana's 3rd congressional district"]	0	EMPTY
+who is my state senator arizona?	29	u.s. state --> object name --> [u'U.S. state']	0	EMPTY
+who is my state senator arizona?	29	u.s. state --> topic image --> [u'Great Seal of the US']	0	EMPTY
+who is my state senator arizona?	29	u.s. state --> linguistic hint subject form --> [u'U.S. states']	0	EMPTY
+who is my state senator arizona?	29	u.s. state --> equivalent topic equivalent type --> [u'US State']	0	EMPTY
+who is my state senator arizona?	29	states of india --> object name --> [u'States of India']	0	EMPTY
+who is my state senator arizona?	29	states of india --> equivalent topic equivalent type --> [u'Indian state']	0	EMPTY
+who is my state senator arizona?	29	states of india --> location containedby --> [u'India']	25	'''Bodh Gaya''' is a religious site and place of pilgrimage associated with the [[Mahabodhi Temple Complex]] in [[Gaya district]] in the [[India]]n [[States and union territories of India|state]] of [[Bihar]].

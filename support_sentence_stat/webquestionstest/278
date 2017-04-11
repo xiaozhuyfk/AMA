@@ -1,6 +1,6 @@
-what timezone is sweden gmt?	0	time zone --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what timezone is sweden gmt?	0	time zone --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwPvi0JwpEbGdrcN5Y29ycA']	0
-what timezone is sweden gmt?	0	time zone --> object name --> [u'Time zone']	0
-what timezone is sweden gmt?	0	time zone --> topic image --> [u'Standard Time Zones of the World as of 2005. (Some time zones have changed since then)', u'Timezones2008', u'Tzdiff-Europe-summer']	0
-what timezone is sweden gmt?	0	time zone --> linguistic hint subject form --> [u'Time zones']	0
-what timezone is sweden gmt?	0	time zone --> equivalent topic equivalent type --> [u'Time Zone']	0
+what timezone is sweden gmt?	0	time zone --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what timezone is sweden gmt?	0	time zone --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwPvi0JwpEbGdrcN5Y29ycA']	0	EMPTY
+what timezone is sweden gmt?	0	time zone --> object name --> [u'Time zone']	0	EMPTY
+what timezone is sweden gmt?	0	time zone --> topic image --> [u'Standard Time Zones of the World as of 2005. (Some time zones have changed since then)', u'Timezones2008', u'Tzdiff-Europe-summer']	0	EMPTY
+what timezone is sweden gmt?	0	time zone --> linguistic hint subject form --> [u'Time zones']	0	EMPTY
+what timezone is sweden gmt?	0	time zone --> equivalent topic equivalent type --> [u'Time Zone']	0	EMPTY

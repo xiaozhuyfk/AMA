@@ -1,52 +1,52 @@
-where are the sahara desert located?	147	sahara --> taxonomy entry high --> [u'346']	0
-where are the sahara desert located?	147	sahara --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-where are the sahara desert located?	147	sahara --> taxonomy entry low --> [u'331']	0
-where are the sahara desert located?	147	sahara --> location events --> [u'Operation Enduring Freedom \u2013 Trans Sahara']	0
-where are the sahara desert located?	147	sahara --> location contains --> [u'Hoggar Mountains', u'A\xefr Mountains', u'Libyan Desert', u'Tibesti Mountains', u'T\xe9n\xe9r\xe9']	7
-where are the sahara desert located?	147	sahara --> topic alias --> [u'Sahara Desert', u'The Great Desert']	0
-where are the sahara desert located?	147	sahara --> location partially containedby --> [u'Morocco', u'Western Sahara', u'Chad', u'Egypt', u'Mali']	77
-where are the sahara desert located?	147	sahara --> location area --> [u'9400000']	0
-where are the sahara desert located?	147	sahara --> adjoining relationship adjoins --> [u'Sahel']	37
-where are the sahara desert located?	147	sahara --> object name --> [u'Sahara']	0
-where are the sahara desert located?	147	sahara --> topic image --> [u'Sahara satellite hires', u'Satellite image', u'A natural rock arch in south western Libya']	0
-where are the sahara desert located?	147	sahara --> cryptid area of occurrence cryptid s found here --> [u'Adjule']	0
-where are the sahara desert located?	147	sahara --> book subject works --> [u'Saucer', u'Caravan', u'Sahara', u'Sahara unveiled', u'Impossible Journey: Two Against the Sahara']	0
-where are the sahara desert located?	147	sahara --> location containedby --> [u'North Africa']	22
-where are the sahara desert located?	147	sahara --> fictional setting universe --> [u'Mortal Engines']	0
-where are the sahara desert located?	147	sahara --> geocode latitude --> [u'20.632784']	0
-where are the sahara desert located?	147	sahara --> location time zones --> [u'UTC+01:00', u'UTC\xb100:00', u'UTC+02:00']	0
-where are the sahara desert located?	147	sahara --> taxonomy entry prefix --> [u'DT']	0
-where are the sahara desert located?	147	sahara --> geographical feature category --> [u'Desert']	2
-where are the sahara desert located?	147	sahara --> geocode longitude --> [u'11.206055']	0
-where are the sahara desert located?	147	sls las vegas --> casino theme --> [u'Morocco']	0
-where are the sahara desert located?	147	sls las vegas --> casino shows --> [u'Roseanne Barr', u'The Coasters', u'The Marvelettes', u'The Platters', u'The Amazing Johnathan']	0
-where are the sahara desert located?	147	sls las vegas --> tourist attraction near travel destination --> [u'Las Vegas']	0
-where are the sahara desert located?	147	sls las vegas --> structure architect --> [u'Del Webb']	0
-where are the sahara desert located?	147	sls las vegas --> topic alias --> [u'Sahara, Las Vegas']	0
-where are the sahara desert located?	147	sls las vegas --> webpage category --> [u'Official Website']	0
-where are the sahara desert located?	147	sls las vegas --> object name --> [u'SLS Las Vegas']	0
-where are the sahara desert located?	147	sls las vegas --> topic image --> [u'Sahara']	0
-where are the sahara desert located?	147	sls las vegas --> location containedby --> [u'Las Vegas']	0
-where are the sahara desert located?	147	sls las vegas --> structure opened --> [u'1952-10-07']	0
-where are the sahara desert located?	147	sls las vegas --> topic official website --> [u'http://www.saharavegas.com/']	0
-where are the sahara desert located?	147	sls las vegas --> casino opened --> [u'1952-10-07']	0
-where are the sahara desert located?	147	sls las vegas --> webpage uri --> [u'http://www.saharavegas.com/']	0
-where are the sahara desert located?	147	desert --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where are the sahara desert located?	147	desert --> webpage resource --> [u"Prince's desert reign at Coachella"]	0
-where are the sahara desert located?	147	desert --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjreZwpEbGdrcN5Y29ycA']	0
-where are the sahara desert located?	147	desert --> book subject musical compositions about this topic --> [u'Into The Desert']	0
-where are the sahara desert located?	147	desert --> geographical feature category subcategories --> [u'Sandy desert', u'Stony desert']	0
-where are the sahara desert located?	147	desert --> topic alias --> [u'Desert climate']	0
-where are the sahara desert located?	147	desert --> geographical feature category subcategory of --> [u'Hypsographic']	0
-where are the sahara desert located?	147	desert --> webpage category --> [u'Tag']	0
-where are the sahara desert located?	147	desert --> fictional setting contains --> [u'Sandia']	0
-where are the sahara desert located?	147	desert --> fictional setting works set here --> [u'Faun']	0
-where are the sahara desert located?	147	desert --> object name --> [u'Desert']	0
-where are the sahara desert located?	147	desert --> topic image --> [u'Deserts', u'Deserts', u'Erg Chebbi, Morocco']	0
-where are the sahara desert located?	147	desert --> type of fictional setting settings --> [u'Sandia', u'Storm Seed']	0
-where are the sahara desert located?	147	desert --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where are the sahara desert located?	147	desert --> location in fiction contained by --> [u'Storm Seed']	0
-where are the sahara desert located?	147	desert --> geographical feature category features --> [u'Mojave Desert', u"Rub' al Khali", u'Kalahari Desert', u'Sahara', u'Patagonian Desert']	2
-where are the sahara desert located?	147	desert --> quotation subject quotations about this subject --> [u'I bought a cactus. A week later it died. And I got depressed, because I thought, Damn. I am less nurturing than a desert.']	0
-where are the sahara desert located?	147	desert --> type of ecosystem ecosystems of this type --> [u'Mojave Desert', u'Colorado Desert']	0
-where are the sahara desert located?	147	desert --> book subject works --> [u'D\xe9sert']	0
+where are the sahara desert located?	147	sahara --> taxonomy entry high --> [u'346']	0	EMPTY
+where are the sahara desert located?	147	sahara --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+where are the sahara desert located?	147	sahara --> taxonomy entry low --> [u'331']	0	EMPTY
+where are the sahara desert located?	147	sahara --> location events --> [u'Operation Enduring Freedom \u2013 Trans Sahara']	0	EMPTY
+where are the sahara desert located?	147	sahara --> location contains --> [u'Hoggar Mountains', u'A\xefr Mountains', u'Libyan Desert', u'Tibesti Mountains', u'T\xe9n\xe9r\xe9']	7	Kufra, in the [[Libyan Desert]] subregion of the [[Sahara]], was an important trade and travel centre for the nomadic desert peoples of the region, including [[Berbers]] and [[Senussi]].
+where are the sahara desert located?	147	sahara --> topic alias --> [u'Sahara Desert', u'The Great Desert']	0	EMPTY
+where are the sahara desert located?	147	sahara --> location partially containedby --> [u'Morocco', u'Western Sahara', u'Chad', u'Egypt', u'Mali']	77	Topics include:  [[cattle herding|cattle herders]] racing [[African elephants]] to Lake Banzena for scarce water resources in [[Mali]]; sacred Antogo [[fishing]] by the [[Dogon people]] in a drought shrunken Mali lake; [[Toubou people|Tubu]] women in [[Niger]] navigating their way across the [[Sahara]] with a [[Camel train|camel caravan]] on the way to market; the struggle between wolves and [[Bactrian camel|camel]] and sheep herders in the wintry [[Gobi Desert]]; [[moisture farming]] for agriculture in the [[Atacama Desert]]; mining and networking underground aqueducts in rural [[Algeria]]; details of extravagant water usage in [[Las Vegas]]; and the annual [[Guérewol]] fertility dance of the [[Wodaabe]] [[Fula people]] in [[Niger]].
+where are the sahara desert located?	147	sahara --> location area --> [u'9400000']	0	EMPTY
+where are the sahara desert located?	147	sahara --> adjoining relationship adjoins --> [u'Sahel']	37	The term '''Sudano-Sahelian architecture''' describes a range of similar indigenous [[architectural style]]s common to the [[Ethnic groups of Africa|African people]]s of the [[Sahel]] and [[Sudan (region)|Sudanian]] [[grassland]] (geographical) regions of [[West Africa]], south of the [[Sahara]], but north of the fertile [[forest]] regions of the coast.
+where are the sahara desert located?	147	sahara --> object name --> [u'Sahara']	0	EMPTY
+where are the sahara desert located?	147	sahara --> topic image --> [u'Sahara satellite hires', u'Satellite image', u'A natural rock arch in south western Libya']	0	EMPTY
+where are the sahara desert located?	147	sahara --> cryptid area of occurrence cryptid s found here --> [u'Adjule']	0	EMPTY
+where are the sahara desert located?	147	sahara --> book subject works --> [u'Saucer', u'Caravan', u'Sahara', u'Sahara unveiled', u'Impossible Journey: Two Against the Sahara']	0	EMPTY
+where are the sahara desert located?	147	sahara --> location containedby --> [u'North Africa']	22	'''''Sirocco''''', '''''scirocco''''', , '''''jugo''''' or, rarely, '''''siroc''''' (, , , , [[Libyan Arabic]]: Ghibli, [[Egypt]]: [[khamsin]], [[Tunisia]]: chilli) is a [[Mediterranean]] [[wind]] that comes from the [[Sahara]] and can reach [[hurricane]] speeds in [[North Africa]] and [[Southern Europe]] especially during the summer season.
+where are the sahara desert located?	147	sahara --> fictional setting universe --> [u'Mortal Engines']	0	EMPTY
+where are the sahara desert located?	147	sahara --> geocode latitude --> [u'20.632784']	0	EMPTY
+where are the sahara desert located?	147	sahara --> location time zones --> [u'UTC+01:00', u'UTC\xb100:00', u'UTC+02:00']	0	EMPTY
+where are the sahara desert located?	147	sahara --> taxonomy entry prefix --> [u'DT']	0	EMPTY
+where are the sahara desert located?	147	sahara --> geographical feature category --> [u'Desert']	2	;Articles this image appears in:[[Sahara]] and [[Desert]]
+where are the sahara desert located?	147	sahara --> geocode longitude --> [u'11.206055']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> casino theme --> [u'Morocco']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> casino shows --> [u'Roseanne Barr', u'The Coasters', u'The Marvelettes', u'The Platters', u'The Amazing Johnathan']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> tourist attraction near travel destination --> [u'Las Vegas']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> structure architect --> [u'Del Webb']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> topic alias --> [u'Sahara, Las Vegas']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> webpage category --> [u'Official Website']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> object name --> [u'SLS Las Vegas']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> topic image --> [u'Sahara']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> location containedby --> [u'Las Vegas']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> structure opened --> [u'1952-10-07']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> topic official website --> [u'http://www.saharavegas.com/']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> casino opened --> [u'1952-10-07']	0	EMPTY
+where are the sahara desert located?	147	sls las vegas --> webpage uri --> [u'http://www.saharavegas.com/']	0	EMPTY
+where are the sahara desert located?	147	desert --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where are the sahara desert located?	147	desert --> webpage resource --> [u"Prince's desert reign at Coachella"]	0	EMPTY
+where are the sahara desert located?	147	desert --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjreZwpEbGdrcN5Y29ycA']	0	EMPTY
+where are the sahara desert located?	147	desert --> book subject musical compositions about this topic --> [u'Into The Desert']	0	EMPTY
+where are the sahara desert located?	147	desert --> geographical feature category subcategories --> [u'Sandy desert', u'Stony desert']	0	EMPTY
+where are the sahara desert located?	147	desert --> topic alias --> [u'Desert climate']	0	EMPTY
+where are the sahara desert located?	147	desert --> geographical feature category subcategory of --> [u'Hypsographic']	0	EMPTY
+where are the sahara desert located?	147	desert --> webpage category --> [u'Tag']	0	EMPTY
+where are the sahara desert located?	147	desert --> fictional setting contains --> [u'Sandia']	0	EMPTY
+where are the sahara desert located?	147	desert --> fictional setting works set here --> [u'Faun']	0	EMPTY
+where are the sahara desert located?	147	desert --> object name --> [u'Desert']	0	EMPTY
+where are the sahara desert located?	147	desert --> topic image --> [u'Deserts', u'Deserts', u'Erg Chebbi, Morocco']	0	EMPTY
+where are the sahara desert located?	147	desert --> type of fictional setting settings --> [u'Sandia', u'Storm Seed']	0	EMPTY
+where are the sahara desert located?	147	desert --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where are the sahara desert located?	147	desert --> location in fiction contained by --> [u'Storm Seed']	0	EMPTY
+where are the sahara desert located?	147	desert --> geographical feature category features --> [u'Mojave Desert', u"Rub' al Khali", u'Kalahari Desert', u'Sahara', u'Patagonian Desert']	2	;Articles this image appears in:[[Sahara]] and [[Desert]]
+where are the sahara desert located?	147	desert --> quotation subject quotations about this subject --> [u'I bought a cactus. A week later it died. And I got depressed, because I thought, Damn. I am less nurturing than a desert.']	0	EMPTY
+where are the sahara desert located?	147	desert --> type of ecosystem ecosystems of this type --> [u'Mojave Desert', u'Colorado Desert']	0	EMPTY
+where are the sahara desert located?	147	desert --> book subject works --> [u'D\xe9sert']	0	EMPTY

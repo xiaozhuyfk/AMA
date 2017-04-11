@@ -1,22 +1,22 @@
-where does the zambezi river originate?	81	the zambezi river --> object name --> [u'The Zambezi River']	0
-where does the zambezi river originate?	81	the zambezi river --> written work author --> [u'Sally Wynn']	0
-where does the zambezi river originate?	81	the zambezi river --> book editions --> [u'The Zambezi River : wilderness and tourism']	0
-where does the zambezi river originate?	81	the zambezi --> object name --> [u'The Zambezi']	0
-where does the zambezi river originate?	81	the zambezi --> written work author --> [u'Jan Teede']	0
-where does the zambezi river originate?	81	the zambezi --> book editions --> [u'The Zambezi: river of the Gods']	0
-where does the zambezi river originate?	81	zambezi --> river discharge --> [u'3400']	0
-where does the zambezi river originate?	81	zambezi --> river cities --> [u'Katima Mulilo', u'Tete, Mozambique', u'Kariba, Zimbabwe', u'Victoria Falls', u'Livingstone']	2
-where does the zambezi river originate?	81	zambezi --> river origin --> [u'Mwinilunga']	0
-where does the zambezi river originate?	81	zambezi --> river length --> [u'2574']	0
-where does the zambezi river originate?	81	zambezi --> location contains --> [u'Shupanga']	0
-where does the zambezi river originate?	81	zambezi --> topic alias --> [u'Zambezi River']	0
-where does the zambezi river originate?	81	zambezi --> geocode elevation --> [u'1500']	0
-where does the zambezi river originate?	81	zambezi --> geocode longitude --> [u'36.2833333333']	0
-where does the zambezi river originate?	81	zambezi --> object name --> [u'Zambezi']	0
-where does the zambezi river originate?	81	zambezi --> topic image --> [u'44802734', u'The Zambezi and its river basin']	0
-where does the zambezi river originate?	81	zambezi --> river basin countries --> [u'Zimbabwe', u'Angola', u'Tanzania', u'Democratic Republic of the Congo', u'Botswana']	28
-where does the zambezi river originate?	81	zambezi --> location containedby --> [u'Zimbabwe', u'Angola', u'Mozambique', u'Namibia', u'Zambia']	46
-where does the zambezi river originate?	81	zambezi --> river basin area --> [u'1390000']	0
-where does the zambezi river originate?	81	zambezi --> river mouth --> [u'Indian Ocean']	3
-where does the zambezi river originate?	81	zambezi --> geocode latitude --> [u'-18.8333333333']	0
-where does the zambezi river originate?	81	zambezi --> body of water bridges --> [u'Dona Ana Bridge', u'Chirundu Bridge', u'Victoria Falls Bridge', u'Tete Suspension Bridge', u'Katima Mulilo Bridge']	2
+where does the zambezi river originate?	81	the zambezi river --> object name --> [u'The Zambezi River']	0	EMPTY
+where does the zambezi river originate?	81	the zambezi river --> written work author --> [u'Sally Wynn']	0	EMPTY
+where does the zambezi river originate?	81	the zambezi river --> book editions --> [u'The Zambezi River : wilderness and tourism']	0	EMPTY
+where does the zambezi river originate?	81	the zambezi --> object name --> [u'The Zambezi']	0	EMPTY
+where does the zambezi river originate?	81	the zambezi --> written work author --> [u'Jan Teede']	0	EMPTY
+where does the zambezi river originate?	81	the zambezi --> book editions --> [u'The Zambezi: river of the Gods']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> river discharge --> [u'3400']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> river cities --> [u'Katima Mulilo', u'Tete, Mozambique', u'Kariba, Zimbabwe', u'Victoria Falls', u'Livingstone']	2	It is situated about  south-east of [[Katima Mulilo]] within the flood plains of the [[Zambezi]].
+where does the zambezi river originate?	81	zambezi --> river origin --> [u'Mwinilunga']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> river length --> [u'2574']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> location contains --> [u'Shupanga']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> topic alias --> [u'Zambezi River']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> geocode elevation --> [u'1500']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> geocode longitude --> [u'36.2833333333']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> object name --> [u'Zambezi']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> topic image --> [u'44802734', u'The Zambezi and its river basin']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> river basin countries --> [u'Zimbabwe', u'Angola', u'Tanzania', u'Democratic Republic of the Congo', u'Botswana']	28	'''1''' The Zambezi flowing north to south through the middle of the floodplain;  ''' 2 ''' confluence of (left to right) the [[Lungwebungu]], Southern Kashiji, [[Zambezi]] and [[Kabompo River]]s, marking the start of the floodplain;  ''' 3 ''' end of the floodplain south of [[Senanga]]; ''' 4 ''' [[Ngonye Falls]] on the Zambezi;  ''' 5 ''' [[Mongu]], capital of Barotseland;  ''' 6 ''' [[Lealui]], seat of the [[Litunga]] on the floodplain;  ''' 7 ''' [[Limulunga]], seat of the Litunga during the flood;  ''' 8 ''' swamps and floodplain of the Lungwebungu;  ''' 9 ''' the Kabompo drains an area of [[Ecoregions of Zambia#Cryptosepalum dry forest|Cryptosepalum dry forest]];  '''10'''[[Luena River, Western Zambia|Luena Flats]] (floodplain); '''11''' [[Luanginga River]] floodplain near [[Kalabo]];  '''12''' Lui River with narrow floodplain;  '''13'''  a broad floodplain which carries overspill from high floods of the [[Cuando River]] in [[Angola]]; '''14''' Cuando river and floodplain, on the border between Angola and Zambia;  '''15'''[[Liuwa Plain National Park]]; '''16''' The flat sandy [[Ecoregions of Zambia#Central Zambezian Miombo woodlands|Central Zambezian Miombo woodland]] west of Mongu features many [[Salt pan (geology)|pan]]s; '''17''' [[Sioma Ngwezi National Park]].]]
+where does the zambezi river originate?	81	zambezi --> location containedby --> [u'Zimbabwe', u'Angola', u'Mozambique', u'Namibia', u'Zambia']	46	* The [[Zambezi]] in [[Zambia]]
+where does the zambezi river originate?	81	zambezi --> river basin area --> [u'1390000']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> river mouth --> [u'Indian Ocean']	3	The Mediterranean–[[Indian Ocean]] divide is punctured in [[East Africa]] by the endorheic lake systems of the [[East African Rift]]; in the south of the continent the divide between the Atlantic and Indian Oceans snakes between the watersheds of the Congo, [[Zambezi]], [[Limpopo River|Limpopo]], and [[Orange River]]s, with the [[Okavango River|Okavango]] terminating in the [[Kalahari Desert]].
+where does the zambezi river originate?	81	zambezi --> geocode latitude --> [u'-18.8333333333']	0	EMPTY
+where does the zambezi river originate?	81	zambezi --> body of water bridges --> [u'Dona Ana Bridge', u'Chirundu Bridge', u'Victoria Falls Bridge', u'Tete Suspension Bridge', u'Katima Mulilo Bridge']	2	It is the site of the [[Chirundu Bridge]]s, two of only five road or rail [[bridge]]s across the [[Zambezi]] river. 

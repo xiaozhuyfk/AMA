@@ -1,22 +1,22 @@
-who did paul revere marry?	39	paul revere --> person date of birth --> [u'1735-01-01']	0
-who did paul revere marry?	39	paul revere --> person profession --> [u'Businessperson', u'Spy', u'Entrepreneur', u'Silversmith']	1
-who did paul revere marry?	39	paul revere --> person gender --> [u'Male']	0
-who did paul revere marry?	39	paul revere --> person nationality --> [u'United States of America']	1
-who did paul revere marry?	39	paul revere --> deceased person date of death --> [u'1818-05-10']	0
-who did paul revere marry?	39	paul revere --> daylife hero image id --> [u'04N0gIZ6bC4DV']	0
-who did paul revere marry?	39	paul revere --> deceased person place of death --> [u'Boston']	10
-who did paul revere marry?	39	paul revere --> art subject artwork on the subject --> [u'Paul Revere', u'The Midnight Ride of Paul Revere']	0
-who did paul revere marry?	39	paul revere --> ontology instance mapping ontology --> [u'OpenCyc']	0
-who did paul revere marry?	39	paul revere --> webpage resource --> [u'On the Scene at SXSW: Secret show with the Beastie Boys', u"Obama, O'Reilly, Olbermann, oh boy!"]	0
-who did paul revere marry?	39	paul revere --> person ethnicity --> [u'Caucasian race']	0
-who did paul revere marry?	39	paul revere --> organization membership organization --> [u'Freemasonry']	0
-who did paul revere marry?	39	paul revere --> person place of birth --> [u'North End']	1
-who did paul revere marry?	39	paul revere --> person children --> [u'Isanna Revere', u'Bo Roberts Revere', u'Mary Revere', u'Mary Revere', u'John Revere']	0
-who did paul revere marry?	39	paul revere --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-who did paul revere marry?	39	paul revere --> person parents --> [u'Apollos Rivoire', u'Deborah Hitchborn']	0
-who did paul revere marry?	39	paul revere --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvjGWGJwpEbGdrcN5Y29ycA']	0
-who did paul revere marry?	39	paul revere --> person in fiction representations in fiction --> [u'Paul Revere', u'Paul Revere']	0
-who did paul revere marry?	39	paul revere --> place lived location --> [u'Boston', u'Massachusetts']	12
-who did paul revere marry?	39	paul revere --> military person participated in conflicts --> [u'American Revolutionary War']	14
-who did paul revere marry?	39	paul revere --> object name --> [u'Paul Revere']	0
-who did paul revere marry?	39	paul revere --> topic image --> [u'Portrait of Paul Revere by John Singleton Copley, c.1768\u201370']	0
+who did paul revere marry?	39	paul revere --> person date of birth --> [u'1735-01-01']	0	EMPTY
+who did paul revere marry?	39	paul revere --> person profession --> [u'Businessperson', u'Spy', u'Entrepreneur', u'Silversmith']	1	[[Silversmith]] and [[engraving|engraver]] [[Paul Revere]] closely copied Pelham's image, and is often credited as its originator.
+who did paul revere marry?	39	paul revere --> person gender --> [u'Male']	0	EMPTY
+who did paul revere marry?	39	paul revere --> person nationality --> [u'United States of America']	1	'''Amos Doolittle''' (May 18, 1754 &ndash; January 30, 1832) was an [[United States|American]] [[engraver]] and [[silversmith]], known as "The [[Paul Revere|Revere]] of [[Connecticut]]."
+who did paul revere marry?	39	paul revere --> deceased person date of death --> [u'1818-05-10']	0	EMPTY
+who did paul revere marry?	39	paul revere --> daylife hero image id --> [u'04N0gIZ6bC4DV']	0	EMPTY
+who did paul revere marry?	39	paul revere --> deceased person place of death --> [u'Boston']	10	 [[1775]] – [[American Revolutionary War]]: Colonists '''[[Paul Revere]]''', '''[[William Dawes]]''', and '''[[Samuel Prescott]]''' began a "midnight ride" to warn of the residents of [[Boston]] and [[Lexington, Massachusetts|Lexington]] about the impending arrival of [[Kingdom of Great Britain|British]] troops.
+who did paul revere marry?	39	paul revere --> art subject artwork on the subject --> [u'Paul Revere', u'The Midnight Ride of Paul Revere']	0	EMPTY
+who did paul revere marry?	39	paul revere --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+who did paul revere marry?	39	paul revere --> webpage resource --> [u'On the Scene at SXSW: Secret show with the Beastie Boys', u"Obama, O'Reilly, Olbermann, oh boy!"]	0	EMPTY
+who did paul revere marry?	39	paul revere --> person ethnicity --> [u'Caucasian race']	0	EMPTY
+who did paul revere marry?	39	paul revere --> organization membership organization --> [u'Freemasonry']	0	EMPTY
+who did paul revere marry?	39	paul revere --> person place of birth --> [u'North End']	1	* 1940: Faculty Member [[Cyrus Dallin]]'s sculpture, ''[[Paul Revere]]'', is installed in Boston's [[North End, Boston|North End]]
+who did paul revere marry?	39	paul revere --> person children --> [u'Isanna Revere', u'Bo Roberts Revere', u'Mary Revere', u'Mary Revere', u'John Revere']	0	EMPTY
+who did paul revere marry?	39	paul revere --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+who did paul revere marry?	39	paul revere --> person parents --> [u'Apollos Rivoire', u'Deborah Hitchborn']	0	EMPTY
+who did paul revere marry?	39	paul revere --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvjGWGJwpEbGdrcN5Y29ycA']	0	EMPTY
+who did paul revere marry?	39	paul revere --> person in fiction representations in fiction --> [u'Paul Revere', u'Paul Revere']	0	EMPTY
+who did paul revere marry?	39	paul revere --> place lived location --> [u'Boston', u'Massachusetts']	12	 [[1775]] – [[American Revolutionary War]]: Colonists '''[[Paul Revere]]''', '''[[William Dawes]]''', and '''[[Samuel Prescott]]''' began a "midnight ride" to warn of the residents of [[Boston]] and [[Lexington, Massachusetts|Lexington]] about the impending arrival of [[Kingdom of Great Britain|British]] troops.
+who did paul revere marry?	39	paul revere --> military person participated in conflicts --> [u'American Revolutionary War']	14	 [[1775]] – [[American Revolutionary War]]: Colonists '''[[Paul Revere]]''', '''[[William Dawes]]''', and '''[[Samuel Prescott]]''' began a "midnight ride" to warn of the residents of [[Boston]] and [[Lexington, Massachusetts|Lexington]] about the impending arrival of [[Kingdom of Great Britain|British]] troops.
+who did paul revere marry?	39	paul revere --> object name --> [u'Paul Revere']	0	EMPTY
+who did paul revere marry?	39	paul revere --> topic image --> [u'Portrait of Paul Revere by John Singleton Copley, c.1768\u201370']	0	EMPTY

@@ -1,45 +1,45 @@
-when does the mayan calendar end exactly?	80	mayan calendar --> webpage resource --> [u"2012 won't be the end after all", u'\u201c2012\u2033: Apocalypse Nah? A Mayan Shaman Weighs In On the Movie']	0
-when does the mayan calendar end exactly?	80	mayan calendar --> topic image --> [u'Bonampak painting+contrast', u'La Mojarra Inscription and Long Count date']	0
-when does the mayan calendar end exactly?	80	mayan calendar --> topic alias --> [u'Maya calendar']	0
-when does the mayan calendar end exactly?	80	mayan calendar --> object name --> [u'Mayan calendar']	0
-when does the mayan calendar end exactly?	80	mayan calendar --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when does the mayan calendar end exactly?	80	calendar --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when does the mayan calendar end exactly?	80	calendar --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when does the mayan calendar end exactly?	80	calendar --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjPhpwpEbGdrcN5Y29ycA']	0
-when does the mayan calendar end exactly?	80	calendar --> taxonomy entry low --> [u'1']	0
-when does the mayan calendar end exactly?	80	calendar --> linguistic hint subject form --> [u'Calendars']	0
-when does the mayan calendar end exactly?	80	calendar --> equivalent topic equivalent type --> [u'Calendar System']	0
-when does the mayan calendar end exactly?	80	calendar --> taxonomy entry high --> [u'97']	0
-when does the mayan calendar end exactly?	80	calendar --> microdata type category md type --> [u'vEvent']	0
-when does the mayan calendar end exactly?	80	calendar --> object name --> [u'Calendar']	0
-when does the mayan calendar end exactly?	80	calendar --> topic image --> [u'Hindu calendar 1871-72']	0
-when does the mayan calendar end exactly?	80	calendar --> vocabulary equivalent topic equivalent concept --> [u'Calendar']	0
-when does the mayan calendar end exactly?	80	calendar --> website category sites --> [u'30 Boxes']	0
-when does the mayan calendar end exactly?	80	calendar --> collection category parent category --> [u'Disneyana']	0
-when does the mayan calendar end exactly?	80	calendar --> taxonomy entry prefix --> [u'CE']	0
-when does the mayan calendar end exactly?	80	calendar --> book subject works --> [u'Calendar', u'Become a Better You', u'The Dangerous Book for Boys', u'The Seven Habits of Highly Effective People', u'Shaun Tan 2007 Calendar']	0
-when does the mayan calendar end exactly?	80	end --> sports team roster to --> [u'1949', u'1953', u'1957']	0
-when does the mayan calendar end exactly?	80	end --> football historical roster position team --> [u'Los Angeles Rams', u'Notre Dame Fighting Irish football', u'Alabama Crimson Tide Football', u'USC Trojans football']	0
-when does the mayan calendar end exactly?	80	end --> football historical roster position from --> [u'1946', u'1951', u'1956']	0
-when does the mayan calendar end exactly?	80	end --> sports team roster from --> [u'1946', u'1951', u'1956']	0
-when does the mayan calendar end exactly?	80	end --> football roster position team --> [u'Washington Redskins']	0
-when does the mayan calendar end exactly?	80	end --> football historical roster position number --> [u'82']	0
-when does the mayan calendar end exactly?	80	end --> football historical roster position to --> [u'1949', u'1953', u'1957']	0
-when does the mayan calendar end exactly?	80	end --> object name --> [u'End']	0
-when does the mayan calendar end exactly?	80	end --> football roster position player --> [u'Mac Cara']	0
-when does the mayan calendar end exactly?	80	end --> sports team roster number --> [u'82']	0
-when does the mayan calendar end exactly?	80	end --> sports team roster position --> [u'Tight end']	0
-when does the mayan calendar end exactly?	80	end --> sports team roster player --> [u'Leon Hart', u'Ron W. Miller', u'Bear Bryant', u'Mac Cara']	0
-when does the mayan calendar end exactly?	80	end --> football historical roster position player --> [u'Leon Hart', u'Ron W. Miller', u'Bear Bryant']	0
-when does the mayan calendar end exactly?	80	end --> football historical roster position position s --> [u'Tight end']	0
-when does the mayan calendar end exactly?	80	end --> sports team roster team --> [u'Los Angeles Rams', u'Washington Redskins', u'Notre Dame Fighting Irish football', u'Alabama Crimson Tide Football', u'USC Trojans football']	0
-when does the mayan calendar end exactly?	80	end --> football position players --> [u'Charles Comerford', u'Charles Grube', u'Cloyce Box', u'Roy Kurrasch', u'Bill Sortet']	0
-when does the mayan calendar end exactly?	80	end --> sports position sport --> [u'American football']	2
-when does the mayan calendar end exactly?	80	endocrine system --> object name --> [u'Endocrine system']	0
-when does the mayan calendar end exactly?	80	endocrine system --> topic image --> [u'Illu endocrine system']	0
-when does the mayan calendar end exactly?	80	islamic calendar --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when does the mayan calendar end exactly?	80	islamic calendar --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4r1JsoAiyJEdaAAABQ2rksLw']	0
-when does the mayan calendar end exactly?	80	islamic calendar --> calendar months --> [u'Dhu al-Hijjah', u'Muharram', u'Ramadan', u"Rabi' al-awwal", u"Rabi' al-thani"]	65
-when does the mayan calendar end exactly?	80	islamic calendar --> object name --> [u'Islamic calendar']	0
-when does the mayan calendar end exactly?	80	islamic calendar --> topic image --> [u'Maome']	0
-when does the mayan calendar end exactly?	80	islamic calendar --> calendar days of year --> [u'Eid al-Adha', u'Islamic New Year', u"Mid-Sha'ban", u'Mawlid', u'Day of Arafa']	13
+when does the mayan calendar end exactly?	80	mayan calendar --> webpage resource --> [u"2012 won't be the end after all", u'\u201c2012\u2033: Apocalypse Nah? A Mayan Shaman Weighs In On the Movie']	0	EMPTY
+when does the mayan calendar end exactly?	80	mayan calendar --> topic image --> [u'Bonampak painting+contrast', u'La Mojarra Inscription and Long Count date']	0	EMPTY
+when does the mayan calendar end exactly?	80	mayan calendar --> topic alias --> [u'Maya calendar']	0	EMPTY
+when does the mayan calendar end exactly?	80	mayan calendar --> object name --> [u'Mayan calendar']	0	EMPTY
+when does the mayan calendar end exactly?	80	mayan calendar --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjPhpwpEbGdrcN5Y29ycA']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> taxonomy entry low --> [u'1']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> linguistic hint subject form --> [u'Calendars']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> equivalent topic equivalent type --> [u'Calendar System']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> taxonomy entry high --> [u'97']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> microdata type category md type --> [u'vEvent']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> object name --> [u'Calendar']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> topic image --> [u'Hindu calendar 1871-72']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> vocabulary equivalent topic equivalent concept --> [u'Calendar']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> website category sites --> [u'30 Boxes']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> collection category parent category --> [u'Disneyana']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> taxonomy entry prefix --> [u'CE']	0	EMPTY
+when does the mayan calendar end exactly?	80	calendar --> book subject works --> [u'Calendar', u'Become a Better You', u'The Dangerous Book for Boys', u'The Seven Habits of Highly Effective People', u'Shaun Tan 2007 Calendar']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> sports team roster to --> [u'1949', u'1953', u'1957']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football historical roster position team --> [u'Los Angeles Rams', u'Notre Dame Fighting Irish football', u'Alabama Crimson Tide Football', u'USC Trojans football']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football historical roster position from --> [u'1946', u'1951', u'1956']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> sports team roster from --> [u'1946', u'1951', u'1956']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football roster position team --> [u'Washington Redskins']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football historical roster position number --> [u'82']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football historical roster position to --> [u'1949', u'1953', u'1957']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> object name --> [u'End']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football roster position player --> [u'Mac Cara']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> sports team roster number --> [u'82']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> sports team roster position --> [u'Tight end']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> sports team roster player --> [u'Leon Hart', u'Ron W. Miller', u'Bear Bryant', u'Mac Cara']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football historical roster position player --> [u'Leon Hart', u'Ron W. Miller', u'Bear Bryant']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football historical roster position position s --> [u'Tight end']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> sports team roster team --> [u'Los Angeles Rams', u'Washington Redskins', u'Notre Dame Fighting Irish football', u'Alabama Crimson Tide Football', u'USC Trojans football']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> football position players --> [u'Charles Comerford', u'Charles Grube', u'Cloyce Box', u'Roy Kurrasch', u'Bill Sortet']	0	EMPTY
+when does the mayan calendar end exactly?	80	end --> sports position sport --> [u'American football']	2	'''Lester Bruce McDonald''' (September 19, 1914 – July 26, 1971) was an [[American football]] [[End (American and Canadian football)|end]] in the [[National Football League]] (NFL) for the [[Chicago Bears]], [[Detroit Lions]], and the [[Philadelphia Eagles]].
+when does the mayan calendar end exactly?	80	endocrine system --> object name --> [u'Endocrine system']	0	EMPTY
+when does the mayan calendar end exactly?	80	endocrine system --> topic image --> [u'Illu endocrine system']	0	EMPTY
+when does the mayan calendar end exactly?	80	islamic calendar --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when does the mayan calendar end exactly?	80	islamic calendar --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4r1JsoAiyJEdaAAABQ2rksLw']	0	EMPTY
+when does the mayan calendar end exactly?	80	islamic calendar --> calendar months --> [u'Dhu al-Hijjah', u'Muharram', u'Ramadan', u"Rabi' al-awwal", u"Rabi' al-thani"]	65	The [[hadith of the pond of Khumm]] was narrated on 18th of [[Dhu al-Hijjah]] of 10 AH in the [[Islamic calendar]] (10 March 632 AD) at a place called [[Rabigh#Ghadir Al-Khumm|Ghadir Khumm]], located near the city of al-Juhfah, Saudi Arabia.
+when does the mayan calendar end exactly?	80	islamic calendar --> object name --> [u'Islamic calendar']	0	EMPTY
+when does the mayan calendar end exactly?	80	islamic calendar --> topic image --> [u'Maome']	0	EMPTY
+when does the mayan calendar end exactly?	80	islamic calendar --> calendar days of year --> [u'Eid al-Adha', u'Islamic New Year', u"Mid-Sha'ban", u'Mawlid', u'Day of Arafa']	13	This town is also site as the observatory to look for the crescent moon to mark the beginning of [[Islamic calendar|Muslim month]] of [[Ramadhan]], [[Shawwal]], and [[Zulhijjah]], to celebrate fasting month of [[Ramadhan]], [[Eid al-Fitr]] and [[Eid al-Adha]].

@@ -1,43 +1,43 @@
-where did robert kardashian go to college?	26	robert kardashian --> dated money value currency --> [u'United States dollar']	0
-where did robert kardashian go to college?	26	robert kardashian --> person date of birth --> [u'1944-02-22']	0
-where did robert kardashian go to college?	26	robert kardashian --> person profession --> [u'Businessperson', u'Lawyer']	0
-where did robert kardashian go to college?	26	robert kardashian --> person gender --> [u'Male']	0
-where did robert kardashian go to college?	26	robert kardashian --> person nationality --> [u'United States of America']	1
-where did robert kardashian go to college?	26	robert kardashian --> deceased person date of death --> [u'2003-09-30']	0
-where did robert kardashian go to college?	26	robert kardashian --> criminal defence attorney in criminal trials --> [u'O. J. Simpson murder case']	1
-where did robert kardashian go to college?	26	robert kardashian --> family member family --> [u'Kardashian Family']	0
-where did robert kardashian go to college?	26	robert kardashian --> dated money value amount --> [u'30000000']	0
-where did robert kardashian go to college?	26	robert kardashian --> deceased person place of death --> [u'Los Angeles']	3
-where did robert kardashian go to college?	26	robert kardashian --> deceased person place of burial --> [u'Inglewood Park Cemetery']	0
-where did robert kardashian go to college?	26	robert kardashian --> person religion --> [u'Catholicism']	0
-where did robert kardashian go to college?	26	robert kardashian --> marriage spouse --> [u'Kris Jenner', u'Jan Ashley', u'Ellen Pierson']	12
-where did robert kardashian go to college?	26	robert kardashian --> marriage from --> [u'1998', u'2003-08', u'1978-07-08']	0
-where did robert kardashian go to college?	26	robert kardashian --> person place of birth --> [u'Los Angeles']	3
-where did robert kardashian go to college?	26	robert kardashian --> education institution --> [u'University of San Diego', u'University of Southern California', u'University of San Diego School of Law']	0
-where did robert kardashian go to college?	26	robert kardashian --> person children --> [u'Kim Kardashian', u'Rob Kardashian', u'Kourtney Kardashian', u'Khlo\xe9 Kardashian']	6
-where did robert kardashian go to college?	26	robert kardashian --> deceased person cause of death --> [u'Throat cancer', u'Cancer', u'Esophageal cancer']	0
-where did robert kardashian go to college?	26	robert kardashian --> religion choice religion --> [u'Catholicism']	0
-where did robert kardashian go to college?	26	robert kardashian --> marriage to --> [u'1991-03', u'1999', u'2003-09-30']	0
-where did robert kardashian go to college?	26	robert kardashian --> person parents --> [u'Arthur Kardashian', u'Helen Kardashian']	0
-where did robert kardashian go to college?	26	robert kardashian --> dated money value source --> [u'celebritynetworth.com']	0
-where did robert kardashian go to college?	26	robert kardashian --> marriage type of union --> [u'Marriage']	0
-where did robert kardashian go to college?	26	robert kardashian --> sibling relationship sibling --> [u'Tom Kardashian', u'Barbara Kardashian']	0
-where did robert kardashian go to college?	26	robert kardashian --> object name --> [u'Robert Kardashian']	0
-where did robert kardashian go to college?	26	robert kardashian --> topic image --> [u'Robert_Kardashian_Sr.jpg']	0
-where did robert kardashian go to college?	26	robert kardashian --> person height meters --> [u'1.65']	0
-where did robert kardashian go to college?	26	goto --> object name --> [u'goto']	0
-where did robert kardashian go to college?	26	college --> webpage resource --> [u"College buddies land 'Boyfred' at ABC", u"Matthew McConaughey books 'Exchange Student' as next project", u"'Greek' recap: Back to school", u"Sick of lame Tweets? Call 'Tweetlejuice'!", u"'Greek' recap: Parental invasion"]	0
-where did robert kardashian go to college?	26	college --> genre content --> [u'KEXP Live', u'KALX', u'Radio DePaul', u'KAOS', u'KUSF 90.3 FM']	0
-where did robert kardashian go to college?	26	college --> school category schools of this kind --> [u'Grace Bible College', u'Perth College UHI', u'Divine Word College of San Jose', u'Hampshire College', u'Pomona College']	0
-where did robert kardashian go to college?	26	college --> dbpedia import geocode checked --> [u'2010-08-30']	0
-where did robert kardashian go to college?	26	college --> webpage category --> [u'Tag']	0
-where did robert kardashian go to college?	26	college --> building function buildings --> [u'Thomas Hall']	0
-where did robert kardashian go to college?	26	college --> object name --> [u'College']	0
-where did robert kardashian go to college?	26	college --> topic image --> [u'Kings College Chapel outside view', u'Agnes Scott College - Buttrick Hall']	0
-where did robert kardashian go to college?	26	college --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-where did robert kardashian go to college?	26	college --> film subject films --> [u'Higher Learning', u"National Lampoon's Animal House", u'Johnny Be Good', u'The Home Economics Story']	0
-where did robert kardashian go to college?	26	college --> vocabulary equivalent topic equivalent concept --> [u'Universities and colleges']	0
-where did robert kardashian go to college?	26	college --> tv genre programs --> [u'Miley Jab Hum Tum', u'Hard to Be Me', u'The Bedford Diaries']	0
-where did robert kardashian go to college?	26	college --> linguistic hint subject form --> [u'Colleges']	0
-where did robert kardashian go to college?	26	college --> equivalent topic equivalent type --> [u'College/University']	0
-where did robert kardashian go to college?	26	college --> book subject works --> [u'Crimson Storm Surge', u'Where Football Is King', u'CBS Sports Presents', u'My Life On a Napkin', u'Back to Back']	0
+where did robert kardashian go to college?	26	robert kardashian --> dated money value currency --> [u'United States dollar']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person date of birth --> [u'1944-02-22']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person profession --> [u'Businessperson', u'Lawyer']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person gender --> [u'Male']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person nationality --> [u'United States of America']	1	Kardashian was born March 17, 1987 in [[Los Angeles]], [[California]], [[United States]] to attorney [[Robert Kardashian]] and wife [[Kris Jenner|Kris]].
+where did robert kardashian go to college?	26	robert kardashian --> deceased person date of death --> [u'2003-09-30']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> criminal defence attorney in criminal trials --> [u'O. J. Simpson murder case']	1	Her father, [[Robert Kardashian]], was an attorney in the [[O. J. Simpson murder case]], and her sisters, [[Khloe Kardashian]] and [[Kourtney Kardashian]], are also reality television stars.
+where did robert kardashian go to college?	26	robert kardashian --> family member family --> [u'Kardashian Family']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> dated money value amount --> [u'30000000']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> deceased person place of death --> [u'Los Angeles']	3	Kardashian was born March 17, 1987 in [[Los Angeles]], [[California]], [[United States]] to attorney [[Robert Kardashian]] and wife [[Kris Jenner|Kris]].
+where did robert kardashian go to college?	26	robert kardashian --> deceased person place of burial --> [u'Inglewood Park Cemetery']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person religion --> [u'Catholicism']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> marriage spouse --> [u'Kris Jenner', u'Jan Ashley', u'Ellen Pierson']	12	[[Robert Kardashian]] (February 22, 1944 - September 30, 2003) and [[Kris Jenner|Kristen Mary "Kris" Houghton]] (born November 5, 1955) married in 1978, and had four children together: daughters [[Kourtney Kardashian|Kourtney]] (born April 17, 1979), [[Kim Kardashian|Kim]] (born October 21, 1980), and [[Khloé Kardashian|Khloé]] (born June 27, 1984), and son [[Rob Kardashian|Rob]] (born March 17, 1987).
+where did robert kardashian go to college?	26	robert kardashian --> marriage from --> [u'1998', u'2003-08', u'1978-07-08']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person place of birth --> [u'Los Angeles']	3	Kardashian was born March 17, 1987 in [[Los Angeles]], [[California]], [[United States]] to attorney [[Robert Kardashian]] and wife [[Kris Jenner|Kris]].
+where did robert kardashian go to college?	26	robert kardashian --> education institution --> [u'University of San Diego', u'University of Southern California', u'University of San Diego School of Law']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person children --> [u'Kim Kardashian', u'Rob Kardashian', u'Kourtney Kardashian', u'Khlo\xe9 Kardashian']	6	[[Robert Kardashian]] (February 22, 1944 - September 30, 2003) and [[Kris Jenner|Kristen Mary "Kris" Houghton]] (born November 5, 1955) married in 1978, and had four children together: daughters [[Kourtney Kardashian|Kourtney]] (born April 17, 1979), [[Kim Kardashian|Kim]] (born October 21, 1980), and [[Khloé Kardashian|Khloé]] (born June 27, 1984), and son [[Rob Kardashian|Rob]] (born March 17, 1987).
+where did robert kardashian go to college?	26	robert kardashian --> deceased person cause of death --> [u'Throat cancer', u'Cancer', u'Esophageal cancer']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> religion choice religion --> [u'Catholicism']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> marriage to --> [u'1991-03', u'1999', u'2003-09-30']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person parents --> [u'Arthur Kardashian', u'Helen Kardashian']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> dated money value source --> [u'celebritynetworth.com']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> marriage type of union --> [u'Marriage']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> sibling relationship sibling --> [u'Tom Kardashian', u'Barbara Kardashian']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> object name --> [u'Robert Kardashian']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> topic image --> [u'Robert_Kardashian_Sr.jpg']	0	EMPTY
+where did robert kardashian go to college?	26	robert kardashian --> person height meters --> [u'1.65']	0	EMPTY
+where did robert kardashian go to college?	26	goto --> object name --> [u'goto']	0	EMPTY
+where did robert kardashian go to college?	26	college --> webpage resource --> [u"College buddies land 'Boyfred' at ABC", u"Matthew McConaughey books 'Exchange Student' as next project", u"'Greek' recap: Back to school", u"Sick of lame Tweets? Call 'Tweetlejuice'!", u"'Greek' recap: Parental invasion"]	0	EMPTY
+where did robert kardashian go to college?	26	college --> genre content --> [u'KEXP Live', u'KALX', u'Radio DePaul', u'KAOS', u'KUSF 90.3 FM']	0	EMPTY
+where did robert kardashian go to college?	26	college --> school category schools of this kind --> [u'Grace Bible College', u'Perth College UHI', u'Divine Word College of San Jose', u'Hampshire College', u'Pomona College']	0	EMPTY
+where did robert kardashian go to college?	26	college --> dbpedia import geocode checked --> [u'2010-08-30']	0	EMPTY
+where did robert kardashian go to college?	26	college --> webpage category --> [u'Tag']	0	EMPTY
+where did robert kardashian go to college?	26	college --> building function buildings --> [u'Thomas Hall']	0	EMPTY
+where did robert kardashian go to college?	26	college --> object name --> [u'College']	0	EMPTY
+where did robert kardashian go to college?	26	college --> topic image --> [u'Kings College Chapel outside view', u'Agnes Scott College - Buttrick Hall']	0	EMPTY
+where did robert kardashian go to college?	26	college --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+where did robert kardashian go to college?	26	college --> film subject films --> [u'Higher Learning', u"National Lampoon's Animal House", u'Johnny Be Good', u'The Home Economics Story']	0	EMPTY
+where did robert kardashian go to college?	26	college --> vocabulary equivalent topic equivalent concept --> [u'Universities and colleges']	0	EMPTY
+where did robert kardashian go to college?	26	college --> tv genre programs --> [u'Miley Jab Hum Tum', u'Hard to Be Me', u'The Bedford Diaries']	0	EMPTY
+where did robert kardashian go to college?	26	college --> linguistic hint subject form --> [u'Colleges']	0	EMPTY
+where did robert kardashian go to college?	26	college --> equivalent topic equivalent type --> [u'College/University']	0	EMPTY
+where did robert kardashian go to college?	26	college --> book subject works --> [u'Crimson Storm Surge', u'Where Football Is King', u'CBS Sports Presents', u'My Life On a Napkin', u'Back to Back']	0	EMPTY

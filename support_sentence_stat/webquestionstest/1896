@@ -1,236 +1,236 @@
-when's the last time the mets won the world series?	2456	world series --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when's the last time the mets won the world series?	2456	world series --> webpage resource --> [u"'Glee' returns tonight. And there's a diva-off. Who wants preview clips?", u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 13: TV Recap', u"Box office preview: 'This is It' destined to win the weekend", u'Obligatory Jay-Z Item of the Week', u'Mary J. Blige on Her New Album, Hollywood, and the National Anthem']	0
-when's the last time the mets won the world series?	2456	world series --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvj5Ro5wpEbGdrcN5Y29ycA']	0
-when's the last time the mets won the world series?	2456	world series --> sports championship events --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30
-when's the last time the mets won the world series?	2456	world series --> award nomination award --> [u'Primetime Emmy Award for Best Special Event Or News Program']	0
-when's the last time the mets won the world series?	2456	world series --> sports championship league --> [u'Major League Baseball']	126
-when's the last time the mets won the world series?	2456	world series --> topic alias --> [u'The Series', u'Fall Classic', u'Major League Baseball World Series']	0
-when's the last time the mets won the world series?	2456	world series --> award nomination year --> [u'1956']	0
-when's the last time the mets won the world series?	2456	world series --> recurring event instances --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30
-when's the last time the mets won the world series?	2456	world series --> object name --> [u'World Series']	0
-when's the last time the mets won the world series?	2456	world series --> topic image --> [u'{{{alt}}}', u'Crowd outside the 1903 World Series']	0
-when's the last time the mets won the world series?	2456	world series --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when's the last time the mets won the world series?	2456	world series --> daylife hero image id --> [u'05aFawD0sm9Wd']	0
-when's the last time the mets won the world series?	2456	world series --> book subject works --> [u"The Gashouse Gang: How Dizzy Dean, Leo Durocher, Branch Rickey, Pepper Martin, and Their Colorful, Come-from-Behind Ball Club Won the World Series - and America's Heart - During the Great Depression"]	0
-when's the last time the mets won the world series?	2456	2008 world series --> news report url --> [u'http://mlb.mlb.com/mlb/ps/y2008/boxscore.jsp?gid=2008_10_27_tbamlb_phimlb_1', u'http://mlb.mlb.com/news/article.jsp?ymd=20081023&content_id=3640727&vkey=ps2008news&fext=.jsp&c_id=mlb&partnerId=rss_mlb', u'http://ca.sports.yahoo.com/mlb/blog/big_league_stew/post/-Elmer-Fudd-caps-become-hip-during-cold-and-wet?urn=mlb,117761']	0
-when's the last time the mets won the world series?	2456	2008 world series --> sports championship event championship --> [u'World Series']	16
-when's the last time the mets won the world series?	2456	2008 world series --> news report news reporting organisation --> [u'Yahoo! Sports', u'MLB.com']	0
-when's the last time the mets won the world series?	2456	2008 world series --> news report date --> [u'2008-10-25', u'2008-10-27']	0
-when's the last time the mets won the world series?	2456	2008 world series --> sports championship event season --> [u'2008 Major League Baseball season']	0
-when's the last time the mets won the world series?	2456	2008 world series --> news report title --> [u'World Series Game five', u'Selig pleased with Game 1 ratings', u"'Elmer Fudd' caps become hip during cold and wet World Series"]	0
-when's the last time the mets won the world series?	2456	2008 world series --> sports championship event result --> [u'4 - 1']	0
-when's the last time the mets won the world series?	2456	2008 world series --> object name --> [u'2008 World Series']	0
-when's the last time the mets won the world series?	2456	2008 world series --> event locations --> [u'Citizens Bank Park', u'Tropicana Field']	7
-when's the last time the mets won the world series?	2456	2008 world series --> sports championship event runner up --> [u'Tampa Bay Rays']	15
-when's the last time the mets won the world series?	2456	2008 world series --> event end date --> [u'2008-10-29']	0
-when's the last time the mets won the world series?	2456	2008 world series --> sports championship event champion --> [u'Philadelphia Phillies']	35
-when's the last time the mets won the world series?	2456	2008 world series --> event instance of recurring event --> [u'World Series']	16
-when's the last time the mets won the world series?	2456	2008 world series --> event start date --> [u'2008-10-22']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position player --> [u'Rob Johnson', u'Vinny Rottino', u'Jason Bay', u'Scott Schoeneweis', u'Ronny Cede\xf1o']	15
-when's the last time the mets won the world series?	2456	new york mets --> team training ground relationship from --> [u'1962', u'1964']	0
-when's the last time the mets won the world series?	2456	new york mets --> organization board membership title --> [u'Chair']	0
-when's the last time the mets won the world series?	2456	new york mets --> topic social media presence --> [u'http://plus.google.com/111969268508366177113']	0
-when's the last time the mets won the world series?	2456	new york mets --> employment tenure title --> [u'Chief Operating Officer', u'President', u'Chief Executive Officer', u'Co-owner']	0
-when's the last time the mets won the world series?	2456	new york mets --> organization founders --> [u'Joan Whitney Payson']	4
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster to --> [u'2013', u'2013-07-05', u'2013-06-18']	0
-when's the last time the mets won the world series?	2456	new york mets --> topic alias --> [u'The Metropolitans', u"The Amazin's", u'The Miracle Mets']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball team current manager --> [u'Terry Collins']	4
-when's the last time the mets won the world series?	2456	new york mets --> employment tenure to --> [u'2002']	0
-when's the last time the mets won the world series?	2456	new york mets --> rival rivals --> [u'Mets\u2013Yankees rivalry']	0
-when's the last time the mets won the world series?	2456	new york mets --> current coaching tenure coaching position --> [u'Bench Coach', u'Hitting Coach', u'First Base Coach', u'Pitching Coach', u'Bullpen Catcher Coach']	0
-when's the last time the mets won the world series?	2456	new york mets --> team venue relationship to --> [u'2008']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team founded --> [u'1962']	0
-when's the last time the mets won the world series?	2456	new york mets --> pro sports played career end --> [u'1969']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster player --> [u'Jeremy Hefner', u'David Wright', u'Frank Francisco', u'Daniel Murphy', u'Brandon Lyon']	14
-when's the last time the mets won the world series?	2456	new york mets --> daylife hero image id --> [u'02WHdF8ecEf2l']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball team stats losses --> [u'54', u'58', u'60', u'62', u'64']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	60
-when's the last time the mets won the world series?	2456	new york mets --> sports league participation league --> [u'National League', u'Major League Baseball', u'National League East']	368
-when's the last time the mets won the world series?	2456	new york mets --> tv guest personal appearance episode --> [u'2000 World Series Game 2', u'2000 World Series Game 1', u'1969 World Series Game 1', u'2000 World Series Game 3', u'2000 World Series Game 4']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical managerial position from --> [u'1984', u'1996', u'2005', u'1977-05']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball team stats season --> [u'2006 Major League Baseball season', u'2007 Major League Baseball season', u'1973 Major League Baseball Season', u'1964 Major League Baseball Season', u'1962 Major League Baseball Season']	2
-when's the last time the mets won the world series?	2456	new york mets --> professional sports team owner s --> [u'Fred Wilpon']	7
-when's the last time the mets won the world series?	2456	new york mets --> webpage description --> [u'New York Times', u'Home Page', u'Mets Gifts and Apparel']	0
-when's the last time the mets won the world series?	2456	new york mets --> webpage category --> [u'Topic Webpage']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball roster position number --> [u'1', u'2', u'5', u'9', u'11']	0
-when's the last time the mets won the world series?	2456	new york mets --> organization board membership from --> [u'2003']	0
-when's the last time the mets won the world series?	2456	new york mets --> team training ground relationship facility --> [u'Shea Stadium', u'Polo Grounds']	107
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster from --> [u'1966', u'1967', u'1968', u'1972', u'1975']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster player --> [u'Rob Johnson', u'Vinny Rottino', u'Jason Bay', u'Scott Schoeneweis', u'Ronny Cede\xf1o']	15
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position player --> [u'Rob Johnson', u'Vinny Rottino', u'Jason Bay', u'Scott Schoeneweis', u'Ronny Cede\xf1o']	15
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	60
-when's the last time the mets won the world series?	2456	new york mets --> team venue relationship venue --> [u'Shea Stadium']	101
-when's the last time the mets won the world series?	2456	new york mets --> pro sports played career start --> [u'1967']	0
-when's the last time the mets won the world series?	2456	new york mets --> topic official website --> [u'http://www.mets.com/']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team team mascot --> [u'Mr. Met', u'Lady Met']	4
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical managerial position to --> [u'1981', u'1990', u'2002', u'2008']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster number --> [u'13', u'16', u'30', u'43', u'6']	0
-when's the last time the mets won the world series?	2456	new york mets --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when's the last time the mets won the world series?	2456	new york mets --> webpage resource --> [u"Paul McCartney plays Citi Field: He's still got it", u'Paul McCartney gives Citi Field a first show for the ages', u'Morning Roundup: Steve Phillips Fired; Ivanka Trump Weds; Morrissey Fans (Slightly) Less Melancholy', u'Mets Gifts and Apparel', u'New York Times']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	60
-when's the last time the mets won the world series?	2456	new york mets --> sports team sport --> [u'Baseball']	4
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster number --> [u'2', u'1', u'11', u'13', u'15']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position from --> [u'1967', u'1972', u'1975', u'1979', u'1985']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball team stats wins --> [u'40', u'41', u'50', u'51', u'53']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster to --> [u'1966', u'1967', u'1973', u'1977', u'1979']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports league draft pick player --> [u'Les Rohr', u'Stan Jefferson', u'Lee Mazzilli', u'Terrence Long', u'Paul Wilson']	7
-when's the last time the mets won the world series?	2456	new york mets --> sports league draft pick draft --> [u'1967 Major League Baseball Draft', u'1978 Major League Baseball Draft', u'1965 Major League Baseball Draft', u'2005 Major League Baseball Draft', u'1984 Major League Baseball Draft']	7
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster from --> [u'2004', u'2008', u'2010', u'2011', u'2012']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports league draft pick pick overall --> [u'1', u'2', u'3', u'4', u'5']	0
-when's the last time the mets won the world series?	2456	new york mets --> current coaching tenure baseball coach --> [u'Sandy Alomar, Jr.', u'Randy Niemann', u'Razor Shines', u'Howard Johnson', u'Sandy Alomar, Sr.']	4
-when's the last time the mets won the world series?	2456	new york mets --> sports team arena stadium --> [u'Citi Field']	60
-when's the last time the mets won the world series?	2456	new york mets --> sports team fight song --> [u'Meet the Mets']	3
-when's the last time the mets won the world series?	2456	new york mets --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team colors --> [u'Blue', u'Orange']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team championships --> [u'1986 World Series', u'1969 World Series']	47
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster from --> [u'1966', u'1967', u'1972', u'1975', u'1979']	0
-when's the last time the mets won the world series?	2456	new york mets --> webpage uri --> [u'http://www.team-superstore.com/MLB_New_York_Mets.asp', u'http://www.mets.com', u'http://topics.nytimes.com/top/news/sports/baseball/majorleague/newyorkmets/index.html']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position from --> [u'1967', u'1972', u'1975', u'1979', u'1985']	0
-when's the last time the mets won the world series?	2456	new york mets --> employment tenure person --> [u'Jacqueline Honulik', u'Jeff Wilpon', u'Fred Wilpon']	11
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical managerial position manager --> [u'Davey Johnson', u'Joe Torre', u'Bobby Valentine', u'Jerry Manuel']	15
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster number --> [u'2', u'1', u'11', u'15', u'19']	0
-when's the last time the mets won the world series?	2456	new york mets --> organization board membership member --> [u'Fred Wilpon']	7
-when's the last time the mets won the world series?	2456	new york mets --> topic topical webpage --> [u'http://www.team-superstore.com/MLB_New_York_Mets.asp', u'http://topics.nytimes.com/top/news/sports/baseball/majorleague/newyorkmets/index.html']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster player --> [u'Rob Johnson', u'Vinny Rottino', u'Jason Bay', u'Scott Schoeneweis', u'Jeremy Hefner']	16
-when's the last time the mets won the world series?	2456	new york mets --> sports team location --> [u'New York City']	11
-when's the last time the mets won the world series?	2456	new york mets --> team venue relationship from --> [u'1964']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball team division --> [u'National League East']	7
-when's the last time the mets won the world series?	2456	new york mets --> baseball roster position position --> [u'Third baseman', u'Catcher', u'Pitcher', u'Starting pitcher', u'Second baseman']	56
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position to --> [u'1973', u'1977', u'1979', u'1989', u'2000']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position to --> [u'1973', u'1977', u'1979', u'1989', u'2000']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball roster position position --> [u'Third baseman', u'Catcher', u'Pitcher', u'Starting pitcher', u'Second baseman']	56
-when's the last time the mets won the world series?	2456	new york mets --> team training ground relationship to --> [u'1963', u'2008']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball roster position player --> [u'Jeremy Hefner', u'David Wright', u'Frank Francisco', u'Daniel Murphy', u'Dominic Smith']	13
-when's the last time the mets won the world series?	2456	new york mets --> object name --> [u'New York Mets']	0
-when's the last time the mets won the world series?	2456	new york mets --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi6zpwpEbGdrcN5Y29ycA']	0
-when's the last time the mets won the world series?	2456	new york mets --> employment tenure from --> [u'1980']	0
-when's the last time the mets won the world series?	2456	new york mets --> baseball team league --> [u'National League']	39
-when's the last time the mets won the world series?	2456	new york mets --> film subject films --> [u'Last Play at Shea']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports league draft pick school --> [u'University of Notre Dame', u'Loyola Marymount University', u'Florida State University', u'Wichita State University', u'George Washington University']	1
-when's the last time the mets won the world series?	2456	new york mets --> baseball roster position player --> [u'Jeremy Hefner', u'David Wright', u'Frank Francisco', u'Daniel Murphy', u'Brandon Lyon']	14
-when's the last time the mets won the world series?	2456	new york mets --> baseball roster position number --> [u'1', u'2', u'5', u'9', u'11']	0
-when's the last time the mets won the world series?	2456	new york mets --> topic image --> [u'Mets home run apple']	0
-when's the last time the mets won the world series?	2456	new york mets --> sports team roster to --> [u'1966', u'1967', u'1969', u'1971', u'1973']	0
-when's the last time the mets won the world series?	2456	the last --> album genre --> [u'Latin pop', u'Bachata', u'Tropical']	0
-when's the last time the mets won the world series?	2456	the last --> object name --> [u'The Last']	0
-when's the last time the mets won the world series?	2456	the last --> album artist --> [u'Aventura']	5
-when's the last time the mets won the world series?	2456	the last --> album album content type --> [u'Studio album']	0
-when's the last time the mets won the world series?	2456	the last --> album release date --> [u'2009-06-09']	0
-when's the last time the mets won the world series?	2456	the world --> object name --> [u'The World']	0
-when's the last time the mets won the world series?	2456	the world --> topic image --> [u'Mohammad nabil rais- The world Islands', u'Dubaiworld']	0
-when's the last time the mets won the world series?	2456	the world --> geocode latitude --> [u'25.2167']	0
-when's the last time the mets won the world series?	2456	the world --> geocode longitude --> [u'55.1667']	0
-when's the last time the mets won the world series?	2456	world --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when's the last time the mets won the world series?	2456	world --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvhnlz5wpEbGdrcN5Y29ycA']	0
-when's the last time the mets won the world series?	2456	world --> current area record event --> [u"Men's Athletics, 100m", u"Men's Athletics, 400m", u"Men's Triple jump"]	0
-when's the last time the mets won the world series?	2456	world --> current area record mark --> [u'43.18', u'9.69', u'18.29 m']	0
-when's the last time the mets won the world series?	2456	world --> current area record country --> [u'Jamaica', u'United Kingdom', u'United States of America']	3
-when's the last time the mets won the world series?	2456	world --> topic alias --> [u'Worldwide']	0
-when's the last time the mets won the world series?	2456	world --> object id --> [u'/en/world']	0
-when's the last time the mets won the world series?	2456	world --> object name --> [u'World']	0
-when's the last time the mets won the world series?	2456	world --> topic image --> [u'The Earth seen from Apollo 17', u'The Garden of Earthly Delights by Bosch High Resolution']	0
-when's the last time the mets won the world series?	2456	world --> current area record record holder --> [u'Michael Johnson', u'Jonathan Edwards', u'Usain Bolt']	0
-when's the last time the mets won the world series?	2456	world --> location area --> [u'149000000']	0
-when's the last time the mets won the world series?	2456	world --> organization scope organizations with this scope --> [u'League of Nations', u'Apache Software Foundation', u'Crown Partners', u'carman communications', u'Maximise']	0
-when's the last time the mets won the world series?	2456	world --> athletics area championships --> [u'IAAF World Championships in Athletics']	0
-when's the last time the mets won the world series?	2456	world --> current area record date --> [u'2008-08-16']	0
-when's the last time the mets won the world series?	2456	the last --> object name --> [u'The Last']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> event entity involved --> [u'Robert Jenkinson, 2nd Earl of Liverpool', u'United Kingdom', u'William Henry Harrison', u'Choctaw', u'Potawatomi']	89
-when's the last time the mets won the world series?	2456	war of 1812 --> military conflict military personnel involved --> [u'Charles S. Boggs', u'Cadwalader Ringgold', u'Washington Duke', u'Stephen Decatur Trenchard', u'Sir George Cockburn, 10th Baronet']	4
-when's the last time the mets won the world series?	2456	war of 1812 --> taxonomy entry high --> [u'364.9']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> military command military combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands']	158
-when's the last time the mets won the world series?	2456	war of 1812 --> taxonomy entry prefix --> [u'E']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> historical event mention book --> [u'The Fortune of War']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead', u'Civilian - Dead']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> event event type --> [u'Military Conflict']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> event locations --> [u'North America', u'Pacific Ocean', u'Atlantic Ocean', u'Chesapeake Bay', u'Gulf Coast of the United States']	22
-when's the last time the mets won the world series?	2456	war of 1812 --> casualties combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands', u'British North America']	170
-when's the last time the mets won the world series?	2456	war of 1812 --> casualties lower estimate --> [u'500', u'1600', u'2260', u'3679', u'4505']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> event included in event --> [u'Napoleonic Wars']	81
-when's the last time the mets won the world series?	2456	war of 1812 --> event end date --> [u'1815-03-23']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> event start date --> [u'1812-06-18']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> taxonomy entry low --> [u'351']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> motivated event motive --> [u'Origins of the War of 1812']	4
-when's the last time the mets won the world series?	2456	war of 1812 --> event includes event --> [u"Second Battle of Sacket's Harbor", u'Battle of Fort Oswego', u"Battle of Crysler's Farm", u'Action off Charles Island', u'Battle of Longwoods']	21
-when's the last time the mets won the world series?	2456	war of 1812 --> object name --> [u'War of 1812']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> topic image --> [u'War of 1812', u'Push on, brave York volunteers', u'US Capitol 1814c']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> military combatant group combatants --> [u'United Kingdom', u'United States of America', u'Wyandot people', u'Cherokee', u'Iroquois']	163
-when's the last time the mets won the world series?	2456	war of 1812 --> film subject films --> [u'The Buccaneer']	0
-when's the last time the mets won the world series?	2456	war of 1812 --> military command military commander --> [u'James Madison', u'Roger Hale Sheaffe', u'Winfield Scott', u'George Pr\xe9vost', u'Isaac Brock']	75
-when's the last time the mets won the world series?	2456	war of 1812 --> book subject works --> [u'The War of 1812', u'The Captain from Connecticut', u'Bright Captivity', u'The Fortune of War', u'Once on this island']	0
-when's the last time the mets won the world series?	2456	the last --> artist active start --> [u'1976']	0
-when's the last time the mets won the world series?	2456	the last --> artist track --> [u'So Quick to Say', u'I Saw Your Eyes', u'Another Side', u'Going Gone', u'And They Laugh']	0
-when's the last time the mets won the world series?	2456	the last --> artist label --> [u'SST Records', u'BOMP Records']	0
-when's the last time the mets won the world series?	2456	the last --> artist origin --> [u'Los Angeles']	0
-when's the last time the mets won the world series?	2456	the last --> artist genre --> [u'Power pop', u'Rock music']	0
-when's the last time the mets won the world series?	2456	the last --> group membership start --> [u'1976']	0
-when's the last time the mets won the world series?	2456	the last --> webpage category --> [u'Official Website']	0
-when's the last time the mets won the world series?	2456	the last --> group membership member --> [u'Bill Stevenson', u'Karl Alvarez', u'Dave Harbison', u'David Nolte', u'Dave Naz']	1
-when's the last time the mets won the world series?	2456	the last --> artist album --> [u'Confession', u'Awakening', u'She Don\u2019t Know Why I\u2019m Here', u'L.A. Explosion', u'Painting Smiles on a Dead Man']	0
-when's the last time the mets won the world series?	2456	the last --> object name --> [u'The Last']	0
-when's the last time the mets won the world series?	2456	the last --> group membership end --> [u'1985']	0
-when's the last time the mets won the world series?	2456	the last --> topic alias --> [u'Last', u'Last, The']	0
-when's the last time the mets won the world series?	2456	the last --> topic official website --> [u'http://www.laexplosion.com/']	0
-when's the last time the mets won the world series?	2456	the last --> webpage uri --> [u'http://www.laexplosion.com/']	0
-when's the last time the mets won the world series?	2456	time --> topic social media presence --> [u'http://plus.google.com/110038350445855508357', u'http://twitter.com/TIME']	0
-when's the last time the mets won the world series?	2456	time --> employment tenure title --> [u'Managing Director', u'Columnist', u'White House Correspondent', u'Corporate Financial analyst', u'Editor-at-large']	0
-when's the last time the mets won the world series?	2456	time --> dated integer year --> [u'2007']	0
-when's the last time the mets won the world series?	2456	time --> topic alias --> [u'Time Asia', u'Time Europe', u'Time Magazine']	0
-when's the last time the mets won the world series?	2456	time --> webpage uri --> [u'http://www.time.com/']	0
-when's the last time the mets won the world series?	2456	time --> employment tenure to --> [u'1933', u'1991', u'2008-12']	0
-when's the last time the mets won the world series?	2456	time --> contents work --> [u'The Thriving Cult of Greed and Power', u'Remember Venus?', u'Scientology: Parry and Thrust']	7
-when's the last time the mets won the world series?	2456	time --> daylife hero image id --> [u'0gZH6gc1YZ4cL']	0
-when's the last time the mets won the world series?	2456	time --> periodical publication date date --> [u'1923-03-03']	0
-when's the last time the mets won the world series?	2456	time --> arabic language media source city --> [u'London']	4
-when's the last time the mets won the world series?	2456	time --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0
-when's the last time the mets won the world series?	2456	time --> magazine issues --> [u'Time Magazine, Aug 23, 1999', u'Time Magazine, Apr 10, 2000', u'Time Magazine, Nov 23, 1970']	0
-when's the last time the mets won the world series?	2456	time --> software developer software --> [u'TIME Mobile']	0
-when's the last time the mets won the world series?	2456	time --> periodical issn --> [u'0040-781X']	0
-when's the last time the mets won the world series?	2456	time --> topic official website --> [u'http://www.time.com/']	0
-when's the last time the mets won the world series?	2456	time --> webpage description --> [u'Time']	0
-when's the last time the mets won the world series?	2456	time --> editorial tenure editor --> [u'Adi Ignatius']	1
-when's the last time the mets won the world series?	2456	time --> webpage resource --> [u'Aguilera music used to torture -- officially', u'HBO plans film on 2008 election', u'What electronic gadgets are on your holiday wish list?', u'Obama Joker Poster: Why So Serious?', u"'Saturday Night Live' offers whiff of Glenn Beck"]	0
-when's the last time the mets won the world series?	2456	time --> periodical publisher period publisher --> [u'Time Inc.']	4
-when's the last time the mets won the world series?	2456	time --> periodical frequency frequency --> [u'Weekly']	0
-when's the last time the mets won the world series?	2456	time --> periodical subjects --> [u'News']	0
-when's the last time the mets won the world series?	2456	time --> place of publication period place of publication --> [u'England', u'United States of America', u'Australia', u'Canada', u'New Zealand']	17
-when's the last time the mets won the world series?	2456	time --> news report url --> [u'http://www.time.com/time/magazine/article/0,9171,807400,00.html', u'http://cbs2chicago.com/topstories/local_story_045223206.html', u'http://www.time.com/time/asia/asia/magazine/1999/990823/india_pakistan1.html', u'http://www.time.com/time/magazine/article/0,9171,902933,00.html', u'http://www.time.com/time/magazine/article/0,9171,939307,00.html']	0
-when's the last time the mets won the world series?	2456	time --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
-when's the last time the mets won the world series?	2456	time --> quotation source quotations --> [u'""I thought we were coming for""', u'""I thought we were coming in..']	0
-when's the last time the mets won the world series?	2456	time --> news report event --> [u'Battle of Mogadishu', u'Lewinsky scandal', u'El Al Flight 402', u'United States Senate election in New York, 2000', u'Operation Janbaz']	0
-when's the last time the mets won the world series?	2456	time --> ranked list compiler ranked lists --> [u'Time magazine\'s ""All-TIME"" 100 best novels', u'Time 100', u'Time 100: The Most Important People of the Century', u'Time Magazine Ten Biggest Tech Failures of the Last Decade', u"Time Magazine's All-Time 100 Movies"]	128
-when's the last time the mets won the world series?	2456	time --> employment tenure person --> [u'Sanjay Gupta', u'John Dickerson', u'Jake Winebaum', u'Jay Carney', u'Robert Hughes']	6
-when's the last time the mets won the world series?	2456	time --> dated integer number --> [u'3400000']	0
-when's the last time the mets won the world series?	2456	time --> periodical eissn --> [u'1767509']	0
-when's the last time the mets won the world series?	2456	time --> periodical language --> [u'English Language']	2
-when's the last time the mets won the world series?	2456	time --> magazine genre --> [u'News magazine']	1
-when's the last time the mets won the world series?	2456	time --> object name --> [u'Time']	0
-when's the last time the mets won the world series?	2456	time --> employment tenure from --> [u'1969', u'1970', u'1978', u'1986', u'2005-09']	0
-when's the last time the mets won the world series?	2456	time --> editorial tenure title --> [u'Deputy Managing Editor']	0
-when's the last time the mets won the world series?	2456	time --> arabic language media source country --> [u'United Kingdom']	1
-when's the last time the mets won the world series?	2456	time --> news report title --> [u'Capitol Hill', u'Through the Curtain', u'Why Pakistan Must Widen Its Hunt for Militant Bases', u'Anatomy of a Disaster', u"Can't Stop the Madness"]	0
-when's the last time the mets won the world series?	2456	time --> news report date --> [u'1961-11-17', u'2000-11-20', u'2006-02-27', u'2009-10-13', u'1955-08-08']	0
-when's the last time the mets won the world series?	2456	time --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when's the last time the mets won the world series?	2456	time --> webpage resource --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0
-when's the last time the mets won the world series?	2456	time --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViAw5wpEbGdrcN5Y29ycA']	0
-when's the last time the mets won the world series?	2456	time --> taxonomy entry low --> [u'209']	0
-when's the last time the mets won the world series?	2456	time --> topic topical webpage --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0
-when's the last time the mets won the world series?	2456	time --> processed with review queue question id --> [u'/rabj/store/questions/question_b27d0d5a61642c39']	0
-when's the last time the mets won the world series?	2456	time --> equivalent topic equivalent domain --> [u'Time']	0
-when's the last time the mets won the world series?	2456	time --> taxonomy entry high --> [u'224']	0
-when's the last time the mets won the world series?	2456	time --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when's the last time the mets won the world series?	2456	time --> webpage category --> [u'Topic Webpage']	0
-when's the last time the mets won the world series?	2456	time --> object name --> [u'Time']	0
-when's the last time the mets won the world series?	2456	time --> topic image --> [u'Wooden hourglass 3', u'A savonette-type pocket watch', u'C solarcorona2003']	0
-when's the last time the mets won the world series?	2456	time --> dimension instruments --> [u'Clock', u'Cuckoo clock', u'Water clock']	0
-when's the last time the mets won the world series?	2456	time --> dimension si base unit --> [u'Second']	0
-when's the last time the mets won the world series?	2456	time --> book subject musical compositions about this topic --> [u'Time']	0
-when's the last time the mets won the world series?	2456	time --> vocabulary equivalent topic equivalent concept --> [u'Time']	0
-when's the last time the mets won the world series?	2456	time --> dimension units --> [u'Month', u'petasecond', u'decisecond', u'Second', u'picosecond']	0
-when's the last time the mets won the world series?	2456	time --> webpage description --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0
-when's the last time the mets won the world series?	2456	time --> taxonomy entry prefix --> [u'QB']	0
-when's the last time the mets won the world series?	2456	time --> book subject works --> [u'Being in time', u'The Garden of Time', u'Prisoner of Time', u'Faster: The Acceleration of Just About Everything', u'De revolutionibus orbium coelestium']	0
-when's the last time the mets won the world series?	2456	time --> webpage uri --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0
-when's the last time the mets won the world series?	2456	mets --> object name --> [u'METS']	0
-when's the last time the mets won the world series?	2456	mets --> topic image --> [u'PARTSangles']	0
+when's the last time the mets won the world series?	2456	world series --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> webpage resource --> [u"'Glee' returns tonight. And there's a diva-off. Who wants preview clips?", u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 13: TV Recap', u"Box office preview: 'This is It' destined to win the weekend", u'Obligatory Jay-Z Item of the Week', u'Mary J. Blige on Her New Album, Hollywood, and the National Anthem']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvj5Ro5wpEbGdrcN5Y29ycA']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> sports championship events --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30	*4x [[World Series]] champion: [[1912 World Series|1912]], [[1915 World Series|1915]], [[1916 World Series|1916]], [[1920 World Series|1920]]
+when's the last time the mets won the world series?	2456	world series --> award nomination award --> [u'Primetime Emmy Award for Best Special Event Or News Program']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> sports championship league --> [u'Major League Baseball']	126	*[[Al Newman]], [[Major League Baseball]] player for the [[Minnesota Twins]]; member of Twins 1987 and 1991 [[World Series|World Championship]] teams.
+when's the last time the mets won the world series?	2456	world series --> topic alias --> [u'The Series', u'Fall Classic', u'Major League Baseball World Series']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> award nomination year --> [u'1956']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> recurring event instances --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30	*4x [[World Series]] champion: [[1912 World Series|1912]], [[1915 World Series|1915]], [[1916 World Series|1916]], [[1920 World Series|1920]]
+when's the last time the mets won the world series?	2456	world series --> object name --> [u'World Series']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> topic image --> [u'{{{alt}}}', u'Crowd outside the 1903 World Series']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> daylife hero image id --> [u'05aFawD0sm9Wd']	0	EMPTY
+when's the last time the mets won the world series?	2456	world series --> book subject works --> [u"The Gashouse Gang: How Dizzy Dean, Leo Durocher, Branch Rickey, Pepper Martin, and Their Colorful, Come-from-Behind Ball Club Won the World Series - and America's Heart - During the Great Depression"]	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> news report url --> [u'http://mlb.mlb.com/mlb/ps/y2008/boxscore.jsp?gid=2008_10_27_tbamlb_phimlb_1', u'http://mlb.mlb.com/news/article.jsp?ymd=20081023&content_id=3640727&vkey=ps2008news&fext=.jsp&c_id=mlb&partnerId=rss_mlb', u'http://ca.sports.yahoo.com/mlb/blog/big_league_stew/post/-Elmer-Fudd-caps-become-hip-during-cold-and-wet?urn=mlb,117761']	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> sports championship event championship --> [u'World Series']	16	After his playing career, Manuel coached and managed the [[Cleveland Indians]] and managed the [[Philadelphia Phillies]], winning the [[World Series]] in [[2008 World Series|2008]].
+when's the last time the mets won the world series?	2456	2008 world series --> news report news reporting organisation --> [u'Yahoo! Sports', u'MLB.com']	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> news report date --> [u'2008-10-25', u'2008-10-27']	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> sports championship event season --> [u'2008 Major League Baseball season']	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> news report title --> [u'World Series Game five', u'Selig pleased with Game 1 ratings', u"'Elmer Fudd' caps become hip during cold and wet World Series"]	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> sports championship event result --> [u'4 - 1']	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> object name --> [u'2008 World Series']	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> event locations --> [u'Citizens Bank Park', u'Tropicana Field']	7	Nearly five years later, his son [[Tim McGraw]] took a handful of his dad's ashes and spread them on the [[pitcher's mound]] at the Phillies current home park, [[Citizens Bank Park]], in Game 3 of the [[2008 World Series]].
+when's the last time the mets won the world series?	2456	2008 world series --> sports championship event runner up --> [u'Tampa Bay Rays']	15	Thanks in part to the [[2008 World Series]] between the [[Philadelphia Phillies]] and the [[Tampa Bay Rays]], this episode came in third with a 5.7/9, but at the same time posted its best-since-premiere numbers at the 8PM hour (2.8/8 in 18-49, 8.7 million viewers overall).
+when's the last time the mets won the world series?	2456	2008 world series --> event end date --> [u'2008-10-29']	0	EMPTY
+when's the last time the mets won the world series?	2456	2008 world series --> sports championship event champion --> [u'Philadelphia Phillies']	35	Both teams made it to the playoffs that year, but the Dodgers lost in the NLCS for the second straight year to the [[2008 World Series|defending champion]] [[Philadelphia Phillies]], whom the Dodgers beat in the NLCS in [[1977 National League Championship Series|1977]] and [[1978 National League Championship Series|1978]] before losing to the Yankees in the World Series in both years, who would lose to the Yankees in the [[2009 World Series|World Series]], giving New York their first championship since Torre left as manager.
+when's the last time the mets won the world series?	2456	2008 world series --> event instance of recurring event --> [u'World Series']	16	After his playing career, Manuel coached and managed the [[Cleveland Indians]] and managed the [[Philadelphia Phillies]], winning the [[World Series]] in [[2008 World Series|2008]].
+when's the last time the mets won the world series?	2456	2008 world series --> event start date --> [u'2008-10-22']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position player --> [u'Rob Johnson', u'Vinny Rottino', u'Jason Bay', u'Scott Schoeneweis', u'Ronny Cede\xf1o']	15	* [[Scott Schoeneweis]] (born 1973), a [[relief pitcher]] who played for the [[New York Mets]], among other teams.
+when's the last time the mets won the world series?	2456	new york mets --> team training ground relationship from --> [u'1962', u'1964']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> organization board membership title --> [u'Chair']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> topic social media presence --> [u'http://plus.google.com/111969268508366177113']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> employment tenure title --> [u'Chief Operating Officer', u'President', u'Chief Executive Officer', u'Co-owner']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> organization founders --> [u'Joan Whitney Payson']	4	Their daughter [[Joan Whitney Payson]], an avid sportsperson, was the first owner of the [[New York Mets]] [[Major League Baseball]] team.
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster to --> [u'2013', u'2013-07-05', u'2013-06-18']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> topic alias --> [u'The Metropolitans', u"The Amazin's", u'The Miracle Mets']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball team current manager --> [u'Terry Collins']	4	During the summer following his strong 2009 season, Smyly pitched for the [[Duluth Huskies]] of the [[Northwoods League]] where he played for a brief time under current [[New York Mets]] Manager [[Terry Collins]].
+when's the last time the mets won the world series?	2456	new york mets --> employment tenure to --> [u'2002']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> rival rivals --> [u'Mets\u2013Yankees rivalry']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> current coaching tenure coaching position --> [u'Bench Coach', u'Hitting Coach', u'First Base Coach', u'Pitching Coach', u'Bullpen Catcher Coach']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> team venue relationship to --> [u'2008']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team founded --> [u'1962']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> pro sports played career end --> [u'1969']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster player --> [u'Jeremy Hefner', u'David Wright', u'Frank Francisco', u'Daniel Murphy', u'Brandon Lyon']	14	After [[New York Mets]] reliever [[Frank Francisco]] made comments about the [[New York Yankees]] being "chickens", Francisco's teammate [[Tim Byrdak]] proceeded to buy an actual chicken and act like the Yankees sent it to the Mets clubhouse.
+when's the last time the mets won the world series?	2456	new york mets --> daylife hero image id --> [u'02WHdF8ecEf2l']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball team stats losses --> [u'54', u'58', u'60', u'62', u'64']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	60	|[[Catcher|C]]||[[John Stearns]]||[[New York Mets|Mets]]||3
+when's the last time the mets won the world series?	2456	new york mets --> sports league participation league --> [u'National League', u'Major League Baseball', u'National League East']	368	The Cyclones are a short season Class A [[New York–Penn League]] affiliate of the [[New York Mets]] [[Major League Baseball|professional]] team.
+when's the last time the mets won the world series?	2456	new york mets --> tv guest personal appearance episode --> [u'2000 World Series Game 2', u'2000 World Series Game 1', u'1969 World Series Game 1', u'2000 World Series Game 3', u'2000 World Series Game 4']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical managerial position from --> [u'1984', u'1996', u'2005', u'1977-05']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball team stats season --> [u'2006 Major League Baseball season', u'2007 Major League Baseball season', u'1973 Major League Baseball Season', u'1964 Major League Baseball Season', u'1962 Major League Baseball Season']	2	Additionally, it was the last time a New York team represented the National League until [[1969 World Series|1969]], when the [[New York Mets]] (an expansion team that debuted in [[1962 Major League Baseball season|1962]]) delivered what was arguably the biggest upset in World Series history by defeating the [[Baltimore Orioles]] in five games.
+when's the last time the mets won the world series?	2456	new york mets --> professional sports team owner s --> [u'Fred Wilpon']	7	*[[Fred Wilpon]] ([[New York Mets]] owner)
+when's the last time the mets won the world series?	2456	new york mets --> webpage description --> [u'New York Times', u'Home Page', u'Mets Gifts and Apparel']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> webpage category --> [u'Topic Webpage']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball roster position number --> [u'1', u'2', u'5', u'9', u'11']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> organization board membership from --> [u'2003']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> team training ground relationship facility --> [u'Shea Stadium', u'Polo Grounds']	107	* In protest of losing [[Shea Stadium]] for the newly built [[Citi Field]], two [[New York Mets]] fans Dave Croatto and Ryan Flanders, created "Viva Shea" t-shirts.
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster from --> [u'1966', u'1967', u'1968', u'1972', u'1975']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster player --> [u'Rob Johnson', u'Vinny Rottino', u'Jason Bay', u'Scott Schoeneweis', u'Ronny Cede\xf1o']	15	* [[Scott Schoeneweis]] (born 1973), a [[relief pitcher]] who played for the [[New York Mets]], among other teams.
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position player --> [u'Rob Johnson', u'Vinny Rottino', u'Jason Bay', u'Scott Schoeneweis', u'Ronny Cede\xf1o']	15	* [[Scott Schoeneweis]] (born 1973), a [[relief pitcher]] who played for the [[New York Mets]], among other teams.
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	60	|[[Catcher|C]]||[[John Stearns]]||[[New York Mets|Mets]]||3
+when's the last time the mets won the world series?	2456	new york mets --> team venue relationship venue --> [u'Shea Stadium']	101	* In protest of losing [[Shea Stadium]] for the newly built [[Citi Field]], two [[New York Mets]] fans Dave Croatto and Ryan Flanders, created "Viva Shea" t-shirts.
+when's the last time the mets won the world series?	2456	new york mets --> pro sports played career start --> [u'1967']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> topic official website --> [u'http://www.mets.com/']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team team mascot --> [u'Mr. Met', u'Lady Met']	4	*For their series against the [[San Francisco Giants]] beginning on August 14, the [[New York Mets]] wore cream-colored jerseys featuring an oversized blue "NY" on the front and a [[Mr. Met]] patch on the right sleeve.
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical managerial position to --> [u'1981', u'1990', u'2002', u'2008']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster number --> [u'13', u'16', u'30', u'43', u'6']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> webpage resource --> [u"Paul McCartney plays Citi Field: He's still got it", u'Paul McCartney gives Citi Field a first show for the ages', u'Morning Roundup: Steve Phillips Fired; Ivanka Trump Weds; Morrissey Fans (Slightly) Less Melancholy', u'Mets Gifts and Apparel', u'New York Times']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	60	|[[Catcher|C]]||[[John Stearns]]||[[New York Mets|Mets]]||3
+when's the last time the mets won the world series?	2456	new york mets --> sports team sport --> [u'Baseball']	4	*[[Bill Wakefield]], class of 1959; professional [[Major League Baseball|Major League]] [[Baseball]] [[pitcher]], [[New York Mets]] (1964)
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster number --> [u'2', u'1', u'11', u'13', u'15']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position from --> [u'1967', u'1972', u'1975', u'1979', u'1985']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball team stats wins --> [u'40', u'41', u'50', u'51', u'53']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster to --> [u'1966', u'1967', u'1973', u'1977', u'1979']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports league draft pick player --> [u'Les Rohr', u'Stan Jefferson', u'Lee Mazzilli', u'Terrence Long', u'Paul Wilson']	7	* [[Lee Mazzilli]] (born 1955), class of 1973, 1986 World Champion major league baseball player ([[New York Mets]], [[New York Yankees]]), manager and coach
+when's the last time the mets won the world series?	2456	new york mets --> sports league draft pick draft --> [u'1967 Major League Baseball Draft', u'1978 Major League Baseball Draft', u'1965 Major League Baseball Draft', u'2005 Major League Baseball Draft', u'1984 Major League Baseball Draft']	7	He was selected third overall in the [[1978 Major League Baseball Draft]] by the [[New York Mets]], and went on to play for five different teams over a 15 year career, and was twice named an [[All-Star]].
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster from --> [u'2004', u'2008', u'2010', u'2011', u'2012']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports league draft pick pick overall --> [u'1', u'2', u'3', u'4', u'5']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> current coaching tenure baseball coach --> [u'Sandy Alomar, Jr.', u'Randy Niemann', u'Razor Shines', u'Howard Johnson', u'Sandy Alomar, Sr.']	4	|[[Third baseman|3B]]||[[Howard Johnson (baseball)|Howard Johnson]]||[[New York Mets|Mets]]||1
+when's the last time the mets won the world series?	2456	new york mets --> sports team arena stadium --> [u'Citi Field']	60	The [[New York Sentinels]] originally planned to play their games at [[Citi Field]], the home of baseball's [[New York Mets]]; budget issues prompted the team to play all of its games in other stadiums.
+when's the last time the mets won the world series?	2456	new york mets --> sports team fight song --> [u'Meet the Mets']	3	The [[New York Mets]] theme song, "[[Meet the Mets]]", is on their car radio.
+when's the last time the mets won the world series?	2456	new york mets --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team colors --> [u'Blue', u'Orange']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team championships --> [u'1986 World Series', u'1969 World Series']	47	Additionally, it was the last time a New York team represented the National League until [[1969 World Series|1969]], when the [[New York Mets]] (an expansion team that debuted in [[1962 Major League Baseball season|1962]]) delivered what was arguably the biggest upset in World Series history by defeating the [[Baltimore Orioles]] in five games.
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster from --> [u'1966', u'1967', u'1972', u'1975', u'1979']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> webpage uri --> [u'http://www.team-superstore.com/MLB_New_York_Mets.asp', u'http://www.mets.com', u'http://topics.nytimes.com/top/news/sports/baseball/majorleague/newyorkmets/index.html']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position from --> [u'1967', u'1972', u'1975', u'1979', u'1985']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> employment tenure person --> [u'Jacqueline Honulik', u'Jeff Wilpon', u'Fred Wilpon']	11	*[[Fred Wilpon]] ([[New York Mets]] owner)
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical managerial position manager --> [u'Davey Johnson', u'Joe Torre', u'Bobby Valentine', u'Jerry Manuel']	15	* [[Jerry Manuel]] - [[New York Mets]] manager
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster number --> [u'2', u'1', u'11', u'15', u'19']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> organization board membership member --> [u'Fred Wilpon']	7	*[[Fred Wilpon]] ([[New York Mets]] owner)
+when's the last time the mets won the world series?	2456	new york mets --> topic topical webpage --> [u'http://www.team-superstore.com/MLB_New_York_Mets.asp', u'http://topics.nytimes.com/top/news/sports/baseball/majorleague/newyorkmets/index.html']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster player --> [u'Rob Johnson', u'Vinny Rottino', u'Jason Bay', u'Scott Schoeneweis', u'Jeremy Hefner']	16	* [[Scott Schoeneweis]] (born 1973), a [[relief pitcher]] who played for the [[New York Mets]], among other teams.
+when's the last time the mets won the world series?	2456	new york mets --> sports team location --> [u'New York City']	11	For a story published in the December 27, 1999 issue of ''[[Sports Illustrated]]'', Rocker made a number of allegations stemming from his experiences in [[New York City]] and answering a question about whether he would ever play for the [[New York Yankees]] or the [[New York Mets]].
+when's the last time the mets won the world series?	2456	new york mets --> team venue relationship from --> [u'1964']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball team division --> [u'National League East']	7	Fans attending a nationally televised ''[[Sunday Night Baseball]]'' [[Major League Baseball]] game between two [[National League East]] [[Mets–Phillies rivalry|rival]]s, the [[Philadelphia Phillies]] and the [[New York Mets]], at [[Citizens Bank Park]] in [[Philadelphia]] initiated [[U-S-A!
+when's the last time the mets won the world series?	2456	new york mets --> baseball roster position position --> [u'Third baseman', u'Catcher', u'Pitcher', u'Starting pitcher', u'Second baseman']	56	|[[Catcher|C]]||[[John Stearns]]||[[New York Mets|Mets]]||3
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position to --> [u'1973', u'1977', u'1979', u'1989', u'2000']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball historical roster position to --> [u'1973', u'1977', u'1979', u'1989', u'2000']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball roster position position --> [u'Third baseman', u'Catcher', u'Pitcher', u'Starting pitcher', u'Second baseman']	56	|[[Catcher|C]]||[[John Stearns]]||[[New York Mets|Mets]]||3
+when's the last time the mets won the world series?	2456	new york mets --> team training ground relationship to --> [u'1963', u'2008']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball roster position player --> [u'Jeremy Hefner', u'David Wright', u'Frank Francisco', u'Daniel Murphy', u'Dominic Smith']	13	*[[Dominic Smith (baseball)]], Drafted 11th overall by the [[New York Mets]] in the [[2013 MLB Draft]]
+when's the last time the mets won the world series?	2456	new york mets --> object name --> [u'New York Mets']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi6zpwpEbGdrcN5Y29ycA']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> employment tenure from --> [u'1980']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> baseball team league --> [u'National League']	39	* 1961 - The [[National League]] expansion franchise in [[New York Mets]] name [[George Weiss]] as team president.
+when's the last time the mets won the world series?	2456	new york mets --> film subject films --> [u'Last Play at Shea']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports league draft pick school --> [u'University of Notre Dame', u'Loyola Marymount University', u'Florida State University', u'Wichita State University', u'George Washington University']	1	Proctor was drafted in the 17th round of the [[1995 Major League Baseball draft]] by the [[New York Mets]] out of [[Martin County High School]], but decided to attend [[Florida State University]], where he played for the [[Florida State Seminoles baseball]] team under head coach [[Mike Martin (baseball coach)|Mike Martin]].
+when's the last time the mets won the world series?	2456	new york mets --> baseball roster position player --> [u'Jeremy Hefner', u'David Wright', u'Frank Francisco', u'Daniel Murphy', u'Brandon Lyon']	14	After [[New York Mets]] reliever [[Frank Francisco]] made comments about the [[New York Yankees]] being "chickens", Francisco's teammate [[Tim Byrdak]] proceeded to buy an actual chicken and act like the Yankees sent it to the Mets clubhouse.
+when's the last time the mets won the world series?	2456	new york mets --> baseball roster position number --> [u'1', u'2', u'5', u'9', u'11']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> topic image --> [u'Mets home run apple']	0	EMPTY
+when's the last time the mets won the world series?	2456	new york mets --> sports team roster to --> [u'1966', u'1967', u'1969', u'1971', u'1973']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> album genre --> [u'Latin pop', u'Bachata', u'Tropical']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> object name --> [u'The Last']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> album artist --> [u'Aventura']	5	|align="center" |'''''[[The Last (album)|The Last]]''''' - [[Aventura (band)|Aventura]]
+when's the last time the mets won the world series?	2456	the last --> album album content type --> [u'Studio album']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> album release date --> [u'2009-06-09']	0	EMPTY
+when's the last time the mets won the world series?	2456	the world --> object name --> [u'The World']	0	EMPTY
+when's the last time the mets won the world series?	2456	the world --> topic image --> [u'Mohammad nabil rais- The world Islands', u'Dubaiworld']	0	EMPTY
+when's the last time the mets won the world series?	2456	the world --> geocode latitude --> [u'25.2167']	0	EMPTY
+when's the last time the mets won the world series?	2456	the world --> geocode longitude --> [u'55.1667']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvhnlz5wpEbGdrcN5Y29ycA']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> current area record event --> [u"Men's Athletics, 100m", u"Men's Athletics, 400m", u"Men's Triple jump"]	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> current area record mark --> [u'43.18', u'9.69', u'18.29 m']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> current area record country --> [u'Jamaica', u'United Kingdom', u'United States of America']	3	:I found the following numbers by counting the languages listed and adding 1 for English: [[United States]] 219; [[Wikipedia]] 214; [[English language]] 208; [[Bible]] 182; [[Earth]] 176; [[Internet]] 157; [[Computer]] 156; [[Google]] 106; [[Water]] 99; [[World]] 61.
+when's the last time the mets won the world series?	2456	world --> topic alias --> [u'Worldwide']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> object id --> [u'/en/world']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> object name --> [u'World']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> topic image --> [u'The Earth seen from Apollo 17', u'The Garden of Earthly Delights by Bosch High Resolution']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> current area record record holder --> [u'Michael Johnson', u'Jonathan Edwards', u'Usain Bolt']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> location area --> [u'149000000']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> organization scope organizations with this scope --> [u'League of Nations', u'Apache Software Foundation', u'Crown Partners', u'carman communications', u'Maximise']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> athletics area championships --> [u'IAAF World Championships in Athletics']	0	EMPTY
+when's the last time the mets won the world series?	2456	world --> current area record date --> [u'2008-08-16']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> object name --> [u'The Last']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> event entity involved --> [u'Robert Jenkinson, 2nd Earl of Liverpool', u'United Kingdom', u'William Henry Harrison', u'Choctaw', u'Potawatomi']	89	* November 3 &ndash; The [[Treaty of St. Louis (1804)]] is signed by [[Quashquame]] and [[William Henry Harrison]]; controversy surrounding the treaty eventually causes the [[Sauk people|Sauk]]s to ally with the British during the [[War of 1812]] and is the main cause of the [[Black Hawk War]] of 1832.
+when's the last time the mets won the world series?	2456	war of 1812 --> military conflict military personnel involved --> [u'Charles S. Boggs', u'Cadwalader Ringgold', u'Washington Duke', u'Stephen Decatur Trenchard', u'Sir George Cockburn, 10th Baronet']	4	His ancestral family included [[Sir George Cockburn, 10th Baronet]], who was responsible for [[Burning of Washington|burning down Washington]] in the [[War of 1812]].
+when's the last time the mets won the world series?	2456	war of 1812 --> taxonomy entry high --> [u'364.9']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> military command military combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands']	158	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when's the last time the mets won the world series?	2456	war of 1812 --> taxonomy entry prefix --> [u'E']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> historical event mention book --> [u'The Fortune of War']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead', u'Civilian - Dead']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> event event type --> [u'Military Conflict']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> event locations --> [u'North America', u'Pacific Ocean', u'Atlantic Ocean', u'Chesapeake Bay', u'Gulf Coast of the United States']	22	This representation depicts the moment that inspired the poem "[[Defence of Fort McHenry]]" which he wrote after witnessing the bombardment of [[Fort McHenry]] by the British Royal Navy ships in [[Chesapeake Bay]] during the [[Battle of Fort McHenry]] in the [[War of 1812]].
+when's the last time the mets won the world series?	2456	war of 1812 --> casualties combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands', u'British North America']	170	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when's the last time the mets won the world series?	2456	war of 1812 --> casualties lower estimate --> [u'500', u'1600', u'2260', u'3679', u'4505']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> event included in event --> [u'Napoleonic Wars']	81	Sir '''Salusbury Pryce Humphreys'''  (24 November 1778 – 17 November 1845), later called '''Salusbury Pryce Davenport''', was an officer of the [[Royal Navy]] who saw service during the [[French Revolutionary Wars|French Revolutionary]] and [[Napoleonic Wars]] and the [[War of 1812]], rising to the rank of [[Rear Admiral (Royal Navy)|rear-admiral]].
+when's the last time the mets won the world series?	2456	war of 1812 --> event end date --> [u'1815-03-23']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> event start date --> [u'1812-06-18']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> taxonomy entry low --> [u'351']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> motivated event motive --> [u'Origins of the War of 1812']	4	[[Origins of the War of 1812|This was one of the major factors]] leading to the [[War of 1812]] in North America.
+when's the last time the mets won the world series?	2456	war of 1812 --> event includes event --> [u"Second Battle of Sacket's Harbor", u'Battle of Fort Oswego', u"Battle of Crysler's Farm", u'Action off Charles Island', u'Battle of Longwoods']	21	Delaware was the objective of an [[United States|American]] raid into [[Upper Canada]] in 1814 during the [[War of 1812]], which resulted in the [[Battle of Longwoods]], on March 4, 1814, just about 24&nbsp;km outside of Delaware.
+when's the last time the mets won the world series?	2456	war of 1812 --> object name --> [u'War of 1812']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> topic image --> [u'War of 1812', u'Push on, brave York volunteers', u'US Capitol 1814c']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> military combatant group combatants --> [u'United Kingdom', u'United States of America', u'Wyandot people', u'Cherokee', u'Iroquois']	163	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when's the last time the mets won the world series?	2456	war of 1812 --> film subject films --> [u'The Buccaneer']	0	EMPTY
+when's the last time the mets won the world series?	2456	war of 1812 --> military command military commander --> [u'James Madison', u'Roger Hale Sheaffe', u'Winfield Scott', u'George Pr\xe9vost', u'Isaac Brock']	75	This is believed to have been only the second time in American history that a sitting president came under enemy fire during a war (the first being President [[James Madison]] during the [[War of 1812]]).
+when's the last time the mets won the world series?	2456	war of 1812 --> book subject works --> [u'The War of 1812', u'The Captain from Connecticut', u'Bright Captivity', u'The Fortune of War', u'Once on this island']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> artist active start --> [u'1976']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> artist track --> [u'So Quick to Say', u'I Saw Your Eyes', u'Another Side', u'Going Gone', u'And They Laugh']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> artist label --> [u'SST Records', u'BOMP Records']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> artist origin --> [u'Los Angeles']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> artist genre --> [u'Power pop', u'Rock music']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> group membership start --> [u'1976']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> webpage category --> [u'Official Website']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> group membership member --> [u'Bill Stevenson', u'Karl Alvarez', u'Dave Harbison', u'David Nolte', u'Dave Naz']	1	Brandenburg and Rikk and Frank Agnew joined other Southern California punk musicians including Bruce Duff (of [[45 Grave]], Twisted Roots, Sister Goddamn, and several [[Jeff Dahl]] projects), [[Jonny Wickersham]], and Warner Young for ''Pinups'', an album of cover versions of punk rock songs from the 1970s and early 1980s on which Soto sang backing vocals alongside [[Dave Naz]] (of the [[Chemical People]], [[Down by Law (band)|Down by Law]], and [[The Last (band)|the Last]]) and Rik L. Rik (of F-Word!
+when's the last time the mets won the world series?	2456	the last --> artist album --> [u'Confession', u'Awakening', u'She Don\u2019t Know Why I\u2019m Here', u'L.A. Explosion', u'Painting Smiles on a Dead Man']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> object name --> [u'The Last']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> group membership end --> [u'1985']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> topic alias --> [u'Last', u'Last, The']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> topic official website --> [u'http://www.laexplosion.com/']	0	EMPTY
+when's the last time the mets won the world series?	2456	the last --> webpage uri --> [u'http://www.laexplosion.com/']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> topic social media presence --> [u'http://plus.google.com/110038350445855508357', u'http://twitter.com/TIME']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> employment tenure title --> [u'Managing Director', u'Columnist', u'White House Correspondent', u'Corporate Financial analyst', u'Editor-at-large']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> dated integer year --> [u'2007']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> topic alias --> [u'Time Asia', u'Time Europe', u'Time Magazine']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> webpage uri --> [u'http://www.time.com/']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> employment tenure to --> [u'1933', u'1991', u'2008-12']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> contents work --> [u'The Thriving Cult of Greed and Power', u'Remember Venus?', u'Scientology: Parry and Thrust']	7	...that ''[[Time (magazine)|TIME]]'' magazine's [[Gerald Loeb Award]]-winning article "[[The Thriving Cult of Greed and Power]]" highlights the [[suicide]] of '''[[Noah Lottick]]'''?
+when's the last time the mets won the world series?	2456	time --> daylife hero image id --> [u'0gZH6gc1YZ4cL']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> periodical publication date date --> [u'1923-03-03']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> arabic language media source city --> [u'London']	4	*Dylan's extended taunting of ''[[Time (magazine)|Time Magazine]]'''s [[London]] arts and science correspondent [[Horace Freeland Judson]] who was subjected to what he believes to be a contrived tirade of abuse from Dylan.
+when's the last time the mets won the world series?	2456	time --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> magazine issues --> [u'Time Magazine, Aug 23, 1999', u'Time Magazine, Apr 10, 2000', u'Time Magazine, Nov 23, 1970']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> software developer software --> [u'TIME Mobile']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> periodical issn --> [u'0040-781X']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> topic official website --> [u'http://www.time.com/']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> webpage description --> [u'Time']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> editorial tenure editor --> [u'Adi Ignatius']	1	In 2009, HBR brought on [[Adi Ignatius]], the former deputy managing editor of [[Time (magazine)|Time magazine]], to be its [[editor-in-chief]].
+when's the last time the mets won the world series?	2456	time --> webpage resource --> [u'Aguilera music used to torture -- officially', u'HBO plans film on 2008 election', u'What electronic gadgets are on your holiday wish list?', u'Obama Joker Poster: Why So Serious?', u"'Saturday Night Live' offers whiff of Glenn Beck"]	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> periodical publisher period publisher --> [u'Time Inc.']	4	*Publisher for [[Entertainment Weekly]] and [[Time (magazine)]] is [[Time Inc.]]
+when's the last time the mets won the world series?	2456	time --> periodical frequency frequency --> [u'Weekly']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> periodical subjects --> [u'News']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> place of publication period place of publication --> [u'England', u'United States of America', u'Australia', u'Canada', u'New Zealand']	17	'''James Geary''' (born 1962) is an [[United States|American]]-born writer, former [[Europe]] editor of ''[[Time (magazine)|Time]]'' and deputy curator of the [[Nieman Foundation for Journalism]] at [[Harvard]].
+when's the last time the mets won the world series?	2456	time --> news report url --> [u'http://www.time.com/time/magazine/article/0,9171,807400,00.html', u'http://cbs2chicago.com/topstories/local_story_045223206.html', u'http://www.time.com/time/asia/asia/magazine/1999/990823/india_pakistan1.html', u'http://www.time.com/time/magazine/article/0,9171,902933,00.html', u'http://www.time.com/time/magazine/article/0,9171,939307,00.html']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> quotation source quotations --> [u'""I thought we were coming for""', u'""I thought we were coming in..']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> news report event --> [u'Battle of Mogadishu', u'Lewinsky scandal', u'El Al Flight 402', u'United States Senate election in New York, 2000', u'Operation Janbaz']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> ranked list compiler ranked lists --> [u'Time magazine\'s ""All-TIME"" 100 best novels', u'Time 100', u'Time 100: The Most Important People of the Century', u'Time Magazine Ten Biggest Tech Failures of the Last Decade', u"Time Magazine's All-Time 100 Movies"]	128	His performance in the groundbreaking role earned him a spot on the 2011 [[Time 100]], [[Time (magazine)|''Time'']]'s 2011 list of the 100 most influential people in the world.
+when's the last time the mets won the world series?	2456	time --> employment tenure person --> [u'Sanjay Gupta', u'John Dickerson', u'Jake Winebaum', u'Jay Carney', u'Robert Hughes']	6	The anchors on the premiere telecast of ''20/20'' were renowned ''[[Esquire (magazine)|Esquire]]'' magazine editor [[Harold Hayes]], who also served as the program's senior producer, and famed ''[[Time (magazine)|Time]]'' art critic [[Robert Hughes (critic)|Robert Hughes]].
+when's the last time the mets won the world series?	2456	time --> dated integer number --> [u'3400000']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> periodical eissn --> [u'1767509']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> periodical language --> [u'English Language']	2	''A Clockwork Orange'' was chosen by ''[[Time (magazine)|Time]]'' magazine as one of the 100 best [[English language|English-language]] books from 1923 to 2005.
+when's the last time the mets won the world series?	2456	time --> magazine genre --> [u'News magazine']	1	On 10 September 2007, Indonesia's Supreme Court awarded Suharto [[damages]] against ''[[Time (magazine)|Time Asia]]'' [[News magazine|magazine]], ordering it to pay him one trillion [[Indonesian rupiah|rupiah]] ($128.59 million).
+when's the last time the mets won the world series?	2456	time --> object name --> [u'Time']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> employment tenure from --> [u'1969', u'1970', u'1978', u'1986', u'2005-09']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> editorial tenure title --> [u'Deputy Managing Editor']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> arabic language media source country --> [u'United Kingdom']	1	After receiving mixed initial reviews (and criticism due to its violent content), it went on to garner a high critical reputation and is now regarded among the [[Films considered the greatest ever|greatest films ever made]], including by [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'', [[Gene Siskel]] of the ''[[Chicago Tribune]]'', [[United Kingdom|British]] film historian [[Leslie Halliwell]], the [[American Film Institute]], ''[[Time (magazine)|Time]]'', ''[[The New York Times]]'', ''[[Variety (magazine)|Variety]]'', ''[[Entertainment Weekly]]'', ''[[Empire (magazine)|Empire]]'', ''[[Total Film]]'', ''[[Film 4]]'', and [[British Film Institute|BFI]]'s ''[[Sight and Sound]].''
+when's the last time the mets won the world series?	2456	time --> news report title --> [u'Capitol Hill', u'Through the Curtain', u'Why Pakistan Must Widen Its Hunt for Militant Bases', u'Anatomy of a Disaster', u"Can't Stop the Madness"]	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> news report date --> [u'1961-11-17', u'2000-11-20', u'2006-02-27', u'2009-10-13', u'1955-08-08']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> webpage resource --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViAw5wpEbGdrcN5Y29ycA']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> taxonomy entry low --> [u'209']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> topic topical webpage --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> processed with review queue question id --> [u'/rabj/store/questions/question_b27d0d5a61642c39']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> equivalent topic equivalent domain --> [u'Time']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> taxonomy entry high --> [u'224']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> webpage category --> [u'Topic Webpage']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> object name --> [u'Time']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> topic image --> [u'Wooden hourglass 3', u'A savonette-type pocket watch', u'C solarcorona2003']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> dimension instruments --> [u'Clock', u'Cuckoo clock', u'Water clock']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> dimension si base unit --> [u'Second']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> book subject musical compositions about this topic --> [u'Time']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> vocabulary equivalent topic equivalent concept --> [u'Time']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> dimension units --> [u'Month', u'petasecond', u'decisecond', u'Second', u'picosecond']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> webpage description --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> taxonomy entry prefix --> [u'QB']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> book subject works --> [u'Being in time', u'The Garden of Time', u'Prisoner of Time', u'Faster: The Acceleration of Just About Everything', u'De revolutionibus orbium coelestium']	0	EMPTY
+when's the last time the mets won the world series?	2456	time --> webpage uri --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0	EMPTY
+when's the last time the mets won the world series?	2456	mets --> object name --> [u'METS']	0	EMPTY
+when's the last time the mets won the world series?	2456	mets --> topic image --> [u'PARTSangles']	0	EMPTY

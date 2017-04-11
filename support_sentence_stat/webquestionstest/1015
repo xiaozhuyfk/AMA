@@ -1,50 +1,50 @@
-what county is texarkana arkansas in?	278	texarkana --> dated float number --> [u'0.0456']	0
-what county is texarkana arkansas in?	278	texarkana --> topic alias --> [u'Miller County / Texarkana city', u'Texarkana, Arkansas']	0
-what county is texarkana arkansas in?	278	texarkana --> dated float date --> [u'2008']	0
-what county is texarkana arkansas in?	278	texarkana --> location area --> [u'107.87']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is texarkana arkansas in?	278	texarkana --> dated float number --> [u'0']	0
-what county is texarkana arkansas in?	278	texarkana --> location people born here --> [u'BJ Davis', u'Shelley Dowdy', u'June Larue White', u'Max Sandlin', u'Don Rogers']	0
-what county is texarkana arkansas in?	278	texarkana --> geocode latitude --> [u'33.4817']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0
-what county is texarkana arkansas in?	278	texarkana --> citytown postal codes --> [u'71854']	0
-what county is texarkana arkansas in?	278	texarkana --> object name --> [u'Texarkana']	0
-what county is texarkana arkansas in?	278	texarkana --> webpage category --> [u'Topic Webpage']	0
-what county is texarkana arkansas in?	278	texarkana --> dated float date --> [u'2008']	0
-what county is texarkana arkansas in?	278	texarkana --> location containedby --> [u'United States of America', u'Arkansas', u'Miller County']	31
-what county is texarkana arkansas in?	278	texarkana --> location time zones --> [u'Central Time Zone']	0
-what county is texarkana arkansas in?	278	texarkana --> topic official website --> [u'http://www.txkusa.org/']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'552']	0
-what county is texarkana arkansas in?	278	texarkana --> hud county place place --> [u'Texarkana']	222
-what county is texarkana arkansas in?	278	texarkana --> location contains --> [u'Texarkana Union Station', u'Orr School', u'Genoa Central School District', u'Kittrell House', u'Fat Jacks Oyster & Sports Bar']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'10688']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Census Bureau, Population']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0
-what county is texarkana arkansas in?	278	texarkana --> geocode longitude --> [u'-93.9639']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'23307', u'23327', u'23345', u'23489', u'23634']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0
-what county is texarkana arkansas in?	278	texarkana --> hud county place county --> [u'Miller County']	11
-what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is texarkana arkansas in?	278	texarkana --> administrative division capital relationship administrative division --> [u'Miller County']	11
-what county is texarkana arkansas in?	278	texarkana --> webpage uri --> [u'http://www.txkusa.org/']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'4121']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'149']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is texarkana arkansas in?	278	texarkana --> topic image --> [u'State Line Avenue', u'Texarkana stateline', u'Location of Texarkana, Arkansas']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'13209']	0
-what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-what county is texarkana arkansas in?	278	texarkana --> geocode datum --> [u'NAD83']	0
-what county is texarkana arkansas in?	278	texarkana --> book subject works --> [u'Grave Secret']	0
-what county is texarkana arkansas in?	278	texarkana --> location nearby airports --> [u'Texarkana Regional Airport']	3
-what county is texarkana arkansas in?	278	powiat --> object name --> [u'Powiat']	0
-what county is texarkana arkansas in?	278	powiat --> topic image --> [u'Map of Polish counties', u'POLSKA mapa powiaty2']	0
-what county is texarkana arkansas in?	278	county --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what county is texarkana arkansas in?	278	county --> webpage resource --> [u"Nirvana's Krist Novoselic running for office", u"Farrah Fawcett's son Redmond O'Neal heads to rehab"]	0
-what county is texarkana arkansas in?	278	county --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjkmJwpEbGdrcN5Y29ycA']	0
-what county is texarkana arkansas in?	278	county --> object name --> [u'County']	0
-what county is texarkana arkansas in?	278	county --> topic image --> [u'Censusdivisions', u'Iran counties', u'China County-level']	0
-what county is texarkana arkansas in?	278	county --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what county is texarkana arkansas in?	278	texarkana --> dated float number --> [u'0.0456']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> topic alias --> [u'Miller County / Texarkana city', u'Texarkana, Arkansas']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated float date --> [u'2008']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> location area --> [u'107.87']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated float number --> [u'0']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> location people born here --> [u'BJ Davis', u'Shelley Dowdy', u'June Larue White', u'Max Sandlin', u'Don Rogers']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> geocode latitude --> [u'33.4817']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> citytown postal codes --> [u'71854']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> object name --> [u'Texarkana']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> webpage category --> [u'Topic Webpage']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated float date --> [u'2008']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> location containedby --> [u'United States of America', u'Arkansas', u'Miller County']	31	|align=left| [[Texarkana, Arkansas]], [[United States]]
+what county is texarkana arkansas in?	278	texarkana --> location time zones --> [u'Central Time Zone']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> topic official website --> [u'http://www.txkusa.org/']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'552']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> hud county place place --> [u'Texarkana']	222	|align=left| [[Texarkana, Arkansas]], [[United States]]
+what county is texarkana arkansas in?	278	texarkana --> location contains --> [u'Texarkana Union Station', u'Orr School', u'Genoa Central School District', u'Kittrell House', u'Fat Jacks Oyster & Sports Bar']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'10688']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> geocode longitude --> [u'-93.9639']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'23307', u'23327', u'23345', u'23489', u'23634']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> hud county place county --> [u'Miller County']	11	|birth_place  = [[Texarkana, Arkansas|Texarkana]], [[Miller County, Arkansas|Miller County]], [[Arkansas]], [[United States|U.S.]]
+what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> administrative division capital relationship administrative division --> [u'Miller County']	11	|birth_place  = [[Texarkana, Arkansas|Texarkana]], [[Miller County, Arkansas|Miller County]], [[Arkansas]], [[United States|U.S.]]
+what county is texarkana arkansas in?	278	texarkana --> webpage uri --> [u'http://www.txkusa.org/']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'4121']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'2008']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'149']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> topic image --> [u'State Line Avenue', u'Texarkana stateline', u'Location of Texarkana, Arkansas']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer number --> [u'13209']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> geocode datum --> [u'NAD83']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> book subject works --> [u'Grave Secret']	0	EMPTY
+what county is texarkana arkansas in?	278	texarkana --> location nearby airports --> [u'Texarkana Regional Airport']	3	| TXK || KTXK || [[Texarkana Regional Airport]] (Webb Field) || [[Texarkana, Arkansas|Texarkana]], [[Arkansas]], United States
+what county is texarkana arkansas in?	278	powiat --> object name --> [u'Powiat']	0	EMPTY
+what county is texarkana arkansas in?	278	powiat --> topic image --> [u'Map of Polish counties', u'POLSKA mapa powiaty2']	0	EMPTY
+what county is texarkana arkansas in?	278	county --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what county is texarkana arkansas in?	278	county --> webpage resource --> [u"Nirvana's Krist Novoselic running for office", u"Farrah Fawcett's son Redmond O'Neal heads to rehab"]	0	EMPTY
+what county is texarkana arkansas in?	278	county --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjkmJwpEbGdrcN5Y29ycA']	0	EMPTY
+what county is texarkana arkansas in?	278	county --> object name --> [u'County']	0	EMPTY
+what county is texarkana arkansas in?	278	county --> topic image --> [u'Censusdivisions', u'Iran counties', u'China County-level']	0	EMPTY
+what county is texarkana arkansas in?	278	county --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY

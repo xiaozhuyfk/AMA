@@ -1,35 +1,35 @@
-where is olympic national park wa?	46	olympic national park --> location contains --> [u'Olympic Mountains', u'Hurricane Ridge', u'Mount Olympus', u'Mount Deception', u'Hoh Rainforest']	17
-where is olympic national park wa?	46	olympic national park --> us national park classification --> [u'National Park']	0
-where is olympic national park wa?	46	olympic national park --> dated integer year --> [u'2007']	0
-where is olympic national park wa?	46	olympic national park --> location area --> [u'3734']	0
-where is olympic national park wa?	46	olympic national park --> protected site iucn category --> [u'National park']	0
-where is olympic national park wa?	46	olympic national park --> webpage category --> [u'Topic Webpage']	0
-where is olympic national park wa?	46	olympic national park --> location containedby --> [u'Washington', u'Jefferson County']	12
-where is olympic national park wa?	46	olympic national park --> topic official website --> [u'http://www.nps.gov/olym/index.htm']	0
-where is olympic national park wa?	46	olympic national park --> webpage description --> [u'Olympic National Park Overview', u'Olympic National Park', u'Olympic National Park Maps', u'Olympic National Park Attractions', u'Olympic National Park Restaurants']	0
-where is olympic national park wa?	46	olympic national park --> geocode longitude --> [u'-123.498333333']	0
-where is olympic national park wa?	46	olympic national park --> webpage resource --> [u'Olympic National Park Restaurants', u'Olympic National Park Attractions', u'Olympic National Park Overview', u'Olympic National Park', u'Olympic National Park Maps']	0
-where is olympic national park wa?	46	olympic national park --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0
-where is olympic national park wa?	46	olympic national park --> protected site date established --> [u'1938-06-29']	0
-where is olympic national park wa?	46	olympic national park --> tourist attraction near travel destination --> [u'Port Angeles']	8
-where is olympic national park wa?	46	olympic national park --> protected site governing body --> [u'U.S. National Park Service']	1
-where is olympic national park wa?	46	olympic national park --> geocode latitude --> [u'47.9694444444']	0
-where is olympic national park wa?	46	olympic national park --> webpage uri --> [u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/restaurants.html', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/attractions.html', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/overview.html', u'http://www.nps.gov/olym/index.htm', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/maps.html']	0
-where is olympic national park wa?	46	olympic national park --> topic topical webpage --> [u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/overview.html', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/maps.html', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/hotels.html']	0
-where is olympic national park wa?	46	olympic national park --> us national park state --> [u'Washington']	8
-where is olympic national park wa?	46	olympic national park --> us national park closest airports --> [u'Seattle\u2013Tacoma International Airport']	0
-where is olympic national park wa?	46	olympic national park --> object name --> [u'Olympic National Park']	0
-where is olympic national park wa?	46	olympic national park --> topic image --> [u'A beach in the coastal section of the park.']	0
-where is olympic national park wa?	46	olympic national park --> dated integer number --> [u'2749197']	0
-where is olympic national park wa?	46	parkwa --> local name locale --> [u'Cameroon']	0
-where is olympic national park wa?	46	parkwa --> object name --> [u'Parkwa']	0
-where is olympic national park wa?	46	parkwa --> local name languoid --> [u'Parkwa Language']	0
-where is olympic national park wa?	46	national park --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where is olympic national park wa?	46	national park --> webpage resource --> [u"The best fall show you don't know you're going to love: Ken Burns' 'National Parks: America's Best Idea'", u'Gavin DeGraw on Perfoming in Central Park, Wanting to Dine with Smokey the Bear and Jesus', u"Anyone watching Ken Burns' 'National Parks,' the most beautiful show on TV?"]	0
-where is olympic national park wa?	46	national park --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQwoLJwpEbGdrcN5Y29ycA']	0
-where is olympic national park wa?	46	national park --> vocabulary equivalent topic broader concept --> [u'Protected areas']	0
-where is olympic national park wa?	46	national park --> iucn category protected areas --> [u'Wrangell \u2013 Saint Elias Wilderness', u'Waterberg National Park', u'Bavarian Forest National Park', u"J\u014dshin'etsu-k\u014dgen National Park", u'Bandipur National Park']	0
-where is olympic national park wa?	46	national park --> topic alias --> [u'II: National Park']	0
-where is olympic national park wa?	46	national park --> object name --> [u'National park']	0
-where is olympic national park wa?	46	national park --> topic image --> [u'Brecon beacons arp', u'Consolation-Lake-Szmurlo', u'Yosemite Valley, Yosemite National Park, California, USA.']	0
-where is olympic national park wa?	46	national park --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+where is olympic national park wa?	46	olympic national park --> location contains --> [u'Olympic Mountains', u'Hurricane Ridge', u'Mount Olympus', u'Mount Deception', u'Hoh Rainforest']	17	'''White Glacier''' is located to the northeast of [[Mount Tom (Washington)|Mount Tom]] in the [[Olympic Mountains]] and [[Olympic National Park]] in the [[U.S. state]] of [[Washington (state)|Washington]].
+where is olympic national park wa?	46	olympic national park --> us national park classification --> [u'National Park']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> dated integer year --> [u'2007']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> location area --> [u'3734']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> protected site iucn category --> [u'National park']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> webpage category --> [u'Topic Webpage']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> location containedby --> [u'Washington', u'Jefferson County']	12	'''Kalaloch'''  is an [[unincorporated area|unincorporated resort area]] entirely within [[Olympic National Park]] in western [[Jefferson County, Washington|Jefferson County]], [[Washington (U.S. state)|Washington]], [[United States]].
+where is olympic national park wa?	46	olympic national park --> topic official website --> [u'http://www.nps.gov/olym/index.htm']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> webpage description --> [u'Olympic National Park Overview', u'Olympic National Park', u'Olympic National Park Maps', u'Olympic National Park Attractions', u'Olympic National Park Restaurants']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> geocode longitude --> [u'-123.498333333']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> webpage resource --> [u'Olympic National Park Restaurants', u'Olympic National Park Attractions', u'Olympic National Park Overview', u'Olympic National Park', u'Olympic National Park Maps']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> protected site date established --> [u'1938-06-29']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> tourist attraction near travel destination --> [u'Port Angeles']	8	'''Lake Crescent''' is a deep [[lake]] located entirely within [[Olympic National Park]] in [[Clallam County, Washington]], [[United States of America|United States]], approximately  west of [[Port Angeles, Washington]] on [[U.S. Route 101 in Washington|U.S.
+where is olympic national park wa?	46	olympic national park --> protected site governing body --> [u'U.S. National Park Service']	1	The 22 mile long Hoko-Ozette Road, accessed via [[Washington State Route 112]], terminates at the [[National Park Service|NPS]] ''Lake Ozette Ranger Station'', within the coastal strip of [[Olympic National Park]].
+where is olympic national park wa?	46	olympic national park --> geocode latitude --> [u'47.9694444444']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> webpage uri --> [u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/restaurants.html', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/attractions.html', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/overview.html', u'http://www.nps.gov/olym/index.htm', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/maps.html']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> topic topical webpage --> [u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/overview.html', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/maps.html', u'http://travel.nytimes.com/travel/guides/north-america/united-states/washington/olympic-national-park/hotels.html']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> us national park state --> [u'Washington']	8	'''White Glacier''' is located to the northeast of [[Mount Tom (Washington)|Mount Tom]] in the [[Olympic Mountains]] and [[Olympic National Park]] in the [[U.S. state]] of [[Washington (state)|Washington]].
+where is olympic national park wa?	46	olympic national park --> us national park closest airports --> [u'Seattle\u2013Tacoma International Airport']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> object name --> [u'Olympic National Park']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> topic image --> [u'A beach in the coastal section of the park.']	0	EMPTY
+where is olympic national park wa?	46	olympic national park --> dated integer number --> [u'2749197']	0	EMPTY
+where is olympic national park wa?	46	parkwa --> local name locale --> [u'Cameroon']	0	EMPTY
+where is olympic national park wa?	46	parkwa --> object name --> [u'Parkwa']	0	EMPTY
+where is olympic national park wa?	46	parkwa --> local name languoid --> [u'Parkwa Language']	0	EMPTY
+where is olympic national park wa?	46	national park --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where is olympic national park wa?	46	national park --> webpage resource --> [u"The best fall show you don't know you're going to love: Ken Burns' 'National Parks: America's Best Idea'", u'Gavin DeGraw on Perfoming in Central Park, Wanting to Dine with Smokey the Bear and Jesus', u"Anyone watching Ken Burns' 'National Parks,' the most beautiful show on TV?"]	0	EMPTY
+where is olympic national park wa?	46	national park --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQwoLJwpEbGdrcN5Y29ycA']	0	EMPTY
+where is olympic national park wa?	46	national park --> vocabulary equivalent topic broader concept --> [u'Protected areas']	0	EMPTY
+where is olympic national park wa?	46	national park --> iucn category protected areas --> [u'Wrangell \u2013 Saint Elias Wilderness', u'Waterberg National Park', u'Bavarian Forest National Park', u"J\u014dshin'etsu-k\u014dgen National Park", u'Bandipur National Park']	0	EMPTY
+where is olympic national park wa?	46	national park --> topic alias --> [u'II: National Park']	0	EMPTY
+where is olympic national park wa?	46	national park --> object name --> [u'National park']	0	EMPTY
+where is olympic national park wa?	46	national park --> topic image --> [u'Brecon beacons arp', u'Consolation-Lake-Szmurlo', u'Yosemite Valley, Yosemite National Park, California, USA.']	0	EMPTY
+where is olympic national park wa?	46	national park --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY

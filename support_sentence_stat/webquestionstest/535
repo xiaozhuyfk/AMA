@@ -1,34 +1,34 @@
-when does jewish new year start?	21	rosh hashanah --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when does jewish new year start?	21	rosh hashanah --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rGgJ7EhRIEdeHvwADR6QijQ']	0
-when does jewish new year start?	21	rosh hashanah --> holiday featured in religions --> [u'Judaism']	8
-when does jewish new year start?	21	rosh hashanah --> holiday holiday period --> [u'High Holy Days']	4
-when does jewish new year start?	21	rosh hashanah --> art subject artwork on the subject --> [u'Feast of Trumpets']	0
-when does jewish new year start?	21	rosh hashanah --> topic alias --> [u'Rosh Hashana', u'Jewish New Year']	0
-when does jewish new year start?	21	rosh hashanah --> holiday type of holiday --> [u'Jewish holidays']	9
-when does jewish new year start?	21	rosh hashanah --> object name --> [u'Rosh Hashanah']	0
-when does jewish new year start?	21	rosh hashanah --> topic image --> [u'a shofar', u'Rosh Hashanah']	0
-when does jewish new year start?	21	rosh hashanah --> holiday period holidays --> [u'Erev Rosh Hashanah']	0
-when does jewish new year start?	21	new year --> webpage resource --> [u'Andrew Lloyd Webber back in hospital with infection', u'The Best Music of 2007: An early handicapping', u"Brittany Murphy's mom denies daughter did drugs", u'Jon & Kate Gosselin officially divorced', u'Will DGA finally begin negotiations with AMPTP?']	0
-when does jewish new year start?	21	new year --> celebration subject event --> [u'Ugadi']	0
-when does jewish new year start?	21	new year --> object name --> [u'New Year']	0
-when does jewish new year start?	21	new year --> topic image --> [u"New Year's Eve", u'London fireworks', u'OperaSydney-Fuegos2006-342289398']	0
-when does jewish new year start?	21	new year --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when does jewish new year start?	21	new year --> quotation subject quotations about this subject --> [u"The only way to spend New Year's Eve is either quietly with friends or in a brothel. Otherwise when the evening ends and people pair off, someone is bound to be left in tears.", u'Each age has deemed the new-born year the fittest time for festal cheer.', u"Every New Year is the direct descendant, isn't it, of a long line of proven criminals?"]	0
-when does jewish new year start?	21	new year --> book subject works --> [u'A Deadly Game: The Untold Story of the Scott Peterson Investigation']	0
-when does jewish new year start?	21	year --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when does jewish new year start?	21	year --> unit profile abbreviations --> [u'cal. yr.', u'yr']	0
-when does jewish new year start?	21	year --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjyV5wpEbGdrcN5Y29ycA']	0
-when does jewish new year start?	21	year --> time unit time in seconds --> [u'31536000']	0
-when does jewish new year start?	21	year --> unit profile abbreviation --> [u'yr.']	0
-when does jewish new year start?	21	year --> topic alias --> [u'Calendar year']	0
-when does jewish new year start?	21	year --> measurement system frequency units --> [u'Biannual']	0
-when does jewish new year start?	21	year --> object name --> [u'Year']	0
-when does jewish new year start?	21	year --> unit profile dimension --> [u'Time']	0
-when does jewish new year start?	21	year --> vocabulary equivalent topic equivalent concept --> [u'Year']	0
-when does jewish new year start?	21	year --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when does jewish new year start?	21	year --> webpage resource --> [u'Cruisenfreude: Did Tom really bomb?', u'VMAs score biggest audience in five years', u"'Ugly Betty' premiered to just 5 million viewers", u"Katherine Heigl will stick with 'Grey's' if they'll have her", u"NYC's popular tax credit program to be renewed"]	0
-when does jewish new year start?	21	year --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViv65wpEbGdrcN5Y29ycA']	0
-when does jewish new year start?	21	year --> object name --> [u'Year']	0
-when does jewish new year start?	21	year --> film genre --> [u'Comedy-drama', u'Family Drama']	0
-when does jewish new year start?	21	year --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-when does jewish new year start?	21	year --> performance actor --> [u'Amitabh Bachchan']	0
+when does jewish new year start?	21	rosh hashanah --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when does jewish new year start?	21	rosh hashanah --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rGgJ7EhRIEdeHvwADR6QijQ']	0	EMPTY
+when does jewish new year start?	21	rosh hashanah --> holiday featured in religions --> [u'Judaism']	8	This date also happened to coincide with the first day of the [[Judaism|Jewish]] holiday of [[Rosh Hashanah]], and Google was immediately criticized by some groups for this decision due to the fact that Dahl was anti-[[Israel]].
+when does jewish new year start?	21	rosh hashanah --> holiday holiday period --> [u'High Holy Days']	4	:This term is most often encountered as referring to prayer books for the [[High Holy Days]], [[Rosh Hashanah]] and [[Yom Kippur]].
+when does jewish new year start?	21	rosh hashanah --> art subject artwork on the subject --> [u'Feast of Trumpets']	0	EMPTY
+when does jewish new year start?	21	rosh hashanah --> topic alias --> [u'Rosh Hashana', u'Jewish New Year']	0	EMPTY
+when does jewish new year start?	21	rosh hashanah --> holiday type of holiday --> [u'Jewish holidays']	9	The text contains the most important rules concerning the calendar year, together with a description of the inauguration of the months, laws on the form and use of the [[shofar]] and laws related to the religious services during the [[Jewish holidays|Jewish holiday]] of [[Rosh Hashanah]].
+when does jewish new year start?	21	rosh hashanah --> object name --> [u'Rosh Hashanah']	0	EMPTY
+when does jewish new year start?	21	rosh hashanah --> topic image --> [u'a shofar', u'Rosh Hashanah']	0	EMPTY
+when does jewish new year start?	21	rosh hashanah --> holiday period holidays --> [u'Erev Rosh Hashanah']	0	EMPTY
+when does jewish new year start?	21	new year --> webpage resource --> [u'Andrew Lloyd Webber back in hospital with infection', u'The Best Music of 2007: An early handicapping', u"Brittany Murphy's mom denies daughter did drugs", u'Jon & Kate Gosselin officially divorced', u'Will DGA finally begin negotiations with AMPTP?']	0	EMPTY
+when does jewish new year start?	21	new year --> celebration subject event --> [u'Ugadi']	0	EMPTY
+when does jewish new year start?	21	new year --> object name --> [u'New Year']	0	EMPTY
+when does jewish new year start?	21	new year --> topic image --> [u"New Year's Eve", u'London fireworks', u'OperaSydney-Fuegos2006-342289398']	0	EMPTY
+when does jewish new year start?	21	new year --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when does jewish new year start?	21	new year --> quotation subject quotations about this subject --> [u"The only way to spend New Year's Eve is either quietly with friends or in a brothel. Otherwise when the evening ends and people pair off, someone is bound to be left in tears.", u'Each age has deemed the new-born year the fittest time for festal cheer.', u"Every New Year is the direct descendant, isn't it, of a long line of proven criminals?"]	0	EMPTY
+when does jewish new year start?	21	new year --> book subject works --> [u'A Deadly Game: The Untold Story of the Scott Peterson Investigation']	0	EMPTY
+when does jewish new year start?	21	year --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when does jewish new year start?	21	year --> unit profile abbreviations --> [u'cal. yr.', u'yr']	0	EMPTY
+when does jewish new year start?	21	year --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjyV5wpEbGdrcN5Y29ycA']	0	EMPTY
+when does jewish new year start?	21	year --> time unit time in seconds --> [u'31536000']	0	EMPTY
+when does jewish new year start?	21	year --> unit profile abbreviation --> [u'yr.']	0	EMPTY
+when does jewish new year start?	21	year --> topic alias --> [u'Calendar year']	0	EMPTY
+when does jewish new year start?	21	year --> measurement system frequency units --> [u'Biannual']	0	EMPTY
+when does jewish new year start?	21	year --> object name --> [u'Year']	0	EMPTY
+when does jewish new year start?	21	year --> unit profile dimension --> [u'Time']	0	EMPTY
+when does jewish new year start?	21	year --> vocabulary equivalent topic equivalent concept --> [u'Year']	0	EMPTY
+when does jewish new year start?	21	year --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when does jewish new year start?	21	year --> webpage resource --> [u'Cruisenfreude: Did Tom really bomb?', u'VMAs score biggest audience in five years', u"'Ugly Betty' premiered to just 5 million viewers", u"Katherine Heigl will stick with 'Grey's' if they'll have her", u"NYC's popular tax credit program to be renewed"]	0	EMPTY
+when does jewish new year start?	21	year --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViv65wpEbGdrcN5Y29ycA']	0	EMPTY
+when does jewish new year start?	21	year --> object name --> [u'Year']	0	EMPTY
+when does jewish new year start?	21	year --> film genre --> [u'Comedy-drama', u'Family Drama']	0	EMPTY
+when does jewish new year start?	21	year --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+when does jewish new year start?	21	year --> performance actor --> [u'Amitabh Bachchan']	0	EMPTY

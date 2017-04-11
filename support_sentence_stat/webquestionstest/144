@@ -1,15 +1,15 @@
-what happened at benghazi?	522	benghazi --> location people born here --> [u'Ahmed Saad Osman', u'Ahmed al Tawerghi', u'Yahya Alabdallah', u'Hamid El Shaeri', u'Anwar Fituri']	0
-what happened at benghazi?	522	benghazi --> administrative area administrative area type --> [u'Libyan district']	0
-what happened at benghazi?	522	benghazi --> geocode latitude --> [u'32.1166666667']	0
-what happened at benghazi?	522	benghazi --> location events --> [u'2012 U.S. diplomatic missions attacks', u'First Battle of Benghazi', u'Second Battle of Benghazi', u'2012 U.S. Consulate attack in Benghazi']	2
-what happened at benghazi?	522	benghazi --> location contains --> [u'Suluq', u'Al-Arab Medical University', u'Garyounis University', u'University of Libya', u'Libyan International Medical University']	4
-what happened at benghazi?	522	benghazi --> topic alias --> [u'Baladiyat Banghazi', u'Baladiyat Binghazi', u'Baladiyat Bingh\u0101z\u012b', u'Balad\u012byat Bangh\u0101z\u012b', u'Bangh\u0101z']	0
-what happened at benghazi?	522	benghazi --> object name --> [u'Benghazi']	0
-what happened at benghazi?	522	benghazi --> topic image --> [u'Downtown by 23rd july lake', u'Buildings in the city centre.', u'Sunrise over the July 23rd Lake in downtown Benghazi']	0
-what happened at benghazi?	522	benghazi --> dated integer number --> [u'1470987']	0
-what happened at benghazi?	522	benghazi --> travel destination tourist attractions --> [u'Nine Muses', u'House of Jason Magnus', u'Temple of Apollo', u'Stoa of Hermes']	0
-what happened at benghazi?	522	benghazi --> location containedby --> [u'Africa', u'Libya']	165
-what happened at benghazi?	522	benghazi --> administrative division country --> [u'Libya']	164
-what happened at benghazi?	522	benghazi --> geocode longitude --> [u'20.0666666667']	0
-what happened at benghazi?	522	benghazi --> administrative area administrative parent --> [u'Libya']	164
-what happened at benghazi?	522	benghazi --> location nearby airports --> [u'Benina International Airport']	23
+what happened at benghazi?	522	benghazi --> location people born here --> [u'Ahmed Saad Osman', u'Ahmed al Tawerghi', u'Yahya Alabdallah', u'Hamid El Shaeri', u'Anwar Fituri']	0	EMPTY
+what happened at benghazi?	522	benghazi --> administrative area administrative area type --> [u'Libyan district']	0	EMPTY
+what happened at benghazi?	522	benghazi --> geocode latitude --> [u'32.1166666667']	0	EMPTY
+what happened at benghazi?	522	benghazi --> location events --> [u'2012 U.S. diplomatic missions attacks', u'First Battle of Benghazi', u'Second Battle of Benghazi', u'2012 U.S. Consulate attack in Benghazi']	2	* [[2011 in aviation|2011]] – [[French Air Force]] aircraft make the first attacks of the [[2011 military intervention in Libya|military intervention in Libya]], striking Libyan government [[armored vehicle]]s south of [[Benghazi]] during the [[Second Battle of Benghazi]].
+what happened at benghazi?	522	benghazi --> location contains --> [u'Suluq', u'Al-Arab Medical University', u'Garyounis University', u'University of Libya', u'Libyan International Medical University']	4	In 2009, [[Libyan International Medical University]] of [[Benghazi]], [[Libya]] started using PBL for all of its medical programmes.
+what happened at benghazi?	522	benghazi --> topic alias --> [u'Baladiyat Banghazi', u'Baladiyat Binghazi', u'Baladiyat Bingh\u0101z\u012b', u'Balad\u012byat Bangh\u0101z\u012b', u'Bangh\u0101z']	0	EMPTY
+what happened at benghazi?	522	benghazi --> object name --> [u'Benghazi']	0	EMPTY
+what happened at benghazi?	522	benghazi --> topic image --> [u'Downtown by 23rd july lake', u'Buildings in the city centre.', u'Sunrise over the July 23rd Lake in downtown Benghazi']	0	EMPTY
+what happened at benghazi?	522	benghazi --> dated integer number --> [u'1470987']	0	EMPTY
+what happened at benghazi?	522	benghazi --> travel destination tourist attractions --> [u'Nine Muses', u'House of Jason Magnus', u'Temple of Apollo', u'Stoa of Hermes']	0	EMPTY
+what happened at benghazi?	522	benghazi --> location containedby --> [u'Africa', u'Libya']	165	The plan was to destroy the harbour and storage facilities at [[Benghazi]] and raid the airfield at [[Benina]] in [[Libya]] in coordination with the RAF.
+what happened at benghazi?	522	benghazi --> administrative division country --> [u'Libya']	164	The plan was to destroy the harbour and storage facilities at [[Benghazi]] and raid the airfield at [[Benina]] in [[Libya]] in coordination with the RAF.
+what happened at benghazi?	522	benghazi --> geocode longitude --> [u'20.0666666667']	0	EMPTY
+what happened at benghazi?	522	benghazi --> administrative area administrative parent --> [u'Libya']	164	The plan was to destroy the harbour and storage facilities at [[Benghazi]] and raid the airfield at [[Benina]] in [[Libya]] in coordination with the RAF.
+what happened at benghazi?	522	benghazi --> location nearby airports --> [u'Benina International Airport']	23	[[Benina International Airport]] in [[Benghazi]] serves as a secondary base.

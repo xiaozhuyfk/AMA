@@ -1,59 +1,59 @@
-where was the assyrian homeland?	33	assyrian homeland --> object name --> [u'Assyrian homeland']	0
-where was the assyrian homeland?	33	assyrian homeland --> topic image --> [u'Assyrianadministartedareasuggestion2005', u'Assyrian state proposed during World War I']	0
-where was the assyrian homeland?	33	the assyrian --> film directed by --> [u'Rosie Malek-Yonan']	0
-where was the assyrian homeland?	33	the assyrian --> object name --> [u'The Assyrian']	0
-where was the assyrian homeland?	33	the assyrian --> performance special performance type --> [u'Him/Herself']	0
-where was the assyrian homeland?	33	the assyrian --> film genre --> [u'Documentary']	0
-where was the assyrian homeland?	33	the assyrian --> performance actor --> [u'Rosie Malek-Yonan']	0
-where was the assyrian homeland?	33	the assyrian --> cataloged instance isbn --> [u'9780689118746']	0
-where was the assyrian homeland?	33	the assyrian --> book edition book --> [u'The Assyrian']	0
-where was the assyrian homeland?	33	the assyrian --> object name --> [u'The Assyrian']	0
-where was the assyrian homeland?	33	the assyrian --> book edition isbn --> [u'9780689118746']	0
-where was the assyrian homeland?	33	the assyrian --> book edition isbn --> [u'0689118740']	0
-where was the assyrian homeland?	33	the assyrian --> cataloged instance opac wisc --> [u'1203469']	0
-where was the assyrian homeland?	33	the assyrian --> book genre --> [u'Historical novel']	0
-where was the assyrian homeland?	33	the assyrian --> written work author --> [u'Nicholas Guild']	0
-where was the assyrian homeland?	33	the assyrian --> written work date of first publication --> [u'1987-08']	0
-where was the assyrian homeland?	33	the assyrian --> object name --> [u'The Assyrian']	0
-where was the assyrian homeland?	33	the assyrian --> written work original language --> [u'English Language']	0
-where was the assyrian homeland?	33	the assyrian --> book editions --> [u'The Assyrian']	0
-where was the assyrian homeland?	33	the assyrian --> object name --> [u'The Assyrian']	0
-where was the assyrian homeland?	33	the assyrian --> webpage uri --> [u'http://TheAssyrian.com.au/']	0
-where was the assyrian homeland?	33	homeland --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where was the assyrian homeland?	33	homeland --> object name --> [u'Homeland']	0
-where was the assyrian homeland?	33	homeland --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4r90wMSi_8QdiXrMffpqvBkw']	0
-where was the assyrian homeland?	33	homeland --> topic image --> [u'Home defence square Ajaccio Paris']	0
-where was the assyrian homeland?	33	bantustan --> object name --> [u'Bantustan']	0
-where was the assyrian homeland?	33	bantustan --> topic image --> [u'Map of the black homelands in South Africa as of 1986', u'South Africa racial map, 1979']	0
-where was the assyrian homeland?	33	bantustan --> form of government countries --> [u'Lebowa', u'Namaland', u'Transkei', u'Ciskei', u'QwaQwa']	21
-where was the assyrian homeland?	33	homeland --> dated float number --> [u'0.0826']	0
-where was the assyrian homeland?	33	homeland --> topic alias --> [u'Homeland, California', u'Riverside County / Homeland CDP']	0
-where was the assyrian homeland?	33	homeland --> dated float date --> [u'2008']	0
-where was the assyrian homeland?	33	homeland --> location area --> [u'8.54696076411']	0
-where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where was the assyrian homeland?	33	homeland --> dated float number --> [u'-0.2295']	0
-where was the assyrian homeland?	33	homeland --> geocode latitude --> [u'33.7431']	0
-where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0
-where was the assyrian homeland?	33	homeland --> object name --> [u'Homeland']	0
-where was the assyrian homeland?	33	homeland --> dated float date --> [u'2008']	0
-where was the assyrian homeland?	33	homeland --> location containedby --> [u'California', u'United States of America', u'Riverside County']	1
-where was the assyrian homeland?	33	homeland --> location time zones --> [u'Pacific Time Zone']	0
-where was the assyrian homeland?	33	homeland --> geocode longitude --> [u'-117.1083']	0
-where was the assyrian homeland?	33	homeland --> hud county place place --> [u'Homeland']	10
-where was the assyrian homeland?	33	homeland --> dated integer number --> [u'1471']	0
-where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0
-where was the assyrian homeland?	33	homeland --> dated integer number --> [u'1563']	0
-where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0
-where was the assyrian homeland?	33	homeland --> dated integer number --> [u'3710']	0
-where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0
-where was the assyrian homeland?	33	homeland --> hud county place county --> [u'Riverside County']	1
-where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where was the assyrian homeland?	33	homeland --> dated integer number --> [u'450']	0
-where was the assyrian homeland?	33	homeland --> dated integer number --> [u'54']	0
-where was the assyrian homeland?	33	homeland --> dated integer number --> [u'40']	0
-where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-where was the assyrian homeland?	33	homeland --> topic image --> [u'Location of Homeland, California']	0
-where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0
-where was the assyrian homeland?	33	homeland --> geocode datum --> [u'NAD83']	0
+where was the assyrian homeland?	33	assyrian homeland --> object name --> [u'Assyrian homeland']	0	EMPTY
+where was the assyrian homeland?	33	assyrian homeland --> topic image --> [u'Assyrianadministartedareasuggestion2005', u'Assyrian state proposed during World War I']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> film directed by --> [u'Rosie Malek-Yonan']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> object name --> [u'The Assyrian']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> performance special performance type --> [u'Him/Herself']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> film genre --> [u'Documentary']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> performance actor --> [u'Rosie Malek-Yonan']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> cataloged instance isbn --> [u'9780689118746']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> book edition book --> [u'The Assyrian']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> object name --> [u'The Assyrian']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> book edition isbn --> [u'9780689118746']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> book edition isbn --> [u'0689118740']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> cataloged instance opac wisc --> [u'1203469']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> book genre --> [u'Historical novel']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> written work author --> [u'Nicholas Guild']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> written work date of first publication --> [u'1987-08']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> object name --> [u'The Assyrian']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> written work original language --> [u'English Language']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> book editions --> [u'The Assyrian']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> object name --> [u'The Assyrian']	0	EMPTY
+where was the assyrian homeland?	33	the assyrian --> webpage uri --> [u'http://TheAssyrian.com.au/']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> object name --> [u'Homeland']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4r90wMSi_8QdiXrMffpqvBkw']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> topic image --> [u'Home defence square Ajaccio Paris']	0	EMPTY
+where was the assyrian homeland?	33	bantustan --> object name --> [u'Bantustan']	0	EMPTY
+where was the assyrian homeland?	33	bantustan --> topic image --> [u'Map of the black homelands in South Africa as of 1986', u'South Africa racial map, 1979']	0	EMPTY
+where was the assyrian homeland?	33	bantustan --> form of government countries --> [u'Lebowa', u'Namaland', u'Transkei', u'Ciskei', u'QwaQwa']	21	On 7 September 1992, about 80,000 protesters from the ANC gathered outside Bisho in the [[Bantustan]] of [[Ciskei]] in [[South Africa]] to demand the resignation of Ciskei leader Oupa Gqozo and the reincorporation of Ciskei into South Africa.
+where was the assyrian homeland?	33	homeland --> dated float number --> [u'0.0826']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> topic alias --> [u'Homeland, California', u'Riverside County / Homeland CDP']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated float date --> [u'2008']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> location area --> [u'8.54696076411']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated float number --> [u'-0.2295']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> geocode latitude --> [u'33.7431']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> object name --> [u'Homeland']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated float date --> [u'2008']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> location containedby --> [u'California', u'United States of America', u'Riverside County']	1	| [[Homeland, California|Homeland]] || [[Riverside County, California|Riverside]] || 5,921 || 1,386.7 || $16,804 || $36,516 || $44,667
+where was the assyrian homeland?	33	homeland --> location time zones --> [u'Pacific Time Zone']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> geocode longitude --> [u'-117.1083']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> hud county place place --> [u'Homeland']	10	|[[Homeland, California|Homeland]]
+where was the assyrian homeland?	33	homeland --> dated integer number --> [u'1471']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer number --> [u'1563']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer number --> [u'3710']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> hud county place county --> [u'Riverside County']	1	| [[Homeland, California|Homeland]] || [[Riverside County, California|Riverside]] || 5,921 || 1,386.7 || $16,804 || $36,516 || $44,667
+where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer number --> [u'450']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer number --> [u'54']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer number --> [u'40']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> topic image --> [u'Location of Homeland, California']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> dated integer year --> [u'2008']	0	EMPTY
+where was the assyrian homeland?	33	homeland --> geocode datum --> [u'NAD83']	0	EMPTY

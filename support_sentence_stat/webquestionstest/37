@@ -1,28 +1,28 @@
-who do pagans worship?	7	worship --> object name --> [u'Worship?']	0
-who do pagans worship?	7	worship --> object name --> [u'Worship?']	0
-who do pagans worship?	7	paganism --> ontology instance mapping ontology --> [u'OpenCyc']	0
-who do pagans worship?	7	paganism --> religion branched from --> [u'Polytheism']	2
-who do pagans worship?	7	paganism --> religion branched into --> [u'Modern paganism']	0
-who do pagans worship?	7	paganism --> religion practices --> [u'Astrology']	0
-who do pagans worship?	7	paganism --> religion deities --> [u'Odin']	2
-who do pagans worship?	7	paganism --> object name --> [u'Paganism']	0
-who do pagans worship?	7	paganism --> topic image --> [u'Cernunnos.gif', u'Perchten4', u'Mayan priests dancing around fire']	0
-who do pagans worship?	7	paganism --> book subject works --> [u'Explorers in Hell', u'Lawyers in Hell']	0
-who do pagans worship?	7	paganism --> film subject films --> [u'American Mystic']	0
-who do pagans worship?	7	paganism --> religion includes --> [u'Mythology']	2
-who do pagans worship?	7	paganism --> religion holidays --> [u'Solstice', u'Equinox']	0
-who do pagans worship?	7	paganism --> religion sacred sites --> [u'Stonehenge']	1
-who do pagans worship?	7	paganism --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwSe1EJwpEbGdrcN5Y29ycA']	0
-who do pagans worship?	7	paganism --> place of worship historical use place of worship --> [u'Temple Mount']	0
-who do pagans worship?	7	worship --> ontology instance mapping ontology --> [u'OpenCyc']	0
-who do pagans worship?	7	worship --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-who do pagans worship?	7	worship --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwO0RdJwpEbGdrcN5Y29ycA']	0
-who do pagans worship?	7	worship --> taxonomy entry low --> [u'5']	0
-who do pagans worship?	7	worship --> book subject musical compositions about this topic --> [u'Breathe On Me']	0
-who do pagans worship?	7	worship --> topic alias --> [u'Religious service']	0
-who do pagans worship?	7	worship --> object name --> [u'Worship']	0
-who do pagans worship?	7	worship --> topic image --> [u'Diwalipuja', u'Religion-Pearce-Highsmith-detail-1']	0
-who do pagans worship?	7	worship --> taxonomy entry high --> [u'530']	0
-who do pagans worship?	7	worship --> quotation subject quotations about this subject --> [u'I daresay anything can be made holy by being sincerely worshipped.', u'If we are to experience true worship, our love for God has to supersede our love of anyone and anything else.', u'Whatsoever is thine, is Mine.  And you, arrogant servant, best not forget it.  For I am always with thee, wheresoever thou art.  Have faith in Me, rely on Me, and only Me, in the battles yet to come.  Forever and ever.', u'""Life was a gift from heaven.  How you lived it was your worship. What you learned was your catechism. What you taught was your ritual. What you took was your blessing.  What you gave was your sacrifice.""', u'It is only when men begin to worship that they begin to grow.']	0
-who do pagans worship?	7	worship --> taxonomy entry prefix --> [u'BV']	0
-who do pagans worship?	7	worship --> book subject works --> [u'Temptations of Jesus', u'The mood of Christmas', u'Expressions', u'The Holy Thursday revolution', u'Filling Words with Light']	0
+who do pagans worship?	7	worship --> object name --> [u'Worship?']	0	EMPTY
+who do pagans worship?	7	worship --> object name --> [u'Worship?']	0	EMPTY
+who do pagans worship?	7	paganism --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+who do pagans worship?	7	paganism --> religion branched from --> [u'Polytheism']	2	Based on [[Quran]]ic verses and Islamic traditions, classical sharia distinguishes between Muslims, followers of other [[Abrahamic religions]], and [[Paganism|pagans]] or people belonging to other [[Polytheism|polytheistic]] religions.
+who do pagans worship?	7	paganism --> religion branched into --> [u'Modern paganism']	0	EMPTY
+who do pagans worship?	7	paganism --> religion practices --> [u'Astrology']	0	EMPTY
+who do pagans worship?	7	paganism --> religion deities --> [u'Odin']	2	*'''[[Valknut|Three intersecting triangles]] (left jaw):''' Known as a ''valknut'' or ''volknut'', symbolizes the [[afterlife]] and binding of the [[soul]] to [[Odin]], who is considered chief among the [[List of Germanic deities|Norse gods]], among non-racist [[Paganism|Pagans]].
+who do pagans worship?	7	paganism --> object name --> [u'Paganism']	0	EMPTY
+who do pagans worship?	7	paganism --> topic image --> [u'Cernunnos.gif', u'Perchten4', u'Mayan priests dancing around fire']	0	EMPTY
+who do pagans worship?	7	paganism --> book subject works --> [u'Explorers in Hell', u'Lawyers in Hell']	0	EMPTY
+who do pagans worship?	7	paganism --> film subject films --> [u'American Mystic']	0	EMPTY
+who do pagans worship?	7	paganism --> religion includes --> [u'Mythology']	2	Ittenbach was exceedingly religious and persistently declined any commissions for [[Mythology|mythological]] or [[Paganism|pagan]] subjects.
+who do pagans worship?	7	paganism --> religion holidays --> [u'Solstice', u'Equinox']	0	EMPTY
+who do pagans worship?	7	paganism --> religion sacred sites --> [u'Stonehenge']	1	:Becoming a place of [[pilgrimage]] for neo-druids and other [[Paganism|pagans]], the [[Ancient Order of Druids]] organised the first recorded [[Polytheistic reconstructionism|reconstructionist]] ceremony in [[Stonehenge]].
+who do pagans worship?	7	paganism --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwSe1EJwpEbGdrcN5Y29ycA']	0	EMPTY
+who do pagans worship?	7	paganism --> place of worship historical use place of worship --> [u'Temple Mount']	0	EMPTY
+who do pagans worship?	7	worship --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+who do pagans worship?	7	worship --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+who do pagans worship?	7	worship --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwO0RdJwpEbGdrcN5Y29ycA']	0	EMPTY
+who do pagans worship?	7	worship --> taxonomy entry low --> [u'5']	0	EMPTY
+who do pagans worship?	7	worship --> book subject musical compositions about this topic --> [u'Breathe On Me']	0	EMPTY
+who do pagans worship?	7	worship --> topic alias --> [u'Religious service']	0	EMPTY
+who do pagans worship?	7	worship --> object name --> [u'Worship']	0	EMPTY
+who do pagans worship?	7	worship --> topic image --> [u'Diwalipuja', u'Religion-Pearce-Highsmith-detail-1']	0	EMPTY
+who do pagans worship?	7	worship --> taxonomy entry high --> [u'530']	0	EMPTY
+who do pagans worship?	7	worship --> quotation subject quotations about this subject --> [u'I daresay anything can be made holy by being sincerely worshipped.', u'If we are to experience true worship, our love for God has to supersede our love of anyone and anything else.', u'Whatsoever is thine, is Mine.  And you, arrogant servant, best not forget it.  For I am always with thee, wheresoever thou art.  Have faith in Me, rely on Me, and only Me, in the battles yet to come.  Forever and ever.', u'""Life was a gift from heaven.  How you lived it was your worship. What you learned was your catechism. What you taught was your ritual. What you took was your blessing.  What you gave was your sacrifice.""', u'It is only when men begin to worship that they begin to grow.']	0	EMPTY
+who do pagans worship?	7	worship --> taxonomy entry prefix --> [u'BV']	0	EMPTY
+who do pagans worship?	7	worship --> book subject works --> [u'Temptations of Jesus', u'The mood of Christmas', u'Expressions', u'The Holy Thursday revolution', u'Filling Words with Light']	0	EMPTY

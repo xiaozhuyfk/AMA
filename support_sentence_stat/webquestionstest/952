@@ -1,12 +1,12 @@
-when does the wsop main event start?	16	world series of poker --> recurring event date of first occurance --> [u'1970']	0
-when does the wsop main event start?	16	world series of poker --> webpage category --> [u'Official Website', u'Tag']	0
-when does the wsop main event start?	16	world series of poker --> object name --> [u'World Series of Poker']	0
-when does the wsop main event start?	16	world series of poker --> topic official website --> [u'http://www.wsop.com/']	0
-when does the wsop main event start?	16	world series of poker --> recurring event instances --> [u'1988 World Series of Poker', u'1976 World Series of Poker', u'1972 World Series of Poker', u'2007 World Series of Poker', u'2008 World Series of Poker']	16
-when does the wsop main event start?	16	world series of poker --> book subject works --> [u'Moneymaker: How an Amateur Poker Player Turned $40 into $2.5 Million at the World Series of Poker']	0
-when does the wsop main event start?	16	world series of poker --> webpage uri --> [u'http://www.wsop.com/', u'http://www.wsop.com']	0
-when does the wsop main event start?	16	card --> object name --> [u'Card']	0
-when does the wsop main event start?	16	main event --> topic official website --> [u'http://www.mainevent.com.au/']	0
-when does the wsop main event start?	16	main event --> object name --> [u'Main Event']	0
-when does the wsop main event start?	16	main event --> webpage category --> [u'Official Website']	0
-when does the wsop main event start?	16	main event --> webpage uri --> [u'http://www.mainevent.com.au/']	0
+when does the wsop main event start?	16	world series of poker --> recurring event date of first occurance --> [u'1970']	0	EMPTY
+when does the wsop main event start?	16	world series of poker --> webpage category --> [u'Official Website', u'Tag']	0	EMPTY
+when does the wsop main event start?	16	world series of poker --> object name --> [u'World Series of Poker']	0	EMPTY
+when does the wsop main event start?	16	world series of poker --> topic official website --> [u'http://www.wsop.com/']	0	EMPTY
+when does the wsop main event start?	16	world series of poker --> recurring event instances --> [u'1988 World Series of Poker', u'1976 World Series of Poker', u'1972 World Series of Poker', u'2007 World Series of Poker', u'2008 World Series of Poker']	16	McKinney, who won the [[2005 World Series of Poker]] $1,000 Seniors No Limit Hold'em event (an event that is open to players who are at least aged 50), became the second-oldest person to win a WSOP event (80; [[Johnny Moss]] won the [[1988 World Series of Poker]] $1,500 Ace to Five Draw event on his 81st birthday), on his bio sheet for the [[World Series of Poker]] he listed his hobbies as "[[moonshine]], [[cigars]] and young [[women]].".
+when does the wsop main event start?	16	world series of poker --> book subject works --> [u'Moneymaker: How an Amateur Poker Player Turned $40 into $2.5 Million at the World Series of Poker']	0	EMPTY
+when does the wsop main event start?	16	world series of poker --> webpage uri --> [u'http://www.wsop.com/', u'http://www.wsop.com']	0	EMPTY
+when does the wsop main event start?	16	card --> object name --> [u'Card']	0	EMPTY
+when does the wsop main event start?	16	main event --> topic official website --> [u'http://www.mainevent.com.au/']	0	EMPTY
+when does the wsop main event start?	16	main event --> object name --> [u'Main Event']	0	EMPTY
+when does the wsop main event start?	16	main event --> webpage category --> [u'Official Website']	0	EMPTY
+when does the wsop main event start?	16	main event --> webpage uri --> [u'http://www.mainevent.com.au/']	0	EMPTY

@@ -1,87 +1,87 @@
-where do kfc get their chicken from?	54	kfc --> phone number service location --> [u'United Kingdom', u'United States of America', u'Canada']	1
-where do kfc get their chicken from?	54	kfc --> restaurant cuisine --> [u'Southern United States food', u'American food', u'Pizza', u'Ice cream', u'Hamburger']	0
-where do kfc get their chicken from?	54	kfc --> topic social media presence --> [u'http://plus.google.com/118265609736930449444']	0
-where do kfc get their chicken from?	54	kfc --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where do kfc get their chicken from?	54	kfc --> employment tenure title --> [u'President', u'Chief Financial Officer', u'Senior Vice President and Chief Financial Officer', u'Senior Vice President of Marketing', u'Senior Vice President, Marketing & Operations Development']	0
-where do kfc get their chicken from?	54	kfc --> organization relationship parent --> [u'Yum! Brands']	0
-where do kfc get their chicken from?	54	kfc --> mailing address citytown --> [u'Louisville', u'Wilmington']	0
-where do kfc get their chicken from?	54	kfc --> leadership from --> [u'2011-02']	0
-where do kfc get their chicken from?	54	kfc --> topic alias --> [u'Kentucky Fried Chicken', u'KFC Corp']	0
-where do kfc get their chicken from?	54	kfc --> employment tenure to --> [u'1996']	0
-where do kfc get their chicken from?	54	kfc --> organization board membership title --> [u'Chair']	0
-where do kfc get their chicken from?	54	kfc --> organization date founded --> [u'1930']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox contact category --> [u'Customer service']	0
-where do kfc get their chicken from?	54	kfc --> organization relationship as of date --> [u'2006', u'2007', u'2008', u'2009']	0
-where do kfc get their chicken from?	54	kfc --> webpage uri --> [u'http://nashville.citysearch.com/E/V/NASTN/0001/08/75/cs1.html', u'http://nashville.citysearch.com/E/V/NASTN/0005/53/75/cs1.html', u'http://austin.citysearch.com/E/V/AUSTX/0001/10/88/cs1.html', u'http://www.accessarizona.com/auto_docs/dining/6609.html', u'http://austin.citysearch.com/E/V/AUSTX/0003/22/57/cs1.html']	0
-where do kfc get their chicken from?	54	kfc --> dated integer year --> [u'2007']	0
-where do kfc get their chicken from?	54	kfc --> organization founders --> [u'Colonel Sanders']	22
-where do kfc get their chicken from?	54	kfc --> object name --> [u'KFC']	0
-where do kfc get their chicken from?	54	kfc --> webpage category --> [u'Topic Webpage']	0
-where do kfc get their chicken from?	54	kfc --> mailing address postal code --> [u'19801', u'40213']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox service location --> [u'United States of America']	1
-where do kfc get their chicken from?	54	kfc --> business operation industry --> [u'Restaurant', u'Fast food']	0
-where do kfc get their chicken from?	54	kfc --> employment tenure from --> [u'1995']	0
-where do kfc get their chicken from?	54	kfc --> topic official website --> [u'http://www.kfc.com']	0
-where do kfc get their chicken from?	54	kfc --> business location in shopping center --> [u'Gold Plaza']	0
-where do kfc get their chicken from?	54	kfc --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where do kfc get their chicken from?	54	kfc --> webpage resource --> [u"Oprah's KFC free-for-all sparks civil rights era-style protest. Wonderful.", u'KFC to mail out rain checks for Oprah chicken freebie']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox description --> [u'Customer Satisfaction Numbers', u'Questions Concerning KFC Gift Check Ordering']	0
-where do kfc get their chicken from?	54	kfc --> leadership title --> [u'President and Chief Concept Officer']	0
-where do kfc get their chicken from?	54	kfc --> leadership to --> [u'2011-11']	0
-where do kfc get their chicken from?	54	kfc --> mailing address state province region --> [u'Kentucky', u'Delaware']	1
-where do kfc get their chicken from?	54	kfc --> phone number category --> [u'Customer service']	0
-where do kfc get their chicken from?	54	kfc --> dated integer number --> [u'24000']	0
-where do kfc get their chicken from?	54	kfc --> organization locations --> [u'KFC, Prien Lake Mall', u'KFC, Southern Hills Mall, Sioux City, IA', u'KFC, Plaza Carolina, Puerto Rico', u'KFC, La Plaza Mall', u'KFC, Lake Square Mall']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox number --> [u'(800) 225-5532', u'(800) 544-5774']	0
-where do kfc get their chicken from?	54	kfc --> phone number country code --> [u'1', u'44']	0
-where do kfc get their chicken from?	54	kfc --> leadership person --> [u'Roger Eaton']	0
-where do kfc get their chicken from?	54	kfc --> product advertising characters --> [u'Colonel Sanders']	22
-where do kfc get their chicken from?	54	kfc --> webpage uri --> [u'http://www.kfc.com/', u'http://clients.mapquest.com/kfc/mqlocator?screen=find&link=results&linktype=results&smap=map&width=380&height=250&iconid=31&country=&searchtype=origin&sqlcol1=name&sqlcnd1=%3D&sqlval1=Kentucky+Fried+Chicken&sqlcmb1=or&sqlcol2=multibrand&sqlcnd2=contains&sqlval2=K&queryIconCol=icon_id&queryUseOrigin=1&queryCenterOrigin=1&queryMax=3&queryRadius=999&zip=77706&x=47&y=19']	0
-where do kfc get their chicken from?	54	kfc --> employment tenure person --> [u'Michael A. Miles', u'Andrew J. Kaslow', u'Aylwin B. Lewis', u'Dave Thomas', u'Fredric G Reynolds']	0
-where do kfc get their chicken from?	54	kfc --> organization extra contact webpage --> [u'http://www.kfc.com/about/contact.asp']	0
-where do kfc get their chicken from?	54	kfc --> organization board membership member --> [u'Michael A. Miles']	0
-where do kfc get their chicken from?	54	kfc --> topic topical webpage --> [u'http://clients.mapquest.com/kfc/mqlocator?screen=find&link=results&linktype=results&smap=map&width=380&height=250&iconid=31&country=&searchtype=origin&sqlcol1=name&sqlcnd1=%3D&sqlval1=Kentucky+Fried+Chicken&sqlcmb1=or&sqlcol2=multibrand&sqlcnd2=contains&sqlval2=K&queryIconCol=icon_id&queryUseOrigin=1&queryCenterOrigin=1&queryMax=3&queryRadius=999&zip=77706&x=47&y=19']	0
-where do kfc get their chicken from?	54	kfc --> leadership role --> [u'Chief Executive Officer']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox product or service --> [u'KFC Gift Check']	0
-where do kfc get their chicken from?	54	kfc --> organization place founded --> [u'North Corbin']	2
-where do kfc get their chicken from?	54	kfc --> mailing address street address --> [u'1209 North Orange St.', u'1441 Gardiner Lane']	0
-where do kfc get their chicken from?	54	kfc --> mailing address country --> [u'United States of America']	1
-where do kfc get their chicken from?	54	kfc --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4r1gdcsrcsQdiedso1xtzwbg']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox toll free --> [u'1']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox country code --> [u'1']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox caller category --> [u'Consumer Service']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox hearing impaired --> [u'0']	0
-where do kfc get their chicken from?	54	kfc --> phone sandbox service language --> [u'English Language']	1
-where do kfc get their chicken from?	54	kfc --> phone number number --> [u'(866) 664-5696', u'(800) 225-5532', u'0845 753 253']	0
-where do kfc get their chicken from?	54	chicken --> character species characters of this species --> [u'Torchic', u'Chicken Boo', u'Cornelius', u'Fission Chicken', u'Spot']	0
-where do kfc get their chicken from?	54	chicken --> organism classification scientific name --> [u'Gallus gallus domesticus']	0
-where do kfc get their chicken from?	54	chicken --> food web member eaten by --> [u'Human']	0
-where do kfc get their chicken from?	54	chicken --> drug ingredient active moiety of formulation --> [u'Chicken 0.05 injectable solution', u'Chicken meat 0.1 injectable solution', u'Chicken 50 injectable solution']	0
-where do kfc get their chicken from?	54	chicken --> permaculture element needs --> [u'Water', u'Chicken coop', u'Chicken feed', u'Heat', u'Rooster']	1
-where do kfc get their chicken from?	54	chicken --> gendered topic female name --> [u'Hen']	0
-where do kfc get their chicken from?	54	chicken --> domesticated animal breeds --> [u'Yokohama', u'Hamburg', u'Norfolk Grey', u'Naked Neck', u'Holland']	0
-where do kfc get their chicken from?	54	chicken --> animal specific name relationship specific name --> [u'Hen', u'Cockerel', u'Pullet', u'Rooster']	0
-where do kfc get their chicken from?	54	chicken --> linguistic hint subject form --> [u'Chickens']	0
-where do kfc get their chicken from?	54	chicken --> permaculture element functions --> [u'Biological pest control', u'Seed dispersal']	0
-where do kfc get their chicken from?	54	chicken --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where do kfc get their chicken from?	54	chicken --> webpage resource --> [u"Any questions for Mike Rowe, host of 'Dirty Jobs'?", u'Guest blogger: Eliza Dushku does not climb the walls, okay?', u"The CW lets 'Farmer Wants a Wife' out of the barn on April 30", u"'Arrested Development' cast reacts to Malvin's 'chicken & egg' concept on 'Project Runway'", u"Snap Judgment: 'Farmer Wants a Wife'"]	0
-where do kfc get their chicken from?	54	chicken --> organism classification organisms of this type --> [u'Mike the Headless Chicken', u'Matilda', u'Baron Spreckle']	0
-where do kfc get their chicken from?	54	chicken --> permaculture element products --> [u'Chicken manure', u'feathers', u'Egg', u'Methane']	2
-where do kfc get their chicken from?	54	chicken --> permaculture element behaviour --> [u'Scratching']	0
-where do kfc get their chicken from?	54	chicken --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-where do kfc get their chicken from?	54	chicken --> food extra narrower --> [u'KASHI STEAM MEAL Roasted Garlic Chicken Farfalle']	0
-where do kfc get their chicken from?	54	chicken --> animal group name --> [u'Flock']	0
-where do kfc get their chicken from?	54	chicken --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkCDZwpEbGdrcN5Y29ycA']	0
-where do kfc get their chicken from?	54	chicken --> organism classification higher classification --> [u'Red Junglefowl']	0
-where do kfc get their chicken from?	54	chicken --> animal specific name relationship notes --> [u"at least 20 weeks old; begun to lay eggs; hasn't begun to moult"]	0
-where do kfc get their chicken from?	54	chicken --> drug ingredient active ingredient of formulation --> [u'Chicken 0.05 injectable solution', u'Chicken meat 0.1 injectable solution', u'Chicken 50 injectable solution']	0
-where do kfc get their chicken from?	54	chicken --> drug ingredient active moiety of drug --> [u'Chicken extract']	0
-where do kfc get their chicken from?	54	chicken --> object name --> [u'Chicken']	0
-where do kfc get their chicken from?	54	chicken --> topic image --> [u'A Rhode Island Red', u'Female pair']	0
-where do kfc get their chicken from?	54	chicken --> organism classification rank --> [u'Subspecies']	0
-where do kfc get their chicken from?	54	chicken --> animal specific name relationship gender --> [u'Female', u'Male']	0
-where do kfc get their chicken from?	54	chicken --> film subject films --> [u'Chicken Run']	0
-where do kfc get their chicken from?	54	chicken --> gendered topic male name --> [u'Rooster']	0
-where do kfc get their chicken from?	54	chicken --> permaculture element characteristics --> [u'Social', u'Adaptable', u'Domesticable', u'productiva']	0
-where do kfc get their chicken from?	54	chicken --> book subject works --> [u'Fried Chicken', u'Tillie Lays an Egg', u'The Williams-Sonoma Collection: Chicken', u'The Perfect Nest']	0
-where do kfc get their chicken from?	54	chicken --> animal breed breed of --> [u'Ga Tre']	0
+where do kfc get their chicken from?	54	kfc --> phone number service location --> [u'United Kingdom', u'United States of America', u'Canada']	1	On June 3, 2004 [[KFC]] withdrew [[United States|American]] television commercials claiming that "fried chicken can, in fact, be part of a healthy diet" after reaching a settlement with the [[Federal Trade Commission]].
+where do kfc get their chicken from?	54	kfc --> restaurant cuisine --> [u'Southern United States food', u'American food', u'Pizza', u'Ice cream', u'Hamburger']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> topic social media presence --> [u'http://plus.google.com/118265609736930449444']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> employment tenure title --> [u'President', u'Chief Financial Officer', u'Senior Vice President and Chief Financial Officer', u'Senior Vice President of Marketing', u'Senior Vice President, Marketing & Operations Development']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization relationship parent --> [u'Yum! Brands']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> mailing address citytown --> [u'Louisville', u'Wilmington']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> leadership from --> [u'2011-02']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> topic alias --> [u'Kentucky Fried Chicken', u'KFC Corp']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> employment tenure to --> [u'1996']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization board membership title --> [u'Chair']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization date founded --> [u'1930']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox contact category --> [u'Customer service']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization relationship as of date --> [u'2006', u'2007', u'2008', u'2009']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> webpage uri --> [u'http://nashville.citysearch.com/E/V/NASTN/0001/08/75/cs1.html', u'http://nashville.citysearch.com/E/V/NASTN/0005/53/75/cs1.html', u'http://austin.citysearch.com/E/V/AUSTX/0001/10/88/cs1.html', u'http://www.accessarizona.com/auto_docs/dining/6609.html', u'http://austin.citysearch.com/E/V/AUSTX/0003/22/57/cs1.html']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> dated integer year --> [u'2007']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization founders --> [u'Colonel Sanders']	22	*[[KFC]]'s "Colonel's secret recipe", created by [[Colonel Sanders]] in the 1930s.
+where do kfc get their chicken from?	54	kfc --> object name --> [u'KFC']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> webpage category --> [u'Topic Webpage']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> mailing address postal code --> [u'19801', u'40213']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox service location --> [u'United States of America']	1	On June 3, 2004 [[KFC]] withdrew [[United States|American]] television commercials claiming that "fried chicken can, in fact, be part of a healthy diet" after reaching a settlement with the [[Federal Trade Commission]].
+where do kfc get their chicken from?	54	kfc --> business operation industry --> [u'Restaurant', u'Fast food']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> employment tenure from --> [u'1995']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> topic official website --> [u'http://www.kfc.com']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> business location in shopping center --> [u'Gold Plaza']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> webpage resource --> [u"Oprah's KFC free-for-all sparks civil rights era-style protest. Wonderful.", u'KFC to mail out rain checks for Oprah chicken freebie']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox description --> [u'Customer Satisfaction Numbers', u'Questions Concerning KFC Gift Check Ordering']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> leadership title --> [u'President and Chief Concept Officer']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> leadership to --> [u'2011-11']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> mailing address state province region --> [u'Kentucky', u'Delaware']	1	[[Tennessee]] and [[Kentucky]] are sometimes included as Mimal's frying pan and the chicken being cooked in the pan (Kentucky being the "[[KFC|Kentucky Fried Chicken leg]]," and Tennessee being the "tin pan"), thus making Mimal a cook. 
+where do kfc get their chicken from?	54	kfc --> phone number category --> [u'Customer service']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> dated integer number --> [u'24000']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization locations --> [u'KFC, Prien Lake Mall', u'KFC, Southern Hills Mall, Sioux City, IA', u'KFC, Plaza Carolina, Puerto Rico', u'KFC, La Plaza Mall', u'KFC, Lake Square Mall']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox number --> [u'(800) 225-5532', u'(800) 544-5774']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone number country code --> [u'1', u'44']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> leadership person --> [u'Roger Eaton']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> product advertising characters --> [u'Colonel Sanders']	22	*[[KFC]]'s "Colonel's secret recipe", created by [[Colonel Sanders]] in the 1930s.
+where do kfc get their chicken from?	54	kfc --> webpage uri --> [u'http://www.kfc.com/', u'http://clients.mapquest.com/kfc/mqlocator?screen=find&link=results&linktype=results&smap=map&width=380&height=250&iconid=31&country=&searchtype=origin&sqlcol1=name&sqlcnd1=%3D&sqlval1=Kentucky+Fried+Chicken&sqlcmb1=or&sqlcol2=multibrand&sqlcnd2=contains&sqlval2=K&queryIconCol=icon_id&queryUseOrigin=1&queryCenterOrigin=1&queryMax=3&queryRadius=999&zip=77706&x=47&y=19']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> employment tenure person --> [u'Michael A. Miles', u'Andrew J. Kaslow', u'Aylwin B. Lewis', u'Dave Thomas', u'Fredric G Reynolds']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization extra contact webpage --> [u'http://www.kfc.com/about/contact.asp']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization board membership member --> [u'Michael A. Miles']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> topic topical webpage --> [u'http://clients.mapquest.com/kfc/mqlocator?screen=find&link=results&linktype=results&smap=map&width=380&height=250&iconid=31&country=&searchtype=origin&sqlcol1=name&sqlcnd1=%3D&sqlval1=Kentucky+Fried+Chicken&sqlcmb1=or&sqlcol2=multibrand&sqlcnd2=contains&sqlval2=K&queryIconCol=icon_id&queryUseOrigin=1&queryCenterOrigin=1&queryMax=3&queryRadius=999&zip=77706&x=47&y=19']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> leadership role --> [u'Chief Executive Officer']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox product or service --> [u'KFC Gift Check']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> organization place founded --> [u'North Corbin']	2	* [[Harland Sanders Café and Museum]], the birthplace of [[KFC|Kentucky Fried Chicken]] (though not sold as the KFC/Kentucky Fried Chicken brand at the time) is located in [[North Corbin, Kentucky|North Corbin]].
+where do kfc get their chicken from?	54	kfc --> mailing address street address --> [u'1209 North Orange St.', u'1441 Gardiner Lane']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> mailing address country --> [u'United States of America']	1	On June 3, 2004 [[KFC]] withdrew [[United States|American]] television commercials claiming that "fried chicken can, in fact, be part of a healthy diet" after reaching a settlement with the [[Federal Trade Commission]].
+where do kfc get their chicken from?	54	kfc --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4r1gdcsrcsQdiedso1xtzwbg']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox toll free --> [u'1']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox country code --> [u'1']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox caller category --> [u'Consumer Service']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox hearing impaired --> [u'0']	0	EMPTY
+where do kfc get their chicken from?	54	kfc --> phone sandbox service language --> [u'English Language']	1	[[Image:KFC in Hohhot.jpg|thumb|right|250px|A [[KFC]] in Hohhot, the capital of [[Inner Mongolia]], China, with a trilingual sign in [[Chinese language|Chinese]], [[Mongolian Language|Mongolian]] and [[English language|English]]]]
+where do kfc get their chicken from?	54	kfc --> phone number number --> [u'(866) 664-5696', u'(800) 225-5532', u'0845 753 253']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> character species characters of this species --> [u'Torchic', u'Chicken Boo', u'Cornelius', u'Fission Chicken', u'Spot']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> organism classification scientific name --> [u'Gallus gallus domesticus']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> food web member eaten by --> [u'Human']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> drug ingredient active moiety of formulation --> [u'Chicken 0.05 injectable solution', u'Chicken meat 0.1 injectable solution', u'Chicken 50 injectable solution']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> permaculture element needs --> [u'Water', u'Chicken coop', u'Chicken feed', u'Heat', u'Rooster']	1	'''Rent a Coop''' is an American business that delivers a pair of [[Chicken|hens]], a [[Chicken coop|coop]], [[Fodder|feed]] and a dish of water to customers.
+where do kfc get their chicken from?	54	chicken --> gendered topic female name --> [u'Hen']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> domesticated animal breeds --> [u'Yokohama', u'Hamburg', u'Norfolk Grey', u'Naked Neck', u'Holland']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> animal specific name relationship specific name --> [u'Hen', u'Cockerel', u'Pullet', u'Rooster']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> linguistic hint subject form --> [u'Chickens']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> permaculture element functions --> [u'Biological pest control', u'Seed dispersal']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> webpage resource --> [u"Any questions for Mike Rowe, host of 'Dirty Jobs'?", u'Guest blogger: Eliza Dushku does not climb the walls, okay?', u"The CW lets 'Farmer Wants a Wife' out of the barn on April 30", u"'Arrested Development' cast reacts to Malvin's 'chicken & egg' concept on 'Project Runway'", u"Snap Judgment: 'Farmer Wants a Wife'"]	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> organism classification organisms of this type --> [u'Mike the Headless Chicken', u'Matilda', u'Baron Spreckle']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> permaculture element products --> [u'Chicken manure', u'feathers', u'Egg', u'Methane']	2	* [[Chicken]]s for [[meat]] and [[Egg (food)|egg]]s
+where do kfc get their chicken from?	54	chicken --> permaculture element behaviour --> [u'Scratching']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> food extra narrower --> [u'KASHI STEAM MEAL Roasted Garlic Chicken Farfalle']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> animal group name --> [u'Flock']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkCDZwpEbGdrcN5Y29ycA']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> organism classification higher classification --> [u'Red Junglefowl']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> animal specific name relationship notes --> [u"at least 20 weeks old; begun to lay eggs; hasn't begun to moult"]	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> drug ingredient active ingredient of formulation --> [u'Chicken 0.05 injectable solution', u'Chicken meat 0.1 injectable solution', u'Chicken 50 injectable solution']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> drug ingredient active moiety of drug --> [u'Chicken extract']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> object name --> [u'Chicken']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> topic image --> [u'A Rhode Island Red', u'Female pair']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> organism classification rank --> [u'Subspecies']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> animal specific name relationship gender --> [u'Female', u'Male']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> film subject films --> [u'Chicken Run']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> gendered topic male name --> [u'Rooster']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> permaculture element characteristics --> [u'Social', u'Adaptable', u'Domesticable', u'productiva']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> book subject works --> [u'Fried Chicken', u'Tillie Lays an Egg', u'The Williams-Sonoma Collection: Chicken', u'The Perfect Nest']	0	EMPTY
+where do kfc get their chicken from?	54	chicken --> animal breed breed of --> [u'Ga Tre']	0	EMPTY

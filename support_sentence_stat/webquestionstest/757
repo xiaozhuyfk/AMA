@@ -1,87 +1,87 @@
-what city is acadia university in?	560	tomsk state university --> topic alias --> [u'Tomsk State University, main campus']	0
-what city is acadia university in?	560	tomsk state university --> educational institution campuses --> [u'Tomsk State University']	25
-what city is acadia university in?	560	tomsk state university --> organization date founded --> [u'1888']	0
-what city is acadia university in?	560	tomsk state university --> dated integer year --> [u'2010']	0
-what city is acadia university in?	560	tomsk state university --> mailing address citytown --> [u'Tomsk']	2
-what city is acadia university in?	560	tomsk state university --> webpage category --> [u'Official Website']	0
-what city is acadia university in?	560	tomsk state university --> phone number country code --> [u'7']	0
-what city is acadia university in?	560	tomsk state university --> leadership title --> [u'Rector']	0
-what city is acadia university in?	560	tomsk state university --> location containedby --> [u'Russia', u'Tomsk']	3
-what city is acadia university in?	560	tomsk state university --> educational institution campus educational institution --> [u'Tomsk State University']	25
-what city is acadia university in?	560	tomsk state university --> dated integer year --> [u'2010']	0
-what city is acadia university in?	560	tomsk state university --> dated integer year --> [u'2010']	0
-what city is acadia university in?	560	tomsk state university --> education student --> [u'Mikhail Bashkatov', u'Victor Andreevich Toponogov', u'Yury Yershov', u'Vladimir Yevseyevich Zuev', u'Ekaterina  Stoliarova']	0
-what city is acadia university in?	560	tomsk state university --> dated integer number --> [u'23000']	0
-what city is acadia university in?	560	tomsk state university --> mailing address state province region --> [u'Tomsk Oblast']	0
-what city is acadia university in?	560	tomsk state university --> dated integer number --> [u'22200']	0
-what city is acadia university in?	560	tomsk state university --> dated integer number --> [u'800']	0
-what city is acadia university in?	560	tomsk state university --> phone number number --> [u'3822-52-98-52']	0
-what city is acadia university in?	560	tomsk state university --> leadership person --> [u'Georgy V. Mayer']	0
-what city is acadia university in?	560	tomsk state university --> topic official website --> [u'http://www.tsu.ru/']	0
-what city is acadia university in?	560	tomsk state university --> webpage uri --> [u'http://www.tsu.ru/']	0
-what city is acadia university in?	560	tomsk state university --> leadership role --> [u'Rector']	0
-what city is acadia university in?	560	tomsk state university --> mailing address street address --> [u'36 Lenin Prospekt']	0
-what city is acadia university in?	560	tomsk state university --> object name --> [u'Tomsk State University']	0
-what city is acadia university in?	560	tomsk state university --> topic image --> [u'Main building']	0
-what city is acadia university in?	560	acadia university --> namesake named after --> [u'Acadia']	0
-what city is acadia university in?	560	acadia university --> dated money value amount --> [u'5569']	0
-what city is acadia university in?	560	acadia university --> mailing address street address --> [u'15 University Avenue']	0
-what city is acadia university in?	560	acadia university --> educational institution colors --> [u'Blue', u'Garnet']	0
-what city is acadia university in?	560	acadia university --> education major field of study --> [u'Chemistry']	1
-what city is acadia university in?	560	acadia university --> leadership from --> [u'2011']	0
-what city is acadia university in?	560	acadia university --> topic alias --> [u'Acadia University, main campus']	0
-what city is acadia university in?	560	acadia university --> educational institution campuses --> [u'Acadia University']	222
-what city is acadia university in?	560	acadia university --> dated money value currency --> [u'Canadian dollar']	0
-what city is acadia university in?	560	acadia university --> dated money value amount --> [u'40703600']	0
-what city is acadia university in?	560	acadia university --> dated money value amount --> [u'6591']	0
-what city is acadia university in?	560	acadia university --> organization date founded --> [u'1838']	0
-what city is acadia university in?	560	acadia university --> geocode longitude --> [u'-64.3614']	0
-what city is acadia university in?	560	acadia university --> dated integer number --> [u'248']	0
-what city is acadia university in?	560	acadia university --> educational institution school type --> [u'Public university']	0
-what city is acadia university in?	560	acadia university --> dated money value valid date --> [u'2009-03-31']	0
-what city is acadia university in?	560	acadia university --> dated integer year --> [u'2008', u'2010']	0
-what city is acadia university in?	560	acadia university --> mailing address citytown --> [u'Wolfville']	11
-what city is acadia university in?	560	acadia university --> webpage category --> [u'Official Website']	0
-what city is acadia university in?	560	acadia university --> phone number country code --> [u'+1']	0
-what city is acadia university in?	560	acadia university --> dated money value currency --> [u'Canadian dollar']	0
-what city is acadia university in?	560	acadia university --> educational institution newspaper --> [u'The Athenaeum']	1
-what city is acadia university in?	560	acadia university --> leadership title --> [u'Chancellor']	0
-what city is acadia university in?	560	acadia university --> location containedby --> [u'Canada', u'Nova Scotia', u'Wolfville']	23
-what city is acadia university in?	560	acadia university --> educational institution campus educational institution --> [u'Acadia University']	222
-what city is acadia university in?	560	acadia university --> webpage description --> [u'Acadia University']	0
-what city is acadia university in?	560	acadia university --> dated integer year --> [u'2008', u'2010']	0
-what city is acadia university in?	560	acadia university --> dated integer year --> [u'2008', u'2010']	0
-what city is acadia university in?	560	acadia university --> education student --> [u'David H. Levy', u'Stacy Wilson', u'Jacob Gould Schurman', u'Paul Masotti', u'Ron James']	0
-what city is acadia university in?	560	acadia university --> webpage resource --> [u'Acadia University']	0
-what city is acadia university in?	560	acadia university --> dated integer number --> [u'3000', u'3485']	0
-what city is acadia university in?	560	acadia university --> mailing address state province region --> [u'Nova Scotia']	18
-what city is acadia university in?	560	acadia university --> dated integer number --> [u'2760', u'3030']	0
-what city is acadia university in?	560	acadia university --> dated integer number --> [u'76', u'455']	0
-what city is acadia university in?	560	acadia university --> dated money value valid date --> [u'2011']	0
-what city is acadia university in?	560	acadia university --> dated money value currency --> [u'Canadian dollar']	0
-what city is acadia university in?	560	acadia university --> leadership role --> [u'Chancellor']	0
-what city is acadia university in?	560	acadia university --> educational institution subsidiary or constituent schools --> [u'Acadia Divinity College', u'Acadia University Faculty of Professional Studies', u'Acadia University Faculty of Arts', u'Acadia University Faculty of Pure & Applied Science', u'Acadia University Faculty of Theology']	0
-what city is acadia university in?	560	acadia university --> dated money value valid date --> [u'2011']	0
-what city is acadia university in?	560	acadia university --> phone number number --> [u'902-542-2200', u'902-542-2201']	0
-what city is acadia university in?	560	acadia university --> geocode latitude --> [u'45.0911']	0
-what city is acadia university in?	560	acadia university --> leadership person --> [u'Libby Burnham']	0
-what city is acadia university in?	560	acadia university --> webpage uri --> [u'http://www.acadiau.ca']	0
-what city is acadia university in?	560	acadia university --> education degree --> [u'Bachelor of Science', u'Bachelor of Arts', u'Doctor of Civil Law', u'Doctor of Letters']	7
-what city is acadia university in?	560	acadia university --> topic official website --> [u'http://www.acadiau.ca/']	0
-what city is acadia university in?	560	acadia university --> education end date --> [u'1974', u'1977']	0
-what city is acadia university in?	560	acadia university --> organization relationship child --> [u"Acadia Students' Union"]	0
-what city is acadia university in?	560	acadia university --> object name --> [u'Acadia University']	0
-what city is acadia university in?	560	acadia university --> topic image --> [u'Uhall1']	0
-what city is acadia university in?	560	city is --> object name --> [u'City Is']	0
-what city is acadia university in?	560	city is --> object name --> [u'City Is']	0
-what city is acadia university in?	560	city --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what city is acadia university in?	560	city --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA']	0
-what city is acadia university in?	560	city --> ontology class mapping uri --> [u'http://s.opencalais.com/1/type/em/e/City']	0
-what city is acadia university in?	560	city --> type of fictional setting settings --> [u'Gotham City', u'Sharn', u'Freeport', u'Station Square', u'Central City']	0
-what city is acadia university in?	560	city --> object name --> [u'City']	0
-what city is acadia university in?	560	city --> topic image --> [u'Tokyo odaiba', u'Shibuya night', u'An aerial view of a human ecosystem. Pictured is the city of Chicago']	0
-what city is acadia university in?	560	city --> settlement type settlement type of --> [u'Tel Aviv']	0
-what city is acadia university in?	560	city --> ontology class mapping ontology --> [u'OpenCalais']	0
-what city is acadia university in?	560	city --> linguistic hint subject form --> [u'Cities']	0
-what city is acadia university in?	560	city --> equivalent topic equivalent type --> [u'City/Town/Village']	0
-what city is acadia university in?	560	city --> book subject works --> [u'Cities in Civilization', u'Invisible Cities', u'The Seduction of Place: The City in the Twenty-First Century']	0
+what city is acadia university in?	560	tomsk state university --> topic alias --> [u'Tomsk State University, main campus']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> educational institution campuses --> [u'Tomsk State University']	25	#REDIRECT [[Tomsk State University]]
+what city is acadia university in?	560	tomsk state university --> organization date founded --> [u'1888']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> dated integer year --> [u'2010']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> mailing address citytown --> [u'Tomsk']	2	Kolupaev was born in [[Nezametny]], [[Yakutia]], attended school in [[Krasnoyarsk]] and moved in 1954 to [[Tomsk]] where he attended the [[Tomsk Polytechnic Institute]] and became a member of the Siberian Physical-Technical Institute of the [[Tomsk State University]], where he worked in mathematics and [[bionics]].
+what city is acadia university in?	560	tomsk state university --> webpage category --> [u'Official Website']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> phone number country code --> [u'7']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> leadership title --> [u'Rector']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> location containedby --> [u'Russia', u'Tomsk']	3	'''Hans Johansen''' (1897 - 1973) was a [[Denmark|Danish]]-[[Russia]]n professor of [[zoology]], first at [[Tomsk State University]], later at the [[University of Copenhagen]].
+what city is acadia university in?	560	tomsk state university --> educational institution campus educational institution --> [u'Tomsk State University']	25	#REDIRECT [[Tomsk State University]]
+what city is acadia university in?	560	tomsk state university --> dated integer year --> [u'2010']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> dated integer year --> [u'2010']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> education student --> [u'Mikhail Bashkatov', u'Victor Andreevich Toponogov', u'Yury Yershov', u'Vladimir Yevseyevich Zuev', u'Ekaterina  Stoliarova']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> dated integer number --> [u'23000']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> mailing address state province region --> [u'Tomsk Oblast']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> dated integer number --> [u'22200']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> dated integer number --> [u'800']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> phone number number --> [u'3822-52-98-52']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> leadership person --> [u'Georgy V. Mayer']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> topic official website --> [u'http://www.tsu.ru/']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> webpage uri --> [u'http://www.tsu.ru/']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> leadership role --> [u'Rector']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> mailing address street address --> [u'36 Lenin Prospekt']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> object name --> [u'Tomsk State University']	0	EMPTY
+what city is acadia university in?	560	tomsk state university --> topic image --> [u'Main building']	0	EMPTY
+what city is acadia university in?	560	acadia university --> namesake named after --> [u'Acadia']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated money value amount --> [u'5569']	0	EMPTY
+what city is acadia university in?	560	acadia university --> mailing address street address --> [u'15 University Avenue']	0	EMPTY
+what city is acadia university in?	560	acadia university --> educational institution colors --> [u'Blue', u'Garnet']	0	EMPTY
+what city is acadia university in?	560	acadia university --> education major field of study --> [u'Chemistry']	1	He was born in [[Petitcodiac, New Brunswick]] and was educated at [[Acadia University]] and [[McGill University]], graduating in 1944 with a doctorate in [[Chemistry]].
+what city is acadia university in?	560	acadia university --> leadership from --> [u'2011']	0	EMPTY
+what city is acadia university in?	560	acadia university --> topic alias --> [u'Acadia University, main campus']	0	EMPTY
+what city is acadia university in?	560	acadia university --> educational institution campuses --> [u'Acadia University']	222	* [[Acadia University]] – ''[[The Athenaeum (Acadia University)|The Athenaeum]]''
+what city is acadia university in?	560	acadia university --> dated money value currency --> [u'Canadian dollar']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated money value amount --> [u'40703600']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated money value amount --> [u'6591']	0	EMPTY
+what city is acadia university in?	560	acadia university --> organization date founded --> [u'1838']	0	EMPTY
+what city is acadia university in?	560	acadia university --> geocode longitude --> [u'-64.3614']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated integer number --> [u'248']	0	EMPTY
+what city is acadia university in?	560	acadia university --> educational institution school type --> [u'Public university']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated money value valid date --> [u'2009-03-31']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated integer year --> [u'2008', u'2010']	0	EMPTY
+what city is acadia university in?	560	acadia university --> mailing address citytown --> [u'Wolfville']	11	*[[Wolfville]], [[Nova Scotia]] ([[Acadia University]])
+what city is acadia university in?	560	acadia university --> webpage category --> [u'Official Website']	0	EMPTY
+what city is acadia university in?	560	acadia university --> phone number country code --> [u'+1']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated money value currency --> [u'Canadian dollar']	0	EMPTY
+what city is acadia university in?	560	acadia university --> educational institution newspaper --> [u'The Athenaeum']	1	* [[Acadia University]] – ''[[The Athenaeum (Acadia University)|The Athenaeum]]''
+what city is acadia university in?	560	acadia university --> leadership title --> [u'Chancellor']	0	EMPTY
+what city is acadia university in?	560	acadia university --> location containedby --> [u'Canada', u'Nova Scotia', u'Wolfville']	23	*[[Wolfville]], [[Nova Scotia]] ([[Acadia University]])
+what city is acadia university in?	560	acadia university --> educational institution campus educational institution --> [u'Acadia University']	222	* [[Acadia University]] – ''[[The Athenaeum (Acadia University)|The Athenaeum]]''
+what city is acadia university in?	560	acadia university --> webpage description --> [u'Acadia University']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated integer year --> [u'2008', u'2010']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated integer year --> [u'2008', u'2010']	0	EMPTY
+what city is acadia university in?	560	acadia university --> education student --> [u'David H. Levy', u'Stacy Wilson', u'Jacob Gould Schurman', u'Paul Masotti', u'Ron James']	0	EMPTY
+what city is acadia university in?	560	acadia university --> webpage resource --> [u'Acadia University']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated integer number --> [u'3000', u'3485']	0	EMPTY
+what city is acadia university in?	560	acadia university --> mailing address state province region --> [u'Nova Scotia']	18	*[[Wolfville]], [[Nova Scotia]] ([[Acadia University]])
+what city is acadia university in?	560	acadia university --> dated integer number --> [u'2760', u'3030']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated integer number --> [u'76', u'455']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated money value valid date --> [u'2011']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated money value currency --> [u'Canadian dollar']	0	EMPTY
+what city is acadia university in?	560	acadia university --> leadership role --> [u'Chancellor']	0	EMPTY
+what city is acadia university in?	560	acadia university --> educational institution subsidiary or constituent schools --> [u'Acadia Divinity College', u'Acadia University Faculty of Professional Studies', u'Acadia University Faculty of Arts', u'Acadia University Faculty of Pure & Applied Science', u'Acadia University Faculty of Theology']	0	EMPTY
+what city is acadia university in?	560	acadia university --> dated money value valid date --> [u'2011']	0	EMPTY
+what city is acadia university in?	560	acadia university --> phone number number --> [u'902-542-2200', u'902-542-2201']	0	EMPTY
+what city is acadia university in?	560	acadia university --> geocode latitude --> [u'45.0911']	0	EMPTY
+what city is acadia university in?	560	acadia university --> leadership person --> [u'Libby Burnham']	0	EMPTY
+what city is acadia university in?	560	acadia university --> webpage uri --> [u'http://www.acadiau.ca']	0	EMPTY
+what city is acadia university in?	560	acadia university --> education degree --> [u'Bachelor of Science', u'Bachelor of Arts', u'Doctor of Civil Law', u'Doctor of Letters']	7	Born in [[Bridgewater, Nova Scotia]], she received a [[Bachelor of Arts]] degree in history from [[Acadia University]] in 1967, a Master of Arts degree in 1968, and a Ph.D. in 1979 both from the [[University of Toronto]].
+what city is acadia university in?	560	acadia university --> topic official website --> [u'http://www.acadiau.ca/']	0	EMPTY
+what city is acadia university in?	560	acadia university --> education end date --> [u'1974', u'1977']	0	EMPTY
+what city is acadia university in?	560	acadia university --> organization relationship child --> [u"Acadia Students' Union"]	0	EMPTY
+what city is acadia university in?	560	acadia university --> object name --> [u'Acadia University']	0	EMPTY
+what city is acadia university in?	560	acadia university --> topic image --> [u'Uhall1']	0	EMPTY
+what city is acadia university in?	560	city is --> object name --> [u'City Is']	0	EMPTY
+what city is acadia university in?	560	city is --> object name --> [u'City Is']	0	EMPTY
+what city is acadia university in?	560	city --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what city is acadia university in?	560	city --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA']	0	EMPTY
+what city is acadia university in?	560	city --> ontology class mapping uri --> [u'http://s.opencalais.com/1/type/em/e/City']	0	EMPTY
+what city is acadia university in?	560	city --> type of fictional setting settings --> [u'Gotham City', u'Sharn', u'Freeport', u'Station Square', u'Central City']	0	EMPTY
+what city is acadia university in?	560	city --> object name --> [u'City']	0	EMPTY
+what city is acadia university in?	560	city --> topic image --> [u'Tokyo odaiba', u'Shibuya night', u'An aerial view of a human ecosystem. Pictured is the city of Chicago']	0	EMPTY
+what city is acadia university in?	560	city --> settlement type settlement type of --> [u'Tel Aviv']	0	EMPTY
+what city is acadia university in?	560	city --> ontology class mapping ontology --> [u'OpenCalais']	0	EMPTY
+what city is acadia university in?	560	city --> linguistic hint subject form --> [u'Cities']	0	EMPTY
+what city is acadia university in?	560	city --> equivalent topic equivalent type --> [u'City/Town/Village']	0	EMPTY
+what city is acadia university in?	560	city --> book subject works --> [u'Cities in Civilization', u'Invisible Cities', u'The Seduction of Place: The City in the Twenty-First Century']	0	EMPTY

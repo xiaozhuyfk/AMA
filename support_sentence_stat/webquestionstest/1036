@@ -1,106 +1,106 @@
-what hemisphere is africa located in?	1935	locatedin --> object name --> [u'locatedIn']	0
-what hemisphere is africa located in?	1935	locatedin --> property hints disambiguator --> [u'0']	0
-what hemisphere is africa located in?	1935	locatedin --> property unique --> [u'1']	0
-what hemisphere is africa located in?	1935	locatedin --> property hints display none --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> property hints disambiguator --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> property delegated --> [u'Contained by']	0
-what hemisphere is africa located in?	1935	located in --> property unique --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> property hints display orientation --> [u'horizontal']	0
-what hemisphere is africa located in?	1935	located in --> object id --> [u'/amusement_parks/park/location']	0
-what hemisphere is africa located in?	1935	located in --> property expected type --> [u'Location']	0
-what hemisphere is africa located in?	1935	located in --> property schema --> [u'Amusement Park']	0
-what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'Amusement Park']	0
-what hemisphere is africa located in?	1935	located in --> property hints display none --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0
-what hemisphere is africa located in?	1935	located in --> property unique --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> property expected type --> [u'location.location']	0
-what hemisphere is africa located in?	1935	located in --> property schema --> [u'zoos.zoo']	0
-what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'zoos.zoo']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0
-what hemisphere is africa located in?	1935	located in --> property schema --> [u'base.dance.dance_company']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'base.dance.dance_company']	0
-what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0
-what hemisphere is africa located in?	1935	located in --> property expected type --> [u'location.location']	0
-what hemisphere is africa located in?	1935	located in --> property hints disambiguator --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> property delegated --> [u'Contained by']	0
-what hemisphere is africa located in?	1935	located in --> property unique --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> property hints display orientation --> [u'vertical']	0
-what hemisphere is africa located in?	1935	located in --> object id --> [u'/zoos/zoo/location']	0
-what hemisphere is africa located in?	1935	located in --> property expected type --> [u'Location']	0
-what hemisphere is africa located in?	1935	located in --> property schema --> [u'Zoo']	0
-what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'Zoo']	0
-what hemisphere is africa located in?	1935	located in --> property hints display none --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0
-what hemisphere is africa located in?	1935	located in --> property hints disambiguator --> [u'1']	0
-what hemisphere is africa located in?	1935	located in --> object id --> [u'/base/dance/dance_company/located_in']	0
-what hemisphere is africa located in?	1935	located in --> property expected type --> [u'Location']	0
-what hemisphere is africa located in?	1935	located in --> property schema --> [u'Dance Company']	0
-what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'Dance Company']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0
-what hemisphere is africa located in?	1935	located in --> property unique --> [u'0']	0
-what hemisphere is africa located in?	1935	located in --> property expected type --> [u'location.location']	0
-what hemisphere is africa located in?	1935	located in --> property schema --> [u'amusement_parks.park']	0
-what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'amusement_parks.park']	0
-what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0
-what hemisphere is africa located in?	1935	africa --> organization scope organizations with this scope --> [u'SOAS, University of London', u'African Medical and Research Foundation, Inc. (AMREF)', u'All-African Trade Union Federation', u'Accordia Global Health Foundation', u'African Network for the Prevention and Protection Against Child Abuse and Neglect(ANPPCAN)']	0
-what hemisphere is africa located in?	1935	africa --> topic subjects --> [u'Elephantidae']	0
-what hemisphere is africa located in?	1935	africa --> bibs location loc type --> [u'Continent']	0
-what hemisphere is africa located in?	1935	africa --> location events --> [u'World War II', u'World War I', u"Seven Years' War", u'United States Exploring Expedition', u"Sulla's second civil war"]	39
-what hemisphere is africa located in?	1935	africa --> location contains --> [u'University of Durban-Westville', u'Awassa College of Agriculture', u'Oran', u'University of Natal', u'Universidade Eduardo Mondlane']	1
-what hemisphere is africa located in?	1935	africa --> topic alias --> [u'Afrique']	0
-what hemisphere is africa located in?	1935	africa --> tv subject tv programs --> [u'Van Dis in Afrika']	0
-what hemisphere is africa located in?	1935	africa --> adjoining relationship adjoins --> [u'Europe', u'Arabian Peninsula']	1356
-what hemisphere is africa located in?	1935	africa --> vocabulary equivalent topic equivalent concept --> [u'Africa']	0
-what hemisphere is africa located in?	1935	africa --> taxonomy entry high --> [u'339', u'469', u'2739', u'3415', u'3981']	0
-what hemisphere is africa located in?	1935	africa --> geographic scope charities --> [u'FORGE']	0
-what hemisphere is africa located in?	1935	africa --> location area --> [u'30221532']	0
-what hemisphere is africa located in?	1935	africa --> dinosaur location dinosaur s --> [u'Inosaurus', u'Eocursor', u'Dryosaurus', u'Suchomimus', u'Brachiosaurus']	1
-what hemisphere is africa located in?	1935	africa --> mythology mythical creatures --> [u'Mami Wata']	2
-what hemisphere is africa located in?	1935	africa --> continents planet --> [u'Earth']	5
-what hemisphere is africa located in?	1935	africa --> taxonomy entry prefix --> [u'G', u'QE', u'DT', u'JS', u'JV']	0
-what hemisphere is africa located in?	1935	africa --> location people born here --> [u'Gustav Badin', u'Iras', u'\xc9ric All\xe9gret', u'Jean-Paul All\xe9gret', u'Andr\xe9 All\xe9gret']	0
-what hemisphere is africa located in?	1935	africa --> netflix genre titles --> [u'Bamako', u'Imani', u'Abouna', u'Life Above All', u'The Dove\u2019s Lost Necklace']	0
-what hemisphere is africa located in?	1935	africa --> webpage category --> [u'Tag']	0
-what hemisphere is africa located in?	1935	africa --> location contains major portion of --> [u'Egypt']	95
-what hemisphere is africa located in?	1935	africa --> location time zones --> [u'UTC+01:00', u'UTC+04:00', u'UTC\xb100:00', u'UTC+03:00', u'UTC\u221201:00']	0
-what hemisphere is africa located in?	1935	africa --> continents countries within --> [u'South Africa', u'Central African Republic', u'Guinea-Bissau', u'Morocco', u'Senegal']	418
-what hemisphere is africa located in?	1935	africa --> geocode longitude --> [u'18.28125']	0
-what hemisphere is africa located in?	1935	africa --> location partially containedby --> [u'Northern Hemisphere', u'Southern Hemisphere']	17
-what hemisphere is africa located in?	1935	africa --> webpage resource --> [u'Morning Roundup: Polanski Denied Release; \u201cUgly Betty\u201d Visits the U.N.; Letterman Tryst Details', u'Morning Roundup: Charlize Theron\u2019s Charity Shoes; the Coen Brothers\u2019 Open Call; The Red Hot Chili Peppers Lose a Guitarist (Again)', u"'The Real Housewives of New York City': Lost, mostly unnecessary, footage", u"Live Aid 1985 photo gallery: What's your favorite?", u"'Survivor: Gabon': Meet the cast (and their tats)"]	0
-what hemisphere is africa located in?	1935	africa --> breed origin breeds originating here --> [u'Chinese Crested Dog']	0
-what hemisphere is africa located in?	1935	africa --> dated integer number --> [u'200000000', u'229895000', u'286729000', u'368148000', u'482803000']	0
-what hemisphere is africa located in?	1935	africa --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what hemisphere is africa located in?	1935	africa --> topic subject of --> [u'Black History Month']	0
-what hemisphere is africa located in?	1935	africa --> tv location tv episodes filmed here --> [u"Mutant Planet: Africa's Rift Valley Lakes"]	0
-what hemisphere is africa located in?	1935	africa --> geocode latitude --> [u'9.102097']	0
-what hemisphere is africa located in?	1935	africa --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what hemisphere is africa located in?	1935	africa --> taxonomy entry low --> [u'1', u'320', u'468', u'1870', u'2445']	0
-what hemisphere is africa located in?	1935	africa --> object name --> [u'Africa']	0
-what hemisphere is africa located in?	1935	africa --> topic image --> [u'LocationAfrica', u'Africa satellite orthographic']	0
-what hemisphere is africa located in?	1935	africa --> context name official name --> [u'Africa']	0
-what hemisphere is africa located in?	1935	africa --> dated integer year --> [u'1893', u'1950', u'1960', u'1970', u'1980']	0
-what hemisphere is africa located in?	1935	africa --> book subject works --> [u'Ancient Egypt', u'Encyclopedia Africana', u'Mummies', u'In the Fog of the Seasons End', u'African Portraits']	0
-what hemisphere is africa located in?	1935	sphere --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what hemisphere is africa located in?	1935	sphere --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvgDAn5wpEbGdrcN5Y29ycA']	0
-what hemisphere is africa located in?	1935	sphere --> mathematical concept generalizations --> [u'n-sphere']	0
-what hemisphere is africa located in?	1935	sphere --> topic alias --> [u'ball', u'globe', u'spheroid']	0
-what hemisphere is africa located in?	1935	sphere --> object name --> [u'Sphere']	0
-what hemisphere is africa located in?	1935	sphere --> topic image --> [u'Sphere-wireframe']	0
-what hemisphere is africa located in?	1935	sphere --> map projection type projections of this type --> [u'Waterman butterfly projection', u'Globe']	0
-what hemisphere is africa located in?	1935	sphere --> linguistic hint subject form --> [u'Spheres']	0
-what hemisphere is africa located in?	1935	sphere --> concepts theories parent concept --> [u'Differential topology', u'Geometry']	1
-what hemisphere is africa located in?	1935	cerebral hemisphere --> award honor award --> [u'Nobel Prize in Physiology or Medicine']	0
-what hemisphere is africa located in?	1935	cerebral hemisphere --> award honor notes description --> [u'""for his discoveries concerning the functional specialization of the cerebral hemispheres""']	0
-what hemisphere is africa located in?	1935	cerebral hemisphere --> award honor year --> [u'1981']	0
-what hemisphere is africa located in?	1935	cerebral hemisphere --> object name --> [u'Cerebral hemisphere']	0
-what hemisphere is africa located in?	1935	cerebral hemisphere --> topic image --> [u'Hemispheres']	0
-what hemisphere is africa located in?	1935	cerebral hemisphere --> award honor award winner --> [u'Roger Wolcott Sperry']	0
-what hemisphere is africa located in?	1935	cerebral hemisphere --> linguistic hint subject form --> [u'Cerebral hemispheres']	0
-what hemisphere is africa located in?	1935	cerebellar hemisphere --> object name --> [u'Cerebellar hemisphere']	0
-what hemisphere is africa located in?	1935	cerebellar hemisphere --> topic image --> [u'CerebellumDiv']	0
+what hemisphere is africa located in?	1935	locatedin --> object name --> [u'locatedIn']	0	EMPTY
+what hemisphere is africa located in?	1935	locatedin --> property hints disambiguator --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	locatedin --> property unique --> [u'1']	0	EMPTY
+what hemisphere is africa located in?	1935	locatedin --> property hints display none --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property hints disambiguator --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property delegated --> [u'Contained by']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property unique --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property hints display orientation --> [u'horizontal']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object id --> [u'/amusement_parks/park/location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property expected type --> [u'Location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property schema --> [u'Amusement Park']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'Amusement Park']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property hints display none --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property unique --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property expected type --> [u'location.location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property schema --> [u'zoos.zoo']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'zoos.zoo']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property schema --> [u'base.dance.dance_company']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'base.dance.dance_company']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property expected type --> [u'location.location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property hints disambiguator --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property delegated --> [u'Contained by']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property unique --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property hints display orientation --> [u'vertical']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object id --> [u'/zoos/zoo/location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property expected type --> [u'Location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property schema --> [u'Zoo']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'Zoo']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property hints display none --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property hints disambiguator --> [u'1']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object id --> [u'/base/dance/dance_company/located_in']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property expected type --> [u'Location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property schema --> [u'Dance Company']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'Dance Company']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'Location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property unique --> [u'0']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property expected type --> [u'location.location']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> property schema --> [u'amusement_parks.park']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> object name --> [u'Located In']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsdomain --> [u'amusement_parks.park']	0	EMPTY
+what hemisphere is africa located in?	1935	located in --> w org-rdf-syntax-nsrange --> [u'location.location']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> organization scope organizations with this scope --> [u'SOAS, University of London', u'African Medical and Research Foundation, Inc. (AMREF)', u'All-African Trade Union Federation', u'Accordia Global Health Foundation', u'African Network for the Prevention and Protection Against Child Abuse and Neglect(ANPPCAN)']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> topic subjects --> [u'Elephantidae']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> bibs location loc type --> [u'Continent']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> location events --> [u'World War II', u'World War I', u"Seven Years' War", u'United States Exploring Expedition', u"Sulla's second civil war"]	39	The PPS and its variants were used extensively by the [[Red Army]] during [[World War II]] and were later adopted by the armed forces of several countries of the former [[Warsaw Pact]] as well as its many [[Africa]]n and [[Asia]]n allies.
+what hemisphere is africa located in?	1935	africa --> location contains --> [u'University of Durban-Westville', u'Awassa College of Agriculture', u'Oran', u'University of Natal', u'Universidade Eduardo Mondlane']	1	During the [[War of the Spanish Succession]], the strategic [[Africa]]n cities of [[Oran]] and [[Mers el-Kebir]], which until that time, had been under Spanish control, were taken by the Ottoman [[Dey of Algiers]], taking advantage of the difficult time that Spain was going through.
+what hemisphere is africa located in?	1935	africa --> topic alias --> [u'Afrique']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> tv subject tv programs --> [u'Van Dis in Afrika']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> adjoining relationship adjoins --> [u'Europe', u'Arabian Peninsula']	1356	Squatting toilets are the norm in many [[Asia]]n and [[Africa]]n countries, but can also occasionally be found in some [[Europe]]an and [[South America]]n countries.
+what hemisphere is africa located in?	1935	africa --> vocabulary equivalent topic equivalent concept --> [u'Africa']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> taxonomy entry high --> [u'339', u'469', u'2739', u'3415', u'3981']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> geographic scope charities --> [u'FORGE']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> location area --> [u'30221532']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> dinosaur location dinosaur s --> [u'Inosaurus', u'Eocursor', u'Dryosaurus', u'Suchomimus', u'Brachiosaurus']	1	The Baryonychinae include ''[[Baryonyx]]'' from southern [[England]] and ''[[Suchomimus]]'' from [[Niger]] in central [[Africa]].
+what hemisphere is africa located in?	1935	africa --> mythology mythical creatures --> [u'Mami Wata']	2	* [[Mami Wata]] ([[Africa]] and the [[African diaspora]]) - Supernaturally beautiful water spirits
+what hemisphere is africa located in?	1935	africa --> continents planet --> [u'Earth']	5	[[Image:LocationGhana.svg|thumb|The location of [[Ghana]] in [[Africa]] and [[Earth]]]]
+what hemisphere is africa located in?	1935	africa --> taxonomy entry prefix --> [u'G', u'QE', u'DT', u'JS', u'JV']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> location people born here --> [u'Gustav Badin', u'Iras', u'\xc9ric All\xe9gret', u'Jean-Paul All\xe9gret', u'Andr\xe9 All\xe9gret']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> netflix genre titles --> [u'Bamako', u'Imani', u'Abouna', u'Life Above All', u'The Dove\u2019s Lost Necklace']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> webpage category --> [u'Tag']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> location contains major portion of --> [u'Egypt']	95	| [[Africa]]: [[Egypt]]
+what hemisphere is africa located in?	1935	africa --> location time zones --> [u'UTC+01:00', u'UTC+04:00', u'UTC\xb100:00', u'UTC+03:00', u'UTC\u221201:00']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> continents countries within --> [u'South Africa', u'Central African Republic', u'Guinea-Bissau', u'Morocco', u'Senegal']	418	It maintained close relations with the [[United Kingdom]], [[Senegal]], and other [[Africa]]n countries.
+what hemisphere is africa located in?	1935	africa --> geocode longitude --> [u'18.28125']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> location partially containedby --> [u'Northern Hemisphere', u'Southern Hemisphere']	17	Gondwana included most of the landmasses in today's [[Southern Hemisphere]], including [[Antarctica]], [[South America]], [[Africa]], [[Madagascar]], and the [[Australia (continent)|Australian continent]], as well as the [[Arabian Peninsula]] and the [[Indian subcontinent]], which have now moved entirely into the [[Northern Hemisphere]].
+what hemisphere is africa located in?	1935	africa --> webpage resource --> [u'Morning Roundup: Polanski Denied Release; \u201cUgly Betty\u201d Visits the U.N.; Letterman Tryst Details', u'Morning Roundup: Charlize Theron\u2019s Charity Shoes; the Coen Brothers\u2019 Open Call; The Red Hot Chili Peppers Lose a Guitarist (Again)', u"'The Real Housewives of New York City': Lost, mostly unnecessary, footage", u"Live Aid 1985 photo gallery: What's your favorite?", u"'Survivor: Gabon': Meet the cast (and their tats)"]	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> breed origin breeds originating here --> [u'Chinese Crested Dog']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> dated integer number --> [u'200000000', u'229895000', u'286729000', u'368148000', u'482803000']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> topic subject of --> [u'Black History Month']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> tv location tv episodes filmed here --> [u"Mutant Planet: Africa's Rift Valley Lakes"]	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> geocode latitude --> [u'9.102097']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> taxonomy entry low --> [u'1', u'320', u'468', u'1870', u'2445']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> object name --> [u'Africa']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> topic image --> [u'LocationAfrica', u'Africa satellite orthographic']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> context name official name --> [u'Africa']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> dated integer year --> [u'1893', u'1950', u'1960', u'1970', u'1980']	0	EMPTY
+what hemisphere is africa located in?	1935	africa --> book subject works --> [u'Ancient Egypt', u'Encyclopedia Africana', u'Mummies', u'In the Fog of the Seasons End', u'African Portraits']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvgDAn5wpEbGdrcN5Y29ycA']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> mathematical concept generalizations --> [u'n-sphere']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> topic alias --> [u'ball', u'globe', u'spheroid']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> object name --> [u'Sphere']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> topic image --> [u'Sphere-wireframe']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> map projection type projections of this type --> [u'Waterman butterfly projection', u'Globe']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> linguistic hint subject form --> [u'Spheres']	0	EMPTY
+what hemisphere is africa located in?	1935	sphere --> concepts theories parent concept --> [u'Differential topology', u'Geometry']	1	[[0 (number)]] - [[1 (number)]] - [[Abacus]] - [[Absolute value]] - [[Abstract algebra]] - [[Acceleration]] - [[Addition]] - [[Alan Turing]] - [[Albert Einstein]] - [[Algebra]] - [[Algebraic structure]] - [[Algorithm]] - [[Analytic geometry]] - [[Angle]] - [[Angular velocity]] - [[Applied mathematics]] - [[Arabic numerals]] - [[Archimedes]] - [[Area]] - [[Arithmetic]] - [[Arithmetic mean]] - [[Associativity]] - [[Bayesian inference]] - [[Bernhard Riemann]] - [[Bessel function]] - [[Binary numeral system]] - [[Binomial coefficient]] - [[Binomial distribution]] - [[Blaise Pascal]] - [[Boolean logic]] - [[Calculator]] - [[Calculus]] - [[Calculus of variations]] - [[Cardinal number]] - [[Carl Friedrich Gauss]] - [[Cartesian coordinate system]] - [[Cauchy–Schwarz inequality]] - [[Center of mass]] - [[Chaos theory]] - [[Chi-square distribution]] - [[Circle]] - [[Classical mechanics]] - [[Combinatorics]] - [[Commutative ring]] - [[Commutativity]] - [[Compact space]] - [[Compass and straightedge constructions]] - [[Complex number]] - [[Complex plane]] - [[Conic section]] - [[Control theory]] - [[Conway's Game of Life]] - [[Correlation]] - [[Cross product]] - [[Cryptography]] - [[Cube]] - [[Curl]] - [[Curve]] - [[Cyclic group]] - [[Decimal]] - [[Degree (angle)]] - [[Derivative]] - [[Determinant]] - [[Diameter]] - [[Differential equation]] - [[Distance]] - [[Division (mathematics)]] - [[Divisor]] - [[Eigenvalue, eigenvector and eigenspace]] - [[Elementary algebra]] - [[Elementary arithmetic]] - [[Elementary group theory]] - [[Ellipse]] - [[Elliptic curve]] - [[Equation]] - [[Equivalence relation]] - [[Euclid]] - [[Euclid's Elements]] - [[Euclidean geometry]] - [[Euclidean space]] - [[Euler's identity]] - [[Euler characteristic]] - [[Exponential distribution]] - [[Exponential function]] - [[Exponential growth]] - [[Exponentiation]] - [[Factorial]] - [[Factorization]] - [[Fermat's last theorem]] - [[Fibonacci number]] - [[First-order logic]] - [[Fluid mechanics]] - [[Formula]] - [[Four color theorem]] - [[Fractal]] - [[Fraction (mathematics)]] - [[Function (mathematics)]] - [[Function composition]] - [[Fundamental theorem of arithmetic]] - [[Fundamental theorem of calculus]] - [[Galois theory]] - [[Game theory]] - [[Gaussian elimination]] - [[Geometry]] - [[Georg Cantor]] - [[Goldbach's conjecture]] - [[Golden ratio]] - [[Greatest common divisor]] - [[Group (mathematics)]] - [[Group theory]] - [[Hexadecimal]] - [[Hexagon]] - [[Histogram]] - [[History of mathematics]] - [[Homeomorphism]] - [[Homotopy]] - [[Imaginary unit]] - [[Indian mathematics]] - [[Inequality]] - [[Infinite monkey theorem]] - [[Infinity]] - [[Information]] - [[Integer]] - [[Integral]] - [[International Mathematical Olympiad]] - [[Interpolation]] - [[Intersection (set theory)]] - [[Introduction to general relativity]] - [[Introduction to special relativity]] - [[Inverse function]] - [[Irrational number]] - [[Isaac Newton]] - [[Joseph Louis Lagrange]] - [[Kepler's laws of planetary motion]] - [[Kinematics]] - [[Kinetic energy]] - [[Klein bottle]] - [[Knot theory]] - [[Latitude]] - [[Least squares]] - [[Lebesgue integration]] - [[Leonhard Euler]] - [[Limit (mathematics)]] - [[Limit of a function]] - [[Line (mathematics)]] - [[Linear algebra]] - [[Linear equation]] - [[Linear regression]] - [[Logarithm]] - [[Magic square]] - [[Mandelbrot set]] - [[Manifold]] - [[Margin of error]] - [[Mathematical analysis]] - [[Mathematical physics]] - [[Mathematical proof]] - [[Mathematician]] - [[Mathematics]] - [[Matrix (mathematics)]] - [[Matrix multiplication]] - [[Mean]] - [[Measurement]] - [[Median]] - [[Mode (statistics)]] - [[Modular arithmetic]] - [[Momentum]] - [[Monte Carlo method]] - [[Monty Hall problem]] - [[Multiplication]] - [[Nash equilibrium]] - [[Natural logarithm]] - [[Natural number]] - [[Negative and non-negative numbers]] - [[Newton's laws of motion]] - [[Newton's method]] - [[Normal distribution]] - [[Number]] - [[Number theory]] - [[Numeral system]] - [[Numerical digit]] - [[Numerical integration]] - [[Octahedron]] - [[On-Line Encyclopedia of Integer Sequences]] - [[Operations research]] - [[Operator]] - [[Ordinal number]] - [[Ordinary differential equation]] - [[Partial differential equation]] - [[Pascal's triangle]] - [[Percentage]] - [[Perfect number]] - [[Permutation]] - [[Pi]] - [[Pierre-Simon Laplace]] - [[Pierre de Fermat]] - [[Plane (mathematics)]] - [[Platonic solid]] - [[Poisson distribution]] - [[Polar coordinate system]] - [[Polygon]] - [[Polyhedron]] - [[Polynomial]] - [[Portal:Algebra]] - [[Portal:Mathematics]] - [[Power series]] - [[Prime number]] - [[Probability]] - [[Probability distribution]] - [[Probability space]] - [[Probability theory]] - [[Pythagoras]] - [[Pythagorean theorem]] - [[Quadratic equation]] - [[Quantity]] - [[Radian]] - [[Random variable]] - [[Rational number]] - [[Real number]] - [[Regression analysis]] - [[Riemann surface]] - [[Roman numerals]] - [[Rubik's Cube]] - [[Sampling (statistics)]] - [[Sequence]] - [[Set]] - [[Set theory]] - [[Sphere]] - [[Spherical coordinate system]] - [[Square (geometry)]] - [[Square root]] - [[Standard deviation]] - [[Statistics]] - [[Student's t-distribution]] - [[Student's t-test]] - [[Subset]] - [[Subtraction]] - [[Symmetry]] - [[System of linear equations]] - [[Tangent]] - [[Taylor's theorem]] - [[Taylor series]] - [[Tesseract]] - [[Tetrahedron]] - [[Thales]] - [[Theorem]] - [[Topology]] - [[Torus]] - [[Triangle]] - [[Trigonometric functions]] - [[Trigonometry]] - [[Variance]] - [[Vector (spatial)]] - [[Vector calculus]] - [[Vector space]] - [[Velocity]] - [[Venn diagram]] - [[Volume]] - [[Wave]] - [[e (mathematical constant)]] - [[Évariste Galois]]
+what hemisphere is africa located in?	1935	cerebral hemisphere --> award honor award --> [u'Nobel Prize in Physiology or Medicine']	0	EMPTY
+what hemisphere is africa located in?	1935	cerebral hemisphere --> award honor notes description --> [u'""for his discoveries concerning the functional specialization of the cerebral hemispheres""']	0	EMPTY
+what hemisphere is africa located in?	1935	cerebral hemisphere --> award honor year --> [u'1981']	0	EMPTY
+what hemisphere is africa located in?	1935	cerebral hemisphere --> object name --> [u'Cerebral hemisphere']	0	EMPTY
+what hemisphere is africa located in?	1935	cerebral hemisphere --> topic image --> [u'Hemispheres']	0	EMPTY
+what hemisphere is africa located in?	1935	cerebral hemisphere --> award honor award winner --> [u'Roger Wolcott Sperry']	0	EMPTY
+what hemisphere is africa located in?	1935	cerebral hemisphere --> linguistic hint subject form --> [u'Cerebral hemispheres']	0	EMPTY
+what hemisphere is africa located in?	1935	cerebellar hemisphere --> object name --> [u'Cerebellar hemisphere']	0	EMPTY
+what hemisphere is africa located in?	1935	cerebellar hemisphere --> topic image --> [u'CerebellumDiv']	0	EMPTY

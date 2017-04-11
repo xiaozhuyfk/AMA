@@ -1,34 +1,34 @@
-when was father chris riley born?	4	chris riley --> person place of birth --> [u'Echuca']	0
-when was father chris riley born?	4	chris riley --> person date of birth --> [u'1954']	0
-when was father chris riley born?	4	chris riley --> object name --> [u'Chris Riley']	0
-when was father chris riley born?	4	chris riley --> person religion --> [u'Catholicism']	0
-when was father chris riley born?	4	chris riley --> person gender --> [u'Male']	0
-when was father chris riley born?	4	father chris --> object name --> [u'Father Chris']	0
-when was father chris riley born?	4	father chris --> performance actor --> [u'Alan Cumming']	0
-when was father chris riley born?	4	father chris --> performance film --> [u'Eighteen']	0
-when was father chris riley born?	4	chris riley --> person date of birth --> [u'1973-12-08']	0
-when was father chris riley born?	4	chris riley --> pro sports played sport --> [u'Golf']	0
-when was father chris riley born?	4	chris riley --> person place of birth --> [u'San Diego']	0
-when was father chris riley born?	4	chris riley --> person profession --> [u'Golfer']	0
-when was father chris riley born?	4	chris riley --> education institution --> [u'University of Nevada, Las Vegas']	0
-when was father chris riley born?	4	chris riley --> person gender --> [u'Male']	0
-when was father chris riley born?	4	chris riley --> object name --> [u'Chris Riley']	0
-when was father chris riley born?	4	chris riley --> topic image --> [u'Chris Riley at the 2007 KLM Open.']	0
-when was father chris riley born?	4	chris riley --> person weight kg --> [u'82']	0
-when was father chris riley born?	4	chris riley --> person nationality --> [u'United States of America']	0
-when was father chris riley born?	4	chris riley --> object name --> [u'Chris Riley']	0
-when was father chris riley born?	4	chris riley --> topic alias --> [u"Christine 'Chris' Reilly"]	0
-when was father chris riley born?	4	chris riley --> fictional character gender --> [u'Female']	0
-when was father chris riley born?	4	father --> webpage resource --> [u"Jerry O'Connell to pen memoir on fatherhood", u"'Top Model' judge Miss Jay is a daddy", u"Madonna's adoption drama continues", u"'The Mentalist' exclusive: Meet Jane's dad!"]	0
-when was father chris riley born?	4	father --> quotation subject quotations about this subject --> [u'The worst misfortune that can happen to an ordinary man is to have an extraordinary father.', u"The thing to remember about fathers is, they're men. A girl has to keep it in mind: They are dragon-seekers, bent on improbable rescues. Scratch any father, you find someone chock-full of qualms and romantic terrors, believing change is a threat -- like your first shoes with heels on, like your first bicycle I it took such months to get.", u'A father is a banker provided by nature.', u'To a father growing old nothing is dearer than a daughter.', u'That he delights in the misery of others no man will confess, and yet what other motive can make a father cruel?']	0
-when was father chris riley born?	4	father --> person gender --> [u'Male']	0
-when was father chris riley born?	4	father --> object name --> [u'Father']	0
-when was father chris riley born?	4	father --> topic image --> [u'Father and son 27', u'Father with child', u'My Father']	0
-when was father chris riley born?	4	father --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-when was father chris riley born?	4	father --> linguistic hint subject form --> [u'Fathers']	0
-when was father chris riley born?	4	father --> influence node influenced --> [u'Oris Erhuero']	0
-when was father chris riley born?	4	father --> book subject works --> [u'Dad', u'Dinner with Dad: How I Found My Way Back to the Family Table', u"The Bloke's Guide To Pregnancy"]	0
-when was father chris riley born?	4	father --> person metaweb user s --> [u'chewy110']	0
-when was father chris riley born?	4	god the father --> deity deity of --> [u'The Church of Jesus Christ of Latter-day Saints']	4
-when was father chris riley born?	4	god the father --> object name --> [u'God the Father']	0
-when was father chris riley born?	4	god the father --> topic image --> [u'Previtali trinita', u'Schnorr von Carolsfeld Bibel in Bildern 1860 001']	0
+when was father chris riley born?	4	chris riley --> person place of birth --> [u'Echuca']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person date of birth --> [u'1954']	0	EMPTY
+when was father chris riley born?	4	chris riley --> object name --> [u'Chris Riley']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person religion --> [u'Catholicism']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person gender --> [u'Male']	0	EMPTY
+when was father chris riley born?	4	father chris --> object name --> [u'Father Chris']	0	EMPTY
+when was father chris riley born?	4	father chris --> performance actor --> [u'Alan Cumming']	0	EMPTY
+when was father chris riley born?	4	father chris --> performance film --> [u'Eighteen']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person date of birth --> [u'1973-12-08']	0	EMPTY
+when was father chris riley born?	4	chris riley --> pro sports played sport --> [u'Golf']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person place of birth --> [u'San Diego']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person profession --> [u'Golfer']	0	EMPTY
+when was father chris riley born?	4	chris riley --> education institution --> [u'University of Nevada, Las Vegas']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person gender --> [u'Male']	0	EMPTY
+when was father chris riley born?	4	chris riley --> object name --> [u'Chris Riley']	0	EMPTY
+when was father chris riley born?	4	chris riley --> topic image --> [u'Chris Riley at the 2007 KLM Open.']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person weight kg --> [u'82']	0	EMPTY
+when was father chris riley born?	4	chris riley --> person nationality --> [u'United States of America']	0	EMPTY
+when was father chris riley born?	4	chris riley --> object name --> [u'Chris Riley']	0	EMPTY
+when was father chris riley born?	4	chris riley --> topic alias --> [u"Christine 'Chris' Reilly"]	0	EMPTY
+when was father chris riley born?	4	chris riley --> fictional character gender --> [u'Female']	0	EMPTY
+when was father chris riley born?	4	father --> webpage resource --> [u"Jerry O'Connell to pen memoir on fatherhood", u"'Top Model' judge Miss Jay is a daddy", u"Madonna's adoption drama continues", u"'The Mentalist' exclusive: Meet Jane's dad!"]	0	EMPTY
+when was father chris riley born?	4	father --> quotation subject quotations about this subject --> [u'The worst misfortune that can happen to an ordinary man is to have an extraordinary father.', u"The thing to remember about fathers is, they're men. A girl has to keep it in mind: They are dragon-seekers, bent on improbable rescues. Scratch any father, you find someone chock-full of qualms and romantic terrors, believing change is a threat -- like your first shoes with heels on, like your first bicycle I it took such months to get.", u'A father is a banker provided by nature.', u'To a father growing old nothing is dearer than a daughter.', u'That he delights in the misery of others no man will confess, and yet what other motive can make a father cruel?']	0	EMPTY
+when was father chris riley born?	4	father --> person gender --> [u'Male']	0	EMPTY
+when was father chris riley born?	4	father --> object name --> [u'Father']	0	EMPTY
+when was father chris riley born?	4	father --> topic image --> [u'Father and son 27', u'Father with child', u'My Father']	0	EMPTY
+when was father chris riley born?	4	father --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+when was father chris riley born?	4	father --> linguistic hint subject form --> [u'Fathers']	0	EMPTY
+when was father chris riley born?	4	father --> influence node influenced --> [u'Oris Erhuero']	0	EMPTY
+when was father chris riley born?	4	father --> book subject works --> [u'Dad', u'Dinner with Dad: How I Found My Way Back to the Family Table', u"The Bloke's Guide To Pregnancy"]	0	EMPTY
+when was father chris riley born?	4	father --> person metaweb user s --> [u'chewy110']	0	EMPTY
+when was father chris riley born?	4	god the father --> deity deity of --> [u'The Church of Jesus Christ of Latter-day Saints']	4	[[The Church of Jesus Christ of Latter-day Saints]] (LDS) teaches that [[Jehovah]] (whom they identify as the heavenly form of [[Jesus|Jesus Christ]]), under the direction of [[God the Father]], organized this world and others like it out of eternal, pre-existing materials.
+when was father chris riley born?	4	god the father --> object name --> [u'God the Father']	0	EMPTY
+when was father chris riley born?	4	god the father --> topic image --> [u'Previtali trinita', u'Schnorr von Carolsfeld Bibel in Bildern 1860 001']	0	EMPTY

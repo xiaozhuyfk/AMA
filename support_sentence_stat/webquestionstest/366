@@ -1,48 +1,48 @@
-what to see near grand canyon?	248	grand canyon --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what to see near grand canyon?	248	grand canyon --> webpage resource --> [u"'It's Always Sunny in Philadelphia': Road trip poll!", u"Snap Judgment: Kanye West's 'Touch the Sky' video", u"NBC plans 'Road Trip' reality series for this summer"]	0
-what to see near grand canyon?	248	grand canyon --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwOWuZJwpEbGdrcN5Y29ycA']	0
-what to see near grand canyon?	248	grand canyon --> tourist attraction near travel destination --> [u'Phoenix', u'Grand Canyon National Park', u'Lake Powell']	30
-what to see near grand canyon?	248	grand canyon --> art subject artwork on the subject --> [u'A Closer Grand Canyon', u'A Bigger Grand Canyon']	0
-what to see near grand canyon?	248	grand canyon --> location contains --> [u'Grand Canyon Depot', u'El Tovar Hotel', u"Buckey O'Neill Cabin", u'Grand Canyon Village Historic District', u'Grandview Mine']	2
-what to see near grand canyon?	248	grand canyon --> object name --> [u'Grand Canyon']	0
-what to see near grand canyon?	248	grand canyon --> topic image --> [u'GRANDVIEWREVB', u'Grand Canyon from the South Rim, 2006', u'USA 09847 Grand Canyon Luca Galuzzi 2007']	0
-what to see near grand canyon?	248	grand canyon --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what to see near grand canyon?	248	grand canyon --> location containedby --> [u'United States of America', u'Arizona', u'Grand Canyon National Park']	99
-what to see near grand canyon?	248	grand canyon --> location time zones --> [u'Mountain Time Zone', u'UTC\u221207:00']	0
-what to see near grand canyon?	248	grand canyon --> geocode latitude --> [u'36.1']	0
-what to see near grand canyon?	248	grand canyon --> geocode longitude --> [u'-112.1']	0
-what to see near grand canyon?	248	grand canyon --> book subject works --> [u'How the Canyon Became Grand: A Short History', u'John Wesley Powell']	0
-what to see near grand canyon?	248	grand canyon --> location nearby airports --> [u'Grand Canyon National Park Airport']	4
-what to see near grand canyon?	248	thermography --> object name --> [u'Thermography']	0
-what to see near grand canyon?	248	thermography --> topic image --> [u'Passivhaus thermogram gedaemmt ungedaemmt', u'VVV-2 corrigido', u'Infrared dog']	0
-what to see near grand canyon?	248	volumetric display --> object name --> [u'Volumetric display']	0
-what to see near grand canyon?	248	volumetric display --> topic image --> [u'PerspectaRAD mouse Phantom', u'UCSI Volex']	0
-what to see near grand canyon?	248	grand canyon national park --> open times hour end --> [u'T18:45']	0
-what to see near grand canyon?	248	grand canyon national park --> travel destination tourist attractions --> [u'Grand Canyon']	25
-what to see near grand canyon?	248	grand canyon national park --> location contains --> [u'Grand Canyon', u'Kaibab Plateau', u'Lookout Studio', u'Grand Canyon Power House', u"Vulcan's Throne"]	25
-what to see near grand canyon?	248	grand canyon national park --> us national park classification --> [u'National Park']	0
-what to see near grand canyon?	248	grand canyon national park --> dated integer year --> [u'2007']	0
-what to see near grand canyon?	248	grand canyon national park --> location area --> [u'4926']	0
-what to see near grand canyon?	248	grand canyon national park --> protected site iucn category --> [u'National park']	0
-what to see near grand canyon?	248	grand canyon national park --> transit line transit system --> [u'Grand Canyon Railway']	0
-what to see near grand canyon?	248	grand canyon national park --> webpage category --> [u'Topic Webpage']	0
-what to see near grand canyon?	248	grand canyon national park --> location containedby --> [u'Coconino County']	2
-what to see near grand canyon?	248	grand canyon national park --> topic official website --> [u'http://www.nps.gov/grca/index.htm']	0
-what to see near grand canyon?	248	grand canyon national park --> webpage description --> [u'Grand Canyon National Park']	0
-what to see near grand canyon?	248	grand canyon national park --> geocode longitude --> [u'-112.1375']	0
-what to see near grand canyon?	248	grand canyon national park --> film location featured in films --> [u'Into the Wild', u'Nurse Betty', u'Hanky Panky', u'Next', u'Ruggles of Red Gap']	0
-what to see near grand canyon?	248	grand canyon national park --> transit stop transit lines --> [u'Flagstaff / The Grand Canyon']	0
-what to see near grand canyon?	248	grand canyon national park --> webpage resource --> [u'Grand Canyon National Park']	0
-what to see near grand canyon?	248	grand canyon national park --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0
-what to see near grand canyon?	248	grand canyon national park --> transit line service type --> [u'Train']	0
-what to see near grand canyon?	248	grand canyon national park --> protected site date established --> [u'1919-02-26']	0
-what to see near grand canyon?	248	grand canyon national park --> protected site governing body --> [u'U.S. National Park Service']	6
-what to see near grand canyon?	248	grand canyon national park --> geocode latitude --> [u'36.0575']	0
-what to see near grand canyon?	248	grand canyon national park --> webpage uri --> [u'http://www.nps.gov/grca/index.htm']	0
-what to see near grand canyon?	248	grand canyon national park --> dated integer number --> [u'4413668']	0
-what to see near grand canyon?	248	grand canyon national park --> us national park state --> [u'Arizona']	55
-what to see near grand canyon?	248	grand canyon national park --> us national park closest airports --> [u'McCarran International Airport', u'Phoenix Sky Harbor International Airport']	0
-what to see near grand canyon?	248	grand canyon national park --> object name --> [u'Grand Canyon National Park']	0
-what to see near grand canyon?	248	grand canyon national park --> topic image --> [u'Grand Canyon - North Rim Panorama - Sept 2004', u'Grand Canyon poster 1938']	0
-what to see near grand canyon?	248	grand canyon national park --> open times hour start --> [u'T09:00']	0
-what to see near grand canyon?	248	grand canyon national park --> transit line stops --> [u'Grand Canyon Depot', u'Williams Depot']	0
+what to see near grand canyon?	248	grand canyon --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> webpage resource --> [u"'It's Always Sunny in Philadelphia': Road trip poll!", u"Snap Judgment: Kanye West's 'Touch the Sky' video", u"NBC plans 'Road Trip' reality series for this summer"]	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwOWuZJwpEbGdrcN5Y29ycA']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> tourist attraction near travel destination --> [u'Phoenix', u'Grand Canyon National Park', u'Lake Powell']	30	In 1993, Alpha Air was operating Trans World Express service with [[Beechcraft 1900C]] turboprops from a hub at [[Los Angeles International Airport]] (LAX) with service to [[Burbank, California|Burbank]] (BUR), [[Grand Canyon]] (GCN), [[Lake Tahoe]] (TVL), [[Mammoth Lakes]] (MMH), [[Palm Springs]] (PSP), [[Phoenix, Arizona|Phoenix]] (PHX) and [[Santa Ana, California|Santa Ana]]/[[Orange County Airport]] (SNA, now [[John Wayne Airport]].
+what to see near grand canyon?	248	grand canyon --> art subject artwork on the subject --> [u'A Closer Grand Canyon', u'A Bigger Grand Canyon']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> location contains --> [u'Grand Canyon Depot', u'El Tovar Hotel', u"Buckey O'Neill Cabin", u'Grand Canyon Village Historic District', u'Grandview Mine']	2	* [[El Tovar Hotel|El Tovar]] &mdash; [[Grand Canyon|Grand Canyon, Arizona]]; still in operation
+what to see near grand canyon?	248	grand canyon --> object name --> [u'Grand Canyon']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> topic image --> [u'GRANDVIEWREVB', u'Grand Canyon from the South Rim, 2006', u'USA 09847 Grand Canyon Luca Galuzzi 2007']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> location containedby --> [u'United States of America', u'Arizona', u'Grand Canyon National Park']	99	| VLE ||      || [[Valle Airport]] (FAA: 40G) || [[Grand Canyon]], [[Arizona]], United States
+what to see near grand canyon?	248	grand canyon --> location time zones --> [u'Mountain Time Zone', u'UTC\u221207:00']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> geocode latitude --> [u'36.1']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> geocode longitude --> [u'-112.1']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> book subject works --> [u'How the Canyon Became Grand: A Short History', u'John Wesley Powell']	0	EMPTY
+what to see near grand canyon?	248	grand canyon --> location nearby airports --> [u'Grand Canyon National Park Airport']	4	**[[Grand Canyon]] ([[Grand Canyon National Park Airport]]) (GCN)
+what to see near grand canyon?	248	thermography --> object name --> [u'Thermography']	0	EMPTY
+what to see near grand canyon?	248	thermography --> topic image --> [u'Passivhaus thermogram gedaemmt ungedaemmt', u'VVV-2 corrigido', u'Infrared dog']	0	EMPTY
+what to see near grand canyon?	248	volumetric display --> object name --> [u'Volumetric display']	0	EMPTY
+what to see near grand canyon?	248	volumetric display --> topic image --> [u'PerspectaRAD mouse Phantom', u'UCSI Volex']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> open times hour end --> [u'T18:45']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> travel destination tourist attractions --> [u'Grand Canyon']	25	* [[February 26]] &ndash; [[Grand Canyon National Park]]: An act of the [[United States Congress]] establishes most of the [[Grand Canyon]] as a [[United States National Park]].
+what to see near grand canyon?	248	grand canyon national park --> location contains --> [u'Grand Canyon', u'Kaibab Plateau', u'Lookout Studio', u'Grand Canyon Power House', u"Vulcan's Throne"]	25	* [[February 26]] &ndash; [[Grand Canyon National Park]]: An act of the [[United States Congress]] establishes most of the [[Grand Canyon]] as a [[United States National Park]].
+what to see near grand canyon?	248	grand canyon national park --> us national park classification --> [u'National Park']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> dated integer year --> [u'2007']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> location area --> [u'4926']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> protected site iucn category --> [u'National park']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> transit line transit system --> [u'Grand Canyon Railway']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> webpage category --> [u'Topic Webpage']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> location containedby --> [u'Coconino County']	2	The following is a list of [[hiking]] [[trail]]s that are, in whole or part, within the established boundaries of [[Grand Canyon National Park]], located in [[Coconino County, Arizona|Coconino]] and [[Mohave County, Arizona|Mohave]] counties in the [[United States|U.S.]]
+what to see near grand canyon?	248	grand canyon national park --> topic official website --> [u'http://www.nps.gov/grca/index.htm']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> webpage description --> [u'Grand Canyon National Park']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> geocode longitude --> [u'-112.1375']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> film location featured in films --> [u'Into the Wild', u'Nurse Betty', u'Hanky Panky', u'Next', u'Ruggles of Red Gap']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> transit stop transit lines --> [u'Flagstaff / The Grand Canyon']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> webpage resource --> [u'Grand Canyon National Park']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> transit line service type --> [u'Train']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> protected site date established --> [u'1919-02-26']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> protected site governing body --> [u'U.S. National Park Service']	6	'''Russell Errett Dickenson''' (April 12, 1923 – February 19, 2008) began his [[National Park Service|NPS]] career as a ranger at [[Grand Canyon National Park]] in 1946 and served in a wide range of park and central office assignments — most prominently as head of National Capital Parks, deputy director, and Pacific Northwest regional director — before ascending to the directorship in May 1980.
+what to see near grand canyon?	248	grand canyon national park --> geocode latitude --> [u'36.0575']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> webpage uri --> [u'http://www.nps.gov/grca/index.htm']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> dated integer number --> [u'4413668']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> us national park state --> [u'Arizona']	55	[[Grand Canyon National Park]], [[Arizona]], [[United States]]
+what to see near grand canyon?	248	grand canyon national park --> us national park closest airports --> [u'McCarran International Airport', u'Phoenix Sky Harbor International Airport']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> object name --> [u'Grand Canyon National Park']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> topic image --> [u'Grand Canyon - North Rim Panorama - Sept 2004', u'Grand Canyon poster 1938']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> open times hour start --> [u'T09:00']	0	EMPTY
+what to see near grand canyon?	248	grand canyon national park --> transit line stops --> [u'Grand Canyon Depot', u'Williams Depot']	0	EMPTY

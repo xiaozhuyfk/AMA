@@ -1,367 +1,367 @@
-what capital of austria?	59476	vienna --> organization scope organizations with this scope --> [u'42virtual']	0
-what capital of austria?	59476	vienna --> government position held office position or title --> [u'Reich Governor', u'Vice Mayor of Vienna', u'Mayor of Vienna']	0
-what capital of austria?	59476	vienna --> place of interment interred here --> [u'Viktor Frankl', u'Attila H\xf6rbiger', u'Francis I, Holy Roman Emperor', u'Empress Elisabeth of Austria', u'Theodor Herzl']	14
-what capital of austria?	59476	vienna --> transportation transport operator --> [u'Eurolines', u'Austrian Federal Railways']	2
-what capital of austria?	59476	vienna --> bibs location loc type --> [u'City']	0
-what capital of austria?	59476	vienna --> government position held appointed by --> [u'Adolf Hitler']	6
-what capital of austria?	59476	vienna --> location events --> [u'Siege of Vienna', u'2012 Shnit International Short Film Festival', u'Battle of Wagram', u'Battle of Aspern-Essling', u'Vienna Offensive']	17
-what capital of austria?	59476	vienna --> location contains --> [u'Palais P\xe1lffy, Vienna', u'University of Vienna', u'Konzerthaus, Vienna', u'Wiener Stadthalle', u'Leopoldstadt']	106
-what capital of austria?	59476	vienna --> topic alias --> [u'Wien', u'Vienna, Austria', u'Vienna Austria']	0
-what capital of austria?	59476	vienna --> helynevek intezmeny --> [u'Landesinnung der Baugewerbe, Vienna', u'\xd6sterreichische Galerie Belvedere', u'St Michael', u'Kunsthistorisches Museum', u'Maria am Gestade']	88
-what capital of austria?	59476	vienna --> administrative division second level division of --> [u'Austria']	1773
-what capital of austria?	59476	vienna --> adjoining relationship adjoins --> [u'Lower Austria']	72
-what capital of austria?	59476	vienna --> cityscape parks --> [u'Prater', u'Stadtpark, Vienna']	12
-what capital of austria?	59476	vienna --> location area --> [u'414.65']	0
-what capital of austria?	59476	vienna --> administrative area administrative area type --> [u'Austrian state']	0
-what capital of austria?	59476	vienna --> travel destination monthly climate average max temp c --> [u'2', u'3', u'4', u'7', u'9']	0
-what capital of austria?	59476	vienna --> location people born here --> [u'Robert Sara', u'Rupert Riedl', u'Linda Spa', u'Peter Schneider', u'Alice Masarykov\xe1']	1
-what capital of austria?	59476	vienna --> dated float date --> [u'2011']	0
-what capital of austria?	59476	vienna --> at district vehicle registration code --> [u'W']	0
-what capital of austria?	59476	vienna --> processed with review queue question id --> [u'/rabj/store/questions/question_fcbcc7e8ba72246a']	0
-what capital of austria?	59476	vienna --> government position held to --> [u'1945-03']	0
-what capital of austria?	59476	vienna --> travel destination local transportation --> [u'Wiener Linien', u'Wien S\xfcdbahnhof', u'Vienna S-Bahn', u'Vienna U-Bahn']	8
-what capital of austria?	59476	vienna --> at state shorthand --> [u'W']	0
-what capital of austria?	59476	vienna --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag']	0
-what capital of austria?	59476	vienna --> provenienciaadat kommentar --> [u'a d\xe9li toronyb\xf3l', u'a hosszh\xe1z d\xe9li fal\xe1nak k\xfcls\u0151 oldal\xe1n', u'a szent\xe9ly d\xe9li mell\xe9khaj\xf3j\xe1ban', u'a szent\xe9ly \xe9szaki mell\xe9khaj\xf3j\xe1ban', u'a szent\xe9lyb\u0151l']	0
-what capital of austria?	59476	vienna --> transportation transport terminus --> [u'Erdberg Station', u'Vienna International Airport', u'Vienna Landstrasse/Mitte', u'Vienna West railway station', u'Wien S\xfcdbahnhof']	64
-what capital of austria?	59476	vienna --> vacation choice vacationer --> [u'Benjamin McKenzie']	0
-what capital of austria?	59476	vienna --> webpage description --> [u'Visitor Information']	0
-what capital of austria?	59476	vienna --> dated float number --> [u'4002.2']	0
-what capital of austria?	59476	vienna --> location time zones --> [u'Central European Time']	0
-what capital of austria?	59476	vienna --> topic official website --> [u'http://www.wien.gv.at/']	0
-what capital of austria?	59476	vienna --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0
-what capital of austria?	59476	vienna --> geocode longitude --> [u'16.372583']	0
-what capital of austria?	59476	vienna --> film location featured in films --> [u'All is Forgiven', u'The Festival', u'The Dead And The Living']	0
-what capital of austria?	59476	vienna --> cityscape theatres --> [u'Konzerthaus, Vienna', u'Burgtheater', u'Vienna Volksoper', u'Vienna State Opera', u'Wiener Musikverein']	104
-what capital of austria?	59476	vienna --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what capital of austria?	59476	vienna --> webpage resource --> [u"Chris Harrison blogs 'The Bachelor': Season 14, episode 3", u'Michael Jackson tribute concert delayed until next year', u'Chris Brown, Mary J. Blige slated for Michael Jackson tribute concert', u'Michael Jackson tribute in Vienna will be broadcast worldwide', u'Nobel Prize Winner Eric Kandel Talks About New Documentary, \u201cIn Search of Memory\u201d']	0
-what capital of austria?	59476	vienna --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0
-what capital of austria?	59476	vienna --> provenienciaadat mutargy --> [u'St Michael', u'Saint Catherine', u'Saint Nicholas', u'Maria am Gestade', u"St. Stephen's Cathedral, Vienna"]	13
-what capital of austria?	59476	vienna --> cityscape museums --> [u'Liechtenstein Museum', u'Kunsthistorisches Museum', u'Naturhistorisches Museum', u'Technisches Museum Wien']	112
-what capital of austria?	59476	vienna --> location containedby --> [u'Austria']	1773
-what capital of austria?	59476	vienna --> travel destination monthly climate average rainfall mm --> [u'39', u'41', u'42', u'43', u'46']	0
-what capital of austria?	59476	vienna --> newspaper circulation area newspapers --> [u'Pravda', u'Der Standard', u'Al-Hayat', u'Kronen Zeitung', u'Kurier']	3
-what capital of austria?	59476	vienna --> at state capital --> [u'Vienna']	12125
-what capital of austria?	59476	vienna --> top architectural city structure count --> [u'3']	0
-what capital of austria?	59476	vienna --> bibs location country --> [u'Austria']	1773
-what capital of austria?	59476	vienna --> travel destination tourist attractions --> [u'Albertina', u'Karlskirche, Vienna', u'Vienna Observatory', u'Prater', u'Sch\xf6nbrunn Palace']	28
-what capital of austria?	59476	vienna --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what capital of austria?	59476	vienna --> government position held from --> [u'1940', u'1994-11-07']	0
-what capital of austria?	59476	vienna --> helynevek helynev --> [u'B\xe9cs']	0
-what capital of austria?	59476	vienna --> provenienciaadat intezmeny --> [u'St Michael', u'Maria am Gestade', u"St. Stephen's Cathedral, Vienna", u'Rothschild Collection', u'Rathaus, Vienna']	14
-what capital of austria?	59476	vienna --> administrative division first level division of --> [u'Austria']	1773
-what capital of austria?	59476	vienna --> geocode latitude --> [u'48.20875']	0
-what capital of austria?	59476	vienna --> cityscape universities --> [u'University of Vienna', u'PEF Private University of Management Vienna', u'Sigmund Freud University Vienna', u'Vienna University of Technology', u'University of Music and Performing Arts, Vienna']	89
-what capital of austria?	59476	vienna --> administrative division capital relationship administrative division --> [u'Austria']	1773
-what capital of austria?	59476	vienna --> administrative area administrative parent --> [u'Austria']	1773
-what capital of austria?	59476	vienna --> webpage uri --> [u'http://www.wien.gv.at', u'http://www.wien.at/', u'http://wikitravel.org/en/Vienna']	0
-what capital of austria?	59476	vienna --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjUNJwpEbGdrcN5Y29ycA']	0
-what capital of austria?	59476	vienna --> topic topical webpage --> [u'http://wikitravel.org/en/Vienna']	0
-what capital of austria?	59476	vienna --> provenienciaadat aktualis --> [u'0', u'1']	0
-what capital of austria?	59476	vienna --> government position held office holder --> [u'Maria Vassilakou', u'Baldur von Schirach', u'Michael H\xe4upl']	4
-what capital of austria?	59476	vienna --> sports team location teams --> [u'FK Austria Wien']	7
-what capital of austria?	59476	vienna --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	0
-what capital of austria?	59476	vienna --> travel destination monthly climate average min temp c --> [u'-4', u'-3', u'-2', u'0', u'2']	0
-what capital of austria?	59476	vienna --> object name --> [u'Vienna']	0
-what capital of austria?	59476	vienna --> topic image --> [u'Vienna Crest', u'Vienna skyline', u'Graben has been a car-free zone for decades']	0
-what capital of austria?	59476	vienna --> cityscape stadiums --> [u'Ernst-Happel-Stadion']	105
-what capital of austria?	59476	vienna --> bibs topic subsumes --> [u'Vienna']	0
-what capital of austria?	59476	vienna --> bibs location is clear --> [u'1']	0
-what capital of austria?	59476	vienna --> dated integer number --> [u'1731236']	0
-what capital of austria?	59476	vienna --> dated integer year --> [u'2011']	0
-what capital of austria?	59476	vienna --> administrative division country --> [u'Austria']	1773
-what capital of austria?	59476	vienna --> citytown postal codes --> [u'1010']	0
-what capital of austria?	59476	vienna --> book subject works --> [u'Runaway Waltz: A Memoir from Vienna to New York']	0
-what capital of austria?	59476	vienna --> location nearby airports --> [u'Vienna International Airport']	63
-what capital of austria?	59476	capital of germany --> object name --> [u'Capital of Germany']	0
-what capital of austria?	59476	capital of germany --> topic image --> [u'Berlin reichstag CP']	0
-what capital of austria?	59476	austria --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
-what capital of austria?	59476	austria --> government position held office position or title --> [u'President of Austria', u'Chancellor of Austria']	24
-what capital of austria?	59476	austria --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	9
-what capital of austria?	59476	austria --> bibs location loc type --> [u'Country']	0
-what capital of austria?	59476	austria --> speech or presentation speech topic --> [u'Jewish population by country']	0
-what capital of austria?	59476	austria --> dated percentage rate --> [u'0.130245', u'0.257902', u'0.637697', u'0.758953', u'1.386068']	0
-what capital of austria?	59476	austria --> location partially contains --> [u'Euregio Salzburg-Berchtesgadener Land-Traunstein', u'Euregio Silva Nortica', u'III. Hornspitze', u'Coglians', u'Euregio Inn-Salzach']	0
-what capital of austria?	59476	austria --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
-what capital of austria?	59476	austria --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> taxonomy entry prefix --> [u'JN', u'DB']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0
-what capital of austria?	59476	austria --> competitor competition relationship rank --> [u'2']	0
-what capital of austria?	59476	austria --> location people born here --> [u'Oliver Sch\xf6pf', u'Christoph Kobleder', u'Helmut Kinz', u'J\xf6rg Lanz von Liebenfels', u'Uschi Ulrich']	0
-what capital of austria?	59476	austria --> olympic medal honor medalist --> [u'Klaus Sulzenbacher', u'Trixi Schuba', u'Benjamin Karl', u'Mikhail Botvinov', u'Andreas Goldberger']	2
-what capital of austria?	59476	austria --> country currency formerly used --> [u'Austrian schilling', u'Austrian krone']	4
-what capital of austria?	59476	austria --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what capital of austria?	59476	austria --> webpage description --> [u'Official Austrian Government Website - Bundeskanzleramt - Office of the Chancellor']	0
-what capital of austria?	59476	austria --> administrative area adjectival form --> [u'Austrian']	0
-what capital of austria?	59476	austria --> country fips  --> [u'AU']	0
-what capital of austria?	59476	austria --> ambassadorial tenure ambassador --> [u'Barth\xe9l\xe9mi de St\xfcrmer']	0
-what capital of austria?	59476	austria --> location containedby --> [u'Europe', u'Western Europe', u'Eurasia', u'Central Europe']	206
-what capital of austria?	59476	austria --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0
-what capital of austria?	59476	austria --> olympic athlete affiliation sport --> [u'Cycling', u'Cross-country skiing', u'Canoe Slalom', u'Speed skating', u'Bobsleigh']	6
-what capital of austria?	59476	austria --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0
-what capital of austria?	59476	austria --> organization membership organization --> [u'World Bank', u'League of Nations', u'European Space Agency', u'Organisation for Economic Co-operation and Development', u'European Union']	4
-what capital of austria?	59476	austria --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
-what capital of austria?	59476	austria --> webpage in index --> [u'WSJ Speakeasy Index']	0
-what capital of austria?	59476	austria --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0
-what capital of austria?	59476	austria --> dated kilowatt hour number --> [u'1814.676', u'1882.224', u'2006.77', u'2124.359', u'2232.897']	0
-what capital of austria?	59476	austria --> dated money value valid date --> [u'2006']	0
-what capital of austria?	59476	austria --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViUl5wpEbGdrcN5Y29ycA']	0
-what capital of austria?	59476	austria --> government position held office holder --> [u'Werner Faymann', u'Kurt Waldheim', u'Guido Schmidt', u'Heinz Fischer', u'Wolfgang Schmitz']	16
-what capital of austria?	59476	austria --> competitor competition relationship competitors --> [u'Marion Maruska']	0
-what capital of austria?	59476	austria --> dated percentage date --> [u'1994-01', u'1994-02', u'1994-03', u'1994-04', u'1994-05']	0
-what capital of austria?	59476	austria --> dated percentage date --> [u'2002-07', u'2002-10', u'2003-01', u'2003-07', u'2003-10']	0
-what capital of austria?	59476	austria --> olympic participating country olympics participated in --> [u'1900 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics', u'1896 Summer Olympics']	21
-what capital of austria?	59476	austria --> bibs location is clear --> [u'0']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what capital of austria?	59476	austria --> ambassadorial tenure from date --> [u'1832']	0
-what capital of austria?	59476	austria --> organization scope organizations with this scope --> [u'42virtual', u'Austrian Ministry of the Interior', u'Social Democratic Party of Austria', u'iProspect', u'Alliance for the Future of Austria']	20
-what capital of austria?	59476	austria --> country first level divisions --> [u'Vienna', u'Burgenland', u'Salzburg', u'Upper Austria', u'Styria']	2227
-what capital of austria?	59476	austria --> dated money value amount --> [u'10440', u'11340', u'12280', u'13190', u'13680']	0
-what capital of austria?	59476	austria --> country languages spoken --> [u'Bavarian Language', u'German Language', u'Turkish Language', u'Austrian German', u'Bosnian language']	129
-what capital of austria?	59476	austria --> equivalent topic equivalent domain --> [u'Austria']	0
-what capital of austria?	59476	austria --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what capital of austria?	59476	austria --> competitor country relationship competitor --> [u'Alexandra Mathis', u'Dominik Trojan', u'Matthias Almer', u'Nina Almer', u'Vilson Vattanirappel']	0
-what capital of austria?	59476	austria --> country calling code --> [u'43']	0
-what capital of austria?	59476	austria --> adjoining relationship adjoins --> [u'Germany', u'Hungary', u'Italy', u'Switzerland', u'Slovakia']	3573
-what capital of austria?	59476	austria --> olympic medal honor event --> [u"Swimming at the 2000 Summer Olympics \u2013 Women's 100 metre breaststroke", u'Ski Jumping at the 1992 Winter Olympics - Normal Hill', u"Swimming at the 1996 Summer Olympics \u2013 Women's 200 metre breaststroke", u"Shooting at the 1976 Summer Olympics - Men's 50 metre pistol", u"Snowboarding at the 2010 Winter Olympics \u2013 Men's parallel giant slalom"]	0
-what capital of austria?	59476	austria --> geocode longitude --> [u'16.22']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0
-what capital of austria?	59476	austria --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	9
-what capital of austria?	59476	austria --> administrative division capital relationship capital --> [u'Vienna']	1773
-what capital of austria?	59476	austria --> ambassadorial tenure to countries --> [u'Turkey']	306
-what capital of austria?	59476	austria --> dated percentage rate --> [u'0.812633', u'0.85527', u'0.880758', u'0.904699', u'0.906456']	0
-what capital of austria?	59476	austria --> olympic participating country ioc code --> [u'AUT']	0
-what capital of austria?	59476	austria --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0
-what capital of austria?	59476	austria --> landlocked country surrounded by --> [u'Germany', u'Hungary', u'Italy', u'Switzerland', u'Slovenia']	3690
-what capital of austria?	59476	austria --> dated kgoe number --> [u'1546.261', u'1554.035', u'1675.874', u'1823.995', u'1851.844']	0
-what capital of austria?	59476	austria --> country currency used --> [u'Euro']	3
-what capital of austria?	59476	austria --> dated float number --> [u'1.33', u'1.34', u'1.36', u'1.37', u'1.38']	0
-what capital of austria?	59476	austria --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what capital of austria?	59476	austria --> country iso  shortname --> [u'AUSTRIA']	0
-what capital of austria?	59476	austria --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
-what capital of austria?	59476	austria --> dated percentage date --> [u'1995', u'1996', u'1997', u'1998', u'1999']	0
-what capital of austria?	59476	austria --> breed origin breeds originating here --> [u'Austrian Pinscher', u'Vizsla', u'Tyrolean Hound', u'Alpine Dachsbracke', u'Styrian Coarse-haired Hound']	4
-what capital of austria?	59476	austria --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0
-what capital of austria?	59476	austria --> newspaper circulation area newspapers --> [u'Der Standard', u'Die Presse', u'C\xf3ndor', u'Kurier', u'Arbeiter-Zeitung']	4
-what capital of austria?	59476	austria --> adjusted money value adjusted value --> [u'52709131085', u'55628151863', u'57101560877', u'59464576259', u'63106397258']	0
-what capital of austria?	59476	austria --> adjusted money value adjustment currency --> [u'United States dollar']	0
-what capital of austria?	59476	austria --> ambassadorial tenure to date --> [u'1850']	0
-what capital of austria?	59476	austria --> dated percentage rate --> [u'-3.809961', u'-0.363736', u'-0.146122', u'-0.144178', u'0.060678']	0
-what capital of austria?	59476	austria --> webpage uri --> [u'http://www.austria.gv.at', u'http://statoids.com/uat.html']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what capital of austria?	59476	austria --> flag use flag --> [u'Flag of Austria']	3
-what capital of austria?	59476	austria --> country second level divisions --> [u'Zell am See District', u'Tamsweg District', u'Salzburg-Umgebung District', u'Salzburg', u'Vienna']	2057
-what capital of austria?	59476	austria --> sports team location teams --> [u"Austria men's national ice hockey team", u'Austria national football team', u'Austria national cricket team', u'Austria national handball team', u"Austria women's national handball team"]	29
-what capital of austria?	59476	austria --> administrative area capital --> [u'Vienna']	1773
-what capital of austria?	59476	austria --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what capital of austria?	59476	austria --> dated money value valid date --> [u'2006']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0
-what capital of austria?	59476	austria --> place of interment interred here --> [u'Y\u014d Inoue']	0
-what capital of austria?	59476	austria --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> united nations body head tenure body --> [u'United Nations Security Council']	0
-what capital of austria?	59476	austria --> location adjectival form --> [u'Austrian']	0
-what capital of austria?	59476	austria --> administrative area subdividing place --> [u'Styria']	191
-what capital of austria?	59476	austria --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
-what capital of austria?	59476	austria --> dated metric ton number --> [u'4.373319', u'4.496362', u'4.755362', u'5.155194', u'5.252197']	0
-what capital of austria?	59476	austria --> united nations body head tenure to --> [u'2009-11-30']	0
-what capital of austria?	59476	austria --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
-what capital of austria?	59476	austria --> base equivalent location base --> [u'Austria']	0
-what capital of austria?	59476	austria --> administrative area subdividing type --> [u'Austrian state']	0
-what capital of austria?	59476	austria --> government position held to --> [u'1992-07-08', u'1938-03-11']	0
-what capital of austria?	59476	austria --> webpage category --> [u'Topic Webpage', u'Tag', u'Topic Equivalent']	0
-what capital of austria?	59476	austria --> government position held basic title --> [u'President', u'Finance minister', u'Foreign Minister', u'Chancellor']	1
-what capital of austria?	59476	austria --> linguistic hint adjectival form --> [u'Austrian']	0
-what capital of austria?	59476	austria --> countries continent --> [u'Europe']	148
-what capital of austria?	59476	austria --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> administrative area administrative parent --> [u'Earth']	0
-what capital of austria?	59476	austria --> country capital --> [u'Vienna']	1773
-what capital of austria?	59476	austria --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> dated percentage rate --> [u'3.4', u'3.5', u'3.6', u'3.7', u'3.8']	0
-what capital of austria?	59476	austria --> country internet tld --> [u'at']	1
-what capital of austria?	59476	austria --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what capital of austria?	59476	austria --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-what capital of austria?	59476	austria --> beer country region beers from here --> [u'Zipf Zipfer', u'Schlossbrauerei Eggenberg Samichlaus Bier', u'Schlossbrauerei Eggenberg Urbock 23\xb0', u'Privatbrauerei Karl Theodor Trojan Schrems Schremser Roggen Bier', u'Fohrenburger Premium Weizen']	0
-what capital of austria?	59476	austria --> parent institution judaica owning units --> [u'Austrian National Library']	2
-what capital of austria?	59476	austria --> dated money value valid date --> [u'2008']	0
-what capital of austria?	59476	austria --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> dated money value amount --> [u'39200']	0
-what capital of austria?	59476	austria --> room theme rooms with this theme --> [u'Austrian Suite']	0
-what capital of austria?	59476	austria --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what capital of austria?	59476	austria --> administrative area short name --> [u'at']	0
-what capital of austria?	59476	austria --> dated location date founded --> [u'1955-07-27']	0
-what capital of austria?	59476	austria --> religion percentage religion --> [u'Catholicism']	2
-what capital of austria?	59476	austria --> country form of government --> [u'Federation', u'Federal republic', u'Parliamentary republic']	0
-what capital of austria?	59476	austria --> competitor competition relationship competition --> [u'1997 Skoda Czech Open \u2013 Singles']	0
-what capital of austria?	59476	austria --> competitor country relationship sports --> [u'Badminton']	0
-what capital of austria?	59476	austria --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
-what capital of austria?	59476	austria --> dated percentage source --> [u'Broadband penetration rate, Broadband penetration in Europe, Eurostat']	0
-what capital of austria?	59476	austria --> adjusted money value adjustment date --> [u'2000']	0
-what capital of austria?	59476	austria --> book subject works --> [u'Freundschaft mit Freud', u'Mahler Remembered', u'Budapest 1900', u'Classic German Cookbook', u'The Wandering Jews']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0
-what capital of austria?	59476	austria --> organization membership to --> [u'1938-03-13']	0
-what capital of austria?	59476	austria --> speech or presentation speaker s --> [u'Alexander Mintz']	0
-what capital of austria?	59476	austria --> dated percentage rate --> [u'4.7', u'4.8', u'5.3', u'6.6', u'7']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what capital of austria?	59476	austria --> location contains --> [u'Fusch an der Gro\xdfglocknerstra\xdfe', u'Rauris', u'Tamsweg', u'Bad Hofgastein', u'Zederhaus']	6
-what capital of austria?	59476	austria --> topic alias --> [u'\xd6sterreich', u'Autriche', u'Oesterreich', u'Republic of Austria']	0
-what capital of austria?	59476	austria --> flag use from date --> [u'1230']	0
-what capital of austria?	59476	austria --> court jurisdiction area courts --> [u'Unabh\xe4ngiger Finanzsenat', u'Supreme Court of Austria']	0
-what capital of austria?	59476	austria --> dated money value amount --> [u'36000']	0
-what capital of austria?	59476	austria --> taxonomy entry high --> [u'879', u'2191']	0
-what capital of austria?	59476	austria --> organization membership from --> [u'1995-01-01', u'1920-12-15', u'1955-12-14']	0
-what capital of austria?	59476	austria --> location area --> [u'83855']	0
-what capital of austria?	59476	austria --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
-what capital of austria?	59476	austria --> speech or presentation event --> [u'First Zionist Congress - First Day - Afternoon Session']	0
-what capital of austria?	59476	austria --> united nations body head tenure from --> [u'2009-11-01']	0
-what capital of austria?	59476	austria --> governmental jurisdiction government --> [u'Austrian Federal Government']	0
-what capital of austria?	59476	austria --> governmental jurisdiction agencies --> [u'Austrian Ministry of Defence', u'Austrian Ministry of Economics and Labour', u'Austrian Ministry of the Interior', u'Bundesministerium f\xfcr soziale Sicherheit und Generationen', u'Austrian Air Force']	5
-what capital of austria?	59476	austria --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what capital of austria?	59476	austria --> country administrative divisions --> [u'Vienna', u'Burgenland', u'Salzburg', u'Upper Austria', u'Styria']	2227
-what capital of austria?	59476	austria --> competitor competition relationship tournament --> [u'1997 Skoda Czech Open']	0
-what capital of austria?	59476	austria --> dated float number --> [u'68.586', u'69.31', u'69.444', u'69.577', u'69.722']	0
-what capital of austria?	59476	austria --> governmental jurisdiction government bodies --> [u'National Council', u'Federal Council', u'Austrian Parliament', u'Federal Convention']	2
-what capital of austria?	59476	austria --> administrative area pertinent type --> [u'Austrian political district', u'Austrian state', u'Austrian municipality', u'Austrian statutory city']	0
-what capital of austria?	59476	austria --> location time zones --> [u'UTC+01:00', u'Central European Time']	5
-what capital of austria?	59476	austria --> administrative area administrative area type --> [u'Sovereign state']	0
-what capital of austria?	59476	austria --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
-what capital of austria?	59476	austria --> film location featured in films --> [u'Last Holiday', u'Help!', u'The Inheritors']	0
-what capital of austria?	59476	austria --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what capital of austria?	59476	austria --> webpage resource --> [u'Nobel Prize Winner Eric Kandel Talks About New Documentary, \u201cIn Search of Memory\u201d', u'My Grandma Fritzi, Movie Star, or How a Muslim King Saved Jews in World War II (Essay)', u'Official Austrian Government Website - Bundeskanzleramt - Office of the Chancellor', u'Statoids of Austria']	0
-what capital of austria?	59476	austria --> topic exceptions --> [u'City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District.', u'The type Austrian Municipality does not specify where instances may appear.']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what capital of austria?	59476	austria --> topic official website --> [u'http://www.austria.gv.at/']	0
-what capital of austria?	59476	austria --> government position held governmental body --> [u'Austrian Federal Government']	0
-what capital of austria?	59476	austria --> sport country multi event tournaments participated in --> [u'2012 World Mountain Running Championships']	0
-what capital of austria?	59476	austria --> dated integer number --> [u'7047539', u'7086299', u'7129864', u'7175811', u'7223801']	0
-what capital of austria?	59476	austria --> dated money value amount --> [u'279500000000']	0
-what capital of austria?	59476	austria --> geocode latitude --> [u'48.12']	0
-what capital of austria?	59476	austria --> location events --> [u'Bombing of Wiener Neustadt in World War II', u'Ottoman wars in Europe', u'Polish\u2013Ottoman War (1683\u20131699)', u'2007 Vienna International Film Festival', u'Battle of Kressenbrunn']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0
-what capital of austria?	59476	austria --> country official language --> [u'German Language']	122
-what capital of austria?	59476	austria --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what capital of austria?	59476	austria --> dated money value amount --> [u'6592693841', u'7311749633', u'7756110210', u'8374175257.54', u'8374175258']	0
-what capital of austria?	59476	austria --> taxonomy entry low --> [u'1', u'1601']	0
-what capital of austria?	59476	austria --> administrative area administrative children --> [u'Vienna', u'Burgenland', u'Salzburg', u'Upper Austria', u'Styria']	2227
-what capital of austria?	59476	austria --> government position held from --> [u'1986-07-08', u'2004-07-08', u'2008-12-02', u'1936-02-12']	0
-what capital of austria?	59476	austria --> olympic athlete affiliation athlete --> [u'Manuel Pfister', u'Hunor Mate', u'Tobias Eberhard', u'Benjamin Karl', u'Peter Luttenberger']	1
-what capital of austria?	59476	austria --> olympic athlete affiliation athlete --> [u'Karl Ruberl']	0
-what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0
-what capital of austria?	59476	austria --> dated money value amount --> [u'78784994485', u'85854915685', u'92993899624', u'99743134347', u'103451917763']	0
-what capital of austria?	59476	austria --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what capital of austria?	59476	austria --> object name --> [u'Austria']	0
-what capital of austria?	59476	austria --> topic image --> [u'Location Austria EU Europe', u'Bundesadler']	0
-what capital of austria?	59476	austria --> national anthem of a country anthem --> [u'Land der Berge, Land am Strome']	2
-what capital of austria?	59476	austria --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what capital of austria?	59476	austria --> dated percentage rate --> [u'-0.27', u'-0.18', u'-0.17', u'-0.16', u'-0.08']	0
-what capital of austria?	59476	austria --> governmental jurisdiction government positions --> [u'Chancellor of Austria', u'Vice-Chancellor of Austria']	12
-what capital of austria?	59476	austria --> dated percentage rate --> [u'60.2', u'62.3', u'63.8', u'64.1', u'64.2']	0
-what capital of austria?	59476	capital --> topic official website --> [u'http://www.capitalfm.com']	0
-what capital of austria?	59476	capital --> topic alias --> [u'The Capital FM Network']	0
-what capital of austria?	59476	capital --> object name --> [u'Capital']	0
-what capital of austria?	59476	capital --> webpage uri --> [u'http://www.capitalfm.com', u'http://www.thisisglobal.com/radio/capital']	0
-what capital of austria?	59476	capital --> object name --> [u'Capital']	0
-what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what capital of austria?	59476	atlanta --> government position held office position or title --> [u'Mayor of Atlanta']	0
-what capital of austria?	59476	atlanta --> bibs location loc type --> [u'City']	0
-what capital of austria?	59476	atlanta --> travel destination monthly climate average rainfall mm --> [u'84', u'93', u'103', u'105', u'110']	0
-what capital of austria?	59476	atlanta --> dog city relationship date --> [u'2008']	0
-what capital of austria?	59476	atlanta --> location people born here --> [u'Kelvin Sheppard', u'Georgia Douglas Johnson', u'Sam Cronin', u'Mike Sanders', u'Ernest Grant']	0
-what capital of austria?	59476	atlanta --> travel destination local transportation --> [u'Metropolitan Atlanta Rapid Transit Authority']	7
-what capital of austria?	59476	atlanta --> federal reserve bank letter --> [u'F']	0
-what capital of austria?	59476	atlanta --> sports team roster from --> [u'2007']	0
-what capital of austria?	59476	atlanta --> location containedby --> [u'United States of America', u'Georgia', u'Fulton County', u'Area code 404', u'Area code 678']	1217
-what capital of austria?	59476	atlanta --> location of biosafety facility biosafety facility --> [u'United States Centers for Disease Control and Prevention', u'Georgia State University Facility']	9
-what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0
-what capital of austria?	59476	atlanta --> fictional setting fictional characters born here --> [u'Nico Harris']	0
-what capital of austria?	59476	atlanta --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what capital of austria?	59476	atlanta --> hud county place county --> [u'Fulton County']	40
-what capital of austria?	59476	atlanta --> topic official website --> [u'http://www.atlantaga.gov/']	0
-what capital of austria?	59476	atlanta --> webpage description --> [u'Visitor Information']	0
-what capital of austria?	59476	atlanta --> sports team roster player --> [u'Joe Horn']	0
-what capital of austria?	59476	atlanta --> bibs location is clear --> [u'0']	0
-what capital of austria?	59476	atlanta --> government position held office holder --> [u'Andrew Young', u'Kasim Reed', u'Shirley Franklin', u'Maynard Jackson', u'Roy LeCraw']	16
-what capital of austria?	59476	atlanta --> support supporter --> [u'Deion Sanders']	0
-what capital of austria?	59476	atlanta --> geocode datum --> [u'NAD83']	0
-what capital of austria?	59476	atlanta --> organization scope organizations with this scope --> [u'Dillinger Media']	0
-what capital of austria?	59476	atlanta --> sports team roster position --> [u'Wide receiver']	0
-what capital of austria?	59476	atlanta --> dated float date --> [u'2008']	0
-what capital of austria?	59476	atlanta --> geocode longitude --> [u'-84.3881']	0
-what capital of austria?	59476	atlanta --> sports team roster from --> [u'2007']	0
-what capital of austria?	59476	atlanta --> organization relationship as of date --> [u'2007', u'2008', u'2009']	0
-what capital of austria?	59476	atlanta --> dated float number --> [u'0']	0
-what capital of austria?	59476	atlanta --> travel destination monthly climate average min temp c --> [u'0', u'1', u'2', u'6', u'10']	0
-what capital of austria?	59476	atlanta --> football historical roster position from --> [u'2007']	0
-what capital of austria?	59476	atlanta --> football historical roster position from --> [u'2007']	0
-what capital of austria?	59476	atlanta --> administrative division capital relationship administrative division --> [u'Georgia', u'Fulton County']	1027
-what capital of austria?	59476	atlanta --> adjoining relationship adjoins --> [u'Duluth']	8
-what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0
-what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Census Bureau, Population']	0
-what capital of austria?	59476	atlanta --> newspaper circulation area newspapers --> [u'The Signal', u'The Great Speckled Bird', u'The Atlanta Journal-Constitution', u'The Emory Wheel', u'Urdu Times']	2
-what capital of austria?	59476	atlanta --> top architectural city structure count --> [u'27']	0
-what capital of austria?	59476	atlanta --> bibs location country --> [u'United States of America']	285
-what capital of austria?	59476	atlanta --> football historical roster position player --> [u'Joe Horn']	0
-what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what capital of austria?	59476	atlanta --> webpage uri --> [u'http://www.atlantaga.gov/', u'http://wikitravel.org/en/Atlanta']	0
-what capital of austria?	59476	atlanta --> dog city relationship dog breed --> [u'Dachshund', u'German Shepherd Dog', u'Yorkshire Terrier', u'Boxer', u'Shih Tzu']	0
-what capital of austria?	59476	atlanta --> sports team location teams --> [u'Atlanta Braves', u'Atlanta Falcons', u'Atlanta Hawks', u'Atlanta Thrashers', u'Georgia Tech Yellow Jackets football']	65
-what capital of austria?	59476	atlanta --> football historical roster position position s --> [u'Wide receiver']	0
-what capital of austria?	59476	atlanta --> location nearby airports --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'Atlanta Regional Airport', u'Cobb County Airport', u'Fulton County Airport', u'DeKalb-Peachtree Airport']	2
-what capital of austria?	59476	atlanta --> place of interment interred here --> [u'Alfred Iverson, Jr.', u'Ralph Abernathy']	0
-what capital of austria?	59476	atlanta --> transportation transport operator --> [u'Amtrak', u'Greyhound Lines']	8
-what capital of austria?	59476	atlanta --> travel destination monthly climate average max temp c --> [u'10', u'12', u'17', u'18', u'23']	0
-what capital of austria?	59476	atlanta --> location events --> [u'1996 Summer Olympics', u'2009  Easter Crash on Camp Creek Parkway', u"1984 NCAA Men's Division I Basketball Tournament", u"Ohio State-Kentucky 1987 NCAA Men's Division I Basketball Tournament Game", u"Georgetown-Ohio State 1987 NCAA Men's Division I Basketball Tournament Game"]	569
-what capital of austria?	59476	atlanta --> football historical roster position player --> [u'Joe Horn']	0
-what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what capital of austria?	59476	atlanta --> base equivalent location base --> [u'Atlanta']	0
-what capital of austria?	59476	atlanta --> federal reserve bank federal reserve region --> [u'Atlanta']	0
-what capital of austria?	59476	atlanta --> government position held to --> [u'1942', u'1982', u'1990', u'2002', u'1887']	0
-what capital of austria?	59476	atlanta --> webpage category --> [u'Topic Webpage', u'Official Website']	0
-what capital of austria?	59476	atlanta --> government position held basic title --> [u'Mayor']	2
-what capital of austria?	59476	atlanta --> dated integer number --> [u'15575']	0
-what capital of austria?	59476	atlanta --> hud county place place --> [u'Atlanta']	6322
-what capital of austria?	59476	atlanta --> location contains --> [u'Oglethorpe University', u'Georgia Institute of Technology College of Engineering', u'Morris Brown College', u'Emory University', u'Georgia Institute of Technology']	116
-what capital of austria?	59476	atlanta --> dated integer number --> [u'168341']	0
-what capital of austria?	59476	atlanta --> governmental jurisdiction government bodies --> [u'Atlanta City Council']	1
-what capital of austria?	59476	atlanta --> sports team roster position --> [u'Wide receiver']	0
-what capital of austria?	59476	atlanta --> bibs location state --> [u'Georgia']	993
-what capital of austria?	59476	atlanta --> dated integer number --> [u'118507']	0
-what capital of austria?	59476	atlanta --> topic topical webpage --> [u'http://wikitravel.org/en/Atlanta']	0
-what capital of austria?	59476	atlanta --> dated float date --> [u'2008']	0
-what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what capital of austria?	59476	atlanta --> sports team roster player --> [u'Joe Horn']	0
-what capital of austria?	59476	atlanta --> dated location date founded --> [u'1837']	0
-what capital of austria?	59476	atlanta --> federal reserve bank number --> [u'6']	0
-what capital of austria?	59476	atlanta --> dated integer number --> [u'207929']	0
-what capital of austria?	59476	atlanta --> book subject works --> [u'A Man in Full']	1
-what capital of austria?	59476	atlanta --> travel destination tourist attractions --> [u'Zoo Atlanta', u'Margaret Mitchell House & Museum', u'Georgia Dome', u'Atlanta History Center', u'Atlanta Symphony Orchestra']	116
-what capital of austria?	59476	atlanta --> dated float number --> [u'0.0667']	0
-what capital of austria?	59476	atlanta --> topic alias --> [u'Atlanta, GA', u'Hotlanta', u'Atlanta, Georgia', u'Fulton County / Atlanta city']	0
-what capital of austria?	59476	atlanta --> location area --> [u'342.914425808']	0
-what capital of austria?	59476	atlanta --> football historical roster position position s --> [u'Wide receiver']	0
-what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0
-what capital of austria?	59476	atlanta --> citytown postal codes --> [u'30366', u'30326', u'30328', u'30337', u'30355']	0
-what capital of austria?	59476	atlanta --> governmental jurisdiction agencies --> [u'Atlanta Police Department']	0
-what capital of austria?	59476	atlanta --> transportation transport terminus --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'232 Forsyth St.', u'Peachtree Station']	0
-what capital of austria?	59476	atlanta --> location time zones --> [u'Eastern Time Zone']	5
-what capital of austria?	59476	atlanta --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0
-what capital of austria?	59476	atlanta --> film location featured in films --> [u'Zombieland', u'Boycott', u'Get Low', u'Hillbilly Highway', u'Halloween II']	1
-what capital of austria?	59476	atlanta --> webpage resource --> [u'Katt Williams arrested for burglary', u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 4: TV Recap', u"'American Idol' auditions under way", u"'American Idol' in Chicago: Shania Twain impressed us much!", u'Snap Judgment: Jericho']	0
-what capital of austria?	59476	atlanta --> place with neighborhoods neighborhoods --> [u'Sweet Auburn', u'Cascade Heights', u'Atlantic Station', u'East Lake, Atlanta', u'Little Five Points']	8
-what capital of austria?	59476	atlanta --> dated integer number --> [u'393314', u'394175', u'395436', u'398481', u'400620']	0
-what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0
-what capital of austria?	59476	atlanta --> geocode latitude --> [u'33.7489']	0
-what capital of austria?	59476	atlanta --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	0
-what capital of austria?	59476	atlanta --> government position held from --> [u'1941', u'1974', u'1982', u'1994', u'1885']	0
-what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0
-what capital of austria?	59476	atlanta --> dated integer number --> [u'6602']	0
-what capital of austria?	59476	atlanta --> object name --> [u'Atlanta']	0
-what capital of austria?	59476	atlanta --> topic image --> [u'City skyline from Buckhead', u'Montage Atlanta']	0
-what capital of austria?	59476	atlanta --> olympic host city olympics hosted --> [u'1996 Summer Olympics']	569
-what capital of austria?	59476	atlanta --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-what capital of austria?	59476	atlanta --> governmental jurisdiction government positions --> [u'Mayor of Atlanta']	0
+what capital of austria?	59476	vienna --> organization scope organizations with this scope --> [u'42virtual']	0	EMPTY
+what capital of austria?	59476	vienna --> government position held office position or title --> [u'Reich Governor', u'Vice Mayor of Vienna', u'Mayor of Vienna']	0	EMPTY
+what capital of austria?	59476	vienna --> place of interment interred here --> [u'Viktor Frankl', u'Attila H\xf6rbiger', u'Francis I, Holy Roman Emperor', u'Empress Elisabeth of Austria', u'Theodor Herzl']	14	'''''Der Judenstaat''''' ([[German language|German]], literally ''The Jews' State'', commonly rendered as ''The Jewish State'') is a pamphlet written by [[Theodor Herzl]] and published in February 1896 in [[Leipzig]] and [[Vienna]] by M. Breitenstein's Verlags-Buchhandlung.
+what capital of austria?	59476	vienna --> transportation transport operator --> [u'Eurolines', u'Austrian Federal Railways']	2	His father, Adolf Schiele, the station master of the Tulln station in the [[Austrian Federal Railways|Austrian State Railways]], was born in 1851 in [[Vienna]] to Karl Ludwig Schiele, a [[Germans|German]] from [[Ballenstedt]] and Aloisia Schimak; Egon Schiele's mother Marie, née Soukup, was born in 1861 in [[Český Krumlov]] (Krumau) to Johann Franz Soukup, a [[Czechs|Czech]] father from [[Mirkovice]], and Aloisia Poferl, a [[Sudeten Germans|German Bohemian]] mother from Cesky Krumlov.
+what capital of austria?	59476	vienna --> bibs location loc type --> [u'City']	0	EMPTY
+what capital of austria?	59476	vienna --> government position held appointed by --> [u'Adolf Hitler']	6	At this time he, [[Adolf Hitler]] and [[Josip Broz Tito]] are simultaneously resident in [[Vienna]].
+what capital of austria?	59476	vienna --> location events --> [u'Siege of Vienna', u'2012 Shnit International Short Film Festival', u'Battle of Wagram', u'Battle of Aspern-Essling', u'Vienna Offensive']	17	On 21 May 1809, Napoleon crossed the [[Danube]] not far from [[Vienna]] and attacked Archduke Charles's Austrian army, situated on the northern bank of the river, in what became known as the [[Battle of Aspern-Essling]].
+what capital of austria?	59476	vienna --> location contains --> [u'Palais P\xe1lffy, Vienna', u'University of Vienna', u'Konzerthaus, Vienna', u'Wiener Stadthalle', u'Leopoldstadt']	106	[[Leopoldstadt]], 2nd district of [[Austria]]'s capital [[Vienna]], is home to various population groups, consists of divergent types of residential areas, features different kinds of parks, businesses, institutions, touristic sights, and a manifold cultural scene. 
+what capital of austria?	59476	vienna --> topic alias --> [u'Wien', u'Vienna, Austria', u'Vienna Austria']	0	EMPTY
+what capital of austria?	59476	vienna --> helynevek intezmeny --> [u'Landesinnung der Baugewerbe, Vienna', u'\xd6sterreichische Galerie Belvedere', u'St Michael', u'Kunsthistorisches Museum', u'Maria am Gestade']	88	Commissioned for the church of [[San Cassiano]] in [[Venice]], it was disassembeld in the early 17th-century and the reunited central portion is now housed in the [[Kunsthistorisches Museum]] in [[Vienna]].
+what capital of austria?	59476	vienna --> administrative division second level division of --> [u'Austria']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	vienna --> adjoining relationship adjoins --> [u'Lower Austria']	72	'''Ernst Ritter Seidler von Feuchtenegg''' (5 June 1862, [[Schwechat]], [[Lower Austria]]&nbsp;– 23 January 1931, [[Vienna]]) was an [[Austria]]n politician and statesman.
+what capital of austria?	59476	vienna --> cityscape parks --> [u'Prater', u'Stadtpark, Vienna']	12	The '''Schweizerhaus''' (literally "[[Switzerland|Swiss]] house") is a [[Vienna|Viennese]] restaurant, rich in tradition, that is inseparably linked with the [[Prater]], a large public area and park in [[Leopoldstadt]], the second district of [[Vienna]], [[Austria]]'s capital.
+what capital of austria?	59476	vienna --> location area --> [u'414.65']	0	EMPTY
+what capital of austria?	59476	vienna --> administrative area administrative area type --> [u'Austrian state']	0	EMPTY
+what capital of austria?	59476	vienna --> travel destination monthly climate average max temp c --> [u'2', u'3', u'4', u'7', u'9']	0	EMPTY
+what capital of austria?	59476	vienna --> location people born here --> [u'Robert Sara', u'Rupert Riedl', u'Linda Spa', u'Peter Schneider', u'Alice Masarykov\xe1']	1	Born in [[Vienna]], Artner started his professional career with [[Austria Wien]] where he was the supposed successor of club legend [[Robert Sara]].
+what capital of austria?	59476	vienna --> dated float date --> [u'2011']	0	EMPTY
+what capital of austria?	59476	vienna --> at district vehicle registration code --> [u'W']	0	EMPTY
+what capital of austria?	59476	vienna --> processed with review queue question id --> [u'/rabj/store/questions/question_fcbcc7e8ba72246a']	0	EMPTY
+what capital of austria?	59476	vienna --> government position held to --> [u'1945-03']	0	EMPTY
+what capital of austria?	59476	vienna --> travel destination local transportation --> [u'Wiener Linien', u'Wien S\xfcdbahnhof', u'Vienna S-Bahn', u'Vienna U-Bahn']	8	*[[Vienna]]: see [[Vienna U-Bahn]]
+what capital of austria?	59476	vienna --> at state shorthand --> [u'W']	0	EMPTY
+what capital of austria?	59476	vienna --> webpage category --> [u'Topic Webpage', u'Official Website', u'Tag']	0	EMPTY
+what capital of austria?	59476	vienna --> provenienciaadat kommentar --> [u'a d\xe9li toronyb\xf3l', u'a hosszh\xe1z d\xe9li fal\xe1nak k\xfcls\u0151 oldal\xe1n', u'a szent\xe9ly d\xe9li mell\xe9khaj\xf3j\xe1ban', u'a szent\xe9ly \xe9szaki mell\xe9khaj\xf3j\xe1ban', u'a szent\xe9lyb\u0151l']	0	EMPTY
+what capital of austria?	59476	vienna --> transportation transport terminus --> [u'Erdberg Station', u'Vienna International Airport', u'Vienna Landstrasse/Mitte', u'Vienna West railway station', u'Wien S\xfcdbahnhof']	64	|[[Vienna]]||align=center|VIE||align=center|LOWW||<center>[[Vienna International Airport|Schwechat Airport]]||||<center>-||<center>present
+what capital of austria?	59476	vienna --> vacation choice vacationer --> [u'Benjamin McKenzie']	0	EMPTY
+what capital of austria?	59476	vienna --> webpage description --> [u'Visitor Information']	0	EMPTY
+what capital of austria?	59476	vienna --> dated float number --> [u'4002.2']	0	EMPTY
+what capital of austria?	59476	vienna --> location time zones --> [u'Central European Time']	0	EMPTY
+what capital of austria?	59476	vienna --> topic official website --> [u'http://www.wien.gv.at/']	0	EMPTY
+what capital of austria?	59476	vienna --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0	EMPTY
+what capital of austria?	59476	vienna --> geocode longitude --> [u'16.372583']	0	EMPTY
+what capital of austria?	59476	vienna --> film location featured in films --> [u'All is Forgiven', u'The Festival', u'The Dead And The Living']	0	EMPTY
+what capital of austria?	59476	vienna --> cityscape theatres --> [u'Konzerthaus, Vienna', u'Burgtheater', u'Vienna Volksoper', u'Vienna State Opera', u'Wiener Musikverein']	104	*1989: At ''[[Vienna State Opera|Staatsoper]]'' of [[Vienna]]
+what capital of austria?	59476	vienna --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what capital of austria?	59476	vienna --> webpage resource --> [u"Chris Harrison blogs 'The Bachelor': Season 14, episode 3", u'Michael Jackson tribute concert delayed until next year', u'Chris Brown, Mary J. Blige slated for Michael Jackson tribute concert', u'Michael Jackson tribute in Vienna will be broadcast worldwide', u'Nobel Prize Winner Eric Kandel Talks About New Documentary, \u201cIn Search of Memory\u201d']	0	EMPTY
+what capital of austria?	59476	vienna --> natural or cultural site listing designation --> [u'UNESCO World Heritage Site']	0	EMPTY
+what capital of austria?	59476	vienna --> provenienciaadat mutargy --> [u'St Michael', u'Saint Catherine', u'Saint Nicholas', u'Maria am Gestade', u"St. Stephen's Cathedral, Vienna"]	13	Visits to [[Austria]] mostly include trips to [[Vienna]] with [[St. Stephen's Cathedral, Vienna|its Cathedral]], its "Heurigen" (wine pubs) and romantic Waltz music events.
+what capital of austria?	59476	vienna --> cityscape museums --> [u'Liechtenstein Museum', u'Kunsthistorisches Museum', u'Naturhistorisches Museum', u'Technisches Museum Wien']	112	Commissioned for the church of [[San Cassiano]] in [[Venice]], it was disassembeld in the early 17th-century and the reunited central portion is now housed in the [[Kunsthistorisches Museum]] in [[Vienna]].
+what capital of austria?	59476	vienna --> location containedby --> [u'Austria']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	vienna --> travel destination monthly climate average rainfall mm --> [u'39', u'41', u'42', u'43', u'46']	0	EMPTY
+what capital of austria?	59476	vienna --> newspaper circulation area newspapers --> [u'Pravda', u'Der Standard', u'Al-Hayat', u'Kronen Zeitung', u'Kurier']	3	*'''''': In 2013 ''[[Kurier]]'' estimated that 0.5 percent of Austrians practised veganism, and in the capital, [[Vienna]], 0.7 percent.
+what capital of austria?	59476	vienna --> at state capital --> [u'Vienna']	12125	[[Vienna]] is the capital.
+what capital of austria?	59476	vienna --> top architectural city structure count --> [u'3']	0	EMPTY
+what capital of austria?	59476	vienna --> bibs location country --> [u'Austria']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	vienna --> travel destination tourist attractions --> [u'Albertina', u'Karlskirche, Vienna', u'Vienna Observatory', u'Prater', u'Sch\xf6nbrunn Palace']	28	A study for the Diogenes is in the [[Städel]] in [[Frankfurt]] while a study for the group around Pythagoras, in the lower left of the painting, is preserved in the [[Albertina]] Museum in [[Vienna]].
+what capital of austria?	59476	vienna --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what capital of austria?	59476	vienna --> government position held from --> [u'1940', u'1994-11-07']	0	EMPTY
+what capital of austria?	59476	vienna --> helynevek helynev --> [u'B\xe9cs']	0	EMPTY
+what capital of austria?	59476	vienna --> provenienciaadat intezmeny --> [u'St Michael', u'Maria am Gestade', u"St. Stephen's Cathedral, Vienna", u'Rothschild Collection', u'Rathaus, Vienna']	14	Visits to [[Austria]] mostly include trips to [[Vienna]] with [[St. Stephen's Cathedral, Vienna|its Cathedral]], its "Heurigen" (wine pubs) and romantic Waltz music events.
+what capital of austria?	59476	vienna --> administrative division first level division of --> [u'Austria']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	vienna --> geocode latitude --> [u'48.20875']	0	EMPTY
+what capital of austria?	59476	vienna --> cityscape universities --> [u'University of Vienna', u'PEF Private University of Management Vienna', u'Sigmund Freud University Vienna', u'Vienna University of Technology', u'University of Music and Performing Arts, Vienna']	89	García Navarro was born in [[Chiva, Valencia|Chiva]] (Spain), and studied in [[Valencia (province)|Valencia]] and the [[Madrid Royal Conservatory]] before moving to [[Vienna]] to study at the [[University of Music and Performing Arts, Vienna|University of Music and Performing Arts]] with [[Hans Swarowsky]], Karl Oesterreicher, and Reinhold Schmid.
+what capital of austria?	59476	vienna --> administrative division capital relationship administrative division --> [u'Austria']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	vienna --> administrative area administrative parent --> [u'Austria']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	vienna --> webpage uri --> [u'http://www.wien.gv.at', u'http://www.wien.at/', u'http://wikitravel.org/en/Vienna']	0	EMPTY
+what capital of austria?	59476	vienna --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjUNJwpEbGdrcN5Y29ycA']	0	EMPTY
+what capital of austria?	59476	vienna --> topic topical webpage --> [u'http://wikitravel.org/en/Vienna']	0	EMPTY
+what capital of austria?	59476	vienna --> provenienciaadat aktualis --> [u'0', u'1']	0	EMPTY
+what capital of austria?	59476	vienna --> government position held office holder --> [u'Maria Vassilakou', u'Baldur von Schirach', u'Michael H\xe4upl']	4	Testifying at [[Nuremberg Trials|Nuremberg]], convicted [[Hitler Youth]] leader [[Baldur von Schirach]] who, in his role as military governor of [[Vienna]], deported 65,000 Jews to camps in Poland, stated:
+what capital of austria?	59476	vienna --> sports team location teams --> [u'FK Austria Wien']	7	|[[Ernst Happel Stadion]]||53,008||[[Vienna]]||Austria||[[Austria national football team]], [[FK Austria Wien]]*, [[SK Rapid Wien]]*||Association football
+what capital of austria?	59476	vienna --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	0	EMPTY
+what capital of austria?	59476	vienna --> travel destination monthly climate average min temp c --> [u'-4', u'-3', u'-2', u'0', u'2']	0	EMPTY
+what capital of austria?	59476	vienna --> object name --> [u'Vienna']	0	EMPTY
+what capital of austria?	59476	vienna --> topic image --> [u'Vienna Crest', u'Vienna skyline', u'Graben has been a car-free zone for decades']	0	EMPTY
+what capital of austria?	59476	vienna --> cityscape stadiums --> [u'Ernst-Happel-Stadion']	105	| rowspan="5" |<br>[[Vienna]]<br>[[Ernst-Happel-Stadion|Stadion Wien]]
+what capital of austria?	59476	vienna --> bibs topic subsumes --> [u'Vienna']	0	EMPTY
+what capital of austria?	59476	vienna --> bibs location is clear --> [u'1']	0	EMPTY
+what capital of austria?	59476	vienna --> dated integer number --> [u'1731236']	0	EMPTY
+what capital of austria?	59476	vienna --> dated integer year --> [u'2011']	0	EMPTY
+what capital of austria?	59476	vienna --> administrative division country --> [u'Austria']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	vienna --> citytown postal codes --> [u'1010']	0	EMPTY
+what capital of austria?	59476	vienna --> book subject works --> [u'Runaway Waltz: A Memoir from Vienna to New York']	0	EMPTY
+what capital of austria?	59476	vienna --> location nearby airports --> [u'Vienna International Airport']	63	|[[Vienna]]||align=center|VIE||align=center|LOWW||<center>[[Vienna International Airport|Schwechat Airport]]||||<center>-||<center>present
+what capital of austria?	59476	capital of germany --> object name --> [u'Capital of Germany']	0	EMPTY
+what capital of austria?	59476	capital of germany --> topic image --> [u'Berlin reichstag CP']	0	EMPTY
+what capital of austria?	59476	austria --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0	EMPTY
+what capital of austria?	59476	austria --> government position held office position or title --> [u'President of Austria', u'Chancellor of Austria']	24	* For [[President of Austria|President]] [[Heinz Fischer]] of '''[[Austria]]''':
+what capital of austria?	59476	austria --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	9	'''[[Austria]]''' competed at the '''[[1996 Summer Olympics]]''' in [[Atlanta, Georgia|Atlanta]], [[United States]].
+what capital of austria?	59476	austria --> bibs location loc type --> [u'Country']	0	EMPTY
+what capital of austria?	59476	austria --> speech or presentation speech topic --> [u'Jewish population by country']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage rate --> [u'0.130245', u'0.257902', u'0.637697', u'0.758953', u'1.386068']	0	EMPTY
+what capital of austria?	59476	austria --> location partially contains --> [u'Euregio Salzburg-Berchtesgadener Land-Traunstein', u'Euregio Silva Nortica', u'III. Hornspitze', u'Coglians', u'Euregio Inn-Salzach']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what capital of austria?	59476	austria --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> taxonomy entry prefix --> [u'JN', u'DB']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> competitor competition relationship rank --> [u'2']	0	EMPTY
+what capital of austria?	59476	austria --> location people born here --> [u'Oliver Sch\xf6pf', u'Christoph Kobleder', u'Helmut Kinz', u'J\xf6rg Lanz von Liebenfels', u'Uschi Ulrich']	0	EMPTY
+what capital of austria?	59476	austria --> olympic medal honor medalist --> [u'Klaus Sulzenbacher', u'Trixi Schuba', u'Benjamin Karl', u'Mikhail Botvinov', u'Andreas Goldberger']	2	|bgcolor="gold"|'''Gold'''|| [[Benjamin Karl]]<br>''[[Austria]] <small>(AUT)</small>''
+what capital of austria?	59476	austria --> country currency formerly used --> [u'Austrian schilling', u'Austrian krone']	4	*[[Austrian schilling|Schilling]] – [[Austria]]
+what capital of austria?	59476	austria --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what capital of austria?	59476	austria --> webpage description --> [u'Official Austrian Government Website - Bundeskanzleramt - Office of the Chancellor']	0	EMPTY
+what capital of austria?	59476	austria --> administrative area adjectival form --> [u'Austrian']	0	EMPTY
+what capital of austria?	59476	austria --> country fips  --> [u'AU']	0	EMPTY
+what capital of austria?	59476	austria --> ambassadorial tenure ambassador --> [u'Barth\xe9l\xe9mi de St\xfcrmer']	0	EMPTY
+what capital of austria?	59476	austria --> location containedby --> [u'Europe', u'Western Europe', u'Eurasia', u'Central Europe']	206	Rauch returned to [[Europe]] and settled in [[Austria]] at the early 1970s where he died in the 1990s.
+what capital of austria?	59476	austria --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> competitor country relationship tournament --> [u'2010 BWF World Junior Championships']	0	EMPTY
+what capital of austria?	59476	austria --> olympic athlete affiliation sport --> [u'Cycling', u'Cross-country skiing', u'Canoe Slalom', u'Speed skating', u'Bobsleigh']	6	'''Walter Mayer''' (born March 17, 1957) is an [[Austria]]n [[Cross-country skiing|Cross-country skier]] and coach.
+what capital of austria?	59476	austria --> olympic medal honor medal --> [u'Gold medal', u'Silver medal', u'Bronze medal']	0	EMPTY
+what capital of austria?	59476	austria --> organization membership organization --> [u'World Bank', u'League of Nations', u'European Space Agency', u'Organisation for Economic Co-operation and Development', u'European Union']	4	In December 2008 export credit insurers in [[Austria]], [[Germany]] and [[Switzerland]] announced suspending their support for the project amid concern about its environmental and cultural impact and gave the Turkish government 180 days to meet standards set by the [[World Bank]].
+what capital of austria?	59476	austria --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0	EMPTY
+what capital of austria?	59476	austria --> webpage in index --> [u'WSJ Speakeasy Index']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0	EMPTY
+what capital of austria?	59476	austria --> dated kilowatt hour number --> [u'1814.676', u'1882.224', u'2006.77', u'2124.359', u'2232.897']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value valid date --> [u'2006']	0	EMPTY
+what capital of austria?	59476	austria --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViUl5wpEbGdrcN5Y29ycA']	0	EMPTY
+what capital of austria?	59476	austria --> government position held office holder --> [u'Werner Faymann', u'Kurt Waldheim', u'Guido Schmidt', u'Heinz Fischer', u'Wolfgang Schmitz']	16	* [[Austria]] – President [[Heinz Fischer]]
+what capital of austria?	59476	austria --> competitor competition relationship competitors --> [u'Marion Maruska']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage date --> [u'1994-01', u'1994-02', u'1994-03', u'1994-04', u'1994-05']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage date --> [u'2002-07', u'2002-10', u'2003-01', u'2003-07', u'2003-10']	0	EMPTY
+what capital of austria?	59476	austria --> olympic participating country olympics participated in --> [u'1900 Summer Olympics', u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics', u'1896 Summer Olympics']	21	'''Karl Wahlmüller''' (October 22, 1913 in [[Linz]] – February 16, 1944 in [[Toila]], [[Soviet Union]]) was an [[Austria]]n [[football (soccer)]] player who competed in the [[1936 Summer Olympics]].
+what capital of austria?	59476	austria --> bibs location is clear --> [u'0']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> ambassadorial tenure from date --> [u'1832']	0	EMPTY
+what capital of austria?	59476	austria --> organization scope organizations with this scope --> [u'42virtual', u'Austrian Ministry of the Interior', u'Social Democratic Party of Austria', u'iProspect', u'Alliance for the Future of Austria']	20	'''Viktor Klima''' (born 4 June 1947) is an [[Austria]]n [[Social Democratic Party of Austria|Social Democrat]] [[politician]] and businessman.
+what capital of austria?	59476	austria --> country first level divisions --> [u'Vienna', u'Burgenland', u'Salzburg', u'Upper Austria', u'Styria']	2227	'''Bärnbach''' is the smallest city of the district of [[Voitsberg (district)|Voitsberg]] in the [[Austria]]n state of [[Styria]]
+what capital of austria?	59476	austria --> dated money value amount --> [u'10440', u'11340', u'12280', u'13190', u'13680']	0	EMPTY
+what capital of austria?	59476	austria --> country languages spoken --> [u'Bavarian Language', u'German Language', u'Turkish Language', u'Austrian German', u'Bosnian language']	129	'''Freddy Quinn''' (born '''Franz Eugen Helmut Manfred Nidl''', 27 September 1931, [[Hardegg (Niederösterreich)|Niederfladnitz]], [[Austria]]) is an [[Austria]]n singer and actor whose popularity within the [[German language|German-speaking]] world soared in the late 1950s and 1960s.
+what capital of austria?	59476	austria --> equivalent topic equivalent domain --> [u'Austria']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what capital of austria?	59476	austria --> competitor country relationship competitor --> [u'Alexandra Mathis', u'Dominik Trojan', u'Matthias Almer', u'Nina Almer', u'Vilson Vattanirappel']	0	EMPTY
+what capital of austria?	59476	austria --> country calling code --> [u'43']	0	EMPTY
+what capital of austria?	59476	austria --> adjoining relationship adjoins --> [u'Germany', u'Hungary', u'Italy', u'Switzerland', u'Slovakia']	3573	Aside from acting as chairperson of the Parliamentary Friendship Leagues [[Israel]]-[[Estonia]], [[Israel]]-[[Austria]] and [[Israel]]-[[Switzerland]], she represented the Knesset in delegations to the [[European Union]], [[British Parliament]], [[France]] and [[Taiwan]].
+what capital of austria?	59476	austria --> olympic medal honor event --> [u"Swimming at the 2000 Summer Olympics \u2013 Women's 100 metre breaststroke", u'Ski Jumping at the 1992 Winter Olympics - Normal Hill', u"Swimming at the 1996 Summer Olympics \u2013 Women's 200 metre breaststroke", u"Shooting at the 1976 Summer Olympics - Men's 50 metre pistol", u"Snowboarding at the 2010 Winter Olympics \u2013 Men's parallel giant slalom"]	0	EMPTY
+what capital of austria?	59476	austria --> geocode longitude --> [u'16.22']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'1900 Summer Olympics', u'2010 Winter Olympics', u'2000 Summer Olympics', u'1996 Summer Olympics']	9	'''[[Austria]]''' competed at the '''[[1996 Summer Olympics]]''' in [[Atlanta, Georgia|Atlanta]], [[United States]].
+what capital of austria?	59476	austria --> administrative division capital relationship capital --> [u'Vienna']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	austria --> ambassadorial tenure to countries --> [u'Turkey']	306	European women received the vote in [[Denmark]] and [[Iceland]] in 1915 (full in 1919), the [[Russian Republic]] in 1917, [[Austria]], [[Germany]] and [[Canada]] in 1918, many countries including the [[Netherlands]] in 1919, [[Czechoslovakia]] (today [[Czech Republic]] and [[Slovakia]]) in 1920, and [[Turkey]] and [[South Africa]] in 1930.
+what capital of austria?	59476	austria --> dated percentage rate --> [u'0.812633', u'0.85527', u'0.880758', u'0.904699', u'0.906456']	0	EMPTY
+what capital of austria?	59476	austria --> olympic participating country ioc code --> [u'AUT']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0	EMPTY
+what capital of austria?	59476	austria --> landlocked country surrounded by --> [u'Germany', u'Hungary', u'Italy', u'Switzerland', u'Slovenia']	3690	Aside from acting as chairperson of the Parliamentary Friendship Leagues [[Israel]]-[[Estonia]], [[Israel]]-[[Austria]] and [[Israel]]-[[Switzerland]], she represented the Knesset in delegations to the [[European Union]], [[British Parliament]], [[France]] and [[Taiwan]].
+what capital of austria?	59476	austria --> dated kgoe number --> [u'1546.261', u'1554.035', u'1675.874', u'1823.995', u'1851.844']	0	EMPTY
+what capital of austria?	59476	austria --> country currency used --> [u'Euro']	3	The operator has been owned by [[Telekom Austria Group]] since July 2005, when it was acquired for up to [[Euro|€]]1.6 billion in one of [[Central and Eastern Europe]]'s largest deals and one of the largest foreign investments in [[Austria]].
+what capital of austria?	59476	austria --> dated float number --> [u'1.33', u'1.34', u'1.36', u'1.37', u'1.38']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> country iso  shortname --> [u'AUSTRIA']	0	EMPTY
+what capital of austria?	59476	austria --> adjusted money value source --> [u'World Bank, World Development Indicators']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage date --> [u'1995', u'1996', u'1997', u'1998', u'1999']	0	EMPTY
+what capital of austria?	59476	austria --> breed origin breeds originating here --> [u'Austrian Pinscher', u'Vizsla', u'Tyrolean Hound', u'Alpine Dachsbracke', u'Styrian Coarse-haired Hound']	4	|[[Austrian Pinscher]]||[[Austria]]||Group 02 Section 01 #064||||||||||||Terrier||[[File:Pinczer austiacki 678.jpg|200px]]
+what capital of austria?	59476	austria --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> newspaper circulation area newspapers --> [u'Der Standard', u'Die Presse', u'C\xf3ndor', u'Kurier', u'Arbeiter-Zeitung']	4	These have included daily papers such as [[Der Standard]], [[Die Presse]] and the [[Wiener Zeitung]] in [[Austria]] as well as the [[Süddeutsche Zeitung]] and [[Die Zeit]] in [[Germany]].
+what capital of austria?	59476	austria --> adjusted money value adjusted value --> [u'52709131085', u'55628151863', u'57101560877', u'59464576259', u'63106397258']	0	EMPTY
+what capital of austria?	59476	austria --> adjusted money value adjustment currency --> [u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> ambassadorial tenure to date --> [u'1850']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage rate --> [u'-3.809961', u'-0.363736', u'-0.146122', u'-0.144178', u'0.060678']	0	EMPTY
+what capital of austria?	59476	austria --> webpage uri --> [u'http://www.austria.gv.at', u'http://statoids.com/uat.html']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> flag use flag --> [u'Flag of Austria']	3	One theory is that since Henri Pharaon was a long-time consul in [[Vienna]], [[Austria]] and was an avid friend and founder of the "Austro-Lebanese Association of Friendship", the colors could have been inspired by the red-white-red [[Flag of Austria]], where the flag colors are based on the Lebanese geography and therefore, the first red represents the [[Mount Lebanon]] and the second red represents the [[Anti-Lebanon mountains]] and the white represents the [[Beqaa Valley]], which is situated in the middle of the two mountain ranges on the map of Lebanon.
+what capital of austria?	59476	austria --> country second level divisions --> [u'Zell am See District', u'Tamsweg District', u'Salzburg-Umgebung District', u'Salzburg', u'Vienna']	2057	|[[Salzburg]]||[[Austria]]||align=center|SZG||align=center|LOWS||[[Salzburg Airport]]||align=center|
+what capital of austria?	59476	austria --> sports team location teams --> [u"Austria men's national ice hockey team", u'Austria national football team', u'Austria national cricket team', u'Austria national handball team', u"Austria women's national handball team"]	29	'''Lambert Neumaier''' (February 13, 1910 - July 1986) was an [[Austria]]n [[ice hockey]] player who competed for the [[Austria men's national ice hockey team|Austrian national team]] at the [[Ice hockey at the 1936 Winter Olympics|1936 Winter Olympics]] in [[Garmisch-Partenkirchen]]. 
+what capital of austria?	59476	austria --> administrative area capital --> [u'Vienna']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	austria --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value valid date --> [u'2006']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> place of interment interred here --> [u'Y\u014d Inoue']	0	EMPTY
+what capital of austria?	59476	austria --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> united nations body head tenure body --> [u'United Nations Security Council']	0	EMPTY
+what capital of austria?	59476	austria --> location adjectival form --> [u'Austrian']	0	EMPTY
+what capital of austria?	59476	austria --> administrative area subdividing place --> [u'Styria']	191	'''Bärnbach''' is the smallest city of the district of [[Voitsberg (district)|Voitsberg]] in the [[Austria]]n state of [[Styria]]
+what capital of austria?	59476	austria --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0	EMPTY
+what capital of austria?	59476	austria --> dated metric ton number --> [u'4.373319', u'4.496362', u'4.755362', u'5.155194', u'5.252197']	0	EMPTY
+what capital of austria?	59476	austria --> united nations body head tenure to --> [u'2009-11-30']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0	EMPTY
+what capital of austria?	59476	austria --> base equivalent location base --> [u'Austria']	0	EMPTY
+what capital of austria?	59476	austria --> administrative area subdividing type --> [u'Austrian state']	0	EMPTY
+what capital of austria?	59476	austria --> government position held to --> [u'1992-07-08', u'1938-03-11']	0	EMPTY
+what capital of austria?	59476	austria --> webpage category --> [u'Topic Webpage', u'Tag', u'Topic Equivalent']	0	EMPTY
+what capital of austria?	59476	austria --> government position held basic title --> [u'President', u'Finance minister', u'Foreign Minister', u'Chancellor']	1	'''George Abraham von Dyhrn''', ''1st Baron of Dyhrn'' (1620–1671), was an [[Austria]]n [[Chancellor]] in the province of [[Silesia]], politician and a landowner in the [[Habsburg monarchy]].   
+what capital of austria?	59476	austria --> linguistic hint adjectival form --> [u'Austrian']	0	EMPTY
+what capital of austria?	59476	austria --> countries continent --> [u'Europe']	148	Rauch returned to [[Europe]] and settled in [[Austria]] at the early 1970s where he died in the 1990s.
+what capital of austria?	59476	austria --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> administrative area administrative parent --> [u'Earth']	0	EMPTY
+what capital of austria?	59476	austria --> country capital --> [u'Vienna']	1773	The interests of these approximately 500,000 Austrians living abroad, in Germany (243,000), Switzerland (50,000), USA (30,000), UK (22,000), South Africa (18,000), Australia and Spain (15,000 each) are represented by the ''World Federation of Austrians Abroad'' (), a [[NGO]] with headquarters in [[Vienna]], [[Austria]].
+what capital of austria?	59476	austria --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage rate --> [u'3.4', u'3.5', u'3.6', u'3.7', u'3.8']	0	EMPTY
+what capital of austria?	59476	austria --> country internet tld --> [u'at']	1	| id="AT" |  || [[Austria]] || 1974 || [[.at]] ||  ||
+what capital of austria?	59476	austria --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+what capital of austria?	59476	austria --> beer country region beers from here --> [u'Zipf Zipfer', u'Schlossbrauerei Eggenberg Samichlaus Bier', u'Schlossbrauerei Eggenberg Urbock 23\xb0', u'Privatbrauerei Karl Theodor Trojan Schrems Schremser Roggen Bier', u'Fohrenburger Premium Weizen']	0	EMPTY
+what capital of austria?	59476	austria --> parent institution judaica owning units --> [u'Austrian National Library']	2	The film was made at [[Pinewood Studios]] with location shooting in the UK and [[Austria]] (including the famous [[Austrian National Library]]); the  tennis match/duel between Freud and von Leinsdorf  was filmed on one of the historic [[real tennis]] courts at the [[Queen's Club]] in [[West Kensington, London]].
+what capital of austria?	59476	austria --> dated money value valid date --> [u'2008']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value amount --> [u'39200']	0	EMPTY
+what capital of austria?	59476	austria --> room theme rooms with this theme --> [u'Austrian Suite']	0	EMPTY
+what capital of austria?	59476	austria --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what capital of austria?	59476	austria --> administrative area short name --> [u'at']	0	EMPTY
+what capital of austria?	59476	austria --> dated location date founded --> [u'1955-07-27']	0	EMPTY
+what capital of austria?	59476	austria --> religion percentage religion --> [u'Catholicism']	2	He has lectured on [[Catholicism]], [[Ecumenism]], Interreligious Dialogue, and Global Ethics all over the world, including [[Austria]],  [[Bangladesh]], [[Bosnia and Herzegovina|Bosnia]], [[Brazil]], [[Canada]], [[China]], [[Egypt]], [[England]], [[Germany]], [[Hungary]],  [[India]], [[Indonesia]], [[Israel]], [[Italy]], [[Japan]], [[Korea]], [[Lebanon]],  [[Macedonia (country)|Macedonia]], [[Malaysia]],  [[Morocco]], [[Myanmar]], [[Pakistan]], [[Poland]], [[Republic of Congo]], [[Romania]],  [[Russia]], [[South Africa]], [[Spain]], [[Sudan]], [[Switzerland]], [[Taiwan]], [[Tunisia]], and, of course, the [[United States]].
+what capital of austria?	59476	austria --> country form of government --> [u'Federation', u'Federal republic', u'Parliamentary republic']	0	EMPTY
+what capital of austria?	59476	austria --> competitor competition relationship competition --> [u'1997 Skoda Czech Open \u2013 Singles']	0	EMPTY
+what capital of austria?	59476	austria --> competitor country relationship sports --> [u'Badminton']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage source --> [u'Broadband penetration rate, Broadband penetration in Europe, Eurostat']	0	EMPTY
+what capital of austria?	59476	austria --> adjusted money value adjustment date --> [u'2000']	0	EMPTY
+what capital of austria?	59476	austria --> book subject works --> [u'Freundschaft mit Freud', u'Mahler Remembered', u'Budapest 1900', u'Classic German Cookbook', u'The Wandering Jews']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> organization membership to --> [u'1938-03-13']	0	EMPTY
+what capital of austria?	59476	austria --> speech or presentation speaker s --> [u'Alexander Mintz']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage rate --> [u'4.7', u'4.8', u'5.3', u'6.6', u'7']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> location contains --> [u'Fusch an der Gro\xdfglocknerstra\xdfe', u'Rauris', u'Tamsweg', u'Bad Hofgastein', u'Zederhaus']	6	|birth_place   = [[Bad Hofgastein]], [[Austria]]
+what capital of austria?	59476	austria --> topic alias --> [u'\xd6sterreich', u'Autriche', u'Oesterreich', u'Republic of Austria']	0	EMPTY
+what capital of austria?	59476	austria --> flag use from date --> [u'1230']	0	EMPTY
+what capital of austria?	59476	austria --> court jurisdiction area courts --> [u'Unabh\xe4ngiger Finanzsenat', u'Supreme Court of Austria']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value amount --> [u'36000']	0	EMPTY
+what capital of austria?	59476	austria --> taxonomy entry high --> [u'879', u'2191']	0	EMPTY
+what capital of austria?	59476	austria --> organization membership from --> [u'1995-01-01', u'1920-12-15', u'1955-12-14']	0	EMPTY
+what capital of austria?	59476	austria --> location area --> [u'83855']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what capital of austria?	59476	austria --> speech or presentation event --> [u'First Zionist Congress - First Day - Afternoon Session']	0	EMPTY
+what capital of austria?	59476	austria --> united nations body head tenure from --> [u'2009-11-01']	0	EMPTY
+what capital of austria?	59476	austria --> governmental jurisdiction government --> [u'Austrian Federal Government']	0	EMPTY
+what capital of austria?	59476	austria --> governmental jurisdiction agencies --> [u'Austrian Ministry of Defence', u'Austrian Ministry of Economics and Labour', u'Austrian Ministry of the Interior', u'Bundesministerium f\xfcr soziale Sicherheit und Generationen', u'Austrian Air Force']	5	'''Franz Olah''' (13 March 1910 – 4 September 2009) was an [[Austria]]n [[politician]] who served as the country's [[Federal Ministry of the Interior (Austria)|Interior Minister]] from 1963 until 1964 as a member of the [[Social Democratic Party of Austria|Social Democratic Party]] (SPÖ).
+what capital of austria?	59476	austria --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what capital of austria?	59476	austria --> country administrative divisions --> [u'Vienna', u'Burgenland', u'Salzburg', u'Upper Austria', u'Styria']	2227	'''Bärnbach''' is the smallest city of the district of [[Voitsberg (district)|Voitsberg]] in the [[Austria]]n state of [[Styria]]
+what capital of austria?	59476	austria --> competitor competition relationship tournament --> [u'1997 Skoda Czech Open']	0	EMPTY
+what capital of austria?	59476	austria --> dated float number --> [u'68.586', u'69.31', u'69.444', u'69.577', u'69.722']	0	EMPTY
+what capital of austria?	59476	austria --> governmental jurisdiction government bodies --> [u'National Council', u'Federal Council', u'Austrian Parliament', u'Federal Convention']	2	'''Karl Josef Seitz''' (; September 4, 1869 – February 3, 1950) was an [[Austria]]n [[politician]] of the [[Social Democratic Party of Austria|Social Democratic Workers' Party]], member of the [[Imperial Council (Austria)|Imperial Council]], President of the [[National Council (Austria)|National Council]], [[List of mayors of Vienna|Mayor of Vienna]] and the first [[President of Austria]].
+what capital of austria?	59476	austria --> administrative area pertinent type --> [u'Austrian political district', u'Austrian state', u'Austrian municipality', u'Austrian statutory city']	0	EMPTY
+what capital of austria?	59476	austria --> location time zones --> [u'UTC+01:00', u'Central European Time']	5	| GRZ || LOWG || [[Graz Airport]] || [[Graz]], [[Austria]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+what capital of austria?	59476	austria --> administrative area administrative area type --> [u'Sovereign state']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0	EMPTY
+what capital of austria?	59476	austria --> film location featured in films --> [u'Last Holiday', u'Help!', u'The Inheritors']	0	EMPTY
+what capital of austria?	59476	austria --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what capital of austria?	59476	austria --> webpage resource --> [u'Nobel Prize Winner Eric Kandel Talks About New Documentary, \u201cIn Search of Memory\u201d', u'My Grandma Fritzi, Movie Star, or How a Muslim King Saved Jews in World War II (Essay)', u'Official Austrian Government Website - Bundeskanzleramt - Office of the Chancellor', u'Statoids of Austria']	0	EMPTY
+what capital of austria?	59476	austria --> topic exceptions --> [u'City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District.', u'The type Austrian Municipality does not specify where instances may appear.']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> topic official website --> [u'http://www.austria.gv.at/']	0	EMPTY
+what capital of austria?	59476	austria --> government position held governmental body --> [u'Austrian Federal Government']	0	EMPTY
+what capital of austria?	59476	austria --> sport country multi event tournaments participated in --> [u'2012 World Mountain Running Championships']	0	EMPTY
+what capital of austria?	59476	austria --> dated integer number --> [u'7047539', u'7086299', u'7129864', u'7175811', u'7223801']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value amount --> [u'279500000000']	0	EMPTY
+what capital of austria?	59476	austria --> geocode latitude --> [u'48.12']	0	EMPTY
+what capital of austria?	59476	austria --> location events --> [u'Bombing of Wiener Neustadt in World War II', u'Ottoman wars in Europe', u'Polish\u2013Ottoman War (1683\u20131699)', u'2007 Vienna International Film Festival', u'Battle of Kressenbrunn']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> country official language --> [u'German Language']	122	'''Freddy Quinn''' (born '''Franz Eugen Helmut Manfred Nidl''', 27 September 1931, [[Hardegg (Niederösterreich)|Niederfladnitz]], [[Austria]]) is an [[Austria]]n singer and actor whose popularity within the [[German language|German-speaking]] world soared in the late 1950s and 1960s.
+what capital of austria?	59476	austria --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value amount --> [u'6592693841', u'7311749633', u'7756110210', u'8374175257.54', u'8374175258']	0	EMPTY
+what capital of austria?	59476	austria --> taxonomy entry low --> [u'1', u'1601']	0	EMPTY
+what capital of austria?	59476	austria --> administrative area administrative children --> [u'Vienna', u'Burgenland', u'Salzburg', u'Upper Austria', u'Styria']	2227	'''Bärnbach''' is the smallest city of the district of [[Voitsberg (district)|Voitsberg]] in the [[Austria]]n state of [[Styria]]
+what capital of austria?	59476	austria --> government position held from --> [u'1986-07-08', u'2004-07-08', u'2008-12-02', u'1936-02-12']	0	EMPTY
+what capital of austria?	59476	austria --> olympic athlete affiliation athlete --> [u'Manuel Pfister', u'Hunor Mate', u'Tobias Eberhard', u'Benjamin Karl', u'Peter Luttenberger']	1	|bgcolor="gold"|'''Gold'''|| [[Benjamin Karl]]<br>''[[Austria]] <small>(AUT)</small>''
+what capital of austria?	59476	austria --> olympic athlete affiliation athlete --> [u'Karl Ruberl']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value amount --> [u'78784994485', u'85854915685', u'92993899624', u'99743134347', u'103451917763']	0	EMPTY
+what capital of austria?	59476	austria --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what capital of austria?	59476	austria --> object name --> [u'Austria']	0	EMPTY
+what capital of austria?	59476	austria --> topic image --> [u'Location Austria EU Europe', u'Bundesadler']	0	EMPTY
+what capital of austria?	59476	austria --> national anthem of a country anthem --> [u'Land der Berge, Land am Strome']	2	Exceptions include Germany, whose anthem ''[[Das Lied der Deutschen]]'' uses a melody written by [[Joseph Haydn]], and [[Austria]], whose national anthem ''[[Land der Berge, Land am Strome]]'' is sometimes credited to [[Wolfgang Amadeus Mozart]].
+what capital of austria?	59476	austria --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what capital of austria?	59476	austria --> dated percentage rate --> [u'-0.27', u'-0.18', u'-0.17', u'-0.16', u'-0.08']	0	EMPTY
+what capital of austria?	59476	austria --> governmental jurisdiction government positions --> [u'Chancellor of Austria', u'Vice-Chancellor of Austria']	12	('''''Federal Law Gazette for the Republic of Austria''''') is an official gazette in [[Austria]] for the announcement of federal laws, ministerial decrees, proclamations and pronouncements of the [[Chancellor of Austria|Chancellor]], resolutions of the [[President of Austria|President]] as well as international treaties and other supranational law.
+what capital of austria?	59476	austria --> dated percentage rate --> [u'60.2', u'62.3', u'63.8', u'64.1', u'64.2']	0	EMPTY
+what capital of austria?	59476	capital --> topic official website --> [u'http://www.capitalfm.com']	0	EMPTY
+what capital of austria?	59476	capital --> topic alias --> [u'The Capital FM Network']	0	EMPTY
+what capital of austria?	59476	capital --> object name --> [u'Capital']	0	EMPTY
+what capital of austria?	59476	capital --> webpage uri --> [u'http://www.capitalfm.com', u'http://www.thisisglobal.com/radio/capital']	0	EMPTY
+what capital of austria?	59476	capital --> object name --> [u'Capital']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what capital of austria?	59476	atlanta --> government position held office position or title --> [u'Mayor of Atlanta']	0	EMPTY
+what capital of austria?	59476	atlanta --> bibs location loc type --> [u'City']	0	EMPTY
+what capital of austria?	59476	atlanta --> travel destination monthly climate average rainfall mm --> [u'84', u'93', u'103', u'105', u'110']	0	EMPTY
+what capital of austria?	59476	atlanta --> dog city relationship date --> [u'2008']	0	EMPTY
+what capital of austria?	59476	atlanta --> location people born here --> [u'Kelvin Sheppard', u'Georgia Douglas Johnson', u'Sam Cronin', u'Mike Sanders', u'Ernest Grant']	0	EMPTY
+what capital of austria?	59476	atlanta --> travel destination local transportation --> [u'Metropolitan Atlanta Rapid Transit Authority']	7	With the assistance of the [[Georgia Regional Transportation Authority]] (GRTA), express services are available to [[Atlanta]], connecting with [[Metropolitan Atlanta Rapid Transit Authority|MARTA]] at the [[Doraville (MARTA station)|Doraville]] (NE10), [[Lindbergh Center (MARTA station)|Lindbergh Center]] (N6), [[Arts Center (MARTA station)|Arts Center]] (N5), [[Midtown (MARTA station)|Midtown]] (N4), [[North Avenue (MARTA station)|North Avenue]] (N3), [[Civic Center (MARTA station)|Civic Center]] (N2), [[Peachtree Center (MARTA station)|Peachtree Center]] (N1), and [[Five Points (MARTA station)|Five Points]] stations.
+what capital of austria?	59476	atlanta --> federal reserve bank letter --> [u'F']	0	EMPTY
+what capital of austria?	59476	atlanta --> sports team roster from --> [u'2007']	0	EMPTY
+what capital of austria?	59476	atlanta --> location containedby --> [u'United States of America', u'Georgia', u'Fulton County', u'Area code 404', u'Area code 678']	1217	| [[Atlanta]], [[United States|U.S.]]
+what capital of austria?	59476	atlanta --> location of biosafety facility biosafety facility --> [u'United States Centers for Disease Control and Prevention', u'Georgia State University Facility']	9	At a multi-state workshop at the [[Centers for Disease Control and Prevention]] (CDC) in [[Atlanta]], [[United States|U.S.
+what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what capital of austria?	59476	atlanta --> fictional setting fictional characters born here --> [u'Nico Harris']	0	EMPTY
+what capital of austria?	59476	atlanta --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what capital of austria?	59476	atlanta --> hud county place county --> [u'Fulton County']	40	|owner               = [[Atlanta|City of Atlanta]] and<br>[[Fulton County, Georgia|Fulton County]]
+what capital of austria?	59476	atlanta --> topic official website --> [u'http://www.atlantaga.gov/']	0	EMPTY
+what capital of austria?	59476	atlanta --> webpage description --> [u'Visitor Information']	0	EMPTY
+what capital of austria?	59476	atlanta --> sports team roster player --> [u'Joe Horn']	0	EMPTY
+what capital of austria?	59476	atlanta --> bibs location is clear --> [u'0']	0	EMPTY
+what capital of austria?	59476	atlanta --> government position held office holder --> [u'Andrew Young', u'Kasim Reed', u'Shirley Franklin', u'Maynard Jackson', u'Roy LeCraw']	16	In 1981, after being urged by a number of people, including [[Coretta Scott King]], the widow of Martin Luther King Jr., Democratic Congressman [[Andrew Young]] ran for [[mayor]] of [[Atlanta]].
+what capital of austria?	59476	atlanta --> support supporter --> [u'Deion Sanders']	0	EMPTY
+what capital of austria?	59476	atlanta --> geocode datum --> [u'NAD83']	0	EMPTY
+what capital of austria?	59476	atlanta --> organization scope organizations with this scope --> [u'Dillinger Media']	0	EMPTY
+what capital of austria?	59476	atlanta --> sports team roster position --> [u'Wide receiver']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated float date --> [u'2008']	0	EMPTY
+what capital of austria?	59476	atlanta --> geocode longitude --> [u'-84.3881']	0	EMPTY
+what capital of austria?	59476	atlanta --> sports team roster from --> [u'2007']	0	EMPTY
+what capital of austria?	59476	atlanta --> organization relationship as of date --> [u'2007', u'2008', u'2009']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated float number --> [u'0']	0	EMPTY
+what capital of austria?	59476	atlanta --> travel destination monthly climate average min temp c --> [u'0', u'1', u'2', u'6', u'10']	0	EMPTY
+what capital of austria?	59476	atlanta --> football historical roster position from --> [u'2007']	0	EMPTY
+what capital of austria?	59476	atlanta --> football historical roster position from --> [u'2007']	0	EMPTY
+what capital of austria?	59476	atlanta --> administrative division capital relationship administrative division --> [u'Georgia', u'Fulton County']	1027	In 1996 in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], in the [[United States|U.S.
+what capital of austria?	59476	atlanta --> adjoining relationship adjoins --> [u'Duluth']	8	Zone, this time in [[Duluth, Georgia]], a suburb of [[Atlanta]], at the [[Arena at Gwinnett Center|Gwinnett Center]] on October 14, 2007.
+what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+what capital of austria?	59476	atlanta --> newspaper circulation area newspapers --> [u'The Signal', u'The Great Speckled Bird', u'The Atlanta Journal-Constitution', u'The Emory Wheel', u'Urdu Times']	2	From 1902 to 1907 he served on the editorial board of the ''[[Atlanta]] [[The Atlanta Journal-Constitution|Journal]]'' where he wrote many editorials during the heated election between his publisher [[Hoke Smith]] and future [[Pulitzer Prize]] winner, [[Clark Howell]] (Smith was the victor).
+what capital of austria?	59476	atlanta --> top architectural city structure count --> [u'27']	0	EMPTY
+what capital of austria?	59476	atlanta --> bibs location country --> [u'United States of America']	285	| [[Atlanta]], [[United States|U.S.]]
+what capital of austria?	59476	atlanta --> football historical roster position player --> [u'Joe Horn']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what capital of austria?	59476	atlanta --> webpage uri --> [u'http://www.atlantaga.gov/', u'http://wikitravel.org/en/Atlanta']	0	EMPTY
+what capital of austria?	59476	atlanta --> dog city relationship dog breed --> [u'Dachshund', u'German Shepherd Dog', u'Yorkshire Terrier', u'Boxer', u'Shih Tzu']	0	EMPTY
+what capital of austria?	59476	atlanta --> sports team location teams --> [u'Atlanta Braves', u'Atlanta Falcons', u'Atlanta Hawks', u'Atlanta Thrashers', u'Georgia Tech Yellow Jackets football']	65	The [[St. Louis Hawks]] relocated to [[Atlanta]] and became the [[Atlanta Hawks]] prior to the start of the season.
+what capital of austria?	59476	atlanta --> football historical roster position position s --> [u'Wide receiver']	0	EMPTY
+what capital of austria?	59476	atlanta --> location nearby airports --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'Atlanta Regional Airport', u'Cobb County Airport', u'Fulton County Airport', u'DeKalb-Peachtree Airport']	2	*[[Fulton County Airport (Georgia)|Fulton County Airport]]  is a local Class D [[airport]] located just west of [[Atlanta]], and run by [[Fulton County, Georgia|Fulton County]] of the [[U.S. state]] of [[Georgia (U.S. state)|Georgia]].
+what capital of austria?	59476	atlanta --> place of interment interred here --> [u'Alfred Iverson, Jr.', u'Ralph Abernathy']	0	EMPTY
+what capital of austria?	59476	atlanta --> transportation transport operator --> [u'Amtrak', u'Greyhound Lines']	8	Greenville has an [[Greenville (Amtrak station)|Amtrak station]], which is part of [[Amtrak]]'s [[Crescent (Amtrak)|''Crescent'']], connecting Greenville with the cities of New York, [[Philadelphia]], [[Baltimore]], [[Washington, D.C.|Washington]], [[Charlotte, North Carolina|Charlotte]], [[Atlanta]], [[Birmingham, Alabama|Birmingham]] and [[New Orleans]].
+what capital of austria?	59476	atlanta --> travel destination monthly climate average max temp c --> [u'10', u'12', u'17', u'18', u'23']	0	EMPTY
+what capital of austria?	59476	atlanta --> location events --> [u'1996 Summer Olympics', u'2009  Easter Crash on Camp Creek Parkway', u"1984 NCAA Men's Division I Basketball Tournament", u"Ohio State-Kentucky 1987 NCAA Men's Division I Basketball Tournament Game", u"Georgetown-Ohio State 1987 NCAA Men's Division I Basketball Tournament Game"]	569	At the [[1996 Summer Olympics]] in [[Atlanta]] he won Gold in the individual and Bronze in the Team event.
+what capital of austria?	59476	atlanta --> football historical roster position player --> [u'Joe Horn']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what capital of austria?	59476	atlanta --> base equivalent location base --> [u'Atlanta']	0	EMPTY
+what capital of austria?	59476	atlanta --> federal reserve bank federal reserve region --> [u'Atlanta']	0	EMPTY
+what capital of austria?	59476	atlanta --> government position held to --> [u'1942', u'1982', u'1990', u'2002', u'1887']	0	EMPTY
+what capital of austria?	59476	atlanta --> webpage category --> [u'Topic Webpage', u'Official Website']	0	EMPTY
+what capital of austria?	59476	atlanta --> government position held basic title --> [u'Mayor']	2	* [[William Berry Hartsfield]], [[Mayor]] of [[Atlanta]]
+what capital of austria?	59476	atlanta --> dated integer number --> [u'15575']	0	EMPTY
+what capital of austria?	59476	atlanta --> hud county place place --> [u'Atlanta']	6322	However, the National Football Foundation ultimately decided on [[Atlanta]] for the next site.
+what capital of austria?	59476	atlanta --> location contains --> [u'Oglethorpe University', u'Georgia Institute of Technology College of Engineering', u'Morris Brown College', u'Emory University', u'Georgia Institute of Technology']	116	'''Candler School of Theology''' at [[Emory University]] is located in the metropolitan [[Atlanta]] area in western [[unincorporated area|unincorporated]] [[DeKalb County, Georgia]], United States.
+what capital of austria?	59476	atlanta --> dated integer number --> [u'168341']	0	EMPTY
+what capital of austria?	59476	atlanta --> governmental jurisdiction government bodies --> [u'Atlanta City Council']	1	Other whites in nearby counties, as well as State Representative [[Billy McKinney (politician)|Billy McKinney]] of [[Atlanta]] and [[Hosea Williams]], who was on the [[Atlanta City Council]], took up the march plans instead.
+what capital of austria?	59476	atlanta --> sports team roster position --> [u'Wide receiver']	0	EMPTY
+what capital of austria?	59476	atlanta --> bibs location state --> [u'Georgia']	993	In 1996 in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], in the [[United States|U.S.
+what capital of austria?	59476	atlanta --> dated integer number --> [u'118507']	0	EMPTY
+what capital of austria?	59476	atlanta --> topic topical webpage --> [u'http://wikitravel.org/en/Atlanta']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated float date --> [u'2008']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what capital of austria?	59476	atlanta --> sports team roster player --> [u'Joe Horn']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated location date founded --> [u'1837']	0	EMPTY
+what capital of austria?	59476	atlanta --> federal reserve bank number --> [u'6']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer number --> [u'207929']	0	EMPTY
+what capital of austria?	59476	atlanta --> book subject works --> [u'A Man in Full']	1	*[[Tom Wolfe]], who earned a Ph.D. in [[American Studies]] from Yale, named the African-American [[Atlanta]] police chief in ''[[A Man in Full]]'' Elihu Yale.
+what capital of austria?	59476	atlanta --> travel destination tourist attractions --> [u'Zoo Atlanta', u'Margaret Mitchell House & Museum', u'Georgia Dome', u'Atlanta History Center', u'Atlanta Symphony Orchestra']	116	|[[Georgia Dome]]<br [[Atlanta]], [[United States]]
+what capital of austria?	59476	atlanta --> dated float number --> [u'0.0667']	0	EMPTY
+what capital of austria?	59476	atlanta --> topic alias --> [u'Atlanta, GA', u'Hotlanta', u'Atlanta, Georgia', u'Fulton County / Atlanta city']	0	EMPTY
+what capital of austria?	59476	atlanta --> location area --> [u'342.914425808']	0	EMPTY
+what capital of austria?	59476	atlanta --> football historical roster position position s --> [u'Wide receiver']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what capital of austria?	59476	atlanta --> citytown postal codes --> [u'30366', u'30326', u'30328', u'30337', u'30355']	0	EMPTY
+what capital of austria?	59476	atlanta --> governmental jurisdiction agencies --> [u'Atlanta Police Department']	0	EMPTY
+what capital of austria?	59476	atlanta --> transportation transport terminus --> [u'Hartsfield\u2013Jackson Atlanta International Airport', u'232 Forsyth St.', u'Peachtree Station']	0	EMPTY
+what capital of austria?	59476	atlanta --> location time zones --> [u'Eastern Time Zone']	5	| FTY || KFTY || [[Fulton County Airport (Georgia)|Fulton County Airport]] (Charlie Brown Field) || [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+what capital of austria?	59476	atlanta --> travel destination monthly climate month --> [u'June', u'July', u'May', u'October', u'September']	0	EMPTY
+what capital of austria?	59476	atlanta --> film location featured in films --> [u'Zombieland', u'Boycott', u'Get Low', u'Hillbilly Highway', u'Halloween II']	1	Rounding out the cast is [[Russ Russo]], a remarkable actor out of [[New York City]] and now [[Los Angeles]] with several films and television series under his belt, was chosen to play the role of Wes, Ronnie Patel, a newcomer out of [[Alabama]] who's new to the entertainment industry, is making his feature film debut as Eli, and Darian O'Rear, a young eight-year-old actress out of [[Atlanta]] whose credits include ''[[Zombieland]]'' starring [[Woody Harrelson]], plays the role of Mary Ann.
+what capital of austria?	59476	atlanta --> webpage resource --> [u'Katt Williams arrested for burglary', u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 4: TV Recap', u"'American Idol' auditions under way", u"'American Idol' in Chicago: Shania Twain impressed us much!", u'Snap Judgment: Jericho']	0	EMPTY
+what capital of austria?	59476	atlanta --> place with neighborhoods neighborhoods --> [u'Sweet Auburn', u'Cascade Heights', u'Atlantic Station', u'East Lake, Atlanta', u'Little Five Points']	8	 the [[Atlantic Station]] project in [[Atlanta]], was the largest brownfield redevelopment in the United States.
+what capital of austria?	59476	atlanta --> dated integer number --> [u'393314', u'394175', u'395436', u'398481', u'400620']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what capital of austria?	59476	atlanta --> geocode latitude --> [u'33.7489']	0	EMPTY
+what capital of austria?	59476	atlanta --> transportation mode of transportation --> [u'Bus', u'Train', u'Air travel']	0	EMPTY
+what capital of austria?	59476	atlanta --> government position held from --> [u'1941', u'1974', u'1982', u'1994', u'1885']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer year --> [u'2008']	0	EMPTY
+what capital of austria?	59476	atlanta --> dated integer number --> [u'6602']	0	EMPTY
+what capital of austria?	59476	atlanta --> object name --> [u'Atlanta']	0	EMPTY
+what capital of austria?	59476	atlanta --> topic image --> [u'City skyline from Buckhead', u'Montage Atlanta']	0	EMPTY
+what capital of austria?	59476	atlanta --> olympic host city olympics hosted --> [u'1996 Summer Olympics']	569	At the [[1996 Summer Olympics]] in [[Atlanta]] he won Gold in the individual and Bronze in the Team event.
+what capital of austria?	59476	atlanta --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+what capital of austria?	59476	atlanta --> governmental jurisdiction government positions --> [u'Mayor of Atlanta']	0	EMPTY

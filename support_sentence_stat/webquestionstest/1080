@@ -1,24 +1,24 @@
-which state did anne hutchinson found?	65	anne hutchinson --> person date of birth --> [u'1591-07-20']	0
-which state did anne hutchinson found?	65	anne hutchinson --> person parents --> [u'Francis Marbury']	2
-which state did anne hutchinson found?	65	anne hutchinson --> deceased person place of death --> [u'New Netherland']	1
-which state did anne hutchinson found?	65	anne hutchinson --> hall of fame induction hall of fame --> [u"National Women's Hall of Fame"]	0
-which state did anne hutchinson found?	65	anne hutchinson --> person place of birth --> [u'Alford']	1
-which state did anne hutchinson found?	65	anne hutchinson --> place lived location --> [u'Rhode Island', u'Massachusetts', u'The Bronx']	7
-which state did anne hutchinson found?	65	anne hutchinson --> marriage type of union --> [u'Marriage']	0
-which state did anne hutchinson found?	65	anne hutchinson --> hall of fame induction date --> [u'1994']	0
-which state did anne hutchinson found?	65	anne hutchinson --> person children --> [u'Susanna Cole', u'Bridget Sanford', u'Faith Savage', u'Edward Hutchinson']	6
-which state did anne hutchinson found?	65	anne hutchinson --> object name --> [u'Anne Hutchinson']	0
-which state did anne hutchinson found?	65	anne hutchinson --> topic image --> [u'Anne Hutchinson statue', u'Anne Hutchinson on Trial']	0
-which state did anne hutchinson found?	65	anne hutchinson --> person religion --> [u'Puritan']	7
-which state did anne hutchinson found?	65	anne hutchinson --> person nationality --> [u'United States of America']	0
-which state did anne hutchinson found?	65	anne hutchinson --> person gender --> [u'Female']	0
-which state did anne hutchinson found?	65	anne hutchinson --> deceased person date of death --> [u'1643-08']	0
-which state did anne hutchinson found?	65	anne hutchinson --> marriage spouse --> [u'William Coddington', u'William Hutchinson']	16
-which state did anne hutchinson found?	65	anne hutchinson --> book subject works --> [u'Anne Hutchinson']	0
-which state did anne hutchinson found?	65	u.s. state --> object name --> [u'U.S. state']	0
-which state did anne hutchinson found?	65	u.s. state --> topic image --> [u'Great Seal of the US']	0
-which state did anne hutchinson found?	65	u.s. state --> linguistic hint subject form --> [u'U.S. states']	0
-which state did anne hutchinson found?	65	u.s. state --> equivalent topic equivalent type --> [u'US State']	0
-which state did anne hutchinson found?	65	states of india --> object name --> [u'States of India']	0
-which state did anne hutchinson found?	65	states of india --> equivalent topic equivalent type --> [u'Indian state']	0
-which state did anne hutchinson found?	65	states of india --> location containedby --> [u'India']	25
+which state did anne hutchinson found?	65	anne hutchinson --> person date of birth --> [u'1591-07-20']	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> person parents --> [u'Francis Marbury']	2	Richard's wife, Katherine Marbury Scott, was a daughter of the Reverend [[Francis Marbury]] of London, and a much younger sister of the famed Antinomian heretic [[Anne Hutchinson]], who had been banished from the Massachusetts colony for her religious opinions.
+which state did anne hutchinson found?	65	anne hutchinson --> deceased person place of death --> [u'New Netherland']	1	| 1643 || August || [[Anne Hutchinson#Massacre|Hutchinson Massacre]] || As part of [[Kieft's War]] in [[New Netherland]], near the [[Split Rock (Bronx, New York)|Split Rock]]  (now northeastern [[Bronx]] in [[New York City]]), local [[Lenape]] (or [[Siwanoy]]) killed Anne Hutchinson, six of her children, a son-in-law, and as many as seven others (servants).
+which state did anne hutchinson found?	65	anne hutchinson --> hall of fame induction hall of fame --> [u"National Women's Hall of Fame"]	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> person place of birth --> [u'Alford']	1	He soon thereafter married [[Edward Hutchinson (mercer)#Mary Hutchinson|Mary Hutchinson]], a daughter of [[Edward Hutchinson (mercer)|Edward Hutchinson]] of [[Alford, Lincolnshire|Alford]], and a sister of [[William Hutchinson (Rhode Island)|William Hutchinson]], whose wife was [[Anne Hutchinson]].
+which state did anne hutchinson found?	65	anne hutchinson --> place lived location --> [u'Rhode Island', u'Massachusetts', u'The Bronx']	7	''Trouble's Daughter: The Story of Susanna Hutchinson, Indian Captive'' is a young adult novel of a fictional kidnapping by the Lenape Turtle Clan of a daughter of [[Anne Hutchinson]], the religious reformer and founder of the [[Rhode Island]] colony.
+which state did anne hutchinson found?	65	anne hutchinson --> marriage type of union --> [u'Marriage']	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> hall of fame induction date --> [u'1994']	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> person children --> [u'Susanna Cole', u'Bridget Sanford', u'Faith Savage', u'Edward Hutchinson']	6	After sailing to New England, her second child, Samuel, was baptized at the Boston church on 20 December 1635 and married by 1663 Anne Hutchinson, the daughter of [[Edward Hutchinson (captain)|Edward Hutchinson]] and the granddaughter of [[William Hutchinson (Rhode Island)|William]] and [[Anne Hutchinson]].
+which state did anne hutchinson found?	65	anne hutchinson --> object name --> [u'Anne Hutchinson']	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> topic image --> [u'Anne Hutchinson statue', u'Anne Hutchinson on Trial']	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> person religion --> [u'Puritan']	7	Sanford's mother-in-law, [[Anne Hutchinson]] (from his second wife Bridget), and her brother-in-law, [[John Wheelwright]], were attracting many converts to their religious views which were at odds with the rigid [[Puritan]] dogma.
+which state did anne hutchinson found?	65	anne hutchinson --> person nationality --> [u'United States of America']	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> person gender --> [u'Female']	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> deceased person date of death --> [u'1643-08']	0	EMPTY
+which state did anne hutchinson found?	65	anne hutchinson --> marriage spouse --> [u'William Coddington', u'William Hutchinson']	16	These settlers included [[William Coddington]], [[Anne Hutchinson|Anne and William Hutchinson]], [[Philip Sherman]], [[William Dyer (settler)|William Dyer]], [[John Coggeshall]], [[Nicholas Easton]], [[William Brenton]], [[John Clarke (Baptist minister)|John Clarke]], and Richard Maxson (Maggsen).
+which state did anne hutchinson found?	65	anne hutchinson --> book subject works --> [u'Anne Hutchinson']	0	EMPTY
+which state did anne hutchinson found?	65	u.s. state --> object name --> [u'U.S. state']	0	EMPTY
+which state did anne hutchinson found?	65	u.s. state --> topic image --> [u'Great Seal of the US']	0	EMPTY
+which state did anne hutchinson found?	65	u.s. state --> linguistic hint subject form --> [u'U.S. states']	0	EMPTY
+which state did anne hutchinson found?	65	u.s. state --> equivalent topic equivalent type --> [u'US State']	0	EMPTY
+which state did anne hutchinson found?	65	states of india --> object name --> [u'States of India']	0	EMPTY
+which state did anne hutchinson found?	65	states of india --> equivalent topic equivalent type --> [u'Indian state']	0	EMPTY
+which state did anne hutchinson found?	65	states of india --> location containedby --> [u'India']	25	The [[India]]n [[States and union territories of India|state]] of [[West Bengal]] is divided into five administrative Divisions, namely:

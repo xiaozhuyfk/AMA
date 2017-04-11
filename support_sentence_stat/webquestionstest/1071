@@ -1,46 +1,46 @@
-what county is brentwood tennessee in?	171	brentwood --> dated float number --> [u'0.0479']	0
-what county is brentwood tennessee in?	171	brentwood --> topic alias --> [u'Brentwood, Tennessee', u'Williamson County / Brentwood city']	0
-what county is brentwood tennessee in?	171	brentwood --> dated float date --> [u'2008']	0
-what county is brentwood tennessee in?	171	brentwood --> location area --> [u'89.8725874287']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is brentwood tennessee in?	171	brentwood --> dated float number --> [u'0']	0
-what county is brentwood tennessee in?	171	brentwood --> location people born here --> [u'Pebe Sebert', u'Thomas Welch', u'Charles Andrew Howell III', u'Bukola Bamigboye', u'Jodie Marsh']	0
-what county is brentwood tennessee in?	171	brentwood --> geocode latitude --> [u'36.0331']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0
-what county is brentwood tennessee in?	171	brentwood --> citytown postal codes --> [u'37024', u'37027']	0
-what county is brentwood tennessee in?	171	brentwood --> object name --> [u'Brentwood']	0
-what county is brentwood tennessee in?	171	brentwood --> dated float date --> [u'2008']	0
-what county is brentwood tennessee in?	171	brentwood --> location containedby --> [u'Tennessee', u'Williamson County']	15
-what county is brentwood tennessee in?	171	brentwood --> location time zones --> [u'Central Time Zone']	0
-what county is brentwood tennessee in?	171	brentwood --> topic official website --> [u'http://www.brentwood-tn.org']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'92']	0
-what county is brentwood tennessee in?	171	brentwood --> hud county place place --> [u'Brentwood']	149
-what county is brentwood tennessee in?	171	brentwood --> location contains --> [u'Empire Beauty School-Nashville', u'New Directions Hair Academy', u'Nations University', u'Dyer Observatory']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'8156']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Census Bureau, Population']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0
-what county is brentwood tennessee in?	171	brentwood --> newspaper circulation area newspapers --> [u'Brentwood Journal']	0
-what county is brentwood tennessee in?	171	brentwood --> geocode longitude --> [u'-86.7828']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'16457', u'17272', u'17968', u'18880', u'20219']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0
-what county is brentwood tennessee in?	171	brentwood --> hud county place county --> [u'Williamson County']	7
-what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'10692']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'52']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what county is brentwood tennessee in?	171	brentwood --> topic image --> [u'TNMap-doton-Brentwood']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'11793']	0
-what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-what county is brentwood tennessee in?	171	brentwood --> geocode datum --> [u'NAD83']	0
-what county is brentwood tennessee in?	171	powiat --> object name --> [u'Powiat']	0
-what county is brentwood tennessee in?	171	powiat --> topic image --> [u'Map of Polish counties', u'POLSKA mapa powiaty2']	0
-what county is brentwood tennessee in?	171	county --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what county is brentwood tennessee in?	171	county --> webpage resource --> [u"Nirvana's Krist Novoselic running for office", u"Farrah Fawcett's son Redmond O'Neal heads to rehab"]	0
-what county is brentwood tennessee in?	171	county --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjkmJwpEbGdrcN5Y29ycA']	0
-what county is brentwood tennessee in?	171	county --> object name --> [u'County']	0
-what county is brentwood tennessee in?	171	county --> topic image --> [u'Censusdivisions', u'Iran counties', u'China County-level']	0
-what county is brentwood tennessee in?	171	county --> webpage in index --> [u'Entertainment Weekly annotation index']	0
+what county is brentwood tennessee in?	171	brentwood --> dated float number --> [u'0.0479']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> topic alias --> [u'Brentwood, Tennessee', u'Williamson County / Brentwood city']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated float date --> [u'2008']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> location area --> [u'89.8725874287']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated float number --> [u'0']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> location people born here --> [u'Pebe Sebert', u'Thomas Welch', u'Charles Andrew Howell III', u'Bukola Bamigboye', u'Jodie Marsh']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> geocode latitude --> [u'36.0331']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> citytown postal codes --> [u'37024', u'37027']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> object name --> [u'Brentwood']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated float date --> [u'2008']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> location containedby --> [u'Tennessee', u'Williamson County']	15	'''Fewkes Group Archaeological Site''' ([[Smithsonian trinomial|40 WM 1]]), also known as the ''Boiling Springs Site'', is a prehistoric [[Native Americans in the United States|Native American]] [[archaeological site]] located in the city of [[Brentwood, Tennessee|Brentwood]], in [[Williamson County, Tennessee|Williamson County]], [[Tennessee]].
+what county is brentwood tennessee in?	171	brentwood --> location time zones --> [u'Central Time Zone']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> topic official website --> [u'http://www.brentwood-tn.org']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'92']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> hud county place place --> [u'Brentwood']	149	| [[Brentwood, Tennessee|Brentwood]], United States
+what county is brentwood tennessee in?	171	brentwood --> location contains --> [u'Empire Beauty School-Nashville', u'New Directions Hair Academy', u'Nations University', u'Dyer Observatory']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'8156']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> newspaper circulation area newspapers --> [u'Brentwood Journal']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> geocode longitude --> [u'-86.7828']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'16457', u'17272', u'17968', u'18880', u'20219']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> hud county place county --> [u'Williamson County']	7	'''Fewkes Group Archaeological Site''' ([[Smithsonian trinomial|40 WM 1]]), also known as the ''Boiling Springs Site'', is a prehistoric [[Native Americans in the United States|Native American]] [[archaeological site]] located in the city of [[Brentwood, Tennessee|Brentwood]], in [[Williamson County, Tennessee|Williamson County]], [[Tennessee]].
+what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'10692']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'2008']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'52']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> topic image --> [u'TNMap-doton-Brentwood']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer number --> [u'11793']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+what county is brentwood tennessee in?	171	brentwood --> geocode datum --> [u'NAD83']	0	EMPTY
+what county is brentwood tennessee in?	171	powiat --> object name --> [u'Powiat']	0	EMPTY
+what county is brentwood tennessee in?	171	powiat --> topic image --> [u'Map of Polish counties', u'POLSKA mapa powiaty2']	0	EMPTY
+what county is brentwood tennessee in?	171	county --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what county is brentwood tennessee in?	171	county --> webpage resource --> [u"Nirvana's Krist Novoselic running for office", u"Farrah Fawcett's son Redmond O'Neal heads to rehab"]	0	EMPTY
+what county is brentwood tennessee in?	171	county --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjkmJwpEbGdrcN5Y29ycA']	0	EMPTY
+what county is brentwood tennessee in?	171	county --> object name --> [u'County']	0	EMPTY
+what county is brentwood tennessee in?	171	county --> topic image --> [u'Censusdivisions', u'Iran counties', u'China County-level']	0	EMPTY
+what county is brentwood tennessee in?	171	county --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY

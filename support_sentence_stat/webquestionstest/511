@@ -1,36 +1,36 @@
-when did shays rebellion start?	33	shays rebellion --> event event type --> [u'Historical event']	0
-when did shays rebellion start?	33	shays rebellion --> event locations --> [u'Massachusetts']	16
-when did shays rebellion start?	33	shays rebellion --> object name --> [u"Shays' Rebellion"]	0
-when did shays rebellion start?	33	shays rebellion --> topic image --> [u'Shays-rebellion-monument', u'The painting shows the Massachusetts ""Regulators"", Shays is seen sitting in front with his hat off', u'Daniel Shays and Job Shattuck']	0
-when did shays rebellion start?	33	shays rebellion --> event end date --> [u'1787']	0
-when did shays rebellion start?	33	shays rebellion --> event start date --> [u'1786']	0
-when did shays rebellion start?	33	rebellion --> object name --> [u'Rebellion']	0
-when did shays rebellion start?	33	rebellion --> topic image --> [u'Grotepier TN']	0
-when did shays rebellion start?	33	rebellion --> quotation subject quotations about this subject --> [u'""This is as \'alone\' as I\'m likely to get with you -- you\'re not half so fetching as your daughter.""', u'All men should have a drop of treason in their veins, if nations are not to go soft like so many sleepy pears.', u"I won't go back and live in the sea again.", u'""I want to live like a man.""', u'Anyone who can be proved to be a seditious person is an outlaw before God and the emperor; and whoever is the first to put him to death does right and well. Therefore let everyone who can, smite, slay and stab, secretly or openly, remembering that nothing can be more poisonous, hurtful, or devilish than a rebel.']	0
-when did shays rebellion start?	33	rebellion --> book subject works --> [u'A Tale of Two Utopias: The Political Journey of the Generation of 1968', u'The Big Book of Dummies, Rebels and Other Geniuses', u'The Rebellious Century']	0
-when did shays rebellion start?	33	chris shays --> us representative committee memberships --> [u'House Committee on Homeland Security', u'House Committee on Oversight and Government Reform', u'United States House Committee on Financial Services']	0
-when did shays rebellion start?	33	chris shays --> person date of birth --> [u'1945-10-18']	0
-when did shays rebellion start?	33	chris shays --> us representative district number --> [u'4']	0
-when did shays rebellion start?	33	chris shays --> person place of birth --> [u'Stamford']	1
-when did shays rebellion start?	33	chris shays --> place lived location --> [u'Stamford', u'Connecticut', u'Bridgeport', u'Darien']	2
-when did shays rebellion start?	33	chris shays --> marriage type of union --> [u'Marriage']	0
-when did shays rebellion start?	33	chris shays --> education institution --> [u'New York University', u'Principia College', u'The Principia']	0
-when did shays rebellion start?	33	chris shays --> object name --> [u'Chris Shays']	0
-when did shays rebellion start?	33	chris shays --> person gender --> [u'Male']	0
-when did shays rebellion start?	33	chris shays --> political party tenure party --> [u'Republican Party']	11
-when did shays rebellion start?	33	chris shays --> topic image --> [u'Chris Shays', u'Chris Shays', u'Chris Shays']	0
-when did shays rebellion start?	33	chris shays --> person religion --> [u'Christian Science']	0
-when did shays rebellion start?	33	chris shays --> person nationality --> [u'United States of America']	0
-when did shays rebellion start?	33	chris shays --> us representative congressional caucus memberships --> [u'Congressional Wildlife Refuge Caucus']	0
-when did shays rebellion start?	33	chris shays --> daylife hero image id --> [u'0bAW38X2WkcJu']	0
-when did shays rebellion start?	33	chris shays --> us representative state --> [u'Connecticut']	1
-when did shays rebellion start?	33	chris shays --> marriage spouse --> [u'Betsi Shays']	0
-when did shays rebellion start?	33	chris shays --> person profession --> [u'Politician']	0
-when did shays rebellion start?	33	daniel shays --> person date of birth --> [u'1747']	0
-when did shays rebellion start?	33	daniel shays --> deceased person place of death --> [u'Sparta']	0
-when did shays rebellion start?	33	daniel shays --> person place of birth --> [u'Hopkinton']	0
-when did shays rebellion start?	33	daniel shays --> place lived location --> [u'Massachusetts']	2
-when did shays rebellion start?	33	daniel shays --> person gender --> [u'Male']	0
-when did shays rebellion start?	33	daniel shays --> object name --> [u'Daniel Shays']	0
-when did shays rebellion start?	33	daniel shays --> topic image --> [u'Daniel Shays and Job Shattuck', u'Engraving depicting Daniel Shays (left) and Job Shattuck']	0
-when did shays rebellion start?	33	daniel shays --> deceased person date of death --> [u'1825-09-29']	0
+when did shays rebellion start?	33	shays rebellion --> event event type --> [u'Historical event']	0	EMPTY
+when did shays rebellion start?	33	shays rebellion --> event locations --> [u'Massachusetts']	16	*[[1786]] - [[Shays' Rebellion]], an armed uprising of [[Massachusetts]] farmers, begins in response to high debt and tax burdens.
+when did shays rebellion start?	33	shays rebellion --> object name --> [u"Shays' Rebellion"]	0	EMPTY
+when did shays rebellion start?	33	shays rebellion --> topic image --> [u'Shays-rebellion-monument', u'The painting shows the Massachusetts ""Regulators"", Shays is seen sitting in front with his hat off', u'Daniel Shays and Job Shattuck']	0	EMPTY
+when did shays rebellion start?	33	shays rebellion --> event end date --> [u'1787']	0	EMPTY
+when did shays rebellion start?	33	shays rebellion --> event start date --> [u'1786']	0	EMPTY
+when did shays rebellion start?	33	rebellion --> object name --> [u'Rebellion']	0	EMPTY
+when did shays rebellion start?	33	rebellion --> topic image --> [u'Grotepier TN']	0	EMPTY
+when did shays rebellion start?	33	rebellion --> quotation subject quotations about this subject --> [u'""This is as \'alone\' as I\'m likely to get with you -- you\'re not half so fetching as your daughter.""', u'All men should have a drop of treason in their veins, if nations are not to go soft like so many sleepy pears.', u"I won't go back and live in the sea again.", u'""I want to live like a man.""', u'Anyone who can be proved to be a seditious person is an outlaw before God and the emperor; and whoever is the first to put him to death does right and well. Therefore let everyone who can, smite, slay and stab, secretly or openly, remembering that nothing can be more poisonous, hurtful, or devilish than a rebel.']	0	EMPTY
+when did shays rebellion start?	33	rebellion --> book subject works --> [u'A Tale of Two Utopias: The Political Journey of the Generation of 1968', u'The Big Book of Dummies, Rebels and Other Geniuses', u'The Rebellious Century']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> us representative committee memberships --> [u'House Committee on Homeland Security', u'House Committee on Oversight and Government Reform', u'United States House Committee on Financial Services']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> person date of birth --> [u'1945-10-18']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> us representative district number --> [u'4']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> person place of birth --> [u'Stamford']	1	[[Norwalk, Connecticut|Norwalk]] and [[Stamford, Connecticut|Stamford]], two larger, mixed-income communities in Fairfield County, have in many elections favored moderate Republicans including former Governor [[John G. Rowland]] and former Congressman [[Chris Shays]], however they have favored Democrats in recent US presidential election years, with Shays being defeated by Democrat [[Jim Himes]] in the 2008 election.
+when did shays rebellion start?	33	chris shays --> place lived location --> [u'Stamford', u'Connecticut', u'Bridgeport', u'Darien']	2	[[Norwalk, Connecticut|Norwalk]] and [[Stamford, Connecticut|Stamford]], two larger, mixed-income communities in Fairfield County, have in many elections favored moderate Republicans including former Governor [[John G. Rowland]] and former Congressman [[Chris Shays]], however they have favored Democrats in recent US presidential election years, with Shays being defeated by Democrat [[Jim Himes]] in the 2008 election.
+when did shays rebellion start?	33	chris shays --> marriage type of union --> [u'Marriage']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> education institution --> [u'New York University', u'Principia College', u'The Principia']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> object name --> [u'Chris Shays']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> person gender --> [u'Male']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> political party tenure party --> [u'Republican Party']	11	| 72 || [[Chris Shays|Christopher Shays]] ||  | [[Republican Party (United States)|R]] || [[Connecticut's 4th congressional district|CT-04]] || August 18, 1987 || 10th term
+when did shays rebellion start?	33	chris shays --> topic image --> [u'Chris Shays', u'Chris Shays', u'Chris Shays']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> person religion --> [u'Christian Science']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> person nationality --> [u'United States of America']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> us representative congressional caucus memberships --> [u'Congressional Wildlife Refuge Caucus']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> daylife hero image id --> [u'0bAW38X2WkcJu']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> us representative state --> [u'Connecticut']	1	In 2009, along with former Congressman [[Chris Shays]] from [[Connecticut]], Edwards criticized the Republican Party for neglecting what they characterized as the constitutional abuses perpetrated by the [[George W. Bush]] administration.
+when did shays rebellion start?	33	chris shays --> marriage spouse --> [u'Betsi Shays']	0	EMPTY
+when did shays rebellion start?	33	chris shays --> person profession --> [u'Politician']	0	EMPTY
+when did shays rebellion start?	33	daniel shays --> person date of birth --> [u'1747']	0	EMPTY
+when did shays rebellion start?	33	daniel shays --> deceased person place of death --> [u'Sparta']	0	EMPTY
+when did shays rebellion start?	33	daniel shays --> person place of birth --> [u'Hopkinton']	0	EMPTY
+when did shays rebellion start?	33	daniel shays --> place lived location --> [u'Massachusetts']	2	In 1795 after [[Shays' Rebellion]] [[Daniel Shays]] moved from [[Massachusetts]] to [[Preston-Potter Hollow, New York|Preston Hollow]], a hamlet in Rensselaerville.
+when did shays rebellion start?	33	daniel shays --> person gender --> [u'Male']	0	EMPTY
+when did shays rebellion start?	33	daniel shays --> object name --> [u'Daniel Shays']	0	EMPTY
+when did shays rebellion start?	33	daniel shays --> topic image --> [u'Daniel Shays and Job Shattuck', u'Engraving depicting Daniel Shays (left) and Job Shattuck']	0	EMPTY
+when did shays rebellion start?	33	daniel shays --> deceased person date of death --> [u'1825-09-29']	0	EMPTY

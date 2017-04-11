@@ -1,19 +1,19 @@
-what happened at chernobyl?	65	chernobyl disaster --> event event type --> [u'News event']	0
-what happened at chernobyl?	65	chernobyl disaster --> event locations --> [u'Ukrainian SSR', u'Chernobyl', u'Prypiat', u'Chernobyl Nuclear Power Plant']	37
-what happened at chernobyl?	65	chernobyl disaster --> disaster areas affected --> [u'Kiev Oblast']	0
-what happened at chernobyl?	65	chernobyl disaster --> topic alias --> [u'1986 Chernobyl Nuclear Accident', u'1986 Chernobyl disaster', u'Chernobyl accident', u'Chernobyl catastrophe', u'Chernobyl catastrophy']	0
-what happened at chernobyl?	65	chernobyl disaster --> object name --> [u'Chernobyl disaster']	0
-what happened at chernobyl?	65	chernobyl disaster --> event end date --> [u'1986-04-26']	0
-what happened at chernobyl?	65	chernobyl disaster --> disaster type of disaster --> [u'Industrial disaster', u'Nuclear accident']	0
-what happened at chernobyl?	65	chernobyl disaster --> event start date --> [u'1986-04-26']	0
-what happened at chernobyl?	65	chernobyl --> location people born here --> [u'Grigory Novak', u'Alexander Krasnoshchyokov', u'Ilja Saz', u'Aaron Twerski of Chernobyl', u'Arnold Lakhovsky']	0
-what happened at chernobyl?	65	chernobyl --> location events --> [u'Chernobyl disaster']	11
-what happened at chernobyl?	65	chernobyl --> geocode longitude --> [u'30.2167']	0
-what happened at chernobyl?	65	chernobyl --> topic alias --> [u'Chornobyl']	0
-what happened at chernobyl?	65	chernobyl --> dated location date founded --> [u'1193']	0
-what happened at chernobyl?	65	chernobyl --> object name --> [u'Chernobyl']	0
-what happened at chernobyl?	65	chernobyl --> topic image --> [u'ChernobylMIR']	0
-what happened at chernobyl?	65	chernobyl --> dated integer number --> [u'500']	0
-what happened at chernobyl?	65	chernobyl --> location containedby --> [u'Ukraine', u'Kiev Oblast', u'Chernobyl Exclusion Zone', u'Ivankiv Raion']	17
-what happened at chernobyl?	65	chernobyl --> dated integer year --> [u'2010']	0
-what happened at chernobyl?	65	chernobyl --> geocode latitude --> [u'51.2667']	0
+what happened at chernobyl?	65	chernobyl disaster --> event event type --> [u'News event']	0	EMPTY
+what happened at chernobyl?	65	chernobyl disaster --> event locations --> [u'Ukrainian SSR', u'Chernobyl', u'Prypiat', u'Chernobyl Nuclear Power Plant']	37	| etymology = The [[Chernobyl Nuclear Power Plant]] after the [[Chernobyl disaster|disaster]]
+what happened at chernobyl?	65	chernobyl disaster --> disaster areas affected --> [u'Kiev Oblast']	0	EMPTY
+what happened at chernobyl?	65	chernobyl disaster --> topic alias --> [u'1986 Chernobyl Nuclear Accident', u'1986 Chernobyl disaster', u'Chernobyl accident', u'Chernobyl catastrophe', u'Chernobyl catastrophy']	0	EMPTY
+what happened at chernobyl?	65	chernobyl disaster --> object name --> [u'Chernobyl disaster']	0	EMPTY
+what happened at chernobyl?	65	chernobyl disaster --> event end date --> [u'1986-04-26']	0	EMPTY
+what happened at chernobyl?	65	chernobyl disaster --> disaster type of disaster --> [u'Industrial disaster', u'Nuclear accident']	0	EMPTY
+what happened at chernobyl?	65	chernobyl disaster --> event start date --> [u'1986-04-26']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> location people born here --> [u'Grigory Novak', u'Alexander Krasnoshchyokov', u'Ilja Saz', u'Aaron Twerski of Chernobyl', u'Arnold Lakhovsky']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> location events --> [u'Chernobyl disaster']	11	Due to the [[Chernobyl disaster|explosion]] in the [[nuclear power plant]] in [[Chernobyl]] in 1986 this area is polluted and abandoned.
+what happened at chernobyl?	65	chernobyl --> geocode longitude --> [u'30.2167']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> topic alias --> [u'Chornobyl']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> dated location date founded --> [u'1193']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> object name --> [u'Chernobyl']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> topic image --> [u'ChernobylMIR']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> dated integer number --> [u'500']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> location containedby --> [u'Ukraine', u'Kiev Oblast', u'Chernobyl Exclusion Zone', u'Ivankiv Raion']	17	In the movie, the apartments doubled as part of the [[Chernobyl]] nuclear plant in [[Ukraine]].
+what happened at chernobyl?	65	chernobyl --> dated integer year --> [u'2010']	0	EMPTY
+what happened at chernobyl?	65	chernobyl --> geocode latitude --> [u'51.2667']	0	EMPTY

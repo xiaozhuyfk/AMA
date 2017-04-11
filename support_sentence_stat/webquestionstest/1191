@@ -1,58 +1,58 @@
-what is there to do in peoria illinois?	1345	thereto --> object name --> [u'thereto']	0
-what is there to do in peoria illinois?	1345	peoria --> sports team location teams --> [u'Peoria Rivermen', u"Bradley Braves men's basketball"]	4
-what is there to do in peoria illinois?	1345	peoria --> bibs location loc type --> [u'City']	0
-what is there to do in peoria illinois?	1345	peoria --> bibs location state --> [u'Illinois']	77
-what is there to do in peoria illinois?	1345	peoria --> location events --> [u"1954 NCAA Men's Division I Basketball Tournament- West Regional First Round", u"Bradley-Oklahoma City 1954 NCAA Men's Division I Basketball Tournament Game", u"1954 NCAA Men's Division I Basketball Tournament"]	0
-what is there to do in peoria illinois?	1345	peoria --> dated float number --> [u'0.0655']	0
-what is there to do in peoria illinois?	1345	peoria --> topic alias --> [u'Peoria County / Peoria city', u'Peoria, Illinois']	0
-what is there to do in peoria illinois?	1345	peoria --> dated float date --> [u'2008']	0
-what is there to do in peoria illinois?	1345	peoria --> geocode longitude --> [u'-89.5889']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is there to do in peoria illinois?	1345	peoria --> dated float number --> [u'0']	0
-what is there to do in peoria illinois?	1345	peoria --> location people born here --> [u'Jon Tatum', u'David Ogden Stiers', u'Ray LaHood', u'John Bliss', u'Billy Mauch']	0
-what is there to do in peoria illinois?	1345	peoria --> geocode latitude --> [u'40.6936']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0
-what is there to do in peoria illinois?	1345	peoria --> citytown postal codes --> [u'61615', u'61605', u'61606', u'61655', u'61654']	0
-what is there to do in peoria illinois?	1345	peoria --> object name --> [u'Peoria']	0
-what is there to do in peoria illinois?	1345	peoria --> webpage category --> [u'Official Website']	0
-what is there to do in peoria illinois?	1345	peoria --> dated float date --> [u'2008']	0
-what is there to do in peoria illinois?	1345	peoria --> travel destination tourist attractions --> [u'Peoria Civic Center', u'John C. Flanagan House Museum', u'Heart of Illinois Fair', u'Lakeview Museum of Arts and Sciences', u"O'Brien Field"]	29
-what is there to do in peoria illinois?	1345	peoria --> topic official website --> [u'http://www.ci.peoria.il.us/']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'3820']	0
-what is there to do in peoria illinois?	1345	peoria --> hud county place place --> [u'Peoria']	1015
-what is there to do in peoria illinois?	1345	peoria --> location contains --> [u'Bradley University', u'Peace and Harvest', u'General Wayne A. Downing Peoria International Airport', u'Peoria Civic Center', u'Central National Bank Building']	69
-what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'45094']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Census Bureau, Population']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0
-what is there to do in peoria illinois?	1345	peoria --> location containedby --> [u'Illinois', u'United States of America', u'Area code 309', u'Peoria County']	105
-what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0
-what is there to do in peoria illinois?	1345	peoria --> newspaper circulation area newspapers --> [u'East Peoria Times-Courier', u'Peoria Times-Observer', u'Journal Star']	1
-what is there to do in peoria illinois?	1345	peoria --> bibs location country --> [u'United States of America']	25
-what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0
-what is there to do in peoria illinois?	1345	peoria --> hud county place county --> [u'Peoria County']	10
-what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is there to do in peoria illinois?	1345	peoria --> administrative division capital relationship administrative division --> [u'Peoria County']	10
-what is there to do in peoria illinois?	1345	peoria --> webpage uri --> [u'http://www.ci.peoria.il.us/']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'13753']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'521']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what is there to do in peoria illinois?	1345	peoria --> topic image --> [u'none Peoria City Hall']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'51279']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'1467', u'5095', u'14045', u'22849', u'29259']	0
-what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'1910', u'1920', u'1930', u'1940', u'1950']	0
-what is there to do in peoria illinois?	1345	peoria --> geocode datum --> [u'NAD83']	0
-what is there to do in peoria illinois?	1345	peoria --> location nearby airports --> [u'General Wayne A. Downing Peoria International Airport', u'Mount Hawley Auxiliary Airport']	0
-what is there to do in peoria illinois?	1345	qaiku --> website category --> [u'Photo sharing', u'Microblogging']	0
-what is there to do in peoria illinois?	1345	qaiku --> topic official website --> [u'http://www.qaiku.com/']	0
-what is there to do in peoria illinois?	1345	qaiku --> object name --> [u'Qaiku']	0
-what is there to do in peoria illinois?	1345	qaiku --> webpage category --> [u'Official Website']	0
-what is there to do in peoria illinois?	1345	qaiku --> webpage uri --> [u'http://www.qaiku.com/']	0
-what is there to do in peoria illinois?	1345	time management --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what is there to do in peoria illinois?	1345	time management --> webpage resource --> [u'Reporter\u2019s Notebook: Sundance Film Festival (Part I)', u"Must List: What'll it be? We like 'Greek'"]	0
-what is there to do in peoria illinois?	1345	time management --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwdH8-rlMEdaAAAABAxv-7A']	0
-what is there to do in peoria illinois?	1345	time management --> object name --> [u'Time management']	0
-what is there to do in peoria illinois?	1345	time management --> topic image --> [u'Adi Holzer Werksverzeichnis 269', u'MerrillCoveyMatrix']	0
-what is there to do in peoria illinois?	1345	time management --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
+what is there to do in peoria illinois?	1345	thereto --> object name --> [u'thereto']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> sports team location teams --> [u'Peoria Rivermen', u"Bradley Braves men's basketball"]	4	In 2005, Andrews transferred to [[Bradley University]] in [[Peoria, Illinois]] and played two seasons on the [[Bradley Braves men's basketball]] team.
+what is there to do in peoria illinois?	1345	peoria --> bibs location loc type --> [u'City']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> bibs location state --> [u'Illinois']	77	| birth_place=[[Peoria, Illinois|Peoria]], [[Illinois]], [[United States]]
+what is there to do in peoria illinois?	1345	peoria --> location events --> [u"1954 NCAA Men's Division I Basketball Tournament- West Regional First Round", u"Bradley-Oklahoma City 1954 NCAA Men's Division I Basketball Tournament Game", u"1954 NCAA Men's Division I Basketball Tournament"]	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated float number --> [u'0.0655']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> topic alias --> [u'Peoria County / Peoria city', u'Peoria, Illinois']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated float date --> [u'2008']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> geocode longitude --> [u'-89.5889']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated float number --> [u'0']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> location people born here --> [u'Jon Tatum', u'David Ogden Stiers', u'Ray LaHood', u'John Bliss', u'Billy Mauch']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> geocode latitude --> [u'40.6936']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> citytown postal codes --> [u'61615', u'61605', u'61606', u'61655', u'61654']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> object name --> [u'Peoria']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> webpage category --> [u'Official Website']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated float date --> [u'2008']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> travel destination tourist attractions --> [u'Peoria Civic Center', u'John C. Flanagan House Museum', u'Heart of Illinois Fair', u'Lakeview Museum of Arts and Sciences', u"O'Brien Field"]	29	|29 September 1983||[[Peoria, Illinois|Peoria]]||rowspan="19"|United States||[[Peoria Civic Center]]
+what is there to do in peoria illinois?	1345	peoria --> topic official website --> [u'http://www.ci.peoria.il.us/']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'3820']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> hud county place place --> [u'Peoria']	1015	|notes=I-74 through traffic to [[Peoria, Illinois|Peoria]] is urged to follow I-80 east around the Quad Cities
+what is there to do in peoria illinois?	1345	peoria --> location contains --> [u'Bradley University', u'Peace and Harvest', u'General Wayne A. Downing Peoria International Airport', u'Peoria Civic Center', u'Central National Bank Building']	69	The '''Bradley Braves''' are the intercollegiate athletics teams of [[Bradley University]], located in [[Peoria, Illinois]], United States.
+what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'45094']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> location containedby --> [u'Illinois', u'United States of America', u'Area code 309', u'Peoria County']	105	| birth_place=[[Peoria, Illinois]], [[United States|U.S.]]
+what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> newspaper circulation area newspapers --> [u'East Peoria Times-Courier', u'Peoria Times-Observer', u'Journal Star']	1	* ''[[Journal Star (Peoria)|Journal Star]]'' – [[Peoria, Illinois|Peoria]]
+what is there to do in peoria illinois?	1345	peoria --> bibs location country --> [u'United States of America']	25	| birth_place=[[Peoria, Illinois]], [[United States|U.S.]]
+what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> hud county place county --> [u'Peoria County']	10	'''Mossville''' is an [[unincorporated community]] between [[Peoria, Illinois|Peoria]] and [[Chillicothe, Illinois|Chillicothe]] in [[Peoria County, Illinois]], [[United States]].
+what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> administrative division capital relationship administrative division --> [u'Peoria County']	10	'''Mossville''' is an [[unincorporated community]] between [[Peoria, Illinois|Peoria]] and [[Chillicothe, Illinois|Chillicothe]] in [[Peoria County, Illinois]], [[United States]].
+what is there to do in peoria illinois?	1345	peoria --> webpage uri --> [u'http://www.ci.peoria.il.us/']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'13753']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'2008']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'521']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> topic image --> [u'none Peoria City Hall']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'51279']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer number --> [u'1467', u'5095', u'14045', u'22849', u'29259']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> dated integer year --> [u'1910', u'1920', u'1930', u'1940', u'1950']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> geocode datum --> [u'NAD83']	0	EMPTY
+what is there to do in peoria illinois?	1345	peoria --> location nearby airports --> [u'General Wayne A. Downing Peoria International Airport', u'Mount Hawley Auxiliary Airport']	0	EMPTY
+what is there to do in peoria illinois?	1345	qaiku --> website category --> [u'Photo sharing', u'Microblogging']	0	EMPTY
+what is there to do in peoria illinois?	1345	qaiku --> topic official website --> [u'http://www.qaiku.com/']	0	EMPTY
+what is there to do in peoria illinois?	1345	qaiku --> object name --> [u'Qaiku']	0	EMPTY
+what is there to do in peoria illinois?	1345	qaiku --> webpage category --> [u'Official Website']	0	EMPTY
+what is there to do in peoria illinois?	1345	qaiku --> webpage uri --> [u'http://www.qaiku.com/']	0	EMPTY
+what is there to do in peoria illinois?	1345	time management --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what is there to do in peoria illinois?	1345	time management --> webpage resource --> [u'Reporter\u2019s Notebook: Sundance Film Festival (Part I)', u"Must List: What'll it be? We like 'Greek'"]	0	EMPTY
+what is there to do in peoria illinois?	1345	time management --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rwdH8-rlMEdaAAAABAxv-7A']	0	EMPTY
+what is there to do in peoria illinois?	1345	time management --> object name --> [u'Time management']	0	EMPTY
+what is there to do in peoria illinois?	1345	time management --> topic image --> [u'Adi Holzer Werksverzeichnis 269', u'MerrillCoveyMatrix']	0	EMPTY
+what is there to do in peoria illinois?	1345	time management --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY

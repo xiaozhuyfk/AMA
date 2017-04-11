@@ -1,291 +1,291 @@
-what islands did darwin study finches on?	1819	finch --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what islands did darwin study finches on?	1819	finch --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvWI6MZwpEbGdrcN5Y29ycA']	0
-what islands did darwin study finches on?	1819	finch --> organism classification scientific name --> [u'Fringillidae']	0
-what islands did darwin study finches on?	1819	finch --> organism classification higher classification --> [u'Passerida']	0
-what islands did darwin study finches on?	1819	finch --> topic alias --> [u'Fringillidae']	0
-what islands did darwin study finches on?	1819	finch --> object name --> [u'Finch']	0
-what islands did darwin study finches on?	1819	finch --> topic image --> [u'Abendkernbeisser m', u'Fringilla coelebs (chaffinch), male']	0
-what islands did darwin study finches on?	1819	finch --> organism classification rank --> [u'Family']	0
-what islands did darwin study finches on?	1819	finch --> organism classification lower classifications --> [u'Rosefinch', u'Hawaiian honeycreeper', u'Carduelis', u'Himatione', u'Fringillinae']	0
-what islands did darwin study finches on?	1819	island --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what islands did darwin study finches on?	1819	island --> webpage resource --> [u"'America's Got Talent' recap: We have our Top 20!", u"'Lost': Who are the other 'others'?"]	0
-what islands did darwin study finches on?	1819	island --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA']	0
-what islands did darwin study finches on?	1819	island --> taxonomy entry low --> [u'471', u'669']	0
-what islands did darwin study finches on?	1819	island --> product choice consumer --> [u'Brad Pitt']	0
-what islands did darwin study finches on?	1819	island --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what islands did darwin study finches on?	1819	island --> code category contains categories --> [u'Atoll']	1
-what islands did darwin study finches on?	1819	island --> geographical feature category subcategories --> [u'Islet', u'Artificial island', u'Cay', u'Tied island', u'Mangrove island']	1
-what islands did darwin study finches on?	1819	island --> linguistic hint subject form --> [u'Islands']	0
-what islands did darwin study finches on?	1819	island --> taxonomy entry high --> [u'478', u'671']	0
-what islands did darwin study finches on?	1819	island --> geographical feature category subcategory of --> [u'Hypsographic']	0
-what islands did darwin study finches on?	1819	island --> type of fictional setting settings --> [u'N\xfamenor', u'West Side Island', u'Atlantis', u'Prison Island', u'Dragonstone']	0
-what islands did darwin study finches on?	1819	island --> topic image --> [u'Pokonji Dol from the ferry Hvar - Kor\u010dula', u'Ailsa Craig from Waverley', u'Sazan']	0
-what islands did darwin study finches on?	1819	island --> object name --> [u'Island']	0
-what islands did darwin study finches on?	1819	island --> location people born here --> [u'Peter le Page Renouf']	0
-what islands did darwin study finches on?	1819	island --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what islands did darwin study finches on?	1819	island --> topic subject of --> [u'Maseskar Island']	0
-what islands did darwin study finches on?	1819	island --> geographical feature category features --> [u'\xcele Platte', u'Ireland', u'Co\xebtivy Island', u'Murray Island', u'Ambrym']	0
-what islands did darwin study finches on?	1819	island --> taxonomy entry prefix --> [u'GB', u'DT']	0
-what islands did darwin study finches on?	1819	island --> equivalent topic equivalent type --> [u'Island']	0
-what islands did darwin study finches on?	1819	island --> book subject works --> [u'Island Dreams: Mediterranean']	0
-what islands did darwin study finches on?	1819	charles darwin --> namesake named after --> [u'Darwin', u'Darwin', u'Darwin', u'Darwin', u'Darwin']	7
-what islands did darwin study finches on?	1819	charles darwin --> person date of birth --> [u'1809-02-12']	0
-what islands did darwin study finches on?	1819	charles darwin --> kwtopic has sentences --> [u'The mission was under the command of FitzRoy, whose cabin Darwin shared.', u'At 22, Darwin took part in a geological field trip through Wales led by geologist Sedgwick .', u'The next year he joined an expedition to South America working as a naturalist for the Royal Navy aboard the ""Beagle"".', u'The purpose of the expedition, which lasted for nearly four years, was to survey the east and west coasts of South America, but it also took in the Cape Verde Islands, the Galapagos, Tahiti, New Zealand, Australia, Mauritius and South Africa.', u'Other publications followed, most dealing with the geological aspects of his trip, but Darwin never forgot the ""species question"".']	0
-what islands did darwin study finches on?	1819	charles darwin --> kwtopic category --> [u'natural sciences and mathematics']	0
-what islands did darwin study finches on?	1819	charles darwin --> academic advisors --> [u'Adam Sedgwick']	5
-what islands did darwin study finches on?	1819	charles darwin --> exhibition subject exhibitions created about this subject --> [u'\u201dThere is grandeur in this view of life\u201c: The Origin of Species at 150', u'Darwin', u'Endless Forms: Charles Darwin, Natural Science and the Visual Arts', u'The Origin: 150 Years Is Just the Beginning', u'Rethinking the Darwinian Revolution']	0
-what islands did darwin study finches on?	1819	charles darwin --> person profession --> [u'Scientist', u'Writer', u'Geologist', u'Naturalist', u'Biologist']	0
-what islands did darwin study finches on?	1819	charles darwin --> topic alias --> [u'Charles Robert Darwin', u'Darwin, Charles']	0
-what islands did darwin study finches on?	1819	charles darwin --> marriage from --> [u'1839-01-29']	0
-what islands did darwin study finches on?	1819	charles darwin --> person gender --> [u'Male']	0
-what islands did darwin study finches on?	1819	charles darwin --> education start date --> [u'1818-09', u'1825-10']	0
-what islands did darwin study finches on?	1819	charles darwin --> author works written --> [u'The Voyage of the Beagle', u'The Darwin Reader First Edition', u'Gesammelte kleinere Schriften', u'Darwin and Henslow', u'Part I: Contributions to the Theory of Natural Selection / Part II']	35
-what islands did darwin study finches on?	1819	charles darwin --> peer relationship peers --> [u'Alfred Russel Wallace', u'Robert Brown', u'William Darwin Fox', u'Erasmus Alvey Darwin']	79
-what islands did darwin study finches on?	1819	charles darwin --> person nationality --> [u'United Kingdom']	6
-what islands did darwin study finches on?	1819	charles darwin --> ideology advocates --> [u'Darwinism', u'Social Darwinism']	15
-what islands did darwin study finches on?	1819	charles darwin --> education major field of study --> [u'Medicine']	0
-what islands did darwin study finches on?	1819	charles darwin --> deceased person date of death --> [u'1882-04-19']	0
-what islands did darwin study finches on?	1819	charles darwin --> daylife hero image id --> [u'0aqsbG631D0TA']	0
-what islands did darwin study finches on?	1819	charles darwin --> family member family --> [u'Darwin\u2013Wedgwood family']	0
-what islands did darwin study finches on?	1819	charles darwin --> deceased person date of burial --> [u'1882-04-26']	0
-what islands did darwin study finches on?	1819	charles darwin --> deceased person place of death --> [u'Down House']	14
-what islands did darwin study finches on?	1819	charles darwin --> scientist worked with --> [u'Alfred Russel Wallace', u'Robert FitzRoy', u'John Herschel', u'Richard Owen', u'Charles Lyell']	127
-what islands did darwin study finches on?	1819	charles darwin --> award honor award --> [u'Copley Medal', u'Royal Medal', u'Wollaston Medal']	4
-what islands did darwin study finches on?	1819	charles darwin --> art subject artwork on the subject --> [u'Charles Darwin on the verandah at Down House', u'Charles Darwin', u'Portrait of Charles Darwin', u'Charles Robert Darwin', u'Charles Darwin']	0
-what islands did darwin study finches on?	1819	charles darwin --> scientist short bio --> [u'English naturalist who proposed and provided scientific evidence that all species of life have evolved over time from one or a few common ancestors through the process of natural selection']	0
-what islands did darwin study finches on?	1819	charles darwin --> webpage description --> [u'Darwin 200']	0
-what islands did darwin study finches on?	1819	charles darwin --> webpage category --> [u'Topic Webpage', u'Tag']	0
-what islands did darwin study finches on?	1819	charles darwin --> scientist known for --> [u'The Origin of Species', u'HMS Beagle', u'Natural selection']	76
-what islands did darwin study finches on?	1819	charles darwin --> deceased person place of burial --> [u'Westminster Abbey']	2
-what islands did darwin study finches on?	1819	charles darwin --> innovator original ideas --> [u'Evolution']	15
-what islands did darwin study finches on?	1819	charles darwin --> person religion --> [u'Agnosticism', u'Anglicanism']	0
-what islands did darwin study finches on?	1819	charles darwin --> author book editions published --> [u'The origin of species by means of natural selection, or, The preservation of favored races in the struggle for life', u'The Darwin Reader First Edition', u'The Darwin Reader Second Edition', u'The Voyage of the Beagle (Everyman Paperbacks)', u'The Structure and Distribution of Coral Reefs']	0
-what islands did darwin study finches on?	1819	charles darwin --> ownership structure --> [u'Down House']	14
-what islands did darwin study finches on?	1819	charles darwin --> marriage spouse --> [u'Emma Darwin']	20
-what islands did darwin study finches on?	1819	charles darwin --> original owner originator of --> [u'The Complete Works of Charles Darwin Online']	0
-what islands did darwin study finches on?	1819	charles darwin --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what islands did darwin study finches on?	1819	charles darwin --> webpage resource --> [u'Afternoon Roundup: Dash Snow Dead, Prince Charles is a Quitter', u'Holiday book-giving etiquette: Do you hold your nose and buy the book the recipient actually wants?', u'Darwin on 42nd Street: Randal Keynes, Darwin\u2019s Great Great Grandson, on the Origins of \u201cCreation\u201d (Essay)', u"I saw it, so you don't have to: Ben Stein's 'Expelled'", u'Darwin 200']	0
-what islands did darwin study finches on?	1819	charles darwin --> person ethnicity --> [u'Caucasian race', u'British people']	0
-what islands did darwin study finches on?	1819	charles darwin --> valuenotation has value --> [u'Height']	0
-what islands did darwin study finches on?	1819	charles darwin --> organization membership organization --> [u'Royal Society']	7
-what islands did darwin study finches on?	1819	charles darwin --> person place of birth --> [u'Shrewsbury']	3
-what islands did darwin study finches on?	1819	charles darwin --> education institution --> [u'University of Cambridge', u'University of Edinburgh', u'Shrewsbury School', u"Christ's College, Cambridge", u'University of Edinburgh Medical School']	15
-what islands did darwin study finches on?	1819	charles darwin --> person quotations --> [u'There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.', u'""It is not the strongest of the species that survives, nor the most intelligent, but the one most      responsive to change.""', u'\u201cIt is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\u201d']	0
-what islands did darwin study finches on?	1819	charles darwin --> person children --> [u'Leonard Darwin', u'Charles Waring Darwin', u'Anne Darwin', u'Henrietta Litchfield', u'Mary Eleanor Darwin']	5
-what islands did darwin study finches on?	1819	charles darwin --> deceased person cause of death --> [u'Coronary thrombosis', u'Heart failure']	0
-what islands did darwin study finches on?	1819	charles darwin --> influence node influenced by --> [u'Jean-Baptiste Lamarck', u'Alfred Russel Wallace', u'Joseph Dalton Hooker', u'Johann Wolfgang von Goethe', u'Herbert Spencer']	144
-what islands did darwin study finches on?	1819	charles darwin --> context name official name --> [u'Charles Robert Darwin']	0
-what islands did darwin study finches on?	1819	charles darwin --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what islands did darwin study finches on?	1819	charles darwin --> ideology opposes --> [u'Intelligent Design']	0
-what islands did darwin study finches on?	1819	charles darwin --> kwtopic disciplines --> [u'evolutionist scientist']	0
-what islands did darwin study finches on?	1819	charles darwin --> marriage to --> [u'1882-04-19']	0
-what islands did darwin study finches on?	1819	charles darwin --> award honor year --> [u'1853', u'1859', u'1864']	0
-what islands did darwin study finches on?	1819	charles darwin --> name source namesakes --> [u'Darwin Island', u'Darwin', u'President Abraham Lincoln', u'Darwin 4078', u'Division of Darwin']	1
-what islands did darwin study finches on?	1819	charles darwin --> webpage uri --> [u'http://www.darwin200.org/']	0
-what islands did darwin study finches on?	1819	charles darwin --> person parents --> [u'Robert Darwin', u'Susannah Darwin']	6
-what islands did darwin study finches on?	1819	charles darwin --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvvcowZwpEbGdrcN5Y29ycA']	0
-what islands did darwin study finches on?	1819	charles darwin --> person in fiction representations in fiction --> [u'Charles Darwin', u'Darwin']	0
-what islands did darwin study finches on?	1819	charles darwin --> topic topical webpage --> [u'http://www.darwin200.org/']	0
-what islands did darwin study finches on?	1819	charles darwin --> influence node influenced --> [u'Arthur van Hoff', u'Richard Dawkins', u'Thomas Huxley', u'Jack London', u'Henrik Pontoppidan']	34
-what islands did darwin study finches on?	1819	charles darwin --> place lived location --> [u'England', u'London', u'Shrewsbury', u'Downe, Kent']	18
-what islands did darwin study finches on?	1819	charles darwin --> marriage type of union --> [u'Marriage']	0
-what islands did darwin study finches on?	1819	charles darwin --> kwtopic connections from --> [u'charles robert darwin geologized with adam sedgwick', u'charles robert darwin work related to gregor mendel', u'charles robert darwin met robert owen', u'charles robert darwin corresponded with asa gray', u'charles robert darwin theory simultaneous with alfred russel wallace']	0
-what islands did darwin study finches on?	1819	charles darwin --> concept developer concepts developed --> [u'Natural selection']	3
-what islands did darwin study finches on?	1819	charles darwin --> sibling relationship sibling --> [u'Marianne Darwin Parker', u'Emily Catherine Darwin', u'Erasmus Alvey Darwin', u'Caroline Sarah Darwin Wedgwood', u'Susan Elizabeth Darwin']	3
-what islands did darwin study finches on?	1819	charles darwin --> kwtopic kwtype --> [u'Person']	0
-what islands did darwin study finches on?	1819	charles darwin --> object name --> [u'Charles Darwin']	0
-what islands did darwin study finches on?	1819	charles darwin --> topic image --> [u'Charles Darwin 1880', u'Charles Robert Darwin. At the age of 51, Charles Darwin had just published On the Origin of Species.']	0
-what islands did darwin study finches on?	1819	charles darwin --> cultural reference source --> [u'Expos\xe9']	0
-what islands did darwin study finches on?	1819	charles darwin --> kwtopic assessment --> [u'A brilliant mind that revolutionized thought in the last half of the 19th century']	0
-what islands did darwin study finches on?	1819	charles darwin --> film subject films --> [u'Darwin', u'Creation', u'The Genius of Charles Darwin', u'Curious Soul', u'The Darwin Adventure']	4
-what islands did darwin study finches on?	1819	charles darwin --> award honor notes description --> [u'""For his important researches in geology, zoology, and botanical physiology""']	0
-what islands did darwin study finches on?	1819	charles darwin --> ownership start date --> [u'1842-09']	0
-what islands did darwin study finches on?	1819	charles darwin --> quotation subject quotations about this subject --> [u'\u201cCharles Darwin viewed the fossil record more as an embarrassment than as an aid to his theory ...""']	0
-what islands did darwin study finches on?	1819	charles darwin --> author series written or contributed to --> [u'The Correspondence of Charles Darwin']	0
-what islands did darwin study finches on?	1819	charles darwin --> book subject works --> [u'Charles Darwin: The Power of Place', u'Charles Darwin: Voyaging', u'Charles Darwin in Cyberspace', u'Darwin and the Darwinian revolution', u"Darwin's untimely burial"]	0
-what islands did darwin study finches on?	1819	darwin --> namesake named after --> [u'Charles Darwin']	6
-what islands did darwin study finches on?	1819	darwin --> business location parent company --> [u'Wridgways Australia Ltd.']	0
-what islands did darwin study finches on?	1819	darwin --> location events --> [u'Bombing of Darwin', u'Raid on Darwin', u'2010 Darwin shopping mall bombing']	10
-what islands did darwin study finches on?	1819	darwin --> location contains --> [u'Lake Alexander', u'The Playhouse @ Darwin Entertainment Centre', u'Marrara Stadium', u'Kormilda College', u'Lake Bennett']	1
-what islands did darwin study finches on?	1819	darwin --> topic alias --> [u'Darwin, Northern Territory']	0
-what islands did darwin study finches on?	1819	darwin --> location partially contains --> [u'Highway 1']	0
-what islands did darwin study finches on?	1819	darwin --> location area --> [u'112.01']	0
-what islands did darwin study finches on?	1819	darwin --> location people born here --> [u'Frank Farina', u'Anthony Corrie', u'Jeremy Cumpston', u'Aidan McLindon', u'Meryl Tankard']	0
-what islands did darwin study finches on?	1819	darwin --> military posting person --> [u'Cecil McFarlane']	0
-what islands did darwin study finches on?	1819	darwin --> travel destination tourist attractions --> [u'Bicentennial Park', u'Darwin Entertainment Centre', u'Skycity Darwin', u'Parliament House, Darwin', u'Museum and Art Gallery of the Northern Territory']	8
-what islands did darwin study finches on?	1819	darwin --> administrative division capital relationship administrative division --> [u'Northern Territory']	197
-what islands did darwin study finches on?	1819	darwin --> administrative area administrative area type --> [u'City/Town/Village']	0
-what islands did darwin study finches on?	1819	darwin --> geocode longitude --> [u'130.833333333']	0
-what islands did darwin study finches on?	1819	darwin --> film location featured in films --> [u'Australia', u'The Dove', u'War', u'Yolngu Boy', u'Walkabout']	0
-what islands did darwin study finches on?	1819	darwin --> webpage resource --> [u'The Evolution of Homer Simpson']	0
-what islands did darwin study finches on?	1819	darwin --> topic exceptions --> [u'Darwin should not be contained in Northern Territory.']	0
-what islands did darwin study finches on?	1819	darwin --> military posting from date --> [u'1939-03']	0
-what islands did darwin study finches on?	1819	darwin --> cyclone affected area cyclones --> [u'Cyclone Tracy']	41
-what islands did darwin study finches on?	1819	darwin --> location containedby --> [u'Australia', u'Northern Territory']	284
-what islands did darwin study finches on?	1819	darwin --> newspaper circulation area newspapers --> [u'Northern Territory News']	2
-what islands did darwin study finches on?	1819	darwin --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what islands did darwin study finches on?	1819	darwin --> geocode latitude --> [u'-12.4666666667']	0
-what islands did darwin study finches on?	1819	darwin --> name source namesakes --> [u'Charles Darwin']	6
-what islands did darwin study finches on?	1819	darwin --> military posting to date --> [u'1940-05']	0
-what islands did darwin study finches on?	1819	darwin --> object name --> [u'Darwin']	0
-what islands did darwin study finches on?	1819	darwin --> topic image --> [u"Darwin's Changing Skyline January 2010", u'Darwin locator-MJC', u'Darwin skyline']	0
-what islands did darwin study finches on?	1819	darwin --> location nearby airports --> [u'Darwin International Airport']	20
-what islands did darwin study finches on?	1819	iceland --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
-what islands did darwin study finches on?	1819	iceland --> government position held office position or title --> [u'Prime Minister of Iceland', u'Minister of Social Affairs', u'Member of the Althing', u'Minister of Welfare', u'President of Iceland']	12
-what islands did darwin study finches on?	1819	iceland --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2006 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1992 Summer Olympics']	7
-what islands did darwin study finches on?	1819	iceland --> bibs location loc type --> [u'Country']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'0', u'0.504271', u'1.532227', u'2.65428', u'6.766409']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
-what islands did darwin study finches on?	1819	iceland --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what islands did darwin study finches on?	1819	iceland --> taxonomy entry prefix --> [u'JN', u'DL']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> location people born here --> [u'Einar J\xf3nsson', u'Sk\xfali J\xf3n Fri\xf0geirsson', u'Ey\xfe\xf3r Gu\xf0j\xf3nsson', u'Petur Tryggvi', u'Gu\xf0ni \xd3lafur Gu\xf0nason']	0
-what islands did darwin study finches on?	1819	iceland --> olympic medal honor medalist --> [u'Patrekur J\xf3hannesson', u'Vala Flosad\xf3ttir', u'R\xf3bert Gunnarsson', u'Hrei\xf0ar Gu\xf0mundsson', u'Arn\xf3r Atlason']	0
-what islands did darwin study finches on?	1819	iceland --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what islands did darwin study finches on?	1819	iceland --> government position held district represented --> [u'Reykjav\xedkurkj\xf6rd\xe6mi Nor\xf0ur', u'Reykjav\xedkurkj\xf6rd\xe6mi Su\xf0ur', u'Su\xf0urkj\xf6rd\xe6mi', u'Reykjav\xedkurkj\xf6rd\xe6mi']	1
-what islands did darwin study finches on?	1819	iceland --> country fips  --> [u'IC']	0
-what islands did darwin study finches on?	1819	iceland --> location containedby --> [u'Europe', u'Eurasia', u'Nordic countries']	100
-what islands did darwin study finches on?	1819	iceland --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what islands did darwin study finches on?	1819	iceland --> location partially containedby --> [u'Arctic']	10
-what islands did darwin study finches on?	1819	iceland --> olympic athlete affiliation sport --> [u'Team handball', u'Alpine skiing', u'Track and field athletics', u'Badminton', u'Swimming']	1
-what islands did darwin study finches on?	1819	iceland --> olympic medal honor medal --> [u'Silver medal', u'Bronze medal']	0
-what islands did darwin study finches on?	1819	iceland --> organization membership organization --> [u'World Bank', u'Organisation for Economic Co-operation and Development', u'Council of Europe', u'United Nations', u'United Nations Relief and Rehabilitation Administration']	7
-what islands did darwin study finches on?	1819	iceland --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what islands did darwin study finches on?	1819	iceland --> context name official name --> [u'The Republic of Iceland']	0
-what islands did darwin study finches on?	1819	iceland --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
-what islands did darwin study finches on?	1819	iceland --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0
-what islands did darwin study finches on?	1819	iceland --> administrative area adjectival form --> [u'of']	0
-what islands did darwin study finches on?	1819	iceland --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViKbpwpEbGdrcN5Y29ycA']	0
-what islands did darwin study finches on?	1819	iceland --> dated kilowatt hour number --> [u'2614.282', u'2871.043', u'2895.086', u'2914.557', u'2918.224']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'2003-01', u'2003-02', u'2003-03', u'2003-04', u'2003-05']	0
-what islands did darwin study finches on?	1819	iceland --> olympic participating country olympics participated in --> [u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	3
-what islands did darwin study finches on?	1819	iceland --> government position held office holder --> [u'Sigr\xed\xf0ur Ingibj\xf6rg Ingad\xf3ttir', u'Sigmundur Dav\xed\xf0 Gunnlaugsson', u'Dav\xed\xf0 Oddsson', u'\xc1sta Ragnhei\xf0ur J\xf3hannesd\xf3ttir', u'J\xf3hanna Sigur\xf0ard\xf3ttir']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> organization scope organizations with this scope --> [u'Left-Green Movement', u'Landvarnarflokkurinn', u'Rainbow', u'Icelandic Federation of Labour', u'Independence Party']	8
-what islands did darwin study finches on?	1819	iceland --> dated money value amount --> [u'11770', u'13180', u'13960', u'14010', u'14830']	0
-what islands did darwin study finches on?	1819	iceland --> country languages spoken --> [u'Icelandic Language']	70
-what islands did darwin study finches on?	1819	iceland --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0
-what islands did darwin study finches on?	1819	iceland --> country calling code --> [u'354']	0
-what islands did darwin study finches on?	1819	iceland --> olympic medal honor event --> [u"Handball at the 2008 Summer Olympics \u2013 Men's tournament", u"Athletics at the 2000 Summer Olympics \u2013 Women's pole vault", u"Athletics at the 1956 Summer Olympics \u2013 Men's triple jump", u"Handball at the 1992 Summer Olympics \u2013 Men's tournament", u"Judo at the 1984 Summer Olympics - Men's Half Heavyweight (95kg)"]	0
-what islands did darwin study finches on?	1819	iceland --> geocode longitude --> [u'-18.9769985787']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> olympic medal honor olympics --> [u'2000 Summer Olympics', u'1984 Summer Olympics', u'1956 Summer Olympics', u'2008 Summer Olympics', u'1992 Summer Olympics']	8
-what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'-6.807133', u'-5.474906', u'-4.023846', u'-3.373894', u'-2.151162']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'0.046424', u'0.082054']	0
-what islands did darwin study finches on?	1819	iceland --> olympic participating country ioc code --> [u'ISL']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0
-what islands did darwin study finches on?	1819	iceland --> dated kgoe number --> [u'2916.706', u'3028.298', u'3082.712', u'3279.602', u'3306.816']	0
-what islands did darwin study finches on?	1819	iceland --> country currency used --> [u'Icelandic kr\xf3na']	0
-what islands did darwin study finches on?	1819	iceland --> dated float number --> [u'1.93', u'1.95', u'1.99', u'2.04', u'2.05']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'2008', u'2009']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> country iso  shortname --> [u'ICELAND']	0
-what islands did darwin study finches on?	1819	iceland --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'2005', u'2006', u'2007', u'2008', u'2009']	0
-what islands did darwin study finches on?	1819	iceland --> breed origin breeds originating here --> [u'Icelandic Sheepdog']	1
-what islands did darwin study finches on?	1819	iceland --> nobel honor nobel prize winner --> [u'Halld\xf3r Laxness']	0
-what islands did darwin study finches on?	1819	iceland --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
-what islands did darwin study finches on?	1819	iceland --> newspaper circulation area newspapers --> [u'Helsingin Sanomat', u'The Militant', u'Fr\xe9ttabla\xf0i\xf0']	0
-what islands did darwin study finches on?	1819	iceland --> adjusted money value adjusted value --> [u'1773570292', u'1775073104', u'1921019832', u'2118565656', u'2328654152']	0
-what islands did darwin study finches on?	1819	iceland --> adjusted money value adjustment currency --> [u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> webpage uri --> [u'http://statoids.com/uis.html']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> flag use flag --> [u'Flag of Iceland']	3
-what islands did darwin study finches on?	1819	iceland --> sports team location teams --> [u'Iceland national handball team', u'Iceland national football team']	7
-what islands did darwin study finches on?	1819	iceland --> employment tenure from --> [u'1952', u'1968', u'1980', u'1996', u'1944-06-17']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what islands did darwin study finches on?	1819	iceland --> employment tenure title --> [u'President']	0
-what islands did darwin study finches on?	1819	iceland --> exhibition subject exhibitions created about this subject --> [u'Pure Iceland']	0
-what islands did darwin study finches on?	1819	iceland --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what islands did darwin study finches on?	1819	iceland --> employment tenure to --> [u'1952', u'1968', u'1980', u'1996']	0
-what islands did darwin study finches on?	1819	iceland --> location adjectival form --> [u'Icelander']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
-what islands did darwin study finches on?	1819	iceland --> dated metric ton number --> [u'6.103849', u'6.220786', u'6.53006', u'6.574856', u'6.744467']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0
-what islands did darwin study finches on?	1819	iceland --> administrative area subdividing type --> [u'Region of Iceland']	0
-what islands did darwin study finches on?	1819	iceland --> government position held to --> [u'1994-06-24', u'2003', u'2004-09-15', u'2005', u'2007']	0
-what islands did darwin study finches on?	1819	iceland --> webpage category --> [u'Tag', u'Topic Equivalent']	0
-what islands did darwin study finches on?	1819	iceland --> government position held basic title --> [u'President', u'Member of Parliament', u'Prime minister', u'Finance minister', u'Minister']	0
-what islands did darwin study finches on?	1819	iceland --> linguistic hint adjectival form --> [u'Icelandic']	0
-what islands did darwin study finches on?	1819	iceland --> countries continent --> [u'Europe']	67
-what islands did darwin study finches on?	1819	iceland --> administrative area administrative parent --> [u'Earth']	0
-what islands did darwin study finches on?	1819	iceland --> country capital --> [u'Reykjavik']	0
-what islands did darwin study finches on?	1819	iceland --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'2.3', u'2.4', u'2.5', u'2.6', u'2.7']	0
-what islands did darwin study finches on?	1819	iceland --> country internet tld --> [u'is']	1
-what islands did darwin study finches on?	1819	iceland --> employment tenure person --> [u'Kristj\xe1n Eldj\xe1rn', u'Vigd\xeds Finnbogad\xf3ttir', u'Sveinn Bj\xf6rnsson', u'\xd3lafur Ragnar Gr\xedmsson', u'\xc1sgeir \xc1sgeirsson']	0
-what islands did darwin study finches on?	1819	iceland --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value valid date --> [u'2008']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value amount --> [u'42600']	0
-what islands did darwin study finches on?	1819	iceland --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what islands did darwin study finches on?	1819	iceland --> administrative area short name --> [u'is']	0
-what islands did darwin study finches on?	1819	iceland --> dated location date founded --> [u'1904-02-01']	0
-what islands did darwin study finches on?	1819	iceland --> country form of government --> [u'Constitutional republic', u'Parliamentary republic']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
-what islands did darwin study finches on?	1819	iceland --> adjusted money value adjustment date --> [u'2000']	0
-what islands did darwin study finches on?	1819	iceland --> book subject works --> [u'Running Blind', u'Last Rituals', u'Avalon', u'Voices: A Thriller', u'Iceland']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what islands did darwin study finches on?	1819	iceland --> travel destination tourist attractions --> [u'Gullfoss', u'Askja']	1
-what islands did darwin study finches on?	1819	iceland --> location contains --> [u'Eyjafj\xf6r\xf0ur', u'Reykh\xf3lahreppur', u'Rang\xe1r\xfeing eystra', u'Longwave radio mast Hellissandur', u'Hof, Iceland']	1
-what islands did darwin study finches on?	1819	iceland --> topic alias --> [u'\xcdsland', u'Republic of Iceland']	0
-what islands did darwin study finches on?	1819	iceland --> flag use from date --> [u'1944-06-17']	0
-what islands did darwin study finches on?	1819	iceland --> taxonomy entry high --> [u'398', u'7389']	0
-what islands did darwin study finches on?	1819	iceland --> cryptid area of occurrence cryptid s found here --> [u'Kraken']	0
-what islands did darwin study finches on?	1819	iceland --> organization membership from --> [u'1946-11-19', u'1943-11-09']	0
-what islands did darwin study finches on?	1819	iceland --> location area --> [u'103001']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
-what islands did darwin study finches on?	1819	iceland --> governmental jurisdiction agencies --> [u'Statistics Iceland', u'Iceland Ministry of Education, Science and Culture']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what islands did darwin study finches on?	1819	iceland --> country administrative divisions --> [u'Eastern Region, Iceland', u'Vesturland', u'Capital Region', u'Southern Peninsula, Iceland', u'Westfjords']	36
-what islands did darwin study finches on?	1819	iceland --> dated float number --> [u'73.427', u'73.495', u'73.542', u'73.573', u'73.596']	0
-what islands did darwin study finches on?	1819	iceland --> governmental jurisdiction government bodies --> [u'Althing']	46
-what islands did darwin study finches on?	1819	iceland --> administrative area pertinent type --> [u'County of Iceland', u'Region of Iceland', u'Municipality of Iceland']	0
-what islands did darwin study finches on?	1819	iceland --> location time zones --> [u'Greenwich Mean Time', u'UTC\xb100:00']	18
-what islands did darwin study finches on?	1819	iceland --> administrative area administrative area type --> [u'Sovereign state']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
-what islands did darwin study finches on?	1819	iceland --> film location featured in films --> [u'Prometheus', u'Noi the Albino', u'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', u'Noah']	0
-what islands did darwin study finches on?	1819	iceland --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what islands did darwin study finches on?	1819	iceland --> webpage resource --> [u'Highlights from CMJ 2006', u'Statoids of Iceland', u'Icelandic Light: Reflections on Landscapes and Locations (Essay)', u'Mark Wahlberg signs on to remake of Icelandic thriller', u'Concert Review: Bj\xf6rk at Radio City']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> topic official website --> [u'http://www.visiticeland.com/']	0
-what islands did darwin study finches on?	1819	iceland --> government position held governmental body --> [u'Althing']	46
-what islands did darwin study finches on?	1819	iceland --> dated integer number --> [u'60000', u'85089', u'175574', u'179029', u'182378']	0
-what islands did darwin study finches on?	1819	iceland --> geocode latitude --> [u'64.8342780901']	0
-what islands did darwin study finches on?	1819	iceland --> location events --> [u'Battle of \xd6rlygssta\xf0ir', u'2008 Icelandic lorry driver protests', u'Action of 9 May 1941', u'Invasion of Iceland']	8
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> country official language --> [u'Icelandic Language']	70
-what islands did darwin study finches on?	1819	iceland --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'-0.14', u'0.3', u'0.34', u'0.52', u'0.54']	0
-what islands did darwin study finches on?	1819	iceland --> taxonomy entry low --> [u'301', u'7380']	0
-what islands did darwin study finches on?	1819	iceland --> administrative area administrative children --> [u'Northwestern Region, Iceland', u'Northeastern Region, Iceland', u'Eastern Region, Iceland', u'Southern Region, Iceland', u'Vesturland']	15
-what islands did darwin study finches on?	1819	iceland --> government position held from --> [u'1978', u'1987', u'1991', u'1995', u'2003']	0
-what islands did darwin study finches on?	1819	iceland --> olympic athlete affiliation athlete --> [u'Patrekur J\xf3hannesson', u'Jakob J\xf3hann Sveinsson', u'Ragna Ing\xf3lfsd\xf3ttir', u'Anton Sveinn Mckee', u'Eva Hannesdottir']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar']	1
-what islands did darwin study finches on?	1819	iceland --> dated money value amount --> [u'2686312909', u'3042310982', u'3277510545', u'3308109109', u'3552902142']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what islands did darwin study finches on?	1819	iceland --> object name --> [u'Iceland']	0
-what islands did darwin study finches on?	1819	iceland --> topic image --> [u"Carte physique de l'Islande.", u'Location Iceland Europe']	0
-what islands did darwin study finches on?	1819	iceland --> national anthem of a country anthem --> [u'Lofs\xf6ngur']	0
-what islands did darwin study finches on?	1819	iceland --> dated integer year --> [u'1910', u'1960', u'1961', u'1962', u'1963']	0
-what islands did darwin study finches on?	1819	iceland --> dated money value amount --> [u'248434096.97', u'248434097', u'253885656', u'253885656.33', u'284916516']	0
-what islands did darwin study finches on?	1819	iceland --> governmental jurisdiction government positions --> [u'Member of the Althing']	0
-what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'26', u'27.9', u'28.5', u'70.3', u'87.9']	0
-what islands did darwin study finches on?	1819	darwin --> namesake named after --> [u'Charles Darwin']	1
-what islands did darwin study finches on?	1819	darwin --> software developer --> [u'Apple Inc.']	11
-what islands did darwin study finches on?	1819	darwin --> webpage category --> [u'Official Website']	0
-what islands did darwin study finches on?	1819	darwin --> object name --> [u'Darwin']	0
-what islands did darwin study finches on?	1819	darwin --> operating system supported architectures --> [u'PowerPC', u'x86', u'ARM architecture']	2
-what islands did darwin study finches on?	1819	darwin --> topic official website --> [u'http://developer.apple.com/opensource/']	0
-what islands did darwin study finches on?	1819	darwin --> name source namesakes --> [u'Charles Darwin']	1
-what islands did darwin study finches on?	1819	darwin --> webpage uri --> [u'http://opensource.apple.com/', u'http://developer.apple.com/opensource/']	0
-what islands did darwin study finches on?	1819	darwins finches --> namesake named after --> [u'Charles Darwin']	7
-what islands did darwin study finches on?	1819	darwins finches --> object name --> [u"Darwin's finches"]	0
-what islands did darwin study finches on?	1819	darwins finches --> topic image --> [u"Darwin's finches by Gould", u"Darwin's finches"]	0
-what islands did darwin study finches on?	1819	darwins finches --> topic alias --> [u'Gal\xe1pagos Finches', u'Geospizinae']	0
-what islands did darwin study finches on?	1819	darwins finches --> book subject works --> [u'The Beak of the Finch: A Story of Evolution in Our Time']	0
+what islands did darwin study finches on?	1819	finch --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what islands did darwin study finches on?	1819	finch --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvWI6MZwpEbGdrcN5Y29ycA']	0	EMPTY
+what islands did darwin study finches on?	1819	finch --> organism classification scientific name --> [u'Fringillidae']	0	EMPTY
+what islands did darwin study finches on?	1819	finch --> organism classification higher classification --> [u'Passerida']	0	EMPTY
+what islands did darwin study finches on?	1819	finch --> topic alias --> [u'Fringillidae']	0	EMPTY
+what islands did darwin study finches on?	1819	finch --> object name --> [u'Finch']	0	EMPTY
+what islands did darwin study finches on?	1819	finch --> topic image --> [u'Abendkernbeisser m', u'Fringilla coelebs (chaffinch), male']	0	EMPTY
+what islands did darwin study finches on?	1819	finch --> organism classification rank --> [u'Family']	0	EMPTY
+what islands did darwin study finches on?	1819	finch --> organism classification lower classifications --> [u'Rosefinch', u'Hawaiian honeycreeper', u'Carduelis', u'Himatione', u'Fringillinae']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> webpage resource --> [u"'America's Got Talent' recap: We have our Top 20!", u"'Lost': Who are the other 'others'?"]	0	EMPTY
+what islands did darwin study finches on?	1819	island --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> taxonomy entry low --> [u'471', u'669']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> product choice consumer --> [u'Brad Pitt']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> code category contains categories --> [u'Atoll']	1	!style="background: #DDD;" rowspan=2| [[Atoll]]/[[Island]]/[[Reef]] !
+what islands did darwin study finches on?	1819	island --> geographical feature category subcategories --> [u'Islet', u'Artificial island', u'Cay', u'Tied island', u'Mangrove island']	1	*[[Island]], [[Islet]] 
+what islands did darwin study finches on?	1819	island --> linguistic hint subject form --> [u'Islands']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> taxonomy entry high --> [u'478', u'671']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> geographical feature category subcategory of --> [u'Hypsographic']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> type of fictional setting settings --> [u'N\xfamenor', u'West Side Island', u'Atlantis', u'Prison Island', u'Dragonstone']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> topic image --> [u'Pokonji Dol from the ferry Hvar - Kor\u010dula', u'Ailsa Craig from Waverley', u'Sazan']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> object name --> [u'Island']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> location people born here --> [u'Peter le Page Renouf']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> topic subject of --> [u'Maseskar Island']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> geographical feature category features --> [u'\xcele Platte', u'Ireland', u'Co\xebtivy Island', u'Murray Island', u'Ambrym']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> taxonomy entry prefix --> [u'GB', u'DT']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> equivalent topic equivalent type --> [u'Island']	0	EMPTY
+what islands did darwin study finches on?	1819	island --> book subject works --> [u'Island Dreams: Mediterranean']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> namesake named after --> [u'Darwin', u'Darwin', u'Darwin', u'Darwin', u'Darwin']	7	*[[1911 in Australia|1911]] – The city of Palmerston in the [[Northern Territory]] is renamed [[Darwin, Northern Territory|Darwin]] in honour of [[Charles Darwin]].
+what islands did darwin study finches on?	1819	charles darwin --> person date of birth --> [u'1809-02-12']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> kwtopic has sentences --> [u'The mission was under the command of FitzRoy, whose cabin Darwin shared.', u'At 22, Darwin took part in a geological field trip through Wales led by geologist Sedgwick .', u'The next year he joined an expedition to South America working as a naturalist for the Royal Navy aboard the ""Beagle"".', u'The purpose of the expedition, which lasted for nearly four years, was to survey the east and west coasts of South America, but it also took in the Cape Verde Islands, the Galapagos, Tahiti, New Zealand, Australia, Mauritius and South Africa.', u'Other publications followed, most dealing with the geological aspects of his trip, but Darwin never forgot the ""species question"".']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> kwtopic category --> [u'natural sciences and mathematics']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> academic advisors --> [u'Adam Sedgwick']	5	Anning's correspondents included [[Charles Lyell]], who wrote to her to ask her opinion on how the sea was affecting the coastal cliffs around Lyme, as well as [[Adam Sedgwick]]—one of her earliest customers—who taught geology at the University of Cambridge and who numbered [[Charles Darwin]] among his students.
+what islands did darwin study finches on?	1819	charles darwin --> exhibition subject exhibitions created about this subject --> [u'\u201dThere is grandeur in this view of life\u201c: The Origin of Species at 150', u'Darwin', u'Endless Forms: Charles Darwin, Natural Science and the Visual Arts', u'The Origin: 150 Years Is Just the Beginning', u'Rethinking the Darwinian Revolution']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> person profession --> [u'Scientist', u'Writer', u'Geologist', u'Naturalist', u'Biologist']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> topic alias --> [u'Charles Robert Darwin', u'Darwin, Charles']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> marriage from --> [u'1839-01-29']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> person gender --> [u'Male']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> education start date --> [u'1818-09', u'1825-10']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> author works written --> [u'The Voyage of the Beagle', u'The Darwin Reader First Edition', u'Gesammelte kleinere Schriften', u'Darwin and Henslow', u'Part I: Contributions to the Theory of Natural Selection / Part II']	35	Writing his own books and producing the wood engravings for them kept him busy, but he did illustrate other books too, the most notable being an edition of ''[[The Voyage of the Beagle]]'' by [[Charles Darwin]] (1956).
+what islands did darwin study finches on?	1819	charles darwin --> peer relationship peers --> [u'Alfred Russel Wallace', u'Robert Brown', u'William Darwin Fox', u'Erasmus Alvey Darwin']	79	W. Wood''' (born '''Thomas Wood''', summer 1839 – c. 1910) was an English [[zoology|zoological]] [[illustrator]] responsible for the accurate drawings in major nineteenth century works of [[natural history]] including [[Charles Darwin|Darwin]]'s ''[[The Descent of Man]]'' and [[Alfred Russel Wallace|Wallace]]'s ''[[The Malay Archipelago]]''.
+what islands did darwin study finches on?	1819	charles darwin --> person nationality --> [u'United Kingdom']	6	[[Thomas Henry Huxley|Thomas Huxley]] (1825 &ndash; 1895) was a [[United Kingdom|British]] [[biologist]] known as "Darwin's Bulldog" for his defence of [[Charles Darwin]]'s theory of [[evolution]].
+what islands did darwin study finches on?	1819	charles darwin --> ideology advocates --> [u'Darwinism', u'Social Darwinism']	15	It was also around this time that he became acquainted with [[Progressivism|progressive]], [[Utopian socialism|utopian socialist]], and [[Darwinism|Darwinist]] ideas (notably reading the works of [[Nikolai Chernyshevsky]], [[Alexander Herzen]], [[Charles Darwin]], [[Karl Marx]], [[Mikhail Bakunin]], [[Ferdinand Lassalle]], and [[Peter Lavrovich Lavrov]]).
+what islands did darwin study finches on?	1819	charles darwin --> education major field of study --> [u'Medicine']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> deceased person date of death --> [u'1882-04-19']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> daylife hero image id --> [u'0aqsbG631D0TA']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> family member family --> [u'Darwin\u2013Wedgwood family']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> deceased person date of burial --> [u'1882-04-26']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> deceased person place of death --> [u'Down House']	14	From 1866 to 1867, Haeckel made an extended journey to the [[Canary Islands]] with [[Hermann Fol]] and during this period, met with [[Charles Darwin]], in 1866 at [[Down House]] in Kent, [[Thomas Huxley]] and [[Charles Lyell]].
+what islands did darwin study finches on?	1819	charles darwin --> scientist worked with --> [u'Alfred Russel Wallace', u'Robert FitzRoy', u'John Herschel', u'Richard Owen', u'Charles Lyell']	127	W. Wood''' (born '''Thomas Wood''', summer 1839 – c. 1910) was an English [[zoology|zoological]] [[illustrator]] responsible for the accurate drawings in major nineteenth century works of [[natural history]] including [[Charles Darwin|Darwin]]'s ''[[The Descent of Man]]'' and [[Alfred Russel Wallace|Wallace]]'s ''[[The Malay Archipelago]]''.
+what islands did darwin study finches on?	1819	charles darwin --> award honor award --> [u'Copley Medal', u'Royal Medal', u'Wollaston Medal']	4	*[[Wollaston Medal]] from The Geological Society of London (considered the highest honor in Geology, or an equivalent to the Nobel Prize in Geology) in 1984 (formerly presented to [[Charles Lyell]], [[Thomas Henry Huxley]], [[Charles Darwin]] and [[James Lovelock]]).
+what islands did darwin study finches on?	1819	charles darwin --> art subject artwork on the subject --> [u'Charles Darwin on the verandah at Down House', u'Charles Darwin', u'Portrait of Charles Darwin', u'Charles Robert Darwin', u'Charles Darwin']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> scientist short bio --> [u'English naturalist who proposed and provided scientific evidence that all species of life have evolved over time from one or a few common ancestors through the process of natural selection']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> webpage description --> [u'Darwin 200']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> webpage category --> [u'Topic Webpage', u'Tag']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> scientist known for --> [u'The Origin of Species', u'HMS Beagle', u'Natural selection']	76	Another naturalist, [[Charles Darwin]], wrote his famous account of the journey of [[HMS Beagle|HMS ''Beagle'']] at the intersection of science, natural history and travel.
+what islands did darwin study finches on?	1819	charles darwin --> deceased person place of burial --> [u'Westminster Abbey']	2	His widow declined the proposal of a burial of his body in [[Westminster Abbey]] alongside [[Charles Darwin]].
+what islands did darwin study finches on?	1819	charles darwin --> innovator original ideas --> [u'Evolution']	15	In a largely overlooked passage from his famous 1858 paper to the [[Linnean Society of London|Linnean Society]] (which led [[Charles Darwin|Darwin]] to publish [[On the Origin of Species]]), [[Alfred Russel Wallace]] says of the [[Evolution|evolutionary principle]]:
+what islands did darwin study finches on?	1819	charles darwin --> person religion --> [u'Agnosticism', u'Anglicanism']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> author book editions published --> [u'The origin of species by means of natural selection, or, The preservation of favored races in the struggle for life', u'The Darwin Reader First Edition', u'The Darwin Reader Second Edition', u'The Voyage of the Beagle (Everyman Paperbacks)', u'The Structure and Distribution of Coral Reefs']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> ownership structure --> [u'Down House']	14	From 1866 to 1867, Haeckel made an extended journey to the [[Canary Islands]] with [[Hermann Fol]] and during this period, met with [[Charles Darwin]], in 1866 at [[Down House]] in Kent, [[Thomas Huxley]] and [[Charles Lyell]].
+what islands did darwin study finches on?	1819	charles darwin --> marriage spouse --> [u'Emma Darwin']	20	| parents = [[Charles Darwin]]<br>[[Emma Darwin|Emma Wedgwood]]
+what islands did darwin study finches on?	1819	charles darwin --> original owner originator of --> [u'The Complete Works of Charles Darwin Online']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> webpage resource --> [u'Afternoon Roundup: Dash Snow Dead, Prince Charles is a Quitter', u'Holiday book-giving etiquette: Do you hold your nose and buy the book the recipient actually wants?', u'Darwin on 42nd Street: Randal Keynes, Darwin\u2019s Great Great Grandson, on the Origins of \u201cCreation\u201d (Essay)', u"I saw it, so you don't have to: Ben Stein's 'Expelled'", u'Darwin 200']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> person ethnicity --> [u'Caucasian race', u'British people']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> valuenotation has value --> [u'Height']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> organization membership organization --> [u'Royal Society']	7	Mallet, with letters of support from [[Charles Lyell]] and [[Charles Darwin]], petitioned the [[Royal Society|Royal Society of London]] and received a grant of £150 to go to Padula and record at first hand the devastation.
+what islands did darwin study finches on?	1819	charles darwin --> person place of birth --> [u'Shrewsbury']	3	;Articles this image appears in:[[Shrewsbury]], [[Bahá'í Faith and science]], [[Charles Darwin]], [[Clarel ]]
+what islands did darwin study finches on?	1819	charles darwin --> education institution --> [u'University of Cambridge', u'University of Edinburgh', u'Shrewsbury School', u"Christ's College, Cambridge", u'University of Edinburgh Medical School']	15	This became an authoritative statement with wide influence on science, particularly at the [[University of Cambridge]] where it inspired the student [[Charles Darwin]] with "a burning zeal" to contribute to this work.
+what islands did darwin study finches on?	1819	charles darwin --> person quotations --> [u'There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.', u'""It is not the strongest of the species that survives, nor the most intelligent, but the one most      responsive to change.""', u'\u201cIt is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\u201d']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> person children --> [u'Leonard Darwin', u'Charles Waring Darwin', u'Anne Darwin', u'Henrietta Litchfield', u'Mary Eleanor Darwin']	5	*[[Anne Darwin]], [[Charles Darwin]]'s daughter, is buried in the graveyard of Malvern Priory.
+what islands did darwin study finches on?	1819	charles darwin --> deceased person cause of death --> [u'Coronary thrombosis', u'Heart failure']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> influence node influenced by --> [u'Jean-Baptiste Lamarck', u'Alfred Russel Wallace', u'Joseph Dalton Hooker', u'Johann Wolfgang von Goethe', u'Herbert Spencer']	144	Inspired by yet critical of the writings of [[Charles Darwin]] and [[Herbert Spencer]], who she considered to be the most influential men of her day, Blackwell published several works in the fields of theology, science and philosophy.
+what islands did darwin study finches on?	1819	charles darwin --> context name official name --> [u'Charles Robert Darwin']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> ideology opposes --> [u'Intelligent Design']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> kwtopic disciplines --> [u'evolutionist scientist']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> marriage to --> [u'1882-04-19']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> award honor year --> [u'1853', u'1859', u'1864']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> name source namesakes --> [u'Darwin Island', u'Darwin', u'President Abraham Lincoln', u'Darwin 4078', u'Division of Darwin']	1	* [[Charles Darwin]], British biologist – [[Darwinism]], [[Neural Darwinism]], [[Social Darwinism]], [[Darwinian Happiness]], [[Darwin's theory of evolution]], [[Darwinian selection]], [[Non-darwinian evolution]], [[Darwinian medicine]], [[Darwin, Northern Territory]], [[Darwin Mounds]], [[Charles Darwin University]], [[Darwin College, Cambridge]], [[Charles Darwin National Park]], [[Darwin Awards]], [[Darwin's finches]], [[Darwin Island]], another [[Darwin Island (Antarctica)|Darwin Island]], [[Charles Darwin Research Station]], Darwin Bay, ''[[Lecocarpus darwinii]]'' (a tree species), [[Charles Darwin Foundation]], [[Darwin's Arch]]
+what islands did darwin study finches on?	1819	charles darwin --> webpage uri --> [u'http://www.darwin200.org/']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> person parents --> [u'Robert Darwin', u'Susannah Darwin']	6	* Susannah Wedgwood (3 January 1865 – 1817) married [[Robert Darwin]] and became the mother of the English naturalist [[Charles Darwin]].
+what islands did darwin study finches on?	1819	charles darwin --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvvcowZwpEbGdrcN5Y29ycA']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> person in fiction representations in fiction --> [u'Charles Darwin', u'Darwin']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> topic topical webpage --> [u'http://www.darwin200.org/']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> influence node influenced --> [u'Arthur van Hoff', u'Richard Dawkins', u'Thomas Huxley', u'Jack London', u'Henrik Pontoppidan']	34	He became interested in [[Descartes]], [[Charles Darwin|Darwin]], [[Thomas Henry Huxley|Huxley]], [[John Tyndall]] and [[Herbert Spencer]] and thus went on to study Philosophy at Glasgow University in 1977 studying under and befriending [[Edward Caird]] and Caird's assistant [[Henry Jones (philosopher)|Henry Jones]].
+what islands did darwin study finches on?	1819	charles darwin --> place lived location --> [u'England', u'London', u'Shrewsbury', u'Downe, Kent']	18	The Committee included [[England|English]] [[Liberalism|liberals]], such as [[John Bright]], [[Charles Darwin]], [[John Stuart Mill]], [[Thomas Huxley]], [[Thomas Hughes]] and [[Herbert Spencer]].
+what islands did darwin study finches on?	1819	charles darwin --> marriage type of union --> [u'Marriage']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> kwtopic connections from --> [u'charles robert darwin geologized with adam sedgwick', u'charles robert darwin work related to gregor mendel', u'charles robert darwin met robert owen', u'charles robert darwin corresponded with asa gray', u'charles robert darwin theory simultaneous with alfred russel wallace']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> concept developer concepts developed --> [u'Natural selection']	3	[[Charles Darwin]] (1859) also produced one of the first illustrations and crucially popularized the notion of an [[Natural selection|evolutionary "tree"]] in his seminal book ''[[The Origin of Species]]''.
+what islands did darwin study finches on?	1819	charles darwin --> sibling relationship sibling --> [u'Marianne Darwin Parker', u'Emily Catherine Darwin', u'Erasmus Alvey Darwin', u'Caroline Sarah Darwin Wedgwood', u'Susan Elizabeth Darwin']	3	| children = Marianne Parker<br>Caroline Wedgwood<br>Susan Darwin<br>[[Erasmus Alvey Darwin]]<br>[[Charles Darwin]]<br>Emily Langton
+what islands did darwin study finches on?	1819	charles darwin --> kwtopic kwtype --> [u'Person']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> object name --> [u'Charles Darwin']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> topic image --> [u'Charles Darwin 1880', u'Charles Robert Darwin. At the age of 51, Charles Darwin had just published On the Origin of Species.']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> cultural reference source --> [u'Expos\xe9']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> kwtopic assessment --> [u'A brilliant mind that revolutionized thought in the last half of the 19th century']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> film subject films --> [u'Darwin', u'Creation', u'The Genius of Charles Darwin', u'Curious Soul', u'The Darwin Adventure']	4	He also published audio interviews with notable personalities, including [[Paul Bettany]] on his role playing [[Charles Darwin]] in the movie ''[[Creation (2009 film)|Creation]]'', and [[David Attenborough]] on his documentary ''[[Charles Darwin and the Tree of Life]]''.
+what islands did darwin study finches on?	1819	charles darwin --> award honor notes description --> [u'""For his important researches in geology, zoology, and botanical physiology""']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> ownership start date --> [u'1842-09']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> quotation subject quotations about this subject --> [u'\u201cCharles Darwin viewed the fossil record more as an embarrassment than as an aid to his theory ...""']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> author series written or contributed to --> [u'The Correspondence of Charles Darwin']	0	EMPTY
+what islands did darwin study finches on?	1819	charles darwin --> book subject works --> [u'Charles Darwin: The Power of Place', u'Charles Darwin: Voyaging', u'Charles Darwin in Cyberspace', u'Darwin and the Darwinian revolution', u"Darwin's untimely burial"]	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> namesake named after --> [u'Charles Darwin']	6	*[[1911 in Australia|1911]] – The city of Palmerston in the [[Northern Territory]] is renamed [[Darwin, Northern Territory|Darwin]] in honour of [[Charles Darwin]].
+what islands did darwin study finches on?	1819	darwin --> business location parent company --> [u'Wridgways Australia Ltd.']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> location events --> [u'Bombing of Darwin', u'Raid on Darwin', u'2010 Darwin shopping mall bombing']	10	*[[1942]] &ndash; [[World War II]]: Nearly 250 Japanese warplanes [[Bombing of Darwin|attack]] the northern Australian city of [[Darwin, Northern Territory|Darwin]] killing 243 people.
+what islands did darwin study finches on?	1819	darwin --> location contains --> [u'Lake Alexander', u'The Playhouse @ Darwin Entertainment Centre', u'Marrara Stadium', u'Kormilda College', u'Lake Bennett']	1	Batchelor Institute began in the mid-1960s as an annex of [[Kormilda College]], a residential school for Aboriginal students on the outskirts of [[Darwin, Northern Territory]].
+what islands did darwin study finches on?	1819	darwin --> topic alias --> [u'Darwin, Northern Territory']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> location partially contains --> [u'Highway 1']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> location area --> [u'112.01']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> location people born here --> [u'Frank Farina', u'Anthony Corrie', u'Jeremy Cumpston', u'Aidan McLindon', u'Meryl Tankard']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> military posting person --> [u'Cecil McFarlane']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> travel destination tourist attractions --> [u'Bicentennial Park', u'Darwin Entertainment Centre', u'Skycity Darwin', u'Parliament House, Darwin', u'Museum and Art Gallery of the Northern Territory']	8	* ''Lunar Image'' (1980), [[Museum and Art Gallery of the Northern Territory]] (MAGNT), [[Darwin, Northern Territory|Darwin]], Northern Territory
+what islands did darwin study finches on?	1819	darwin --> administrative division capital relationship administrative division --> [u'Northern Territory']	197	| [[Darwin, Northern Territory|Darwin]], [[Northern Territory|NT]]    ||  || [http://maps.spench.net/rf/#pos=-12.4419079,130.9596515&zoom=17&type=hybrid&auto_fetch=true&clustering=true&cluster_level=16&site=28451&filter=%5B%7B%22freq%22%3A25000000%2C%22freq_range%22%3A25000000%7D%5D&q=0-50mhz 11 Mile IPS Site, BERRIMAH]
+what islands did darwin study finches on?	1819	darwin --> administrative area administrative area type --> [u'City/Town/Village']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> geocode longitude --> [u'130.833333333']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> film location featured in films --> [u'Australia', u'The Dove', u'War', u'Yolngu Boy', u'Walkabout']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> webpage resource --> [u'The Evolution of Homer Simpson']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> topic exceptions --> [u'Darwin should not be contained in Northern Territory.']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> military posting from date --> [u'1939-03']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> cyclone affected area cyclones --> [u'Cyclone Tracy']	41	This, together with the destruction caused by [[Cyclone Tracy]] in [[Darwin, Northern Territory|Darwin]] 1974, prompted the establishment of a cyclone research facility.
+what islands did darwin study finches on?	1819	darwin --> location containedby --> [u'Australia', u'Northern Territory']	284	| [[Darwin, Northern Territory|Darwin]], [[Northern Territory|NT]]    ||  || [http://maps.spench.net/rf/#pos=-12.4419079,130.9596515&zoom=17&type=hybrid&auto_fetch=true&clustering=true&cluster_level=16&site=28451&filter=%5B%7B%22freq%22%3A25000000%2C%22freq_range%22%3A25000000%7D%5D&q=0-50mhz 11 Mile IPS Site, BERRIMAH]
+what islands did darwin study finches on?	1819	darwin --> newspaper circulation area newspapers --> [u'Northern Territory News']	2	In [[Brisbane]], it is linked with ''[[The Courier-Mail]]'' and ''[[The Sunday Mail (Brisbane)|The Sunday Mail]]'', in [[Adelaide]], ''[[The Advertiser (Australia)|The Advertiser]]'' and ''[[The Advertiser (Adelaide)|Sunday Mail]]'', in [[Perth, Western Australia|Perth]],  ''[[The Sunday Times (Western Australia)|The Sunday Times]]'', in [[Hobart]], ''[[The Mercury (Hobart)|The Mercury]]'' and ''[[The Mercury (Hobart)|The Sunday Tasmanian]]'', in [[Darwin, Northern Territory|Darwin]], The ''[[Northern Territory News]]'' and ''[[The Sunday Territorian|Sunday Territorian]]''.
+what islands did darwin study finches on?	1819	darwin --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> geocode latitude --> [u'-12.4666666667']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> name source namesakes --> [u'Charles Darwin']	6	*[[1911 in Australia|1911]] – The city of Palmerston in the [[Northern Territory]] is renamed [[Darwin, Northern Territory|Darwin]] in honour of [[Charles Darwin]].
+what islands did darwin study finches on?	1819	darwin --> military posting to date --> [u'1940-05']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> object name --> [u'Darwin']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> topic image --> [u"Darwin's Changing Skyline January 2010", u'Darwin locator-MJC', u'Darwin skyline']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> location nearby airports --> [u'Darwin International Airport']	20	* Perth (Perth Airport) to [[Darwin, Northern Territory|Darwin]], [[Northern Territory]] ([[Darwin International Airport]])
+what islands did darwin study finches on?	1819	iceland --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> government position held office position or title --> [u'Prime Minister of Iceland', u'Minister of Social Affairs', u'Member of the Althing', u'Minister of Welfare', u'President of Iceland']	12	'''Halldór Ásgrímsson''' (pronounced ; 8 September 1947 – 18 May 2015) was an [[Iceland]]ic politician, who served as [[Prime Minister of Iceland]] from 2004 to 2006 and was leader of the [[Progressive Party (Iceland)|Progressive Party]] from 1994 to 2006.
+what islands did darwin study finches on?	1819	iceland --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2006 Winter Olympics', u'2002 Winter Olympics', u'2008 Summer Olympics', u'1992 Summer Olympics']	7	'''[[Iceland]]''' sent a team to compete at the '''[[2008 Summer Olympics]]''' in [[Beijing]], [[People's Republic of China]].
+what islands did darwin study finches on?	1819	iceland --> bibs location loc type --> [u'Country']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'0', u'0.504271', u'1.532227', u'2.65428', u'6.766409']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> taxonomy entry prefix --> [u'JN', u'DL']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> location people born here --> [u'Einar J\xf3nsson', u'Sk\xfali J\xf3n Fri\xf0geirsson', u'Ey\xfe\xf3r Gu\xf0j\xf3nsson', u'Petur Tryggvi', u'Gu\xf0ni \xd3lafur Gu\xf0nason']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> olympic medal honor medalist --> [u'Patrekur J\xf3hannesson', u'Vala Flosad\xf3ttir', u'R\xf3bert Gunnarsson', u'Hrei\xf0ar Gu\xf0mundsson', u'Arn\xf3r Atlason']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> government position held district represented --> [u'Reykjav\xedkurkj\xf6rd\xe6mi Nor\xf0ur', u'Reykjav\xedkurkj\xf6rd\xe6mi Su\xf0ur', u'Su\xf0urkj\xf6rd\xe6mi', u'Reykjav\xedkurkj\xf6rd\xe6mi']	1	'''Rangárvallasýsla''' was a county of [[Iceland]], located in the [[Southern Region (Iceland)|Southern Region]] of the country and the [[South Constituency]].
+what islands did darwin study finches on?	1819	iceland --> country fips  --> [u'IC']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> location containedby --> [u'Europe', u'Eurasia', u'Nordic countries']	100	Norway was ranked highest of all countries in [[Human Development Index|human development]] from 2001 to 2006, and came second in 2007 (to fellow [[Nordic countries|Nordic country]] [[Iceland]]).
+what islands did darwin study finches on?	1819	iceland --> dated metric ton date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> location partially containedby --> [u'Arctic']	10	This species is a familiar part of the marine [[fauna]] of the [[Northern Atlantic]] and is found on the shores of the [[United Kingdom]], [[France]], [[Norway]], [[Iceland]], various other northwest European countries, some [[Arctic]] islands, and [[North America]] as far south as [[New Jersey]].
+what islands did darwin study finches on?	1819	iceland --> olympic athlete affiliation sport --> [u'Team handball', u'Alpine skiing', u'Track and field athletics', u'Badminton', u'Swimming']	1	'''Ari Guðmundsson''' (14 September 1927 &ndash; 6 September 2003) was an [[Iceland]]ic [[Swimming (sport)|swimmer]] and [[ski jumper]] who competed in the 1940s and 1950s.
+what islands did darwin study finches on?	1819	iceland --> olympic medal honor medal --> [u'Silver medal', u'Bronze medal']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> organization membership organization --> [u'World Bank', u'Organisation for Economic Co-operation and Development', u'Council of Europe', u'United Nations', u'United Nations Relief and Rehabilitation Administration']	7	PROFISH currently receives financial and in-kind support from [[Iceland]], [[France]], [[Norway]], [[Finland]], [[Japan]], [[FAO]], [[World Bank]], [[International Union for Conservation of Nature]] (IUCN) and [[WorldFish Center]].
+what islands did darwin study finches on?	1819	iceland --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> context name official name --> [u'The Republic of Iceland']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Eurostat, Unemployment, Unemployment Rate']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> administrative area adjectival form --> [u'of']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViKbpwpEbGdrcN5Y29ycA']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated kilowatt hour number --> [u'2614.282', u'2871.043', u'2895.086', u'2914.557', u'2918.224']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'2003-01', u'2003-02', u'2003-03', u'2003-04', u'2003-05']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> olympic participating country olympics participated in --> [u'2010 Winter Olympics', u'2002 Winter Olympics', u'1936 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	3	'''[[Iceland]]''' sent a team to compete at the '''[[2008 Summer Olympics]]''' in [[Beijing]], [[People's Republic of China]].
+what islands did darwin study finches on?	1819	iceland --> government position held office holder --> [u'Sigr\xed\xf0ur Ingibj\xf6rg Ingad\xf3ttir', u'Sigmundur Dav\xed\xf0 Gunnlaugsson', u'Dav\xed\xf0 Oddsson', u'\xc1sta Ragnhei\xf0ur J\xf3hannesd\xf3ttir', u'J\xf3hanna Sigur\xf0ard\xf3ttir']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> organization scope organizations with this scope --> [u'Left-Green Movement', u'Landvarnarflokkurinn', u'Rainbow', u'Icelandic Federation of Labour', u'Independence Party']	8	These are: the [[United Kingdom|British]] [[Conservative Party (UK)|Conservative Party]], the [[Czech Republic|Czech]] [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]], the [[Iceland]]ic [[Independence Party (Iceland)|Independence Party]], and the [[Liechtenstein]] [[Patriotic Union (Liechtenstein)|Patriotic Union]] and [[Progressive Citizens' Party]].
+what islands did darwin study finches on?	1819	iceland --> dated money value amount --> [u'11770', u'13180', u'13960', u'14010', u'14830']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> country languages spoken --> [u'Icelandic Language']	70	||[[Iceland]]||[[Icelandic language]]||[[Gaelic language]] (brought by Irish slaves)||[[Old Norse language]]
+what islands did darwin study finches on?	1819	iceland --> dated money value valid date --> [u'1980', u'1981', u'1982', u'1983', u'1984']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> country calling code --> [u'354']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> olympic medal honor event --> [u"Handball at the 2008 Summer Olympics \u2013 Men's tournament", u"Athletics at the 2000 Summer Olympics \u2013 Women's pole vault", u"Athletics at the 1956 Summer Olympics \u2013 Men's triple jump", u"Handball at the 1992 Summer Olympics \u2013 Men's tournament", u"Judo at the 1984 Summer Olympics - Men's Half Heavyweight (95kg)"]	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> geocode longitude --> [u'-18.9769985787']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> olympic medal honor olympics --> [u'2000 Summer Olympics', u'1984 Summer Olympics', u'1956 Summer Olympics', u'2008 Summer Olympics', u'1992 Summer Olympics']	8	'''[[Iceland]]''' sent a team to compete at the '''[[2008 Summer Olympics]]''' in [[Beijing]], [[People's Republic of China]].
+what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'-6.807133', u'-5.474906', u'-4.023846', u'-3.373894', u'-2.151162']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'0.046424', u'0.082054']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> olympic participating country ioc code --> [u'ISL']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Eurostat, Government Debt, Government Debt as Percentage of GDP']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated kgoe number --> [u'2916.706', u'3028.298', u'3082.712', u'3279.602', u'3306.816']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> country currency used --> [u'Icelandic kr\xf3na']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated float number --> [u'1.93', u'1.95', u'1.99', u'2.04', u'2.05']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'2008', u'2009']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> country iso  shortname --> [u'ICELAND']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> adjusted money value source --> [u'World Bank, World Development Indicators']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'2005', u'2006', u'2007', u'2008', u'2009']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> breed origin breeds originating here --> [u'Icelandic Sheepdog']	1	|[[Icelandic Sheepdog]]||[[Iceland]]||Group 05 Section 03 #289||Herding Group||||Group 07 - Herding||||Working||Northern Breed||[[File:Ulfur.jpg|200px]]
+what islands did darwin study finches on?	1819	iceland --> nobel honor nobel prize winner --> [u'Halld\xf3r Laxness']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> newspaper circulation area newspapers --> [u'Helsingin Sanomat', u'The Militant', u'Fr\xe9ttabla\xf0i\xf0']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> adjusted money value adjusted value --> [u'1773570292', u'1775073104', u'1921019832', u'2118565656', u'2328654152']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> adjusted money value adjustment currency --> [u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> webpage uri --> [u'http://statoids.com/uis.html']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> flag use flag --> [u'Flag of Iceland']	3	The flag is practically identical to the former unofficial national flag of [[Iceland]] (the ''[[Flag of Iceland#Laws regarding the flag|Hvítbláinn]]'') in use by [[History of Iceland#19th and early 20th century|Icelandic nationalist]] activists from 1897 until 1915, when it was in part abandoned due to its similarity to the [[Greek flag|Greek jack]] and the [[Swedish flag]], which critics reasoned would be hard to tell apart at sea, a major issue in a time of [[World War I|war]].
+what islands did darwin study finches on?	1819	iceland --> sports team location teams --> [u'Iceland national handball team', u'Iceland national football team']	7	'''Eyjólfur Gjafar Sverrisson''' (born 3 August 1968) is an [[Iceland]]ic former [[association football|footballer]] and former coach of the [[Iceland national football team]].
+what islands did darwin study finches on?	1819	iceland --> employment tenure from --> [u'1952', u'1968', u'1980', u'1996', u'1944-06-17']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> dated kilowatt hour date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> employment tenure title --> [u'President']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> exhibition subject exhibitions created about this subject --> [u'Pure Iceland']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated kgoe date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> employment tenure to --> [u'1952', u'1968', u'1980', u'1996']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> location adjectival form --> [u'Icelander']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated metric ton number --> [u'6.103849', u'6.220786', u'6.53006', u'6.574856', u'6.744467']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'1961', u'1962', u'1963', u'1964', u'1965']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> administrative area subdividing type --> [u'Region of Iceland']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> government position held to --> [u'1994-06-24', u'2003', u'2004-09-15', u'2005', u'2007']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> webpage category --> [u'Tag', u'Topic Equivalent']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> government position held basic title --> [u'President', u'Member of Parliament', u'Prime minister', u'Finance minister', u'Minister']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> linguistic hint adjectival form --> [u'Icelandic']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> countries continent --> [u'Europe']	67	'''''Lygocoris pabulinus''''' also known as the ''common green capsid'', is a species of [[Hemiptera|bug]] from the family [[Miridae]] which can be found throughout [[Europe]] (except for [[Greece]], [[Malta]], and [[Iceland]]).
+what islands did darwin study finches on?	1819	iceland --> administrative area administrative parent --> [u'Earth']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> country capital --> [u'Reykjavik']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> adjusted money value measurement date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'2.3', u'2.4', u'2.5', u'2.6', u'2.7']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> country internet tld --> [u'is']	1	| id="IS" |  || [[Iceland]] || 1974 || [[.is]] ||  || Code taken from name in [[Icelandic language|Icelandic]]: ''''
+what islands did darwin study finches on?	1819	iceland --> employment tenure person --> [u'Kristj\xe1n Eldj\xe1rn', u'Vigd\xeds Finnbogad\xf3ttir', u'Sveinn Bj\xf6rnsson', u'\xd3lafur Ragnar Gr\xedmsson', u'\xc1sgeir \xc1sgeirsson']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value valid date --> [u'2008']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value valid date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value amount --> [u'42600']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> administrative area short name --> [u'is']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated location date founded --> [u'1904-02-01']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> country form of government --> [u'Constitutional republic', u'Parliamentary republic']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> adjusted money value adjustment date --> [u'2000']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> book subject works --> [u'Running Blind', u'Last Rituals', u'Avalon', u'Voices: A Thriller', u'Iceland']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> travel destination tourist attractions --> [u'Gullfoss', u'Askja']	1	|[[Askja]] ([[Öskjuvatn]] and [[Askja#Eruptions|Viti]] lakes)|| [[Iceland]]
+what islands did darwin study finches on?	1819	iceland --> location contains --> [u'Eyjafj\xf6r\xf0ur', u'Reykh\xf3lahreppur', u'Rang\xe1r\xfeing eystra', u'Longwave radio mast Hellissandur', u'Hof, Iceland']	1	|[[Longwave radio mast Hellissandur]] || guyed mast || longwave transmission ||  || 1963 || [[Iceland]] || [[Hellissandur]]||  || 
+what islands did darwin study finches on?	1819	iceland --> topic alias --> [u'\xcdsland', u'Republic of Iceland']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> flag use from date --> [u'1944-06-17']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> taxonomy entry high --> [u'398', u'7389']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> cryptid area of occurrence cryptid s found here --> [u'Kraken']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> organization membership from --> [u'1946-11-19', u'1943-11-09']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> location area --> [u'103001']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> governmental jurisdiction agencies --> [u'Statistics Iceland', u'Iceland Ministry of Education, Science and Culture']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> country administrative divisions --> [u'Eastern Region, Iceland', u'Vesturland', u'Capital Region', u'Southern Peninsula, Iceland', u'Westfjords']	36	Brynjólfur Sveinsson was born in Önundarfjörður in the [[Westfjords]] of northwestern [[Iceland]].
+what islands did darwin study finches on?	1819	iceland --> dated float number --> [u'73.427', u'73.495', u'73.542', u'73.573', u'73.596']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> governmental jurisdiction government bodies --> [u'Althing']	46	This is a list of the members of the [[Iceland]]ic [[Althing]] from 2007 until 2009.
+what islands did darwin study finches on?	1819	iceland --> administrative area pertinent type --> [u'County of Iceland', u'Region of Iceland', u'Municipality of Iceland']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> location time zones --> [u'Greenwich Mean Time', u'UTC\xb100:00']	18	| HVK || BIHK || [[Hólmavík Airport]] || [[Hólmavík]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+what islands did darwin study finches on?	1819	iceland --> administrative area administrative area type --> [u'Sovereign state']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> film location featured in films --> [u'Prometheus', u'Noi the Albino', u'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', u'Noah']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> webpage resource --> [u'Highlights from CMJ 2006', u'Statoids of Iceland', u'Icelandic Light: Reflections on Landscapes and Locations (Essay)', u'Mark Wahlberg signs on to remake of Icelandic thriller', u'Concert Review: Bj\xf6rk at Radio City']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> topic official website --> [u'http://www.visiticeland.com/']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> government position held governmental body --> [u'Althing']	46	This is a list of the members of the [[Iceland]]ic [[Althing]] from 2007 until 2009.
+what islands did darwin study finches on?	1819	iceland --> dated integer number --> [u'60000', u'85089', u'175574', u'179029', u'182378']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> geocode latitude --> [u'64.8342780901']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> location events --> [u'Battle of \xd6rlygssta\xf0ir', u'2008 Icelandic lorry driver protests', u'Action of 9 May 1941', u'Invasion of Iceland']	8	The brigade did not see service with the rest of the division in the [[Norwegian Campaign]], but were instead sent to [[Iceland]] after it was [[Invasion of Iceland|invaded in 1940]], and remained there until May 1942 when it was transferred back to the United Kingdom.
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> country official language --> [u'Icelandic Language']	70	||[[Iceland]]||[[Icelandic language]]||[[Gaelic language]] (brought by Irish slaves)||[[Old Norse language]]
+what islands did darwin study finches on?	1819	iceland --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'-0.14', u'0.3', u'0.34', u'0.52', u'0.54']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> taxonomy entry low --> [u'301', u'7380']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> administrative area administrative children --> [u'Northwestern Region, Iceland', u'Northeastern Region, Iceland', u'Eastern Region, Iceland', u'Southern Region, Iceland', u'Vesturland']	15	'''Austur-Húnavatnssýsla''' was a county of [[Iceland]] located in the [[Northwestern Region (Iceland)|Northwestern Region]] of the country.
+what islands did darwin study finches on?	1819	iceland --> government position held from --> [u'1978', u'1987', u'1991', u'1995', u'2003']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> olympic athlete affiliation athlete --> [u'Patrekur J\xf3hannesson', u'Jakob J\xf3hann Sveinsson', u'Ragna Ing\xf3lfsd\xf3ttir', u'Anton Sveinn Mckee', u'Eva Hannesdottir']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value currency --> [u'United States dollar']	1	* [[Iceland]]'s [[Althing]] votes in favour of repaying more than [[United States dollar|US$]]5 billion owed to the governments of the [[Netherlands]] and the [[United Kingdom]] as a result of the [[Icesave dispute|collapse of the Icesave bank]].
+what islands did darwin study finches on?	1819	iceland --> dated money value amount --> [u'2686312909', u'3042310982', u'3277510545', u'3308109109', u'3552902142']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> object name --> [u'Iceland']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> topic image --> [u"Carte physique de l'Islande.", u'Location Iceland Europe']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> national anthem of a country anthem --> [u'Lofs\xf6ngur']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated integer year --> [u'1910', u'1960', u'1961', u'1962', u'1963']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated money value amount --> [u'248434096.97', u'248434097', u'253885656', u'253885656.33', u'284916516']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> governmental jurisdiction government positions --> [u'Member of the Althing']	0	EMPTY
+what islands did darwin study finches on?	1819	iceland --> dated percentage rate --> [u'26', u'27.9', u'28.5', u'70.3', u'87.9']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> namesake named after --> [u'Charles Darwin']	1	The name '''Fink''' is [[German language|German]] for [[finch]] and is a reference to the name of the macOS core, [[Darwin (operating system)|Darwin]];  [[Charles Darwin]]'s study of diversity among finches led him eventually to the concept of natural selection.
+what islands did darwin study finches on?	1819	darwin --> software developer --> [u'Apple Inc.']	11	Other notable derivatives include [[DragonFly BSD]], which was forked from FreeBSD 4.8, and [[Apple Inc.]]'s [[Mac OS X]], with its [[Darwin (operating system)|Darwin]] base including a large amount of code derived from FreeBSD.
+what islands did darwin study finches on?	1819	darwin --> webpage category --> [u'Official Website']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> object name --> [u'Darwin']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> operating system supported architectures --> [u'PowerPC', u'x86', u'ARM architecture']	2	'''PearPC''' is an architecture-independent [[PowerPC]] platform [[emulator]] capable of running many PowerPC [[operating system]]s, including pre-Intel versions of [[Mac OS X]], [[Darwin (operating system)|Darwin]] and [[Linux]].
+what islands did darwin study finches on?	1819	darwin --> topic official website --> [u'http://developer.apple.com/opensource/']	0	EMPTY
+what islands did darwin study finches on?	1819	darwin --> name source namesakes --> [u'Charles Darwin']	1	The name '''Fink''' is [[German language|German]] for [[finch]] and is a reference to the name of the macOS core, [[Darwin (operating system)|Darwin]];  [[Charles Darwin]]'s study of diversity among finches led him eventually to the concept of natural selection.
+what islands did darwin study finches on?	1819	darwin --> webpage uri --> [u'http://opensource.apple.com/', u'http://developer.apple.com/opensource/']	0	EMPTY
+what islands did darwin study finches on?	1819	darwins finches --> namesake named after --> [u'Charles Darwin']	7	* [[Charles Darwin]], British biologist – [[Darwinism]], [[Neural Darwinism]], [[Social Darwinism]], [[Darwinian Happiness]], [[Darwin's theory of evolution]], [[Darwinian selection]], [[Non-darwinian evolution]], [[Darwinian medicine]], [[Darwin, Northern Territory]], [[Darwin Mounds]], [[Charles Darwin University]], [[Darwin College, Cambridge]], [[Charles Darwin National Park]], [[Darwin Awards]], [[Darwin's finches]], [[Darwin Island]], another [[Darwin Island (Antarctica)|Darwin Island]], [[Charles Darwin Research Station]], Darwin Bay, ''[[Lecocarpus darwinii]]'' (a tree species), [[Charles Darwin Foundation]], [[Darwin's Arch]]
+what islands did darwin study finches on?	1819	darwins finches --> object name --> [u"Darwin's finches"]	0	EMPTY
+what islands did darwin study finches on?	1819	darwins finches --> topic image --> [u"Darwin's finches by Gould", u"Darwin's finches"]	0	EMPTY
+what islands did darwin study finches on?	1819	darwins finches --> topic alias --> [u'Gal\xe1pagos Finches', u'Geospizinae']	0	EMPTY
+what islands did darwin study finches on?	1819	darwins finches --> book subject works --> [u'The Beak of the Finch: A Story of Evolution in Our Time']	0	EMPTY

@@ -1,39 +1,39 @@
-when does parliament sit in canberra?	1439	sit-in --> webpage resource --> [u'Take Back NYU']	0
-when does parliament sit in canberra?	1439	sit-in --> topic topical webpage --> [u'http://takebacknyu.com/']	0
-when does parliament sit in canberra?	1439	sit-in --> topic alias --> [u'occupation']	0
-when does parliament sit in canberra?	1439	sit-in --> webpage category --> [u'Topic Webpage']	0
-when does parliament sit in canberra?	1439	sit-in --> object name --> [u'Sit-in']	0
-when does parliament sit in canberra?	1439	sit-in --> topic image --> [u'Sit-in G8 Rostock 2008']	0
-when does parliament sit in canberra?	1439	sit-in --> protest type protests of this type --> [u'2011 Israeli social justice protests']	0
-when does parliament sit in canberra?	1439	sit-in --> webpage description --> [u'Take Back NYU']	0
-when does parliament sit in canberra?	1439	sit-in --> webpage uri --> [u'http://takebacknyu.com/']	0
-when does parliament sit in canberra?	1439	canberra --> bibs location loc type --> [u'City']	0
-when does parliament sit in canberra?	1439	canberra --> bibs location state --> [u'New South Wales']	53
-when does parliament sit in canberra?	1439	canberra --> travel destination tourist attractions --> [u'National Workers Memorial', u'National Gallery of Australia', u'National Museum of Australia', u'Old Parliament House, Canberra', u'Mount Stromlo']	63
-when does parliament sit in canberra?	1439	canberra --> location contains --> [u'Alliance College of Australia, main campus', u'Lake Burley Griffin', u'Legislative Assembly Building, Canberra', u'National Carillon', u'National Convention Centre Canberra']	26
-when does parliament sit in canberra?	1439	canberra --> topic alias --> [u'Canberra, Australia']	0
-when does parliament sit in canberra?	1439	canberra --> adjoining relationship adjoins --> [u'Queanbeyan']	14
-when does parliament sit in canberra?	1439	canberra --> location area --> [u'814.2']	0
-when does parliament sit in canberra?	1439	canberra --> location people born here --> [u'Ryan Carters', u'Patty Mills', u'Billie Gabriel Campese', u'Campbell Newman', u'David Gallop']	1
-when does parliament sit in canberra?	1439	canberra --> military posting person --> [u'J.W. Cortes']	0
-when does parliament sit in canberra?	1439	canberra --> location containedby --> [u'Australia', u'New South Wales']	536
-when does parliament sit in canberra?	1439	canberra --> administrative division capital relationship administrative division --> [u'Australian Capital Territory']	241
-when does parliament sit in canberra?	1439	canberra --> geocode longitude --> [u'149.1314']	0
-when does parliament sit in canberra?	1439	canberra --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when does parliament sit in canberra?	1439	canberra --> place with neighborhoods neighborhoods --> [u'Weston Creek']	4
-when does parliament sit in canberra?	1439	canberra --> newspaper circulation area newspapers --> [u'The Daily Telegraph', u'The Sydney Morning Herald', u'Indus Age', u'The Canberra Times', u'Army']	0
-when does parliament sit in canberra?	1439	canberra --> top architectural city structure count --> [u'1']	0
-when does parliament sit in canberra?	1439	canberra --> bibs location country --> [u'Australia']	489
-when does parliament sit in canberra?	1439	canberra --> geocode latitude --> [u'-35.2828']	0
-when does parliament sit in canberra?	1439	canberra --> location events --> [u'1940 Canberra air disaster', u'1975 Australian constitutional crisis', u'1993 Jolimont Centre siege']	3
-when does parliament sit in canberra?	1439	canberra --> news report event --> [u'2007 Australian equine influenza outbreak', u'2008 Kyrgyzstan earthquake']	0
-when does parliament sit in canberra?	1439	canberra --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjQ35wpEbGdrcN5Y29ycA']	0
-when does parliament sit in canberra?	1439	canberra --> bibs location is clear --> [u'0']	0
-when does parliament sit in canberra?	1439	canberra --> sports team location teams --> [u'Brumbies']	5
-when does parliament sit in canberra?	1439	canberra --> dated location date founded --> [u'1913']	0
-when does parliament sit in canberra?	1439	canberra --> object name --> [u'Canberra']	0
-when does parliament sit in canberra?	1439	canberra --> topic image --> [u'Canberra Montage', u'Canberra parliamentary axis']	0
-when does parliament sit in canberra?	1439	canberra --> news report url --> [u'http://www.canberratimes.com.au/news/local/news/general/choppers-pick-up-quake-injured/1328079.aspx', u'http://abc.net.au/news/stories/2007/08/26/2015191.htm?section=australia']	0
-when does parliament sit in canberra?	1439	canberra --> news report title --> [u'Choppers pick up quake injured', u'Horse flu threatens havoc Racing jobs on line if bans not lifted']	0
-when does parliament sit in canberra?	1439	canberra --> news report date --> [u'2008-10-09', u'2007-08-27']	0
-when does parliament sit in canberra?	1439	canberra --> location nearby airports --> [u'Canberra International Airport']	4
+when does parliament sit in canberra?	1439	sit-in --> webpage resource --> [u'Take Back NYU']	0	EMPTY
+when does parliament sit in canberra?	1439	sit-in --> topic topical webpage --> [u'http://takebacknyu.com/']	0	EMPTY
+when does parliament sit in canberra?	1439	sit-in --> topic alias --> [u'occupation']	0	EMPTY
+when does parliament sit in canberra?	1439	sit-in --> webpage category --> [u'Topic Webpage']	0	EMPTY
+when does parliament sit in canberra?	1439	sit-in --> object name --> [u'Sit-in']	0	EMPTY
+when does parliament sit in canberra?	1439	sit-in --> topic image --> [u'Sit-in G8 Rostock 2008']	0	EMPTY
+when does parliament sit in canberra?	1439	sit-in --> protest type protests of this type --> [u'2011 Israeli social justice protests']	0	EMPTY
+when does parliament sit in canberra?	1439	sit-in --> webpage description --> [u'Take Back NYU']	0	EMPTY
+when does parliament sit in canberra?	1439	sit-in --> webpage uri --> [u'http://takebacknyu.com/']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> bibs location loc type --> [u'City']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> bibs location state --> [u'New South Wales']	53	People from [[New South Wales]] never talk about South Wales except maybe in school or in some pub conversation; [[Julia Gillard]] was born in South Wales, but since coming to Australia she's only lived in Adelaide and Melbourne, her closest connection to New South Wales (and it's a very tenuous one) being that her official prime ministerial residence [[The Lodge (Australia)|The Lodge]] is in [[Canberra]], which is in the [[Australian Capital Territory]], which is surrounded by NSW.
+when does parliament sit in canberra?	1439	canberra --> travel destination tourist attractions --> [u'National Workers Memorial', u'National Gallery of Australia', u'National Museum of Australia', u'Old Parliament House, Canberra', u'Mount Stromlo']	63	Born in [[Napier, New Zealand]], Gascoigne trained in [[Auckland]] and at the [[University of Bristol]], before moving to Australia during World War II to work at the [[Mount Stromlo Observatory|Commonwealth Solar Observatory]] at [[Mount Stromlo]] in [[Canberra]].
+when does parliament sit in canberra?	1439	canberra --> location contains --> [u'Alliance College of Australia, main campus', u'Lake Burley Griffin', u'Legislative Assembly Building, Canberra', u'National Carillon', u'National Convention Centre Canberra']	26	* [[1964]] – [[Prime Minister of Australia]] [[Robert Menzies]] opened the artificial '''[[Lake Burley Griffin]]''' ''(pictured)'' in the middle of the capital [[Canberra]].
+when does parliament sit in canberra?	1439	canberra --> topic alias --> [u'Canberra, Australia']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> adjoining relationship adjoins --> [u'Queanbeyan']	14	* [[Canberra]] and [[Queanbeyan]], Australia
+when does parliament sit in canberra?	1439	canberra --> location area --> [u'814.2']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> location people born here --> [u'Ryan Carters', u'Patty Mills', u'Billie Gabriel Campese', u'Campbell Newman', u'David Gallop']	1	| 5th || 98 || Moisés Henriques & [[Ryan Carters]] || [[Perth Scorchers]] || [[Manuka Oval]], [[Canberra]] || 28 Jan 2015 || 
+when does parliament sit in canberra?	1439	canberra --> military posting person --> [u'J.W. Cortes']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> location containedby --> [u'Australia', u'New South Wales']	536	People from [[New South Wales]] never talk about South Wales except maybe in school or in some pub conversation; [[Julia Gillard]] was born in South Wales, but since coming to Australia she's only lived in Adelaide and Melbourne, her closest connection to New South Wales (and it's a very tenuous one) being that her official prime ministerial residence [[The Lodge (Australia)|The Lodge]] is in [[Canberra]], which is in the [[Australian Capital Territory]], which is surrounded by NSW.
+when does parliament sit in canberra?	1439	canberra --> administrative division capital relationship administrative division --> [u'Australian Capital Territory']	241	The team is based in [[Canberra]], [[Australian Capital Territory]] (ACT) and named for the [[brumby|wild horses]] which inhabit the capital's hinterland.
+when does parliament sit in canberra?	1439	canberra --> geocode longitude --> [u'149.1314']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> place with neighborhoods neighborhoods --> [u'Weston Creek']	4	*[[Hindmarsh Drive, Canberra|Hindmarsh Drive]] runs through the districts of [[Weston Creek]] and [[South Canberra]] in [[Canberra]], Australia.
+when does parliament sit in canberra?	1439	canberra --> newspaper circulation area newspapers --> [u'The Daily Telegraph', u'The Sydney Morning Herald', u'Indus Age', u'The Canberra Times', u'Army']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> top architectural city structure count --> [u'1']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> bibs location country --> [u'Australia']	489	|[[Australia]]||[[Canberra]]||[[Canberra Airport]]||align=center|&mdash;||align=center|
+when does parliament sit in canberra?	1439	canberra --> geocode latitude --> [u'-35.2828']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> location events --> [u'1940 Canberra air disaster', u'1975 Australian constitutional crisis', u'1993 Jolimont Centre siege']	3	* August 13 &ndash; A [[Royal Australian Air Force]] [[Lockheed Hudson]] [[1940 Canberra air disaster|crashes]] near [[Canberra]], [[Australia]], killing all 10 people on board.
+when does parliament sit in canberra?	1439	canberra --> news report event --> [u'2007 Australian equine influenza outbreak', u'2008 Kyrgyzstan earthquake']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjQ35wpEbGdrcN5Y29ycA']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> bibs location is clear --> [u'0']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> sports team location teams --> [u'Brumbies']	5	Australia had five sides in the 15-team competition (which expanded to 18 in 2016): the [[Queensland Reds]], [[New South Wales Waratahs]], [[Brumbies]] (playing out of [[Canberra]]), [[Western Force]] and, since 2011, the [[Melbourne Rebels]].
+when does parliament sit in canberra?	1439	canberra --> dated location date founded --> [u'1913']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> object name --> [u'Canberra']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> topic image --> [u'Canberra Montage', u'Canberra parliamentary axis']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> news report url --> [u'http://www.canberratimes.com.au/news/local/news/general/choppers-pick-up-quake-injured/1328079.aspx', u'http://abc.net.au/news/stories/2007/08/26/2015191.htm?section=australia']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> news report title --> [u'Choppers pick up quake injured', u'Horse flu threatens havoc Racing jobs on line if bans not lifted']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> news report date --> [u'2008-10-09', u'2007-08-27']	0	EMPTY
+when does parliament sit in canberra?	1439	canberra --> location nearby airports --> [u'Canberra International Airport']	4	*[[RAAF Base Fairbairn]], [[Canberra]] - now Fairbairn Business Park and part of [[Canberra International Airport]].

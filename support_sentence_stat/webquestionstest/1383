@@ -1,160 +1,160 @@
-what currency should you take to vietnam?	4999	take to --> object name --> [u'take to']	0
-what currency should you take to vietnam?	4999	vietnam --> object name --> [u'Vietnam?']	0
-what currency should you take to vietnam?	4999	vietnam --> object name --> [u'Vietnam?']	0
-what currency should you take to vietnam?	4999	you take --> object name --> [u'You Take']	0
-what currency should you take to vietnam?	4999	you take --> object name --> [u'You Take']	0
-what currency should you take to vietnam?	4999	you take --> object name --> [u'You Take']	0
-what currency should you take to vietnam?	4999	currency --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what currency should you take to vietnam?	4999	currency --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjMQpwpEbGdrcN5Y29ycA']	0
-what currency should you take to vietnam?	4999	currency --> ikariam resource category resources --> [u'Gold']	0
-what currency should you take to vietnam?	4999	currency --> webpage category --> [u'Tag']	0
-what currency should you take to vietnam?	4999	currency --> object name --> [u'Currency']	0
-what currency should you take to vietnam?	4999	currency --> topic image --> [u'Euromoenterogsedler']	0
-what currency should you take to vietnam?	4999	currency --> equivalent topic equivalent type --> [u'Currency']	0
-what currency should you take to vietnam?	4999	currency --> book subject works --> [u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']	0
-what currency should you take to vietnam?	4999	vietnam --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0
-what currency should you take to vietnam?	4999	vietnam --> government position held office position or title --> [u'President of Vietnam', u'Prime Minister of Vietnam']	7
-what currency should you take to vietnam?	4999	vietnam --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2008 Summer Olympics']	4
-what currency should you take to vietnam?	4999	vietnam --> bibs location loc type --> [u'Country']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage rate --> [u'0', u'0.000138', u'0.004079', u'0.01335', u'0.131105']	0
-what currency should you take to vietnam?	4999	vietnam --> location partially contains --> [u'Dong Ap Bia', u'Phu Si Lung']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to vietnam?	4999	vietnam --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to vietnam?	4999	vietnam --> taxonomy entry prefix --> [u'DS']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> location people born here --> [u'Hoa Nguyen', u'Yoshiko Sakurai', u'Mary Jean Reimer', u'Lock Lee', u'Thanh Lam']	0
-what currency should you take to vietnam?	4999	vietnam --> olympic medal honor medalist --> [u'Quan Luu', u'Nguyen Thi Anh Vien', u'Ahn Taun Hoang', u'Tran Hieu Ngan']	1
-what currency should you take to vietnam?	4999	vietnam --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to vietnam?	4999	vietnam --> military command military conflict --> [u'Cambodian\u2013Vietnamese War']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value valid date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0
-what currency should you take to vietnam?	4999	vietnam --> dated kilowatt hour number --> [u'34.422', u'38.339', u'39.434', u'40', u'41.03']	0
-what currency should you take to vietnam?	4999	vietnam --> country fips  --> [u'VM']	0
-what currency should you take to vietnam?	4999	vietnam --> location containedby --> [u'Asia', u'Indochina', u'Eurasia']	73
-what currency should you take to vietnam?	4999	vietnam --> tv subject tv episodes --> [u'Pastors Andrew Pham and Lindell Shumake']	0
-what currency should you take to vietnam?	4999	vietnam --> olympic athlete affiliation sport --> [u'Rowing', u'Fencing', u'Track and field athletics', u'Badminton', u'Swimming']	1
-what currency should you take to vietnam?	4999	vietnam --> olympic medal honor medal --> [u'Silver medal']	0
-what currency should you take to vietnam?	4999	vietnam --> organization membership organization --> [u'World Bank', u'Asian Development Bank', u'Association of Southeast Asian Nations', u'Asia-Pacific Economic Cooperation', u'United Nations']	16
-what currency should you take to vietnam?	4999	vietnam --> imports and exports exported to --> [u'Laos']	1015
-what currency should you take to vietnam?	4999	vietnam --> fictional setting fictional characters born here --> [u'Karma', u'Lily Tucker-Pritchett']	1
-what currency should you take to vietnam?	4999	vietnam --> context name official name --> [u'Socialist Republic of Vietnam']	0
-what currency should you take to vietnam?	4999	vietnam --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0
-what currency should you take to vietnam?	4999	vietnam --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what currency should you take to vietnam?	4999	vietnam --> national anthem of a country official anthem since --> [u'1976']	0
-what currency should you take to vietnam?	4999	vietnam --> military command military commander --> [u'Le Duc Anh']	0
-what currency should you take to vietnam?	4999	vietnam --> united nations body membership body --> [u'United Nations Security Council']	2
-what currency should you take to vietnam?	4999	vietnam --> administrative area adjectival form --> [u'Vietnamese']	0
-what currency should you take to vietnam?	4999	vietnam --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to vietnam?	4999	vietnam --> country currency used --> [u'Vietnamese dong']	0
-what currency should you take to vietnam?	4999	vietnam --> government position held office holder --> [u'To Huu', u'Nguyen Tan Dung', u'Truong Tan Sang']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> olympic medal honor event --> [u"Swimming at the 2012 Summer Olympics \u2013 Women's 400 metre individual medley", u"Weightlifting at the 2008 Summer Olympics - Men's Bantamweight -56 kg", u"Cycling at the 1952 Summer Olympics - Men's individual road race", u"Taekwondo at the 2000 Summer Olympics \u2013 Women's 57 kg"]	0
-what currency should you take to vietnam?	4999	vietnam --> olympic participating country olympics participated in --> [u'2008 Summer Olympics', u'1952 Summer Olympics']	1
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> organization scope organizations with this scope --> [u'Program for Appropriate Technology in Health', u'Viet Nam Quoc Dan Dang', u'Communist Party of Vietnam', u'Indochinese Communist Party', u'Vietnamese Constitutional Monarchist League']	14
-what currency should you take to vietnam?	4999	vietnam --> country languages spoken --> [u'Chinese language', u'Esperanto Language']	5
-what currency should you take to vietnam?	4999	vietnam --> dated money value valid date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0
-what currency should you take to vietnam?	4999	vietnam --> country calling code --> [u'84']	0
-what currency should you take to vietnam?	4999	vietnam --> adjoining relationship adjoins --> [u'China', u'Cambodia', u'Phongsaly Province', u'Luang Prabang Province', u'Laos']	2112
-what currency should you take to vietnam?	4999	vietnam --> geocode longitude --> [u'106.576013518']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	4
-what currency should you take to vietnam?	4999	vietnam --> dated percentage rate --> [u'2.789292', u'3.58347', u'3.805856', u'4.773587', u'5.100918']	0
-what currency should you take to vietnam?	4999	vietnam --> united nations body membership from --> [u'2008-01-01']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage rate --> [u'1.939679', u'2.01438', u'2.112052', u'2.128641', u'2.173563']	0
-what currency should you take to vietnam?	4999	vietnam --> imports and exports imported from --> [u'Laos']	1015
-what currency should you take to vietnam?	4999	vietnam --> olympic participating country ioc code --> [u'VIE']	0
-what currency should you take to vietnam?	4999	vietnam --> dated kgoe number --> [u'350.431', u'354.363', u'355.18', u'358.3', u'362.824']	0
-what currency should you take to vietnam?	4999	vietnam --> topic official website --> [u'http://www.vietnam.gov.vn']	0
-what currency should you take to vietnam?	4999	vietnam --> dated float number --> [u'1.822', u'1.845', u'1.864', u'1.878', u'1.889']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> country iso  shortname --> [u'VIET NAM']	0
-what currency should you take to vietnam?	4999	vietnam --> adjusted money value source --> [u'World Bank, World Development Indicators']	0
-what currency should you take to vietnam?	4999	vietnam --> cyclone affected area cyclones --> [u'Typhoon Hagupit', u'Typhoon Wayne', u'Typhoon Parma', u'Typhoon Chanchu', u'Typhoon Bess']	5
-what currency should you take to vietnam?	4999	vietnam --> breed origin breeds originating here --> [u'Ga Noi']	0
-what currency should you take to vietnam?	4999	vietnam --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0
-what currency should you take to vietnam?	4999	vietnam --> adjusted money value adjusted value --> [u'11453473962', u'11889376650', u'12221006031', u'12658942071', u'13308980224']	0
-what currency should you take to vietnam?	4999	vietnam --> adjusted money value adjustment currency --> [u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> webpage uri --> [u'http://statoids.com/uvn.html']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> flag use flag --> [u'Flag of Vietnam']	1
-what currency should you take to vietnam?	4999	vietnam --> sports team location teams --> [u'Vietnam national football team']	6
-what currency should you take to vietnam?	4999	vietnam --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to vietnam?	4999	vietnam --> film subject films --> [u'Regret to Inform']	0
-what currency should you take to vietnam?	4999	vietnam --> location nearby airports --> [u'Da Nang Air Base']	2
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
-what currency should you take to vietnam?	4999	vietnam --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0
-what currency should you take to vietnam?	4999	vietnam --> location adjectival form --> [u'Vietnamese']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0
-what currency should you take to vietnam?	4999	vietnam --> dated metric ton number --> [u'0.270323', u'0.283244', u'0.299784', u'0.303741', u'0.304208']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage date --> [u'1985', u'1986', u'1987', u'1988', u'1989']	0
-what currency should you take to vietnam?	4999	vietnam --> military combatant group conflict --> [u'Battle of Gia Cuc', u'Capture of Hung Hoa', u'S\u01a1n T\xe2y Campaign', u'Capture of My Tho', u'Battle of Kompong Speu']	0
-what currency should you take to vietnam?	4999	vietnam --> administrative area subdividing type --> [u'Vietnamese province', u'Vietnamese centrally controlled municipality']	0
-what currency should you take to vietnam?	4999	vietnam --> webpage category --> [u'Tag', u'Topic Equivalent']	0
-what currency should you take to vietnam?	4999	vietnam --> government position held basic title --> [u'President', u'Prime minister', u'Deputy prime minister']	1
-what currency should you take to vietnam?	4999	vietnam --> linguistic hint adjectival form --> [u'\ubca0\ud2b8\ub0a8']	0
-what currency should you take to vietnam?	4999	vietnam --> countries continent --> [u'Asia']	71
-what currency should you take to vietnam?	4999	vietnam --> administrative area administrative parent --> [u'Earth']	1
-what currency should you take to vietnam?	4999	vietnam --> country capital --> [u'Hanoi']	342
-what currency should you take to vietnam?	4999	vietnam --> adjusted money value measurement date --> [u'1984', u'1985', u'1986', u'1987', u'1988']	0
-what currency should you take to vietnam?	4999	vietnam --> country internet tld --> [u'vn']	1
-what currency should you take to vietnam?	4999	vietnam --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage date --> [u'1990', u'1996', u'1997', u'1998', u'1999']	0
-what currency should you take to vietnam?	4999	vietnam --> beer country region beers from here --> [u'Beer BGI', u'BGI Lager Beer']	0
-what currency should you take to vietnam?	4999	vietnam --> cryptid observation location cryptid s occurring here --> [u'Kting voar']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value valid date --> [u'2008']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value valid date --> [u'1985', u'1986', u'1987', u'1988', u'1989']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value amount --> [u'2900']	0
-what currency should you take to vietnam?	4999	vietnam --> topic topical webpage --> [u'http://www.vietnamtourism.com']	0
-what currency should you take to vietnam?	4999	vietnam --> administrative area short name --> [u'vn']	0
-what currency should you take to vietnam?	4999	vietnam --> dated location date founded --> [u'-2878']	0
-what currency should you take to vietnam?	4999	vietnam --> country form of government --> [u'Communist state', u'Socialist state', u'Single-party state']	4
-what currency should you take to vietnam?	4999	vietnam --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to vietnam?	4999	vietnam --> adjusted money value adjustment date --> [u'2000']	0
-what currency should you take to vietnam?	4999	vietnam --> book subject works --> [u'Limit of Vision', u'The Time In Between: A Novel', u'Vietnam: Spirits of the Earth', u'Home to war', u'Vietnam']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to vietnam?	4999	vietnam --> location contains --> [u'S\u01a1n T\xe2y', u'Suoi Tien Amusement Park', u'Ho Chi Minh City University of Information Technology', u'Bao Loc', u'Gia Lam Airbase']	0
-what currency should you take to vietnam?	4999	vietnam --> topic alias --> [u'Annam', u'Republic of Vietnam', u'Socialist Republic of Vietnam']	0
-what currency should you take to vietnam?	4999	vietnam --> flag use from date --> [u'1945-09-05']	0
-what currency should you take to vietnam?	4999	vietnam --> dated metric ton date --> [u'1970', u'1971', u'1972', u'1973', u'1974']	0
-what currency should you take to vietnam?	4999	vietnam --> taxonomy entry high --> [u'560.72']	0
-what currency should you take to vietnam?	4999	vietnam --> organization membership from --> [u'1995-07-28', u'1977-09-20']	0
-what currency should you take to vietnam?	4999	vietnam --> united nations body membership permanent --> [u'0']	0
-what currency should you take to vietnam?	4999	vietnam --> location area --> [u'329560']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to vietnam?	4999	vietnam --> governmental jurisdiction agencies --> [u'Ministry of Education and Training', u'Vietnamese Ministry of Public Security']	2
-what currency should you take to vietnam?	4999	vietnam --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to vietnam?	4999	vietnam --> country administrative divisions --> [u'Quang Binh Province', u'B\xecnh Thu\u1eadn Province', u'B\xecnh D\u01b0\u01a1ng Province', u'Binh Phuoc Province', u'Ha Giang Province']	0
-what currency should you take to vietnam?	4999	vietnam --> dated float number --> [u'44.162', u'44.691', u'45.236', u'45.789', u'46.336']	0
-what currency should you take to vietnam?	4999	vietnam --> governmental jurisdiction government bodies --> [u'National Assembly']	0
-what currency should you take to vietnam?	4999	vietnam --> administrative area pertinent type --> [u'Vietnamese province', u'Vietnamese centrally controlled municipality', u'Vietnamese town under district', u'Vietnamese urban district', u'Vietnamese provincial city']	0
-what currency should you take to vietnam?	4999	vietnam --> location time zones --> [u'UTC+07:00', u'ICT']	12
-what currency should you take to vietnam?	4999	vietnam --> administrative area administrative area type --> [u'Sovereign state']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0
-what currency should you take to vietnam?	4999	vietnam --> film location featured in films --> [u'Hearts and Minds', u'Vietnam, Long Time Coming']	2
-what currency should you take to vietnam?	4999	vietnam --> dated money value amount --> [u'610', u'670', u'740', u'800', u'890']	0
-what currency should you take to vietnam?	4999	vietnam --> webpage resource --> [u'Rick Springfield writing autobiography that we suddenly want to read...', u'\u201cThe Amazing Race\u201d Season 15, Episode 2: TV Recap', u'Would You Pose Nude?: Lim, Liu, Duong at \u201cFemale Gaze\u201d', u'Statoids of Vietnam']	0
-what currency should you take to vietnam?	4999	vietnam --> topic exceptions --> [u'Binh Tan District should be contained in some Vietnamese centrally controlled municipality.', u'District 11, H\u1ed3 Ch\xed Minh City should be contained in some Vietnamese centrally controlled municipality.', u'Go Vap District should be contained in some Vietnamese centrally controlled municipality.', u'Binh Thanh District should be contained in some Vietnamese centrally controlled municipality.', u'Tan Binh District should be contained in some Vietnamese centrally controlled municipality.']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> dated integer number --> [u'34743000', u'35427715', u'36123019', u'36836299', u'37573875']	0
-what currency should you take to vietnam?	4999	vietnam --> geocode latitude --> [u'15.4548637037']	0
-what currency should you take to vietnam?	4999	vietnam --> location events --> [u'August Revolution', u'War in Vietnam', u'Ten Great Campaigns', u'Battle of Dong Khe', u'Vietnam War']	202
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> country official language --> [u'Vietnamese Language']	50
-what currency should you take to vietnam?	4999	vietnam --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-what currency should you take to vietnam?	4999	vietnam --> dated percentage rate --> [u'1.04', u'1.05', u'1.06', u'1.08', u'1.11']	0
-what currency should you take to vietnam?	4999	vietnam --> taxonomy entry low --> [u'556']	0
-what currency should you take to vietnam?	4999	vietnam --> administrative area administrative children --> [u'Quang Binh Province', u'B\xecnh Thu\u1eadn Province', u'B\xecnh D\u01b0\u01a1ng Province', u'Binh Phuoc Province', u'Ha Giang Province']	0
-what currency should you take to vietnam?	4999	vietnam --> government position held from --> [u'2006-06-27', u'2011-07-25']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar']	2
-what currency should you take to vietnam?	4999	vietnam --> dated money value amount --> [u'39784258248', u'40396339433', u'44749723425', u'50645868259', u'55705297392']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0
-what currency should you take to vietnam?	4999	vietnam --> object name --> [u'Vietnam']	0
-what currency should you take to vietnam?	4999	vietnam --> topic image --> [u'Kalastusmaja Binh Quoin kyl\xe4ss\xe4.', u'LocationVietnam']	0
-what currency should you take to vietnam?	4999	vietnam --> national anthem of a country anthem --> [u'Ti\u1ebfn Qu\xe2n Ca']	0
-what currency should you take to vietnam?	4999	vietnam --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0
-what currency should you take to vietnam?	4999	vietnam --> dated money value amount --> [u'6293304847', u'6471740486', u'9613369554', u'9866990096', u'13180954014']	0
-what currency should you take to vietnam?	4999	vietnam --> olympic athlete affiliation athlete --> [u'Nguyen Thi Anh Vien', u'Le Huynh Chau', u'Xuan Vinh Hoang', u'Thi Hoang Ngoc le', u'Nguyen Thi Thanh Phuc']	0
+what currency should you take to vietnam?	4999	take to --> object name --> [u'take to']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> object name --> [u'Vietnam?']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> object name --> [u'Vietnam?']	0	EMPTY
+what currency should you take to vietnam?	4999	you take --> object name --> [u'You Take']	0	EMPTY
+what currency should you take to vietnam?	4999	you take --> object name --> [u'You Take']	0	EMPTY
+what currency should you take to vietnam?	4999	you take --> object name --> [u'You Take']	0	EMPTY
+what currency should you take to vietnam?	4999	currency --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what currency should you take to vietnam?	4999	currency --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjMQpwpEbGdrcN5Y29ycA']	0	EMPTY
+what currency should you take to vietnam?	4999	currency --> ikariam resource category resources --> [u'Gold']	0	EMPTY
+what currency should you take to vietnam?	4999	currency --> webpage category --> [u'Tag']	0	EMPTY
+what currency should you take to vietnam?	4999	currency --> object name --> [u'Currency']	0	EMPTY
+what currency should you take to vietnam?	4999	currency --> topic image --> [u'Euromoenterogsedler']	0	EMPTY
+what currency should you take to vietnam?	4999	currency --> equivalent topic equivalent type --> [u'Currency']	0	EMPTY
+what currency should you take to vietnam?	4999	currency --> book subject works --> [u'Intellectual capital revisited (and why we should care)', u'A Nation of Counterfeiters: Capitalists, Con Men, and the Making of the United States']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated float source --> [u'World Bank, World Development Indicators, Fertility Rate']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> government position held office position or title --> [u'President of Vietnam', u'Prime Minister of Vietnam']	7	* [[Vietnam]]ese [[Prime Minister of Vietnam|Prime Minister]] [[Nguyễn Tấn Dũng]] inaugurates the country's [[Dung Quat refinery|first]] [[oil refinery]].
+what currency should you take to vietnam?	4999	vietnam --> olympic athlete affiliation olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2008 Summer Olympics']	4	Tran represented [[Vietnam]] at the [[2008 Summer Olympics]] in [[Beijing]], where she competed for the [[Taekwondo at the 2008 Summer Olympics – Women's 49 kg|women's 49 kg]] class.
+what currency should you take to vietnam?	4999	vietnam --> bibs location loc type --> [u'Country']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage rate --> [u'0', u'0.000138', u'0.004079', u'0.01335', u'0.131105']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> location partially contains --> [u'Dong Ap Bia', u'Phu Si Lung']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage source --> [u'Population Growth Rate, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> taxonomy entry prefix --> [u'DS']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> location people born here --> [u'Hoa Nguyen', u'Yoshiko Sakurai', u'Mary Jean Reimer', u'Lock Lee', u'Thanh Lam']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> olympic medal honor medalist --> [u'Quan Luu', u'Nguyen Thi Anh Vien', u'Ahn Taun Hoang', u'Tran Hieu Ngan']	1	This score won the Indonesian weightlifter the bronze medal in the event, placing him behind silver medalist [[Hoang Anh Tuan]] of [[Vietnam]] (290&nbsp;kilograms) and gold medalist [[Long Qingquan]] of China (292&nbsp;kilograms) and ahead of fourth-place finalist [[Yang Chin-Yi]] of [[Taiwan|Chinese Taipei]] (285&nbsp;kilograms).
+what currency should you take to vietnam?	4999	vietnam --> dated kgoe source --> [u'Energy use per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> military command military conflict --> [u'Cambodian\u2013Vietnamese War']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value valid date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated kilowatt hour number --> [u'34.422', u'38.339', u'39.434', u'40', u'41.03']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> country fips  --> [u'VM']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> location containedby --> [u'Asia', u'Indochina', u'Eurasia']	73	Globetrotter artist, he has started a second world tour in [[Asia]] ([[India]], [[Thailand]], [[Vietnam]]) and [[South America]] ([[Chile]], [[Brazil]]).
+what currency should you take to vietnam?	4999	vietnam --> tv subject tv episodes --> [u'Pastors Andrew Pham and Lindell Shumake']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> olympic athlete affiliation sport --> [u'Rowing', u'Fencing', u'Track and field athletics', u'Badminton', u'Swimming']	1	'''[[Swimming (sport)|Short course swimming]]''' at the '''[[2009 Asian Indoor Games]]''' was held in [[My Dinh National Aquatics Sports Complex]], [[Hanoi]], [[Vietnam]] from 4 November to 7 November 2009.
+what currency should you take to vietnam?	4999	vietnam --> olympic medal honor medal --> [u'Silver medal']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> organization membership organization --> [u'World Bank', u'Asian Development Bank', u'Association of Southeast Asian Nations', u'Asia-Pacific Economic Cooperation', u'United Nations']	16	When the [[Democratic Kampuchea]] led by [[Pol Pot]] was militarily displaced by the [[Vietnam]]ese-backed [[People's Republic of Kampuchea]], the country's [[United Nations]] seat continued to be held by Democratic Kampuchea for many years.
+what currency should you take to vietnam?	4999	vietnam --> imports and exports exported to --> [u'Laos']	1015	'''Tai Dam''', also known as '''Black Tai''' ([[Thai language|Thai]]: ; ; "Black Tai language"; ) is a [[Tai languages|Tai language]] spoken by the [[Tai Dam people|Tai Dam]] in [[Vietnam]], [[Laos]], [[Thailand]],  and [[China]] (mostly in [[Jinping Miao, Yao, and Dai Autonomous County]]).
+what currency should you take to vietnam?	4999	vietnam --> fictional setting fictional characters born here --> [u'Karma', u'Lily Tucker-Pritchett']	1	* '''[[Karma (comics)|Karma]]''' (Xi'an Coy Manh), a 19-year-old [[Vietnam]]ese girl and the team's original leader, who could mentally possess other people's bodies.
+what currency should you take to vietnam?	4999	vietnam --> context name official name --> [u'Socialist Republic of Vietnam']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated float source --> [u'World Bank, World Development Indicators, Life Expectancy']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> national anthem of a country official anthem since --> [u'1976']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> military command military commander --> [u'Le Duc Anh']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> united nations body membership body --> [u'United Nations Security Council']	2	* [[Libya]], [[Vietnam]], [[Burkina Faso]], [[Croatia]] and [[Costa Rica]] are [[United Nations Security Council election, 2007|elected]] to the [[United Nations Security Council]] as [[List of elected members of the United Nations Security Council|non-permanent members]].
+what currency should you take to vietnam?	4999	vietnam --> administrative area adjectival form --> [u'Vietnamese']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated metric ton source --> [u'CO2 emissions per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> country currency used --> [u'Vietnamese dong']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> government position held office holder --> [u'To Huu', u'Nguyen Tan Dung', u'Truong Tan Sang']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> olympic medal honor event --> [u"Swimming at the 2012 Summer Olympics \u2013 Women's 400 metre individual medley", u"Weightlifting at the 2008 Summer Olympics - Men's Bantamweight -56 kg", u"Cycling at the 1952 Summer Olympics - Men's individual road race", u"Taekwondo at the 2000 Summer Olympics \u2013 Women's 57 kg"]	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> olympic participating country olympics participated in --> [u'2008 Summer Olympics', u'1952 Summer Olympics']	1	Tran represented [[Vietnam]] at the [[2008 Summer Olympics]] in [[Beijing]], where she competed for the [[Taekwondo at the 2008 Summer Olympics – Women's 49 kg|women's 49 kg]] class.
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> organization scope organizations with this scope --> [u'Program for Appropriate Technology in Health', u'Viet Nam Quoc Dan Dang', u'Communist Party of Vietnam', u'Indochinese Communist Party', u'Vietnamese Constitutional Monarchist League']	14	The [[Communist Party of Vietnam]] and the government of [[Vietnam]] advocate "socialist patriotism" of the [[Vietnamese people]].
+what currency should you take to vietnam?	4999	vietnam --> country languages spoken --> [u'Chinese language', u'Esperanto Language']	5	Short for '''[[Esperanto]]''' '''Center''', '''Especen''' is a hotel and travel company in [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated money value valid date --> [u'1989', u'1990', u'1991', u'1992', u'1993']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> country calling code --> [u'84']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> adjoining relationship adjoins --> [u'China', u'Cambodia', u'Phongsaly Province', u'Luang Prabang Province', u'Laos']	2112	'''Tai Dam''', also known as '''Black Tai''' ([[Thai language|Thai]]: ; ; "Black Tai language"; ) is a [[Tai languages|Tai language]] spoken by the [[Tai Dam people|Tai Dam]] in [[Vietnam]], [[Laos]], [[Thailand]],  and [[China]] (mostly in [[Jinping Miao, Yao, and Dai Autonomous County]]).
+what currency should you take to vietnam?	4999	vietnam --> geocode longitude --> [u'106.576013518']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> olympic medal honor olympics --> [u'2012 Summer Olympics', u'2000 Summer Olympics', u'2008 Summer Olympics', u'1952 Summer Olympics']	4	Tran represented [[Vietnam]] at the [[2008 Summer Olympics]] in [[Beijing]], where she competed for the [[Taekwondo at the 2008 Summer Olympics – Women's 49 kg|women's 49 kg]] class.
+what currency should you take to vietnam?	4999	vietnam --> dated percentage rate --> [u'2.789292', u'3.58347', u'3.805856', u'4.773587', u'5.100918']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> united nations body membership from --> [u'2008-01-01']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage rate --> [u'1.939679', u'2.01438', u'2.112052', u'2.128641', u'2.173563']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> imports and exports imported from --> [u'Laos']	1015	'''Tai Dam''', also known as '''Black Tai''' ([[Thai language|Thai]]: ; ; "Black Tai language"; ) is a [[Tai languages|Tai language]] spoken by the [[Tai Dam people|Tai Dam]] in [[Vietnam]], [[Laos]], [[Thailand]],  and [[China]] (mostly in [[Jinping Miao, Yao, and Dai Autonomous County]]).
+what currency should you take to vietnam?	4999	vietnam --> olympic participating country ioc code --> [u'VIE']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated kgoe number --> [u'350.431', u'354.363', u'355.18', u'358.3', u'362.824']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> topic official website --> [u'http://www.vietnam.gov.vn']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated float number --> [u'1.822', u'1.845', u'1.864', u'1.878', u'1.889']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage date --> [u'1988', u'1989', u'1990', u'1991', u'1992']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> country iso  shortname --> [u'VIET NAM']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> adjusted money value source --> [u'World Bank, World Development Indicators']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> cyclone affected area cyclones --> [u'Typhoon Hagupit', u'Typhoon Wayne', u'Typhoon Parma', u'Typhoon Chanchu', u'Typhoon Bess']	5	'''Typhoons [[Typhoon Morakot|Morakot]], [[Typhoon Ketsana|Ketsana]], and [[Typhoon Parma|Parma]]''' caused extensive damage to [[China]], [[Taiwan]], [[Philippines]], and [[Vietnam]] in August and September.
+what currency should you take to vietnam?	4999	vietnam --> breed origin breeds originating here --> [u'Ga Noi']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated integer source --> [u'World Bank, World Development Indicators, Population']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> adjusted money value adjusted value --> [u'11453473962', u'11889376650', u'12221006031', u'12658942071', u'13308980224']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> adjusted money value adjustment currency --> [u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> webpage uri --> [u'http://statoids.com/uvn.html']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> flag use flag --> [u'Flag of Vietnam']	1	The [[Flag of Vietnam|flag]] of [[Vietnam]] also has a yellow star on a red field.
+what currency should you take to vietnam?	4999	vietnam --> sports team location teams --> [u'Vietnam national football team']	6	He also netted two goals in the final of the 2002 LG Cup held in [[Vietnam]], in which India beat the [[Vietnam national football team|host nation]] 3–2, Bhutia's goals came either side of [[half-time]].
+what currency should you take to vietnam?	4999	vietnam --> dated float date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> film subject films --> [u'Regret to Inform']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> location nearby airports --> [u'Da Nang Air Base']	2	On 6 May 1965, the 3rd Marine Division opened the Marine Compound at the [[Da Nang Air Base]], [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated kilowatt hour date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated kgoe date --> [u'1971', u'1972', u'1973', u'1974', u'1975']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> location adjectival form --> [u'Vietnamese']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value source --> [u'World Bank, World Development Indicators, Gross Domestic Product']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated metric ton number --> [u'0.270323', u'0.283244', u'0.299784', u'0.303741', u'0.304208']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage date --> [u'1985', u'1986', u'1987', u'1988', u'1989']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> military combatant group conflict --> [u'Battle of Gia Cuc', u'Capture of Hung Hoa', u'S\u01a1n T\xe2y Campaign', u'Capture of My Tho', u'Battle of Kompong Speu']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> administrative area subdividing type --> [u'Vietnamese province', u'Vietnamese centrally controlled municipality']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> webpage category --> [u'Tag', u'Topic Equivalent']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> government position held basic title --> [u'President', u'Prime minister', u'Deputy prime minister']	1	'''William Morrow''' was the [[President]] of the [[United States]] and a former Air Force pilot who served in [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> linguistic hint adjectival form --> [u'\ubca0\ud2b8\ub0a8']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> countries continent --> [u'Asia']	71	Globetrotter artist, he has started a second world tour in [[Asia]] ([[India]], [[Thailand]], [[Vietnam]]) and [[South America]] ([[Chile]], [[Brazil]]).
+what currency should you take to vietnam?	4999	vietnam --> administrative area administrative parent --> [u'Earth']	1	Plummeting to [[Earth]], the colony's habitat lands off the coast of [[Vietnam]], to be picked up by Ela Suvanatat, a [[freelance journalist]].
+what currency should you take to vietnam?	4999	vietnam --> country capital --> [u'Hanoi']	342	|[[2003 Southeast Asian Games|22nd SEA Games]] || [[Hanoi]], [[Vietnam]] || bgcolor="gold"| WINNER
+what currency should you take to vietnam?	4999	vietnam --> adjusted money value measurement date --> [u'1984', u'1985', u'1986', u'1987', u'1988']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> country internet tld --> [u'vn']	1	| id="VN" |  || [[Vietnam|Viet Nam]] || 1974 || [[.vn]] ||  || ISO country name follows UN designation (common name: ''Vietnam'')
+what currency should you take to vietnam?	4999	vietnam --> dated kilowatt hour source --> [u'Electricity consumption per capita, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage date --> [u'1990', u'1996', u'1997', u'1998', u'1999']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> beer country region beers from here --> [u'Beer BGI', u'BGI Lager Beer']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> cryptid observation location cryptid s occurring here --> [u'Kting voar']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value valid date --> [u'2008']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value valid date --> [u'1985', u'1986', u'1987', u'1988', u'1989']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value amount --> [u'2900']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> topic topical webpage --> [u'http://www.vietnamtourism.com']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> administrative area short name --> [u'vn']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated location date founded --> [u'-2878']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> country form of government --> [u'Communist state', u'Socialist state', u'Single-party state']	4	Modified versions of the Soviet legal system operated in many [[Communist state]]s following the [[World War II|Second World War]]—including [[Mongolia]], the [[People's Republic of China]], the [[Warsaw Pact]] countries of [[eastern Europe]], [[Cuba]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated percentage source --> [u'Internet users as percentage of population, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> adjusted money value adjustment date --> [u'2000']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> book subject works --> [u'Limit of Vision', u'The Time In Between: A Novel', u'Vietnam: Spirits of the Earth', u'Home to war', u'Vietnam']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage date --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> location contains --> [u'S\u01a1n T\xe2y', u'Suoi Tien Amusement Park', u'Ho Chi Minh City University of Information Technology', u'Bao Loc', u'Gia Lam Airbase']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> topic alias --> [u'Annam', u'Republic of Vietnam', u'Socialist Republic of Vietnam']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> flag use from date --> [u'1945-09-05']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated metric ton date --> [u'1970', u'1971', u'1972', u'1973', u'1974']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> taxonomy entry high --> [u'560.72']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> organization membership from --> [u'1995-07-28', u'1977-09-20']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> united nations body membership permanent --> [u'0']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> location area --> [u'329560']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage source --> [u'Military expenditure as percentage of GDP, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> governmental jurisdiction agencies --> [u'Ministry of Education and Training', u'Vietnamese Ministry of Public Security']	2	* [[Vietnam]]ese curriculum: follow the curriculum set out by the [[Ministry of Education and Training (Vietnam)|Ministry of Education and Training]] with additional periods for some subjects (Maths, Philology, English for [[secondary school]] level and Maths, Philology, English, Physics, Chemistry for [[high school]] level.
+what currency should you take to vietnam?	4999	vietnam --> dated money value source --> [u'Gross National Income in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> country administrative divisions --> [u'Quang Binh Province', u'B\xecnh Thu\u1eadn Province', u'B\xecnh D\u01b0\u01a1ng Province', u'Binh Phuoc Province', u'Ha Giang Province']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated float number --> [u'44.162', u'44.691', u'45.236', u'45.789', u'46.336']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> governmental jurisdiction government bodies --> [u'National Assembly']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> administrative area pertinent type --> [u'Vietnamese province', u'Vietnamese centrally controlled municipality', u'Vietnamese town under district', u'Vietnamese urban district', u'Vietnamese provincial city']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> location time zones --> [u'UTC+07:00', u'ICT']	12	| CAH || VVCM || [[Cà Mau Airport]] || [[Cà Mau Province|Cà Mau]], [[Vietnam]] || [[UTC+07:00]] ||
+what currency should you take to vietnam?	4999	vietnam --> administrative area administrative area type --> [u'Sovereign state']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage source --> [u'World Bank, World Development Indicators, GDP Growth Rate']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> film location featured in films --> [u'Hearts and Minds', u'Vietnam, Long Time Coming']	2	His film ''[[Hearts and Minds (film)|Hearts and Minds]]'', about American military action in [[Vietnam]], won the [[Academy_Award_for_Best_Documentary_Feature#1970s|
+what currency should you take to vietnam?	4999	vietnam --> dated money value amount --> [u'610', u'670', u'740', u'800', u'890']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> webpage resource --> [u'Rick Springfield writing autobiography that we suddenly want to read...', u'\u201cThe Amazing Race\u201d Season 15, Episode 2: TV Recap', u'Would You Pose Nude?: Lim, Liu, Duong at \u201cFemale Gaze\u201d', u'Statoids of Vietnam']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> topic exceptions --> [u'Binh Tan District should be contained in some Vietnamese centrally controlled municipality.', u'District 11, H\u1ed3 Ch\xed Minh City should be contained in some Vietnamese centrally controlled municipality.', u'Go Vap District should be contained in some Vietnamese centrally controlled municipality.', u'Binh Thanh District should be contained in some Vietnamese centrally controlled municipality.', u'Tan Binh District should be contained in some Vietnamese centrally controlled municipality.']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated integer number --> [u'34743000', u'35427715', u'36123019', u'36836299', u'37573875']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> geocode latitude --> [u'15.4548637037']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> location events --> [u'August Revolution', u'War in Vietnam', u'Ten Great Campaigns', u'Battle of Dong Khe', u'Vietnam War']	202	*The [[Battle of the Ia Drang]], the first major engagement of the war between regular United States and [[North Vietnam]] forces in the [[Vietnam War]], began in the [[Ia Drang Valley]] of the [[Central Highlands (Vietnam)|Central Highlands]] in [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar', u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> country official language --> [u'Vietnamese Language']	50	*In [[Vietnam]], [[Vietnamese language|Vietnamese]] is the medium in most schools, including universities. 
+what currency should you take to vietnam?	4999	vietnam --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated percentage rate --> [u'1.04', u'1.05', u'1.06', u'1.08', u'1.11']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> taxonomy entry low --> [u'556']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> administrative area administrative children --> [u'Quang Binh Province', u'B\xecnh Thu\u1eadn Province', u'B\xecnh D\u01b0\u01a1ng Province', u'Binh Phuoc Province', u'Ha Giang Province']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> government position held from --> [u'2006-06-27', u'2011-07-25']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value currency --> [u'United States dollar']	2	'''Adopt-A-Minefield''' is a [[United Kingdom]]-based [[charitable organization|charity]] which raises awareness about [[land mine|landmines]] and their associated problems, and raises funds to clear [[land mine|minefields]] and help survivors of landmine [[accident]]s. It has raised over [[United States dollar|$]]17 million (approximately [[Pound sterling|£]]9.5 million) since it was established in the 1990s, enabling it to clear minefields in 126 villages in [[Afghanistan]], [[Angola]], [[Bosnia-Herzegovina]], [[Cambodia]], [[Croatia]], [[Iraq]], [[Laos]], [[Mozambique]] and [[Vietnam]].
+what currency should you take to vietnam?	4999	vietnam --> dated money value amount --> [u'39784258248', u'40396339433', u'44749723425', u'50645868259', u'55705297392']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value source --> [u'GNI per capita in PPP dollars, World Development Indicators and Global Development Finance, World Bank']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> object name --> [u'Vietnam']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> topic image --> [u'Kalastusmaja Binh Quoin kyl\xe4ss\xe4.', u'LocationVietnam']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> national anthem of a country anthem --> [u'Ti\u1ebfn Qu\xe2n Ca']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated integer year --> [u'1960', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> dated money value amount --> [u'6293304847', u'6471740486', u'9613369554', u'9866990096', u'13180954014']	0	EMPTY
+what currency should you take to vietnam?	4999	vietnam --> olympic athlete affiliation athlete --> [u'Nguyen Thi Anh Vien', u'Le Huynh Chau', u'Xuan Vinh Hoang', u'Thi Hoang Ngoc le', u'Nguyen Thi Thanh Phuc']	0	EMPTY

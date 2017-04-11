@@ -1,49 +1,49 @@
-where did emperor hirohito live?	57	hirohito --> person date of birth --> [u'1901-04-29']	0
-where did emperor hirohito live?	57	hirohito --> person profession --> [u'Statesman']	0
-where did emperor hirohito live?	57	hirohito --> topic alias --> [u'Emperor Hirohito', u'Emperor Sh\u014dwa', u'Prince Hiro Hito', u'Showa Emperor', u'Sh\xf4wa Tenn\xf4']	0
-where did emperor hirohito live?	57	hirohito --> monarch kingdom --> [u'Japan']	16
-where did emperor hirohito live?	57	hirohito --> person gender --> [u'Male']	0
-where did emperor hirohito live?	57	hirohito --> author works written --> [u'Some hydroids of the Amakusa Islands', u'Additional notes on Clathrozoon wilsoni Spencer', u'Sagami-wan san umikumo rui', u'A review of the hydroids of the family Clathrozonidae with description of a new genus and species from Japan', u'A new hydroid Hydractinia bayeri n.sp. (family Hydractiniidae) from the Bay of Panama']	0
-where did emperor hirohito live?	57	hirohito --> monarch royal line --> [u'Imperial House of Japan']	3
-where did emperor hirohito live?	57	hirohito --> person nationality --> [u'Japan']	16
-where did emperor hirohito live?	57	hirohito --> deceased person date of death --> [u'1989-01-07']	0
-where did emperor hirohito live?	57	hirohito --> family member family --> [u'Imperial House of Japan']	3
-where did emperor hirohito live?	57	hirohito --> speech or presentation type or format of presentation --> [u'Radio address']	0
-where did emperor hirohito live?	57	hirohito --> deceased person place of death --> [u'\u014cmiya Palace']	0
-where did emperor hirohito live?	57	hirohito --> personal film appearance type of appearance --> [u'Him/Herself']	0
-where did emperor hirohito live?	57	hirohito --> noble title tenure to date --> [u'1926-12-25']	0
-where did emperor hirohito live?	57	hirohito --> person religion --> [u'Shinto']	0
-where did emperor hirohito live?	57	hirohito --> speech or presentation speech topic --> [u'Japanese Instrument of Surrender']	0
-where did emperor hirohito live?	57	hirohito --> marriage spouse --> [u'Empress Kojun']	0
-where did emperor hirohito live?	57	hirohito --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where did emperor hirohito live?	57	hirohito --> marriage from --> [u'1924-01-26']	0
-where did emperor hirohito live?	57	hirohito --> chivalric order membership title --> [u'Knight Grand Cross of the Royal Victorian Order', u'Knight of the Order of the Rajamitrabhorn']	0
-where did emperor hirohito live?	57	hirohito --> person place of birth --> [u'Aoyama, Tokyo']	0
-where did emperor hirohito live?	57	hirohito --> speech or presentation event --> [u'Gyokuon-h\u014ds\u014d']	0
-where did emperor hirohito live?	57	hirohito --> education institution --> [u'Gakush\u016bin']	0
-where did emperor hirohito live?	57	hirohito --> person children --> [u'Atsuko Ikeda', u'Takako Shimazu', u'Kazuko Takatsukasa', u'Sachiko, Princess Hisa', u'Shigeko Higashikuni']	2
-where did emperor hirohito live?	57	hirohito --> deceased person cause of death --> [u'Myocardial infarction']	0
-where did emperor hirohito live?	57	hirohito --> noble title tenure from date --> [u'1921']	0
-where did emperor hirohito live?	57	hirohito --> marriage to --> [u'1989-01-07']	0
-where did emperor hirohito live?	57	hirohito --> person parents --> [u'Emperor Taish\u014d', u'Empress Teimei']	2
-where did emperor hirohito live?	57	hirohito --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVikxJwpEbGdrcN5Y29ycA']	0
-where did emperor hirohito live?	57	hirohito --> marriage type of union --> [u'Marriage']	0
-where did emperor hirohito live?	57	hirohito --> sibling relationship sibling --> [u'Prince Chichibu', u'Prince Mikasa', u'Prince Takamatsu']	11
-where did emperor hirohito live?	57	hirohito --> object name --> [u'Hirohito']	0
-where did emperor hirohito live?	57	hirohito --> topic image --> [u'Imageshowa']	0
-where did emperor hirohito live?	57	hirohito --> book subject works --> [u'American Shogun: A Tale of Two Cultures', u'Hirohito and the Making of Modern Japan']	0
-where did emperor hirohito live?	57	hirohito --> film subject films --> [u'The Sun']	4
-where did emperor hirohito live?	57	hirohito --> chivalric order membership order --> [u'Royal Victorian Order', u'Order of the Garter', u'Order of the White Eagle', u'Order of the Rajamitrabhorn']	0
-where did emperor hirohito live?	57	hirohito --> person height meters --> [u'1.65']	0
-where did emperor hirohito live?	57	hirohito --> personal film appearance film --> [u'Victory at Sea', u'Tokyo Olympiad', u'War Clouds in the Pacific', u'The Second World War in Colour', u'Inside Fighting China']	0
-where did emperor hirohito live?	57	live  --> release format --> [u'Gramophone record']	0
-where did emperor hirohito live?	57	live  --> release album --> [u'Live ?']	0
-where did emperor hirohito live?	57	live  --> creative work credit --> [u'Ludwig von 88']	0
-where did emperor hirohito live?	57	live  --> release release date --> [u'1985-03']	0
-where did emperor hirohito live?	57	live  --> release region --> [u'France']	0
-where did emperor hirohito live?	57	live  --> object name --> [u'Live ?']	0
-where did emperor hirohito live?	57	live  --> album releases --> [u'Live ?']	0
-where did emperor hirohito live?	57	live  --> album primary release --> [u'Live ?']	0
-where did emperor hirohito live?	57	live  --> album artist --> [u'Ludwig Von 88']	0
-where did emperor hirohito live?	57	live  --> object name --> [u'Live ?']	0
-where did emperor hirohito live?	57	live  --> album release type --> [u'Single']	0
+where did emperor hirohito live?	57	hirohito --> person date of birth --> [u'1901-04-29']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> person profession --> [u'Statesman']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> topic alias --> [u'Emperor Hirohito', u'Emperor Sh\u014dwa', u'Prince Hiro Hito', u'Showa Emperor', u'Sh\xf4wa Tenn\xf4']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> monarch kingdom --> [u'Japan']	16	| Emperor [[Hirohito]] || [[Japan]] || GCVO || 1921 || Royalty || Annulled 1941
+where did emperor hirohito live?	57	hirohito --> person gender --> [u'Male']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> author works written --> [u'Some hydroids of the Amakusa Islands', u'Additional notes on Clathrozoon wilsoni Spencer', u'Sagami-wan san umikumo rui', u'A review of the hydroids of the family Clathrozonidae with description of a new genus and species from Japan', u'A new hydroid Hydractinia bayeri n.sp. (family Hydractiniidae) from the Bay of Panama']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> monarch royal line --> [u'Imperial House of Japan']	3	The  is the [[Japan]]ese social [[taboo]] against discussion or criticism of the [[Emperor of Japan]] and [[Imperial House of Japan|his family]], especially the late [[Hirohito|Emperor Shōwa]].
+where did emperor hirohito live?	57	hirohito --> person nationality --> [u'Japan']	16	| Emperor [[Hirohito]] || [[Japan]] || GCVO || 1921 || Royalty || Annulled 1941
+where did emperor hirohito live?	57	hirohito --> deceased person date of death --> [u'1989-01-07']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> family member family --> [u'Imperial House of Japan']	3	The  is the [[Japan]]ese social [[taboo]] against discussion or criticism of the [[Emperor of Japan]] and [[Imperial House of Japan|his family]], especially the late [[Hirohito|Emperor Shōwa]].
+where did emperor hirohito live?	57	hirohito --> speech or presentation type or format of presentation --> [u'Radio address']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> deceased person place of death --> [u'\u014cmiya Palace']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> personal film appearance type of appearance --> [u'Him/Herself']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> noble title tenure to date --> [u'1926-12-25']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> person religion --> [u'Shinto']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> speech or presentation speech topic --> [u'Japanese Instrument of Surrender']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> marriage spouse --> [u'Empress Kojun']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> marriage from --> [u'1924-01-26']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> chivalric order membership title --> [u'Knight Grand Cross of the Royal Victorian Order', u'Knight of the Order of the Rajamitrabhorn']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> person place of birth --> [u'Aoyama, Tokyo']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> speech or presentation event --> [u'Gyokuon-h\u014ds\u014d']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> education institution --> [u'Gakush\u016bin']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> person children --> [u'Atsuko Ikeda', u'Takako Shimazu', u'Kazuko Takatsukasa', u'Sachiko, Princess Hisa', u'Shigeko Higashikuni']	2	[[Kazuko Takatsukasa|Princess Kazuko]], the third daughter of [[Hirohito]], the Emperor Showa, married the [[Toshimichi Takatsukasa|heir of Takatsukasa]].
+where did emperor hirohito live?	57	hirohito --> deceased person cause of death --> [u'Myocardial infarction']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> noble title tenure from date --> [u'1921']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> marriage to --> [u'1989-01-07']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> person parents --> [u'Emperor Taish\u014d', u'Empress Teimei']	2	Located within a forest in the [[Western Tokyo|western suburbs of Tokyo]] and named for the ancient [[Musashi Province]], the site contains the mausolea of the [[Emperor Taishō|Taishō]] and the [[Hirohito|Emperor Shōwa]], as well as those of their wives, the [[Empress Teimei]] and the [[Empress Kōjun]]. 
+where did emperor hirohito live?	57	hirohito --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVikxJwpEbGdrcN5Y29ycA']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> marriage type of union --> [u'Marriage']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> sibling relationship sibling --> [u'Prince Chichibu', u'Prince Mikasa', u'Prince Takamatsu']	11	He attended the elementary and secondary departments of the [[Gakushuin]] Peers' School along with Crown Prince [[Hirohito]], and his younger brother, [[Nobuhito, Prince Takamatsu|Prince Nobuhito]] (born in 1905).
+where did emperor hirohito live?	57	hirohito --> object name --> [u'Hirohito']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> topic image --> [u'Imageshowa']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> book subject works --> [u'American Shogun: A Tale of Two Cultures', u'Hirohito and the Making of Modern Japan']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> film subject films --> [u'The Sun']	4	| '''''[[The Sun (film)|The Sun]]'''''  || '''''Солнце''''' || [[Alexander Sokurov]] || Historical drama ||About Japanese emperor [[Hirohito]]
+where did emperor hirohito live?	57	hirohito --> chivalric order membership order --> [u'Royal Victorian Order', u'Order of the Garter', u'Order of the White Eagle', u'Order of the Rajamitrabhorn']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> person height meters --> [u'1.65']	0	EMPTY
+where did emperor hirohito live?	57	hirohito --> personal film appearance film --> [u'Victory at Sea', u'Tokyo Olympiad', u'War Clouds in the Pacific', u'The Second World War in Colour', u'Inside Fighting China']	0	EMPTY
+where did emperor hirohito live?	57	live  --> release format --> [u'Gramophone record']	0	EMPTY
+where did emperor hirohito live?	57	live  --> release album --> [u'Live ?']	0	EMPTY
+where did emperor hirohito live?	57	live  --> creative work credit --> [u'Ludwig von 88']	0	EMPTY
+where did emperor hirohito live?	57	live  --> release release date --> [u'1985-03']	0	EMPTY
+where did emperor hirohito live?	57	live  --> release region --> [u'France']	0	EMPTY
+where did emperor hirohito live?	57	live  --> object name --> [u'Live ?']	0	EMPTY
+where did emperor hirohito live?	57	live  --> album releases --> [u'Live ?']	0	EMPTY
+where did emperor hirohito live?	57	live  --> album primary release --> [u'Live ?']	0	EMPTY
+where did emperor hirohito live?	57	live  --> album artist --> [u'Ludwig Von 88']	0	EMPTY
+where did emperor hirohito live?	57	live  --> object name --> [u'Live ?']	0	EMPTY
+where did emperor hirohito live?	57	live  --> album release type --> [u'Single']	0	EMPTY

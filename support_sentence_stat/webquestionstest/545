@@ -1,67 +1,67 @@
-what discovery did galileo make?	233	galileo galilei --> person date of birth --> [u'1564-02-15']	0
-what discovery did galileo make?	233	galileo galilei --> kwtopic has sentences --> [u'In his defence, Galileo wrote two letters for publication, one to his pupil Castelli and the other to the Dowager Duchess Christina (both 1615), in which he argued that neither the Bible nor nature could speak falsely and that whereas the investigation of nature was the province of the scientist, the reconciliation of scientific facts with the language of the Bible was that of the theologian.', u"With the special indulgence with which he was treated throughout the trial,  this was commuted to house arrest on his small estate (provided by his ex-pupil Ferdinand II of Tuscany at Arcetri near Florence, where he returned in December 1633. This sentence of house arrest remained in effect throughout the last eight years of Galileo's life. During these last years, Galileo continued his research, even after his hearing and sight began to fail.   In 1634 he completed his 'Discorsi e dimostrazioni mathematiche intorno a due nuove scienze attenenti alla meccanica' ('Dialogue Concerning Two New Sciences'), which was smuggled out of Italy and published at Leiden in 1638,  and inspired much experimental work by such scientists as Torricelli,  Berti and Ricci Galileo's last telescopic discovery - that of the Moon's diurnal and monthly librations (wobbling from side to side) - was made in 1637, only a few months before he became blind.", u'Once he was totally blind (1638), Galileo was permitted to have his two friends, the geometrician Viviani and Torricelli, to live with him, to whom he was dictating his latest ideas on the theory of impact when he was seized with the slow fever that resulted in his death.', u"In 1591 on his father's death he resigned from  Pisa and returned to Florence.", u"He also composed an untitled treatise on motion, now generally referred to as 'De motu', which disproved the Aristotelian theory that bodies of different weights fall at different speeds, and instead developed a theory of falling bodies derived from the buoyancy principle of Archimedes, an idea previously published by Benedetti ."]	0
-what discovery did galileo make?	233	galileo galilei --> person profession --> [u'Physicist', u'Scientist', u'Astrologer', u'Mathematician', u'Astronomer']	0
-what discovery did galileo make?	233	galileo galilei --> kwtopic disciplines --> [u'mathematician', u'astronomer', u' physicist']	0
-what discovery did galileo make?	233	galileo galilei --> person gender --> [u'Male']	0
-what discovery did galileo make?	233	galileo galilei --> author works written --> [u'In biasimo della toga', u'Galileo against the philosophers in his Dialogue of Cecco di Ronchitti (1605) and Considerations of Alimberto Mauri', u'Sensate esperienze e certe dimostrazioni', u'Galile\u0301e, penseur libre', u'Dialogo di Galileo Galilei']	0
-what discovery did galileo make?	233	galileo galilei --> significant follower school tradition --> [u'Astrology']	0
-what discovery did galileo make?	233	galileo galilei --> person nationality --> [u'Grand Duchy of Tuscany']	0
-what discovery did galileo make?	233	galileo galilei --> scientist opponent --> [u'Robert Bellarmine', u'Tommaso Caccini']	0
-what discovery did galileo make?	233	galileo galilei --> deceased person date of death --> [u'1642-01-08']	0
-what discovery did galileo make?	233	galileo galilei --> employment tenure company --> [u'University of Padua']	6
-what discovery did galileo make?	233	galileo galilei --> deceased person place of death --> [u'Arcetri']	2
-what discovery did galileo make?	233	galileo galilei --> name source namesakes --> [u'Galileo Academy of Science and Technology', u'Galilean moons', u'697 Galilea', u'Galileo', u'Gal']	19
-what discovery did galileo make?	233	galileo galilei --> deceased person place of burial --> [u'Basilica of Santa Croce, Florence']	4
-what discovery did galileo make?	233	galileo galilei --> person religion --> [u'Catholicism']	0
-what discovery did galileo make?	233	galileo galilei --> author book editions published --> [u'Dialogue Concerning the Two Chief World Systems, Ptolemaic and Copernican, Second Revised edition', u'Two New Sciences', u'Sidereus nuncius', u'Two New Sciences', u'Sidereus Nuncius']	0
-what discovery did galileo make?	233	galileo galilei --> marriage spouse --> [u'Marina Gamba']	2
-what discovery did galileo make?	233	galileo galilei --> astronomer astronomical objects discovered --> [u'Callisto', u'Galilean moons', u'Europa', u'Ganymede', u'Io']	24
-what discovery did galileo make?	233	galileo galilei --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what discovery did galileo make?	233	galileo galilei --> person ethnicity --> [u'Italian people']	2
-what discovery did galileo make?	233	galileo galilei --> valuenotation has value --> [u'Height']	0
-what discovery did galileo make?	233	galileo galilei --> person place of birth --> [u'Pisa']	4
-what discovery did galileo make?	233	galileo galilei --> education institution --> [u'University of Pisa']	1
-what discovery did galileo make?	233	galileo galilei --> person children --> [u'Vincenzo Gamba', u'Livia Galilei', u'Maria Celeste']	3
-what discovery did galileo make?	233	galileo galilei --> context name official name --> [u'Galileo Galilei']	0
-what discovery did galileo make?	233	galileo galilei --> kwtopic category --> [u'natural sciences and mathematics']	0
-what discovery did galileo make?	233	galileo galilei --> kwtopic kwtype --> [u'Person']	0
-what discovery did galileo make?	233	galileo galilei --> scientist known for --> [u'Solar System', u'Galilean moons', u'Heliocentrism', u'Kinematics']	28
-what discovery did galileo make?	233	galileo galilei --> education degree --> [u'Medical degree']	0
-what discovery did galileo make?	233	galileo galilei --> person parents --> [u'Vincenzo Galilei', u'Giulia di Cosimo Ammannati']	9
-what discovery did galileo make?	233	galileo galilei --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwGv3zpwpEbGdrcN5Y29ycA']	0
-what discovery did galileo make?	233	galileo galilei --> person in fiction representations in fiction --> [u'Galileo Galilei']	0
-what discovery did galileo make?	233	galileo galilei --> influence node influenced --> [u'Arthur van Hoff', u'Johannes Kepler', u'Pierre Gassendi', u'Evangelista Torricelli', u'Italo Calvino']	52
-what discovery did galileo make?	233	galileo galilei --> academic advisees --> [u'Vincenzo Viviani']	0
-what discovery did galileo make?	233	galileo galilei --> marriage type of union --> [u'Domestic partnership']	0
-what discovery did galileo make?	233	galileo galilei --> kwtopic connections from --> [u'galileo galilei anticipated by giambattista benedetti', u'galileo galilei advised christiaan huyghens', u'galileo galilei warned by robert bellarmine', u'galileo galilei a pal of vincenzo viviani', u'galileo galilei work related to pierre gassendi']	0
-what discovery did galileo make?	233	galileo galilei --> sibling relationship sibling --> [u'Michelagnolo Galilei']	3
-what discovery did galileo make?	233	galileo galilei --> object name --> [u'Galileo Galilei']	0
-what discovery did galileo make?	233	galileo galilei --> topic image --> [u'Galileo']	0
-what discovery did galileo make?	233	galileo galilei --> scientist short bio --> [u'Tuscan physicist, mathematician, astronomer, and philosopher who played a major role in the scientific revolution']	0
-what discovery did galileo make?	233	galileo galilei --> kwtopic assessment --> [u'Perhaps the most far-reaching of his achievements was his insistence that the ""Book of Nature is . . . written in mathematical characters"".   From this base, he was able to found the modern experimental method.']	0
-what discovery did galileo make?	233	galileo galilei --> influence node influenced by --> [u'Avicenna', u'Aristotle', u'Nicolaus Copernicus', u'Giordano Bruno']	51
-what discovery did galileo make?	233	galileo galilei --> place lived location --> [u'Pisa', u'Grand Duchy of Tuscany']	4
-what discovery did galileo make?	233	galileo galilei --> book subject works --> [u"Galileo's Daughter: A Historical Memoir of Science, Faith, and Love", u'The sharp-eyed lynx, outfoxed by nature, part 1']	0
-what discovery did galileo make?	233	space shuttle discovery --> namesake named after --> [u'RRS Discovery']	0
-what discovery did galileo make?	233	space shuttle discovery --> topic social media presence --> [u'http://plus.google.com/116930879953781079008']	0
-what discovery did galileo make?	233	space shuttle discovery --> spacecraft manufacturer --> [u'North American Aviation']	0
-what discovery did galileo make?	233	space shuttle discovery --> topic alias --> [u'OV-103']	0
-what discovery did galileo make?	233	space shuttle discovery --> object name --> [u'Space Shuttle Discovery']	0
-what discovery did galileo make?	233	space shuttle discovery --> topic image --> [u'Space Shuttle Discovery', u'Space Shuttle Discovery', u'Discovery undocking']	0
-what discovery did galileo make?	233	space shuttle discovery --> rocket satellites launched --> [u'Hubble Space Telescope', u'Upper Atmosphere Research Satellite']	17
-what discovery did galileo make?	233	galileo --> namesake named after --> [u'Galileo Galilei']	0
-what discovery did galileo make?	233	galileo --> topic official website --> [u'http://www.esa.int/esaNA/galileo.html']	0
-what discovery did galileo make?	233	galileo --> topic alias --> [u'Galileo positioning system']	0
-what discovery did galileo make?	233	galileo --> object name --> [u'Galileo']	0
-what discovery did galileo make?	233	galileo --> namesake named after --> [u'Galileo Galilei']	0
-what discovery did galileo make?	233	galileo --> satellite launch date --> [u'1989-10-18']	0
-what discovery did galileo make?	233	galileo --> spacecraft extra maximum speed --> [u'173770']	0
-what discovery did galileo make?	233	galileo --> satellite altitude --> [u'33000']	0
-what discovery did galileo make?	233	galileo --> spacecraft manufacturer --> [u'Jet Propulsion Laboratory']	2
-what discovery did galileo make?	233	galileo --> webpage category --> [u'Official Website']	0
-what discovery did galileo make?	233	galileo --> project focus projects --> [u'Construction of Galileo spacecraft']	0
-what discovery did galileo make?	233	galileo --> object name --> [u'Galileo']	0
-what discovery did galileo make?	233	galileo --> topic image --> [u'Galileo preparations', u'Galileo Preparations - GPN-2000-000672', u'Galileo spacecraft']	0
-what discovery did galileo make?	233	galileo --> service service description --> [u"The EU's satellite-based radio navigation system, which may incorporate GLONASS."]	0
-what discovery did galileo make?	233	galileo --> topic official website --> [u'http://www2.jpl.nasa.gov/galileo/']	0
-what discovery did galileo make?	233	galileo --> webpage uri --> [u'http://www2.jpl.nasa.gov/galileo/']	0
+what discovery did galileo make?	233	galileo galilei --> person date of birth --> [u'1564-02-15']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> kwtopic has sentences --> [u'In his defence, Galileo wrote two letters for publication, one to his pupil Castelli and the other to the Dowager Duchess Christina (both 1615), in which he argued that neither the Bible nor nature could speak falsely and that whereas the investigation of nature was the province of the scientist, the reconciliation of scientific facts with the language of the Bible was that of the theologian.', u"With the special indulgence with which he was treated throughout the trial,  this was commuted to house arrest on his small estate (provided by his ex-pupil Ferdinand II of Tuscany at Arcetri near Florence, where he returned in December 1633. This sentence of house arrest remained in effect throughout the last eight years of Galileo's life. During these last years, Galileo continued his research, even after his hearing and sight began to fail.   In 1634 he completed his 'Discorsi e dimostrazioni mathematiche intorno a due nuove scienze attenenti alla meccanica' ('Dialogue Concerning Two New Sciences'), which was smuggled out of Italy and published at Leiden in 1638,  and inspired much experimental work by such scientists as Torricelli,  Berti and Ricci Galileo's last telescopic discovery - that of the Moon's diurnal and monthly librations (wobbling from side to side) - was made in 1637, only a few months before he became blind.", u'Once he was totally blind (1638), Galileo was permitted to have his two friends, the geometrician Viviani and Torricelli, to live with him, to whom he was dictating his latest ideas on the theory of impact when he was seized with the slow fever that resulted in his death.', u"In 1591 on his father's death he resigned from  Pisa and returned to Florence.", u"He also composed an untitled treatise on motion, now generally referred to as 'De motu', which disproved the Aristotelian theory that bodies of different weights fall at different speeds, and instead developed a theory of falling bodies derived from the buoyancy principle of Archimedes, an idea previously published by Benedetti ."]	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> person profession --> [u'Physicist', u'Scientist', u'Astrologer', u'Mathematician', u'Astronomer']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> kwtopic disciplines --> [u'mathematician', u'astronomer', u' physicist']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> person gender --> [u'Male']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> author works written --> [u'In biasimo della toga', u'Galileo against the philosophers in his Dialogue of Cecco di Ronchitti (1605) and Considerations of Alimberto Mauri', u'Sensate esperienze e certe dimostrazioni', u'Galile\u0301e, penseur libre', u'Dialogo di Galileo Galilei']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> significant follower school tradition --> [u'Astrology']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> person nationality --> [u'Grand Duchy of Tuscany']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> scientist opponent --> [u'Robert Bellarmine', u'Tommaso Caccini']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> deceased person date of death --> [u'1642-01-08']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> employment tenure company --> [u'University of Padua']	6	The first reported observation of Io and Europa was made by [[Galileo Galilei]] on 7 January 1610 using a [[Galileo Telescope|20×-magnification refracting telescope]] at the [[University of Padua]].
+what discovery did galileo make?	233	galileo galilei --> deceased person place of death --> [u'Arcetri']	2	As a result, [[Galileo Galilei]] was placed under house arrest, served in Rome, [[Siena]], [[Arcetri]], and [[Florence]], for publishing writings, said to be "vehemently suspected of being heretical", and his opponents condemned heliocentric theory and temporarily banned its teaching in 1633.
+what discovery did galileo make?	233	galileo galilei --> name source namesakes --> [u'Galileo Academy of Science and Technology', u'Galilean moons', u'697 Galilea', u'Galileo', u'Gal']	19	It describes the life of 17th century scientist and astronomer [[Galileo Galilei]], and the far-future society living on the [[Galilean moons]] he discovered.
+what discovery did galileo make?	233	galileo galilei --> deceased person place of burial --> [u'Basilica of Santa Croce, Florence']	4	When he visited the [[Basilica of Santa Croce, Florence|Basilica of Santa Croce]], where [[Niccolò Machiavelli]], [[Michelangelo]] and [[Galileo Galilei]] are buried, he saw [[Giotto]]'s frescoes for the first time and was overcome with emotion.
+what discovery did galileo make?	233	galileo galilei --> person religion --> [u'Catholicism']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> author book editions published --> [u'Dialogue Concerning the Two Chief World Systems, Ptolemaic and Copernican, Second Revised edition', u'Two New Sciences', u'Sidereus nuncius', u'Two New Sciences', u'Sidereus Nuncius']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> marriage spouse --> [u'Marina Gamba']	2	'''Vincenzo''' or '''Vincenzio Gamba''' (1606&ndash;1649), later '''Vincenzo Galilei''' (1619), was the [[Legitimacy (law)|illegitimate]] son of [[Galileo Galilei]] (1564&ndash;1642) and his mistress [[Marina Gamba]] (1570&ndash;1612).
+what discovery did galileo make?	233	galileo galilei --> astronomer astronomical objects discovered --> [u'Callisto', u'Galilean moons', u'Europa', u'Ganymede', u'Io']	24	Europa, along with Jupiter's three other large moons, [[Io (moon)|Io]], [[Ganymede (moon)|Ganymede]], and [[Callisto (moon)|Callisto]], was discovered by [[Galileo Galilei]] on 8 January 1610, and possibly independently by [[Simon Marius]].
+what discovery did galileo make?	233	galileo galilei --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> person ethnicity --> [u'Italian people']	2	The action of the play follows the career of the great [[Italians|Italian]] [[natural philosopher]] [[Galileo Galilei]] and the [[Galileo affair]], in which he was tried by the [[Roman Catholic Church]] for the promulgation of his scientific discoveries.
+what discovery did galileo make?	233	galileo galilei --> valuenotation has value --> [u'Height']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> person place of birth --> [u'Pisa']	4	* c. [[1583]]: [[Galileo Galilei]] of [[Pisa]], [[Italy]] identifies the constant swing of a [[pendulum]], leading to development of reliable timekeepers.
+what discovery did galileo make?	233	galileo galilei --> education institution --> [u'University of Pisa']	1	He was born in [[Florence]] to [[Carlo Barberini (1562-1630)|Carlo Barberini]] and Costanza Magalotti, and studied at the [[University of Pisa]] where he was assisted by family friend [[Galileo Galilei]], graduating in canon and civil law in 1623.
+what discovery did galileo make?	233	galileo galilei --> person children --> [u'Vincenzo Gamba', u'Livia Galilei', u'Maria Celeste']	3	* [[August 16]] &ndash; [[Maria Celeste]], nun, daughter of [[Galileo Galilei]] (d. [[1634]])
+what discovery did galileo make?	233	galileo galilei --> context name official name --> [u'Galileo Galilei']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> kwtopic category --> [u'natural sciences and mathematics']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> kwtopic kwtype --> [u'Person']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> scientist known for --> [u'Solar System', u'Galilean moons', u'Heliocentrism', u'Kinematics']	28	It describes the life of 17th century scientist and astronomer [[Galileo Galilei]], and the far-future society living on the [[Galilean moons]] he discovered.
+what discovery did galileo make?	233	galileo galilei --> education degree --> [u'Medical degree']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> person parents --> [u'Vincenzo Galilei', u'Giulia di Cosimo Ammannati']	9	Known members of the group besides Bardi included [[Giulio Caccini]], [[Piero Strozzi (composer)|Pietro Strozzi]], and [[Vincenzo Galilei]] (the father of the astronomer [[Galileo Galilei]]).
+what discovery did galileo make?	233	galileo galilei --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwGv3zpwpEbGdrcN5Y29ycA']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> person in fiction representations in fiction --> [u'Galileo Galilei']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> influence node influenced --> [u'Arthur van Hoff', u'Johannes Kepler', u'Pierre Gassendi', u'Evangelista Torricelli', u'Italo Calvino']	52	The ''Quaestiones'' contains notes from Newton's thorough reading of [[René Descartes|Descartes]], Walter Charlton's translation of [[Pierre Gassendi|Gassendi]] into English, [[Galileo Galilei|Galileo]]'s [[Dialogue]], [[Robert Boyle]], [[Thomas Hobbes]], [[Kenelm Digby]], [[Joseph Glanvill]] and [[Henry More]], and others.
+what discovery did galileo make?	233	galileo galilei --> academic advisees --> [u'Vincenzo Viviani']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> marriage type of union --> [u'Domestic partnership']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> kwtopic connections from --> [u'galileo galilei anticipated by giambattista benedetti', u'galileo galilei advised christiaan huyghens', u'galileo galilei warned by robert bellarmine', u'galileo galilei a pal of vincenzo viviani', u'galileo galilei work related to pierre gassendi']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> sibling relationship sibling --> [u'Michelagnolo Galilei']	3	* [[January 3]] &ndash; [[Michelagnolo Galilei]], Italian composer and lutenist, younger brother of [[Galileo Galilei]] (b.
+what discovery did galileo make?	233	galileo galilei --> object name --> [u'Galileo Galilei']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> topic image --> [u'Galileo']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> scientist short bio --> [u'Tuscan physicist, mathematician, astronomer, and philosopher who played a major role in the scientific revolution']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> kwtopic assessment --> [u'Perhaps the most far-reaching of his achievements was his insistence that the ""Book of Nature is . . . written in mathematical characters"".   From this base, he was able to found the modern experimental method.']	0	EMPTY
+what discovery did galileo make?	233	galileo galilei --> influence node influenced by --> [u'Avicenna', u'Aristotle', u'Nicolaus Copernicus', u'Giordano Bruno']	51	Amongst others it banned or [[censored]] books written by [[René Descartes]], [[Giordano Bruno]], [[Galileo Galilei]], [[David Hume]], [[John Locke]], [[Daniel Defoe]], [[Jean-Jacques Rousseau]] and [[Voltaire]].
+what discovery did galileo make?	233	galileo galilei --> place lived location --> [u'Pisa', u'Grand Duchy of Tuscany']	4	* c. [[1583]]: [[Galileo Galilei]] of [[Pisa]], [[Italy]] identifies the constant swing of a [[pendulum]], leading to development of reliable timekeepers.
+what discovery did galileo make?	233	galileo galilei --> book subject works --> [u"Galileo's Daughter: A Historical Memoir of Science, Faith, and Love", u'The sharp-eyed lynx, outfoxed by nature, part 1']	0	EMPTY
+what discovery did galileo make?	233	space shuttle discovery --> namesake named after --> [u'RRS Discovery']	0	EMPTY
+what discovery did galileo make?	233	space shuttle discovery --> topic social media presence --> [u'http://plus.google.com/116930879953781079008']	0	EMPTY
+what discovery did galileo make?	233	space shuttle discovery --> spacecraft manufacturer --> [u'North American Aviation']	0	EMPTY
+what discovery did galileo make?	233	space shuttle discovery --> topic alias --> [u'OV-103']	0	EMPTY
+what discovery did galileo make?	233	space shuttle discovery --> object name --> [u'Space Shuttle Discovery']	0	EMPTY
+what discovery did galileo make?	233	space shuttle discovery --> topic image --> [u'Space Shuttle Discovery', u'Space Shuttle Discovery', u'Discovery undocking']	0	EMPTY
+what discovery did galileo make?	233	space shuttle discovery --> rocket satellites launched --> [u'Hubble Space Telescope', u'Upper Atmosphere Research Satellite']	17	[[Hubble Space Telescope#Servicing Mission 3A|Hubble Servicing Mission 3A]] [[Space Shuttle Discovery|''Discovery'']]
+what discovery did galileo make?	233	galileo --> namesake named after --> [u'Galileo Galilei']	0	EMPTY
+what discovery did galileo make?	233	galileo --> topic official website --> [u'http://www.esa.int/esaNA/galileo.html']	0	EMPTY
+what discovery did galileo make?	233	galileo --> topic alias --> [u'Galileo positioning system']	0	EMPTY
+what discovery did galileo make?	233	galileo --> object name --> [u'Galileo']	0	EMPTY
+what discovery did galileo make?	233	galileo --> namesake named after --> [u'Galileo Galilei']	0	EMPTY
+what discovery did galileo make?	233	galileo --> satellite launch date --> [u'1989-10-18']	0	EMPTY
+what discovery did galileo make?	233	galileo --> spacecraft extra maximum speed --> [u'173770']	0	EMPTY
+what discovery did galileo make?	233	galileo --> satellite altitude --> [u'33000']	0	EMPTY
+what discovery did galileo make?	233	galileo --> spacecraft manufacturer --> [u'Jet Propulsion Laboratory']	2	She joined the [[Jet Propulsion Laboratory]] in [[Pasadena, California]] as a [[United States National Research Council|National Research Council]] Resident Research Associate in 1989 and, after two years, became a member of the [[Galileo (spacecraft)|Galileo]] spacecraft project.
+what discovery did galileo make?	233	galileo --> webpage category --> [u'Official Website']	0	EMPTY
+what discovery did galileo make?	233	galileo --> project focus projects --> [u'Construction of Galileo spacecraft']	0	EMPTY
+what discovery did galileo make?	233	galileo --> object name --> [u'Galileo']	0	EMPTY
+what discovery did galileo make?	233	galileo --> topic image --> [u'Galileo preparations', u'Galileo Preparations - GPN-2000-000672', u'Galileo spacecraft']	0	EMPTY
+what discovery did galileo make?	233	galileo --> service service description --> [u"The EU's satellite-based radio navigation system, which may incorporate GLONASS."]	0	EMPTY
+what discovery did galileo make?	233	galileo --> topic official website --> [u'http://www2.jpl.nasa.gov/galileo/']	0	EMPTY
+what discovery did galileo make?	233	galileo --> webpage uri --> [u'http://www2.jpl.nasa.gov/galileo/']	0	EMPTY

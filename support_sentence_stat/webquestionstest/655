@@ -1,42 +1,42 @@
-where is the latin language from?	877	latin language --> languoid languoid class --> [u'Language']	0
-where is the latin language from?	877	latin language --> human language region --> [u'Europe']	26
-where is the latin language from?	877	latin language --> languoid document --> [u'Latin Genesis Translation', u'Latin Orthography', u'Latin Orthography']	0
-where is the latin language from?	877	latin language --> topic alias --> [u'Latina', u'Latin language']	0
-where is the latin language from?	877	latin language --> fictional language where spoken --> [u'Roman Empire']	101
-where is the latin language from?	877	latin language --> field of study journals in this discipline --> [u'Probus']	0
-where is the latin language from?	877	latin language --> languoid parent --> [u'Latino-Faliscan Group']	0
-where is the latin language from?	877	latin language --> languoid local name --> [u'Latin']	0
-where is the latin language from?	877	latin language --> education institution --> [u'University of Adelaide', u'Columbia University', u'University of Cambridge', u'Ankara University']	7
-where is the latin language from?	877	latin language --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where is the latin language from?	877	latin language --> genre albums --> [u'Mi Encuentro', u'Why Not?', u'Sangre Latina', u'Flores de alquiler', u'Amar Sin Mentiras']	0
-where is the latin language from?	877	latin language --> genre artists --> [u'Tito Rodriguez', u'Kye Palmer', u'Tim Scott', u'Joaqu\xedn Sabina', u'Amanda Miguel']	0
-where is the latin language from?	877	latin language --> education student --> [u'Kathryn Fiore', u'Don Dunstan', u'Can Y\xfccel']	0
-where is the latin language from?	877	latin language --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQBy-JwpEbGdrcN5Y29ycA']	0
-where is the latin language from?	877	latin language --> human language writing system --> [u'Latin alphabet', u'Anglo-Saxon runes']	4
-where is the latin language from?	877	latin language --> education major field of study --> [u'History', u'Politics', u'Ancient Greek']	536
-where is the latin language from?	877	latin language --> human language language family --> [u'Indo-European languages', u'Italic languages']	48
-where is the latin language from?	877	latin language --> human language main country --> [u'Vatican City']	3
-where is the latin language from?	877	latin language --> human language dialects --> [u'Ecclesiastical Latin', u'Medieval Latin', u'Old Latin', u'New Latin']	146
-where is the latin language from?	877	latin language --> education degree --> [u'Bachelor of Arts']	5
-where is the latin language from?	877	latin language --> context name short name --> [u'Latin']	0
-where is the latin language from?	877	latin language --> object name --> [u'Latin Language']	0
-where is the latin language from?	877	latin language --> topic image --> [u'Duenos inscription', u'Alt text']	0
-where is the latin language from?	877	latin language --> human language countries spoken in --> [u'Republic of Genoa', u'Kingdom of Aragon', u'Duchy of Burgundy']	1
-where is the latin language from?	877	latin language --> book subject works --> [u'Ad Infinitum: A Biography of Latin']	0
-where is the latin language from?	877	quis custodiet ipsos custodes --> phrase original language --> [u'Latin Language']	0
-where is the latin language from?	877	quis custodiet ipsos custodes --> phrase translation --> [u'""Who will guard the guards themselves?""']	0
-where is the latin language from?	877	quis custodiet ipsos custodes --> object name --> [u'Quis custodiet ipsos custodes?']	0
-where is the latin language from?	877	language --> ontology instance mapping ontology --> [u'OpenCyc']	0
-where is the latin language from?	877	language --> webpage resource --> [u"Hello Kitty's going to be HUGE", u"Put words in Martha's mouth! (Fun!)", u'How \u201cBaby Einstein\u201d Methods Compare to the Real Einstein', u"'Lost''s new heartthrob: Daniel Dae Kim", u"Kevin Smith's 24-hour Twitter binge starts Monday"]	0
-where is the latin language from?	877	language --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVj0iZwpEbGdrcN5Y29ycA']	0
-where is the latin language from?	877	language --> subject philosophers --> [u'George Campbell', u'Jaroslav Peregrin', u'Martin Heidegger', u'Victoria, Lady Welby', u'Hans-Georg Gadamer']	0
-where is the latin language from?	877	language --> linguistic hint subject form --> [u'Languages']	0
-where is the latin language from?	877	language --> quotation subject quotations about this subject --> [u'Language is a process of free creation; its laws and principles are fixed, but the manner in which the principles of generation are used is free and infinitely varied. Even the interpretation and use of words involves a process of free creation.', u'We have really everything in common with America nowadays, except, of course, language.', u'It is a mass language only in the same sense that its baseball slang is born of baseball players. That is, it is a language which is being molded by writers to do delicate things and yet be within the grasp of superficially educated people. It is not a natural growth, much as its proletarian writers would like to think so. But compared with it at its best, English has reached the Alexandrian stage of formalism and decay.', u'The common faults of American language are an ambition of effect, a want of simplicity, and a turgid abuse of terms.', u'Language is a skin: I rub my language against the other. It is as if I had words instead of fingers, or fingers at the tip of my words. My language trembles with desire.']	0
-where is the latin language from?	877	language --> equivalent topic equivalent domain --> [u'Language']	0
-where is the latin language from?	877	language --> webpage category --> [u'Tag']	0
-where is the latin language from?	877	language --> object name --> [u'Language']	0
-where is the latin language from?	877	language --> topic image --> [u'images?q=tbn:ANd9GcRfQtHYajYSLYWV_3VvskXbCMvbVuPt3Z7q3pQKymgVlcEDAzWsFQ', u'Cuneiform tablet', u'Caslon-schriftmusterblatt', u'Brain Surface Gyri']	0
-where is the latin language from?	877	language --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-where is the latin language from?	877	language --> literary genre books in this genre --> [u'Word list of the Dutch language', u'The Mother Tongue: English and How It Got That Way']	0
-where is the latin language from?	877	language --> database topic database s for this topic --> [u'Moby Project']	0
-where is the latin language from?	877	language --> book subject works --> [u'Language and the Internet', u'The Nature of This Paradigm Dancing', u'Language in Danger', u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'The British Edda']	0
+where is the latin language from?	877	latin language --> languoid languoid class --> [u'Language']	0	EMPTY
+where is the latin language from?	877	latin language --> human language region --> [u'Europe']	26	A '''falchion''' (; [[Old French]]: ''fauchon''; [[Latin]]: ''falx'', "sickle") is a one-handed, [[backsword|single-edged]] [[sword]] of [[Europe]]an origin, whose design is reminiscent of the [[Military history of China (pre-1911)|Chinese]] ''[[dao (sword)|dadao]]'', and modern [[machete]].
+where is the latin language from?	877	latin language --> languoid document --> [u'Latin Genesis Translation', u'Latin Orthography', u'Latin Orthography']	0	EMPTY
+where is the latin language from?	877	latin language --> topic alias --> [u'Latina', u'Latin language']	0	EMPTY
+where is the latin language from?	877	latin language --> fictional language where spoken --> [u'Roman Empire']	101	In the [[Roman Empire]], a '''''mansio''''' (from the [[Latin]] word ''mansus'' the perfect passive [[participle]] of ''manere'' "to remain" or "to stay") was an official stopping place on a [[Roman road]], or ''via'', maintained by the central government for the use of officials and those on official business whilst travelling.
+where is the latin language from?	877	latin language --> field of study journals in this discipline --> [u'Probus']	0	EMPTY
+where is the latin language from?	877	latin language --> languoid parent --> [u'Latino-Faliscan Group']	0	EMPTY
+where is the latin language from?	877	latin language --> languoid local name --> [u'Latin']	0	EMPTY
+where is the latin language from?	877	latin language --> education institution --> [u'University of Adelaide', u'Columbia University', u'University of Cambridge', u'Ankara University']	7	She worked toward a doctorate in classical languages by garnering a fellowship in [[Latin]] at the University of Texas for the year 1914–1915 and taking summer courses for four years at the [[University of Chicago]] and two years at [[Columbia University]].
+where is the latin language from?	877	latin language --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where is the latin language from?	877	latin language --> genre albums --> [u'Mi Encuentro', u'Why Not?', u'Sangre Latina', u'Flores de alquiler', u'Amar Sin Mentiras']	0	EMPTY
+where is the latin language from?	877	latin language --> genre artists --> [u'Tito Rodriguez', u'Kye Palmer', u'Tim Scott', u'Joaqu\xedn Sabina', u'Amanda Miguel']	0	EMPTY
+where is the latin language from?	877	latin language --> education student --> [u'Kathryn Fiore', u'Don Dunstan', u'Can Y\xfccel']	0	EMPTY
+where is the latin language from?	877	latin language --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rwQBy-JwpEbGdrcN5Y29ycA']	0	EMPTY
+where is the latin language from?	877	latin language --> human language writing system --> [u'Latin alphabet', u'Anglo-Saxon runes']	4	This was borrowed into the early [[Latin]] language, which led to the use of the letter X for the same sound in Latin, and many modern languages that use the [[Latin alphabet]].
+where is the latin language from?	877	latin language --> education major field of study --> [u'History', u'Politics', u'Ancient Greek']	536	In the 1960s Rebula settled in Trieste, where he worked as a teacher of [[Latin]] and [[Ancient Greek]] at secondary schools with [[Slovene language|Slovene]] as the language of instruction.
+where is the latin language from?	877	latin language --> human language language family --> [u'Indo-European languages', u'Italic languages']	48	*'''470 [[Latin]] & [[Italic languages]]'''
+where is the latin language from?	877	latin language --> human language main country --> [u'Vatican City']	3	| [[Vatican City]] || || '''E Civitate Vaticana''' || || <blockquote>[[Latin]]</blockquote>
+where is the latin language from?	877	latin language --> human language dialects --> [u'Ecclesiastical Latin', u'Medieval Latin', u'Old Latin', u'New Latin']	146	The genus name ''Passer'' is the [[Latin]] for sparrow, and ''hispaniolensis'' is  [[New Latin]] for "Spanish".
+where is the latin language from?	877	latin language --> education degree --> [u'Bachelor of Arts']	5	The curriculum included [[Greek language|Greek]], [[Latin]], [[Algebra]], [[Geography]], and [[Roman history]]; the University offered only a [[Bachelor of Arts]].
+where is the latin language from?	877	latin language --> context name short name --> [u'Latin']	0	EMPTY
+where is the latin language from?	877	latin language --> object name --> [u'Latin Language']	0	EMPTY
+where is the latin language from?	877	latin language --> topic image --> [u'Duenos inscription', u'Alt text']	0	EMPTY
+where is the latin language from?	877	latin language --> human language countries spoken in --> [u'Republic of Genoa', u'Kingdom of Aragon', u'Duchy of Burgundy']	1	'''Philippe de Commines''' (or '''de Commynes''' or "Philippe de Comines"; [[Latin]]: ''Philippus Cominaeus''; 1447 &ndash; 18 October 1511) was a writer and diplomat in the courts of [[Duchy of Burgundy|Burgundy]] and France.
+where is the latin language from?	877	latin language --> book subject works --> [u'Ad Infinitum: A Biography of Latin']	0	EMPTY
+where is the latin language from?	877	quis custodiet ipsos custodes --> phrase original language --> [u'Latin Language']	0	EMPTY
+where is the latin language from?	877	quis custodiet ipsos custodes --> phrase translation --> [u'""Who will guard the guards themselves?""']	0	EMPTY
+where is the latin language from?	877	quis custodiet ipsos custodes --> object name --> [u'Quis custodiet ipsos custodes?']	0	EMPTY
+where is the latin language from?	877	language --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+where is the latin language from?	877	language --> webpage resource --> [u"Hello Kitty's going to be HUGE", u"Put words in Martha's mouth! (Fun!)", u'How \u201cBaby Einstein\u201d Methods Compare to the Real Einstein', u"'Lost''s new heartthrob: Daniel Dae Kim", u"Kevin Smith's 24-hour Twitter binge starts Monday"]	0	EMPTY
+where is the latin language from?	877	language --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVj0iZwpEbGdrcN5Y29ycA']	0	EMPTY
+where is the latin language from?	877	language --> subject philosophers --> [u'George Campbell', u'Jaroslav Peregrin', u'Martin Heidegger', u'Victoria, Lady Welby', u'Hans-Georg Gadamer']	0	EMPTY
+where is the latin language from?	877	language --> linguistic hint subject form --> [u'Languages']	0	EMPTY
+where is the latin language from?	877	language --> quotation subject quotations about this subject --> [u'Language is a process of free creation; its laws and principles are fixed, but the manner in which the principles of generation are used is free and infinitely varied. Even the interpretation and use of words involves a process of free creation.', u'We have really everything in common with America nowadays, except, of course, language.', u'It is a mass language only in the same sense that its baseball slang is born of baseball players. That is, it is a language which is being molded by writers to do delicate things and yet be within the grasp of superficially educated people. It is not a natural growth, much as its proletarian writers would like to think so. But compared with it at its best, English has reached the Alexandrian stage of formalism and decay.', u'The common faults of American language are an ambition of effect, a want of simplicity, and a turgid abuse of terms.', u'Language is a skin: I rub my language against the other. It is as if I had words instead of fingers, or fingers at the tip of my words. My language trembles with desire.']	0	EMPTY
+where is the latin language from?	877	language --> equivalent topic equivalent domain --> [u'Language']	0	EMPTY
+where is the latin language from?	877	language --> webpage category --> [u'Tag']	0	EMPTY
+where is the latin language from?	877	language --> object name --> [u'Language']	0	EMPTY
+where is the latin language from?	877	language --> topic image --> [u'images?q=tbn:ANd9GcRfQtHYajYSLYWV_3VvskXbCMvbVuPt3Z7q3pQKymgVlcEDAzWsFQ', u'Cuneiform tablet', u'Caslon-schriftmusterblatt', u'Brain Surface Gyri']	0	EMPTY
+where is the latin language from?	877	language --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+where is the latin language from?	877	language --> literary genre books in this genre --> [u'Word list of the Dutch language', u'The Mother Tongue: English and How It Got That Way']	0	EMPTY
+where is the latin language from?	877	language --> database topic database s for this topic --> [u'Moby Project']	0	EMPTY
+where is the latin language from?	877	language --> book subject works --> [u'Language and the Internet', u'The Nature of This Paradigm Dancing', u'Language in Danger', u'Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs', u'The British Edda']	0	EMPTY

@@ -1,138 +1,138 @@
-what university did romney graduated from?	911	porter-gaud school --> dated money value valid date --> [u'2004']	0
-what university did romney graduated from?	911	porter-gaud school --> non profit registration date registered --> [u'2006-04']	0
-what university did romney graduated from?	911	porter-gaud school --> educational institution campuses --> [u'Porter-Gaud School']	32
-what university did romney graduated from?	911	porter-gaud school --> dated money value currency --> [u'United States dollar']	0
-what university did romney graduated from?	911	porter-gaud school --> geocode longitude --> [u'-79.96417']	0
-what university did romney graduated from?	911	porter-gaud school --> mailing address country --> [u'United States of America']	0
-what university did romney graduated from?	911	porter-gaud school --> mailing address citytown --> [u'Charleston']	8
-what university did romney graduated from?	911	porter-gaud school --> non profit registration registered as --> [u'501(c)(3)']	0
-what university did romney graduated from?	911	porter-gaud school --> organization date founded --> [u'1867']	0
-what university did romney graduated from?	911	porter-gaud school --> mailing address postal code --> [u'29407']	0
-what university did romney graduated from?	911	porter-gaud school --> location containedby --> [u'Charleston']	8
-what university did romney graduated from?	911	porter-gaud school --> educational institution campus educational institution --> [u'Porter-Gaud School']	32
-what university did romney graduated from?	911	porter-gaud school --> dated money value currency --> [u'United States dollar']	0
-what university did romney graduated from?	911	porter-gaud school --> education student --> [u'Stephen Colbert', u'Khris Middleton', u'Archibald Rutledge', u'Charles Pelot Summerall', u'Ovie Mughelli']	1
-what university did romney graduated from?	911	porter-gaud school --> non profit extra classification --> [u'Elementary, Secondary Ed']	0
-what university did romney graduated from?	911	porter-gaud school --> mailing address state province region --> [u'South Carolina']	0
-what university did romney graduated from?	911	porter-gaud school --> topic alias --> [u'Porter-Gaud School, main campus']	0
-what university did romney graduated from?	911	porter-gaud school --> dated money value amount --> [u'13868274']	0
-what university did romney graduated from?	911	porter-gaud school --> dated money value amount --> [u'17960589']	0
-what university did romney graduated from?	911	porter-gaud school --> non profit registration registering agency --> [u'Internal Revenue Service']	0
-what university did romney graduated from?	911	porter-gaud school --> geocode latitude --> [u'32.77417']	0
-what university did romney graduated from?	911	porter-gaud school --> dated money value valid date --> [u'2004']	0
-what university did romney graduated from?	911	porter-gaud school --> mailing address street address --> [u'300 Albemarle Road', u'300 Albemarle Rd']	0
-what university did romney graduated from?	911	porter-gaud school --> object name --> [u'Porter-Gaud School']	0
-what university did romney graduated from?	911	porter-gaud school --> topic image --> [u'The crest of Porter-Gaud School', u'PGnewLOGO']	0
-what university did romney graduated from?	911	porter-gaud school --> dated money value amount --> [u'27823050']	0
-what university did romney graduated from?	911	porter-gaud school --> dated money value currency --> [u'United States dollar']	0
-what university did romney graduated from?	911	porter-gaud school --> dated money value valid date --> [u'2004']	0
-what university did romney graduated from?	911	university --> ontology instance mapping ontology --> [u'OpenCyc']	0
-what university did romney graduated from?	911	university --> webpage resource --> [u'Alec Baldwin donates $1 million to alma mater Tisch', u'James Franco: UCLA students protest their graduation speaker', u'Twitter 101: DePaul University\u2019s Social Media Prof Gives His Syllabus', u"'Greek' recap: Parental invasion", u'Liam Neeson talks about grieving for Natasha Richardson']	0
-what university did romney graduated from?	911	university --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA']	0
-what university did romney graduated from?	911	university --> ontology class mapping uri --> [u'http://swrc.ontoware.org/ontology#University']	0
-what university did romney graduated from?	911	university --> school category schools of this kind --> [u'Divine Word University of Tacloban', u'Austin Graduate School of Theology', u'Tel Aviv University', u'University of British Columbia', u'University of Melbourne']	1
-what university did romney graduated from?	911	university --> ontology class mapping ontology --> [u'SWRC']	0
-what university did romney graduated from?	911	university --> type of fictional setting settings --> [u'Spagonia University']	0
-what university did romney graduated from?	911	university --> organization type organizations of this type --> [u'University of North Carolina at Charlotte', u'University of California, Berkeley', u'University of Oxford', u'Singapore Management University School of Social Sciences', u'University of the Highlands and Islands']	3
-what university did romney graduated from?	911	university --> building function buildings --> [u'DeLand Hall', u'Gates Computer Science Building, Stanford']	0
-what university did romney graduated from?	911	university --> object name --> [u'University']	0
-what university did romney graduated from?	911	university --> topic image --> [u'Oxfordceremony']	0
-what university did romney graduated from?	911	university --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-what university did romney graduated from?	911	university --> company type companies of this type --> [u'Edge Hill University', u'the Pythagorean Order of Death']	0
-what university did romney graduated from?	911	university --> organization sector organizations in this sector --> [u'Rajalakshmi Engineering College', u'Rajalakshmi Engineering College', u"Ontario Universities' Application Centre"]	0
-what university did romney graduated from?	911	university --> tv subject tv episodes --> [u'E.L. Warren Ministries']	0
-what university did romney graduated from?	911	university --> equivalent topic equivalent type --> [u'College/University']	0
-what university did romney graduated from?	911	university --> book subject works --> [u'Das kleine Lexikon der Hochschulbegriffe: Akademische Fachbegriffe aus Tradition und Gegenwart', u'Leadership agenda 2012', u'Beet: A Novel', u'The Order of Learning: Essays on the Contemporary University', u'Moving up the value chain: Unconventional tips for info pros']	0
-what university did romney graduated from?	911	romney --> travel destination tourist attractions --> [u'Taggart Hall']	0
-what university did romney graduated from?	911	romney --> dated float number --> [u'0.046']	0
-what university did romney graduated from?	911	romney --> topic alias --> [u'Hampshire County / Romney city', u'Romney, West Virginia']	0
-what university did romney graduated from?	911	romney --> dated float date --> [u'2008']	0
-what university did romney graduated from?	911	romney --> location area --> [u'2.3309892993']	0
-what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what university did romney graduated from?	911	romney --> dated float number --> [u'-0.1204']	0
-what university did romney graduated from?	911	romney --> location people born here --> [u'Stephen Ailes', u'John Rinehart Blue', u'Ann Pancake', u'Lee Hawse Patteson', u'Edna Brady Cornwell']	0
-what university did romney graduated from?	911	romney --> geocode latitude --> [u'39.3419']	0
-what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0
-what university did romney graduated from?	911	romney --> citytown postal codes --> [u'26757']	0
-what university did romney graduated from?	911	romney --> object name --> [u'Romney']	0
-what university did romney graduated from?	911	romney --> dated float date --> [u'2008']	0
-what university did romney graduated from?	911	romney --> location containedby --> [u'West Virginia', u'Hampshire County']	40
-what university did romney graduated from?	911	romney --> location time zones --> [u'Eastern Time Zone']	0
-what university did romney graduated from?	911	romney --> dated integer number --> [u'26']	0
-what university did romney graduated from?	911	romney --> hud county place place --> [u'Romney']	161
-what university did romney graduated from?	911	romney --> location contains --> [u'Hampshire County Courthouse', u'Literary Hall', u'Wilson-Wodrow-Mytinger House', u'Old Methodist District Parsonage']	3
-what university did romney graduated from?	911	romney --> dated integer number --> [u'833']	0
-what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Census Bureau, Population']	0
-what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0
-what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0
-what university did romney graduated from?	911	romney --> geocode longitude --> [u'-78.7569']	0
-what university did romney graduated from?	911	romney --> dated integer number --> [u'1837', u'1848', u'1907', u'1913', u'1932']	0
-what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0
-what university did romney graduated from?	911	romney --> hud county place county --> [u'Hampshire County']	7
-what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what university did romney graduated from?	911	romney --> dated integer number --> [u'478']	0
-what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0
-what university did romney graduated from?	911	romney --> dated integer number --> [u'42']	0
-what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0
-what university did romney graduated from?	911	romney --> topic image --> [u'Skyline of City of Romney, West Virginia']	0
-what university did romney graduated from?	911	romney --> dated integer number --> [u'1091']	0
-what university did romney graduated from?	911	romney --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0
-what university did romney graduated from?	911	romney --> geocode datum --> [u'NAD83']	0
-what university did romney graduated from?	911	mitt romney --> dated money value currency --> [u'United States dollar']	0
-what university did romney graduated from?	911	mitt romney --> person date of birth --> [u'1947-03-12']	0
-what university did romney graduated from?	911	mitt romney --> tv guest role episodes appeared in --> [u'Mitt Romney', u'Mitt Romney, Ryan Sheckler, Jonas Brothers', u'December 27, 2007', u'January 07, 2008', u'The Comeback of President Bush']	0
-what university did romney graduated from?	911	mitt romney --> topic social media presence --> [u'http://plus.google.com/113664776160150493710']	0
-what university did romney graduated from?	911	mitt romney --> employment tenure title --> [u'Internship']	0
-what university did romney graduated from?	911	mitt romney --> person profession --> [u'Businessperson', u'Politician']	1
-what university did romney graduated from?	911	mitt romney --> topic alias --> [u'Willard Mitt Romney']	0
-what university did romney graduated from?	911	mitt romney --> marriage from --> [u'1969-03-21']	0
-what university did romney graduated from?	911	mitt romney --> government position held basic title --> [u'Governor']	4
-what university did romney graduated from?	911	mitt romney --> person gender --> [u'Male']	0
-what university did romney graduated from?	911	mitt romney --> education start date --> [u'1965']	0
-what university did romney graduated from?	911	mitt romney --> author works written --> [u'Turnaround: Crisis, Leadership, and the Olympic Games', u'No Apology: The Case for American Greatness']	0
-what university did romney graduated from?	911	mitt romney --> webpage category --> [u'Tag']	0
-what university did romney graduated from?	911	mitt romney --> employment tenure from --> [u'1974']	0
-what university did romney graduated from?	911	mitt romney --> person nationality --> [u'United States of America']	3
-what university did romney graduated from?	911	mitt romney --> daylife hero image id --> [u'01tJ3QJ8KH4uq']	0
-what university did romney graduated from?	911	mitt romney --> employment tenure company --> [u'Boston Consulting Group']	0
-what university did romney graduated from?	911	mitt romney --> dated money value amount --> [u'250000000']	0
-what university did romney graduated from?	911	mitt romney --> education end date --> [u'1965', u'1966', u'1971', u'1975']	0
-what university did romney graduated from?	911	mitt romney --> context name nickname --> [u'Mitt']	0
-what university did romney graduated from?	911	mitt romney --> organization founder organizations founded --> [u'Bain Capital']	17
-what university did romney graduated from?	911	mitt romney --> presidential nominee nominated at --> [u'2012 Republican National Convention']	6
-what university did romney graduated from?	911	mitt romney --> personal film appearance type of appearance --> [u'Him/Herself', u'Archive Footage']	0
-what university did romney graduated from?	911	mitt romney --> government position held jurisdiction of office --> [u'Massachusetts']	63
-what university did romney graduated from?	911	mitt romney --> government position held office position or title --> [u'Governor of Massachusetts']	107
-what university did romney graduated from?	911	mitt romney --> political party tenure party --> [u'Republican Party']	123
-what university did romney graduated from?	911	mitt romney --> person religion --> [u'The Church of Jesus Christ of Latter-day Saints']	4
-what university did romney graduated from?	911	mitt romney --> public insult perpetrator --> [u'Ben Affleck']	0
-what university did romney graduated from?	911	mitt romney --> marriage spouse --> [u'Ann Romney']	13
-what university did romney graduated from?	911	mitt romney --> webpage resource --> [u"President Obama loves Beyonce, 'SNL'", u'Site of the Day: Choosing a President']	0
-what university did romney graduated from?	911	mitt romney --> government position held from --> [u'2003-01-02']	0
-what university did romney graduated from?	911	mitt romney --> election poll score score --> [u'37', u'38', u'39', u'40', u'40.7']	0
-what university did romney graduated from?	911	mitt romney --> person place of birth --> [u'Detroit']	1
-what university did romney graduated from?	911	mitt romney --> education institution --> [u'Harvard University', u'Stanford University', u'Brigham Young University', u'Harvard Business School', u'Harvard Law School']	4
-what university did romney graduated from?	911	mitt romney --> person children --> [u'Tagg Romney', u'Josh Romney', u'Craig Romney', u'Matt Romney', u'Ben Romney']	1
-what university did romney graduated from?	911	mitt romney --> context name official name --> [u'Willard Mitt Romney']	0
-what university did romney graduated from?	911	mitt romney --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-what university did romney graduated from?	911	mitt romney --> politician election campaigns --> [u'Mitt Romney presidential campaign, 2008', u'Mitt Romney presidential campaign, 2012']	30
-what university did romney graduated from?	911	mitt romney --> topic official website --> [u'http://www.mittromney.com']	0
-what university did romney graduated from?	911	mitt romney --> education degree --> [u'Juris Doctor', u'Bachelor of Arts', u'MBA']	0
-what university did romney graduated from?	911	mitt romney --> person parents --> [u'George W. Romney', u'Lenore Romney']	20
-what university did romney graduated from?	911	mitt romney --> government position held to --> [u'2007-01-04']	0
-what university did romney graduated from?	911	mitt romney --> dated money value source --> [u'celebritynetworth.com']	0
-what university did romney graduated from?	911	mitt romney --> politician political party --> [u'Republican Party']	123
-what university did romney graduated from?	911	mitt romney --> place lived location --> [u'Massachusetts', u'Bloomfield Hills']	63
-what university did romney graduated from?	911	mitt romney --> marriage type of union --> [u'Marriage']	0
-what university did romney graduated from?	911	mitt romney --> sibling relationship sibling --> [u'G. Scott Romney']	2
-what university did romney graduated from?	911	mitt romney --> candidate presidential campaigns --> [u'Mitt Romney presidential campaign, 2008', u'Mitt Romney presidential campaign, 2012']	30
-what university did romney graduated from?	911	mitt romney --> context name short name --> [u'Romney']	0
-what university did romney graduated from?	911	mitt romney --> object name --> [u'Mitt Romney']	0
-what university did romney graduated from?	911	mitt romney --> topic image --> [u'Laptopgov', u'Mitt Romney', u'Mitt Romney']	0
-what university did romney graduated from?	911	mitt romney --> book subject works --> [u'Tricks and Treats of the 2012 Presidential Debates']	0
-what university did romney graduated from?	911	mitt romney --> dated money value valid date --> [u'2012']	0
-what university did romney graduated from?	911	mitt romney --> person height meters --> [u'1.8796']	0
-what university did romney graduated from?	911	mitt romney --> personal film appearance film --> [u'8: The Mormon Proposition', u'Park Avenue: Money, Power and the American Dream', u'The Religious Test']	0
-what university did romney graduated from?	911	mitt romney --> election poll score poll --> [u'Rasmussen, 2012 presidential election, 2012-07-08', u'Gallup, 2012 presidential election, 2012-05-06', u'Rasmussen, 2012 presidential election, 2012-05-25', u'Rasmussen, 2012 presidential election, 2012-03-03', u'Rasmussen, 2012 presidential election, 2012-05-28']	0
+what university did romney graduated from?	911	porter-gaud school --> dated money value valid date --> [u'2004']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> non profit registration date registered --> [u'2006-04']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> educational institution campuses --> [u'Porter-Gaud School']	32	#REDIRECT [[Porter-Gaud School]]
+what university did romney graduated from?	911	porter-gaud school --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> geocode longitude --> [u'-79.96417']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> mailing address country --> [u'United States of America']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> mailing address citytown --> [u'Charleston']	8	Seiler graduated in 1950 from the Porter Military Academy, now the [[Porter-Gaud School]], in [[Charleston, South Carolina]].
+what university did romney graduated from?	911	porter-gaud school --> non profit registration registered as --> [u'501(c)(3)']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> organization date founded --> [u'1867']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> mailing address postal code --> [u'29407']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> location containedby --> [u'Charleston']	8	Seiler graduated in 1950 from the Porter Military Academy, now the [[Porter-Gaud School]], in [[Charleston, South Carolina]].
+what university did romney graduated from?	911	porter-gaud school --> educational institution campus educational institution --> [u'Porter-Gaud School']	32	#REDIRECT [[Porter-Gaud School]]
+what university did romney graduated from?	911	porter-gaud school --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> education student --> [u'Stephen Colbert', u'Khris Middleton', u'Archibald Rutledge', u'Charles Pelot Summerall', u'Ovie Mughelli']	1	[[Stephen Colbert]] host of [[The Late Show with Stephen Colbert]] on [[CBS]] is also a graduate of [[Porter-Gaud School]] located in West Ashley.
+what university did romney graduated from?	911	porter-gaud school --> non profit extra classification --> [u'Elementary, Secondary Ed']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> mailing address state province region --> [u'South Carolina']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> topic alias --> [u'Porter-Gaud School, main campus']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> dated money value amount --> [u'13868274']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> dated money value amount --> [u'17960589']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> non profit registration registering agency --> [u'Internal Revenue Service']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> geocode latitude --> [u'32.77417']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> dated money value valid date --> [u'2004']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> mailing address street address --> [u'300 Albemarle Road', u'300 Albemarle Rd']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> object name --> [u'Porter-Gaud School']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> topic image --> [u'The crest of Porter-Gaud School', u'PGnewLOGO']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> dated money value amount --> [u'27823050']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what university did romney graduated from?	911	porter-gaud school --> dated money value valid date --> [u'2004']	0	EMPTY
+what university did romney graduated from?	911	university --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+what university did romney graduated from?	911	university --> webpage resource --> [u'Alec Baldwin donates $1 million to alma mater Tisch', u'James Franco: UCLA students protest their graduation speaker', u'Twitter 101: DePaul University\u2019s Social Media Prof Gives His Syllabus', u"'Greek' recap: Parental invasion", u'Liam Neeson talks about grieving for Natasha Richardson']	0	EMPTY
+what university did romney graduated from?	911	university --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA']	0	EMPTY
+what university did romney graduated from?	911	university --> ontology class mapping uri --> [u'http://swrc.ontoware.org/ontology#University']	0	EMPTY
+what university did romney graduated from?	911	university --> school category schools of this kind --> [u'Divine Word University of Tacloban', u'Austin Graduate School of Theology', u'Tel Aviv University', u'University of British Columbia', u'University of Melbourne']	1	He was [[Rector (ecclesiastical)|Rector]] of St Alban’s, [[Richmond, British Columbia|Richmond]] and [[University]] [[Chaplain]] at [[University of British Columbia|UBC]] until 2004 when he became the [[Anglican Diocese of Saskatoon|Bishop of Saskatoon]].
+what university did romney graduated from?	911	university --> ontology class mapping ontology --> [u'SWRC']	0	EMPTY
+what university did romney graduated from?	911	university --> type of fictional setting settings --> [u'Spagonia University']	0	EMPTY
+what university did romney graduated from?	911	university --> organization type organizations of this type --> [u'University of North Carolina at Charlotte', u'University of California, Berkeley', u'University of Oxford', u'Singapore Management University School of Social Sciences', u'University of the Highlands and Islands']	3	'''[[University]] [[Sport rowing|rowing]]''' in the [[United Kingdom]] began when it was introduced to [[University of Oxford|Oxford]] in the late 18th century.
+what university did romney graduated from?	911	university --> building function buildings --> [u'DeLand Hall', u'Gates Computer Science Building, Stanford']	0	EMPTY
+what university did romney graduated from?	911	university --> object name --> [u'University']	0	EMPTY
+what university did romney graduated from?	911	university --> topic image --> [u'Oxfordceremony']	0	EMPTY
+what university did romney graduated from?	911	university --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+what university did romney graduated from?	911	university --> company type companies of this type --> [u'Edge Hill University', u'the Pythagorean Order of Death']	0	EMPTY
+what university did romney graduated from?	911	university --> organization sector organizations in this sector --> [u'Rajalakshmi Engineering College', u'Rajalakshmi Engineering College', u"Ontario Universities' Application Centre"]	0	EMPTY
+what university did romney graduated from?	911	university --> tv subject tv episodes --> [u'E.L. Warren Ministries']	0	EMPTY
+what university did romney graduated from?	911	university --> equivalent topic equivalent type --> [u'College/University']	0	EMPTY
+what university did romney graduated from?	911	university --> book subject works --> [u'Das kleine Lexikon der Hochschulbegriffe: Akademische Fachbegriffe aus Tradition und Gegenwart', u'Leadership agenda 2012', u'Beet: A Novel', u'The Order of Learning: Essays on the Contemporary University', u'Moving up the value chain: Unconventional tips for info pros']	0	EMPTY
+what university did romney graduated from?	911	romney --> travel destination tourist attractions --> [u'Taggart Hall']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated float number --> [u'0.046']	0	EMPTY
+what university did romney graduated from?	911	romney --> topic alias --> [u'Hampshire County / Romney city', u'Romney, West Virginia']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated float date --> [u'2008']	0	EMPTY
+what university did romney graduated from?	911	romney --> location area --> [u'2.3309892993']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated float number --> [u'-0.1204']	0	EMPTY
+what university did romney graduated from?	911	romney --> location people born here --> [u'Stephen Ailes', u'John Rinehart Blue', u'Ann Pancake', u'Lee Hawse Patteson', u'Edna Brady Cornwell']	0	EMPTY
+what university did romney graduated from?	911	romney --> geocode latitude --> [u'39.3419']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0	EMPTY
+what university did romney graduated from?	911	romney --> citytown postal codes --> [u'26757']	0	EMPTY
+what university did romney graduated from?	911	romney --> object name --> [u'Romney']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated float date --> [u'2008']	0	EMPTY
+what university did romney graduated from?	911	romney --> location containedby --> [u'West Virginia', u'Hampshire County']	40	|death_place=[[Romney, West Virginia|Romney]], [[West Virginia]], United States
+what university did romney graduated from?	911	romney --> location time zones --> [u'Eastern Time Zone']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer number --> [u'26']	0	EMPTY
+what university did romney graduated from?	911	romney --> hud county place place --> [u'Romney']	161	'''Location:''' [[Romney, West Virginia|Romney]], [[U.S. Route 50]], [[West Virginia Schools for the Deaf and Blind]] campus
+what university did romney graduated from?	911	romney --> location contains --> [u'Hampshire County Courthouse', u'Literary Hall', u'Wilson-Wodrow-Mytinger House', u'Old Methodist District Parsonage']	3	[[File:Old Hampshire County Courthouse Romney WV.jpg|thumb|right|250px|[[Hampshire County Courthouse (West Virginia)|Hampshire County Courthouse]] in [[Romney, West Virginia|Romney]]]]
+what university did romney graduated from?	911	romney --> dated integer number --> [u'833']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Census Bureau, Population']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0	EMPTY
+what university did romney graduated from?	911	romney --> geocode longitude --> [u'-78.7569']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer number --> [u'1837', u'1848', u'1907', u'1913', u'1932']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0	EMPTY
+what university did romney graduated from?	911	romney --> hud county place county --> [u'Hampshire County']	7	Big Run flows through the city of [[Romney, West Virginia|Romney]] and the campus of the [[West Virginia Schools for the Deaf and Blind]] in [[Hampshire County, West Virginia|Hampshire County]], [[West Virginia]].
+what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer number --> [u'478']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer year --> [u'2008']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer number --> [u'42']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer source --> [u'United States Department of Housing and Urban Development']	0	EMPTY
+what university did romney graduated from?	911	romney --> topic image --> [u'Skyline of City of Romney, West Virginia']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer number --> [u'1091']	0	EMPTY
+what university did romney graduated from?	911	romney --> dated integer year --> [u'1990', u'1991', u'1992', u'1993', u'1994']	0	EMPTY
+what university did romney graduated from?	911	romney --> geocode datum --> [u'NAD83']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> dated money value currency --> [u'United States dollar']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> person date of birth --> [u'1947-03-12']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> tv guest role episodes appeared in --> [u'Mitt Romney', u'Mitt Romney, Ryan Sheckler, Jonas Brothers', u'December 27, 2007', u'January 07, 2008', u'The Comeback of President Bush']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> topic social media presence --> [u'http://plus.google.com/113664776160150493710']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> employment tenure title --> [u'Internship']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> person profession --> [u'Businessperson', u'Politician']	1	'''[[Mitt Romney|Willard Mitt Romney]]''' (born March 12, 1947) is an [[United States|American]] businessman and [[Republican Party (United States)|Republican]] [[Politician|political figure]] who was the [[List of Governors of Massachusetts|70th]] [[Governor of Massachusetts]] (2003 to 2007).
+what university did romney graduated from?	911	mitt romney --> topic alias --> [u'Willard Mitt Romney']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> marriage from --> [u'1969-03-21']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> government position held basic title --> [u'Governor']	4	* [[Mitt Romney]], former [[Governor]] of [[Massachusetts]]
+what university did romney graduated from?	911	mitt romney --> person gender --> [u'Male']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> education start date --> [u'1965']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> author works written --> [u'Turnaround: Crisis, Leadership, and the Olympic Games', u'No Apology: The Case for American Greatness']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> webpage category --> [u'Tag']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> employment tenure from --> [u'1974']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> person nationality --> [u'United States of America']	3	'''[[Mitt Romney|Willard Mitt Romney]]''' (born March 12, 1947) is an [[United States|American]] businessman and [[Republican Party (United States)|Republican]] [[Politician|political figure]] who was the [[List of Governors of Massachusetts|70th]] [[Governor of Massachusetts]] (2003 to 2007).
+what university did romney graduated from?	911	mitt romney --> daylife hero image id --> [u'01tJ3QJ8KH4uq']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> employment tenure company --> [u'Boston Consulting Group']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> dated money value amount --> [u'250000000']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> education end date --> [u'1965', u'1966', u'1971', u'1975']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> context name nickname --> [u'Mitt']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> organization founder organizations founded --> [u'Bain Capital']	17	In response to the scandal and a financial shortfall for the games, [[Mitt Romney]], then CEO of the private equity firm [[Bain Capital]] (and future [[United States presidential election, 2012|presidential candidate]]), was [[Mitt Romney#2002 Winter Olympics|hired]] as the new President and CEO of the Salt Lake Organizing Committee, leaving him and [[IOC President]] [[Dr. Jacques Rogge]] to contend with the public outcry and financial mess.
+what university did romney graduated from?	911	mitt romney --> presidential nominee nominated at --> [u'2012 Republican National Convention']	6	* The song was covered by the [[G. E. Smith]] band as the finale of the [[2012 Republican National Convention]], directly following nominee [[Mitt Romney]]'s speech.
+what university did romney graduated from?	911	mitt romney --> personal film appearance type of appearance --> [u'Him/Herself', u'Archive Footage']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> government position held jurisdiction of office --> [u'Massachusetts']	63	*[[Mitt Romney]], former Governor of [[Massachusetts]] and nominee for President of the United States.
+what university did romney graduated from?	911	mitt romney --> government position held office position or title --> [u'Governor of Massachusetts']	107	* [[Mitt Romney]]: former [[Governor of Massachusetts]] & 2012 GOP nominee 
+what university did romney graduated from?	911	mitt romney --> political party tenure party --> [u'Republican Party']	123	[[Mitt Romney]], the Massachusetts governor (2003–07) and the 2012 [[Republican Party (United States)|Republican]] nominee for the [[President of the United States|U.S.
+what university did romney graduated from?	911	mitt romney --> person religion --> [u'The Church of Jesus Christ of Latter-day Saints']	4	He is best known for his 2011 unauthorized biography of [[Mitt Romney]], which is written from the point of view of a highly critical but fellow member of the [[The Church of Jesus Christ of Latter-day Saints]] (LDS Church), and 2012 novel ''Closing Circles: Caught in the Everlasting Mormon Moment''.
+what university did romney graduated from?	911	mitt romney --> public insult perpetrator --> [u'Ben Affleck']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> marriage spouse --> [u'Ann Romney']	13	At BYU, he served as Student Body Vice President, was a basketball player, and dated [[Ann Romney|Ann Davies]] (who later married [[Mitt Romney]]).
+what university did romney graduated from?	911	mitt romney --> webpage resource --> [u"President Obama loves Beyonce, 'SNL'", u'Site of the Day: Choosing a President']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> government position held from --> [u'2003-01-02']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> election poll score score --> [u'37', u'38', u'39', u'40', u'40.7']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> person place of birth --> [u'Detroit']	1	Raised in [[Michigan]], Fisher attended Kingswood School (today's [[Cranbrook Kingswood School]]) in [[Bloomfield Hills]] (where she had briefly dated politician [[Mitt Romney]]), and attended college at the [[University of Michigan]] for a year before taking a volunteer position at [[American Broadcasting Company|ABC television]] in [[Detroit]], Michigan, which she left when afforded an opportunity to join the staff of [[Gerald R. Ford]], then [[President of the United States]], as the first female "advance man".
+what university did romney graduated from?	911	mitt romney --> education institution --> [u'Harvard University', u'Stanford University', u'Brigham Young University', u'Harvard Business School', u'Harvard Law School']	4	* [[Mitt Romney]]: [[Stanford University]] to [[Brigham Young University]]
+what university did romney graduated from?	911	mitt romney --> person children --> [u'Tagg Romney', u'Josh Romney', u'Craig Romney', u'Matt Romney', u'Ben Romney']	1	| relatives = [[Mitt Romney]]  <br> [[Tagg Romney]] 
+what university did romney graduated from?	911	mitt romney --> context name official name --> [u'Willard Mitt Romney']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> politician election campaigns --> [u'Mitt Romney presidential campaign, 2008', u'Mitt Romney presidential campaign, 2012']	30	", a viral video satire of [[Mitt Romney]], [[United States presidential election, 2012|2012]]'s [[Republican Party (United States)|Republican]] candidate for [[President of the United States]], his [[Mitt Romney presidential campaign, 2012|campaign]], persona, [[Public image of Mitt Romney#Religion|religious beliefs]], gaffes, controversies and public-relations (PR) problems.
+what university did romney graduated from?	911	mitt romney --> topic official website --> [u'http://www.mittromney.com']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> education degree --> [u'Juris Doctor', u'Bachelor of Arts', u'MBA']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> person parents --> [u'George W. Romney', u'Lenore Romney']	20	Union called on Republican presidential candidate [[Mitt Romney]] to release his tax returns and birth certificate, noting his father [[George W. Romney]] had released his own tax returns while a presidential candidate.
+what university did romney graduated from?	911	mitt romney --> government position held to --> [u'2007-01-04']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> dated money value source --> [u'celebritynetworth.com']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> politician political party --> [u'Republican Party']	123	[[Mitt Romney]], the Massachusetts governor (2003–07) and the 2012 [[Republican Party (United States)|Republican]] nominee for the [[President of the United States|U.S.
+what university did romney graduated from?	911	mitt romney --> place lived location --> [u'Massachusetts', u'Bloomfield Hills']	63	*[[Mitt Romney]], former Governor of [[Massachusetts]] and nominee for President of the United States.
+what university did romney graduated from?	911	mitt romney --> marriage type of union --> [u'Marriage']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> sibling relationship sibling --> [u'G. Scott Romney']	2	Rakolta's sister, [[Ronna Romney]], is a [[Republican Party (United States)|Republican]] political activist and [[radio talk show]] host, who was formerly married to [[G. Scott Romney]], the son of former [[Michigan]] governor [[George W. Romney|George Romney]] and brother of former [[Massachusetts]] governor [[Mitt Romney]].
+what university did romney graduated from?	911	mitt romney --> candidate presidential campaigns --> [u'Mitt Romney presidential campaign, 2008', u'Mitt Romney presidential campaign, 2012']	30	", a viral video satire of [[Mitt Romney]], [[United States presidential election, 2012|2012]]'s [[Republican Party (United States)|Republican]] candidate for [[President of the United States]], his [[Mitt Romney presidential campaign, 2012|campaign]], persona, [[Public image of Mitt Romney#Religion|religious beliefs]], gaffes, controversies and public-relations (PR) problems.
+what university did romney graduated from?	911	mitt romney --> context name short name --> [u'Romney']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> object name --> [u'Mitt Romney']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> topic image --> [u'Laptopgov', u'Mitt Romney', u'Mitt Romney']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> book subject works --> [u'Tricks and Treats of the 2012 Presidential Debates']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> dated money value valid date --> [u'2012']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> person height meters --> [u'1.8796']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> personal film appearance film --> [u'8: The Mormon Proposition', u'Park Avenue: Money, Power and the American Dream', u'The Religious Test']	0	EMPTY
+what university did romney graduated from?	911	mitt romney --> election poll score poll --> [u'Rasmussen, 2012 presidential election, 2012-07-08', u'Gallup, 2012 presidential election, 2012-05-06', u'Rasmussen, 2012 presidential election, 2012-05-25', u'Rasmussen, 2012 presidential election, 2012-03-03', u'Rasmussen, 2012 presidential election, 2012-05-28']	0	EMPTY

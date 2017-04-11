@@ -1,351 +1,351 @@
-when is the last time the giants won the world series?	8371	world series --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the giants won the world series?	8371	world series --> webpage resource --> [u"'Glee' returns tonight. And there's a diva-off. Who wants preview clips?", u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 13: TV Recap', u"Box office preview: 'This is It' destined to win the weekend", u'Obligatory Jay-Z Item of the Week', u'Mary J. Blige on Her New Album, Hollywood, and the National Anthem']	0
-when is the last time the giants won the world series?	8371	world series --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvj5Ro5wpEbGdrcN5Y29ycA']	0
-when is the last time the giants won the world series?	8371	world series --> sports championship events --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30
-when is the last time the giants won the world series?	8371	world series --> award nomination award --> [u'Primetime Emmy Award for Best Special Event Or News Program']	0
-when is the last time the giants won the world series?	8371	world series --> sports championship league --> [u'Major League Baseball']	126
-when is the last time the giants won the world series?	8371	world series --> topic alias --> [u'The Series', u'Fall Classic', u'Major League Baseball World Series']	0
-when is the last time the giants won the world series?	8371	world series --> award nomination year --> [u'1956']	0
-when is the last time the giants won the world series?	8371	world series --> recurring event instances --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30
-when is the last time the giants won the world series?	8371	world series --> object name --> [u'World Series']	0
-when is the last time the giants won the world series?	8371	world series --> topic image --> [u'{{{alt}}}', u'Crowd outside the 1903 World Series']	0
-when is the last time the giants won the world series?	8371	world series --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when is the last time the giants won the world series?	8371	world series --> daylife hero image id --> [u'05aFawD0sm9Wd']	0
-when is the last time the giants won the world series?	8371	world series --> book subject works --> [u"The Gashouse Gang: How Dizzy Dean, Leo Durocher, Branch Rickey, Pepper Martin, and Their Colorful, Come-from-Behind Ball Club Won the World Series - and America's Heart - During the Great Depression"]	0
-when is the last time the giants won the world series?	8371	2008 world series --> news report url --> [u'http://mlb.mlb.com/mlb/ps/y2008/boxscore.jsp?gid=2008_10_27_tbamlb_phimlb_1', u'http://mlb.mlb.com/news/article.jsp?ymd=20081023&content_id=3640727&vkey=ps2008news&fext=.jsp&c_id=mlb&partnerId=rss_mlb', u'http://ca.sports.yahoo.com/mlb/blog/big_league_stew/post/-Elmer-Fudd-caps-become-hip-during-cold-and-wet?urn=mlb,117761']	0
-when is the last time the giants won the world series?	8371	2008 world series --> sports championship event championship --> [u'World Series']	16
-when is the last time the giants won the world series?	8371	2008 world series --> news report news reporting organisation --> [u'Yahoo! Sports', u'MLB.com']	0
-when is the last time the giants won the world series?	8371	2008 world series --> news report date --> [u'2008-10-25', u'2008-10-27']	0
-when is the last time the giants won the world series?	8371	2008 world series --> sports championship event season --> [u'2008 Major League Baseball season']	0
-when is the last time the giants won the world series?	8371	2008 world series --> news report title --> [u'World Series Game five', u'Selig pleased with Game 1 ratings', u"'Elmer Fudd' caps become hip during cold and wet World Series"]	0
-when is the last time the giants won the world series?	8371	2008 world series --> sports championship event result --> [u'4 - 1']	0
-when is the last time the giants won the world series?	8371	2008 world series --> object name --> [u'2008 World Series']	0
-when is the last time the giants won the world series?	8371	2008 world series --> event locations --> [u'Citizens Bank Park', u'Tropicana Field']	7
-when is the last time the giants won the world series?	8371	2008 world series --> sports championship event runner up --> [u'Tampa Bay Rays']	15
-when is the last time the giants won the world series?	8371	2008 world series --> event end date --> [u'2008-10-29']	0
-when is the last time the giants won the world series?	8371	2008 world series --> sports championship event champion --> [u'Philadelphia Phillies']	35
-when is the last time the giants won the world series?	8371	2008 world series --> event instance of recurring event --> [u'World Series']	16
-when is the last time the giants won the world series?	8371	2008 world series --> event start date --> [u'2008-10-22']	0
-when is the last time the giants won the world series?	8371	the giants --> award honor award --> [u'Grammy Award for Best Improvised Jazz Solo']	0
-when is the last time the giants won the world series?	8371	the giants --> album artist --> [u'Ray Brown', u'Joe Pass', u'Oscar Peterson']	2
-when is the last time the giants won the world series?	8371	the giants --> award nomination award --> [u'Grammy Award for Best Improvised Jazz Solo']	0
-when is the last time the giants won the world series?	8371	the giants --> award honor ceremony --> [u'1978 Grammy Awards']	0
-when is the last time the giants won the world series?	8371	the giants --> award honor year --> [u'1977']	0
-when is the last time the giants won the world series?	8371	the giants --> award nomination year --> [u'1977']	0
-when is the last time the giants won the world series?	8371	the giants --> award nomination award nominee --> [u'Oscar Peterson']	1
-when is the last time the giants won the world series?	8371	the giants --> object name --> [u'The Giants']	0
-when is the last time the giants won the world series?	8371	the giants --> award honor award winner --> [u'Oscar Peterson']	1
-when is the last time the giants won the world series?	8371	the giants --> album release type --> [u'Album']	0
-when is the last time the giants won the world series?	8371	the giants --> album genre --> [u'Jazz']	0
-when is the last time the giants won the world series?	8371	the giants --> album release date --> [u'1974']	0
-when is the last time the giants won the world series?	8371	the last --> album genre --> [u'Latin pop', u'Bachata', u'Tropical']	0
-when is the last time the giants won the world series?	8371	the last --> object name --> [u'The Last']	0
-when is the last time the giants won the world series?	8371	the last --> album artist --> [u'Aventura']	5
-when is the last time the giants won the world series?	8371	the last --> album album content type --> [u'Studio album']	0
-when is the last time the giants won the world series?	8371	the last --> album release date --> [u'2009-06-09']	0
-when is the last time the giants won the world series?	8371	the world --> object name --> [u'The World']	0
-when is the last time the giants won the world series?	8371	the world --> topic image --> [u'Mohammad nabil rais- The world Islands', u'Dubaiworld']	0
-when is the last time the giants won the world series?	8371	the world --> geocode latitude --> [u'25.2167']	0
-when is the last time the giants won the world series?	8371	the world --> geocode longitude --> [u'55.1667']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team arena stadium --> [u'Polo Grounds']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports league participation league --> [u"Players' League"]	10
-when is the last time the giants won the world series?	8371	new york giants --> time interval end --> [u'1890']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team colors --> [u'Blue', u'White']	0
-when is the last time the giants won the world series?	8371	new york giants --> object name --> [u'New York Giants']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team founded --> [u'1890']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team sport --> [u'Baseball']	0
-when is the last time the giants won the world series?	8371	new york giants --> defunct sports team sport --> [u'Baseball']	0
-when is the last time the giants won the world series?	8371	new york giants --> time interval start --> [u'1890']	0
-when is the last time the giants won the world series?	8371	world --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the giants won the world series?	8371	world --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvhnlz5wpEbGdrcN5Y29ycA']	0
-when is the last time the giants won the world series?	8371	world --> current area record event --> [u"Men's Athletics, 100m", u"Men's Athletics, 400m", u"Men's Triple jump"]	0
-when is the last time the giants won the world series?	8371	world --> current area record mark --> [u'43.18', u'9.69', u'18.29 m']	0
-when is the last time the giants won the world series?	8371	world --> current area record country --> [u'Jamaica', u'United Kingdom', u'United States of America']	3
-when is the last time the giants won the world series?	8371	world --> topic alias --> [u'Worldwide']	0
-when is the last time the giants won the world series?	8371	world --> object id --> [u'/en/world']	0
-when is the last time the giants won the world series?	8371	world --> object name --> [u'World']	0
-when is the last time the giants won the world series?	8371	world --> topic image --> [u'The Earth seen from Apollo 17', u'The Garden of Earthly Delights by Bosch High Resolution']	0
-when is the last time the giants won the world series?	8371	world --> current area record record holder --> [u'Michael Johnson', u'Jonathan Edwards', u'Usain Bolt']	0
-when is the last time the giants won the world series?	8371	world --> location area --> [u'149000000']	0
-when is the last time the giants won the world series?	8371	world --> organization scope organizations with this scope --> [u'League of Nations', u'Apache Software Foundation', u'Crown Partners', u'carman communications', u'Maximise']	0
-when is the last time the giants won the world series?	8371	world --> athletics area championships --> [u'IAAF World Championships in Athletics']	0
-when is the last time the giants won the world series?	8371	world --> current area record date --> [u'2008-08-16']	0
-when is the last time the giants won the world series?	8371	new york giants --> player nfl team --> [u'New York Giants']	4263
-when is the last time the giants won the world series?	8371	new york giants --> player position --> [u'Defensive Unit']	0
-when is the last time the giants won the world series?	8371	new york giants --> projection scoring --> [u'PPR, 6 pt Pass TD, -2 INT, Standard Performance']	0
-when is the last time the giants won the world series?	8371	new york giants --> daylife hero image id --> [u'06lwds18tRbwy']	0
-when is the last time the giants won the world series?	8371	new york giants --> football roster position position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Linebacker']	24
-when is the last time the giants won the world series?	8371	new york giants --> football team division --> [u'NFC East']	16
-when is the last time the giants won the world series?	8371	new york giants --> sports league participation league --> [u'NFC East', u'National Football League', u'National Football Conference']	549
-when is the last time the giants won the world series?	8371	new york giants --> professional sports team owner s --> [u'John Mara', u'Steve Tisch']	8
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster to --> [u'1955', u'1961', u'1962', u'1963', u'1964']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster from --> [u'1949', u'1952', u'1954', u'1955', u'1956']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster position --> [u'Defensive back', u'Halfback', u'Placekicker', u'Punt returner', u'Left Tackle']	18
-when is the last time the giants won the world series?	8371	new york giants --> football roster position player --> [u'Stevie Brown', u'Henry Hynoski', u'Tyler Sash', u'Michael Coe', u'Bear Pascoe']	5
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster number --> [u'10', u'12', u'13', u'18', u'20']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick pick overall --> [u'4', u'11', u'19', u'20', u'25']	0
-when is the last time the giants won the world series?	8371	new york giants --> projection ff points --> [u'98']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team season record losses --> [u'1', u'2', u'3', u'4', u'5']	0
-when is the last time the giants won the world series?	8371	new york giants --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0
-when is the last time the giants won the world series?	8371	new york giants --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkJdpwpEbGdrcN5Y29ycA']	0
-when is the last time the giants won the world series?	8371	new york giants --> projection season --> [u'2007']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster player --> [u'Stevie Brown', u'Henry Hynoski', u'Amani Toomer', u'Will Demps', u'Tyler Sash']	7
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster player --> [u'Stevie Brown', u'Henry Hynoski', u'Tyler Sash', u'Michael Coe', u'Bear Pascoe']	5
-when is the last time the giants won the world series?	8371	new york giants --> football historical coach position position --> [u'Head coach', u'Quarterbacks coach', u'Defensive coordinator']	0
-when is the last time the giants won the world series?	8371	new york giants --> football roster position player --> [u'Stevie Brown', u'Henry Hynoski', u'Tyler Sash', u'Michael Coe', u'Bear Pascoe']	5
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster position --> [u'Defensive back', u'Halfback', u'Placekicker', u'Punt returner', u'Left Tackle']	18
-when is the last time the giants won the world series?	8371	new york giants --> sports team abbreviation --> [u'NYG']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team founded --> [u'1925']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team season record ties --> [u'0', u'1', u'2']	0
-when is the last time the giants won the world series?	8371	new york giants --> player projection --> [u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: New York Giants', u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: New York Giants', u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: New York Giants']	0
-when is the last time the giants won the world series?	8371	new york giants --> context name nickname --> [u'Big Blue', u'G-Men', u'Big Blue Wrecking Crew', u'Jints', u'The Blue Giants']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position from --> [u'1949', u'1952', u'1954', u'1955', u'1956']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position from --> [u'1949', u'1952', u'1954', u'1955', u'1956']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster from --> [u'2003', u'2004', u'2005', u'2007', u'2009']	0
-when is the last time the giants won the world series?	8371	new york giants --> topic official website --> [u'http://www.giants.com/']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team championships --> [u'Super Bowl XLVI', u'Super Bowl XLII', u'1938 NFL Championship Game', u'2012 NFC Championship Game', u'1927 New York Giants season']	79
-when is the last time the giants won the world series?	8371	new york giants --> sports team season record season --> [u'2002 NFL season', u'2008 NFL season', u'1933 NFL season', u'1967 NFL season', u'1965 NFL season']	23
-when is the last time the giants won the world series?	8371	new york giants --> projection x factor --> [u'98']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position player --> [u'Amani Toomer', u'Will Demps', u'JoJo Nicolas', u'LaVar Arrington', u'Bryan Kehl']	6
-when is the last time the giants won the world series?	8371	new york giants --> webpage uri --> [u'http://topics.nytimes.com/top/news/sports/profootball/nationalfootballleague/newyorkgiants/index.html']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position to --> [u'1955', u'1961', u'1962', u'1963', u'1964']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick round --> [u'1']	0
-when is the last time the giants won the world series?	8371	new york giants --> football roster position number --> [u'3', u'5', u'6', u'8', u'9']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical coach position from --> [u'1925', u'1926', u'1927', u'1929', u'1930']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team location --> [u'East Rutherford']	27
-when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick school --> [u'Boston College', u'University of Southern California', u'Syracuse University', u'University of Texas at Austin', u'North Carolina State University']	8
-when is the last time the giants won the world series?	8371	new york giants --> employment tenure from --> [u'1995']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position position s --> [u'Defensive back', u'Halfback', u'Placekicker', u'Punt returner', u'Left Tackle']	18
-when is the last time the giants won the world series?	8371	new york giants --> employment tenure title --> [u'Special Teams Coach']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster to --> [u'2012', u'2013']	0
-when is the last time the giants won the world series?	8371	new york giants --> employment tenure to --> [u'1999']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position player --> [u'Amani Toomer', u'Will Demps', u'JoJo Nicolas', u'LaVar Arrington', u'Bryan Kehl']	6
-when is the last time the giants won the world series?	8371	new york giants --> football team conference --> [u'National Football Conference']	11
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position to --> [u'1955', u'1961', u'1962', u'1963', u'1964']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick pick --> [u'19']	0
-when is the last time the giants won the world series?	8371	new york giants --> webpage category --> [u'Topic Webpage']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Linebacker']	24
-when is the last time the giants won the world series?	8371	new york giants --> team venue relationship venue --> [u'Shea Stadium']	6
-when is the last time the giants won the world series?	8371	new york giants --> football historical coach position to --> [u'1925', u'1926', u'1928', u'1930', u'1953']	0
-when is the last time the giants won the world series?	8371	new york giants --> team venue relationship from --> [u'1975']	0
-when is the last time the giants won the world series?	8371	new york giants --> projection adp --> [u'0', u'167', u'167.8']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team season record wins --> [u'1', u'2', u'3', u'4', u'5']	0
-when is the last time the giants won the world series?	8371	new york giants --> football roster position position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Linebacker']	24
-when is the last time the giants won the world series?	8371	new york giants --> football team away games --> [u'New York Giants at Minnesota Vikings, 2010-01-03', u'New York Giants at Dallas Cowboys, 2008-12-14', u'New York Giants at St. Louis Rams, 2008-09-14', u'New York Giants at Dallas Cowboys, 2009-09-20', u'New York Giants at Philadelphia Eagles, 2008-11-09']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position number --> [u'3', u'10', u'11', u'15', u'16']	0
-when is the last time the giants won the world series?	8371	new york giants --> topic topical webpage --> [u'http://topics.nytimes.com/top/news/sports/profootball/nationalfootballleague/newyorkgiants/index.html']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster player --> [u'Amani Toomer', u'Will Demps', u'JoJo Nicolas', u'LaVar Arrington', u'Bryan Kehl']	6
-when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick draft --> [u'2007 NFL Draft', u'2013 NFL Draft', u'2008 NFL Draft', u'2004 NFL Draft', u'2003 NFL Draft']	3
-when is the last time the giants won the world series?	8371	new york giants --> personal film appearance film --> [u'NFL Greatest Super Bowl Moments: I-XLI']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster to --> [u'1955', u'1961', u'1962', u'1963', u'1964']	0
-when is the last time the giants won the world series?	8371	new york giants --> topic social media presence --> [u'http://plus.google.com/111357451540306180278']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position number --> [u'3', u'10', u'11', u'15', u'16']	0
-when is the last time the giants won the world series?	8371	new york giants --> topic alias --> [u'Big Blue', u'G-Men', u'Jints']	0
-when is the last time the giants won the world series?	8371	new york giants --> team venue relationship to --> [u'1975']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical roster position position s --> [u'Defensive back', u'Halfback', u'Placekicker', u'Punt returner', u'Left Tackle']	18
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster from --> [u'1949', u'1952', u'1954', u'1955', u'1956']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster number --> [u'2', u'10', u'11', u'12', u'13']	0
-when is the last time the giants won the world series?	8371	new york giants --> football historical coach position coach --> [u'Earl Potteiger', u'Dan Reeves', u'Ray Perkins', u'Chris Palmer', u'Bill Parcells']	27
-when is the last time the giants won the world series?	8371	new york giants --> webpage description --> [u'New York Times']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team roster number --> [u'10', u'11', u'15', u'16', u'17']	0
-when is the last time the giants won the world series?	8371	new york giants --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the giants won the world series?	8371	new york giants --> webpage resource --> [u'\u201cBig Fan\u201d Co-Star On Acting, Plaxico Burress and How \u201cStrip Clubs Save Lives\u201d', u"Ratings: Super Bowl strong, but doesn't top last year", u'New York Times', u'CBS kills in weekend ratings', u"Michael Strahan's new sitcom: Casting touchdown?"]	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team sport --> [u'American football']	325
-when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick player --> [u'Mathias Kiwanuka', u'Kenny Phillips', u'William Joseph', u'Aaron Ross', u'Philip Rivers']	13
-when is the last time the giants won the world series?	8371	new york giants --> football roster position number --> [u'3', u'5', u'6', u'8', u'10']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team colors --> [u'Blue', u'White', u'Grey', u'Red']	0
-when is the last time the giants won the world series?	8371	new york giants --> football team home games --> [u'Philadelphia Eagles at New York Giants, 2009-01-11', u'Philadelphia Eagles at New York Giants, 2009-12-13', u'Carolina Panthers at New York Giants, 2008-12-21', u'Dallas Cowboys at New York Giants, 2008-11-02', u'Washington Redskins at New York Giants, 2008-09-04']	0
-when is the last time the giants won the world series?	8371	new york giants --> football team current head coach --> [u'Tom Coughlin']	18
-when is the last time the giants won the world series?	8371	new york giants --> employment tenure person --> [u'Larry Pasquale']	0
-when is the last time the giants won the world series?	8371	new york giants --> sports team arena stadium --> [u'MetLife Stadium']	38
-when is the last time the giants won the world series?	8371	new york giants --> object name --> [u'New York Giants']	0
-when is the last time the giants won the world series?	8371	new york giants --> topic image --> [u'New York Giants Helmet']	0
-when is the last time the giants won the world series?	8371	the last --> object name --> [u'The Last']	0
-when is the last time the giants won the world series?	8371	the giants --> tv program country of origin --> [u'Hong Kong']	0
-when is the last time the giants won the world series?	8371	the giants --> object name --> [u'The Giants']	0
-when is the last time the giants won the world series?	8371	the giants --> tv program languages --> [u'Yue Chinese', u'Cantonese']	0
-when is the last time the giants won the world series?	8371	the giants --> tv program air date of first episode --> [u'1978']	0
-when is the last time the giants won the world series?	8371	the giants --> tv program number of episodes --> [u'110']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> event entity involved --> [u'Robert Jenkinson, 2nd Earl of Liverpool', u'United Kingdom', u'William Henry Harrison', u'Choctaw', u'Potawatomi']	89
-when is the last time the giants won the world series?	8371	war of 1812 --> military conflict military personnel involved --> [u'Charles S. Boggs', u'Cadwalader Ringgold', u'Washington Duke', u'Stephen Decatur Trenchard', u'Sir George Cockburn, 10th Baronet']	4
-when is the last time the giants won the world series?	8371	war of 1812 --> taxonomy entry high --> [u'364.9']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> military command military combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands']	158
-when is the last time the giants won the world series?	8371	war of 1812 --> taxonomy entry prefix --> [u'E']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> historical event mention book --> [u'The Fortune of War']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead', u'Civilian - Dead']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> event event type --> [u'Military Conflict']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> event locations --> [u'North America', u'Pacific Ocean', u'Atlantic Ocean', u'Chesapeake Bay', u'Gulf Coast of the United States']	22
-when is the last time the giants won the world series?	8371	war of 1812 --> casualties combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands', u'British North America']	170
-when is the last time the giants won the world series?	8371	war of 1812 --> casualties lower estimate --> [u'500', u'1600', u'2260', u'3679', u'4505']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> event included in event --> [u'Napoleonic Wars']	81
-when is the last time the giants won the world series?	8371	war of 1812 --> event end date --> [u'1815-03-23']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> event start date --> [u'1812-06-18']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> taxonomy entry low --> [u'351']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> motivated event motive --> [u'Origins of the War of 1812']	4
-when is the last time the giants won the world series?	8371	war of 1812 --> event includes event --> [u"Second Battle of Sacket's Harbor", u'Battle of Fort Oswego', u"Battle of Crysler's Farm", u'Action off Charles Island', u'Battle of Longwoods']	21
-when is the last time the giants won the world series?	8371	war of 1812 --> object name --> [u'War of 1812']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> topic image --> [u'War of 1812', u'Push on, brave York volunteers', u'US Capitol 1814c']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> military combatant group combatants --> [u'United Kingdom', u'United States of America', u'Wyandot people', u'Cherokee', u'Iroquois']	163
-when is the last time the giants won the world series?	8371	war of 1812 --> film subject films --> [u'The Buccaneer']	0
-when is the last time the giants won the world series?	8371	war of 1812 --> military command military commander --> [u'James Madison', u'Roger Hale Sheaffe', u'Winfield Scott', u'George Pr\xe9vost', u'Isaac Brock']	75
-when is the last time the giants won the world series?	8371	war of 1812 --> book subject works --> [u'The War of 1812', u'The Captain from Connecticut', u'Bright Captivity', u'The Fortune of War', u'Once on this island']	0
-when is the last time the giants won the world series?	8371	the last --> artist active start --> [u'1976']	0
-when is the last time the giants won the world series?	8371	the last --> artist track --> [u'So Quick to Say', u'I Saw Your Eyes', u'Another Side', u'Going Gone', u'And They Laugh']	0
-when is the last time the giants won the world series?	8371	the last --> artist label --> [u'SST Records', u'BOMP Records']	0
-when is the last time the giants won the world series?	8371	the last --> artist origin --> [u'Los Angeles']	0
-when is the last time the giants won the world series?	8371	the last --> artist genre --> [u'Power pop', u'Rock music']	0
-when is the last time the giants won the world series?	8371	the last --> group membership start --> [u'1976']	0
-when is the last time the giants won the world series?	8371	the last --> webpage category --> [u'Official Website']	0
-when is the last time the giants won the world series?	8371	the last --> group membership member --> [u'Bill Stevenson', u'Karl Alvarez', u'Dave Harbison', u'David Nolte', u'Dave Naz']	1
-when is the last time the giants won the world series?	8371	the last --> artist album --> [u'Confession', u'Awakening', u'She Don\u2019t Know Why I\u2019m Here', u'L.A. Explosion', u'Painting Smiles on a Dead Man']	0
-when is the last time the giants won the world series?	8371	the last --> object name --> [u'The Last']	0
-when is the last time the giants won the world series?	8371	the last --> group membership end --> [u'1985']	0
-when is the last time the giants won the world series?	8371	the last --> topic alias --> [u'Last', u'Last, The']	0
-when is the last time the giants won the world series?	8371	the last --> topic official website --> [u'http://www.laexplosion.com/']	0
-when is the last time the giants won the world series?	8371	the last --> webpage uri --> [u'http://www.laexplosion.com/']	0
-when is the last time the giants won the world series?	8371	time --> topic social media presence --> [u'http://plus.google.com/110038350445855508357', u'http://twitter.com/TIME']	0
-when is the last time the giants won the world series?	8371	time --> employment tenure title --> [u'Managing Director', u'Columnist', u'White House Correspondent', u'Corporate Financial analyst', u'Editor-at-large']	0
-when is the last time the giants won the world series?	8371	time --> dated integer year --> [u'2007']	0
-when is the last time the giants won the world series?	8371	time --> topic alias --> [u'Time Asia', u'Time Europe', u'Time Magazine']	0
-when is the last time the giants won the world series?	8371	time --> webpage uri --> [u'http://www.time.com/']	0
-when is the last time the giants won the world series?	8371	time --> employment tenure to --> [u'1933', u'1991', u'2008-12']	0
-when is the last time the giants won the world series?	8371	time --> contents work --> [u'The Thriving Cult of Greed and Power', u'Remember Venus?', u'Scientology: Parry and Thrust']	7
-when is the last time the giants won the world series?	8371	time --> daylife hero image id --> [u'0gZH6gc1YZ4cL']	0
-when is the last time the giants won the world series?	8371	time --> periodical publication date date --> [u'1923-03-03']	0
-when is the last time the giants won the world series?	8371	time --> arabic language media source city --> [u'London']	4
-when is the last time the giants won the world series?	8371	time --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0
-when is the last time the giants won the world series?	8371	time --> magazine issues --> [u'Time Magazine, Aug 23, 1999', u'Time Magazine, Apr 10, 2000', u'Time Magazine, Nov 23, 1970']	0
-when is the last time the giants won the world series?	8371	time --> software developer software --> [u'TIME Mobile']	0
-when is the last time the giants won the world series?	8371	time --> periodical issn --> [u'0040-781X']	0
-when is the last time the giants won the world series?	8371	time --> topic official website --> [u'http://www.time.com/']	0
-when is the last time the giants won the world series?	8371	time --> webpage description --> [u'Time']	0
-when is the last time the giants won the world series?	8371	time --> editorial tenure editor --> [u'Adi Ignatius']	1
-when is the last time the giants won the world series?	8371	time --> webpage resource --> [u'Aguilera music used to torture -- officially', u'HBO plans film on 2008 election', u'What electronic gadgets are on your holiday wish list?', u'Obama Joker Poster: Why So Serious?', u"'Saturday Night Live' offers whiff of Glenn Beck"]	0
-when is the last time the giants won the world series?	8371	time --> periodical publisher period publisher --> [u'Time Inc.']	4
-when is the last time the giants won the world series?	8371	time --> periodical frequency frequency --> [u'Weekly']	0
-when is the last time the giants won the world series?	8371	time --> periodical subjects --> [u'News']	0
-when is the last time the giants won the world series?	8371	time --> place of publication period place of publication --> [u'England', u'United States of America', u'Australia', u'Canada', u'New Zealand']	17
-when is the last time the giants won the world series?	8371	time --> news report url --> [u'http://www.time.com/time/magazine/article/0,9171,807400,00.html', u'http://cbs2chicago.com/topstories/local_story_045223206.html', u'http://www.time.com/time/asia/asia/magazine/1999/990823/india_pakistan1.html', u'http://www.time.com/time/magazine/article/0,9171,902933,00.html', u'http://www.time.com/time/magazine/article/0,9171,939307,00.html']	0
-when is the last time the giants won the world series?	8371	time --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0
-when is the last time the giants won the world series?	8371	time --> quotation source quotations --> [u'""I thought we were coming for""', u'""I thought we were coming in..']	0
-when is the last time the giants won the world series?	8371	time --> news report event --> [u'Battle of Mogadishu', u'Lewinsky scandal', u'El Al Flight 402', u'United States Senate election in New York, 2000', u'Operation Janbaz']	0
-when is the last time the giants won the world series?	8371	time --> ranked list compiler ranked lists --> [u'Time magazine\'s ""All-TIME"" 100 best novels', u'Time 100', u'Time 100: The Most Important People of the Century', u'Time Magazine Ten Biggest Tech Failures of the Last Decade', u"Time Magazine's All-Time 100 Movies"]	128
-when is the last time the giants won the world series?	8371	time --> employment tenure person --> [u'Sanjay Gupta', u'John Dickerson', u'Jake Winebaum', u'Jay Carney', u'Robert Hughes']	6
-when is the last time the giants won the world series?	8371	time --> dated integer number --> [u'3400000']	0
-when is the last time the giants won the world series?	8371	time --> periodical eissn --> [u'1767509']	0
-when is the last time the giants won the world series?	8371	time --> periodical language --> [u'English Language']	2
-when is the last time the giants won the world series?	8371	time --> magazine genre --> [u'News magazine']	1
-when is the last time the giants won the world series?	8371	time --> object name --> [u'Time']	0
-when is the last time the giants won the world series?	8371	time --> employment tenure from --> [u'1969', u'1970', u'1978', u'1986', u'2005-09']	0
-when is the last time the giants won the world series?	8371	time --> editorial tenure title --> [u'Deputy Managing Editor']	0
-when is the last time the giants won the world series?	8371	time --> arabic language media source country --> [u'United Kingdom']	1
-when is the last time the giants won the world series?	8371	time --> news report title --> [u'Capitol Hill', u'Through the Curtain', u'Why Pakistan Must Widen Its Hunt for Militant Bases', u'Anatomy of a Disaster', u"Can't Stop the Madness"]	0
-when is the last time the giants won the world series?	8371	time --> news report date --> [u'1961-11-17', u'2000-11-20', u'2006-02-27', u'2009-10-13', u'1955-08-08']	0
-when is the last time the giants won the world series?	8371	giant --> character species characters of this species --> [u'Jolly Green Giant', u'Bran the Blessed']	0
-when is the last time the giants won the world series?	8371	giant --> similar mythical creature mythical creature --> [u'Giants']	0
-when is the last time the giants won the world series?	8371	giant --> object name --> [u'Giant']	0
-when is the last time the giants won the world series?	8371	giant --> topic image --> [u'""Jack the Giant-Killer"" by Arthur Rackham', u'Giants and Freia']	0
-when is the last time the giants won the world series?	8371	giant --> film subject films --> [u'Eegah', u'Village of the Giants', u'War of the Colossal Beast']	0
-when is the last time the giants won the world series?	8371	giant --> linguistic hint subject form --> [u'Giants']	0
-when is the last time the giants won the world series?	8371	time --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the giants won the world series?	8371	time --> webpage resource --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0
-when is the last time the giants won the world series?	8371	time --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViAw5wpEbGdrcN5Y29ycA']	0
-when is the last time the giants won the world series?	8371	time --> taxonomy entry low --> [u'209']	0
-when is the last time the giants won the world series?	8371	time --> topic topical webpage --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0
-when is the last time the giants won the world series?	8371	time --> processed with review queue question id --> [u'/rabj/store/questions/question_b27d0d5a61642c39']	0
-when is the last time the giants won the world series?	8371	time --> equivalent topic equivalent domain --> [u'Time']	0
-when is the last time the giants won the world series?	8371	time --> taxonomy entry high --> [u'224']	0
-when is the last time the giants won the world series?	8371	time --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0
-when is the last time the giants won the world series?	8371	time --> webpage category --> [u'Topic Webpage']	0
-when is the last time the giants won the world series?	8371	time --> object name --> [u'Time']	0
-when is the last time the giants won the world series?	8371	time --> topic image --> [u'Wooden hourglass 3', u'A savonette-type pocket watch', u'C solarcorona2003']	0
-when is the last time the giants won the world series?	8371	time --> dimension instruments --> [u'Clock', u'Cuckoo clock', u'Water clock']	0
-when is the last time the giants won the world series?	8371	time --> dimension si base unit --> [u'Second']	0
-when is the last time the giants won the world series?	8371	time --> book subject musical compositions about this topic --> [u'Time']	0
-when is the last time the giants won the world series?	8371	time --> vocabulary equivalent topic equivalent concept --> [u'Time']	0
-when is the last time the giants won the world series?	8371	time --> dimension units --> [u'Month', u'petasecond', u'decisecond', u'Second', u'picosecond']	0
-when is the last time the giants won the world series?	8371	time --> webpage description --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0
-when is the last time the giants won the world series?	8371	time --> taxonomy entry prefix --> [u'QB']	0
-when is the last time the giants won the world series?	8371	time --> book subject works --> [u'Being in time', u'The Garden of Time', u'Prisoner of Time', u'Faster: The Acceleration of Just About Everything', u'De revolutionibus orbium coelestium']	0
-when is the last time the giants won the world series?	8371	time --> webpage uri --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position player --> [u'Ryan Vogelsong', u'Charlie Culberson', u'Randy Johnson', u'Gary Carter', u'Pat Misch']	10
-when is the last time the giants won the world series?	8371	san francisco giants --> team training ground relationship from --> [u'1883', u'1911', u'1958', u'1960', u'2000']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> topic social media presence --> [u'http://plus.google.com/102839067733744236491']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> employment tenure title --> [u'Managing General Partner']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster to --> [u'2011', u'2012']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> topic alias --> [u'New York Giants']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball team current manager --> [u'Bruce Bochy']	7
-when is the last time the giants won the world series?	8371	san francisco giants --> employment tenure to --> [u'2008-10-01']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> rival rivals --> [u'Dodgers\u2013Giants rivalry']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> current coaching tenure coaching position --> [u'Bench Coach', u'Hitting Coach', u'First Base Coach', u'Bullpen Coach', u'Pitching Coach']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> team venue relationship to --> [u'1999']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team founded --> [u'1958']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster player --> [u'Ryan Vogelsong', u'Javier L\xf3pez', u'Barry Zito', u'Brandon Crawford', u'Hunter Pence']	52
-when is the last time the giants won the world series?	8371	san francisco giants --> daylife hero image id --> [u'05pX2JwbQ7f1t']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball team stats losses --> [u'55', u'59', u'60', u'61', u'62']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	86
-when is the last time the giants won the world series?	8371	san francisco giants --> sports league participation league --> [u'National League', u'National League West', u'Major League Baseball']	423
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical managerial position from --> [u'1993']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> processed with review queue question id --> [u'/rabj/store/questions/question_681c2a7c335fbd2e', u'/rabj/store/questions/question_83fb1e7841f4afc6']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> professional sports team owner s --> [u'Bill Neukom']	2
-when is the last time the giants won the world series?	8371	san francisco giants --> webpage description --> [u'New York Times']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> webpage category --> [u'Topic Webpage', u'Official Website']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position number --> [u'6', u'7', u'8', u'9', u'13']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> team venue relationship from --> [u'1960']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> team training ground relationship facility --> [u'Polo Grounds IV', u'Candlestick Park', u'Hilltop Park', u'AT&T Park', u'Oakland Park, New Jersey']	130
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster from --> [u'1954', u'1990', u'1993', u'1995', u'1998']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster player --> [u'Ryan Vogelsong', u'Charlie Culberson', u'Randy Johnson', u'Gary Carter', u'Pat Misch']	10
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position player --> [u'Ryan Vogelsong', u'Charlie Culberson', u'Randy Johnson', u'Gary Carter', u'Pat Misch']	10
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	86
-when is the last time the giants won the world series?	8371	san francisco giants --> team venue relationship venue --> [u'Candlestick Park']	73
-when is the last time the giants won the world series?	8371	san francisco giants --> topic official website --> [u'http://sanfrancisco.giants.mlb.com/NASApp/mlb/sf/homepage/sf_homepage.jsp']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team team mascot --> [u'Crazy Crab', u'Lou Seal']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical managerial position to --> [u'2002']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster number --> [u'2', u'10', u'12', u'14', u'17']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> ontology instance mapping ontology --> [u'OpenCyc']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> webpage resource --> [u"Ratings: 'Sunday Night Football' scores a weekly win for NBC", u'NFL flattens ratings competition', u'San Francisco Giants', u'New York Times']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	86
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team sport --> [u'Baseball']	7
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster number --> [u'2', u'10', u'12', u'13', u'14']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position from --> [u'1954', u'1990', u'1993', u'1995', u'2000']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball team stats wins --> [u'55', u'56', u'62', u'66', u'67']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster to --> [u'1954', u'1972', u'1990', u'1995', u'1996']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports league draft pick player --> [u'Craig Landis', u'Terry Mulholland', u'Royce Clayton', u'Johnnie LeMaster', u'Mike Remlinger']	7
-when is the last time the giants won the world series?	8371	san francisco giants --> sports league draft pick draft --> [u'1967 Major League Baseball Draft', u'1978 Major League Baseball Draft', u'1965 Major League Baseball Draft', u'1984 Major League Baseball Draft', u'1989 Major League Baseball Draft']	3
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster from --> [u'2005', u'2007', u'2008', u'2009', u'2010']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports league draft pick pick overall --> [u'2', u'3', u'4', u'6', u'7']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team season record wins --> [u'92']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> current coaching tenure baseball coach --> [u'Bill Hayes', u'Mark Gardener', u'Roberto Kelly', u'Tim Flannery', u'Dave Righetti']	3
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team arena stadium --> [u'Polo Grounds IV', u'Candlestick Park', u'Hilltop Park', u'AT&T Park', u'St. George Cricket Grounds']	130
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team previously known as --> [u'New York Giants', u'New York Gothams']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> webpage in index --> [u'Entertainment Weekly annotation index']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team colors --> [u'Orange', u'Black', u'Gold', u'Cream']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team championships --> [u'2010 World Series', u'2012 World Series']	38
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team season record losses --> [u'70']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster from --> [u'1954', u'1990', u'1993', u'1995', u'1998']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> webpage uri --> [u'http://topics.nytimes.com/top/news/sports/baseball/majorleague/sanfranciscogiants/index.html']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position from --> [u'1954', u'1990', u'1993', u'1995', u'2000']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> employment tenure person --> [u'Peter A. Magowan', u'Ron Schueler', u'Brian Sabean']	5
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical managerial position manager --> [u'Dusty Baker']	9
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster number --> [u'13', u'14', u'16', u'18', u'19']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> topic topical webpage --> [u'http://topics.nytimes.com/top/news/sports/baseball/majorleague/sanfranciscogiants/index.html']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster player --> [u'Ryan Vogelsong', u'Charlie Culberson', u'Randy Johnson', u'Gary Carter', u'Pat Misch']	10
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team location --> [u'San Francisco']	21
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball team stats season --> [u'2006 Major League Baseball season', u'2007 Major League Baseball season', u'1959 Major League Baseball Season', u'1973 Major League Baseball Season', u'1964 Major League Baseball Season']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball team division --> [u'National League West']	14
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position position --> [u'Shortstop', u'Catcher', u'Relief pitcher', u'Left fielder', u'Pitcher']	71
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position to --> [u'1972', u'1995', u'1996', u'2001', u'2007']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position to --> [u'1972', u'1995', u'1996', u'2001', u'2007']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position player --> [u'Ryan Vogelsong', u'Javier L\xf3pez', u'Barry Zito', u'Brandon Crawford', u'Hunter Pence']	52
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team season record season --> [u'2010 Major League Baseball season']	1
-when is the last time the giants won the world series?	8371	san francisco giants --> sports league draft pick school --> [u'Mississippi State University', u'University of Nevada, Las Vegas', u'Louisiana State University', u'San Diego State University', u'University of Tennessee']	2
-when is the last time the giants won the world series?	8371	san francisco giants --> object name --> [u'San Francisco Giants']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi6CpwpEbGdrcN5Y29ycA']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> employment tenure from --> [u'1993']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball team league --> [u'National League']	46
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position position --> [u'Shortstop', u'Catcher', u'Relief pitcher', u'Left fielder', u'Pitcher']	71
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position player --> [u'Ryan Vogelsong', u'Javier L\xf3pez', u'Barry Zito', u'Brandon Crawford', u'Hunter Pence']	52
-when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position number --> [u'6', u'7', u'8', u'9', u'13']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> team training ground relationship to --> [u'1888', u'1911', u'1957', u'1959', u'1999']	0
-when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster to --> [u'1954', u'1972', u'1990', u'1995', u'1996']	0
+when is the last time the giants won the world series?	8371	world series --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> webpage resource --> [u"'Glee' returns tonight. And there's a diva-off. Who wants preview clips?", u'\u201cSo You Think You Can Dance\u201d Season 6, Episode 13: TV Recap', u"Box office preview: 'This is It' destined to win the weekend", u'Obligatory Jay-Z Item of the Week', u'Mary J. Blige on Her New Album, Hollywood, and the National Anthem']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvj5Ro5wpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> sports championship events --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30	:*Although his team lose the [[2006 World Series|2006]] [[World Series]] in [[best-of-seven playoff|five games]] to the [[Saint Louis Cardinals]], [[Detroit Tigers]] [[manager (baseball)|manager]] '''[[Jim Leyland]]''', having assumed control of the Tigers from '''[[Alan Trammell]]''' upon the team's completing the [[2005 in baseball|2005]] [[regular season]] having won but 71 games and having helped his side to 95 wins in the [[2006 in baseball|2006]] season, earns nineteen of twenty-eight first-place votes cast by members of the [[Baseball Writers Association of America]] (BBWAA) to outpoint, in the [[Borda count]] [[voting system]] employed by the BBWAA, by twenty-five, 118-93, [[Minnesota Twins]] manager '''[[Ron Gardenhire]]'''&ndash;who earns nine first-place votes&ndash;to claim the [[American League]] [[Manager of the Year Award]] and to become, after '''[[Bobby Cox]]''' and '''[[Tony LaRussa]]''', just the third manager to have won the award in the American and [[National League]]s and, after Cox, LaRussa, and '''[[Dusty Baker]]''', just the fourth manager to have won at least three Manager of the Year Awards across his career.
+when is the last time the giants won the world series?	8371	world series --> award nomination award --> [u'Primetime Emmy Award for Best Special Event Or News Program']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> sports championship league --> [u'Major League Baseball']	126	*[[Al Newman]], [[Major League Baseball]] player for the [[Minnesota Twins]]; member of Twins 1987 and 1991 [[World Series|World Championship]] teams.
+when is the last time the giants won the world series?	8371	world series --> topic alias --> [u'The Series', u'Fall Classic', u'Major League Baseball World Series']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> award nomination year --> [u'1956']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> recurring event instances --> [u'2006 World Series', u'1936 World Series', u'1920 World Series', u'1979 World Series', u'1918 World Series']	30	:*Although his team lose the [[2006 World Series|2006]] [[World Series]] in [[best-of-seven playoff|five games]] to the [[Saint Louis Cardinals]], [[Detroit Tigers]] [[manager (baseball)|manager]] '''[[Jim Leyland]]''', having assumed control of the Tigers from '''[[Alan Trammell]]''' upon the team's completing the [[2005 in baseball|2005]] [[regular season]] having won but 71 games and having helped his side to 95 wins in the [[2006 in baseball|2006]] season, earns nineteen of twenty-eight first-place votes cast by members of the [[Baseball Writers Association of America]] (BBWAA) to outpoint, in the [[Borda count]] [[voting system]] employed by the BBWAA, by twenty-five, 118-93, [[Minnesota Twins]] manager '''[[Ron Gardenhire]]'''&ndash;who earns nine first-place votes&ndash;to claim the [[American League]] [[Manager of the Year Award]] and to become, after '''[[Bobby Cox]]''' and '''[[Tony LaRussa]]''', just the third manager to have won the award in the American and [[National League]]s and, after Cox, LaRussa, and '''[[Dusty Baker]]''', just the fourth manager to have won at least three Manager of the Year Awards across his career.
+when is the last time the giants won the world series?	8371	world series --> object name --> [u'World Series']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> topic image --> [u'{{{alt}}}', u'Crowd outside the 1903 World Series']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> daylife hero image id --> [u'05aFawD0sm9Wd']	0	EMPTY
+when is the last time the giants won the world series?	8371	world series --> book subject works --> [u"The Gashouse Gang: How Dizzy Dean, Leo Durocher, Branch Rickey, Pepper Martin, and Their Colorful, Come-from-Behind Ball Club Won the World Series - and America's Heart - During the Great Depression"]	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> news report url --> [u'http://mlb.mlb.com/mlb/ps/y2008/boxscore.jsp?gid=2008_10_27_tbamlb_phimlb_1', u'http://mlb.mlb.com/news/article.jsp?ymd=20081023&content_id=3640727&vkey=ps2008news&fext=.jsp&c_id=mlb&partnerId=rss_mlb', u'http://ca.sports.yahoo.com/mlb/blog/big_league_stew/post/-Elmer-Fudd-caps-become-hip-during-cold-and-wet?urn=mlb,117761']	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> sports championship event championship --> [u'World Series']	16	* [[World Series]] champion ([[2008 World Series|2008]])
+when is the last time the giants won the world series?	8371	2008 world series --> news report news reporting organisation --> [u'Yahoo! Sports', u'MLB.com']	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> news report date --> [u'2008-10-25', u'2008-10-27']	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> sports championship event season --> [u'2008 Major League Baseball season']	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> news report title --> [u'World Series Game five', u'Selig pleased with Game 1 ratings', u"'Elmer Fudd' caps become hip during cold and wet World Series"]	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> sports championship event result --> [u'4 - 1']	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> object name --> [u'2008 World Series']	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> event locations --> [u'Citizens Bank Park', u'Tropicana Field']	7	Nearly five years later, his son [[Tim McGraw]] took a handful of his dad's ashes and spread them on the [[pitcher's mound]] at the Phillies current home park, [[Citizens Bank Park]], in Game 3 of the [[2008 World Series]].
+when is the last time the giants won the world series?	8371	2008 world series --> sports championship event runner up --> [u'Tampa Bay Rays']	15	Thanks in part to the [[2008 World Series]] between the [[Philadelphia Phillies]] and the [[Tampa Bay Rays]], this episode came in third with a 5.7/9, but at the same time posted its best-since-premiere numbers at the 8PM hour (2.8/8 in 18-49, 8.7 million viewers overall).
+when is the last time the giants won the world series?	8371	2008 world series --> event end date --> [u'2008-10-29']	0	EMPTY
+when is the last time the giants won the world series?	8371	2008 world series --> sports championship event champion --> [u'Philadelphia Phillies']	35	Both teams made it to the playoffs that year, but the Dodgers lost in the NLCS for the second straight year to the [[2008 World Series|defending champion]] [[Philadelphia Phillies]], whom the Dodgers beat in the NLCS in [[1977 National League Championship Series|1977]] and [[1978 National League Championship Series|1978]] before losing to the Yankees in the World Series in both years, who would lose to the Yankees in the [[2009 World Series|World Series]], giving New York their first championship since Torre left as manager.
+when is the last time the giants won the world series?	8371	2008 world series --> event instance of recurring event --> [u'World Series']	16	* [[World Series]] champion ([[2008 World Series|2008]])
+when is the last time the giants won the world series?	8371	2008 world series --> event start date --> [u'2008-10-22']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> award honor award --> [u'Grammy Award for Best Improvised Jazz Solo']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> album artist --> [u'Ray Brown', u'Joe Pass', u'Oscar Peterson']	2	*''[[The Giants (album)|The Giants]]'' – [[Oscar Peterson]], [[Joe Pass]], [[Ray Brown (musician)|Ray Brown]]
+when is the last time the giants won the world series?	8371	the giants --> award nomination award --> [u'Grammy Award for Best Improvised Jazz Solo']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> award honor ceremony --> [u'1978 Grammy Awards']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> award honor year --> [u'1977']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> award nomination year --> [u'1977']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> award nomination award nominee --> [u'Oscar Peterson']	1	*''[[The Giants (album)|The Giants]]'' – [[Oscar Peterson]], [[Joe Pass]], [[Ray Brown (musician)|Ray Brown]]
+when is the last time the giants won the world series?	8371	the giants --> object name --> [u'The Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> award honor award winner --> [u'Oscar Peterson']	1	*''[[The Giants (album)|The Giants]]'' – [[Oscar Peterson]], [[Joe Pass]], [[Ray Brown (musician)|Ray Brown]]
+when is the last time the giants won the world series?	8371	the giants --> album release type --> [u'Album']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> album genre --> [u'Jazz']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> album release date --> [u'1974']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> album genre --> [u'Latin pop', u'Bachata', u'Tropical']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> object name --> [u'The Last']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> album artist --> [u'Aventura']	5	|align="center" |'''''[[The Last (album)|The Last]]''''' - [[Aventura (band)|Aventura]]
+when is the last time the giants won the world series?	8371	the last --> album album content type --> [u'Studio album']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> album release date --> [u'2009-06-09']	0	EMPTY
+when is the last time the giants won the world series?	8371	the world --> object name --> [u'The World']	0	EMPTY
+when is the last time the giants won the world series?	8371	the world --> topic image --> [u'Mohammad nabil rais- The world Islands', u'Dubaiworld']	0	EMPTY
+when is the last time the giants won the world series?	8371	the world --> geocode latitude --> [u'25.2167']	0	EMPTY
+when is the last time the giants won the world series?	8371	the world --> geocode longitude --> [u'55.1667']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team arena stadium --> [u'Polo Grounds']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports league participation league --> [u"Players' League"]	10	In , he jumped to the [[Players' League]] and played for the [[Philadelphia Athletics (1890–91)|Philadelphia Athletics]] and the [[New York Giants (PL)|New York Giants]] that season.
+when is the last time the giants won the world series?	8371	new york giants --> time interval end --> [u'1890']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team colors --> [u'Blue', u'White']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> object name --> [u'New York Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team founded --> [u'1890']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team sport --> [u'Baseball']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> defunct sports team sport --> [u'Baseball']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> time interval start --> [u'1890']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> ontology instance mapping uri --> [u'http://sw.opencyc.org/2008/06/10/concept/Mx4rvhnlz5wpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> current area record event --> [u"Men's Athletics, 100m", u"Men's Athletics, 400m", u"Men's Triple jump"]	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> current area record mark --> [u'43.18', u'9.69', u'18.29 m']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> current area record country --> [u'Jamaica', u'United Kingdom', u'United States of America']	3	Many campers are from the [[tri-state region]] but others travel from all over the [[United States]] and the [[World]].
+when is the last time the giants won the world series?	8371	world --> topic alias --> [u'Worldwide']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> object id --> [u'/en/world']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> object name --> [u'World']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> topic image --> [u'The Earth seen from Apollo 17', u'The Garden of Earthly Delights by Bosch High Resolution']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> current area record record holder --> [u'Michael Johnson', u'Jonathan Edwards', u'Usain Bolt']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> location area --> [u'149000000']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> organization scope organizations with this scope --> [u'League of Nations', u'Apache Software Foundation', u'Crown Partners', u'carman communications', u'Maximise']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> athletics area championships --> [u'IAAF World Championships in Athletics']	0	EMPTY
+when is the last time the giants won the world series?	8371	world --> current area record date --> [u'2008-08-16']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> player nfl team --> [u'New York Giants']	4263	* [[New York Giants]] All-Time Team
+when is the last time the giants won the world series?	8371	new york giants --> player position --> [u'Defensive Unit']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> projection scoring --> [u'PPR, 6 pt Pass TD, -2 INT, Standard Performance']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> daylife hero image id --> [u'06lwds18tRbwy']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football roster position position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Linebacker']	24	The '''National Football League Players' Association''' ('''NFLPA''') is the [[labor union]] representing the players of the [[United States of America|United States]]' [[National Football League]] (NFL), [[organization|organized]] in 1956, principally by [[History of the Indianapolis Colts|Baltimore Colts]] [[defensive back]] '''[[Don Shula]]''', [[New York Giants]] [[Running back| halfback]] '''[[Frank Gifford]]''', and [[Los Angeles Rams]] [[quarterback]] '''[[Norm Van Brocklin]]''', in order that players might formally and collectively demand a [[minimum wage|minimum salary]], [[per diem]] pay, [[sports franchise|team]]-provided and -maintained [[Uniform#Sports|uniforms]] and [[Protective gear|protective]] [[sports equipment|equipment]], and [[Workers' compensation|injury pay]].
+when is the last time the giants won the world series?	8371	new york giants --> football team division --> [u'NFC East']	16	'''Harold Donald Carson''' (born November 26, 1953, in [[Florence, South Carolina]]) is an [[United States|American]] [[college football|collegiate]] and [[professional sports|professional]] [[American football]] [[inside linebacker]] and [[defensive end]], best known for his having played all thirteen of his [[National Football League]] [[List of NFL seasons|season]]s with the [[New York Giants]] [[sports franchise|franchise]]; for his having, over his professional career, been selected nine times to the [[Pro Bowl]]; for his having helped the Giants to the [[1986 NFL season|1986]] [[National Football Conference]] (NFC) [[NFC East|East division]] championship and thereafter to the [[Super Bowl XXI]] title; for his having, whilst playing for the [[South Carolina State University]] [[South Carolina State Bulldogs|Bulldogs]], twice won the [[Mid-Eastern Athletic Conference]] (MEAC) [[American football strategy#Defensive strategy|defensive]] [[player of the year award]] and his having been named, subsequent to the [[1975 in sports|1975]] [[National Collegiate Athletic Association]] season, an ''[[College Football All-America Team|All-America]]''; and for his having, in part in view of such, been enshrined in [[2002 in sports|2002]] in the [[College Football Hall of Fame]], ''pictured'', and in [[2006 in sports|2006]] in the [[Pro Football Hall of Fame]].  
+when is the last time the giants won the world series?	8371	new york giants --> sports league participation league --> [u'NFC East', u'National Football League', u'National Football Conference']	549	*[[Wellington Mara]], former [[owner]], [[New York Giants]] [[National Football League|NFL]] team
+when is the last time the giants won the world series?	8371	new york giants --> professional sports team owner s --> [u'John Mara', u'Steve Tisch']	8	From this season on, as well as retroactively, Mark Cuban insisted that the production company relinquish its equity clause with respect to featured businesses who choose to do business with the "sharks" (two percent of their profits or five percent equity in their company).<br [[John Paul Mitchell Systems]] co-founder [[John Paul DeJoria]] and [[New York Giants]] owner [[Steve Tisch]] appeared as guest sharks this season.
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster to --> [u'1955', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster from --> [u'1949', u'1952', u'1954', u'1955', u'1956']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster position --> [u'Defensive back', u'Halfback', u'Placekicker', u'Punt returner', u'Left Tackle']	18	'''George Carroll Thomas, Jr.''' (March 4, 1928 &ndash; May 23, 1989) was an [[American football]] [[Halfback (American football)|halfback]] and [[defensive back]] in the [[National Football League]] for the [[Washington Redskins]] and the [[New York Giants]].
+when is the last time the giants won the world series?	8371	new york giants --> football roster position player --> [u'Stevie Brown', u'Henry Hynoski', u'Tyler Sash', u'Michael Coe', u'Bear Pascoe']	5	* [[Tyler Sash]] – safety for the [[New York Giants]]' [[Super Bowl XLVI]] championship team 
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster number --> [u'10', u'12', u'13', u'18', u'20']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick pick overall --> [u'4', u'11', u'19', u'20', u'25']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> projection ff points --> [u'98']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team season record losses --> [u'1', u'2', u'3', u'4', u'5']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVkJdpwpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> projection season --> [u'2007']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster player --> [u'Stevie Brown', u'Henry Hynoski', u'Amani Toomer', u'Will Demps', u'Tyler Sash']	7	* [[Tyler Sash]] – safety for the [[New York Giants]]' [[Super Bowl XLVI]] championship team 
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster player --> [u'Stevie Brown', u'Henry Hynoski', u'Tyler Sash', u'Michael Coe', u'Bear Pascoe']	5	* [[Tyler Sash]] – safety for the [[New York Giants]]' [[Super Bowl XLVI]] championship team 
+when is the last time the giants won the world series?	8371	new york giants --> football historical coach position position --> [u'Head coach', u'Quarterbacks coach', u'Defensive coordinator']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football roster position player --> [u'Stevie Brown', u'Henry Hynoski', u'Tyler Sash', u'Michael Coe', u'Bear Pascoe']	5	* [[Tyler Sash]] – safety for the [[New York Giants]]' [[Super Bowl XLVI]] championship team 
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster position --> [u'Defensive back', u'Halfback', u'Placekicker', u'Punt returner', u'Left Tackle']	18	'''George Carroll Thomas, Jr.''' (March 4, 1928 &ndash; May 23, 1989) was an [[American football]] [[Halfback (American football)|halfback]] and [[defensive back]] in the [[National Football League]] for the [[Washington Redskins]] and the [[New York Giants]].
+when is the last time the giants won the world series?	8371	new york giants --> sports team abbreviation --> [u'NYG']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team founded --> [u'1925']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team season record ties --> [u'0', u'1', u'2']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> player projection --> [u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: New York Giants', u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: New York Giants', u'2007 PPR, 6 pt Pass TD, -2 INT, Standard Performance: New York Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> context name nickname --> [u'Big Blue', u'G-Men', u'Big Blue Wrecking Crew', u'Jints', u'The Blue Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position from --> [u'1949', u'1952', u'1954', u'1955', u'1956']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position from --> [u'1949', u'1952', u'1954', u'1955', u'1956']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster from --> [u'2003', u'2004', u'2005', u'2007', u'2009']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> topic official website --> [u'http://www.giants.com/']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team championships --> [u'Super Bowl XLVI', u'Super Bowl XLII', u'1938 NFL Championship Game', u'2012 NFC Championship Game', u'1927 New York Giants season']	79	* [[Tyler Sash]] – safety for the [[New York Giants]]' [[Super Bowl XLVI]] championship team 
+when is the last time the giants won the world series?	8371	new york giants --> sports team season record season --> [u'2002 NFL season', u'2008 NFL season', u'1933 NFL season', u'1967 NFL season', u'1965 NFL season']	23	He made his debut as a member of the [[New York Giants]] and has since played for the [[Miami Dolphins]] and [[New York Jets]] (current team in [[2008 NFL season|2008]]).
+when is the last time the giants won the world series?	8371	new york giants --> projection x factor --> [u'98']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position player --> [u'Amani Toomer', u'Will Demps', u'JoJo Nicolas', u'LaVar Arrington', u'Bryan Kehl']	6	* '''[[1999 NFL season|1999]]''' — [[New York Giants]] vs. [[New Orleans Saints]]: Just before halftime, [[Kent Graham]] of the Giants completed a 53-yard Hail Mary pass to [[Joe Jurevicius]] that had been tipped by teammate [[Amani Toomer]] and the Saints' [[Sammy Knight]].
+when is the last time the giants won the world series?	8371	new york giants --> webpage uri --> [u'http://topics.nytimes.com/top/news/sports/profootball/nationalfootballleague/newyorkgiants/index.html']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position to --> [u'1955', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick round --> [u'1']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football roster position number --> [u'3', u'5', u'6', u'8', u'9']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical coach position from --> [u'1925', u'1926', u'1927', u'1929', u'1930']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team location --> [u'East Rutherford']	27	Although the [[New York Giants]] and [[New York Jets]] represent the [[New York metropolitan area]] and were previously located in New York City, they play in [[MetLife Stadium]], located in [[East Rutherford, New Jersey]].
+when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick school --> [u'Boston College', u'University of Southern California', u'Syracuse University', u'University of Texas at Austin', u'North Carolina State University']	8	* [[Al Barry]] ([[University of Southern California]] 1953), pro football player with the [[Green Bay Packers]], [[New York Giants]], and [[Los Angeles Chargers]]
+when is the last time the giants won the world series?	8371	new york giants --> employment tenure from --> [u'1995']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position position s --> [u'Defensive back', u'Halfback', u'Placekicker', u'Punt returner', u'Left Tackle']	18	'''George Carroll Thomas, Jr.''' (March 4, 1928 &ndash; May 23, 1989) was an [[American football]] [[Halfback (American football)|halfback]] and [[defensive back]] in the [[National Football League]] for the [[Washington Redskins]] and the [[New York Giants]].
+when is the last time the giants won the world series?	8371	new york giants --> employment tenure title --> [u'Special Teams Coach']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster to --> [u'2012', u'2013']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> employment tenure to --> [u'1999']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position player --> [u'Amani Toomer', u'Will Demps', u'JoJo Nicolas', u'LaVar Arrington', u'Bryan Kehl']	6	* '''[[1999 NFL season|1999]]''' — [[New York Giants]] vs. [[New Orleans Saints]]: Just before halftime, [[Kent Graham]] of the Giants completed a 53-yard Hail Mary pass to [[Joe Jurevicius]] that had been tipped by teammate [[Amani Toomer]] and the Saints' [[Sammy Knight]].
+when is the last time the giants won the world series?	8371	new york giants --> football team conference --> [u'National Football Conference']	11	After playing the previous 20 seasons at [[Shea Stadium]] in [[Queens, New York|Queens]], 1984 marked their first season of playing its home games at [[Giants Stadium]] in [[East Rutherford, New Jersey|The Meadowlands]], which was also the home of the [[National Football Conference|NFC's]] [[New York Giants]].
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position to --> [u'1955', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick pick --> [u'19']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> webpage category --> [u'Topic Webpage']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Linebacker']	24	The '''National Football League Players' Association''' ('''NFLPA''') is the [[labor union]] representing the players of the [[United States of America|United States]]' [[National Football League]] (NFL), [[organization|organized]] in 1956, principally by [[History of the Indianapolis Colts|Baltimore Colts]] [[defensive back]] '''[[Don Shula]]''', [[New York Giants]] [[Running back| halfback]] '''[[Frank Gifford]]''', and [[Los Angeles Rams]] [[quarterback]] '''[[Norm Van Brocklin]]''', in order that players might formally and collectively demand a [[minimum wage|minimum salary]], [[per diem]] pay, [[sports franchise|team]]-provided and -maintained [[Uniform#Sports|uniforms]] and [[Protective gear|protective]] [[sports equipment|equipment]], and [[Workers' compensation|injury pay]].
+when is the last time the giants won the world series?	8371	new york giants --> team venue relationship venue --> [u'Shea Stadium']	6	| 1970-11-01 || [[New York Giants]] || '''L''' 22–10 || [[Shea Stadium]] || <center>63,903</center>
+when is the last time the giants won the world series?	8371	new york giants --> football historical coach position to --> [u'1925', u'1926', u'1928', u'1930', u'1953']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> team venue relationship from --> [u'1975']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> projection adp --> [u'0', u'167', u'167.8']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team season record wins --> [u'1', u'2', u'3', u'4', u'5']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football roster position position --> [u'Defensive back', u'Placekicker', u'Tackle', u'Running back', u'Linebacker']	24	The '''National Football League Players' Association''' ('''NFLPA''') is the [[labor union]] representing the players of the [[United States of America|United States]]' [[National Football League]] (NFL), [[organization|organized]] in 1956, principally by [[History of the Indianapolis Colts|Baltimore Colts]] [[defensive back]] '''[[Don Shula]]''', [[New York Giants]] [[Running back| halfback]] '''[[Frank Gifford]]''', and [[Los Angeles Rams]] [[quarterback]] '''[[Norm Van Brocklin]]''', in order that players might formally and collectively demand a [[minimum wage|minimum salary]], [[per diem]] pay, [[sports franchise|team]]-provided and -maintained [[Uniform#Sports|uniforms]] and [[Protective gear|protective]] [[sports equipment|equipment]], and [[Workers' compensation|injury pay]].
+when is the last time the giants won the world series?	8371	new york giants --> football team away games --> [u'New York Giants at Minnesota Vikings, 2010-01-03', u'New York Giants at Dallas Cowboys, 2008-12-14', u'New York Giants at St. Louis Rams, 2008-09-14', u'New York Giants at Dallas Cowboys, 2009-09-20', u'New York Giants at Philadelphia Eagles, 2008-11-09']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position number --> [u'3', u'10', u'11', u'15', u'16']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> topic topical webpage --> [u'http://topics.nytimes.com/top/news/sports/profootball/nationalfootballleague/newyorkgiants/index.html']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster player --> [u'Amani Toomer', u'Will Demps', u'JoJo Nicolas', u'LaVar Arrington', u'Bryan Kehl']	6	* '''[[1999 NFL season|1999]]''' — [[New York Giants]] vs. [[New Orleans Saints]]: Just before halftime, [[Kent Graham]] of the Giants completed a 53-yard Hail Mary pass to [[Joe Jurevicius]] that had been tipped by teammate [[Amani Toomer]] and the Saints' [[Sammy Knight]].
+when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick draft --> [u'2007 NFL Draft', u'2013 NFL Draft', u'2008 NFL Draft', u'2004 NFL Draft', u'2003 NFL Draft']	3	| title      = [[New York Giants|<span style="color:white">New York Giants</span>]] [[2008 NFL draft|<span style="color:white">2008 NFL draft</span>]] selections
+when is the last time the giants won the world series?	8371	new york giants --> personal film appearance film --> [u'NFL Greatest Super Bowl Moments: I-XLI']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster to --> [u'1955', u'1961', u'1962', u'1963', u'1964']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> topic social media presence --> [u'http://plus.google.com/111357451540306180278']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position number --> [u'3', u'10', u'11', u'15', u'16']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> topic alias --> [u'Big Blue', u'G-Men', u'Jints']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> team venue relationship to --> [u'1975']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical roster position position s --> [u'Defensive back', u'Halfback', u'Placekicker', u'Punt returner', u'Left Tackle']	18	'''George Carroll Thomas, Jr.''' (March 4, 1928 &ndash; May 23, 1989) was an [[American football]] [[Halfback (American football)|halfback]] and [[defensive back]] in the [[National Football League]] for the [[Washington Redskins]] and the [[New York Giants]].
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster from --> [u'1949', u'1952', u'1954', u'1955', u'1956']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster number --> [u'2', u'10', u'11', u'12', u'13']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football historical coach position coach --> [u'Earl Potteiger', u'Dan Reeves', u'Ray Perkins', u'Chris Palmer', u'Bill Parcells']	27	Though Orthwein's period as owner was short and controversial, he did oversee major changes to the team, first with the hiring of former [[New York Giants]] coach [[Bill Parcells]] in 1993.
+when is the last time the giants won the world series?	8371	new york giants --> webpage description --> [u'New York Times']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team roster number --> [u'10', u'11', u'15', u'16', u'17']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> webpage resource --> [u'\u201cBig Fan\u201d Co-Star On Acting, Plaxico Burress and How \u201cStrip Clubs Save Lives\u201d', u"Ratings: Super Bowl strong, but doesn't top last year", u'New York Times', u'CBS kills in weekend ratings', u"Michael Strahan's new sitcom: Casting touchdown?"]	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team sport --> [u'American football']	325	'''Lance Robert Scott''' (born February 15, 1972 in [[Salt Lake City, Utah]]) is a former professional [[American football]] player who played [[offensive lineman]] for two seasons for the [[New York Giants]].
+when is the last time the giants won the world series?	8371	new york giants --> sports league draft pick player --> [u'Mathias Kiwanuka', u'Kenny Phillips', u'William Joseph', u'Aaron Ross', u'Philip Rivers']	13	*[[Kenny Phillips]] # - Drafted in the 1st round of the [[2008 NFL Draft]] as the 31st pick by the [[New York Giants]] (2008–2012) and also played for the [[New Orleans Saints]] (2015).
+when is the last time the giants won the world series?	8371	new york giants --> football roster position number --> [u'3', u'5', u'6', u'8', u'10']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team colors --> [u'Blue', u'White', u'Grey', u'Red']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football team home games --> [u'Philadelphia Eagles at New York Giants, 2009-01-11', u'Philadelphia Eagles at New York Giants, 2009-12-13', u'Carolina Panthers at New York Giants, 2008-12-21', u'Dallas Cowboys at New York Giants, 2008-11-02', u'Washington Redskins at New York Giants, 2008-09-04']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> football team current head coach --> [u'Tom Coughlin']	18	*[[Tom Coughlin]], former [[New York Giants]] and [[Jacksonville Jaguars]]' head coach.
+when is the last time the giants won the world series?	8371	new york giants --> employment tenure person --> [u'Larry Pasquale']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> sports team arena stadium --> [u'MetLife Stadium']	38	Although the [[New York Giants]] and [[New York Jets]] represent the [[New York metropolitan area]] and were previously located in New York City, they play in [[MetLife Stadium]], located in [[East Rutherford, New Jersey]].
+when is the last time the giants won the world series?	8371	new york giants --> object name --> [u'New York Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	new york giants --> topic image --> [u'New York Giants Helmet']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> object name --> [u'The Last']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> tv program country of origin --> [u'Hong Kong']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> object name --> [u'The Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> tv program languages --> [u'Yue Chinese', u'Cantonese']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> tv program air date of first episode --> [u'1978']	0	EMPTY
+when is the last time the giants won the world series?	8371	the giants --> tv program number of episodes --> [u'110']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> event entity involved --> [u'Robert Jenkinson, 2nd Earl of Liverpool', u'United Kingdom', u'William Henry Harrison', u'Choctaw', u'Potawatomi']	89	* November 3 &ndash; The [[Treaty of St. Louis (1804)]] is signed by [[Quashquame]] and [[William Henry Harrison]]; controversy surrounding the treaty eventually causes the [[Sauk people|Sauk]]s to ally with the British during the [[War of 1812]] and is the main cause of the [[Black Hawk War]] of 1832.
+when is the last time the giants won the world series?	8371	war of 1812 --> military conflict military personnel involved --> [u'Charles S. Boggs', u'Cadwalader Ringgold', u'Washington Duke', u'Stephen Decatur Trenchard', u'Sir George Cockburn, 10th Baronet']	4	His ancestral family included [[Sir George Cockburn, 10th Baronet]], who was responsible for [[Burning of Washington|burning down Washington]] in the [[War of 1812]].
+when is the last time the giants won the world series?	8371	war of 1812 --> taxonomy entry high --> [u'364.9']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> military command military combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands']	158	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when is the last time the giants won the world series?	8371	war of 1812 --> taxonomy entry prefix --> [u'E']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> historical event mention book --> [u'The Fortune of War']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> casualties type of casualties --> [u'Military - Wounded', u'Military - Dead', u'Civilian - Dead']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> event event type --> [u'Military Conflict']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> event locations --> [u'North America', u'Pacific Ocean', u'Atlantic Ocean', u'Chesapeake Bay', u'Gulf Coast of the United States']	22	This representation depicts the moment that inspired the poem "[[Defence of Fort McHenry]]" which he wrote after witnessing the bombardment of [[Fort McHenry]] by the British Royal Navy ships in [[Chesapeake Bay]] during the [[Battle of Fort McHenry]] in the [[War of 1812]].
+when is the last time the giants won the world series?	8371	war of 1812 --> casualties combatant --> [u'United Kingdom', u'United States of America', u'Indigenous peoples of the Northeastern Eastern Woodlands', u'British North America']	170	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when is the last time the giants won the world series?	8371	war of 1812 --> casualties lower estimate --> [u'500', u'1600', u'2260', u'3679', u'4505']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> event included in event --> [u'Napoleonic Wars']	81	Sir '''Salusbury Pryce Humphreys'''  (24 November 1778 – 17 November 1845), later called '''Salusbury Pryce Davenport''', was an officer of the [[Royal Navy]] who saw service during the [[French Revolutionary Wars|French Revolutionary]] and [[Napoleonic Wars]] and the [[War of 1812]], rising to the rank of [[Rear Admiral (Royal Navy)|rear-admiral]].
+when is the last time the giants won the world series?	8371	war of 1812 --> event end date --> [u'1815-03-23']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> event start date --> [u'1812-06-18']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> taxonomy entry low --> [u'351']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> motivated event motive --> [u'Origins of the War of 1812']	4	[[Origins of the War of 1812|This was one of the major factors]] leading to the [[War of 1812]] in North America.
+when is the last time the giants won the world series?	8371	war of 1812 --> event includes event --> [u"Second Battle of Sacket's Harbor", u'Battle of Fort Oswego', u"Battle of Crysler's Farm", u'Action off Charles Island', u'Battle of Longwoods']	21	| The site of the [[Battle of Longwoods]] during the [[War of 1812]] 
+when is the last time the giants won the world series?	8371	war of 1812 --> object name --> [u'War of 1812']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> topic image --> [u'War of 1812', u'Push on, brave York volunteers', u'US Capitol 1814c']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> military combatant group combatants --> [u'United Kingdom', u'United States of America', u'Wyandot people', u'Cherokee', u'Iroquois']	163	'''John Garland''' (November 15, 1793June 5, 1861) was a career [[United States]] soldier in the [[Regular Army (United States)|Regular Army]] who had a long and distinguished career spanning fifty years of service during the [[War of 1812]], [[Seminole Wars]], [[Mexican-American War]], [[Utah War]] and very briefly into the [[American Civil War]].
+when is the last time the giants won the world series?	8371	war of 1812 --> film subject films --> [u'The Buccaneer']	0	EMPTY
+when is the last time the giants won the world series?	8371	war of 1812 --> military command military commander --> [u'James Madison', u'Roger Hale Sheaffe', u'Winfield Scott', u'George Pr\xe9vost', u'Isaac Brock']	75	This is believed to have been only the second time in American history that a sitting president came under enemy fire during a war (the first being President [[James Madison]] during the [[War of 1812]]).
+when is the last time the giants won the world series?	8371	war of 1812 --> book subject works --> [u'The War of 1812', u'The Captain from Connecticut', u'Bright Captivity', u'The Fortune of War', u'Once on this island']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> artist active start --> [u'1976']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> artist track --> [u'So Quick to Say', u'I Saw Your Eyes', u'Another Side', u'Going Gone', u'And They Laugh']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> artist label --> [u'SST Records', u'BOMP Records']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> artist origin --> [u'Los Angeles']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> artist genre --> [u'Power pop', u'Rock music']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> group membership start --> [u'1976']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> webpage category --> [u'Official Website']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> group membership member --> [u'Bill Stevenson', u'Karl Alvarez', u'Dave Harbison', u'David Nolte', u'Dave Naz']	1	Brandenburg and Rikk and Frank Agnew joined other Southern California punk musicians including Bruce Duff (of [[45 Grave]], Twisted Roots, Sister Goddamn, and several [[Jeff Dahl]] projects), [[Jonny Wickersham]], and Warner Young for ''Pinups'', an album of cover versions of punk rock songs from the 1970s and early 1980s on which Soto sang backing vocals alongside [[Dave Naz]] (of the [[Chemical People]], [[Down by Law (band)|Down by Law]], and [[The Last (band)|the Last]]) and Rik L. Rik (of F-Word!
+when is the last time the giants won the world series?	8371	the last --> artist album --> [u'Confession', u'Awakening', u'She Don\u2019t Know Why I\u2019m Here', u'L.A. Explosion', u'Painting Smiles on a Dead Man']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> object name --> [u'The Last']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> group membership end --> [u'1985']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> topic alias --> [u'Last', u'Last, The']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> topic official website --> [u'http://www.laexplosion.com/']	0	EMPTY
+when is the last time the giants won the world series?	8371	the last --> webpage uri --> [u'http://www.laexplosion.com/']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> topic social media presence --> [u'http://plus.google.com/110038350445855508357', u'http://twitter.com/TIME']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> employment tenure title --> [u'Managing Director', u'Columnist', u'White House Correspondent', u'Corporate Financial analyst', u'Editor-at-large']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> dated integer year --> [u'2007']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> topic alias --> [u'Time Asia', u'Time Europe', u'Time Magazine']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> webpage uri --> [u'http://www.time.com/']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> employment tenure to --> [u'1933', u'1991', u'2008-12']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> contents work --> [u'The Thriving Cult of Greed and Power', u'Remember Venus?', u'Scientology: Parry and Thrust']	7	* [[1991]] – ''[[Time (magazine)|Time]]'' magazine published "'''[[The Thriving Cult of Greed and Power]]'''", an article highly critical of the [[Scientology]] organization, leading to years of legal conflict that ended when the [[Church of Scientology]]'s petition for a [[writ]] of [[certiorari]] to the [[Supreme Court of the United States]] in the case was denied in 2001.
+when is the last time the giants won the world series?	8371	time --> daylife hero image id --> [u'0gZH6gc1YZ4cL']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> periodical publication date date --> [u'1923-03-03']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> arabic language media source city --> [u'London']	4	Three years in the making, the [[2004 Summer Olympics Opening Ceremony|Opening Ceremony]] was hailed a "triumph" by ''[[Time (magazine)|Time]]'' magazine and ''[[The Times]]'' of [[London]].
+when is the last time the giants won the world series?	8371	time --> webpage category --> [u'Official Website', u'Tag', u'Curated Topic']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> magazine issues --> [u'Time Magazine, Aug 23, 1999', u'Time Magazine, Apr 10, 2000', u'Time Magazine, Nov 23, 1970']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> software developer software --> [u'TIME Mobile']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> periodical issn --> [u'0040-781X']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> topic official website --> [u'http://www.time.com/']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> webpage description --> [u'Time']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> editorial tenure editor --> [u'Adi Ignatius']	1	In 2009, HBR brought on [[Adi Ignatius]], the former deputy managing editor of [[Time (magazine)|Time magazine]], to be its [[editor-in-chief]].
+when is the last time the giants won the world series?	8371	time --> webpage resource --> [u'Aguilera music used to torture -- officially', u'HBO plans film on 2008 election', u'What electronic gadgets are on your holiday wish list?', u'Obama Joker Poster: Why So Serious?', u"'Saturday Night Live' offers whiff of Glenn Beck"]	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> periodical publisher period publisher --> [u'Time Inc.']	4	After graduation, Agee was hired by the [[Time Inc.]] as a reporter, and moved to New York City, where he wrote for ''[[Fortune (magazine)|Fortune]]'' magazine in 1932-1937, although he is better known for his later film criticism in ''[[Time (magazine)|Time]]'' and ''[[The Nation (U.S. periodical)|The Nation]]''.
+when is the last time the giants won the world series?	8371	time --> periodical frequency frequency --> [u'Weekly']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> periodical subjects --> [u'News']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> place of publication period place of publication --> [u'England', u'United States of America', u'Australia', u'Canada', u'New Zealand']	17	'''James Geary''' (born 1962) is an [[United States|American]]-born writer, former [[Europe]] editor of ''[[Time (magazine)|Time]]'' and deputy curator of the [[Nieman Foundation for Journalism]] at [[Harvard]].
+when is the last time the giants won the world series?	8371	time --> news report url --> [u'http://www.time.com/time/magazine/article/0,9171,807400,00.html', u'http://cbs2chicago.com/topstories/local_story_045223206.html', u'http://www.time.com/time/asia/asia/magazine/1999/990823/india_pakistan1.html', u'http://www.time.com/time/magazine/article/0,9171,902933,00.html', u'http://www.time.com/time/magazine/article/0,9171,939307,00.html']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> webpage in index --> [u'Entertainment Weekly annotation index', u'WSJ Speakeasy Index', u'Blissful Celebrities', u'Blissful Master Index']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> quotation source quotations --> [u'""I thought we were coming for""', u'""I thought we were coming in..']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> news report event --> [u'Battle of Mogadishu', u'Lewinsky scandal', u'El Al Flight 402', u'United States Senate election in New York, 2000', u'Operation Janbaz']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> ranked list compiler ranked lists --> [u'Time magazine\'s ""All-TIME"" 100 best novels', u'Time 100', u'Time 100: The Most Important People of the Century', u'Time Magazine Ten Biggest Tech Failures of the Last Decade', u"Time Magazine's All-Time 100 Movies"]	128	The 2013, 2014 and 2015 issues of ''[[Time (magazine)|Time]]'' magazine featured Malala as one of [[Time 100|the most Influential people]] globally.
+when is the last time the giants won the world series?	8371	time --> employment tenure person --> [u'Sanjay Gupta', u'John Dickerson', u'Jake Winebaum', u'Jay Carney', u'Robert Hughes']	6	The anchors on the premiere telecast of ''20/20'' were renowned ''[[Esquire (magazine)|Esquire]]'' magazine editor [[Harold Hayes]], who also served as the program's senior producer, and famed ''[[Time (magazine)|Time]]'' art critic [[Robert Hughes (critic)|Robert Hughes]].
+when is the last time the giants won the world series?	8371	time --> dated integer number --> [u'3400000']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> periodical eissn --> [u'1767509']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> periodical language --> [u'English Language']	2	He was well known for his speeches in which he complained about the improper usages of the [[English language]], especially in the [[United States]] as can be seen in this [[Time (magazine)|Time Magazine]] article from 1957.
+when is the last time the giants won the world series?	8371	time --> magazine genre --> [u'News magazine']	1	On 10 September 2007, Indonesia's Supreme Court awarded Suharto [[damages]] against ''[[Time (magazine)|Time Asia]]'' [[News magazine|magazine]], ordering it to pay him one trillion [[Indonesian rupiah|rupiah]] ($128.59 million).
+when is the last time the giants won the world series?	8371	time --> object name --> [u'Time']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> employment tenure from --> [u'1969', u'1970', u'1978', u'1986', u'2005-09']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> editorial tenure title --> [u'Deputy Managing Editor']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> arabic language media source country --> [u'United Kingdom']	1	After receiving mixed initial reviews (and criticism due to its violent content), it went on to garner a high critical reputation and is now regarded among the [[Films considered the greatest ever|greatest films ever made]], including by [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'', [[Gene Siskel]] of the ''[[Chicago Tribune]]'', [[United Kingdom|British]] film historian [[Leslie Halliwell]], the [[American Film Institute]], ''[[Time (magazine)|Time]]'', ''[[The New York Times]]'', ''[[Variety (magazine)|Variety]]'', ''[[Entertainment Weekly]]'', ''[[Empire (magazine)|Empire]]'', ''[[Total Film]]'', ''[[Film 4]]'', and [[British Film Institute|BFI]]'s ''[[Sight and Sound]].''
+when is the last time the giants won the world series?	8371	time --> news report title --> [u'Capitol Hill', u'Through the Curtain', u'Why Pakistan Must Widen Its Hunt for Militant Bases', u'Anatomy of a Disaster', u"Can't Stop the Madness"]	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> news report date --> [u'1961-11-17', u'2000-11-20', u'2006-02-27', u'2009-10-13', u'1955-08-08']	0	EMPTY
+when is the last time the giants won the world series?	8371	giant --> character species characters of this species --> [u'Jolly Green Giant', u'Bran the Blessed']	0	EMPTY
+when is the last time the giants won the world series?	8371	giant --> similar mythical creature mythical creature --> [u'Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	giant --> object name --> [u'Giant']	0	EMPTY
+when is the last time the giants won the world series?	8371	giant --> topic image --> [u'""Jack the Giant-Killer"" by Arthur Rackham', u'Giants and Freia']	0	EMPTY
+when is the last time the giants won the world series?	8371	giant --> film subject films --> [u'Eegah', u'Village of the Giants', u'War of the Colossal Beast']	0	EMPTY
+when is the last time the giants won the world series?	8371	giant --> linguistic hint subject form --> [u'Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> webpage resource --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvViAw5wpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> taxonomy entry low --> [u'209']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> topic topical webpage --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> processed with review queue question id --> [u'/rabj/store/questions/question_b27d0d5a61642c39']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> equivalent topic equivalent domain --> [u'Time']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> taxonomy entry high --> [u'224']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> taxonomy entry taxonomy --> [u'Library of Congress Classification']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> webpage category --> [u'Topic Webpage']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> object name --> [u'Time']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> topic image --> [u'Wooden hourglass 3', u'A savonette-type pocket watch', u'C solarcorona2003']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> dimension instruments --> [u'Clock', u'Cuckoo clock', u'Water clock']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> dimension si base unit --> [u'Second']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> book subject musical compositions about this topic --> [u'Time']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> vocabulary equivalent topic equivalent concept --> [u'Time']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> dimension units --> [u'Month', u'petasecond', u'decisecond', u'Second', u'picosecond']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> webpage description --> [u'UBR\'s ""Clocks and Time FAQ: Origin of Hours and Minutes""']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> taxonomy entry prefix --> [u'QB']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> book subject works --> [u'Being in time', u'The Garden of Time', u'Prisoner of Time', u'Faster: The Acceleration of Just About Everything', u'De revolutionibus orbium coelestium']	0	EMPTY
+when is the last time the giants won the world series?	8371	time --> webpage uri --> [u'http://www.ubr.com/clocks/frequently-asked-questions-faq/clocks-and-time-faq-origin-of-hours-and-minutes.aspx']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position player --> [u'Ryan Vogelsong', u'Charlie Culberson', u'Randy Johnson', u'Gary Carter', u'Pat Misch']	10	Moreland's 428-foot, 8th-inning blast off [[San Francisco Giants]] pitcher [[Ryan Vogelsong]] was also the first pinch-hit home run hit into [[McCovey Cove]] by an opposing player of either league.
+when is the last time the giants won the world series?	8371	san francisco giants --> team training ground relationship from --> [u'1883', u'1911', u'1958', u'1960', u'2000']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> topic social media presence --> [u'http://plus.google.com/102839067733744236491']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> employment tenure title --> [u'Managing General Partner']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster to --> [u'2011', u'2012']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> topic alias --> [u'New York Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball team current manager --> [u'Bruce Bochy']	7	* [[Bruce Bochy]], [[San Francisco Giants|Giants]] and [[San Diego Padres|Padres]] [[baseball]] team [[Manager (baseball)|manager]] and past Padres catcher
+when is the last time the giants won the world series?	8371	san francisco giants --> employment tenure to --> [u'2008-10-01']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> rival rivals --> [u'Dodgers\u2013Giants rivalry']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> current coaching tenure coaching position --> [u'Bench Coach', u'Hitting Coach', u'First Base Coach', u'Bullpen Coach', u'Pitching Coach']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> team venue relationship to --> [u'1999']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team founded --> [u'1958']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster player --> [u'Ryan Vogelsong', u'Javier L\xf3pez', u'Barry Zito', u'Brandon Crawford', u'Hunter Pence']	52	In addition, there have been over 100 former Mohawks who have signed professional baseball contracts, including [[San Francisco Giants]] star [[Hunter Pence]] ([[Texas-Arlington]]) who played for the Mohawks in 2002, [[Luke Maile]] ([[University of Kentucky]]), [[Logan Darnell]] ([[University of Kentucky]]), [[Cord Phelps]] ([[Stanford]]), [[Brendan Harris]] ([[William and Mary]]), [[Glen Barker]] ([[Saint Rose College]]), [[Valentino Pascucci]] ([[University Of Oklahoma]]), [[Tim Christman]] ([[Siena College]]) and [[Chandler Shepherd]] ([[University of Kentucky]]).
+when is the last time the giants won the world series?	8371	san francisco giants --> daylife hero image id --> [u'05pX2JwbQ7f1t']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball team stats losses --> [u'55', u'59', u'60', u'61', u'62']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	86	|  || [[San Francisco Giants]] || [[Outfielder|OF]]
+when is the last time the giants won the world series?	8371	san francisco giants --> sports league participation league --> [u'National League', u'National League West', u'Major League Baseball']	423	The [[San Francisco Giants]] are a National League [[Major League Baseball]] team.
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical managerial position from --> [u'1993']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> processed with review queue question id --> [u'/rabj/store/questions/question_681c2a7c335fbd2e', u'/rabj/store/questions/question_83fb1e7841f4afc6']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> professional sports team owner s --> [u'Bill Neukom']	2	*[[Bill Neukom]], former [[American Bar Association]] president and managing partner of the [[San Francisco Giants]] 
+when is the last time the giants won the world series?	8371	san francisco giants --> webpage description --> [u'New York Times']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> webpage category --> [u'Topic Webpage', u'Official Website']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position number --> [u'6', u'7', u'8', u'9', u'13']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> team venue relationship from --> [u'1960']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> team training ground relationship facility --> [u'Polo Grounds IV', u'Candlestick Park', u'Hilltop Park', u'AT&T Park', u'Oakland Park, New Jersey']	130	The building that Bolles was most famous for was [[Candlestick Park]], former home of the [[San Francisco Giants]] baseball team.
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster from --> [u'1954', u'1990', u'1993', u'1995', u'1998']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster player --> [u'Ryan Vogelsong', u'Charlie Culberson', u'Randy Johnson', u'Gary Carter', u'Pat Misch']	10	Moreland's 428-foot, 8th-inning blast off [[San Francisco Giants]] pitcher [[Ryan Vogelsong]] was also the first pinch-hit home run hit into [[McCovey Cove]] by an opposing player of either league.
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position player --> [u'Ryan Vogelsong', u'Charlie Culberson', u'Randy Johnson', u'Gary Carter', u'Pat Misch']	10	Moreland's 428-foot, 8th-inning blast off [[San Francisco Giants]] pitcher [[Ryan Vogelsong]] was also the first pinch-hit home run hit into [[McCovey Cove]] by an opposing player of either league.
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	86	|  || [[San Francisco Giants]] || [[Outfielder|OF]]
+when is the last time the giants won the world series?	8371	san francisco giants --> team venue relationship venue --> [u'Candlestick Park']	73	The building that Bolles was most famous for was [[Candlestick Park]], former home of the [[San Francisco Giants]] baseball team.
+when is the last time the giants won the world series?	8371	san francisco giants --> topic official website --> [u'http://sanfrancisco.giants.mlb.com/NASApp/mlb/sf/homepage/sf_homepage.jsp']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team team mascot --> [u'Crazy Crab', u'Lou Seal']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical managerial position to --> [u'2002']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster number --> [u'2', u'10', u'12', u'14', u'17']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> ontology instance mapping ontology --> [u'OpenCyc']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> webpage resource --> [u"Ratings: 'Sunday Night Football' scores a weekly win for NBC", u'NFL flattens ratings competition', u'San Francisco Giants', u'New York Times']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster position --> [u'Catcher', u'Pitcher', u'Infielder', u'Outfielder']	86	|  || [[San Francisco Giants]] || [[Outfielder|OF]]
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team sport --> [u'Baseball']	7	*[[Baseball]]: [[Greg Maddux]] of the [[Chicago Cubs]] defeats the [[San Francisco Giants]], 8–4 for his 300th career [[pitcher|pitching]] victory.
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster number --> [u'2', u'10', u'12', u'13', u'14']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position from --> [u'1954', u'1990', u'1993', u'1995', u'2000']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball team stats wins --> [u'55', u'56', u'62', u'66', u'67']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster to --> [u'1954', u'1972', u'1990', u'1995', u'1996']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports league draft pick player --> [u'Craig Landis', u'Terry Mulholland', u'Royce Clayton', u'Johnnie LeMaster', u'Mike Remlinger']	7	On June 25, 2010, Jackson [[no-hitter|no-hit]] his former team, the Tampa Bay Rays, 1–0, at [[Tropicana Field]], becoming the first pitcher to no-hit a former team since [[Philadelphia Phillies|Philadelphia Phillie]] [[Terry Mulholland]] no-hit the [[San Francisco Giants]] in 1990.
+when is the last time the giants won the world series?	8371	san francisco giants --> sports league draft pick draft --> [u'1967 Major League Baseball Draft', u'1978 Major League Baseball Draft', u'1965 Major League Baseball Draft', u'1984 Major League Baseball Draft', u'1989 Major League Baseball Draft']	3	He was drafted by the [[San Francisco Giants]] in the 11th round of the [[1965 Major League Baseball Draft]], and played for the Giants from  to .
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster from --> [u'2005', u'2007', u'2008', u'2009', u'2010']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports league draft pick pick overall --> [u'2', u'3', u'4', u'6', u'7']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team season record wins --> [u'92']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> current coaching tenure baseball coach --> [u'Bill Hayes', u'Mark Gardener', u'Roberto Kelly', u'Tim Flannery', u'Dave Righetti']	3	*[[Tim Flannery (baseball)|Tim Flannery]] (born 1957), [[third base coach]] for the [[San Francisco Giants]]
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team arena stadium --> [u'Polo Grounds IV', u'Candlestick Park', u'Hilltop Park', u'AT&T Park', u'St. George Cricket Grounds']	130	The building that Bolles was most famous for was [[Candlestick Park]], former home of the [[San Francisco Giants]] baseball team.
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team previously known as --> [u'New York Giants', u'New York Gothams']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> webpage in index --> [u'Entertainment Weekly annotation index']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team colors --> [u'Orange', u'Black', u'Gold', u'Cream']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team championships --> [u'2010 World Series', u'2012 World Series']	38	* [[Brandon Belt]], [[San Francisco Giants]] [[first baseman]] and [[2012 World Series]] champion
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team season record losses --> [u'70']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster from --> [u'1954', u'1990', u'1993', u'1995', u'1998']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> webpage uri --> [u'http://topics.nytimes.com/top/news/sports/baseball/majorleague/sanfranciscogiants/index.html']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position from --> [u'1954', u'1990', u'1993', u'1995', u'2000']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> employment tenure person --> [u'Peter A. Magowan', u'Ron Schueler', u'Brian Sabean']	5	Current [[San Francisco Giants]] General Manager [[Brian Sabean]] was an assistant baseball coach at Saint Leo.
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical managerial position manager --> [u'Dusty Baker']	9	This happened in 2003, when [[Dusty Baker]] managed the National League team despite having moved from the National League champion [[San Francisco Giants]] to the [[Chicago Cubs]].
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster number --> [u'13', u'14', u'16', u'18', u'19']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> topic topical webpage --> [u'http://topics.nytimes.com/top/news/sports/baseball/majorleague/sanfranciscogiants/index.html']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster player --> [u'Ryan Vogelsong', u'Charlie Culberson', u'Randy Johnson', u'Gary Carter', u'Pat Misch']	10	Moreland's 428-foot, 8th-inning blast off [[San Francisco Giants]] pitcher [[Ryan Vogelsong]] was also the first pinch-hit home run hit into [[McCovey Cove]] by an opposing player of either league.
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team location --> [u'San Francisco']	21	*'''1958''': [[Brooklyn Dodgers]] moved to [[Los Angeles]] and became the [[Los Angeles Dodgers]]; [[New York Giants (NL)|New York Giants]] moved to [[San Francisco]] and became the [[San Francisco Giants]].
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball team stats season --> [u'2006 Major League Baseball season', u'2007 Major League Baseball season', u'1959 Major League Baseball Season', u'1973 Major League Baseball Season', u'1964 Major League Baseball Season']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball team division --> [u'National League West']	14	The Reds battled the Dodgers, [[Atlanta Braves]] and [[San Francisco Giants]] for first place in the [[National League West]] all through the 1969 season.
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position position --> [u'Shortstop', u'Catcher', u'Relief pitcher', u'Left fielder', u'Pitcher']	71	Two Black Bears were selected in the [[2013 Major League Baseball Draft]], both in the 27th round: [[Shortstop|SS]] Michael Fransoso by the [[Pittsburgh Pirates]] and [[Pitcher|P]] Michael Connolly by the [[San Francisco Giants]].
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position to --> [u'1972', u'1995', u'1996', u'2001', u'2007']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball historical roster position to --> [u'1972', u'1995', u'1996', u'2001', u'2007']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position player --> [u'Ryan Vogelsong', u'Javier L\xf3pez', u'Barry Zito', u'Brandon Crawford', u'Hunter Pence']	52	In addition, there have been over 100 former Mohawks who have signed professional baseball contracts, including [[San Francisco Giants]] star [[Hunter Pence]] ([[Texas-Arlington]]) who played for the Mohawks in 2002, [[Luke Maile]] ([[University of Kentucky]]), [[Logan Darnell]] ([[University of Kentucky]]), [[Cord Phelps]] ([[Stanford]]), [[Brendan Harris]] ([[William and Mary]]), [[Glen Barker]] ([[Saint Rose College]]), [[Valentino Pascucci]] ([[University Of Oklahoma]]), [[Tim Christman]] ([[Siena College]]) and [[Chandler Shepherd]] ([[University of Kentucky]]).
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team season record season --> [u'2010 Major League Baseball season']	1	It debuted during the [[2010 Major League Baseball season]] with [[Chris Rose]] as its host, becoming best known for the many appearances by [[San Francisco Giants]] [[Closer (baseball)|closer]] [[Brian Wilson (baseball)|Brian Wilson]], including the first on-camera showing of "The Machine".
+when is the last time the giants won the world series?	8371	san francisco giants --> sports league draft pick school --> [u'Mississippi State University', u'University of Nevada, Las Vegas', u'Louisiana State University', u'San Diego State University', u'University of Tennessee']	2	He played for the [[San Francisco Giants]] and [[Baltimore Orioles]] and went to [[Louisiana State University]].
+when is the last time the giants won the world series?	8371	san francisco giants --> object name --> [u'San Francisco Giants']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> ontology instance mapping uri --> [u'http://sw.opencyc.org/concept/Mx4rvVi6CpwpEbGdrcN5Y29ycA']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> employment tenure from --> [u'1993']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball team league --> [u'National League']	46	* [[Freddy Sanchez]] – MLB infielder for the [[San Francisco Giants]] and 2006 [[National League]] batting champion
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position position --> [u'Shortstop', u'Catcher', u'Relief pitcher', u'Left fielder', u'Pitcher']	71	Two Black Bears were selected in the [[2013 Major League Baseball Draft]], both in the 27th round: [[Shortstop|SS]] Michael Fransoso by the [[Pittsburgh Pirates]] and [[Pitcher|P]] Michael Connolly by the [[San Francisco Giants]].
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position player --> [u'Ryan Vogelsong', u'Javier L\xf3pez', u'Barry Zito', u'Brandon Crawford', u'Hunter Pence']	52	In addition, there have been over 100 former Mohawks who have signed professional baseball contracts, including [[San Francisco Giants]] star [[Hunter Pence]] ([[Texas-Arlington]]) who played for the Mohawks in 2002, [[Luke Maile]] ([[University of Kentucky]]), [[Logan Darnell]] ([[University of Kentucky]]), [[Cord Phelps]] ([[Stanford]]), [[Brendan Harris]] ([[William and Mary]]), [[Glen Barker]] ([[Saint Rose College]]), [[Valentino Pascucci]] ([[University Of Oklahoma]]), [[Tim Christman]] ([[Siena College]]) and [[Chandler Shepherd]] ([[University of Kentucky]]).
+when is the last time the giants won the world series?	8371	san francisco giants --> baseball roster position number --> [u'6', u'7', u'8', u'9', u'13']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> team training ground relationship to --> [u'1888', u'1911', u'1957', u'1959', u'1999']	0	EMPTY
+when is the last time the giants won the world series?	8371	san francisco giants --> sports team roster to --> [u'1954', u'1972', u'1990', u'1995', u'1996']	0	EMPTY

@@ -1,26 +1,26 @@
-where does tim cook work?	28	timothy d. cook --> leadership title --> [u'CEO']	0
-where does tim cook work?	28	timothy d. cook --> person date of birth --> [u'1960-11-01']	0
-where does tim cook work?	28	timothy d. cook --> employment tenure title --> [u'Chief Operating Officer', u'Chief Executive Officer', u'Acting CEO', u'Director of North American Fulfillment', u'COO of Reseller Division']	1
-where does tim cook work?	28	timothy d. cook --> person profession --> [u'Businessperson']	0
-where does tim cook work?	28	timothy d. cook --> leadership organization --> [u'Apple Store', u'Apple Inc.']	13
-where does tim cook work?	28	timothy d. cook --> person gender --> [u'Male']	0
-where does tim cook work?	28	timothy d. cook --> employment tenure from --> [u'1998-03', u'2007-01', u'2011-01', u'2011-08-24']	0
-where does tim cook work?	28	timothy d. cook --> person nationality --> [u'United States of America']	0
-where does tim cook work?	28	timothy d. cook --> education major field of study --> [u'Industrial engineering']	0
-where does tim cook work?	28	timothy d. cook --> employment tenure company --> [u'IBM', u'Compaq', u'Apple Inc.', u'Intelligent Electronics']	13
-where does tim cook work?	28	timothy d. cook --> leadership role --> [u'Chief Executive Officer']	1
-where does tim cook work?	28	timothy d. cook --> education end date --> [u'1982', u'1988']	0
-where does tim cook work?	28	timothy d. cook --> webpage category --> [u'Topic Webpage']	0
-where does tim cook work?	28	timothy d. cook --> leadership from --> [u'2011-08', u'2011-08-24']	0
-where does tim cook work?	28	timothy d. cook --> topic official website --> [u'http://www.apple.com/pr/bios/tim-cook.html']	0
-where does tim cook work?	28	timothy d. cook --> webpage description --> [u'Apple- Timothy D. Cook']	0
-where does tim cook work?	28	timothy d. cook --> webpage resource --> [u'Apple- Timothy D. Cook']	0
-where does tim cook work?	28	timothy d. cook --> valuenotation has value --> [u'Parents']	0
-where does tim cook work?	28	timothy d. cook --> person place of birth --> [u'Robertsdale']	0
-where does tim cook work?	28	timothy d. cook --> education institution --> [u'Auburn University', u'Duke University', u'Fuqua School of Business', u'Robertsdale High School']	0
-where does tim cook work?	28	timothy d. cook --> topic alias --> [u'Timothy Cook', u'Tim Cook', u'Timothy Donald Cook']	0
-where does tim cook work?	28	timothy d. cook --> webpage uri --> [u'http://www.apple.com/pr/bios/cook.html']	0
-where does tim cook work?	28	timothy d. cook --> education degree --> [u'Bachelor of Science', u'MBA']	0
-where does tim cook work?	28	timothy d. cook --> object name --> [u'Timothy D. Cook']	0
-where does tim cook work?	28	timothy d. cook --> topic image --> [u'Tim Cook 2009 cropped']	0
-where does tim cook work?	28	timothy d. cook --> person height meters --> [u'1.9']	0
+where does tim cook work?	28	timothy d. cook --> leadership title --> [u'CEO']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> person date of birth --> [u'1960-11-01']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> employment tenure title --> [u'Chief Operating Officer', u'Chief Executive Officer', u'Acting CEO', u'Director of North American Fulfillment', u'COO of Reseller Division']	1	* [[Tim Cook]] ([[Chief executive officer|CEO]])
+where does tim cook work?	28	timothy d. cook --> person profession --> [u'Businessperson']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> leadership organization --> [u'Apple Store', u'Apple Inc.']	13	*[[1960]] &ndash; [[Tim Cook]], American businessman and engineer, current CEO of [[Apple Inc.]]
+where does tim cook work?	28	timothy d. cook --> person gender --> [u'Male']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> employment tenure from --> [u'1998-03', u'2007-01', u'2011-01', u'2011-08-24']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> person nationality --> [u'United States of America']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> education major field of study --> [u'Industrial engineering']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> employment tenure company --> [u'IBM', u'Compaq', u'Apple Inc.', u'Intelligent Electronics']	13	*[[1960]] &ndash; [[Tim Cook]], American businessman and engineer, current CEO of [[Apple Inc.]]
+where does tim cook work?	28	timothy d. cook --> leadership role --> [u'Chief Executive Officer']	1	* [[Tim Cook]] ([[Chief executive officer|CEO]])
+where does tim cook work?	28	timothy d. cook --> education end date --> [u'1982', u'1988']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> webpage category --> [u'Topic Webpage']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> leadership from --> [u'2011-08', u'2011-08-24']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> topic official website --> [u'http://www.apple.com/pr/bios/tim-cook.html']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> webpage description --> [u'Apple- Timothy D. Cook']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> webpage resource --> [u'Apple- Timothy D. Cook']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> valuenotation has value --> [u'Parents']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> person place of birth --> [u'Robertsdale']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> education institution --> [u'Auburn University', u'Duke University', u'Fuqua School of Business', u'Robertsdale High School']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> topic alias --> [u'Timothy Cook', u'Tim Cook', u'Timothy Donald Cook']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> webpage uri --> [u'http://www.apple.com/pr/bios/cook.html']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> education degree --> [u'Bachelor of Science', u'MBA']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> object name --> [u'Timothy D. Cook']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> topic image --> [u'Tim Cook 2009 cropped']	0	EMPTY
+where does tim cook work?	28	timothy d. cook --> person height meters --> [u'1.9']	0	EMPTY
