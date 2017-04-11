@@ -134,6 +134,8 @@ class FactCandidate(object):
         self.f1 = computeF1(self.answers, self.objects)[2]
 
         self.support = response["support"]
+
+        """
         self.top_sentence_with_question = []
         self.top_sentence_with_question_trigram = []
         self.top_sentence_with_candidate = []
@@ -171,6 +173,7 @@ class FactCandidate(object):
         self.max_question_trigram_overlap = max_question_trigram_overlap
         self.max_candidate_overlap = max_candidate_overlap
         self.max_candidate_trigram_overlap = max_candidate_trigram_overlap
+        """
 
         """
         if (len(self.support) == 0):
@@ -296,7 +299,8 @@ class FactCandidate(object):
         self.add_feature(len(self.support))
 
         # term overlap with question
-        self.add_feature(self.max_question_overlap)
+        # self.add_feature(self.max_question_overlap)
+        self.add_feature(0)
 
         # term overlap with candidate
         # self.add_feature(self.max_candidate_overlap)
@@ -805,6 +809,8 @@ class Ranker(object):
                 # add model features for all candidates
                 # lstm_predictions = lstm_model.predict(candidates, 28).flatten()
                 # trigram_predictions = trigram_model.predict(candidates, 203).flatten()
+
+                """
                 pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
                 pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
                 jointpairwise_predictions = jointpairwise.predict(
@@ -831,6 +837,8 @@ class Ranker(object):
                     'query_trigram',
                     'relation_trigram'
                 ).flatten()
+                """
+
                 """
                 question_joint_predictions = jointpairwise.predict(
                     candidates,
@@ -860,6 +868,15 @@ class Ranker(object):
 
                 for idx in xrange(len(candidates)):
                     candidate = candidates[idx]
+                    candidate.add_feature(0)
+                    candidate.add_feature(0)
+                    candidate.add_feature(0)
+                    candidate.add_feature(0)
+                    candidate.add_feature(0)
+                    candidate.add_feature(0)
+                    candidate.add_feature(0)
+
+                    """
                     candidate.add_feature(jointpairwise_predictions[idx])
                     candidate.add_feature(jointpairwise_trigram_predictions[idx])
                     candidate.add_feature(embedding_predictions[idx])
@@ -867,6 +884,7 @@ class Ranker(object):
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
                     candidate.add_feature(0)
+                    """
                     #candidate.add_feature(candidate.support_sentence_score(jointpairwise))
                     #candidate.add_feature(candidate.top_sentence_score(embedding))
                     #candidate.add_feature(question_joint_predictions[idx])
@@ -874,6 +892,7 @@ class Ranker(object):
                     #candidate.add_feature(question_embedding_predictions[idx])
                     #candidate.add_feature(question_embedding_trigram_predictions[idx])
 
+                """
                 support_stats_file = "/home/hongyul/AMA/support_sentence_stat/" + dataset + "/" + str(query.id)
                 codecsWriteFile(support_stats_file, "")
                 for candidate in candidates:
@@ -883,6 +902,7 @@ class Ranker(object):
                         str(len(candidate.support)),
                         candidate.top_sentence]
                     codecsWriteFile(support_stats_file, "\t".join(stats) + "\n", 'a')
+                """
 
                 self.nomalize_features(candidates)
                 for candidate in candidates:
