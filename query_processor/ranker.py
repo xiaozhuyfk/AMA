@@ -135,9 +135,9 @@ class FactCandidate(object):
 
         self.support = response["support"]
         self.top_sentence_with_question = []
-        self.top_sentence_with_question_trigram = []        
+        self.top_sentence_with_question_trigram = []
         self.top_sentence_with_candidate = []
-        self.top_sentence_with_candidate_trigram = []        
+        self.top_sentence_with_candidate_trigram = []
         question_set = set(self.query_tokens)
         question_trigram_set = set(self.query_trigram)
         candidate_set = set(self.subject_tokens + self.relation_tokens)
@@ -746,6 +746,7 @@ class Ranker(object):
         zero_file = "/home/hongyul/AMA/test_result/result_0.txt"
         entity_diff_file = "/home/hongyul/AMA/test_result/result_entity_diff.txt"
         relation_diff_file = "/home/hongyul/AMA/test_result/result_relation_diff.txt"
+        support_count_file = "/home/hongyul/AMA/test_result/support_count_file.txt"
         codecsWriteFile(support_file, "")
         codecsWriteFile(not_found_file, "")
         codecsWriteFile(same_file, "")
@@ -755,6 +756,7 @@ class Ranker(object):
         codecsWriteFile(zero_file, "")
         codecsWriteFile(entity_diff_file, "")
         codecsWriteFile(relation_diff_file, "")
+        codecsWriteFile(support_count_file, "")
 
         cover = 0
         num_top2 = 0
@@ -798,6 +800,7 @@ class Ranker(object):
                         candidates.append(fact_candidate)
                         support_count += len(fact_candidate.support)
                         total_support += len(fact_candidate.support)
+                        codecsWriteFile(support_count_file, str(len(fact_candidate.support)) + "\n", 'a')
 
                 # add model features for all candidates
                 # lstm_predictions = lstm_model.predict(candidates, 28).flatten()
@@ -863,8 +866,9 @@ class Ranker(object):
                     candidate.add_feature(embedding_trigram_predictions[idx])
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
+                    candidate.add_feature(0)
                     #candidate.add_feature(candidate.support_sentence_score(jointpairwise))
-                    candidate.add_feature(candidate.top_sentence_score(embedding))
+                    #candidate.add_feature(candidate.top_sentence_score(embedding))
                     #candidate.add_feature(question_joint_predictions[idx])
                     #candidate.add_feature(question_joint_trigram_predictions[idx])
                     #candidate.add_feature(question_embedding_predictions[idx])
