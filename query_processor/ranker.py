@@ -296,11 +296,11 @@ class FactCandidate(object):
         self.add_feature(float(self.score))
 
         # Add wiki popularity
-        self.add_feature(len(self.support))
+        #self.add_feature(len(self.support))
 
         # term overlap with question
         # self.add_feature(self.max_question_overlap)
-        self.add_feature(0)
+        #self.add_feature(0)
 
         # term overlap with candidate
         # self.add_feature(self.max_candidate_overlap)
@@ -694,7 +694,7 @@ class Ranker(object):
                 candidate.add_feature(pairwise_predictions[idx])
                 candidate.add_feature(pairwise_trigram_predictions[idx])
                 #candidate.add_feature(candidate.support_sentence_score(jointpairwise))
-                candidate.add_feature(candidate.top_sentence_score(embedding))
+                #candidate.add_feature(candidate.top_sentence_score(embedding))
                 #candidate.add_feature(question_joint_predictions[idx])
                 #candidate.add_feature(question_joint_trigram_predictions[idx])
                 #candidate.add_feature(question_embedding_predictions[idx])
@@ -810,7 +810,6 @@ class Ranker(object):
                 # lstm_predictions = lstm_model.predict(candidates, 28).flatten()
                 # trigram_predictions = trigram_model.predict(candidates, 203).flatten()
 
-                """
                 pairwise_predictions = pairwise_model.predict(candidates, 28).flatten()
                 pairwise_trigram_predictions = pairwise_trigram.predict(candidates, 203).flatten()
                 jointpairwise_predictions = jointpairwise.predict(
@@ -837,7 +836,6 @@ class Ranker(object):
                     'query_trigram',
                     'relation_trigram'
                 ).flatten()
-                """
 
                 """
                 question_joint_predictions = jointpairwise.predict(
@@ -868,23 +866,13 @@ class Ranker(object):
 
                 for idx in xrange(len(candidates)):
                     candidate = candidates[idx]
-                    candidate.add_feature(0)
-                    candidate.add_feature(0)
-                    candidate.add_feature(0)
-                    candidate.add_feature(0)
-                    candidate.add_feature(0)
-                    candidate.add_feature(0)
-                    candidate.add_feature(0)
-
-                    """
                     candidate.add_feature(jointpairwise_predictions[idx])
                     candidate.add_feature(jointpairwise_trigram_predictions[idx])
                     candidate.add_feature(embedding_predictions[idx])
                     candidate.add_feature(embedding_trigram_predictions[idx])
                     candidate.add_feature(pairwise_predictions[idx])
                     candidate.add_feature(pairwise_trigram_predictions[idx])
-                    candidate.add_feature(0)
-                    """
+
                     #candidate.add_feature(candidate.support_sentence_score(jointpairwise))
                     #candidate.add_feature(candidate.top_sentence_score(embedding))
                     #candidate.add_feature(question_joint_predictions[idx])
